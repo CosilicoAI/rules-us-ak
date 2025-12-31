@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-05"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-05"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.05"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-05/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-05/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_05">
+          <num>05</num>
+          <heading>Jurisdiction</heading>
+          <section eId="sec_12-05-010">
+            <num>12.05.010</num>
+            <heading>Crime commenced outside state but consummated inside.</heading>
+            <content>
+              <p>Sec. 12.05.010.   Crime commenced outside state but consummated inside.
+When the commission of a crime commenced outside the state is consummated inside the state, the defendant is liable to punishment in this state even though out of the state at the time of the commission of the crime charged, if the defendant consummated the crime through the intervention of an innocent or guilty agent, or by other means proceeding directly from the defendant.</p>
+            </content>
+          </section>
+          <section eId="sec_12-05-020">
+            <num>12.05.020</num>
+            <heading>Offenses committed on aircraft or ferries and other watercraft owned or operated by the state.</heading>
+            <content>
+              <p>Sec. 12.05.020.   Offenses committed on aircraft or ferries and other watercraft owned or operated by the state.
+A person may be prosecuted under the laws of this state for an offense committed on or against an aircraft owned or operated by the state or a ferry or other watercraft owned or operated by the state, even if the aircraft, ferry, or watercraft is in airspace or water outside the state when the offense is alleged to have occurred. This jurisdiction is in addition to that provided by
+AS 44.03
+and any other jurisdictional basis expressed or implied in law.</p>
+            </content>
+          </section>
+          <section eId="sec_12-05-030">
+            <num>12.05.030</num>
+            <heading>Crimes involving minors committed outside state.</heading>
+            <content>
+              <p>Sec. 12.05.030.   Crimes involving minors committed outside state.
+In addition to any other jurisdictional basis expressed or implied in law, a person may be prosecuted under the laws of this state for conduct occurring outside the state for a violation of
+(1)
+AS 11.41.452
+if the other person with whom the defendant communicated was in the state; or
+(2)
+AS 11.61.116
+if the minor whose image is published or distributed was in the state.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-37/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-37/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="37.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-37/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-37/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-37/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-37/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_37">
+        <num>37</num>
+        <heading>Public Finance</heading>
+        <chapter eId="title_37__chp_20">
+          <num>20</num>
+          <heading>Acceptance of Federal Funds</heading>
+          <section eId="sec_37-20-010">
+            <num>37.20.010</num>
+            <heading>Acceptance of federal grants and transfers of property.</heading>
+            <content>
+              <p>Sec. 37.20.010.   Acceptance of federal grants and transfers of property.
+The governor is authorized to accept on behalf of the state all federal grants and transfers of property of an emergency, transitional, or omnibus nature upon conditions imposed by the federal government.</p>
+            </content>
+          </section>
+          <section eId="sec_37-20-030">
+            <num>37.20.030</num>
+            <heading>Jurisdiction of accepted property.</heading>
+            <subsection eId="37-20-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All chattels accepted under the provisions of
+AS 37.20.010
+are subject to the jurisdiction of the Department of Administration for distribution to the appropriate department.</p>
+              </content>
+            </subsection>
+            <subsection eId="37-20-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All land accepted under the provisions of
+AS 37.20.010
+is subject to the jurisdiction of the Department of Natural Resources.</p>
+              </content>
+            </subsection>
+            <subsection eId="37-20-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>All public buildings accepted under the provisions of
+AS 37.20.010
+are subject to the jurisdiction of the Department of Transportation and Public Facilities.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

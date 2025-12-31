@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-60"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-60"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.60"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-60/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-60/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-60/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-60/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_60">
+          <num>60</num>
+          <heading>Property Insurance Contracts</heading>
+          <section eId="sec_21-60-010">
+            <num>21.60.010</num>
+            <heading>Over-insurance prohibited.</heading>
+            <subsection eId="21-60-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Over-insurance shall be considered to exist if property or an insurable interest in property is insured by one or more insurance contracts against the same hazard in an amount in excess of the fair value of the property or of the interest, as determined on the effective date of the insurance or the renewal of it.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-60-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not knowingly issue, place, procure, or accept an insurance contract that would result in over-insurance of the property or interest in the property proposed to be insured, except as provided in
+AS 21.60.020
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-60-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Each violation of this section shall subject the violator to the penalties provided in
+AS 21.97.020
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-60-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section the term fair value means the cost of replacement less depreciation that is properly applicable to the subject insured.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-60-020">
+            <num>21.60.020</num>
+            <heading>Replacement insurance.</heading>
+            <content>
+              <p>Sec. 21.60.020.   Replacement insurance.
+By a contract of insurance of property or of any insurable interest in the property, the insurer may in connection with a special provision or endorsement made a part of the policy insure the cost of repair or replacement of the property, if damaged or destroyed by a hazard insured against, and without deduction of depreciation, subject to reasonable regulations that may be adopted by the director.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

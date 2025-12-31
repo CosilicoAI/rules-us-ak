@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-09"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-09"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="38.09"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-09/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-09/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-09/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-09/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_38">
+        <num>38</num>
+        <heading>Public Land</heading>
+        <chapter eId="title_38__chp_09">
+          <num>09</num>
+          <heading>Homestead Act</heading>
+          <section eId="sec_38-09-010">
+            <num>38.09.010</num>
+            <heading>Designation of land for homestead entry.</heading>
+            <subsection eId="38-09-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner shall designate and make available for homestead entry state land, including, after consulting with the Board of Agriculture and Conservation (
+AS 03.09.010
+), land classified for agricultural use. State land made available for homestead entry under this chapter shall be distributed throughout the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall complete a rectangular survey grid of homestead entry state land under
+AS 38.04.045
+before disposing of state land for homestead entry. A homestead entry parcel shall be established in aliquot parts of a surveyed section or as lots or tracts that are fractions of aliquot parts of a surveyed section. The commissioner shall ensure practical access to each homestead entry parcel but the commissioner may waive the rectangular survey grid if no more than one conveyance is made for each section within a township.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notice of the designation and offering of land for homestead entry shall be given by the commissioner under
+AS 38.05.945
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Land designated for homestead entry is not subject to a preference right under
+AS 38.05
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The commissioner shall prescribe a homestead entry procedure for each area designated under (a) of this section. The homestead entry procedure shall establish</p>
+              </content>
+              <paragraph eId="38-09-010__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the minimum distance between homestead entries in the area;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-010__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the dimensions, configuration, orientation, or other design requirements for a homestead entry in the area;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-010__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a description of land within the area that may not be included in a homestead entry;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-010__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a requirement that a landmark, monument, or other point be used as a point of reference for the measurement of distances within an area;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-010__subsec_e__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a specification of the type of stakes to be used to mark the corners of a homestead entry;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-010__subsec_e__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the time within which a homestead entry must be staked.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="38-09-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The commissioner shall establish the maximum size of a homestead entry that may be selected in each area designated under (a) of this section except that the commissioner may not permit an entry on more than</p>
+              </content>
+              <paragraph eId="38-09-010__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>160 acres of land classified for agricultural use; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-010__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>40 acres of land not classified for agricultural use.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="38-09-010__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The commissioner may limit the number of persons permitted to obtain homestead entries within an area designated under (a) of this section by a lottery of qualified applicants.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-09-020">
+            <num>38.09.020</num>
+            <heading>Homestead entry permits.</heading>
+            <subsection eId="38-09-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A homestead entry permit entitles an applicant to enter land within an area designated under
+AS 38.09.010
+and to survey, occupy, and improve the land in order to qualify for a patent under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant for a homestead entry permit shall personally stake the corners and flag the boundaries of the land entered under this chapter and shall personally file with the commissioner a description of the land entered. A homestead entry shall be described by aliquot parts unless otherwise permitted by the commissioner. The commissioner may require the applicant to establish a deposit for the costs of survey before issuing the homestead entry permit.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-09-030">
+            <num>38.09.030</num>
+            <heading>Qualification for homestead entry.</heading>
+            <subsection eId="38-09-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An applicant for a homestead entry permit shall</p>
+              </content>
+              <paragraph eId="38-09-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>submit proof acceptable to the commissioner that the applicant is at least 18 years of age and has been a resident of the state for not less than one year immediately before the date of application;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>pay a fee of $5 per acre according to the description provided by the applicant if the entry is on land classified agricultural, or $10 per acre if the entry is on land not classified agricultural;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>agree to comply with the requirements of
+AS 38.09.050
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>certify that the corners of the land entered have been staked and the boundaries have been flagged;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>assume full responsibility for the accuracy of the description of the land filed with the commissioner under
+AS 38.09.020</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="38-09-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in (c) of this section, an applicant may not hold more than one homestead entry permit at one time and may not receive a patent to more than one homestead entry in a lifetime.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The homestead entry permit may not be assigned, conveyed, or in any manner transferred except</p>
+              </content>
+              <paragraph eId="38-09-030__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>by testate or intestate succession;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-030__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to a spouse during marriage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-030__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>by order of a court as part of a divorce settlement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-030__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to either a member of the immediate family or a grantee of the applicant in the case of an extreme emergency or illness which disables the applicant; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-030__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>after the approval of the commissioner, by an exchange between parties in the same homestead area.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_38-09-040">
+            <num>38.09.040</num>
+            <heading>Revocation of entry permits.</heading>
+            <subsection eId="38-09-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A homestead entry permit may be revoked by the commissioner for a substantial breach of the permit conditions or the requirements of this chapter, including</p>
+              </content>
+              <paragraph eId="38-09-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an assignment, conveyance, or transfer of the permit not authorized under
+AS 38.09.030</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>failure of the permit holder to submit an aliquot parts description of the homestead entry or, a plat of survey where the commissioner waived the requirement of a rectangular survey grid to the commissioner within five years after the issuance of the permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>[Repealed, § 38 ch 91 SLA 1997.]</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-040__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>failure to brush the boundaries of the land not described by aliquot parts or as a lot of record within 90 days after issuance of the homestead entry permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-040__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>failure to clear and either put into production or prepare for cultivation either 25 percent of the land classified for agricultural use or 50 percent of the cropland soils, whichever is less, within five years after the issuance of the permit.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="38-09-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 20 ch 75 SLA 1987.]</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a homestead entry permit is revoked under (a) of this section, improvements or personal property upon the land shall be managed under
+AS 38.05.090
+and the state land remains available for homestead entry under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-09-050">
+            <num>38.09.050</num>
+            <heading>Issuance of patent.</heading>
+            <subsection eId="38-09-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner shall issue a patent to homestead entry land if the permit holder</p>
+              </content>
+              <paragraph eId="38-09-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>resides and lives on the homestead entry land for not less than 25 months within five years after the issuance of the homestead entry permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>submits an aliquot parts description or completes an approved survey of the land in an area where the commissioner waives the rectangular survey grid within five years after the issuance of the permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-050__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>[Repealed, § 38 ch 91 SLA 1997.]</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-050__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>brushes the boundaries of the land not described by aliquot parts or as a lot of record within 90 days after the issuance of the permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-050__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>clears and either puts into production or prepares for cultivation either 25 percent of the land classified for agricultural use or 50 percent of the cropland soils, whichever is less, within five years after issuance of the permit.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="38-09-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this chapter prohibits a homestead entry permit holder from residing in a temporary dwelling on the homestead.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner may reserve or exclude from a patent easements or rights-of-way for roads, trails, trap lines, public access ways, utility corridors, and transportation facilities.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 38 ch 91 SLA 1997.]</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 38 ch 91 SLA 1997.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-09-060">
+            <num>38.09.060</num>
+            <heading>Marking boundaries.</heading>
+            <content>
+              <p>Sec. 38.09.060.   Marking boundaries.
+If it is impractical to brush the boundaries of a homestead entry, an applicant shall flag the boundaries.</p>
+            </content>
+          </section>
+          <section eId="sec_38-09-070">
+            <num>38.09.070</num>
+            <heading>Priority of applications.</heading>
+            <content>
+              <p>Sec. 38.09.070.   Priority of applications.
+The commissioner shall issue a homestead entry permit to the first applicant for land to comply with
+AS 38.09.020
+(b).</p>
+            </content>
+          </section>
+          <section eId="sec_38-09-080">
+            <num>38.09.080</num>
+            <heading>Land within municipalities.</heading>
+            <subsection eId="38-09-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a municipality has filed a selection of state land under
+AS 29.65
+or former
+AS 29.18.201
+  29.18.213 with the commissioner, the state land selected may not be designated for homestead entry; if the commissioner determines that land selected by a municipality is not available for patent to the municipality under
+AS 29.65
+or former
+AS 29.18.201
+ 29.18.213, the state land is available for designation by the commissioner for homestead entry under
+AS 38.09.010
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The disposal of homestead entry land is subject to local platting, recording, or subdivision requirements established under
+AS 29.35.180
+and
+AS 40.15
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-09-090">
+            <num>38.09.090</num>
+            <heading>Purchase.</heading>
+            <subsection eId="38-09-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If an applicant complies with the requirements of
+AS 38.09.050
+(a)(2), (4), and (5) and pays to the commissioner an amount equal to five percent of the fair market value within two years of the issuance of an entry permit, an applicant may purchase the land under
+AS 38.05.065
+. The purchase price is the fair market value of the land at the issuance of the entry permit as determined by the commissioner.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant who complies with
+AS 38.09.050
+(a)(2), (4), and (5), and who tenders the commissioner an amount equal to five percent of the present fair market value of the land within five years of the issuance of the permit may purchase the land under
+AS 38.05.065
+. The purchase price is the fair market value of the land at the time of the purchase.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-09-100">
+            <num>38.09.100</num>
+            <heading>Lessees of remote parcels.</heading>
+            <subsection eId="38-09-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A lessee of a remote parcel under former
+AS 38.05.077
+may elect to obtain title to the remote parcel under
+AS 38.09.050
+.  If a lessee of a remote parcel elects to obtain title under
+AS 38.09.050
+, July 28, 1983, shall be considered the date of the issuance of the homestead entry permit.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in (a) of this section, nothing in this chapter affects the rights and obligations of lessees of remote parcels under former
+AS 38.05.077
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding the provisions of former
+AS 38.05.077
+and 38.05.078, the heirs or devisees of a deceased lessee of a remote parcel may sell their interest in the lease of the remote parcel. The sellers shall notify the commissioner of the sale.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-09-105">
+            <num>38.09.105</num>
+            <heading>Removal of conditions on remote parcel and homestead entry land.</heading>
+            <subsection eId="38-09-105__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner may not include the conditions of former
+AS 38.05.078</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-105__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>in a remote parcel purchase contract issued on or after July 1, 1997.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-105__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall amend a remote parcel or homestead entry land purchase contract or patent issued before July 1, 1997 to remove the conditions of former
+AS 38.05.078</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-105__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>or former
+AS 38.09.050</p>
+              </content>
+            </subsection>
+            <subsection eId="38-09-105__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>if the holder of the purchase contract or patent</p>
+              </content>
+              <paragraph eId="38-09-105__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>requests the amendment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-105__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>pays the reasonable administrative costs of the amendment as determined by the commissioner; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="38-09-105__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>pays the difference, as established by the commissioner, between the land's fair market value before the amendment and the estimated fair market value after the amendment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_38-09-110">
+            <num>38.09.110</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 38.09.110.   Regulations.
+The commissioner shall adopt regulations to implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_38-09-900">
+            <num>38.09.900</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 38.09.900.   Definitions.
+In this chapter,
+(1) brush means to clear a swath along the boundary lines of a homestead entry so that the boundary lines may be identified from the ground;
+(2) commissioner means the commissioner of natural resources;
+(3) resident means an individual who has resided in the state for one year, is a U.S. citizen and does not claim residence in another state, and shows by all attending circumstances an intent to make this state the individual's permanent residence.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

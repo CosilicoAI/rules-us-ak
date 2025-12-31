@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-50"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-50"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="15.50"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-50/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-50/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_15">
+        <num>15</num>
+        <heading>Elections</heading>
+        <chapter eId="title_15__chp_50">
+          <num>50</num>
+          <heading>Constitutional Amendments and Conventions</heading>
+          <section eId="sec_15-50-010">
+            <num>15.50.010</num>
+            <heading>Preparation of proposition for constitutional amendment.</heading>
+            <subsection eId="15-50-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The lieutenant governor shall prepare a proposed ballot title and proposition for each amendment to the Constitution of the State of Alaska proposed by the legislature or by a constitutional convention.  Each amendment shall be confined to one subject. Within 30 days of the date of adjournment of a legislative session or of the date of adjournment of a constitutional convention, the lieutenant governor shall provide one copy of the proposed ballot title and proposition for each amendment to each member of the legislature and shall make copies available to the public.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-50-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The proposition prepared under (a) of this section shall comply with
+AS 15.80.005
+and shall be worded so that a Yes vote on the proposition is a vote to adopt the proposed constitutional amendment.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-50-020">
+            <num>15.50.020</num>
+            <heading>Description of ballot title and proposition.</heading>
+            <content>
+              <p>Sec. 15.50.020.   Description of ballot title and proposition.
+The ballot title shall, in not more than six words, indicate the general subject of the act.  The proposition shall, in not more than 100 words, give a true and impartial summary of the amendment proposed.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-025">
+            <num>15.50.025</num>
+            <heading>Objection to proposed ballot title and proposition.</heading>
+            <content>
+              <p>Sec. 15.50.025.   Objection to proposed ballot title and proposition.
+A qualified voter, or the Legislature of the State of Alaska acting directly or through the legislative council, who believes that the proposed ballot title and proposition prepared by the lieutenant governor under
+AS 15.50.010
+does not provide a true and impartial summary of the amendment proposed may, within 15 days of the date of mailing of the proposed ballot title and proposition to the members of the legislature, submit to the lieutenant governor a statement of objection to the proposed ballot title and proposition, giving the reasons for objection, and suggesting alternative language revising the wording of the title or proposition.  The lieutenant governor shall consider any objection received before directing that the ballot containing the proposition be prepared by the director.  Not more than 10 days after the deadline for receipt of objections, the lieutenant governor shall advise any person who submitted a statement of objection to the proposed ballot title and proposition of the lieutenant governor's final decision.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-027">
+            <num>15.50.027</num>
+            <heading>Judicial review.</heading>
+            <content>
+              <p>Sec. 15.50.027.   Judicial review.
+A qualified voter, or the Legislature of the State of Alaska acting directly or through the legislative council, who has filed with the lieutenant governor a statement of objection to a proposed ballot title and proposition as provided in
+AS 15.50.025
+and who believes that the ballot title and proposition as finally prepared does not provide a true and impartial summary of the amendment proposed may bring an action in the superior court to have the determination reviewed. An action shall be commenced within 45 days of the date of mailing of the proposed ballot title and proposition to members of the legislature as provided in
+AS 15.50.010
+.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-030">
+            <num>15.50.030</num>
+            <heading>Placing proposition on ballot.</heading>
+            <content>
+              <p>Sec. 15.50.030.   Placing proposition on ballot.
+The lieutenant governor shall direct the director to place the ballot title and proposition on the ballot for the next statewide general election held after the amendment proposed by the legislature or held 120 days after the amendment proposed by a constitutional convention.  If there is insufficient time to permit the proposition to be placed on the regular ballot by the director, the lieutenant governor shall direct the director to prepare a separate ballot for the proposition.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-040">
+            <num>15.50.040</num>
+            <heading>Display of resolution.</heading>
+            <content>
+              <p>Sec. 15.50.040.   Display of resolution.
+The director shall provide each election board with one copy of the resolution proposing the constitutional amendment by the legislature or by the convention, and the election board shall display the copy of the resolution in a conspicuous place in the room where the election is held.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-050">
+            <num>15.50.050</num>
+            <heading>Certification of vote.</heading>
+            <content>
+              <p>Sec. 15.50.050.   Certification of vote.
+If a majority of the votes cast on the proposition favor the amendment, the constitutional amendment is adopted, and the lieutenant governor shall so certify.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-060">
+            <num>15.50.060</num>
+            <heading>Effective date.</heading>
+            <content>
+              <p>Sec. 15.50.060.   Effective date.
+Unless otherwise provided in the amendment, it becomes effective 30 days after certification.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-070">
+            <num>15.50.070</num>
+            <heading>Placing question of constitutional convention on ballot.</heading>
+            <content>
+              <p>Sec. 15.50.070.   Placing question of constitutional convention on ballot.
+If during any 10-year period a constitutional convention has not yet been held, and the question of holding a constitutional convention has not been placed before the voters, the lieutenant governor shall direct the director to place the question on the ballot for the next regular statewide general or primary election.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-080">
+            <num>15.50.080</num>
+            <heading>Certification of vote.</heading>
+            <content>
+              <p>Sec. 15.50.080.   Certification of vote.
+If a majority of votes cast on the question are in the affirmative, the lieutenant governor shall so certify and shall issue the call for the convention.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-090">
+            <num>15.50.090</num>
+            <heading>Time and manner of selecting delegates.</heading>
+            <content>
+              <p>Sec. 15.50.090.   Time and manner of selecting delegates.
+Delegates to the convention shall be elected at the next statewide general election in the number and manner prescribed in the call for the convention by the lieutenant governor or as provided by law.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-100">
+            <num>15.50.100</num>
+            <heading>Certification of constitutional amendment by convention.</heading>
+            <content>
+              <p>Sec. 15.50.100.   Certification of constitutional amendment by convention.
+The president of the constitutional convention shall certify to the lieutenant governor each proposed amendment to the constitution adopted by the constitutional convention.</p>
+            </content>
+          </section>
+          <section eId="sec_15-50-110">
+            <num>15.50.110</num>
+            <heading>Delegation by lieutenant governor.</heading>
+            <content>
+              <p>Sec. 15.50.110.   Delegation by lieutenant governor.
+The lieutenant governor may delegate the duties imposed on the lieutenant governor by
+AS 15.50.010
+ 15.50.100 to the director.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

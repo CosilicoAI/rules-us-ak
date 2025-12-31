@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-07"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-07"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.07"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-07/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-07/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_07">
+          <num>07</num>
+          <heading>Certificate of Need Program</heading>
+          <section eId="sec_18-07-021">
+            <num>18.07.021</num>
+            <heading>Administration.</heading>
+            <content>
+              <p>Sec. 18.07.021.   Administration.
+The department shall administer the certificate of need program under this chapter and perform other functions prescribed in this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-07-031">
+            <num>18.07.031</num>
+            <heading>Certificate of need required; relocations.</heading>
+            <subsection eId="18-07-031__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (c) and (d) of this section, a person may not make an expenditure of $1,000,000 or more for any of the following unless authorized under the terms of a certificate of need issued by the department:</p>
+              </content>
+              <paragraph eId="18-07-031__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>construction of a health care facility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-031__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>alteration of the bed capacity of a health care facility; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-031__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>addition of a category of health services provided by a health care facility.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-07-031__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding the expenditure threshold in (a) of this section, a person may not convert a building or part of a building to a nursing home that requires licensure as a nursing facility under
+AS 47.32
+unless authorized under the terms of a certificate of need issued by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-031__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a person who is lawfully operating a health care facility that is an ambulatory surgical facility at a site may make an expenditure of any amount in order to relocate the services of that facility to a new site in the same community without obtaining a certificate of need as long as neither the bed capacity nor the number of categories of health services provided at the new site is greater.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-031__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Beginning July 1, 2005, the $1,000,000 expenditure threshold in (a) of this section is increased by $50,000 annually on July 1 of each year up to and including July 1, 2014.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-031__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In (a) of this section, expenditure includes the purchase of property occupied by or the equipment required for the health care facility and the net present value of a lease for space occupied by or the equipment required for the health care facility; expenditure does not include costs associated with routine maintenance and replacement of equipment at an existing health care facility.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-07-035">
+            <num>18.07.035</num>
+            <heading>Application and fees.</heading>
+            <subsection eId="18-07-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Application for a certificate of need shall be made to the department upon a form provided by the department and must contain the information the department requires to reach a decision under this chapter.  Each application for a certificate of need must be accompanied by an application fee established by the department by regulation.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may require a person who intends to submit an application under (a) of this section to submit a letter of intent to the department, except in the case of an application for an emergency or temporary certificate of need authorized under
+AS 18.07.071
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-035__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall notify the applicant in writing when the application is complete under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-07-041">
+            <num>18.07.041</num>
+            <heading>Standard of review for applications for certificates of need relating to non-nursing home beds and services.</heading>
+            <content>
+              <p>Sec. 18.07.041.   Standard of review for applications for certificates of need relating to non-nursing home beds and services.
+The department shall grant a sponsor a certificate of need or modify a certificate of need that authorizes beds other than nursing home beds or that is for a health care facility other than a nursing home if the availability and quality of existing health care resources or the accessibility to those resources is less than the current or projected requirement for health services required to maintain the good health of citizens of this state.</p>
+            </content>
+          </section>
+          <section eId="sec_18-07-043">
+            <num>18.07.043</num>
+            <heading>Standard of review for applications for certificates of need relating to nursing homes, nursing home beds, and residential psychiatric treatment centers.</heading>
+            <subsection eId="18-07-043__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall develop review standards for an application for a certificate of need, or for a modification of a certificate of need, issued under this chapter for a health care facility that is a nursing home or residential psychiatric treatment center, or that has nursing home beds.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-043__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In developing the review standards under (a) of this section, the department shall consider whether</p>
+              </content>
+              <paragraph eId="18-07-043__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a public process and existing appropriate statewide, regional, and local plans were included in planning and designing the residential psychiatric treatment center, the additional nursing home beds, or the nursing home;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-043__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the residential psychiatric treatment center, the additional nursing home beds, or the nursing home meets minimum required use rates for, as applicable, the residential psychiatric treatment center or new nursing beds, and the effect on use rates for existing nursing home beds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-043__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the residential psychiatric treatment center, the facility proposing additional nursing home beds, or the nursing home demonstrates consideration of the community, regional, and statewide needs for, as applicable, the residential psychiatric treatment center or the new nursing home beds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-043__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the residential psychiatric treatment center, the additional nursing home beds, or the nursing home meets the minimum number of, as applicable, residential psychiatric treatment beds or new nursing beds that should be required in a facility to ensure efficiency and economies of scale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-043__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the residential psychiatric treatment center, the facility proposing additional nursing home beds, or the nursing home demonstrates the proposed service will provide a quality of care equivalent to existing community, regional, or statewide services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-043__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the residential psychiatric treatment center, the facility proposing additional nursing home beds, or the nursing home demonstrates financial feasibility, including long-term viability, and what the financial effect will be on consumers and the state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-043__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the sponsor has demonstrated cost effectiveness through considering the availability of appropriate, less costly alternatives of providing the services planned.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-07-043__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall grant a sponsor a certificate of need or modify a certificate of need that authorizes a residential psychiatric treatment center or nursing home beds, or that is for a health care facility that is a nursing home, if the department finds that the sponsor meets the standards established in or under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-07-045">
+            <num>18.07.045</num>
+            <heading>Time standards for review of applications for certificates of need.</heading>
+            <subsection eId="18-07-045__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The following time standards apply for a review by the department of an application for a certificate of need under this chapter:</p>
+              </content>
+              <paragraph eId="18-07-045__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department may defer commencement of the review process under this chapter for an application for a period not to exceed 60 days after the determination that the application is complete in order to allow the department to receive and consider concurrent applications from each person who has submitted a letter of intent to submit an application proposing an activity that is similar to the activity proposed by the application in the geographic area;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-045__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the department shall review the application made under this chapter and submit an analysis and recommendation to the commissioner within 60 days after the date that notification under
+AS 18.07.035</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-07-045__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>is sent to the applicant stating that the application is complete.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner may extend the time periods set out in (a) of this section for not more than 30 days for any of the following reasons:</p>
+              </content>
+              <paragraph eId="18-07-045__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the applicant amends the application under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-045__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the department requests an extension of time within which to prepare its findings and recommendations on the application; the commissioner may grant only one extension under this paragraph.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-07-051">
+            <num>18.07.051</num>
+            <heading>Terms of issuance of the certificate.</heading>
+            <content>
+              <p>Sec. 18.07.051.   Terms of issuance of the certificate.
+Each certificate issued must specify terms of issuance describing the nature and extent of the activities authorized by the certificate.</p>
+            </content>
+          </section>
+          <section eId="sec_18-07-061">
+            <num>18.07.061</num>
+            <heading>Modification and termination of activities.</heading>
+            <content>
+              <p>Sec. 18.07.061.   Modification and termination of activities.
+The certificate holder shall apply to the department for a modification of the certificate before terminating part of the activities authorized by the terms of issuance, but the certificate holder is not required to obtain the acquiescence of the department before terminating all the activities authorized by the certificate. If a certificate holder terminates all of the activities authorized by a certificate, the certificate holder is required to notify the department 60 days before termination and to surrender the certificate to the department within 30 days of termination.</p>
+            </content>
+          </section>
+          <section eId="sec_18-07-071">
+            <num>18.07.071</num>
+            <heading>Temporary and emergency certificates.</heading>
+            <subsection eId="18-07-071__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall grant a sponsor an emergency certificate for the construction of a health care facility for which a certificate is required under
+AS 18.07.031
+if the sponsor shows, by affidavit or formal hearing, that the act of construction consists of effecting emergency repairs.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-071__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may grant a sponsor a temporary certificate for the temporary operation of a category of health service if the sponsor shows by affidavit or formal hearing</p>
+              </content>
+              <paragraph eId="18-07-071__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the necessity for early, immediate, or temporary relief; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-071__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>adverse effect to the public interest by reason of delay occasioned by compliance with the requirements of
+AS 18.07.041
+, 18.07.043, and application procedures prescribed by regulations under this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-07-071__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A temporary certificate granted under (b) of this section does not confer vested rights on behalf of the applicant. The department shall impose those special limitations and restrictions concerning duration and right of extension that the department considers appropriate. A temporary certificate may not be granted for a period longer than necessary for the sponsor to obtain review of the action certified by the temporary certificate under
+AS 18.07.051
+. Application for a certificate of need under
+AS 18.07.041
+or 18.07.043 must commence within 60 days of the date of issuance of the temporary certificate.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-07-081">
+            <num>18.07.081</num>
+            <heading>Proceedings for modification, suspension, and revocation.</heading>
+            <subsection eId="18-07-081__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department, a member of the public who is substantially affected by activities authorized by the certificate, or another applicant for a certificate of need may initiate a hearing conducted by the office of administrative hearings (
+AS 44.64.010
+) to obtain modification, suspension, or revocation of an existing certificate of need by filing an accusation with the commissioner as prescribed under
+AS 44.62.360
+. A revocation, modification, or suspension of an outstanding certificate may not be undertaken unless it is in accordance with
+AS 44.62.330
+ 44.62.630.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-081__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The certificate holder may obtain modification of an existing certificate by utilizing the application procedure enumerated in regulations adopted under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-081__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A certificate of need shall be suspended if an accusation is filed before the commencement of activities authorized under
+AS 18.07.041
+or 18.07.043 that charges that factors upon which the certificate of need was issued have changed or new factors have been discovered that significantly alter the need for the activity authorized. A suspension of a certificate may not exceed 60 days. At the end of this period or sooner, the department shall revoke or reinstate the certificate.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-081__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A certificate of need may be revoked if</p>
+              </content>
+              <paragraph eId="18-07-081__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the sponsor has not shown continuing progress toward commencement of the activities authorized under
+AS 18.07.041
+or 18.07.043 after six months of issuance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-081__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the applicant fails, without good cause, to complete activities authorized by the certificate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-081__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the sponsor fails to comply with the provisions of this chapter or regulations adopted under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-081__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the sponsor knowingly misrepresents a material fact in obtaining the certificate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-081__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the facts charged in an accusation filed under (c) of this section are established; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-07-081__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the sponsor fails to provide services authorized by the terms of the certificate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-07-081__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person may not file an accusation seeking suspension or revocation of a certificate of need under this section, knowing that the charges stated in the accusation are untrue or that the charges do not constitute grounds for revocation or suspension under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-07-091">
+            <num>18.07.091</num>
+            <heading>Injunctive relief; penalties; right of action.</heading>
+            <subsection eId="18-07-091__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Injunctive relief against violations of this chapter or regulations adopted under this chapter may be obtained from a court of competent jurisdiction at the instance of the commissioner, a holder of a certificate of need who is adversely affected in the exercise of the activities conducted in violation of the certificate, or any member of the public substantially and adversely affected by the violation. Upon written request by the commissioner, the attorney general shall furnish legal services and pursue the action for injunctive relief to an appropriate conclusion.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-091__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who files an accusation seeking suspension or revocation of a certificate of need, knowing that the charges are untrue or that the charges do not constitute grounds for revocation or suspension under this chapter, is guilty of a misdemeanor and upon conviction is punishable by a fine of not more than $1,000. The sponsor or holder of a certificate of need injured by the violation of
+AS 18.07.081</p>
+              </content>
+            </subsection>
+            <subsection eId="18-07-091__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>may recover damages for loss incurred by reason of delay caused by a suspension.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-07-101">
+            <num>18.07.101</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 18.07.101.   Regulations.
+The commissioner shall adopt, in accordance with
+AS 44.62
+(Administrative Procedure Act), regulations that establish procedures under which sponsors may make application for certificates of need required by this chapter and that govern the review of those applications by the department, establish requirements for a uniform statewide system of reporting financial and other operating data, and otherwise carry out the purposes of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-07-111">
+            <num>18.07.111</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.07.111.   Definitions.
+In this chapter,
+(1) category of health services means a major type, program, unit, division, or department of care provided through a health care facility, whether inpatient or outpatient, including an outpatient department, psychiatric wing, kidney dialysis program, radiotherapy, burn unit, or newborn intensive care unit, except that service does not include the lawful practice of a profession or vocation conducted independently of a health care facility and in accordance with applicable licensing laws of the state;
+(2) certificate means a certificate of need issued by the department under
+AS 18.07.041
+, 18.07.043, or 18.07.071;
+(3) commencement of activities means the visible commencement of actual operations on the ground for the construction of a building, the alteration of the bed capacity of a health care facility, or the provision for a category of health services to consumers, which operations are readily recognizable as such, and which operations are done with intent to continue the work until such activities are completed;
+(4) commissioner means the commissioner of health;
+(5) complete activities means the substantial performance of the work required to comply with the terms of issuance of the certificate of need to which all parties participating in those activities have obligated themselves to perform;
+(6) construction means the erection, building, alteration, reconstruction, improvement, extension, or modification of a health care facility under this chapter, including lease or purchase of equipment, excavation, or other necessary actions;
+(7) department means the Department of Health;
+(8) health care facility means a private, municipal, state, or federal hospital, psychiatric hospital, independent diagnostic testing facility, residential psychiatric treatment center, tuberculosis hospital, skilled nursing facility, kidney disease treatment center (including freestanding hemodialysis units), intermediate care facility, and ambulatory surgical facility; the term excludes
+(A) the Alaska Pioneers' Home and the Alaska Veterans' Home administered by the Department of Family and Community Services under
+AS 47.55
+; and
+(B) the offices of private physicians or dentists whether in individual or group practice;
+(9) nursing home bed means a bed not used for acute care in which nursing care and related medical services are provided over a period of 24 hours a day to individuals admitted to the health care facility because of illness, disease, or physical infirmity;
+(10) residential psychiatric treatment center means a secure or semi-secure psychiatric facility or inpatient program in a psychiatric facility that is licensed by the Department of Health and that provides therapeutically appropriate and medically necessary diagnostic, evaluation, and treatment services
+(A) 24 hours a day for children with severe emotional or behavioral disorders;
+(B) under the direction of a physician; and
+(C) under a professionally developed and supervised individual plan of care designed to achieve the recipient's discharge from inpatient status at the earliest possible time that is intensively and collaboratively delivered by an interdisciplinary team involving medical, mental health, educational, and social service components.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

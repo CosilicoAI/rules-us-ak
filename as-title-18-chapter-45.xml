@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-45"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-45"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.45"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-45/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-45/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_45">
+          <num>45</num>
+          <heading>Atomic Energy</heading>
+          <section eId="sec_18-45-020">
+            <num>18.45.020</num>
+            <heading>United States licenses or permits required.</heading>
+            <content>
+              <p>Sec. 18.45.020.   United States licenses or permits required.
+A person may not manufacture, construct, produce, transfer, acquire, or possess a special nuclear material, by-product material, special nuclear material facility, by-product material facility, production facility, or utilization facility, or act as an operator of a production facility or utilization facility, wholly within the state without first obtaining a license or permit for the activity in which the person proposes to engage from the Nuclear Regulatory Commission if the commission requires a license or permit to be obtained by persons proposing to engage in the activities.</p>
+            </content>
+          </section>
+          <section eId="sec_18-45-025">
+            <num>18.45.025</num>
+            <heading>Facilities siting permit required.</heading>
+            <subsection eId="18-45-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not construct a nuclear fuel production facility, nuclear utilization facility, utilization facility, reprocessing facility, or nuclear waste disposal facility in the state without first obtaining a permit from the Department of Environmental Conservation to construct the facility on land designated by the legislature under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-45-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The legislature shall designate by law the land in the state on which a nuclear fuel production facility, nuclear utilization facility, utilization facility, nuclear reprocessing facility, or nuclear waste disposal facility may be located. In designating the land in the state on which</p>
+              </content>
+              <paragraph eId="18-45-025__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a nuclear utilization facility or utilization facility may be located, the legislature shall act in the interest of regulating the economics of nuclear energy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-45-025__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a nuclear fuel production facility, nuclear reprocessing facility, or nuclear waste disposal facility may be located, the legislature shall act to protect the public health and safety.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-45-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department of Environmental Conservation shall adopt regulations governing the issuance of permits required by (a) of this section. However, a permit may not be issued until the municipality with jurisdiction over the proposed facility site has approved the permit or, if the proposed facility site is located in an unorganized borough, until the legislature has approved the permit.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-45-025__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding (b) of this section, a person that is otherwise compliant with this chapter may construct a microreactor on land that has not been designated by the legislature.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-45-027">
+            <num>18.45.027</num>
+            <heading>Transportation of nuclear waste material.</heading>
+            <subsection eId="18-45-027__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The transportation of high level nuclear waste material, except for purposes of disposal outside the state, is prohibited.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-45-027__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this section, high level nuclear waste material</p>
+              </content>
+              <paragraph eId="18-45-027__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>means
+(A) used nuclear reactor fuel;
+(B) waste produced during the reprocessing of used nuclear reactor fuel; and
+(C) elements having an atomic number greater than 92 and containing 10 or more nanocuries per gram;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-45-027__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>does not include radioactive materials used in medicine, education, or scientific research that are stored or disposed of in conformity with procedures established by the Department of Environmental Conservation by regulation adopted under
+AS 46.03.250
+(3).</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-45-030">
+            <num>18.45.030</num>
+            <heading>Studies on changes to laws; comments on microreactor licensing.</heading>
+            <subsection eId="18-45-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each of the following departments and agencies of the state are directed to initiate and to pursue continuing studies as to the need for changes in the laws and regulations administered by it that would arise from the presence within the state of special nuclear, by-product, and radioactive materials, from the operation of production or utilization facilities, and from the generation of radiation, and, on the basis of these studies, to make the recommendations for the enactment of laws or amendments to law administered by it, and the proposals for amendments to the regulations issued by it that it considers necessary:</p>
+              </content>
+              <paragraph eId="18-45-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the Department of Health particularly as to hazards to the public health and safety;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-45-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the Department of Labor and Workforce Development particularly as to hazardous working conditions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-45-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the Department of Labor and Workforce Development particularly as to the time and character of proof of claims of injuries and the extent of the compensation allowable;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-45-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the Department of Transportation and Public Facilities particularly as to the transportation of special nuclear, by-product, and radioactive materials on highways of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-45-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the Department of Transportation and Public Facilities particularly as to the transportation of special nuclear, by-product, and radioactive materials by common carriers not in interstate commerce and as to the participation by public utilities subject to its jurisdiction in projects for the development of production or utilization facilities for industrial or commercial use;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-45-030__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the Department of Commerce, Community, and Economic Development particularly as to the insurance of persons and property from hazards to life and property resulting from atomic development;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-45-030__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the Department of Fish and Game particularly as to the hazards to the natural resources of the state, including wildlife, and as to the protection of rivers, streams, and airspace from pollution;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-45-030__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the Department of Natural Resources particularly as to the hazards involved in the mining of radioactive minerals;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-45-030__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>departments and agencies the governor directs and for the purposes specified by the governor, and other departments and agencies provided by law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-45-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The requirements set out under (a) of this section do not apply to the presence of microreactors in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-45-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the Department of Environmental Conservation receives notice that a person has submitted a Nuclear Regulatory Commission license application for a microreactor located in the state, the Department of Environmental Conservation shall coordinate and submit comments from the departments or agencies under (a) of this section on the Nuclear Regulatory Commission licensing process specific to the microreactor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-45-060">
+            <num>18.45.060</num>
+            <heading>Injunction proceedings.</heading>
+            <content>
+              <p>Sec. 18.45.060.   Injunction proceedings.
+When, in the opinion of the governor, a person is violating or is about to violate
+AS 18.45.020
+or 18.45.025, the governor shall direct the attorney general to apply to the appropriate court for an order enjoining the person from engaging or continuing to engage in the activity and upon a showing that the person has engaged, or is about to engage in the activity, the court may grant a permanent or temporary injunction, restraining order, or other order.</p>
+            </content>
+          </section>
+          <section eId="sec_18-45-070">
+            <num>18.45.070</num>
+            <heading>Cooperation.</heading>
+            <content>
+              <p>Sec. 18.45.070.   Cooperation.
+The heads of the appropriate agencies may cooperate with the federal government in the administration of this chapter or any matter pertaining to it.</p>
+            </content>
+          </section>
+          <section eId="sec_18-45-090">
+            <num>18.45.090</num>
+            <heading>Exemption.</heading>
+            <content>
+              <p>Sec. 18.45.090.   Exemption.
+The provisions of this chapter do not apply to permit an agency or officer of the state to regulate the exploration for or the extraction and milling of uranium ore.</p>
+            </content>
+          </section>
+          <section eId="sec_18-45-900">
+            <num>18.45.900</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.45.900.   Definitions.
+In this chapter,
+(1) atomic energy means all forms of energy released in the course of nuclear fission or nuclear transformation;
+(2) by-product material means radioactive material, except special nuclear material, yielded in or made radioactive by exposure to the radiation incident to the process of producing or utilizing special nuclear material;
+(3) microreactor means a nuclear utilization facility that is
+(A) a nuclear fission reactor consistent with the definition of advanced nuclear reactor in 42 U.S.C. 16271; and
+(B) capable of generating not more than 50 megawatts of electric energy;
+(4) nuclear fuel production facility means a facility that purifies radioactive mineral concentrates and fabricates fissionable material to be used for producing energy in a nuclear reactor;
+(5) nuclear utilization facility means an apparatus, device, or equipment in which nuclear fission is sustained in a self-supporting and controlled chain reaction; the term does not include an apparatus, device, or equipment used exclusively for educational, medical, or research purposes;
+(6) production facility means equipment or a device capable of the production of special nuclear material in quantity of significance to the common defense and security, or to affect the health and safety of the public; or any important component part especially designed for the equipment or device;
+(7) radiation means gamma rays and X-rays, alpha and beta particles, high-speed electrons, neutrons, protons, and other nuclear particles; but not sound or radio waves, or visible, infrared, or ultra-violet light;
+(8) special nuclear material means plutonium, uranium 233, and uranium enriched in the isotope 233 or in the isotope 235, and any other material that the governor declares by order to be special nuclear material after the Nuclear Regulatory Commission has determined the material to be special nuclear material; or material artificially enriched by any of the foregoing material;
+(9) utilization facility means equipment or a device, except an atomic weapon, capable of making use of special nuclear material in a quantity significant to the common defense and security, or in a manner affecting the health and safety of the public, or peculiarly adapted for making use of atomic energy in a quantity significant to the common defense and security, or in a manner affecting the health and safety of the public; or an important component part especially designed for the equipment or device.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

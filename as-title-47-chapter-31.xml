@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-31"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.31"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-31/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-31/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-31/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-31/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_31">
+          <num>31</num>
+          <heading>Mental Health Treatment Assistance Program</heading>
+          <section eId="sec_47-31-005">
+            <num>47.31.005</num>
+            <heading>Applicability.</heading>
+            <content>
+              <p>Sec. 47.31.005.   Applicability.
+This chapter applies only to those patients who have received evaluation or treatment at an evaluation facility or a designated treatment facility that is not a state-operated hospital.</p>
+            </content>
+          </section>
+          <section eId="sec_47-31-010">
+            <num>47.31.010</num>
+            <heading>Eligibility for assistance.</heading>
+            <subsection eId="47-31-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall provide financial assistance under this chapter to a patient who</p>
+              </content>
+              <paragraph eId="47-31-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>does not have the available means to pay or substantially contribute to the payment of charges assessed by a facility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-31-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has no other third party to pay for the evaluation or treatment provided under
+AS 47.30
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-31-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>meets the criteria in this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-31-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To be eligible for assistance under this chapter, a patient must have</p>
+              </content>
+              <paragraph eId="47-31-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>been admitted for inpatient evaluation or treatment at an evaluation facility or a designated treatment facility other than a state-operated hospital after either
+(A) an involuntary commitment under
+AS 47.30.700
+ 47.30.915; or
+(B) a voluntary admission chosen by the patient after a determination by the patient's treating physician that the patient meets the involuntary commitment criteria in
+AS 47.30.700
+ 47.30.915 and that involuntary commitment proceedings would be initiated if the patient did not choose to be admitted voluntarily; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-31-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a gross monthly household income that does not exceed 185 percent of the federal poverty guideline for this state for the calendar month in which service was provided.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-31-015">
+            <num>47.31.015</num>
+            <heading>Application for assistance.</heading>
+            <subsection eId="47-31-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To receive assistance under this chapter, a patient or a patient's legal representative must apply in writing on a form provided by the department. A patient must apply for assistance within 180 days after the date of discharge from the facility.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-31-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A patient is considered to have applied for assistance under (a) of this section if the evaluation facility or designated treatment facility notifies the department on a form provided by the department that there is good cause to believe that the patient would be eligible for assistance under this chapter and</p>
+              </content>
+              <paragraph eId="47-31-015__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the patient, the patient's spouse, or the patient's parent if the patient is under 18 years of age failed within 150 days after the date of discharge from the facility to make arrangements to pay the evaluation facility or designated treatment facility; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-31-015__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the patient lacks the mental capacity to apply for benefits under this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-31-015__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A patient who applies or is considered to have applied for assistance under this chapter, the patient's spouse, the patient's parent if the patient is under 18 years of age, or a person in the patient's household shall release records and information to the department necessary to verify eligibility for the assistance.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-31-015__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a patient, the patient's spouse, the patient's parent if the patient is under 18 years of age, or a person in the patient's household fails to provide records and information to the department necessary to verify eligibility, the department may issue an administrative order imposing full liability for the patient's cost of care and treatment to the evaluation facility or designated treatment facility.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-31-020">
+            <num>47.31.020</num>
+            <heading>Decision on eligibility.</heading>
+            <subsection eId="47-31-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within 30 days after receiving a complete application, the department shall give notice in writing of an eligibility determination to the patient or the patient's legal representative. If the patient is found ineligible, the notice must contain the reason for the denial and an explanation of the patient's right to an administrative appeal of the denial.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-31-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall provide a copy of the notice of eligibility or ineligibility to the facility at which the patient was treated.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-31-025">
+            <num>47.31.025</num>
+            <heading>Eligible services; rates.</heading>
+            <content>
+              <p>Sec. 47.31.025.   Eligible services; rates.
+The department shall identify the type and level of services for which assistance is available under this chapter. An evaluation facility or a designated treatment facility shall be reimbursed at a rate established by the department that is equivalent to the Medicaid rate for that facility at the time service was rendered as determined under
+AS 47.07.070
+.</p>
+            </content>
+          </section>
+          <section eId="sec_47-31-030">
+            <num>47.31.030</num>
+            <heading>Payment.</heading>
+            <content>
+              <p>Sec. 47.31.030.   Payment.
+If the department determines that a patient is eligible for assistance under this chapter, the department shall provide for payment of assistance directly to the facility. By endorsing the check received from the department or authorizing the endorsement by the facility's agent, the facility certifies that the claim for which the check is payment is true and accurate unless written notice of an error is sent to the department by the facility within 30 days after the date the check is presented by the facility for payment.</p>
+            </content>
+          </section>
+          <section eId="sec_47-31-032">
+            <num>47.31.032</num>
+            <heading>Access to records and information by the department.</heading>
+            <content>
+              <p>Sec. 47.31.032.   Access to records and information by the department.
+The department is authorized to review, obtain, and copy confidential and other records and information about the patients who were eligible for or were provided financial assistance under this chapter to evaluate compliance with this chapter. The department may obtain the records and information from the patient or directly from the evaluation facility or the designated treatment facility. Records obtained by the department under this section are medical records, shall be handled confidentially, and are exempt from public inspection and copying under
+AS 40.25.110
+ 40.25.120.</p>
+            </content>
+          </section>
+          <section eId="sec_47-31-035">
+            <num>47.31.035</num>
+            <heading>Appeals.</heading>
+            <subsection eId="47-31-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A patient or the patient's legal representative may appeal a denial of assistance by sending written notice of objection to the department within 30 days after the date of the notice of denial. The written notice of objection must include an explanation of the reasons for the objection and may include documentation supporting the objection.
+AS 44.62
+(Administrative Procedure Act) does not apply to the appeal.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-31-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner or the commissioner's designee shall review the notice of objection and issue a decision within 90 days after its receipt. The commissioner or the commissioner's designee may request additional information on the appeal from either the patient, the evaluation facility or designated treatment facility, or department staff. A request for additional information suspends the time period for the appeal until the department determines that the additional information has been received. If more than 180 days have passed from the date of submission of a notice of appeal and the additional information requested by the commissioner or the commissioner's designee has not been received from a patient, the evaluation facility, the designated treatment facility, or the department, the appeal shall be considered denied.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-31-035__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The decision on the appeal under (b) of this section, including an appeal denied for failure to submit additional information, is a final agency decision and may be appealed to the superior court under the Alaska Rules of Appellate Procedure.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-31-090">
+            <num>47.31.090</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 47.31.090.   Regulations.
+The department shall, after consultation with the Alaska Mental Health Trust Authority, adopt regulations to interpret or implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_47-31-100">
+            <num>47.31.100</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 47.31.100.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) commissioner means the commissioner of family and community services;
+(2) department means the Department of Family and Community Services
+(3) designated treatment facility has the meaning given in
+AS 47.30.915
+;
+(4) evaluation facility means a health care facility that has been designated by the department to perform the evaluations described in
+AS 47.30.670
+ 47.30.915, including a facility licensed under
+AS 47.32
+or operated by the federal government;
+(5) gross monthly household income means all earned or unearned income from any source of a member of the patient's household;
+(6) household means a patient and each person
+(A) residing with the patient; and
+(B) related to the patient by marriage or other legal relationship giving rise to a duty of support and maintenance;
+(7) mental illness has the meaning given in
+AS 47.30.915
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-90"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-90"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="13.90"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-90/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-90/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-90/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-90/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_13">
+        <num>13</num>
+        <heading>Decedents' Estates, Guardianships, Transfers, Trusts, and Health Care Decisions</heading>
+        <chapter eId="title_13__chp_90">
+          <num>90</num>
+          <heading>Miscellaneous Provisions</heading>
+          <section eId="sec_13-90-010">
+            <num>13.90.010</num>
+            <heading>Investments by fiduciaries.</heading>
+            <subsection eId="13-90-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding other provisions of law, except for
+AS 13.36.300
+and the standards of judgment and care established by law, and subject to any express provision or limitation contained in a particular instrument creating the fiduciary relationship, fiduciaries are authorized to acquire and hold securities of an investment company.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-90-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whenever an instrument or power governing a fiduciary relationship directs, requires, authorizes, or permits investment in obligations of the United States government, or its agencies or instrumentalities, the fiduciary may invest in those obligations either directly or in the form of securities of, or other interests in, an investment company if</p>
+              </content>
+              <paragraph eId="13-90-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the portfolio of the company is limited to
+(A) obligations of the United States government, or its agencies or instrumentalities;
+(B) repurchase agreements fully collateralized by the obligations identified in (A) of this paragraph; and
+(C) securities of, or other interests in, other investment companies whose portfolios are limited to the obligations and repurchase agreements identified in (A) and (B) of this paragraph; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-90-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the investment company takes delivery of the collateral for any repurchase agreement either directly or through an authorized custodian.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-90-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Under (a) and (b) of this section, if a bank or trust company is the fiduciary, the bank or trust company may invest or reinvest in the securities of an investment company even if the fiduciary or an affiliated bank or trust company provides services to the investment company and the fiduciary or affiliate receives reasonable compensation for the services. Upon request of the person, the fiduciary shall furnish a copy of the prospectus relating to the securities acquired under this subsection to a person to whom a regular periodic accounting is ordinarily rendered under an instrument creating a fiduciary relationship.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-90-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="13-90-010__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>affiliated means two or more banks or trust companies in which
+(A) 25 percent or more of the voting shares, excluding shares owned by the United States or by a corporation or another entity wholly owned by the United States, is directly or indirectly owned or controlled by a holding company; or
+(B) the election of a majority of the directors is controlled in any manner by a holding company;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-90-010__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>bank means an organization that is authorized by the United States Comptroller of the Currency, or by the director of banking or the equivalent position in the state of its organization, to accept deposits and to make commercial loans, and whose deposits are insured by the Federal Deposit Insurance Corporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-90-010__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>fiduciary includes guardians and conservators under
+AS 13.26
+, persons performing the trustee activities described under
+AS 06.05.180
+whether or not the persons are covered by
+AS 06.05.180
+, and other persons acting in a fiduciary capacity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-90-010__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>investment company means an open-end or closed-end management type investment company or investment trust registered under 15 U.S.C. 80a-1  80a-64 (Investment Company Act of 1940), as that act exists now or as amended in the future;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-90-010__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>services includes acting as an investment advisor, custodian, transfer agent, registrar, sponsor, distributor, manager, and services related to acting as an investment advisor, custodian, transfer agent, registrar, sponsor, distributor, or manager;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-90-010__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>trust company means a financial institution, corporation, or other legal entity, authorized to exercise general trust powers, but does not include a natural person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

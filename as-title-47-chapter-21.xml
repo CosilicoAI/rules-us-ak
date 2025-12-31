@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-21"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-21"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.21"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-21/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-21/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-21/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-21/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_21">
+          <num>21</num>
+          <heading>Adventure-Based Education</heading>
+          <section eId="sec_47-21-010">
+            <num>47.21.010</num>
+            <heading>Establishment.</heading>
+            <subsection eId="47-21-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Family and Community Services shall establish an adventure-based education program designed to bring adventure-based education to appropriate juvenile offenders and others selected by referral agencies.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-21-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Adventure-based education is a short-term, intensive training program designed to remedy failure patterns and encourage development of self-esteem, self-confidence, and social awareness in</p>
+              </content>
+              <paragraph eId="47-21-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>certain delinquent juveniles in the custody of the Department of Family and Community Services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-21-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>certain juveniles identified by the schools, division of social services, the courts, youth workers, or other community referral systems, as being able to benefit from adventure-based education.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-21-020">
+            <num>47.21.020</num>
+            <heading>Program.</heading>
+            <subsection eId="47-21-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An adventure-based education program must include provisions for the following phases:</p>
+              </content>
+              <paragraph eId="47-21-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Phase I: Basic Skills Learning
+(A) physical conditioning: running, hiking, swimming, and other related activities;
+(B) technical training: the use of specialized tools and equipment, camping, cooking, map reading, navigation, life saving, drown proofing, and solo survival;
+(C) safety training: first aid skills, emergency care, preventative medicine, nutrition, health, and personal hygiene care;
+(D) team training: rescue techniques, evacuation exercises, and fire fighting;
+(E) solo: solitary living for a short period with minimal equipment;
+(F) interpersonal skills training: coping skills, individual and group problem solving, and societal communication skills;
+(G) culturally relevant activities: traditional modes of subsistence living, traveling and surviving in wilderness areas and communities in the state, and cross-cultural experiences;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-21-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Phase II: Skills Generalization
+(A) vocational counseling and placement;
+(B) family and interpersonal counseling;
+(C) community systems utilization: transportation, community services systems, and community problem solving.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-21-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Criteria for adventure-based education programs shall be established by the Department of Family and Community Services and must include provisions for</p>
+              </content>
+              <paragraph eId="47-21-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>staff members with background experience in Outward Bound, NOLS, Alaska Wilderness Experience, Inc., or other similar wilderness skills programs or Indigenous cultural experience;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-21-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>minimum program standards.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

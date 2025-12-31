@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-10"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="15.10"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_15">
+        <num>15</num>
+        <heading>Elections</heading>
+        <chapter eId="title_15__chp_10">
+          <num>10</num>
+          <heading>Election Precincts, Election Officials, and Redistricting</heading>
+          <section eId="sec_15-10-010">
+            <num>15.10.010</num>
+            <heading>Precinct boundaries initially established.</heading>
+            <content>
+              <p>Sec. 15.10.010.   Precinct boundaries initially established.
+The state is divided into the election precincts as established for the general election of October 1958, or as subsequently amended as prescribed by law, and shall remain so divided until the precinct boundaries are modified, or the precinct is abolished or a precinct is established as required by the provisions of this title.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-020">
+            <num>15.10.020</num>
+            <heading>Precinct boundaries and polling places modified by director.</heading>
+            <subsection eId="15-10-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director shall have the exclusive power to modify the boundary of a precinct and to establish or abolish a precinct and polling place in the state by regulations adopted under
+AS 44.62
+(Administrative Procedure Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 61 ch 2 FSSLA 2005.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-10-030">
+            <num>15.10.030</num>
+            <heading>Uniform precinct boundaries required for state and local elections.</heading>
+            <content>
+              <p>Sec. 15.10.030.   Uniform precinct boundaries required for state and local elections.
+The precinct boundaries established by the director shall be the boundaries for both state and local elections. The director by regulation adopted under
+AS 44.62
+(Administrative Procedure Act) may authorize the combining, consolidation, or altering of precinct boundaries for local elections.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-040">
+            <num>15.10.040</num>
+            <heading>Restriction on precinct boundary modification.</heading>
+            <content>
+              <p>Sec. 15.10.040.   Restriction on precinct boundary modification.
+A precinct may not include territory lying within more than one house district. Whenever practicable, precinct boundaries shall conform to municipal boundaries.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-050">
+            <num>15.10.050</num>
+            <heading>General duty and standard for precinct boundary modification.</heading>
+            <content>
+              <p>Sec. 15.10.050.   General duty and standard for precinct boundary modification.
+The director shall modify the boundary of a precinct, and shall establish or abolish a precinct if the action serves the convenience of the voters and assures the efficient administration of election laws.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-070">
+            <num>15.10.070</num>
+            <heading>Precinct boundary identification.</heading>
+            <content>
+              <p>Sec. 15.10.070.   Precinct boundary identification.
+Each precinct shall be given an appropriate name or number and be clearly defined so the boundaries can be readily determined.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-080">
+            <num>15.10.080</num>
+            <heading>Dates for designating precinct boundary.</heading>
+            <content>
+              <p>Sec. 15.10.080.   Dates for designating precinct boundary.
+The director shall designate boundaries of an election precinct which has been established or modified, not later than 40 days before an election.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-090">
+            <num>15.10.090</num>
+            <heading>Notice of precinct boundary or polling place designation and modification.</heading>
+            <content>
+              <p>Sec. 15.10.090.   Notice of precinct boundary or polling place designation and modification.
+The director shall give full public notice if a precinct is established or abolished, if the boundaries of a precinct are designated, abolished, or modified, or if the location of a polling place is changed. Public notice must include
+(1) whenever possible, sending written notice of the change to each affected registered voter in the precinct;
+(2) providing notice of the change
+(A) by publication once in a local newspaper of general circulation in the precinct; or
+(B) if there is not a local newspaper of general circulation in the precinct, by posting written notice in three conspicuous places as close to the precinct as possible; at least one posting location must be in the precinct;
+(3) posting notice of the change on the Internet website of the division of elections;
+(4) providing notification of the change to the appropriate municipal clerks, community councils, tribal groups, Native villages, and village regional corporations established under 43 U.S.C. 1606 (Alaska Native Claims Settlement Act); and
+(5) inclusion in the official election pamphlet.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-100">
+            <num>15.10.100</num>
+            <heading>Judicial review of precinct boundary.</heading>
+            <content>
+              <p>Sec. 15.10.100.   Judicial review of precinct boundary.
+Any person aggrieved by a determination of precinct boundaries by the director may bring a civil action to have the determination reviewed in the superior court.  If the action receives final determination within 40 days before the election, the director may not make the required modification in precinct boundaries until immediately after the election.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-105">
+            <num>15.10.105</num>
+            <heading>Division of elections; personnel rules.</heading>
+            <subsection eId="15-10-105__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The division of elections is created. The lieutenant governor shall control and supervise the division of elections. The lieutenant governor shall appoint a director of elections. The director shall act for the lieutenant governor in the supervision of central and regional election offices, the hiring, performance evaluation, promotion, termination, and all other matters relating to the employment and training of election personnel, and the administration of all state elections as well as those municipal elections that the state is required to conduct. The director is responsible for the coordination of state responsibilities under 42 U.S.C. 1973gg (National Voter Registration Act of 1993). The director serves at the pleasure of the lieutenant governor.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-105__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is essential that the nonpartisan nature, integrity, credibility, and impartiality of the administration of elections be maintained. To that end,</p>
+              </content>
+              <paragraph eId="15-10-105__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the director of elections, the election supervisors appointed under
+AS 15.10.110
+, and the full-time members of the director's staff
+(A) may not join, support or otherwise participate in a partisan political organization, faction, or activity, including but not limited to the making of political contributions; and
+(B) may not hold or campaign for elective office, be an officer of a political party or member or officer of a political committee, permit their name to be used, or make any contributions, in support of or in opposition to a candidate or a ballot proposition or question, participate in any way in a national, state, or local election campaign, or lobby or employ or assist a lobbyist;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-10-105__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the full-time employees of the division of elections, except for the director of elections and the elections supervisors appointed under
+AS 15.10.110
+, are subject to the personnel rules adopted under the authority of
+AS 39.25.150
+(7), (15), and (16); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-10-105__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the director of elections, the election supervisors appointed under
+AS 15.10.110
+, and the full-time members of the director's staff may, notwithstanding (1) of this subsection, express private opinion, register as to political party, and vote.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_15-10-107">
+            <num>15.10.107</num>
+            <heading>Staff training.</heading>
+            <content>
+              <p>Sec. 15.10.107.   Staff training.
+The director shall, before each primary election in even-numbered years, provide for a comprehensive training program for election officials, both the full-time members of the staff of the division of elections and those who are appointed as members of election boards under
+AS 15.10.120
+ 15.10.140 and other temporary election employees. The director shall prepare and, not later than March 1, file with the lieutenant governor a plan that describes the comprehensive training program for election officials to be provided to those officials during that calendar year.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-108">
+            <num>15.10.108</num>
+            <heading>Youth vote ambassador program.</heading>
+            <subsection eId="15-10-108__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The youth vote ambassador program is established in the division of elections.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-108__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In order to serve as a member of the youth vote ambassador program, an individual must</p>
+              </content>
+              <paragraph eId="15-10-108__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be a student age 16 or older
+(A) enrolled in a public or private high school program in this state; or
+(B) being educated in the student's home by a parent or legal guardian in this state under
+AS 14.30.010</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-10-108__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>volunteer to serve in the youth vote ambassador program and be appointed to the youth vote ambassador program by the director of elections; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-10-108__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if appointed, agree to complete a program of training as determined by the director of elections.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-10-108__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An election supervisor may appoint a member of the youth vote ambassador program to serve on a precinct election board appointed under
+AS 15.10.120
+. A program member who is appointed to serve on an election board under this subsection serves under the supervision of the chairperson for that board.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-108__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A member of the program who is appointed under (c) of this section is compensated as provided in
+AS 15.15.380
+only for service on the election board of the precinct.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-108__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A member of the program may provide unpaid volunteer services related to education and outreach on state elections as directed by, and under the supervision of, the director of elections.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-108__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In this section, program means the youth vote ambassador program.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-10-110">
+            <num>15.10.110</num>
+            <heading>Appointment of election supervisors.</heading>
+            <content>
+              <p>Sec. 15.10.110.   Appointment of election supervisors.
+The director shall appoint election supervisors, including one in each of the municipalities of Juneau, Anchorage, Fairbanks, and Nome, to assist in the administration of elections in the house districts designated by the director. The director may appoint as an election supervisor a person who is a qualified voter in the area over which the person has jurisdiction and who meets the applicable requirements of
+AS 15.10.105
+(b). An election supervisor is entitled to receive compensation in an amount that is comparable to that received for similar state employment as determined by the director.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-120">
+            <num>15.10.120</num>
+            <heading>Appointment of election board.</heading>
+            <subsection eId="15-10-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An election supervisor shall appoint in each precinct within the election supervisor's district an election board composed of at least three qualified voters registered to vote in that precinct. If the election supervisor is unable to locate three qualified individuals registered to vote in that precinct who are willing and able to serve on the election board, the election supervisor may appoint any qualified individual registered to vote in the house district in which the precinct is located. If the election supervisor is unable to locate three qualified individuals registered to vote in the precinct or in the district who are willing and able to serve on the election board, the election supervisor may appoint any qualified individual registered to vote in this state. In addition to the three qualified voters registered to vote in the precinct, district, or state, an election supervisor may also appoint not more than two members of the youth vote ambassador program established in
+AS 15.10.108
+to serve on a precinct election board.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>On or before April 15 in each regular election year, or at least 60 days before a special election, a party district committee or state party central committee of each political party may nominate two candidates for each election board. Nominations shall be presented in writing to the election supervisor for the district in which the precinct is located.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An election supervisor shall appoint one nominee of the political party or political group with the largest number of registered voters at the time of the preceding gubernatorial election and one nominee of the political party or political group with the second largest number of registered voters at the time of the preceding gubernatorial election. However, the election supervisor may appoint a qualified person registered as a member of a third political party or political group or as a nonpartisan or undeclared voter if a party district committee or state party central committee of the party or group with the largest number of registered voters or the party or group with the second largest number of registered voters at the time of the preceding gubernatorial election fails to present the names prescribed by (b) of this section by April 15 of a regular election year or at least 60 days before a special primary election.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An election supervisor shall appoint a chairperson for each election board within the election supervisor's district.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-120__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>When appointments to the election board have been accepted by the respective appointees, the election supervisor shall notify the director of the names and mailing addresses of the designated chairperson and other election board officials.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-120__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>For a municipal election in which voters cast ballots at polling places in their precincts, election boards shall be appointed by the appropriate municipality.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-10-125">
+            <num>15.10.125</num>
+            <heading>Appointment of additional election boards.</heading>
+            <content>
+              <p>Sec. 15.10.125.   Appointment of additional election boards.
+In each precinct having 200 or more voters additional election boards may be appointed.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-140">
+            <num>15.10.140</num>
+            <heading>Appointment of counters.</heading>
+            <content>
+              <p>Sec. 15.10.140.   Appointment of counters.
+The chairperson of the election board may appoint a team of counters to assist with the counting of the ballots in each precinct where the election supervisor considers it necessary.  The appointments may be made from among the qualified voters in the precincts in which they reside, and may be made at any time before the completion of the precinct count.  There shall be four counters on each counting team, no more than two of whom may be of the same political party.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-170">
+            <num>15.10.170</num>
+            <heading>Appointment and privileges of watchers.</heading>
+            <subsection eId="15-10-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The precinct party committee, where an organized precinct committee exists, or the party district committee where no organized precinct committee exists, or the state party chairperson where neither a precinct nor a party district committee exists, may appoint one or more persons as watchers in each precinct and counting center for any election. Each candidate may appoint one or more watchers for each precinct or counting center in the candidate's respective district or the state for any election. Any organization or organized group that sponsors or opposes an initiative, referendum, or recall may have one or more persons as watchers at the polls and counting centers after first obtaining authorization from the director. A state party chairperson, a precinct party committee, a party district committee, or a candidate may not have more than one watcher on duty at a time in any precinct or counting center. A watcher must be a United States citizen. The watcher may be present at a position inside the place of voting or counting that affords a full view of all action of the election officials taken from the time the polls are opened until the ballots are finally counted and the results certified by the election board or the data processing review board. The election board or the data processing review board may require each watcher to present written proof showing appointment by the precinct party committee, the party district committee, the organization or organized group, or the candidate the watcher represents.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to the watchers appointed under (a) of this section, in a primary election or special primary election or special election under
+AS 15.40.140
+, each candidate may appoint one watcher in each precinct and counting center.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-10-180">
+            <num>15.10.180</num>
+            <heading>Appointment of state ballot counting review board.</heading>
+            <content>
+              <p>Sec. 15.10.180.   Appointment of state ballot counting review board.
+The director shall appoint two persons from the political party of which the governor is a member and two persons from the political party that received the second largest number of votes statewide in the preceding gubernatorial election to participate in the state ballot counting review. The director may appoint additional individuals to participate in the state ballot counting review. Appointees must be United States citizens. Each political party may present to the director a list of three or more names from which the director shall select the persons to represent the party. The list of names may be submitted in writing at least 30 days before the date of the election. The list of names shall be certified by the state chairperson of the political party or by the person authorized by the party bylaws to act in the absence of the chairperson.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-200">
+            <num>15.10.200</num>
+            <heading>Definition of decennial census of the United States and use of census numbers by redistricting board.</heading>
+            <subsection eId="15-10-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In art. VI, Constitution of the State of Alaska, reference to the official decennial census of the United States is a reference to the census enumeration used to establish apportionment among the several states.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In adopting a redistricting plan under art. VI, Constitution of the State of Alaska, the redistricting board may not adjust the census numbers by using estimates, population surveys, or sampling for the purpose of excluding or discriminating among persons counted based on race, religion, color, national origin, sex, age, occupation, military or civilian status, or length of residency.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A qualified voter may bring an action in the superior court against the redistricting board to enforce the provisions of (b) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-10-210">
+            <num>15.10.210</num>
+            <heading>Expenditures for population surveys or sampling prohibited.</heading>
+            <content>
+              <p>Sec. 15.10.210.   Expenditures for population surveys or sampling prohibited.
+An expenditure of public funds may not be made for a population survey or sampling conducted for purposes of redistricting the legislature without an express appropriation by the legislature for that purpose.</p>
+            </content>
+          </section>
+          <section eId="sec_15-10-220">
+            <num>15.10.220</num>
+            <heading>Voting Rights Act review and legal representation.</heading>
+            <subsection eId="15-10-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The independent legal counsel for the Redistricting Board provided for in art. VI, sec. 9, Constitution of the State of Alaska, shall</p>
+              </content>
+              <paragraph eId="15-10-220__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>submit the board's redistricting plan for preclearance to the United States Department of Justice or the United States District Court for the District of Columbia under 42 U.S.C. 1973c; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-10-220__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>defend the plan and board in all matters concerning redistricting until a final plan for redistricting and a proclamation of redistricting have been adopted and all challenges to them brought under art. VI, sec. 11, Constitution of the State of Alaska, have been resolved after final remand or affirmation; the board shall have sole discretion to enter a settlement agreement and control litigation strategy that affects the final proclamation issued under art. VI, sec. 10, Constitution of the State of Alaska.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-10-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this section denies or creates standing in the governor, the legislature, or another person to be a party to the proceedings described in subsection (a).
+Article 3. Redistricting.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-10-300">
+            <num>15.10.300</num>
+            <heading>Preparation for legislative redistricting.</heading>
+            <subsection eId="15-10-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is created as an independent agency of the state the Redistricting Planning Committee. The committee shall be composed of five members. One member shall be appointed by the president of the senate, one member shall be appointed by the speaker of the house of representatives, one member shall be appointed by the chief justice of the Alaska Supreme Court, and two members shall be appointed by the governor.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Four members of the committee constitute a quorum to transact business. Meetings of the committee are subject to
+AS 44.62.310
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The committee may make necessary preparations and arrangements for the Redistricting Board provided for in art. VI, sec. 8, Constitution of the State of Alaska. The committee may arrange for office space for the board and its staff before the convening of the board, including the leasing of appropriate facilities and office equipment.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-300__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The committee may compile or contract for the compilation of information necessary for the Redistricting Board to begin its work, including</p>
+              </content>
+              <paragraph eId="15-10-300__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>paper maps or a computer data base received from the United States Bureau of the Census describing all units of census geography;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-10-300__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a computer data base of election and voter registration information from the division of elections to assist the Redistricting Board in determining compliance with 42 U.S.C. 1973-1973l (Voting Rights Act of 1965, as amended) and other statutory and constitutional requirements;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-10-300__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>information indicating the location of cultural, economic, geographic, demographic, and trade area factors in the state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-10-300__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>information or analysis of state and federal court decisions concerning reapportionment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-10-300__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The committee shall develop and issue a request for competitive sealed proposals to procure a computerized system that uses census data and maps to prepare plans for state senate and house districts in conformity with statutory and constitutional criteria and within applicable time constraints. The committee may award a contract for the acquisition of computer software and hardware and for the provision of computer services to the responsible and responsive offeror whose proposal is determined to be the most advantageous to the state, taking into consideration price and evaluation factors set out in the request for proposals. The computer system must be developed so that it is available for use by the Redistricting Board immediately upon the board's convening.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-300__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The committee may seek assistance as necessary from the legislative council, the Department of Administration, the Department of Labor and Workforce Development, the Department of Law, and the division of elections.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-300__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In the event that the committee is determined to be unlawful, the legislative council shall assume the committee's responsibilities and perform its duties as described in this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-10-300__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section, committee means the Redistricting Planning Committee.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

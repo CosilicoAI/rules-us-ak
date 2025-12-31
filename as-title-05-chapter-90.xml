@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-90"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-90"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="5.90"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-90/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-90/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-90/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-90/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_5">
+        <num>5</num>
+        <heading>Amusements and Sports</heading>
+        <chapter eId="title_5__chp_90">
+          <num>90</num>
+          <heading>Miscellaneous Provisions</heading>
+          <section eId="sec_05-90-001">
+            <num>05.90.001</num>
+            <heading>Racing events.</heading>
+            <subsection eId="05-90-001__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To the extent that it is consistent with federal law and regulations, a special racing event of limited duration that is conducted according to (b) of this section may be held on a state highway.</p>
+              </content>
+            </subsection>
+            <subsection eId="05-90-001__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Public Safety, with the concurrence of the Department of Transportation and Public Facilities, may grant, and for cause cancel, permission to conduct a special racing event as provided in this section on terms and conditions and at times and places the department may determine. If the Department of Public Safety refuses or cancels an applicant's permission, the applicant may request a hearing. The hearing shall be conducted under the provisions of
+AS 44.62
+(Administrative Procedure Act).</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

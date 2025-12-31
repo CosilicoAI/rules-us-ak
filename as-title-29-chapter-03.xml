@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-03"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-03"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="29.03"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-03/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-03/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-03/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-03/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_29">
+        <num>29</num>
+        <heading>Municipal Government</heading>
+        <chapter eId="title_29__chp_03">
+          <num>03</num>
+          <heading>The Unorganized Borough</heading>
+          <section eId="sec_29-03-010">
+            <num>29.03.010</num>
+            <heading>Establishment.</heading>
+            <content>
+              <p>Sec. 29.03.010.   Establishment.
+Areas of the state that are not within the boundaries of an organized borough constitute a single unorganized borough.</p>
+            </content>
+          </section>
+          <section eId="sec_29-03-020">
+            <num>29.03.020</num>
+            <heading>Service areas.</heading>
+            <content>
+              <p>Sec. 29.03.020.   Service areas.
+Allowing for maximum local participation, the legislature may establish, alter, or abolish service areas within the unorganized borough to provide special services that may include schools, utilities, land use regulations, and fire protection. A new service area may not be established if the new service can be provided by an existing service area, by incorporation as a city, or by annexation to a city.</p>
+            </content>
+          </section>
+          <section eId="sec_29-03-030">
+            <num>29.03.030</num>
+            <heading>Platting authority.</heading>
+            <content>
+              <p>Sec. 29.03.030.   Platting authority.
+The Department of Natural Resources is the platting authority for the state except within a municipality that has the power of land use regulation and that is exercising platting authority.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

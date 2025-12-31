@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-65"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-65"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.65"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-65/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-65/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-65/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-65/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_65">
+          <num>65</num>
+          <heading>Mining License Tax</heading>
+          <section eId="sec_43-65-010">
+            <num>43.65.010</num>
+            <heading>Mining license; mining license tax.</heading>
+            <subsection eId="43-65-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person prosecuting or attempting to prosecute, or engaging in the business of mining in the state shall obtain a license from the department. All new mining operations are exempt from the tax levied by this chapter for three and one-half years after production begins.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Natural Resources shall certify to the department the date upon which production begins, and the department shall issue a certificate of exemption to the producer accordingly.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The license tax on mining is as follows: upon the net income of the taxpayer from the property in the state, computed with allowable depletion, plus royalty received in connection with mining property in the state
+over $40,000 and not over $50,000 .....  3 percent
+over $50,000 and not over $100,000 .....  $1,500 plus 5 percent of the excess over $50,000
+over $100,000 .....  $4,000 plus 7 percent of the excess over $100,000.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Where mining operations are conducted in two or more places by one person the operations are considered a single mining operation and the tax under this chapter is computed upon the aggregate income derived from all the mining operations.  The lessor of a mine operated under a lease is considered to be engaged in mining within this chapter, and the royalties received by the lessor are considered to be the net income of the lessor's mining operations.  If the lessor receives royalties from more than one mine or mining operation, the tax payable under this chapter by the lessor is computed upon the aggregate royalties received by the lessor from all the mines or mining operations as though they were a single mining operation.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The allowance for depletion included as an allowable deduction from gross income is a percentage of the gross income from the property during the taxable year, excluding from the gross income an amount equal to the rents or royalties paid by the taxpayer in respect to the property, as follows:</p>
+              </content>
+              <paragraph eId="43-65-010__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>coal mines: 10 percent;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-010__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>metal mines, fluorspar, flake graphite, vermiculite, beryl, feldspar, mica, talc, lepidolite, spodumene, varite, ball and sagger clay, or rock asphalt mines and potash mines or deposits: 15 percent; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-010__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>sulphur mines or deposits: 23 percent.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-65-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The allowance for depletion may not exceed 50 percent of the net income of the taxpayer, computed without allowance for depletion, from the property, except that in no case may the depletion allowable be less than it would be if computed on a reasonable cost basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-010__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Deductions that are not directly attributable to particular properties or processes shall be fairly allocated.  To illustrate: If the taxpayer engages in activities in addition to mineral extraction in the state and to ordinary treatment processes, deductions for depreciation, taxes, general expenses, and overhead, which cannot be directly attributed to a specific activity, shall be fairly apportioned between (1) the mineral extraction and ordinary treatment processes, and (2) the additional activities, taking into account the ratio which the operating expenses directly attributable to the mineral extraction and ordinary treatment processes bear to the operating expenses directly attributable to the additional activities.  If more than one mineral property is involved, the deductions apportioned to the mineral extraction and ordinary treatment processes shall, in turn, be fairly apportioned to the several properties taking into account their relative production.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-010__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Taxes upon royalties shall be paid by the taxpayer receiving the royalties and no deduction, excepting depletion, is allowed.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-010__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A license issued under this section must include</p>
+              </content>
+              <paragraph eId="43-65-010__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and address of the licensee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-010__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the nature or type of mining activity to be conducted; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-010__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the year for which the license is issued.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_43-65-018">
+            <num>43.65.018</num>
+            <heading>Mining business education credit. [See delayed repeal note.]</heading>
+            <subsection eId="43-65-018__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person engaged in the business of mining in the state is allowed a credit against the tax due under this chapter for</p>
+              </content>
+              <paragraph eId="43-65-018__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for direct instruction, research, and educational support purposes, including library and museum acquisitions, and contributions to endowment, by an Alaska university foundation, by a nonprofit, public or private, Alaska two-year or four-year college accredited by a national or regional accreditation association, or by a public or private nonprofit elementary or secondary school in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for secondary school level vocational education courses, programs, and facilities by a school district in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for vocational education courses, programs, and facilities by a state- operated vocational technical education and training school;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for a facility by a nonprofit, public or private, Alaska two-year or four-year college accredited by a national or regional accreditation association or by a public or private nonprofit elementary or secondary school in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for Alaska Native cultural or heritage programs and educational support, including mentoring and tutoring, provided by a nonprofit agency for public school staff and for students who are in grades kindergarten through 12 in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for education, research, rehabilitation, and facilities by an institution that is located in the state and that qualifies as a coastal ecosystem learning center under the Coastal America Partnership established by the federal government;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for the Alaska higher education investment fund under
+AS 37.14.750
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for funding a scholarship awarded by a nonprofit organization to a dual-credit student to defray the cost of a dual-credit course, including the cost of
+(A) tuition and textbooks;
+(B) registration, course, and programmatic student fees;
+(C) on-campus room and board at the postsecondary institution in the state that provides the dual-credit course;
+(D) transportation costs to and from a residential school approved by the Department of Education and Early Development under
+AS 14.16.200
+or the postsecondary school in the state that provides the dual- credit course; and
+(E) other related educational and programmatic costs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for constructing, operating, or maintaining a residential housing facility by a residential school approved by the Department of Education and Early Development under
+AS 14.16.200
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for childhood early learning and development programs and educational support to childhood early learning and development programs provided by a nonprofit corporation organized under
+AS 10.20
+, a tribal entity, or a school district in the state, by the Department of Education and Early Development, or through a state grant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for science, technology, engineering, and math programs provided by a nonprofit agency or a school district for school staff and for students in grades kindergarten through 12 in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for the operation of a nonprofit organization dedicated to providing educational opportunities that promote the legacy of public service contributions to the state and perpetuate ongoing educational programs that foster public service leadership for future generations of residents of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for the operation of a nonprofit educational resource center that supports academic achievement in grades nine through 12 by coordinating curricula and statewide competition in the subject areas of economics, science, social science, literature, music, art, mathematics, writing, speech, and interview skills and by providing student scholarships;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>expenditures made to operate a child care facility in the state for the children of the person's employees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted by a child care facility in the state operated by a nonprofit corporation and attended by one or more children of the person's employees; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>a payment to an employee of the person's business made by the person for the purpose of offsetting the employee's child care costs incurred in the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-65-018__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount of the credit is 50 percent of contributions.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-018__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Each public college and university shall include in its annual operating budget request contributions received and how the contributions were used.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-018__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A contribution claimed as a credit under this section may not</p>
+              </content>
+              <paragraph eId="43-65-018__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be the basis for a credit claimed under another provision of this title; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>when combined with contributions that are the basis for credits taken during the taxpayer's tax year under
+AS 21.96.070
+,
+AS 43.20.014
+,
+AS 43.55.019
+,
+AS 43.56.018
+,
+AS 43.75.018
+, or
+AS 43.77.045
+, result in the total amount of the credits exceeding $3,000,000; if the taxpayer is a member of an affiliated group, then the total amount of credits may not exceed $3,000,000 for the affiliated group; in this paragraph, affiliated group has the meaning given in
+AS 43.20.145
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-65-018__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The credit under this section may not reduce a person's tax liability under this chapter to below zero for any tax year. An unused credit or portion of a credit not used under this section for a tax year may not be sold, traded, transferred, or applied in a subsequent tax year.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-018__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>To qualify for a credit under this section, equipment must be appraised consistent with regulations adopted by the department to determine the value of the contribution for purposes of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-018__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Beginning January 1, 2030, and every five years thereafter, the department shall adjust the dollar limit on credits under (d) of this section for inflation, using 100 percent of the change over the preceding five calendar years in the Consumer Price Index for all urban consumers for urban Alaska, compiled by the Bureau of Labor Statistics, United States Department of Labor.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-018__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="43-65-018__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>dual-credit student means a secondary level student in the state who simultaneously earns college and high school credit for a course;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>nonprofit organization means a charitable or educational organization in the state that is exempt from taxation under 26 U.S.C. 501(c)(3) (Internal Revenue Code);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_h__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>school district has the meaning given in
+AS 43.20.014
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-65-018__subsec_h__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>vocational education has the meaning given in
+AS 43.20.014
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_43-65-020">
+            <num>43.65.020</num>
+            <heading>Taxpayer's duties.</heading>
+            <subsection eId="43-65-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person subject to tax under this chapter shall make a return stating specifically the items of gross income from the property, including royalty received and the deductions and credits allowed by this chapter and the exploration incentive credit authorized by
+AS 27.30
+, and other information for carrying out this chapter that the department prescribes. The return must show the mining license number and must be signed by the taxpayer or an authorized agent of the taxpayer, under penalty of unsworn falsification in the second degree. If receivers, trustees, or assigns are operating the property or business, they shall make returns for the person engaged in mining, or the recipient of royalty in connection with mining property. The tax due on the basis of the returns shall be collected in the same manner as if collected from the person of whose business they have custody and control. In a tax year in which a taxpayer applies against the tax levied under this chapter the exploration incentive credit authorized by
+AS 27.30
+, the commissioner shall require the taxpayer to submit the accounting of mining operation activities form required by
+AS 27.30.030
+(b).</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A return made on the basis of the calendar year shall be made before May 1 of the next year.  A return made on the basis of a fiscal year shall be made before the first day of the fifth month of the next fiscal year.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may grant a reasonable extension of time for filing returns, under regulations adopted by it. Except in the case of a taxpayer going abroad, an extension may not be made for more than six months.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A taxpayer shall make a return either on a calendar year or fiscal year basis, in conformance with the basis used in making the taxpayer's return for federal income tax purposes.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The total amount of tax imposed by this chapter shall be paid on the 30th day of April of the next calendar year, or, if the return is made on the basis of the fiscal year, then on the last day of the fourth month of the next fiscal year.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Every person prosecuting or attempting to prosecute or engaging in the business of mining in the state shall comply with the department's regulations and shall keep such records, give such statements under oath, and make such returns as the department prescribes.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-65-020__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>When the department considers it necessary, it may require a person, by notice served upon the person, to make a return, give statements under oath, or keep records as it considers sufficient to show whether or not the person is liable to tax under this chapter.  If a person fails to file a return at the time prescribed by law or regulation, or makes, wilfully or otherwise, a false or fraudulent return, the department shall make the return from its own knowledge and from such information as it can obtain through testimony or otherwise. A return so made and subscribed by the department is prima facie good and sufficient for all legal purposes.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-65-030">
+            <num>43.65.030</num>
+            <heading>Application for renewals.</heading>
+            <content>
+              <p>Sec. 43.65.030.   Application for renewals.
+Application for renewal of a mining license shall be made before May 1 of each year.</p>
+            </content>
+          </section>
+          <section eId="sec_43-65-060">
+            <num>43.65.060</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 43.65.060.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) gross income from property means the gross income from mining in the state;
+(2) mining means an operation by which valuable metals, ores, minerals, asbestos, gypsum, coal, or stone, or any of them are extracted, mined, or taken from the earth; mining includes the ordinary treatment processes normally applied by mine owners or operators to obtain the commercially marketable product, but does not include the extraction or production of oil and gas, marketable earth, quarry rock, or sand and gravel;
+(3) net income of the taxpayer (computed without allowances for depletion) from the property means the gross income from the property, less allowable deductions attributable to the mineral property upon which the depletion is claimed and the allowable deductions attributable to ordinary treatment processes insofar as they relate to the product of the property, including overhead and operating expenses, development costs properly charged to expense, depreciation, taxes, losses sustained, etc., but excluding allowances for depletion, and deductions for federal income taxes, or for the tax imposed by this chapter;
+(4) new mining operations means mining operations which began production after January 1, 1953, or which have not been liable to pay a mining license tax under this chapter on net income since January 1, 1948;
+(5) ordinary treatment processes includes
+(A) in the case of coal: cleaning, breaking, sizing, and loading for shipment,
+(B) in the case of sulphur: pumping to vats, cooling, breaking, and loading for shipment,
+(C) in the case of iron ore, bauxite, ball and sagger clay, rock asphalt, and minerals which are customarily sold in the form of crude mineral product: sorting, concentrating, and sintering to bring to shipping grade and form, and loading for shipment, and
+(D) in the case of lead, zinc, copper, gold, silver, platinum metals or fluorspar ores, potash and ores which are not customarily sold in the form of the crude mineral product: crushing, grinding, and beneficiation by concentration (gravity, flotation, amalgamation, electrostatic, or magnetic), cyanidation, leaching, crystallization, precipitation (but excluding electrolytic deposition roasting, thermal or electric smelting or refining), or by substantially equivalent processes or combination of processes used in the separation or extraction of a product from the ore, including the furnacing or quicksilver ore;
+(6) production means the date on which the initial shipment of products from mining operations is made.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

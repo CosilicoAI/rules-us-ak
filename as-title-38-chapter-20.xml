@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="38.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_38">
+        <num>38</num>
+        <heading>Public Land</heading>
+        <chapter eId="title_38__chp_20">
+          <num>20</num>
+          <heading>The Alaska Coordinate System</heading>
+          <section eId="sec_38-20-010">
+            <num>38.20.010</num>
+            <heading>Adoption.</heading>
+            <content>
+              <p>Sec. 38.20.010.   Adoption.
+The systems of rectangular plane coordinates established by the National Geodetic Survey, National Ocean Service, National Oceanic and Atmospheric Administration for defining and stating the positions or locations of points on the surface of the earth in this state are adopted. The systems are to be known as the Alaska Coordinate System of 1927, the Alaska Coordinate System of 1983, and the Alaska Coordinate System of 2022.</p>
+            </content>
+          </section>
+          <section eId="sec_38-20-020">
+            <num>38.20.020</num>
+            <heading>Zones.</heading>
+            <content>
+              <p>Sec. 38.20.020.   Zones.
+The zone parameters of the Alaska Coordinate Systems are the zone parameters defined by the National Geodetic Survey maintained by the National Ocean Service of the National Oceanic and Atmospheric Administration, as the National Geodetic Survey reads on November 7, 2022.</p>
+            </content>
+          </section>
+          <section eId="sec_38-20-030">
+            <num>38.20.030</num>
+            <heading>Designation of zones.</heading>
+            <content>
+              <p>Sec. 38.20.030.   Designation of zones.
+In any land description in which a coordinate system is used a zone of the coordinate system is designated the Alaska Coordinate System of 1927, Zone ...................., the Alaska Coordinate System of 1983, Zone ....................,  or the Alaska Coordinate System of 2022, Zone ....................</p>
+            </content>
+          </section>
+          <section eId="sec_38-20-040">
+            <num>38.20.040</num>
+            <heading>Use of coordinate system.</heading>
+            <content>
+              <p>Sec. 38.20.040.   Use of coordinate system.
+The plane coordinates of a point on the earth's surface, to be used in expressing the position or location of the point in the appropriate zone of this system, consist of two distances, expressed in U.S. survey feet and decimals of a U.S. survey foot when using the Alaska Coordinate System of 1927, expressed in meters and decimals of a meter when using the Alaska Coordinate System of 1983, and expressed in meters and decimals of a meter or international feet and decimals of an international foot when using the Alaska Coordinate System of 2022. One of these distances, known as the x-coordinate, gives the position in an east-and-west direction; the other, known as the y-coordinate, gives the position in a north-and-south direction. These coordinates shall be made to depend on and conform to the coordinates of the National Spatial Reference System as determined by the National Geodetic Survey, National Ocean Service.</p>
+            </content>
+          </section>
+          <section eId="sec_38-20-050">
+            <num>38.20.050</num>
+            <heading>Land lying in two zones.</heading>
+            <content>
+              <p>Sec. 38.20.050.   Land lying in two zones.
+When a tract of land to be defined by a single description extends from one coordinate zone into another, the positions of all points on its boundaries may be referred to either of the two zones, the zone which is used being specifically named in the description.</p>
+            </content>
+          </section>
+          <section eId="sec_38-20-060">
+            <num>38.20.060</num>
+            <heading>Characteristics of zones.</heading>
+            <content>
+              <p>Sec. 38.20.060.   Characteristics of zones.
+The characteristics of the zones of the Alaska Coordinate Systems are the characteristics defined by the National Geodetic Survey maintained by the National Oceanic and Atmospheric Administration, as the National Geodetic Survey reads on November 7, 2022.</p>
+            </content>
+          </section>
+          <section eId="sec_38-20-070">
+            <num>38.20.070</num>
+            <heading>Position of system.</heading>
+            <subsection eId="38-20-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The position of the Alaska Coordinate System of 1927 shall be as marked on the ground by triangulation or traverse stations established in conformity with the standards adopted by the National Geodetic Survey, National Ocean Service whose geodetic positions have been rigidly adjusted on the North American datum of 1927 and whose coordinates have been computed on the system defined in this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-20-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The position of the Alaska Coordinate System of 1983 shall be as marked on the ground by triangulation or traverse stations established in conformity with the standards adopted by the National Geodetic Survey, National Ocean Service whose geodetic positions have been rigidly adjusted on the North American datum of 1983 and whose plane coordinates have been computed on the system defined in this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-20-080">
+            <num>38.20.080</num>
+            <heading>Limitation.</heading>
+            <content>
+              <p>Sec. 38.20.080.   Limitation.
+Coordinates based on the Alaska Coordinate System, purporting to define the position of a point on a land boundary, may not be presented to be recorded in any public land records or deed records unless the point is within two miles of a horizontal control station established in conformity with National Geodetic Survey, National Ocean Service standards and specifications for first-order, second-order, or third-order work.  The two-mile limitation may be modified by a state agency to meet local conditions.</p>
+            </content>
+          </section>
+          <section eId="sec_38-20-090">
+            <num>38.20.090</num>
+            <heading>Use of system name.</heading>
+            <subsection eId="38-20-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The use of the term Alaska Coordinate System of 1927 on a map, report of survey, or other document is limited to coordinates based on the Alaska Coordinate System of 1927 as defined in this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-20-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The use of the term Alaska Coordinate System of 1983 on a map, report of survey, or other document is limited to coordinates based on the Alaska Coordinate System of 1983 as defined in this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-20-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The use of the term Alaska Coordinate System of 2022 on a map, report of survey, or other document is limited to coordinates based on the Alaska Coordinate System of 2022 as defined in this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-20-100">
+            <num>38.20.100</num>
+            <heading>Use of public land survey descriptions.</heading>
+            <content>
+              <p>Sec. 38.20.100.   Use of public land survey descriptions.
+When coordinates based on the Alaska Coordinate System of 1927, the Alaska Coordinate System of 1983, or the Alaska Coordinate System of 2022 are used to describe a tract of land, which in the same document is also described by reference to a subdivision, line, or corner of the United States public land surveys, the description by coordinates shall be construed as supplemental to the basic description of the subdivision, line, or corner contained in the official plats and field notes recorded, and, in the event of a conflict, the description by reference to the subdivision, line, or corner of the United States public land surveys prevails over the description by coordinates.</p>
+            </content>
+          </section>
+          <section eId="sec_38-20-110">
+            <num>38.20.110</num>
+            <heading>Use of system not required.</heading>
+            <content>
+              <p>Sec. 38.20.110.   Use of system not required.
+Nothing in this chapter requires a purchaser or mortgagee to rely on a description, any part of which depends exclusively on the Alaska Coordinate System of 1927, the Alaska Coordinate System of 1983, or the Alaska Coordinate System of 2022.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

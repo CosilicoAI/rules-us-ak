@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-07"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-07"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="38.07"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-07/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-07/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_38">
+        <num>38</num>
+        <heading>Public Land</heading>
+        <chapter eId="title_38__chp_07">
+          <num>07</num>
+          <heading>Clearing and Draining of Agricultural Land</heading>
+          <section eId="sec_38-07-010">
+            <num>38.07.010</num>
+            <heading>Selection and lease.</heading>
+            <subsection eId="38-07-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner may select areas of state land classified as agricultural and contract for the land to be cleared or drained or both at state expense. In this selection and contracting, the commissioner shall be guided by the recommendations of the United States Department of Agriculture, Natural Resources Conservation Service.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-07-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The land that is cleared or drained under (a) of this section shall be put up for competitive lease in lots of not less than 320 acres each. Lease payments shall be separately accounted for and may be appropriated to the agricultural revolving loan fund (
+AS 03.10.040
+).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-07-020">
+            <num>38.07.020</num>
+            <heading>Provisions of lease.</heading>
+            <subsection eId="38-07-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A lease under
+AS 38.07.010</p>
+              </content>
+            </subsection>
+            <subsection eId="38-07-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>shall be for 10 years with an option for a five-year renewal.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-07-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before a lessee can apply for ownership of the land, the lessee must crop the land for at least seven years.  If a lessee does not crop the land for at least seven years during the lease, the land shall be open again for competitive lease.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-07-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>All rent the lessee has paid on the lease less interest on appraised value is to be applied toward the purchase price.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-07-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>There shall be included in the lease agreement a provision prohibiting more than one farm unit on each half section of land.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-07-030">
+            <num>38.07.030</num>
+            <heading>Owners and lessees included.</heading>
+            <subsection eId="38-07-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An owner of agricultural land, or a lessee from the state of agricultural land, in the general vicinity of the land to be cleared or drained under
+AS 38.07.010</p>
+              </content>
+            </subsection>
+            <subsection eId="38-07-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>may apply to the commissioner to have the land cleared or drained or both along with the state land. The applicant's land shall be included in the contract of land to be cleared or drained if, in the discretion of the commissioner, the inclusion is feasible and furthers the agricultural policies of the division of the Department of Natural Resources with responsibility for agriculture.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-07-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The cost of clearing privately-owned land shall be borne by the landowner.  For this purpose, the landowner may borrow money according to the requirements and provisions of
+AS 03.10
+(Alaska Agricultural Loan Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="38-07-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The cost of clearing land leased from the state, including but not limited to school land, shall be borne by the state. The lessee shall repay the cost over a 10-year period at five percent interest.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-07-040">
+            <num>38.07.040</num>
+            <heading>Land certificates.</heading>
+            <subsection eId="38-07-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>may provide for payment by the state in the form of land certificates which shall be equivalent to cash in the purchase of land credit from the state.  The use of land credit certificates may be applied in the manner prescribed by
+AS 19.30.090
+and regulations adopted under that section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-07-050">
+            <num>38.07.050</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 38.07.050.   Regulations.
+The commissioner shall, guided by recommendations of the United States Department of Agriculture, Natural Resources Conservation Service, adopt regulations necessary to carry out the purpose of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_38-07-060">
+            <num>38.07.060</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 38.07.060.   Definitions.
+In this chapter,
+(1) cleared, clear, and clearing mean the preparation of the land for planting;
+(2) commissioner means the commissioner of the Department of Natural Resources;
+(3) crop means to manage a domestic planting including harvest.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-68"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-68"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.68"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-68/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-68/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-68/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-68/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_68">
+          <num>68</num>
+          <heading>Charitable Solicitations</heading>
+          <section eId="sec_45-68-010">
+            <num>45.68.010</num>
+            <heading>Registration.</heading>
+            <subsection eId="45-68-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A charitable organization may not solicit contributions of money or other property unless the charitable organization is registered with the Department of Law.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-68-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not solicit contributions of money or other property for a charitable organization for compensation unless the person is registered with the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-68-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To register under this section, a charitable organization or paid solicitor shall file with the department</p>
+              </content>
+              <paragraph eId="45-68-010__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a registration statement on a form or in a format provided and established by the department by regulation; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-010__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in the case of a paid solicitor, a bond in the amount and under the conditions established by the department by regulation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-68-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Registration under this section expires on September 1 of each year. To renew a registration, a charitable organization or paid solicitor shall file with the department a registration renewal statement established by the department by regulation and, in the case of a paid solicitor, evidence that a bond that satisfies (c)(2) of this section will be in effect for the renewal period.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-68-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person who is required to register under this section shall report to the department a material change in the information provided in the registration statement or registration renewal statement filed under this section. The person shall report the change within seven days after the change occurs.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-68-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department may require the registration and registration renewal statement required under (c)(1) and (d) of this section to be submitted</p>
+              </content>
+              <paragraph eId="45-68-010__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>under oath or affirmation; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-010__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>with notice that false statements made in the statement are punishable as unsworn falsification in the second degree under
+AS 11.56.210
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-68-010__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A person may not knowingly provide false statements in documents required by this chapter, including a</p>
+              </content>
+              <paragraph eId="45-68-010__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>registration statement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-010__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>registration renewal statement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-010__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>report of material change in information required in the registration statement; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-010__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>financial report by a paid solicitor.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-68-015">
+            <num>45.68.015</num>
+            <heading>Registration fees.</heading>
+            <content>
+              <p>Sec. 45.68.015.   Registration fees.
+The registration statement and registration renewal statement filed under
+AS 45.68.010
+(c)(1) and (d) must be accompanied by a registration or registration renewal fee. The department shall establish the amount of the fee by regulation. The fees required by this section are nonrefundable and shall be deposited in the general fund.</p>
+            </content>
+          </section>
+          <section eId="sec_45-68-020">
+            <num>45.68.020</num>
+            <heading>Contract required.</heading>
+            <subsection eId="45-68-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A paid solicitor may not solicit contributions on behalf of a charitable organization unless the paid solicitor executes a written contract with the charitable organization that clearly states the respective obligations of the paid solicitor and the charitable organization, including</p>
+              </content>
+              <paragraph eId="45-68-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a statement of the method to be used to calculate the compensation of the paid solicitor; the statement must include a reasonable estimate of the expenses, including the estimated compensation of the paid solicitor, to be incurred, directly or indirectly, by the charitable organization in connection with the solicitation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a statement of the charitable purpose to be described in the solicitation; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the percentage of the gross contributions that the charitable organization is to receive.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-68-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A copy of the contract required by (a) of this section shall be filed with the department.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-68-030">
+            <num>45.68.030</num>
+            <heading>Disclosures.</heading>
+            <content>
+              <p>Sec. 45.68.030.   Disclosures.
+Except as provided by
+AS 45.68.040
+, before soliciting a contribution, a paid solicitor shall clearly and conspicuously disclose the following information to the person being solicited:
+(1) the true name of the individual making the solicitation;
+(2) the true name of the charitable organization for whom the solicitation is being made;
+(3) the true name of the paid solicitor;
+(4) the true name of the person who is employing and compensating the individual making the solicitation if the individual is employed for compensation to make the solicitation;
+(5) whether the individual making the solicitation is being paid for making the solicitation or is an unpaid volunteer;
+(6) the name and physical address of the principal headquarters of the charitable organization for whom the solicitation is being made;
+(7) a description of how and where the charitable contributions raised by the paid solicitor are to be utilized for the charitable purpose; and
+(8) that a financial statement of the charitable organization for whom the solicitation is being made and a copy of the contract required under
+AS 45.68.020
+will be provided upon request.</p>
+            </content>
+          </section>
+          <section eId="sec_45-68-040">
+            <num>45.68.040</num>
+            <heading>Confirmation of pledge.</heading>
+            <content>
+              <p>Sec. 45.68.040.   Confirmation of pledge.
+A paid solicitor who makes a solicitation by mail, radio, or television, shall mail written confirmation of a contribution pledge to the contributor within five days after the pledge is received. The confirmation must include a clear and conspicuous disclosure of the information identified in
+AS 45.68.030
+.</p>
+            </content>
+          </section>
+          <section eId="sec_45-68-050">
+            <num>45.68.050</num>
+            <heading>Unlawful practices.</heading>
+            <content>
+              <p>Sec. 45.68.050.   Unlawful practices.
+During a solicitation for a charitable organization, a person may not
+(1) use a deceptive act, including an act described in
+AS 45.50.471
+;
+(2) without first being authorized in writing by the person, represent or imply that a contribution is for or on behalf of a person, or use an emblem, device, or printed matter belonging to or associated with the person;
+(3) use a name, symbol, or statement so closely related or similar to a name, symbol, or statement used by another charitable organization that the use may confuse or mislead a person solicited for a contribution;
+(4) use or exploit the fact of registration under this chapter to suggest or imply that the registration constitutes an endorsement or approval by the state; or
+(5) represent directly or by implication that a charitable organization will receive from the contributions raised by a paid solicitor a greater percentage of a contribution than allowed under the contract executed under
+AS 45.68.020
+.</p>
+            </content>
+          </section>
+          <section eId="sec_45-68-055">
+            <num>45.68.055</num>
+            <heading>Paid solicitor financial reports.</heading>
+            <subsection eId="45-68-055__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within 90 days after a solicitation campaign is completed and, if a solicitation campaign lasts more than one year, on the one-year anniversary of the commencement of the campaign, a paid solicitor shall file with the department a financial report in accordance with this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-68-055__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The financial report must</p>
+              </content>
+              <paragraph eId="45-68-055__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be submitted on a form or in a format provided and established by the department of regulation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-055__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>include gross revenue and an itemization of all expenses incurred in the solicitation campaign during the reporting period; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-055__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>be signed by two authorized officials of the charitable organization.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-68-055__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The authorized contracting agent for the paid solicitor shall sign the report required by (b) of this section. Signature of the report under this subsection must be made under oath or affirmation, but submission of false information in a notice that is not signed under oath or affirmation is punishable as an unsworn falsification in the second degree under
+AS 11.56.210
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-68-060">
+            <num>45.68.060</num>
+            <heading>Public records.</heading>
+            <content>
+              <p>Sec. 45.68.060.   Public records.
+The registration statement, registration renewal statement, financial reports of paid solicitors, contracts, and other documents required to be filed with the department under this chapter are public records available for inspection and copying under
+AS 40.25.110
+ 40.25.220.</p>
+            </content>
+          </section>
+          <section eId="sec_45-68-070">
+            <num>45.68.070</num>
+            <heading>Retention and inspection of fiscal records.</heading>
+            <content>
+              <p>Sec. 45.68.070.   Retention and inspection of fiscal records.
+A charitable organization that is required to be registered under this chapter or that is exempted from this chapter by
+AS 45.68.120
+and a paid solicitor that is required to be registered under this chapter or that is exempted from this chapter by
+AS 45.68.120
+shall maintain the records required by this chapter for a period of five years in a form that permits the department to make a complete audit of solicitations by the charitable organization or paid solicitor.</p>
+            </content>
+          </section>
+          <section eId="sec_45-68-080">
+            <num>45.68.080</num>
+            <heading>Substituted service.</heading>
+            <subsection eId="45-68-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A charitable organization or paid solicitor that is required to be registered under this chapter and that either has its principal place of business outside of the state or is organized under the laws of another state is considered to have irrevocably appointed the department as its agent for the service of a summons, subpoena, or other process directed to the charitable organization or paid solicitor, or to a director, officer, partner, or principal of the charitable organization or paid solicitor in an action or other proceeding brought under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-68-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Service under (a) of this section is complete if the department immediately sends notice of the service and a copy of the process to the charitable organization, paid solicitor, or other person to whom it is directed by registered mail, return receipt requested, to the last address known to the department of the charitable organization or paid solicitor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-68-090">
+            <num>45.68.090</num>
+            <heading>Private enforcement.</heading>
+            <subsection eId="45-68-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A charitable organization that suffers damages as a result of a violation of this chapter by another charitable organization or by a paid solicitor may bring a civil action against the violator.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-68-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who makes a contribution to a charitable organization or to a paid solicitor that violates this chapter may bring a civil action against the violator.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-68-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In an action under (a) or (b) of this section, a court may</p>
+              </content>
+              <paragraph eId="45-68-090__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>award damages for the violation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-090__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>enjoin future violations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-090__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>provide other relief that the court determines is necessary to restore to the person damaged real or personal property that was acquired by the violator by means of the violation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-090__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>require the violator, under appropriate circumstances, to pay the full attorney fees and costs incurred by the charitable organization or other person bringing the action.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-68-090__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A charitable organization or other person who brings an action under this section shall serve a copy of the complaint on the department when the action is filed, and, upon entry of an order or judgment in the action, shall mail a copy of the order or judgment to the department.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-68-100">
+            <num>45.68.100</num>
+            <heading>Criminal penalty.</heading>
+            <content>
+              <p>Sec. 45.68.100.   Criminal penalty.
+A person who solicits contributions for a charitable organization for compensation without complying with the registration requirements of
+AS 45.68.010
+is guilty of a class A misdemeanor.</p>
+            </content>
+          </section>
+          <section eId="sec_45-68-110">
+            <num>45.68.110</num>
+            <heading>Remedies not exclusive.</heading>
+            <content>
+              <p>Sec. 45.68.110.   Remedies not exclusive.
+The remedies in this chapter are in addition to other remedies available to a person or the department for a violation of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_45-68-120">
+            <num>45.68.120</num>
+            <heading>Exemptions from registration requirement.</heading>
+            <subsection eId="45-68-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Registration is not required under
+AS 45.68.010
+for</p>
+              </content>
+              <paragraph eId="45-68-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a church or religious organization that is exempt from filing a federal annual information return under 26 U.S.C. 6033(a)(3)(A)</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a candidate for national, state, or local office, and a political party or other committee or group if the candidate, party, committee, or group is required to file financial information with the Alaska Public Offices Commission under
+AS 15.13
+or with the Federal Election Commission under 2 U.S.C. 431  456 (Federal Election Campaign Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a charitable organization that does not intend to raise or receive contributions, excluding government grants, in excess of $5,000 during a fiscal year of the charitable organization, or that does not intend to receive contributions from more than 10 persons during a fiscal year of the charitable organization if, in either situation,
+(A) all of the organization's functions, including solicitation, are performed by persons who are not paid for their services; and
+(B) an officer or member of the organization is not paid or does not otherwise receive all or a part of the assets or income of the charitable organization;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-68-120__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a person or municipality who has a permit under
+AS 05.15.100
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-68-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who qualifies for an exemption under (a)(3) of this section shall maintain for five years the records necessary to prove that the organization qualifies for the exemption.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-68-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (a)(3) of this section, if a charitable organization actually raises or receives more than $5,000 in contributions during a fiscal year of the charitable organization or receives contributions from more than 10 persons during the same fiscal year, the charitable organization shall, within 30 days after the earlier event, register with the department under
+AS 45.68.010
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-68-130">
+            <num>45.68.130</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 45.68.130.   Regulations.
+The department shall adopt regulations under
+AS 44.62
+(Administrative Procedure Act) to implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_45-68-900">
+            <num>45.68.900</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 45.68.900.   Definitions.
+In this chapter,
+(1) charitable organization means a nonprofit organization that
+(A) is operated for the relief of poverty, distress, or other condition of public concern in the state; or
+(B) the Internal Revenue Service determines to be a tax exempt organization under 26 U.S.C. 501(c)(3) (Internal Revenue Code);
+(2) contributions means contributions of money or other property;
+(3) department means the Department of Law;
+(4) paid solicitor means a person who is required to be registered under
+AS 45.68.010
+(b), and includes a person who is employed, procured, or engaged, directly or indirectly, by a paid solicitor to solicit, if the person is compensated; paid solicitor does not include
+(A) an attorney licensed to practice law in this or another state, an investment counselor, an insurance company, or a supervised financial institution, to the extent the attorney, investment counselor, insurance company, or supervised financial institution advises the person on whether to make a contribution; or
+(B) a bona fide salaried officer, employee, or volunteer of a charitable organization;
+(5) solicit means to request, directly or indirectly, and includes
+(A) an oral or written request;
+(B) a request made by an announcement to the news media or by radio, television, telephone, facsimile machine, or other transmission of images or information;
+(C) a request made in a handbill or other written advertisement that is distributed or posted;
+(D) the sale of, or attempt to sell, a membership, an advertisement, advertising space, or a tangible item by making a request for financial support for a charitable organization or purpose, by using or referring to the name of a charitable organization as a reason for making the request, or by making a statement that all or part of the sale proceeds will be used for a charitable purpose or benefit a charitable organization;
+(6) solicitation campaign means soliciting contributions of money or other property from two or more persons for the same charitable organization;
+(7) supervised financial institution means a commercial bank, savings bank, mutual savings bank, trust company, savings and loan association, credit union, industrial loan company, personal property broker, consumer finance lender, commercial finance lender, or other financial institution if the financial institution is subject to regulation by this state or the United States.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

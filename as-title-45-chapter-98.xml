@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-98"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-98"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.98"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-98/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-98/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-98/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-98/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_98">
+          <num>98</num>
+          <heading>Historical District Loan Act</heading>
+          <section eId="sec_45-98-010">
+            <num>45.98.010</num>
+            <heading>Creation of historical district revolving loan fund.</heading>
+            <subsection eId="45-98-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is created in the Department of Commerce, Community, and Economic Development a historical district revolving loan fund.  All principal and interest payments, and money chargeable to principal or interest that is collected through liquidation by foreclosure or other process on loans made under this chapter, shall be paid into the historical district revolving loan fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-98-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Money in the fund may be used by the legislature to make appropriations for costs of administering this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-98-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>On June 30 of each fiscal year the unexpended and unobligated cash balance of the fund that is attributable to loans owned by the fund lapses into the general fund.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-98-015">
+            <num>45.98.015</num>
+            <heading>Special account established.</heading>
+            <subsection eId="45-98-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is established as a special account within the historical district revolving loan fund the foreclosure expense account.  This account is established as a reserve from fund equity.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-98-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner of commerce, community, and economic development may expend money credited to the foreclosure expense account when necessary to protect the state's security interest in collateral on loans made under this chapter, or to defray expenses incurred during foreclosure proceedings after a default by an obligor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-98-020">
+            <num>45.98.020</num>
+            <heading>Historical district loans.</heading>
+            <subsection eId="45-98-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or former
+AS 29.48.110
+(b); or</p>
+              </content>
+              <paragraph eId="45-98-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a building or structure within a historical district, that is suitable for superficial modification so that it can conform to the period or motif of the surrounding buildings or structures that are the reason for the area's designation as a historical district.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-98-030">
+            <num>45.98.030</num>
+            <heading>Powers of the department.</heading>
+            <content>
+              <p>Sec. 45.98.030.   Powers of the department.
+For purposes of administering this chapter, the Department of Commerce, Community, and Economic Development may
+(1) prescribe the form and procedure for submitting loan applications under this chapter;
+(2) designate agents and delegate powers to them as is necessary;
+(3) in consultation with the Alaska Historical Commission, adopt regulations necessary to carry out its functions, including regulations for the process of plan approval by the commission and regulations to establish reasonable fees for services provided and charges for collecting the fees;
+(4) establish amortization plans for the repayment of loans not to exceed 30 years;
+(5) collect the fees and collection charges established under this section.</p>
+            </content>
+          </section>
+          <section eId="sec_45-98-040">
+            <num>45.98.040</num>
+            <heading>Limitations on loans.</heading>
+            <content>
+              <p>Sec. 45.98.040.   Limitations on loans.
+Loans made under this chapter are subject to the following limitations:
+(1) state participation in all loans in the aggregate, for any one historical district qualifying under this chapter may not exceed $1,500,000;
+(2) state participation in a loan for the restoration, improvement, rehabilitation, or maintenance of any one building or structure qualifying under this chapter may not exceed $250,000;
+(3) the loans shall be secured by acceptable collateral and may not exceed 85 percent of the appraised value of the collateral offered as security;
+(4) the rate of interest may not exceed seven and one-half percent a year on the unpaid balance of the state's share of the loan;
+(5) a participating financial institution shall administer and service the loan for a reasonable fee not exceeding one-quarter of one percent;
+(6) the state has a lien on the property accepted as collateral to the extent of its portion of the loan; when the lien or notice of the lien is properly recorded it is superior to all other liens except those for taxes and special assessments; a lien of the participating financial institution, to the extent of its portion of the loan after it is properly recorded, is superior to all other liens except liens for taxes, special assessments, and the lien of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_45-98-050">
+            <num>45.98.050</num>
+            <heading>Sale or transfer of mortgages and notes.</heading>
+            <subsection eId="45-98-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of commerce, community, and economic development or a designee of the commissioner may sell or transfer at par value or at a premium or discount to any bank or other private purchaser for cash or other consideration the mortgages and notes held by the Department of Commerce, Community, and Economic Development as security for loans made under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-98-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 33 ch 141 SLA 1988.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-98-055">
+            <num>45.98.055</num>
+            <heading>Disposal of property acquired by default or foreclosure.</heading>
+            <content>
+              <p>Sec. 45.98.055.   Disposal of property acquired by default or foreclosure.
+The Department of Commerce, Community, and Economic Development shall dispose of property acquired through default or foreclosure of a loan made under this chapter. Disposal shall be made in a manner that serves the best interests of the state, and may include the amortization of payments over a period of years.</p>
+            </content>
+          </section>
+          <section eId="sec_45-98-060">
+            <num>45.98.060</num>
+            <heading>Penalty provision.</heading>
+            <content>
+              <p>Sec. 45.98.060.   Penalty provision.
+After a project for which a loan is granted is commenced, if the Department of Commerce, Community, and Economic Development or a local historical district commission, in consultation with the Alaska Historical Commission, determines that the project is inconsistent with the guidelines or stipulations for construction, or otherwise fails to conform to the requirements of the loan, the interest rate on the state's share of the loan shall be increased to the highest rate of interest allowed at that time as provided in
+AS 45.45.010
+. In addition, a penalty in the amount of two percent of the balance of the loan shall be assessed by the Department of Commerce, Community, and Economic Development.</p>
+            </content>
+          </section>
+          <section eId="sec_45-98-070">
+            <num>45.98.070</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 45.98.070.   Short title.
+This chapter may be cited as the Historical District Loan Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

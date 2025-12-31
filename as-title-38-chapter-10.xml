@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-10"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="38.10"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_38">
+        <num>38</num>
+        <heading>Public Land</heading>
+        <chapter eId="title_38__chp_10">
+          <num>10</num>
+          <heading>Transfer of Tide and Submerged Land</heading>
+          <section eId="sec_38-10-010">
+            <num>38.10.010</num>
+            <heading>Application for transfer.</heading>
+            <content>
+              <p>Sec. 38.10.010.   Application for transfer.
+Upon application by a municipal corporation with a population of less than 5,000 persons according to the latest United States census entitled to a conveyance of tide and submerged land under
+AS 38.05.820
+(b), the director of the division of lands of the Department of Natural Resources may make or provide for the making of surveys that may be required for the transfer of tide and submerged land to the municipal corporation, and as may be required for subsequent conveyance of the tide and submerged land by the municipal corporations to occupants of the land who hold preference rights. When the application by the municipal corporation is accepted, the governing body of the municipal corporation shall execute a contract on a form approved by the attorney general providing for the survey under the sole management and supervision of the director and for repayment according to the provisions of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_38-10-020">
+            <num>38.10.020</num>
+            <heading>Surveys.</heading>
+            <content>
+              <p>Sec. 38.10.020.   Surveys.
+The survey provided for in
+AS 38.10.010
+shall define the outside boundary of the land to be conveyed to the municipal corporation and shall, on the same or separate plats, show all structures and improvements and the boundaries of each tract occupied or developed, together with the name of the owner or claimant, and shall contain sufficient data to permit preparation of adequate legal descriptions of the tracts to be conveyed.  The plats shall provide the same information as to all tracts adjoining the outside boundary of the land to be conveyed to the municipal corporation.  A sketch plat, sufficient for its purpose in the opinion of the director, shall indicate the boundaries of each occupied or developed tract as determined by the governing body of the municipal corporation and the sketch plat shall be prepared and submitted to the director before actual surveying shall begin.  Nothing in this chapter and nothing in a plat or sketch showing interior subdivision of the land to be conveyed to the municipal corporation shall be construed as a determination of any preference right, nor shall it prohibit adjustment and re-survey of the interior subdivision.</p>
+            </content>
+          </section>
+          <section eId="sec_38-10-030">
+            <num>38.10.030</num>
+            <heading>Costs and expenses of surveys.</heading>
+            <content>
+              <p>Sec. 38.10.030.   Costs and expenses of surveys.
+Money shall be appropriated from the general fund in an amount to be determined from time to time by the legislature to facilitate such work.  Accounting of all costs and expenses of the surveys shall be made to the municipal corporation by the director periodically and a final accounting shall be made upon patent of the land to the municipal corporation.  Costs and expenses chargeable to the city shall include the actual amount expended for the survey and a reasonable allocation of overhead, travel, and equipment expense.  The total amount of costs and expenses shall be repaid to the fund through the director by the municipal corporation for whom the survey was made, with interest at six percent a year from the date of patent.  The actual cost of survey of each interior subdivision shall be determined by the director.  For tracts conveyed to a preference right holder, the state shall be reimbursed by the municipal corporation in the amount of the survey costs of that tract as determined by the director within 30 days after the transfer of each tract.  For tracts conveyed, leased, or otherwise disposed of by the municipal corporation, the fund shall be reimbursed by the municipal corporation in an amount equal to 90 percent of the gross proceeds of the sale, lease, or other disposal of each tract until the total amount of the costs and expenses of the survey, with interest, due the state is paid.  The total amount, with interest, shall be reimbursed to the state within five years from the date of patent.</p>
+            </content>
+          </section>
+          <section eId="sec_38-10-040">
+            <num>38.10.040</num>
+            <heading>Conveyances.</heading>
+            <content>
+              <p>Sec. 38.10.040.   Conveyances.
+Conveyances by the municipal corporation to a preference right holder, or any other conveyance, lease, or disposal by the municipality under this chapter shall be in accordance with
+AS 38.05
+except as otherwise provided in this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_38-10-050">
+            <num>38.10.050</num>
+            <heading>Regulations and procedures.</heading>
+            <content>
+              <p>Sec. 38.10.050.   Regulations and procedures.
+The commissioner of natural resources, upon recommendation of the director, may establish reasonable procedures and adopt reasonable regulations necessary to carry out this chapter.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-85"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-85"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.85"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-85/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-85/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-85/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-85/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_85">
+          <num>85</num>
+          <heading>Regulation of Multiple Employer Welfare Arrangements</heading>
+          <section eId="sec_21-85-010">
+            <num>21.85.010</num>
+            <heading>Certificate of authority required.</heading>
+            <subsection eId="21-85-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not establish or maintain a self-funded multiple employer welfare arrangement except as authorized by a subsisting certificate of authority issued to the arrangement by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-85-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A self-funded multiple employer welfare arrangement is established or maintained in this state if</p>
+              </content>
+              <paragraph eId="21-85-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>one or more of the employer members participating in the arrangement is domiciled or maintains its principal place of business in the state; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the multiple employer welfare arrangement solicits an employer that is domiciled in this state or has its principal headquarters or principal administrative offices in this state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-85-020">
+            <num>21.85.020</num>
+            <heading>Name.</heading>
+            <content>
+              <p>Sec. 21.85.020.   Name.
+A self-funded multiple employer welfare arrangement may not use a name that includes the words insurance, casualty, surety, health and accident, mutual, or other terms descriptive of an insurer or insurance business. A self-funded multiple employer welfare arrangement may not have or use a name that is the same as or so similar to that of another self-funded multiple employer welfare arrangement or insurer that the name is likely to mislead the public.</p>
+            </content>
+          </section>
+          <section eId="sec_21-85-030">
+            <num>21.85.030</num>
+            <heading>Qualifications for a certificate of authority.</heading>
+            <subsection eId="21-85-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director may not issue a certificate of authority to a self-funded multiple employer welfare arrangement unless the arrangement establishes to the satisfaction of the director that</p>
+              </content>
+              <paragraph eId="21-85-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>employers participating in the arrangement are members of a bona fide association or group of two or more businesses in the same or a closely related trade, profession, or industry that provide support, services, or supplies primarily to that trade, profession, or industry;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>employers or employees participating in the arrangement exercise direct control over the arrangement; as described in this paragraph,
+(A) subject to (B) of this paragraph, direct control exists if the employers or employees participating in the arrangement have the right to elect at least 75 percent of the individuals designated in the arrangement's organizational documents as having control over the operations of the arrangement and the individuals designated in the arrangement's organizational documents in fact exercise control over the operation of the arrangement;
+(B) use of a third-party administrator to process claims and to assist in the administration of the arrangement is not evidence of the lack of exercise of control over the operations of the arrangement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the arrangement is a nonprofit organization;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the arrangement provides only allowable benefits, except the arrangement may also provide
+(A) life or disability insurance coverage to its participants if the life or disability insurance coverage is provided under contracts with other insurers that comply with this title; or
+(B) limited short-term disability insurance coverage, if approved by the director;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the arrangement has adequate facilities and competent personnel, as determined by the director, to service the health benefit plan or has contracted with a third-party administrator licensed under
+AS 21.27
+to service the health benefit plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-030__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the arrangement provides allowable benefits to not less than two employers and not less than 75 employees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-030__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the arrangement does not solicit participation in the arrangement from the general public, except the arrangement may employ or independently contract with a licensed insurance producer who may be paid a commission or other remuneration to enroll employers in the arrangement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-030__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the arrangement is not organized or maintained solely as a conduit for the collection of premiums and the forwarding of premiums to an insurance company, except that the arrangement may act as a conduit for the collection and forwarding of premiums for life insurance coverage under (4) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-030__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>the arrangement
+(A) has deposited $200,000 with the director to be used for the payment of claims in the event the arrangement becomes insolvent and has submitted to the director a written plan of operation that, in the discretion of the director, ensures the financial integrity of the arrangement; and
+(B) is able to remain financially solvent; the director may consider the following in determining the ability of the arrangement to remain financially solvent:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-85-030__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>pro forma financial statements;
+(ii) types and levels of stop-loss insurance coverage, including attachment points of the coverage;
+(iii) whether a deposit is required for each employee covered under the arrangement equal to at least one month's cost of providing benefits under the arrangement;
+(iv) the experience of the individuals who will be involved in the management of the arrangement, including employees, independent contractors, and consultants; and</p>
+              </content>
+            </subsection>
+            <subsection eId="21-85-030__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>other factors the director considers relevant to determining the ability of the arrangement to remain financially solvent.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-85-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may require that the articles, bylaws, agreements, trusts, or other documents or instruments describing the rights and obligations of the employers, employees, and beneficiaries of the arrangement require that employers participating in the arrangement are liable for a pro rata share of all liabilities of the arrangement that are unpaid.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-85-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The arrangement shall maintain stop-loss insurance coverage covering 100 percent of claims in excess of the attachment point recommended by a qualified actuary.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-85-040">
+            <num>21.85.040</num>
+            <heading>Application for a certificate of authority.</heading>
+            <content>
+              <p>Sec. 21.85.040.   Application for a certificate of authority.
+To apply for an original certificate of authority, a self-funded multiple employer welfare arrangement shall file with the director its application, accompanied by the applicable fees set under
+AS 21.06.250
+, showing its name, the location of its home office, its date of organization, its state of domicile, and additional information that the director may reasonably require. The application shall be submitted together with
+(1) a copy of all articles, bylaws, agreements, trusts, or other documents or instruments describing the rights and obligations of the employers, employees, and beneficiaries of the arrangement;
+(2) a copy of each summary plan description of the arrangement filed or required to be filed with the United States Department of Labor, including any amendments to each description;
+(3) evidence of coverage of or letter of intent to participate executed by at least two employers providing allowable benefits to at least 75 employees;
+(4) a copy of the arrangement's most recent financial statement in compliance with
+AS 21.85.080
+or, if the arrangement has been in existence for less than one year, pro forma financial statements, including a balance sheet, an income statement, a statement of changes in financial condition, and an actuarial opinion that the unpaid claim liability of the arrangement satisfies the standards in
+AS 21.18.080
+ 21.18.086;
+(5) proof that the arrangement maintains and will continue to maintain fidelity bonds required by the United States Department of Labor under 29 U.S.C. 1001  1461 (Employee Retirement Income Security Act of 1974);
+(6) a copy of any stop-loss insurance policies maintained or proposed to be maintained by the arrangement;
+(7) biographical reports, on forms prescribed by the National Association of Insurance Commissioners, evidencing the general trustworthiness and competence of each individual who is serving or who will serve as a managing employee or fiduciary of the arrangement;
+(8) a notarized statement executed by an officer of the arrangement certifying, to the best knowledge and belief of the officer, that the information provided in the application is true and correct and that the arrangement is in compliance with the requirements in
+(A)
+AS 21.85.020
+;
+(B) 29 U.S.C. 1001  1461 (Employee Retirement Income Security Act of 1974) or a statement of any requirements with which the arrangement is not in compliance and a statement of proposed corrective action; and
+(C)
+AS 21.85.050
+;
+(9) base contribution rates for participation under the arrangement for its initial year of operations; and
+(10) for a foreign multiple employer welfare arrangement,
+(A) a certificate of the public official having supervision of insurance in its state or country of domicile or state of entry into the United States, showing that it is authorized to transact the kinds of insurance proposed to be transacted in this state or an affidavit attesting to the reasons why a certificate is not available;
+(B) a copy of the arrangement's most recent financial statement filed with its state of domicile, if any, with an actuarial opinion on reported unpaid claims;
+(C) a copy of a management discussion and analysis filed with its state of domicile, if any; and
+(D) a copy of the report of last examination, if any, made of the insurer, issued by the insurance supervisory official of its state of domicile or state of entry into the United States.</p>
+            </content>
+          </section>
+          <section eId="sec_21-85-050">
+            <num>21.85.050</num>
+            <heading>Minimum reserves.</heading>
+            <content>
+              <p>Sec. 21.85.050.   Minimum reserves.
+A self-funded multiple employer welfare arrangement shall establish and maintain reserves equal to the greater of
+(1) 30 percent of the unpaid claim liability of the arrangement; or
+(2) the amount recommended and certified by a qualified actuary.</p>
+            </content>
+          </section>
+          <section eId="sec_21-85-060">
+            <num>21.85.060</num>
+            <heading>Investments.</heading>
+            <content>
+              <p>Sec. 21.85.060.   Investments.
+A multiple employer welfare arrangement shall maintain an amount at least equal to 85 percent of net unpaid claim liability in
+(1) cash and cash equivalents;
+(2) the fully insured portion of a bank deposit when the insurance is provided by a solvent agency of the United States government or by collateral;
+(3) a bank certificate of deposit, subject to review by the director; if the director determines that the amount of the certificate of deposit purchased by an insurer in any one bank is not a sound investment, the director may require the insurer to liquidate that portion found to be an unsound investment;
+(4) a share or savings account of a savings and loan or building and loan association, to the extent that an account is insured by the Federal Deposit Insurance Corporation; or
+(5) a rated credit instrument that is issued, assumed, guaranteed, or insured by the United States or Canada or by a government-sponsored enterprise of the United States or Canada if the instrument is assumed, guaranteed, or insured by the United States or Canada or is otherwise backed or supported by the full faith and credit of the United States or Canada.</p>
+            </content>
+          </section>
+          <section eId="sec_21-85-070">
+            <num>21.85.070</num>
+            <heading>Contribution rates.</heading>
+            <subsection eId="21-85-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A self-funded multiple employer welfare arrangement shall establish and maintain contribution rates that</p>
+              </content>
+              <paragraph eId="21-85-070__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>fund the greater of
+(A) the amount recommended and certified by a qualified actuary in order for the self-funded multiple employer welfare arrangement to remain financially solvent; or
+(B) the sum of projected claims liability for the year, plus all projected costs of operation of the arrangement for the year, plus an amount equal to any deficiency in the reserves of the arrangement for the prior year, minus an amount equal to the reserves of the arrangement in excess of the minimum required level of reserves; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-070__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>are not excessive, inadequate, or unfairly discriminatory.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-85-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A self-funded multiple employer welfare arrangement shall, before use, file with the director</p>
+              </content>
+              <paragraph eId="21-85-070__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a rate or fee of any kind to be charged a participating employer or employee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-070__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>every rating manual, schedule, plan, rule, or formula; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-070__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>any modification to the rating manual, schedule, plan, rule or formula.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-85-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director shall disapprove by order a contribution rate or fee submitted under (b) of this section that does not meet the requirements of (a) of this section or is in any respect not in compliance with or in violation of law.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-85-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A filing under (b) of this section must state the effective date and must provide a comprehensive description of the coverage. The director may withhold the information provided under (b)(2) and (3) of this section from public inspection for as long as the director determines that withholding the information is necessary to protect the arrangement against unwarranted injury or is in the public interest.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-85-080">
+            <num>21.85.080</num>
+            <heading>Reporting requirements.</heading>
+            <subsection eId="21-85-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A self-funded multiple employer welfare arrangement shall annually, before March 2, file with the director on forms prescribed by the director, a full and true statement of its financial condition, transactions, and affairs as of the preceding December 31, including</p>
+              </content>
+              <paragraph eId="21-85-080__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a statement of financial condition;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-080__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a statement of change in financial condition for the year accompanied by an actuarial opinion by a qualified actuary that includes
+(A) a certification that the unpaid claim liability of the arrangement meets the requirements of
+AS 21.18.080
+ 21.18.086;
+(B) the recommended level of specific and aggregate stop-loss insurance the arrangement should maintain;
+(C) a description of the actuarial soundness of the arrangement, including any recommended actions the arrangement should take to improve its actuarial soundness;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-080__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a statement of the arrangement's contribution rates for the next year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-080__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>if the total payments to the arrangement for participation during the prior year of operations exceeded the sum of $2,000,000, certified financial statements for the prior two years, or for each year and partial year that the self-funded multiple employer welfare arrangement has been in business if less than two years;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-080__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a report showing the number of participating employers and number of covered lives at the end of the year and contributions received during the year in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-080__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>additional information the director determines is necessary in order to determine the financial integrity of the arrangement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-85-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A self-funded multiple employer welfare arrangement shall, within 60 days after the end of each quarter, file with the director, on forms prescribed by the director, a full and true statement of its financial condition, transactions, and affairs as of the preceding quarter, including</p>
+              </content>
+              <paragraph eId="21-85-080__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a statement of financial condition;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-080__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a statement of change in financial condition for the period since the end of the prior year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-080__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a report showing the number of participating employers and number of covered lives at the end of the quarter and contributions received during the quarter in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-080__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>additional information the director determines is necessary in order to determine the financial integrity of the arrangement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-85-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A self-funded multiple employer welfare arrangement shall file with the director a copy of the arrangement's Internal Revenue Service form 5500, including all attachments to the form.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-85-090">
+            <num>21.85.090</num>
+            <heading>Consumer information notice.</heading>
+            <content>
+              <p>Sec. 21.85.090.   Consumer information notice.
+A self-funded multiple employer welfare arrangement must provide a written notice to each participating employee at the time that coverage becomes effective. The notice must
+(1) be clear and conspicuous;
+(2) be in at least 10-point type;
+(3) state that
+(A) the coverage is issued by a self-funded multiple employer welfare arrangement;
+(B) coverage and benefits provided under a self-funded multiple employer welfare arrangement are not protected by the Alaska Life and Health Insurance Guaranty Association; and
+(C) if the self-funded multiple employer welfare arrangement does not pay expenses that are eligible for payment under the plan for any reason, the employer or employee covered by the plan may be responsible for the payment of those expenses.</p>
+            </content>
+          </section>
+          <section eId="sec_21-85-100">
+            <num>21.85.100</num>
+            <heading>Applicability of other provisions.</heading>
+            <content>
+              <p>Sec. 21.85.100.   Applicability of other provisions.
+In addition to the provisions contained or referred to in this chapter, the following chapters and provisions of this title also apply with respect to self-funded multiple employer welfare arrangements to the extent applicable and not in conflict with the express provisions of this chapter and the reasonable implications of the express provisions, and, for the purposes of the application, the arrangements shall be considered to be a mutual insurer:
+(1)
+AS 21.03
+;
+(2)
+AS 21.06
+;
+(3)
+AS 21.07
+;
+(4)
+AS 21.09.100
+, 21.09.120, 21.09.130, 21.09.140  21.09.200, 21.09.210, 21.09.245  21.09.270, 21.09.300, and 21.09.320;
+(5)
+AS 21.18.010
+ 21.18.050, 21.18.080  21.18.086, and 21.18.100;
+(6)
+AS 21.24
+;
+(7)
+AS 21.33
+;
+(8)
+AS 21.36
+;
+(9)
+AS 21.42.120
+, 21.42.130, and 21.42.345  21.42.599;
+(10)
+AS 21.48
+;
+(11)
+AS 21.54
+;
+(12)
+AS 21.55
+;
+(13)
+AS 21.56
+;
+(14)
+AS 21.78
+;
+(15)
+AS 21.96.060
+;
+(16)
+AS 21.97
+.</p>
+            </content>
+          </section>
+          <section eId="sec_21-85-500">
+            <num>21.85.500</num>
+            <heading>Definitions.</heading>
+            <subsection eId="21-85-500__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a violation of this title or other law pertinent to the duties or responsibilities of a qualified actuary;
+(ii) conviction of a fraudulent act;
+(iii) conduct considered by the director to reflect incompetence or untrustworthiness;
+(iv) resignation or removal as an actuary with a company or a consulting firm within the past five years due to acts or omissions indicated in a report of examination or due to failure to adhere to generally accepted actuarial standards; or</p>
+              </content>
+            </subsection>
+            <subsection eId="21-85-500__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>failure to notify the director of an action taken against the actuary by an insurance regulator of another state for grounds that are substantially the same as a provision under this paragraph;</p>
+              </content>
+              <paragraph eId="21-85-500__subsec_v__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>reserves means the excess of assets of a self-funded multiple employer welfare arrangement minus the liabilities of the arrangement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-85-500__subsec_v__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>self-funded multiple employer welfare arrangement or arrangement means a multiple employer welfare arrangement that does not provide for payment of benefits under the arrangement solely through a policy of insurance issued by one or more authorized insurance companies.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

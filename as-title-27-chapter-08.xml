@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-08"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-08"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="27.08"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-08/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-08/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-08/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-08/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_27">
+        <num>27</num>
+        <heading>Mining</heading>
+        <chapter eId="title_27__chp_08">
+          <num>08</num>
+          <heading>Interstate Mining Compact</heading>
+          <section eId="sec_27-08-010">
+            <num>27.08.010</num>
+            <heading>Compact enacted.</heading>
+            <content>
+              <p>Sec. 27.08.010.   Compact enacted.
+The Interstate Mining Compact contained in this section is enacted into law and entered into as follows:</p>
+            </content>
+          </section>
+          <section eId="sec_27-08-020">
+            <num>27.08.020</num>
+            <heading>Alternate.</heading>
+            <content>
+              <p>Sec. 27.08.020.   Alternate.
+The governor may designate the commissioner of natural resources as the governor's alternate to the Interstate Mining Commission.</p>
+            </content>
+          </section>
+          <section eId="sec_27-08-030">
+            <num>27.08.030</num>
+            <heading>Compact bylaws.</heading>
+            <content>
+              <p>Sec. 27.08.030.   Compact bylaws.
+In accordance with art. V(i) of the compact, the Interstate Mining Commission shall file copies of its bylaws and any amendments to the bylaws with the commissioner of natural resources.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

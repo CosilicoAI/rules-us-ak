@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-90"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-90"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="36.90"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-90/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-90/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-90/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-90/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_36">
+        <num>36</num>
+        <heading>Public Contracts</heading>
+        <chapter eId="title_36__chp_90">
+          <num>90</num>
+          <heading>Miscellaneous Provisions</heading>
+          <section eId="sec_36-90-049">
+            <num>36.90.049</num>
+            <heading>Maintenance of state marine vessels.</heading>
+            <subsection eId="36-90-049__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A marine vessel owned by the state shall be maintained and repaired at a shipyard facility located in the state unless the commissioner of the department that operates the marine vessel determines in writing that there is no shipyard facility located in the state that is equipped or qualified to perform the particular maintenance or repair required, or, after taking into consideration the five percent preference under
+AS 36.30.321</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-049__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and the interport differential, that the proposed cost of the maintenance or repair work is unreasonable. A detailed list of the costs and factors considered in calculating the interport differential must be provided to each person who expresses an interest in submitting a bid to perform maintenance or repair work on a marine vessel owned by the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-049__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The competitive bid provisions of
+AS 36.30
+do not apply to a contract for the maintenance or repair of a marine vessel owned by the state if the contract is awarded to a shipyard facility in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-049__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner of the department that operates a marine vessel shall adopt regulations establishing the criteria that the department shall use to determine whether the cost of maintenance or repair work at a shipyard facility located in the state is reasonable under (a) of this section. The commissioner of the department that operates a marine vessel shall designate by regulation the designated base port for each vessel operated by the department; however, the designated base port for marine vessels of the Alaska marine highway system is Ketchikan for those vessels primarily serving that portion of the state east of the longitude of Icy Cape and is Seward for those vessels primarily serving the remainder of the state. A vessel's designated base port is the vessel's delivery and redelivery port.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-049__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commissioner of the department that operates a marine vessel shall adopt regulations establishing the criteria that the commissioner shall use in calculating the interport differential under this section. The criteria for calculating the interport differential must include costs incurred from the time that the vessel leaves the vessel's designated base port to enter the shipyard facility until the time that the vessel returns to the designated base port from the shipyard facility.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-049__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="36-90-049__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>commissioner of the department that operates the marine vessel includes the president of the University of Alaska with regard to a vessel operated by the university;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-049__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>interport differential includes all costs related to the performance of the maintenance or repair work of a marine vessel at a shipyard, including travel costs incurred moving the vessel from its designated base port to the shipyard, additional fuel consumption, cost of consumables including lubricants and other engine and deck stores, maintenance costs incurred during running time, cost of crew transfers including airfare between the designated base port and the shipyard, wages in travel status, crew room and board, and other interport costs identified by the commissioner of the department that operates the marine vessel.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_36-90-100">
+            <num>36.90.100</num>
+            <heading>Contracts for architectural, engineering, land surveying, or landscape architectural services.</heading>
+            <content>
+              <p>Sec. 36.90.100.   Contracts for architectural, engineering, land surveying, or landscape architectural services.
+The state or a municipality may not award a contract for architectural, engineering, land surveying, or landscape architectural services to
+(1) an individual who is not registered under
+AS 08.48
+to perform the architectural, engineering, land surveying, or landscape architectural services required by the contract;
+(2) a partnership, except as provided by (3) of this section, that is not qualified under
+AS 08.48.251
+to provide the architectural, engineering, land surveying, or landscape architectural services required by the contract; or
+(3) a corporation, limited liability company, or limited liability partnership that is not authorized under
+AS 08.48.241
+to offer the architectural, engineering, land surveying, or landscape architectural services required by the contract.
+Article 3. Public Construction Contract Payment.</p>
+            </content>
+          </section>
+          <section eId="sec_36-90-200">
+            <num>36.90.200</num>
+            <heading>Payment deadline and interest.</heading>
+            <subsection eId="36-90-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The state or a political subdivision of the state shall pay the prime contractor for satisfactory performance on a public construction or public works contract within 30 calendar days of the date the state or political subdivision receives a payment request from the prime contractor that complies with the contract. If a political subdivision is going to use grant money for the contract, the subdivision shall pay the prime contractor for satisfactory performance within 21 calendar days of the date the subdivision receives a payment request that complies with the contract or within 21 calendar days of the date the subdivision actually receives the grant money, whichever is later. If the state is going to use federal money for the contract, the state shall pay the prime contractor for satisfactory performance within 21 calendar days of the date the state receives a payment request that complies with the contract or within 21 calendar days of the date the state actually receives the federal money, whichever is later.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the prime contractor is not paid as required by (a) of this section, the state or political subdivision shall pay interest on the unpaid amount of the required payment from the 21st calendar day after the date required for payment under (a) of this section at an interest rate that is equal to the amount set out in
+AS 45.45.010
+(a).</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If part or all of a payment is going to be withheld for unsatisfactory performance or if the payment request made under (a) of this section does not comply with the requirements of the contract, within eight working days after receipt of the payment request the state or political subdivision shall notify the prime contractor in writing stating specifically why part or all of the payment is being withheld and what remedial actions may be taken by the prime contractor to receive the full payment.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-200__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the notification by the state or political subdivision required by (c) of this section does not comply with (c) of this section, the state or political subdivision shall pay interest on the withheld amount from the eighth working day after receipt of the initial payment request until the state or political subdivision provides notice that does comply with (c) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-200__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If part or all of a payment is withheld under (c) of this section, the state or political subdivision shall pay the withheld amount within 21 calendar days after the prime contractor satisfactorily completes the remedial actions identified in the notice. If a political subdivision is going to use grant money for the contract, the subdivision shall pay the prime contractor within 21 calendar days after the prime contractor satisfactorily completes the remedial actions identified in the notice or within 21 calendar days after the political subdivision actually receives the grant money, whichever is later. If the state is going to use federal money for the contract, the state shall pay the prime contractor within 21 calendar days after the prime contractor satisfactorily completes the remedial actions identified in the notice, or within 21 calendar days after the subdivision actually receives the money, whichever is later. If the withheld amount is not paid within the 21 calendar days, the state or political subdivision shall pay interest on the withheld amount from the 21st calendar day at an interest rate that is equal to the amount set out in
+AS 45.45.010
+(a).</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-200__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The obligation to pay interest under this section does not apply to retainage.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-200__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>This section does not apply to public construction or public works contracts made by a political subdivision that has a population under 800.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-90-210">
+            <num>36.90.210</num>
+            <heading>Required contractual terms.</heading>
+            <subsection eId="36-90-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The prime contractor and a subcontractor on a public construction or public works contract must include in a subcontract between the prime contractor and subcontractor for the public construction or public works a clause that requires the prime contractor to pay</p>
+              </content>
+              <paragraph eId="36-90-210__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the subcontractor for satisfactory performance under the subcontract within eight working days after receiving payment from which the subcontractor is to be paid;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-210__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the subcontractor all retainage due under the subcontract within eight working days after final payment is received from the state or political subdivision or after the notice period under
+AS 36.25.020</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-90-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>expires, whichever is later;</p>
+              </content>
+              <paragraph eId="36-90-210__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the subcontractor interest on an amount that is not paid in accordance with (1) of this subsection for the period beginning on the day after the required payment date and ending on the day on which payment of the amount due is made; the interest shall be computed at an interest rate that is equal to the amount set out in
+AS 45.45.010</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-210__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>interest on retainage withheld from the subcontractor at an interest rate that is equal to the amount set out in
+AS 45.45.010</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-90-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A subcontractor on a public construction or public works contract must include in each subcontract under which a person agrees to provide the subcontractor with services, other than as an employee, or supplies to be used in the public construction or public works project a clause that requires the subcontractor to pay</p>
+              </content>
+              <paragraph eId="36-90-210__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the person for satisfactory performance under the subcontract within eight working days after receiving payment from which the person is to be paid;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-210__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the person all retainage due under the subcontract with the person within eight working days after the subcontractor receives its share of the state-held retainage from the prime contractor or another subcontractor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-210__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the person interest on an amount that is not paid in accordance with (1) of this subsection for the period beginning on the day after the required payment date and ending on the day on which payment of the amount due is made; the interest shall be computed at an interest rate that is equal to the amount set out in
+AS 45.45.010</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-210__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>interest on retainage withheld from the person at an interest rate that is equal to the amount set out in
+AS 45.45.010</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_36-90-220">
+            <num>36.90.220</num>
+            <heading>Optional contractual terms.</heading>
+            <content>
+              <p>Sec. 36.90.220.   Optional contractual terms.
+Notwithstanding
+AS 36.90.210
+and 36.90.230, the prime contractor or a subcontractor may negotiate and include in a public construction or public works subcontract a provision that permits
+(1) the prime contractor or a subcontractor to determine that part or all of a subcontractor's request for payment may be withheld for unsatisfactory performance under the subcontract; and
+(2) the prime contractor or a subcontractor to withhold payment for unsatisfactory performance without incurring an obligation to pay interest for late payment, if a notice complying with
+AS 36.90.240
+has been previously furnished to the subcontractor and a copy of the notice is furnished to the contracting officer of the state or political subdivision.</p>
+            </content>
+          </section>
+          <section eId="sec_36-90-230">
+            <num>36.90.230</num>
+            <heading>Withholding payment for unsatisfactory performance.</heading>
+            <subsection eId="36-90-230__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the prime contractor on a public construction or public works contract, after making a request for payment to the state or political subdivision but before paying a subcontractor for the subcontractor's performance covered by the payment request, discovers that part or all of the payment otherwise due to the subcontractor is subject to withholding from the subcontractor under the subcontract for unsatisfactory performance, the prime contractor may withhold the amount as allowed under the subcontract. If the prime contractor withholds an amount under this subsection, the prime contractor shall</p>
+              </content>
+              <paragraph eId="36-90-230__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>give the subcontractor a notice complying with
+AS 36.90.240
+as soon as practicable after determing the cause for the withholding but before the due date for the subcontractor payment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-230__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>give the contracting officer of the state or political subdivision a copy of the notice furnished to the subcontractor under (1) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-230__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>pay the subcontractor within eight working days after correction of the identified subcontractor performance deficiency.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-90-230__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the prime contractor does not comply with the notice and payment requirements of (a) of this section, the contractor shall pay the subcontractor interest on the withheld amount from the eighth working day at an interest rate that is equal to the amount set out in
+AS 45.45.010
+(a).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-90-240">
+            <num>36.90.240</num>
+            <heading>Form of certain notices.</heading>
+            <content>
+              <p>Sec. 36.90.240.   Form of certain notices.
+A notice under
+AS 36.90.220
+(2) or 36.90.230(a)(1) must be in writing and must state the amount being withheld, the specific causes for the withholding under the terms of the subcontract, and the remedial actions to be taken by the subcontractor to receive payment of the amount withheld.</p>
+            </content>
+          </section>
+          <section eId="sec_36-90-250">
+            <num>36.90.250</num>
+            <heading>Retainage.</heading>
+            <subsection eId="36-90-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The state or a political subdivision of the state shall pay to the prime contractor interest on retainage, including warranty retainage, on a contract for public construction or public works at an interest rate that is equal to the amount set out in
+AS 45.45.010
+(a). Interest on retainage accrues from the date of approval of a pay request until the date of payment to the contractor.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A political subdivision that has a population of 500 or less is exempt from the payment of interest under (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-90-260">
+            <num>36.90.260</num>
+            <heading>Miscellaneous provisions.</heading>
+            <subsection eId="36-90-260__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In
+AS 36.90.210
+ 36.90.290,</p>
+              </content>
+              <paragraph eId="36-90-260__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a payment is considered to be made when mailed or personally delivered to the party being paid;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-260__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a payment is considered to be received when it is endorsed for payment, if it is a check;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-260__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an invoice is considered to be received when it is date-stamped or otherwise marked as delivered; if the invoice is not date-stamped or otherwise marked as delivered, the date of the invoice is considered to be the date when the invoice is received.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-90-260__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A political subdivision that receives a state grant for a public construction or public works project may use money from the state grant to pay the interest under
+AS 36.90.200
+ 36.90.290.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-90-265">
+            <num>36.90.265</num>
+            <heading>Applicability to political subdivisions.</heading>
+            <content>
+              <p>Sec. 36.90.265.   Applicability to political subdivisions.
+AS 36.90.200
+ 36.90.290 apply to a public construction or public works contract of a political subdivision if the political subdivision has entered into a written contract with the state for the state to provide funds for the public construction or public work.</p>
+            </content>
+          </section>
+          <section eId="sec_36-90-270">
+            <num>36.90.270</num>
+            <heading>Waiver of provisions prohibited.</heading>
+            <content>
+              <p>Sec. 36.90.270.   Waiver of provisions prohibited.
+A contract provision that waives a provision required by
+AS 36.90.200
+ 36.90.290 is void.</p>
+            </content>
+          </section>
+          <section eId="sec_36-90-290">
+            <num>36.90.290</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 36.90.290.   Definitions.
+In
+AS 36.90.200
+ 36.90.290,
+(1) prime contractor means a person required to be registered as a contractor under
+AS 08.18
+who has a contract with the state or a political subdivision of the state to provide materials or services, other than as an employee, for a public construction or public works project;
+(2) subcontractor means a person at any level, other than a prime contractor, who provides materials or services, other than as an employee, to be used in a public construction or public works project;
+(3) working day does not include a Saturday, Sunday, or state holiday.
+Article 4. Required Contract Provision.</p>
+            </content>
+          </section>
+          <section eId="sec_36-90-300">
+            <num>36.90.300</num>
+            <heading>Indemnification, defense, and hold harmless provision in certain construction-related contracts.</heading>
+            <subsection eId="36-90-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A public agency shall include in a construction-related professional services contract entered into by the public agency a provision under which the consultant agrees to indemnify, defend, and hold harmless the public agency from claims or liability for the negligent acts, errors, or omissions of the consultant. The provision must include an apportionment of the indemnification, defense, and hold harmless obligation on a comparative fault basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A provision that reads substantially as follows satisfies the requirement of (a) of this section:
+The consultant shall indemnify, defend, and hold harmless the contracting agency from and against any claim of, or liability for, negligent acts, errors, and omissions of the consultant under this agreement. The consultant is not required to indemnify, defend, or hold harmless the contracting agency for a claim of, or liability for, the independent negligent acts, errors, and omissions of the contracting agency. If there is a claim of, or liability for, a joint negligent act, error, or omission of the consultant and the contracting agency, the indemnification, defense, and hold harmless obligation of this provision shall be apportioned on a comparative fault basis. In this provision, consultant and contracting agency include the employees, agents, and contractors who are directly responsible, respectively, to each. In this provision, independent negligent acts, errors, and omissions means negligence other than in the contracting agency's selection, administration, monitoring, or controlling of the consultant, or in approving or accepting the consultant's work.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-90-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="36-90-300__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>construction means the process of building, altering, repairing, maintaining, improving, demolishing, planning, and designing a public highway, a structure, a building, a utility, infrastructure, or another public improvement to real property, but does not mean the routine operation of a public improvement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-300__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>consultant means a person who contracts with a public agency to provide professional services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-300__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>professional services has the meaning given in
+AS 36.30.990
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-90-300__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>public agency means a department, institution, board, commission, division, authority, public corporation, committee, school district, political subdivision, or other administrative unit of a municipality, of a political subdivision, or of the executive or legislative branch of state government, including the University of Alaska, the Alaska Aerospace Corporation, the Alaska Housing Finance Corporation, the Alaska Industrial Development and Export Authority, the Alaska Energy Authority, the Alaska Railroad Corporation, and a regional educational attendance area.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-07"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-07"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="22.07"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-07/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-07/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_22">
+        <num>22</num>
+        <heading>Judiciary</heading>
+        <chapter eId="title_22__chp_07">
+          <num>07</num>
+          <heading>The Court of Appeals</heading>
+          <section eId="sec_22-07-010">
+            <num>22.07.010</num>
+            <heading>Establishment.</heading>
+            <content>
+              <p>Sec. 22.07.010.   Establishment.
+There is established the court of appeals, consisting of four judges. The court of appeals is a court of record.</p>
+            </content>
+          </section>
+          <section eId="sec_22-07-020">
+            <num>22.07.020</num>
+            <heading>Jurisdiction.</heading>
+            <subsection eId="22-07-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The court of appeals has appellate jurisdiction in actions and proceedings commenced in the superior court involving</p>
+              </content>
+              <paragraph eId="22-07-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>criminal prosecution;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-07-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>post-conviction relief;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-07-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>matters under
+AS 47.12
+, including waiver of jurisdiction over a minor under
+AS 47.12.100
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-07-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>extradition;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-07-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>habeas corpus;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-07-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>probation and parole; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-07-020__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>bail.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-07-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as limited in
+AS 12.55.120
+, the court of appeals has jurisdiction to hear appeals of unsuspended sentences of imprisonment exceeding two years for a felony offense or 120 days for a misdemeanor offense imposed by the superior court on the grounds that the sentence is excessive, or a sentence of any length on the grounds that it is too lenient. The court of appeals, in the exercise of this jurisdiction, may modify the sentence as provided by law and the Constitution of the State of Alaska.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-07-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The court of appeals has jurisdiction to review (1) a final decision of the district court in an action or proceeding involving criminal prosecution, post-conviction relief, extradition, probation and parole, habeas corpus, or bail; and (2) the final decision of the district court on a sentence imposed by it if the sentence exceeds 120 days of unsuspended incarceration for a misdemeanor offense. In this subsection, final decision means a decision or order, other than dismissal by consent of all parties, that closes a matter in the district court.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-07-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An appeal to the court of appeals is a matter of right in all actions and proceedings within its jurisdiction except that</p>
+              </content>
+              <paragraph eId="22-07-020__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the right of appeal to the court of appeals is waived if an appellant chooses to appeal the final decision of the district court to the superior court; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-07-020__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the state's right of appeal in criminal cases is limited by the prohibitions against double jeopardy contained in the United States Constitution and the Alaska Constitution.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-07-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The court of appeals may in its discretion (1) review a final decision of the superior court on an appeal from a district court in an action or proceeding involving criminal prosecution, post-conviction relief, extradition, probation and parole, habeas corpus or bail; (2) review the final decision of the superior court on appeal of a sentence imposed by the district court.  In this subsection, final decision means a decision or order, other than a dismissal by consent of all parties, that closes a matter in the superior court.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-07-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The court of appeals may issue injunctions, writs, and all other process necessary for the complete exercise of its jurisdiction.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-07-020__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A final decision of the court of appeals is binding on the superior court and on the district court unless superseded by a decision of the supreme court.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-07-030">
+            <num>22.07.030</num>
+            <heading>Review by supreme court.</heading>
+            <content>
+              <p>Sec. 22.07.030.   Review by supreme court.
+A party may apply to the supreme court for review of a final decision of the court of appeals in accordance with
+AS 22.05.010
+and rules adopted by the supreme court.  Review is in the discretion of the supreme court as set out in
+AS 22.05.010
+(d).  In this section, final decision means a decision or order, other than a dismissal by consent of all parties, that closes a matter in the court of appeals.</p>
+            </content>
+          </section>
+          <section eId="sec_22-07-040">
+            <num>22.07.040</num>
+            <heading>Qualifications of judges.</heading>
+            <content>
+              <p>Sec. 22.07.040.   Qualifications of judges.
+A judge of the court of appeals shall be a citizen of the United States and of the state, a resident of the state for five years immediately preceding appointment, have been engaged for not less than eight years immediately preceding appointment in the active practice of law, and at the time of appointment be licensed to practice law in the state.  For purposes of this section, the active practice of law is the same as defined for the justices of the supreme court in
+AS 22.05.070
+.</p>
+            </content>
+          </section>
+          <section eId="sec_22-07-050">
+            <num>22.07.050</num>
+            <heading>Oath of office.</heading>
+            <content>
+              <p>Sec. 22.07.050.   Oath of office.
+Each judge of the court of appeals, upon entering office, shall take and subscribe to the oath or affirmation of office required of all officers under the constitution.</p>
+            </content>
+          </section>
+          <section eId="sec_22-07-060">
+            <num>22.07.060</num>
+            <heading>Approval or rejection.</heading>
+            <content>
+              <p>Sec. 22.07.060.   Approval or rejection.
+Each judge of the court of appeals is subject to approval or rejection as provided in
+AS 15
+(Alaska Election Code).  The judicial council shall conduct an evaluation of each judge before the retention election and shall provide information to the public about the judge and may provide a recommendation regarding retention or rejection. The information and any recommendation shall be made public at least 60 days before the election. The judicial council shall also provide the information and any recommendation to the office of the lieutenant governor in time for publication in the election pamphlet as required by
+AS 15.58.050
+. If a majority of those voting on the question rejects the candidacy of a judge, the rejected judge may not for a period of four years thereafter be appointed to fill a vacancy in the supreme court, the court of appeals, the superior court, or the district court of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_22-07-070">
+            <num>22.07.070</num>
+            <heading>Vacancies.</heading>
+            <subsection eId="22-07-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governor shall fill a vacancy or appoint a successor to fill an impending vacancy in the office of judge of the court of appeals within 45 days after receiving nominations from the judicial council, by appointing one of two or more persons nominated by the council for each actual or impending vacancy.  An appointment to fill an impending vacancy becomes effective upon the actual occurrence of the vacancy.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-07-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The office of a judge of the court of appeals becomes vacant 90 days after the election at which the judge is rejected by a majority of those voting on the question or for which the judge fails to file a declaration of candidacy.  Upon the occurrence of (1) an actual vacancy; (2) the certification of rejection following an election; or (3) the election following failure of a judge to file a declaration of candidacy, the judicial council shall meet within 90 days and submit to the governor the names of two or more persons qualified for the judicial office; however, the 90-day period may be extended by the judicial council with the concurrence of the supreme court. In the event of an impending vacancy other than by reason of rejection or failure to file a declaration of candidacy, the judicial council may meet at any time within the 90-day period immediately preceding the effective date of the vacancy and submit to the governor the names of two or more persons qualified for the judicial office.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-07-075">
+            <num>22.07.075</num>
+            <heading>Impeachment.</heading>
+            <content>
+              <p>Sec. 22.07.075.   Impeachment.
+A judge of the court of appeals is subject to impeachment by the legislature for malfeasance or misfeasance in the performance of official duties.  Impeachment must originate in the senate and must be approved by two-thirds vote of its members.  The motion for impeachment must list fully the basis for the proceeding.  Trial on impeachment shall be conducted by the house of representatives.  A supreme court justice designated by the court shall preside at the trial. Concurrence of two-thirds of the members of the house is required for a judgment of impeachment.  The judgment may not extend beyond removal from office, but does not prevent proceedings in a court on the same or related charges.</p>
+            </content>
+          </section>
+          <section eId="sec_22-07-080">
+            <num>22.07.080</num>
+            <heading>Restrictions.</heading>
+            <content>
+              <p>Sec. 22.07.080.   Restrictions.
+A judge of the court of appeals while holding office may not practice law, or engage in the conduct of any other profession, vocation, or business for profit or compensation, which conduct would interfere with the performance of the judicial duties of the judge, nor may a judge hold office in a political party, or hold any other office or position of profit under the United States, the state, or its political subdivisions.  A judge of the court of appeals filing for another elective public office other than delegate to a constitutional convention of this state or the United States forfeits the judicial position.</p>
+            </content>
+          </section>
+          <section eId="sec_22-07-090">
+            <num>22.07.090</num>
+            <heading>Compensation.</heading>
+            <subsection eId="22-07-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (c) of this section, the monthly base salary of a judge of the court of appeals is $13,007. The compensation of a judge may not be diminished during the term of office, unless by a general law applying to all salaried officers of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-07-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A salary disbursement may not be issued to a judge of the court of appeals until the judge has filed with the state officer designated to issue salary disbursements an affidavit that no matter referred to the judge for opinion or decision has been uncompleted or undecided by the judge for a period of more than six months.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-07-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Beginning July 1, 2006, if the monthly basic salary for Step E, Range 28, of the salary schedule set out in
+AS 39.27.011
+increases, the monthly base salary of the judges of the court of appeals shall increase by the same percentage. The increase takes effect when the salary increase under
+AS 39.27.011
+takes effect and may be retroactive if consistent with the change to
+AS 39.27.011
+. The commissioner of administration shall, by regulation, establish the percentage at which the salary is increased and the increased salary amount.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-07-100">
+            <num>22.07.100</num>
+            <heading>Process.</heading>
+            <content>
+              <p>Sec. 22.07.100.   Process.
+Process of the court of appeals shall be in the name of the State of Alaska, signed by the clerk of the court or the deputy clerk, dated when issued, sealed with the seal of court, and made returnable according to rule prescribed by the supreme court.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

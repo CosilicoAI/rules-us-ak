@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-09"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-09"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="46.09"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-09/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-09/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-09/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-09/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_46">
+        <num>46</num>
+        <heading>Water, Air, Energy, and Environmental Conservation</heading>
+        <chapter eId="title_46__chp_09">
+          <num>09</num>
+          <heading>Hazardous Substance Release Control</heading>
+          <section eId="sec_46-09-010">
+            <num>46.09.010</num>
+            <heading>Report of hazardous substance releases.</heading>
+            <subsection eId="46-09-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section, a person in charge of a vehicle, vessel, or container from which, or a place at which, a hazardous substance is released shall report the release to the department and appropriate public safety agencies promptly after learning of the release.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-09-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner may enter into an agreement with a person for the periodic reporting of a controlled release of a hazardous substance if the release is not into water.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-09-020">
+            <num>46.09.020</num>
+            <heading>Containment and cleanup of a released hazardous substance.</heading>
+            <subsection eId="46-09-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who causes a release of a hazardous substance shall make reasonable efforts to contain and clean up the hazardous substance promptly after learning of the release, unless the commissioner determines</p>
+              </content>
+              <paragraph eId="46-09-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>after consulting the United States Environmental Protection Agency or appropriate public safety agencies, that containment or cleanup is technically infeasible;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-09-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>that containment or cleanup would cause greater environmental damage than if the release were not contained or cleaned up; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-09-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>that containment or cleanup would pose a greater threat to human life or health than if the release were not contained or cleaned up.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-09-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall develop guidelines prescribing general procedures and methods to be used in the containment and cleanup of a hazardous substance. The guidelines shall be consistent with the national contingency plan revised and republished under 42 U.S.C. 9605.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-09-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the commissioner determines that the containment or cleanup of a hazardous substance undertaken is inadequate, the commissioner may direct the person undertaking the containment or cleanup to cease and may undertake the containment or cleanup directly or by contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-09-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If it appears to the commissioner that the cause or responsibility for the release of a hazardous substance is unclear or unexplained, the commissioner may immediately undertake the containment and cleanup of the release unless the commissioner determines</p>
+              </content>
+              <paragraph eId="46-09-020__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>after consulting the United States Environmental Protection Agency or appropriate public safety agencies, that containment or cleanup is technically infeasible;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-09-020__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>that containment or cleanup would cause greater environmental damage than if the release were not contained or cleaned up; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-09-020__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>that containment or cleanup would pose a greater threat to human life or health than if the release were not contained or cleaned up.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-09-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The commissioner shall enter into agreement with the United States Environmental Protection Agency, and may enter into agreements with other persons and municipalities, in order to</p>
+              </content>
+              <paragraph eId="46-09-020__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>facilitate a coordinated and effective hazardous substance release response in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-09-020__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provide for cooperative hazardous substance release notification procedures; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-09-020__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>provide for cooperative review of hazardous substance release response contingency plans submitted to the department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_46-09-030">
+            <num>46.09.030</num>
+            <heading>Disaster emergencies.</heading>
+            <content>
+              <p>Sec. 46.09.030.   Disaster emergencies.
+The commissioner of environmental conservation or the adjutant general of the Department of Military and Veterans' Affairs may request the governor to determine that an actual or imminent release of a hazardous substance constitutes a disaster emergency under
+AS 26.23
+. The commissioner of environmental conservation and the adjutant general of the Department of Military and Veterans' Affairs shall respond appropriately in the relief of the actual or imminent release under the relevant provisions of the applicable incident command system.</p>
+            </content>
+          </section>
+          <section eId="sec_46-09-040">
+            <num>46.09.040</num>
+            <heading>Hazardous substances containment and cleanup.</heading>
+            <content>
+              <p>Sec. 46.09.040.   Hazardous substances containment and cleanup.
+The department may contract with a person or a municipality for personnel, equipment, or services that may be useful to carry out the requirements of this chapter. If the department determines that it is infeasible to contract with a person or a municipality, the department may establish and maintain containment and cleanup personnel, equipment, and supplies necessary to carry out the requirements of this chapter. When exercising its authority under this section, the department shall coordinate with the Department of Military and Veterans' Affairs to avoid duplication of efforts.</p>
+            </content>
+          </section>
+          <section eId="sec_46-09-050">
+            <num>46.09.050</num>
+            <heading>Compacts authorized.</heading>
+            <content>
+              <p>Sec. 46.09.050.   Compacts authorized.
+The governor may enter into supplementary agreements, reciprocal arrangements, and compacts with another state or country for the implementation of this chapter subject to the approval of the Congress of the United States, if required, under the Constitution of the United States.</p>
+            </content>
+          </section>
+          <section eId="sec_46-09-060">
+            <num>46.09.060</num>
+            <heading>Municipalities.</heading>
+            <subsection eId="46-09-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a provision of this chapter or of a regulation adopted by the commissioner under this chapter conflicts with the charter, ordinance, or regulation of a municipality, the provisions of this chapter or of the regulation adopted by the commissioner under this chapter prevails.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-09-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Authority to contain, clean up, or prevent a release or threatened release of oil or of a hazardous substance, and to exercise other powers necessary to implement this chapter,
+AS 46.04
+, and
+AS 46.08
+, are granted to municipalities that do not otherwise have that authority. Except as provided in (a) of this section, a municipality may exercise its police power within the area of the municipality.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-09-070">
+            <num>46.09.070</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 46.09.070.   Regulations.
+The commissioner shall periodically review the minimum quantities of hazardous substances established under federal law and may adopt regulations establishing minimum quantities of substances for all or any portion of the substances to which this chapter otherwise applies. The commissioner shall adopt only those regulations that are expressly required to implement the specific purposes of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_46-09-900">
+            <num>46.09.900</num>
+            <heading>Definitions.</heading>
+            <subsection eId="46-09-900__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the incident or occurrence may reasonably be expected to culminate in an actual release; and
+(ii) that actual release may reasonably be expected to cause personal injury, other injury to life, or loss of or damage to property, including the environment.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

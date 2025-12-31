@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-75"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-75"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="34.75"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-75/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-75/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-75/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-75/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_34">
+        <num>34</num>
+        <heading>Property</heading>
+        <chapter eId="title_34__chp_75">
+          <num>75</num>
+          <heading>Noise Levels of Sport Shooting Facilities and Private Airport Facilities</heading>
+          <section eId="sec_34-75-010">
+            <num>34.75.010</num>
+            <heading>Limitation on actions arising from noise level.</heading>
+            <subsection eId="34-75-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding
+AS 09.45.230
+,
+AS 11.61.110
+, and any other state or municipal law, except (b) of this section and except as may be otherwise provided by federal law, a person may not bring a civil or criminal action against a person who operates or uses a sport shooting facility or a private airport facility if the action arises out of the noise level resulting from the normal operation or use of the facility and if the facility</p>
+              </content>
+              <paragraph eId="34-75-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>was established or began operation before any noise control law applied to the facility; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-75-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>complies with the noise control laws that applied to the facility when the facility was established or began operation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="34-75-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The prohibition in (a) of this section does not apply to an action that arises out of</p>
+              </content>
+              <paragraph eId="34-75-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a contract;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-75-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a personal injury suffered by a person while on the premises of the facility; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-75-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a substantial change in the use of the facility.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="34-75-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as may be otherwise provided by federal law, even if otherwise allowed by (a) and (b) of this section, a person may not bring a nuisance action for noise level against a facility located in the vicinity of the person's property if the facility was established before the person acquired the property, unless the facility substantially changes the use of the facility after the person acquires the property.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_34-75-020">
+            <num>34.75.020</num>
+            <heading>Time limitation on nuisance actions.</heading>
+            <content>
+              <p>Sec. 34.75.020.   Time limitation on nuisance actions.
+Except as may otherwise be provided by federal law, a person may not bring a nuisance action otherwise allowed under this chapter for the level of noise against a facility unless the action is brought within five years after the facility is established or begins operation or, if the action is brought after a substantial change in the use of the facility, within three years after the substantial change. In this section, established includes resuming shooting activity at a sport shooting facility if there has not been shooting activity at the facility for three or more years, or resuming airport activity at a private airport facility if there has not been airport activity at the facility for three or more years.</p>
+            </content>
+          </section>
+          <section eId="sec_34-75-030">
+            <num>34.75.030</num>
+            <heading>State and municipal regulation.</heading>
+            <subsection eId="34-75-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding
+AS 02.15.020
+and
+AS 02.25.020
+, the state or a municipality may not regulate the outdoor level of noise at a facility if the facility is exempt from a criminal or civil action under
+AS 34.75.010
+(a).</p>
+              </content>
+            </subsection>
+            <subsection eId="34-75-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in this chapter, a municipality may regulate the noise level produced by a facility.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_34-75-040">
+            <num>34.75.040</num>
+            <heading>Construction and meaning of substantial change in the use.</heading>
+            <content>
+              <p>Sec. 34.75.040.   Construction and meaning of substantial change in the use.
+In this chapter, the phrase substantial change in the use shall be strictly construed to maximize the immunity from civil and criminal actions provided under
+AS 34.75.010
+
+AS 34.75.020
+for sport shooting facilities and private airport facilities.
+In this chapter, substantial change in the use does not include a mere increase in the frequency of flights or the number of shots.</p>
+            </content>
+          </section>
+          <section eId="sec_34-75-090">
+            <num>34.75.090</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 34.75.090.   Definitions.
+In this chapter, unless the context indicates otherwise,
+(1) airport facility means an area of land or water that is used or intended for use for the landing and takeoff of aircraft, including appurtenant areas that are used or intended for use as airport buildings or rights-of-way; in this paragraph, aircraft includes fixed-wing and rotor aircraft;
+(2) facility means a sport shooting facility or a private airport facility;
+(3) law means a state statute or regulation or an ordinance of a municipality;
+(4) person includes the state, a state agency, and a municipality;
+(5) private means an airport that is privately owned and operated; airports owned, operated, or leased by the state, a municipality, or a political subdivision of the state or a local government are considered public airports;
+(6) sport shooting facility means real property operated for the use of rifles, shotguns, pistols, silhouettes, skeet, trap, black powder, archery, or similar activity related to sport shooting.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

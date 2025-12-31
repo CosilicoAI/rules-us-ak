@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-56"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-56"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="8.56"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-56/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-56/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-56/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-56/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_8">
+        <num>8</num>
+        <heading>Business and Professions</heading>
+        <chapter eId="title_8__chp_56">
+          <num>56</num>
+          <heading>Hotels and Boardinghouses</heading>
+          <section eId="sec_08-56-010">
+            <num>08.56.010</num>
+            <heading>Registration of travelers.</heading>
+            <content>
+              <p>Sec. 08.56.010.   Registration of travelers.
+The proprietors of roadhouses, hotels, or boardinghouses located outside of incorporated cities shall each keep a register containing the name and address of each guest with the date of arrival and departure.</p>
+            </content>
+          </section>
+          <section eId="sec_08-56-020">
+            <num>08.56.020</num>
+            <heading>Effect of refusal to register.</heading>
+            <content>
+              <p>Sec. 08.56.020.   Effect of refusal to register.
+A person who refuses to register may not be accepted as a guest or given accommodations.</p>
+            </content>
+          </section>
+          <section eId="sec_08-56-030">
+            <num>08.56.030</num>
+            <heading>Penalty for noncompliance.</heading>
+            <content>
+              <p>Sec. 08.56.030.   Penalty for noncompliance.
+The proprietor of a roadhouse, hotel, or boardinghouse who fails to comply with this chapter is punishable by a fine of not less than $10 or more than $25, or by imprisonment for not more than 10 days, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_08-56-040">
+            <num>08.56.040</num>
+            <heading>Disposition of fines.</heading>
+            <content>
+              <p>Sec. 08.56.040.   Disposition of fines.
+All fines collected under this chapter shall be deposited in the general fund.</p>
+            </content>
+          </section>
+          <section eId="sec_08-56-050">
+            <num>08.56.050</num>
+            <heading>Liability for valuables.</heading>
+            <subsection eId="08-56-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the operator of a hotel or boardinghouse provides a safe or vault in which guests may deposit valuable property for safekeeping and notice of this fact is posted in three or more conspicuous places in the hotel or boardinghouse, the operator is not liable for the loss, damage, or destruction of property not deposited by a guest in the safe or vault.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-56-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An operator of a hotel or boardinghouse is not obligated to receive property on deposit for safekeeping as provided in (a) of this section that exceeds $1,000 in value. If property exceeding $1,000 in value is deposited in the hotel or boardinghouse safe or vault, the operator is not liable for its loss, damage, or destruction unless the operator enters into a written agreement with the guest who deposits the property.  If the operator does contract with a guest for the safekeeping of property exceeding $1,000 in value, the operator is liable only if the property deposited is stolen or lost, damaged, or destroyed by the negligence of the operator or the operator's agent.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-56-060">
+            <num>08.56.060</num>
+            <heading>Baggage liability.</heading>
+            <subsection eId="08-56-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 08.56.050
+, the operator of a hotel or boardinghouse is not liable for the loss, damage, or destruction of property brought to or sent into the hotel or boardinghouse by a guest unless the loss, damage, or destruction was caused by negligence of the operator or the operator's agent.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-56-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The operator of a hotel or boardinghouse may hold and store baggage or other property left behind or sent in advance for a period of four months after which time the operator may sell it at public auction as provided in
+AS 34.35.520
+.  The proceeds of a sale, as provided in this section, shall be used to satisfy the hotel or boardinghouse operator's lien, pay expenses of sale and any storage costs incurred.  If the hotel or boardinghouse operator does not desire to sell baggage or other property which the operator possesses, the operator may have the property delivered to a storage or warehouse company for storage, in which case the operator's liability for the safekeeping of the property terminates.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-56-070">
+            <num>08.56.070</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 08.56.070.   Definitions.
+In this chapter,
+(1) guest includes every person who is a member of the family of, or dependent upon, a guest, boarder, or lodger in a hotel or boardinghouse;
+(2) hotel or boardinghouse includes any building held out to the public to be an inn, motel, hotel, or public lodging house, or place where sleeping accommodations, whether with or without meals, are furnished for hire to transient guests;
+(3) operator includes innkeeper, proprietor, keeper, owner, lessee, or manager of a hotel or boardinghouse.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

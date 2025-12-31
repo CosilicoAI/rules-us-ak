@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-80"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-80"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.80"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-80/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-80/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-80/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-80/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_80">
+          <num>80</num>
+          <heading>Miscellaneous Provisions</heading>
+          <section eId="sec_12-80-010">
+            <num>12.80.010</num>
+            <heading>Contempt.</heading>
+            <content>
+              <p>Sec. 12.80.010.   Contempt.
+The provisions of the Code of Civil Procedure relating to contempt (
+AS 09.50.010
+ 09.50.060) shall apply in criminal actions.</p>
+            </content>
+          </section>
+          <section eId="sec_12-80-020">
+            <num>12.80.020</num>
+            <heading>Indictment, information, and complaint.</heading>
+            <content>
+              <p>Sec. 12.80.020.   Indictment, information, and complaint.
+No person shall be held to answer for an infamous crime, unless on a presentment or indictment of a grand jury, except in cases arising in the armed forces in time of war or public danger. Indictment may be waived by the accused.  In that case the prosecution shall be by information or complaint in the manner and form set out in the Rules of Criminal Procedure.</p>
+            </content>
+          </section>
+          <section eId="sec_12-80-030">
+            <num>12.80.030</num>
+            <heading>Taxation of costs.</heading>
+            <content>
+              <p>Sec. 12.80.030.   Taxation of costs.
+Costs may not be taxed to the defendant in a criminal action or proceeding begun or prosecuted in any of the courts of the state unless otherwise ordered by supreme court rule.</p>
+            </content>
+          </section>
+          <section eId="sec_12-80-040">
+            <num>12.80.040</num>
+            <heading>Violations and infractions.</heading>
+            <subsection eId="12-80-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and
+AS 28.90.010
+(d), all laws of the state relating to misdemeanors apply to violations and infractions, including the powers of peace officers, the jurisdiction of courts, and the periods for commencing actions and for bringing a case to trial.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-80-060">
+            <num>12.80.060</num>
+            <heading>Fingerprinting.</heading>
+            <subsection eId="12-80-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a person is arrested for an offense, with or without a warrant, fingerprints of the person may be taken by the law enforcement agency with custody of the person. If the law enforcement agency with custody of the person does not take the fingerprints, the person's fingerprints shall be taken by the correctional facility where the person is lodged following the arrest.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-80-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At the initial court appearance or arraignment of a person for an offense, the court shall determine if the person's fingerprints have been taken in connection with the offense. If the court is unable to conclusively determine that the person's fingerprints have been taken, the court shall order the person to submit to fingerprinting within 24 hours at the appropriate correctional facility or another place for taking fingerprints that is more appropriate.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-80-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When a defendant is sentenced or otherwise adjudicated for an offense, the court shall determine if legible fingerprints have been taken in connection with the proceedings. If the court is unable to conclusively determine that legible fingerprints have been taken, the court shall order that the defendant, as a condition of sentence, adjudication, suspended imposition of sentence, probation, or release, submit to fingerprinting within 24 hours at the appropriate correctional facility or another place for taking fingerprints that is more appropriate.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-80-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Department of Public Safety shall develop standard forms and procedures for the taking of fingerprints under this section. Fingerprints shall be</p>
+              </content>
+              <paragraph eId="12-80-060__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>taken on a form, and in the manner, prescribed by the Department of Public Safety; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-80-060__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>forwarded within five working days to the Department of Public Safety.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-80-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>When the Department of Public Safety receives fingerprints of a person in connection with an offense, the Department of Public Safety shall make a reasonable effort to confirm the identity of the person fingerprinted. If the Department of Public Safety finds that the person fingerprinted has criminal history record information under a name other than the name submitted with the fingerprints, the Department of Public Safety shall promptly notify the officer, agency, or facility that took the fingerprints.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-80-060__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If the arresting officer, the law enforcement agency that employs the officer, or the correctional facility where fingerprints were taken is notified by the Department of Public Safety that fingerprints taken under this section are not legible, the officer, agency, or facility shall make a reasonable effort to obtain a legible set of fingerprints. If legible fingerprints cannot be obtained within a reasonable period of time, and if the illegible fingerprints were taken under a court order, the officer or agency shall inform the court, which shall order the defendant to submit to fingerprinting again.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-80-060__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="12-80-060__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>correctional facility has the meaning given in
+AS 33.30.901
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-80-060__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>offense means conduct subjecting a person to arrest as an adult offender, or as a juvenile charged as an adult,
+(A) due to a violation of a federal or state criminal law, the Military Code of Alaska, or a municipal criminal ordinance;
+(B) under
+AS 12.25.180
+;
+(C) under
+AS 11.56.730
+; or
+(D) under
+AS 12.70
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

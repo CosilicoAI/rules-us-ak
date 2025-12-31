@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-75"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-75"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.75"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-75/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-75/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-75/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-75/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_75">
+          <num>75</num>
+          <heading>Habeas Corpus</heading>
+          <section eId="sec_12-75-010">
+            <num>12.75.010</num>
+            <heading>Persons entitled to prosecute writ.</heading>
+            <content>
+              <p>Sec. 12.75.010.   Persons entitled to prosecute writ.
+A person imprisoned or otherwise restrained of liberty under any pretense whatsoever, except in the cases specified in
+AS 12.75.020
+, may prosecute a writ of habeas corpus to inquire into the cause of the imprisonment or restraint, and, if illegal, to be released from custody or to be granted another remedy as law and justice require.  Procedure may be as prescribed in the Rules of Civil Procedure.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-020">
+            <num>12.75.020</num>
+            <heading>Persons not entitled to prosecute writ.</heading>
+            <content>
+              <p>Sec. 12.75.020.   Persons not entitled to prosecute writ.
+A person properly imprisoned or restrained by virtue of the legal judgment of a competent tribunal of civil or criminal jurisdiction, or by virtue of an execution regularly and lawfully issued upon that judgment or decree shall not be allowed to prosecute the writ.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-030">
+            <num>12.75.030</num>
+            <heading>Offense not bailable.</heading>
+            <content>
+              <p>Sec. 12.75.030.   Offense not bailable.
+When it appears that the cause or offense for which the person prosecuting the writ is imprisoned or restrained is not bailable, the production of the party may be dispensed with and the writ issued accordingly.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-040">
+            <num>12.75.040</num>
+            <heading>Production of body.</heading>
+            <content>
+              <p>Sec. 12.75.040.   Production of body.
+The person on whom a writ is served shall bring the body of the person in custody or under restraint, according to the command of the writ, except in the cases provided in
+AS 12.75.050
+.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-050">
+            <num>12.75.050</num>
+            <heading>Hearing without production of person.</heading>
+            <content>
+              <p>Sec. 12.75.050.   Hearing without production of person.
+When, from the sickness or infirmity of the person directed to be produced, that person cannot without danger be brought before the court, the person in whose custody or power that person is may state that fact in the return to the writ.  If the court is satisfied of the truth of the return and the return is otherwise sufficient, the court shall proceed to decide on the return and to dispose of the matter as if the party had been produced.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-060">
+            <num>12.75.060</num>
+            <heading>Proceedings on disobedience of writ.</heading>
+            <content>
+              <p>Sec. 12.75.060.   Proceedings on disobedience of writ.
+If the person upon whom the writ is served refuses or neglects to obey it within the time required, and no sufficient excuse is shown, it is the duty of the court before whom the writ is returnable, upon due proof of service, to immediately issue a warrant against that person, directed to a peace officer commanding the officer to immediately apprehend and bring the person before the court. Upon that person being brought before the court, the court shall commit that person to custody until the person makes return to the writ and complies with any order that may be made.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-070">
+            <num>12.75.070</num>
+            <heading>Precept to peace officer.</heading>
+            <content>
+              <p>Sec. 12.75.070.   Precept to peace officer.
+A court that issues a writ without requiring the production of the person or that issues a warrant may also, at any time before final decision, issue a precept to the peace officer to whom the writ or warrant is directed commanding the officer to immediately bring the person for whose benefit the writ was allowed before the court.  That person shall remain in the custody of the peace officer until discharged, remanded, or the matter is otherwise disposed of as law and justice require.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-080">
+            <num>12.75.080</num>
+            <heading>Discharge of party.</heading>
+            <content>
+              <p>Sec. 12.75.080.   Discharge of party.
+If no legal cause is shown for the imprisonment or restraint, or for its continuation, the court shall discharge the party from the custody or restraint under which the party is held or grant any other appropriate remedy.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-090">
+            <num>12.75.090</num>
+            <heading>Remand of party legally detained.</heading>
+            <content>
+              <p>Sec. 12.75.090.   Remand of party legally detained.
+The court shall remand the party if it appears that the party is legally detained in custody.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-100">
+            <num>12.75.100</num>
+            <heading>Remedy of person in custody by virtue of civil process.</heading>
+            <content>
+              <p>Sec. 12.75.100.   Remedy of person in custody by virtue of civil process.
+If it appears on the return of the writ that the prisoner is in custody by virtue of an order or civil process of a court legally constituted, or issued by an officer in the course of judicial proceedings before the officer, authorized by law, the prisoner shall be discharged or granted any other appropriate remedy in any of the following cases:
+(1) when the jurisdiction of the court or officer has been exceeded, either as to matter, place, sum, or person;
+(2) when, though the original imprisonment was lawful, yet by some act, omission, or event that has taken place afterwards, the party has become entitled to a discharge or other remedy;
+(3) when the order or process is defective in some matter of substance required by law, rendering the process void;
+(4) when the order or process, though in proper form, has been issued in a case not allowed by law;
+(5) when the person having the custody of the prisoner under the order or process is not the person empowered by law to detain the prisoner; or
+(6) when the order or process is not authorized by a judgment of a court or by a provision of law.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-110">
+            <num>12.75.110</num>
+            <heading>Limitation on scope of court's inquiry.</heading>
+            <content>
+              <p>Sec. 12.75.110.   Limitation on scope of court's inquiry.
+No court or judge, on the return of a writ of habeas corpus, may inquire into the legality or justice of any order, judgment, or process specified in
+AS 12.75.020
+or into the justice, propriety, or legality of a commitment for a contempt made by a court, officer, or body, according to law, and charged in the commitment, as provided by law.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-120">
+            <num>12.75.120</num>
+            <heading>Proceedings where commitment irregular.</heading>
+            <content>
+              <p>Sec. 12.75.120.   Proceedings where commitment irregular.
+If it appears by the testimony offered with the return, or upon the hearing that the party is probably guilty of a criminal offense, the court, although the commitment is irregular, shall immediately remand the party to the custody of the proper person.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-130">
+            <num>12.75.130</num>
+            <heading>Custody of party pending judgment.</heading>
+            <content>
+              <p>Sec. 12.75.130.   Custody of party pending judgment.
+Until judgment is given upon the return, the party may either be committed to the custody of a peace officer or placed in the officer's care or under such custody as the party's age or circumstances require.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-140">
+            <num>12.75.140</num>
+            <heading>Admission to bail.</heading>
+            <content>
+              <p>Sec. 12.75.140.   Admission to bail.
+A person prosecuting a writ of habeas corpus may, at any time after the writ is allowed, be admitted to bail by the court allowing the writ, or by another judge or magistrate designated by that court or judge, pending the hearing upon the writ and the final order of the court and, in case of appeal, during the pendency of the appeal and until the final order of the appellate court.  The bail shall be by written undertaking and executed as bail upon arrest, and the undertaking shall be conditioned that the person so admitted to bail shall appear in the designated court or before the designated judge or magistrate whenever required, and shall at all times be amenable to the order or process of that court, judge, or magistrate, and that if the person fails to perform either of those conditions, the surety or sureties on the undertaking will pay to the state the sum in which that person is so admitted to bail.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-150">
+            <num>12.75.150</num>
+            <heading>Effect of admitting to bail.</heading>
+            <content>
+              <p>Sec. 12.75.150.   Effect of admitting to bail.
+The admitting to bail of a person prosecuting a writ of habeas corpus does not in any manner affect the writ or other proceedings or the full right of that person to have the cause and legality of the person's imprisonment inquired into and determined both in the trial court and upon appeal.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-160">
+            <num>12.75.160</num>
+            <heading>Enforcing judgment of discharge.</heading>
+            <content>
+              <p>Sec. 12.75.160.   Enforcing judgment of discharge.
+Obedience to a judgment for the discharge of a person imprisoned or restrained, pursuant to the provisions of this chapter, may be enforced by the court by proceedings for a contempt.  A peace officer or other person is not liable to an action or proceeding for obeying the judgment of discharge.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-170">
+            <num>12.75.170</num>
+            <heading>Discharge as bar to subsequent restraint.</heading>
+            <content>
+              <p>Sec. 12.75.170.   Discharge as bar to subsequent restraint.
+No person who has been discharged by the order of a court upon habeas corpus shall again be imprisoned, restrained, or kept in custody for the same cause except in the following cases:
+(1) if the party has been discharged from a commitment on a criminal charge and is afterwards committed for the same offense by legal order or process;
+(2) if, after a judgment or discharge for a defect of evidence, or for a material defect in the commitment, in a criminal case, the party is again arrested on sufficient evidence and committed by legal process for the same offense;
+(3) if, after a civil action, the party has been discharged for any illegality in the judgment, decree, or process specified in
+AS 12.75.100
+, and is afterwards imprisoned for the same cause of action;
+(4) if, in a civil action, the party has been discharged from commitment on an order of arrest, and is afterwards committed on execution, in the same action, or on order of arrest in another action, after the dismissal of the first action.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-180">
+            <num>12.75.180</num>
+            <heading>Grounds for warrant in lieu of writ.</heading>
+            <content>
+              <p>Sec. 12.75.180.   Grounds for warrant in lieu of writ.
+When it appears to a court authorized to issue the writ of habeas corpus that a person is illegally imprisoned or restrained, and that there is good reason to believe that the person will be carried out of the state or suffer some irreparable injury before the person can be relieved by the issuing of a writ of habeas corpus, a court or judge authorized to issue the writ may issue a warrant reciting the facts, and directed to a peace officer commanding the officer to immediately bring the person before the court to be dealt with according to law.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-190">
+            <num>12.75.190</num>
+            <heading>Warrant may include command for arrest of defendant.</heading>
+            <content>
+              <p>Sec. 12.75.190.   Warrant may include command for arrest of defendant.
+When the proof mentioned in
+AS 12.75.180
+is also sufficient to justify the arrest of the person having the party in custody, as for a criminal offense, committed in the taking or detaining of the party, the warrant may also contain an order for the arrest of the person for that offense.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-200">
+            <num>12.75.200</num>
+            <heading>Warrant in lieu of writ.</heading>
+            <content>
+              <p>Sec. 12.75.200.   Warrant in lieu of writ.
+The peace officer to whom the warrant is directed shall execute it by bringing the party named and the person who detains the party, if so commanded by the warrant, before the judge issuing the warrant.  The person detaining the party shall make a return to the warrant as in the case of a writ of habeas corpus, and a proceeding shall be had as if a writ of habeas corpus had been issued in the first instance.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-210">
+            <num>12.75.210</num>
+            <heading>Proceedings as to person having party in custody.</heading>
+            <content>
+              <p>Sec. 12.75.210.   Proceedings as to person having party in custody.
+If the person having the party in custody is brought before the court as for a criminal offense, the person shall be examined, committed, bailed, or discharged by the court in like manner as in other criminal cases of the same nature.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-220">
+            <num>12.75.220</num>
+            <heading>Penalty for refusing to deliver copy of or obey authority to detain party.</heading>
+            <content>
+              <p>Sec. 12.75.220.   Penalty for refusing to deliver copy of or obey authority to detain party.
+If a peace officer or other person refuses to deliver a copy of an order, warrant, process, or other authority by which the officer or other person detains a person to anyone who demands a copy and tenders the fees therefor, the officer or other person shall forfeit and pay to the person detained a sum of not more than $200.</p>
+            </content>
+          </section>
+          <section eId="sec_12-75-230">
+            <num>12.75.230</num>
+            <heading>Appeal.</heading>
+            <content>
+              <p>Sec. 12.75.230.   Appeal.
+A party to a proceeding by habeas corpus may appeal from the judgment of the court refusing to allow the writ or a final judgment therein in like manner and with like effect as in an action.  No question once finally determined upon a proceeding by habeas corpus shall be re-examined upon another or subsequent proceeding of the same kind.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

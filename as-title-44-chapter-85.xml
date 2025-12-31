@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-85"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-85"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.85"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-85/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-85/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-85/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-85/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_85">
+          <num>85</num>
+          <heading>Alaska Municipal Bond Bank Authority</heading>
+          <section eId="sec_44-85-005">
+            <num>44.85.005</num>
+            <heading>Legislative findings.</heading>
+            <content>
+              <p>Sec. 44.85.005.   Legislative findings.
+The legislature finds that
+(1) the rapid growth of municipalities in the state and the incorporation of new municipalities has created a demand for capital improvements that can only be met by these municipalities borrowing money through the issuance of bonds or notes;
+(2) many of these municipalities, although creditworthy, either have not issued bonds or notes or have little outstanding debt;
+(3) the cost of borrowed money to these municipalities is or may be unnecessarily high due to lack of investor familiarity with the municipalities;
+(4) other municipalities in the state pay unnecessarily high borrowing costs because of the distance of the state from capital markets or may find borrowing difficult or impossible because of temporary economic dislocation due to loss of employment or prospective loss of employment;
+(5) the University of Alaska has limited debt capacity and may pay higher interest rates because of lower credit ratings;
+(6) many municipalities provide for or partner with nonprofit organizations to provide for delivery of health care;
+(7) nonprofit regional health organizations deliver services in many locations where municipal partners are unavailable;
+(8) joint action agencies require financial assistance for public utility projects, including hydroelectric power projects, that benefit municipalities.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-010">
+            <num>44.85.010</num>
+            <heading>Legislative policy.</heading>
+            <subsection eId="44-85-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is the policy of the state to</p>
+              </content>
+              <paragraph eId="44-85-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>foster and promote by all reasonable means the provision of adequate capital markets and facilities for borrowing money by municipalities in the state to finance capital improvements or for other authorized purposes, to assist these municipalities in fulfilling their capital needs and requirements by use of borrowed money within statutory interest rate or cost of borrowing limitations, to the greatest extent possible to reduce costs of borrowed money to taxpayers and residents of the state, and equally to encourage continued investor interest in the purchase of bonds or notes of municipalities as sound and preferred securities for investment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>encourage municipalities to continue their independent undertakings and financing of capital improvements and other authorized purposes and to assist them by making capital funds available at reduced interest costs for orderly financing of capital improvements and other purposes especially during periods of restricted credit or money supply, particularly for those municipalities not otherwise able to borrow for capital needs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>assist municipalities to provide for adequate insurance coverage by authorizing the Alaska Municipal Bond Bank Authority to issue negotiable or nonnegotiable revenue bonds, notes, or certificates of participation either directly or through an entity it may create for the purpose of providing a self-insurance program for municipalities or municipal joint insurance arrangements organized under
+AS 21.76
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>assist governmental employers to prepay all or a portion of their share of unfunded accrued actuarial liabilities of retirement systems in an effort to reduce their costs of satisfying their contractual obligations to provide retirement and other benefits to public employees through the issuance of bonds, notes, commercial paper, or other obligations by the bond bank authority or by a subsidiary corporation created by the bond bank authority under
+AS 44.85.085
+, but only after submitting a proposal to the Legislative Budget and Audit Committee and if the state bond rating is the equivalent of AA- or better; this assistance is limited as provided in
+AS 37.15.903
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>assist the University of Alaska by providing capital funds through loans that minimize costs and the effects on the debt capacity of the University of Alaska;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-010__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>assist regional health organizations to provide health care facilities by providing capital funds through loans that minimize costs and the effects on the debt capacity of regional health organizations when the commissioner of health anticipates a state financial benefit and an increase in regional quality of care;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-010__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>assist joint action agencies in providing public utilities, including hydroelectric power projects, through loans and bonds that minimize costs and the effects on the debt capacity of public utilities and joint action agencies.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-85-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The legislature further declares that</p>
+              </content>
+              <paragraph eId="44-85-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the exercise of the powers of the state in the interest of its municipalities and in the interest of public employees of the state and of its municipalities is required to further and implement the policies declared in (a) of this section by authorizing the creation of a state bond bank authority as a body corporate and politic that will have full powers to borrow money and to issue its bonds and notes to make capital funds available for borrowing by municipalities and for borrowing by or on behalf of governmental employers, by authorizing governmental employers to contract with the bond bank authority or with a subsidiary created under
+AS 44.85.085
+for the purpose of reducing future costs of providing retirement and other benefits to employees, and by granting broad powers to the bond bank authority to carry out the declared policies, which are in the public interest of the state and its taxpayers and residents;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>state funds should be applied or authorized to be paid to a state bond bank authority only to provide adequate assurance and security to the holders of the bonds or notes of the bond bank authority;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the bond bank authority should conduct its operations to provide the lowest rates in terms of borrowing to municipalities as is consistent with a self-supporting operation with no expectation of subsidization with state funds; the legislature does not intend that the bond bank authority be utilized as a means to finance municipalities beyond their capability to meet repayment schedules and debt service requirements of bonds or notes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-010__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the bond bank authority or its subsidiary should conduct its operations to provide the lowest rates in terms of borrowing to governmental employers under
+AS 44.85.085
+and 44.85.086 as is consistent with a self-supporting operation with no expectation of subsidization with state funds; the legislature does not intend that the bond bank authority or its subsidiary be utilized as a means to finance governmental employers under
+AS 44.85.085
+and 44.85.086 beyond their capability to meet repayment schedules and debt service requirements of bonds, notes, commercial paper, or other obligations to the bond bank authority or its subsidiary.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-020">
+            <num>44.85.020</num>
+            <heading>Municipal Bond Bank Authority.</heading>
+            <content>
+              <p>Sec. 44.85.020.   Municipal Bond Bank Authority.
+There is created the Alaska Municipal Bond Bank Authority. The authority is a public corporation of the state.  The corporation is an instrumentality of the state within the Department of Revenue but has a legal existence independent of and separate from the state and has continuing succession until its existence is terminated by law.  The exercise by the authority of the powers conferred by this chapter is considered an essential governmental function of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-030">
+            <num>44.85.030</num>
+            <heading>Membership and vacancies.</heading>
+            <content>
+              <p>Sec. 44.85.030.   Membership and vacancies.
+The bond bank authority consists of the following five directors: the commissioner of revenue, the commissioner of commerce, community, and economic development, who shall each be a director ex officio with voting privileges, and three directors appointed by the governor. The appointment of each director other than the commissioner of revenue and the commissioner of commerce, community, and economic development is subject to confirmation by the legislature. The three directors appointed by the governor serve at the governor's pleasure for four-year terms. They must be residents of the state and qualified voters at the time of appointment and shall comply with the requirements of
+AS 39.50
+(public official financial disclosure). Each director shall hold office for the term of appointment and until a successor has been appointed and qualified. A director is eligible for reappointment. A vacancy in a directorship occurring other than by expiration of term shall be filled in the same manner as the original appointment but for the unexpired term only. Each director before entering upon the duties of office shall take and subscribe to an oath to perform the duties faithfully, impartially, and justly to the best of the director's ability. A record of the oath shall be filed in the office of the governor.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-040">
+            <num>44.85.040</num>
+            <heading>Officers, quorum, and meetings.</heading>
+            <subsection eId="44-85-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The directors shall elect one of their number as chairman. The directors shall elect a secretary and a treasurer who need not be directors, and the same person may be elected to serve both as secretary and treasurer.  The powers of the bond bank authority are vested in the directors, and three directors of the bond bank authority constitute a quorum.  Action may be taken and motions and resolutions adopted by the bond bank authority at any meeting by the affirmative vote of at least three directors.  A vacancy in the directorship of the bond bank authority does not impair the right of a quorum to exercise all the powers and perform all the duties of the bond bank authority.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The bond bank authority may meet and transact business by an electronic medium if (1) public notice of the time and locations where the meeting will be held by an electronic medium has been given in the same manner as if the meeting were held in a single location; (2) participants and members of the public in attendance can hear and have the same right to participate in the meeting as if the meeting were conducted in person; and (3) copies of pertinent reference materials, statutes, regulations, and audio-visual materials are reasonably available to participants and to the public.  A meeting by an electronic medium as provided in this subsection has the same legal effect as a meeting in person.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-050">
+            <num>44.85.050</num>
+            <heading>Bonding of members.</heading>
+            <content>
+              <p>Sec. 44.85.050.   Bonding of members.
+Before the issuance of bonds or notes under this chapter, each director shall execute a surety bond in the penal sum of $25,000 and the treasurer shall execute a surety bond in the penal sum of $50,000. Each surety bond shall be conditioned upon the faithful performance of the duties of the office of the director or treasurer, to be executed by a surety company authorized to transact business in the state as surety and filed in the office of the lieutenant governor. After issuance of bonds or notes by the bond bank authority each director shall maintain the surety bond in force.  All costs of the surety bonds shall be borne by the bond bank authority.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-060">
+            <num>44.85.060</num>
+            <heading>Compensation and expenses.</heading>
+            <content>
+              <p>Sec. 44.85.060.   Compensation and expenses.
+The directors of the bond bank authority shall serve without compensation, but the bond bank authority shall reimburse its directors for actual expenses necessarily incurred in the discharge of their duties. Notwithstanding any other law, an officer or employee of the state need not forfeit office or employment or any benefits by reason of acceptance of appointment to the office of director of the bond bank authority.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-070">
+            <num>44.85.070</num>
+            <heading>Staff.</heading>
+            <content>
+              <p>Sec. 44.85.070.   Staff.
+The bond bank authority shall employ an executive secretary who may with the approval of the bond bank authority select and employ additional staff as necessary. Employees and agents of the bond bank authority other than legal counsel and the executive secretary are in the classified service under
+AS 39.25
+.  In addition to its staff of regular employees, the bond bank authority may contract for and engage the services of the bond counsel, consultants, experts, and financial advisors the bond bank authority considers necessary for the purpose of developing information, or conducting studies, investigations, hearings, or other proceedings.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-080">
+            <num>44.85.080</num>
+            <heading>Powers of bond bank authority.</heading>
+            <content>
+              <p>Sec. 44.85.080.   Powers of bond bank authority.
+The bond bank authority may
+(1) sue and be sued;
+(2) adopt and alter an official seal;
+(3) make and enforce bylaws and regulations for the conduct of its business and for the use of its services and facilities;
+(4) maintain an office at any place in the state;
+(5) acquire, hold, use, and dispose of its income, revenues, funds, and money;
+(6) acquire, rent, lease, hold, use, and dispose of other personal property for its purposes;
+(7) subject to
+AS 44.85.100
+(b), borrow money and issue its negotiable bonds or notes and provide for and secure their payment, provide for the rights of their holders, and purchase, hold, and dispose of any of its bonds or notes;
+(8) fix and revise from time to time and charge and collect fees and charges for the use of its services or facilities;
+(9) accept gifts or grants from the United States, or from any governmental unit or person, firm, or corporation, carry out the terms or provisions or make agreements with respect to the gifts or grants, and do all things necessary, useful, desirable, or convenient in connection with procuring, accepting, or disposing of the gifts or grants;
+(10) do anything authorized by this chapter, through its officers, agents, or employees or by contracts with a person;
+(11) make, enter into, and enforce all contracts necessary, convenient, or desirable for the purposes of the bond bank authority or pertaining to a loan, a purchase or sale of municipal bonds or other investments, or the performance of its duties and execution of any of its powers under this chapter;
+(12) purchase or hold municipal bonds at prices and in a manner the bond bank authority considers advisable, and sell municipal bonds acquired or held by it at prices without relation to cost and in a manner the bond bank authority considers advisable;
+(13) invest funds or money of the bond bank authority not required at the time of investment for loans or for the purchase of municipal bonds, in the same manner as permitted for investment of funds belonging to the state, except as otherwise provided in this chapter;
+(14) prescribe the form of application or procedure required for a loan or purchase of its municipal bonds, fix the terms and conditions of the loan or purchase, and enter into agreements with respect to loans or purchases;
+(15) render services in connection with a public or private sale of its municipal bonds, including advisory and other services, and charge for services rendered;
+(16) charge for its costs and services in review or consideration of a proposed loan or purchase by the bond bank authority of municipal bonds, whether or not the loan is made or the municipal bonds purchased;
+(17) fix and establish terms and provisions with respect to a purchase of municipal bonds by the bond bank authority, including date and maturities of the bonds, provisions as to redemption or payment before maturity, and any other matters that in connection with the purchase are necessary, desirable, or advisable in the judgment of the bond bank authority;
+(18) procure insurance against any losses in connection with its property, operations, or assets in amounts and from insurers as it considers desirable;
+(19) to the extent permitted under its contracts with the holders of bonds or notes of the bond bank authority, consent to modification of the rate of interest, time and payment of installment of principal or interest, security or any other term of a bond or note, contract or agreement of any kind to which the bond bank authority is a party;
+(20) by regulation, create a new entity or new entities for the purpose of issuing negotiable or nonnegotiable revenue bonds, notes, or certificates of participation to finance a self-insurance program for municipalities or municipal joint insurance arrangements organized under
+AS 21.76
+or to provide assistance to governmental employers under
+AS 44.85.085
+(a); the powers, duties, and membership of the new entity or entities shall be limited to the powers, duties, and membership of the authority and stated in the regulation; the new entity or entities shall each be a public corporation and an instrumentality of the state with the same legal existence and continuing succession as the bond bank authority; and
+(21) do all acts and things necessary, convenient, or desirable to carry out the powers expressly granted or necessarily implied in this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-085">
+            <num>44.85.085</num>
+            <heading>Creation of subsidiary corporation.</heading>
+            <subsection eId="44-85-085__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The bond bank authority may create one or more subsidiary corporations for the following purposes:</p>
+              </content>
+              <paragraph eId="44-85-085__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>providing financial and other assistance to governmental employers to enable the governmental employers to reduce their costs of providing retirement and other benefits to their employees by prepaying all or a portion of their shares of the unfunded accrued actuarial liabilities of retirement systems;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-085__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>receiving payments and providing servicing for payments to or from participating governmental employers; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-085__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>performing other duties and providing other services as the subsidiary corporation considers necessary or desirable to further the purposes set out in (1) and (2) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-85-085__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The bond bank authority may incorporate under
+AS 10.20.146
+ 10.20.166 a subsidiary corporation created under (a) of this section. The bond bank authority may transfer assets of the bond bank authority to the subsidiary corporation and may agree to secure bonds, notes, commercial paper, or other obligations of the subsidiary corporation with a reserve fund established under
+AS 44.85.270
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-085__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A subsidiary corporation created under (a) of this section may, after submitting a proposal to the Legislative Budget and Audit Committee under (e) of this section, if the state bond rating is the equivalent of AA- or better, and subject to
+AS 37.15.903
+, borrow money and issue bonds, notes, commercial paper, or other obligations as evidence of that borrowing and may have all the powers of the bond bank authority that the bond bank authority grants to it. The provisions of
+AS 44.85.130
+ 44.85.170 and 44.85.270  44.85.390 apply to the subsidiary corporation and to bonds, notes, commercial paper, or other obligations issued by the subsidiary corporation. Unless otherwise provided by the bond bank authority, the debts, liabilities, and obligations of the subsidiary corporation are not the debts, liabilities, or obligations of the bond bank authority.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-085__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The staff of the bond bank authority serves as staff of a subsidiary corporation created under (a) of this section. The bond bank authority shall determine the membership or the process for selecting the membership of the board of directors of the subsidiary corporation. The bond bank authority may permit some or all of its directors to serve on the board of directors of the subsidiary corporation.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-085__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Before the issuance of bonds, notes, commercial paper, or other obligations under this section or under
+AS 44.85.086
+, the subsidiary corporation shall submit a proposal to the Legislative Budget and Audit Committee for review, and 45 days shall elapse before bonds, notes, commercial paper, or other obligations are issued, unless the Legislative Budget and Audit Committee earlier recommends that the subsidiary corporation proceed with the issuance. Should the Legislative Budget and Audit Committee recommend within the 45-day period that the subsidiary corporation not proceed with the issuance of bonds, notes, commercial paper, or other obligations, the subsidiary corporation shall again review the proposal, and, if the subsidiary corporation decides to issue the bonds, notes, commercial paper, or other obligations, the subsidiary corporation shall provide the Legislative Budget and Audit Committee with a statement of the subsidiary corporation's reasons for doing so before issuance under this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-086">
+            <num>44.85.086</num>
+            <heading>Powers of subsidiary corporation.</heading>
+            <subsection eId="44-85-086__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>and if the state bond rating is the equivalent of AA- or better;</p>
+              </content>
+              <paragraph eId="44-85-086__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to secure its debt with a pledge of any assets that are available to the subsidiary corporation for the purpose, including identified revenue and contractual payments from participating governmental employers, and the general assets and revenue of the subsidiary corporation; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-086__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to enter into contracts with underwriters, bond counsel, financial advisors, accountants, actuaries, and other contractors to provide assistance as the subsidiary corporation considers desirable to accomplish its purposes.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-090">
+            <num>44.85.090</num>
+            <heading>Limitations.</heading>
+            <content>
+              <p>Sec. 44.85.090.   Limitations.
+Under this chapter, the bond bank authority may not
+(1) make loans of money to a person, firm, or corporation except as provided in this chapter;
+(2) emit bills of credit, accept deposits of money for time or demand deposit, administer trusts, or engage in any form or manner in, or in the conduct of, a private or commercial banking business, or act as a savings bank or savings and loan association;
+(3) be or constitute a bank or trust company within the jurisdiction or under the control of a regulatory or supervisory board or department of the state, the Comptroller of the Currency of the United States, the United States Department of the Treasury, or the Board of Governors for the Federal Reserve System;
+(4) be or constitute a bank, banker, or dealer in securities within the meaning of or subject to the provisions of securities, securities exchange, or securities dealers law of the United States or of this or another state; or
+(5) issue bonds or notes to a regional health organization unless
+(A) the remaining costs of a project are secured or delivered to the bond bank authority before the bond bank authority provides financing; and
+(B) the bonds or notes do not exceed $250,000,000 for a single project.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-095">
+            <num>44.85.095</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 44.85.095.   Regulations.
+The bond bank authority shall adopt regulations, in accordance with
+AS 44.62
+(Administrative Procedure Act), to implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-100">
+            <num>44.85.100</num>
+            <heading>Annual report and audit.</heading>
+            <subsection eId="44-85-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before October 1 of each year the bond bank authority shall make a report of its activities for the preceding fiscal year to the governor and notify the legislature that the report is available. The report shall set out a complete operating and financial statement covering its operations during the year. The bond bank authority must have an audit of its books and accounts made at least once in each year by certified public accountants and the cost of the audit shall be considered an expense of the bond bank authority and a copy of the audit shall be filed with the commissioner of revenue and the legislature.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The bond bank authority shall include in the report required by (a) of this section an estimate of the amount of revenue bonds of the bond bank authority to be issued during the fiscal year following the fiscal year in which the report is submitted. Other than refunding bonds and other than bonds, notes, commercial paper, or other obligations issued under
+AS 44.85.086
+, 44.85.180(a)(5), and 44.85.180(e), the bond bank authority may not issue revenue bonds in excess of $75,000,000 during any fiscal year beginning after June 30, 1981, unless the legislature, by law, approves the estimate required by this subsection for that fiscal year.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-110">
+            <num>44.85.110</num>
+            <heading>Annual budget.</heading>
+            <content>
+              <p>Sec. 44.85.110.   Annual budget.
+The bond bank authority shall prepare and submit an annual budget under
+AS 37.07
+(Executive Budget Act).</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-120">
+            <num>44.85.120</num>
+            <heading>Care and custody of bonds.</heading>
+            <content>
+              <p>Sec. 44.85.120.   Care and custody of bonds.
+The bond bank authority, in accordance with
+AS 36.30
+(State Procurement Code), may enter into agreements or contracts with a bank, trust company, banking or financial institution inside or outside the state as may be necessary, desirable, or convenient, in the opinion of the bond bank authority, for rendering services in connection with the care, custody, or safekeeping of municipal bonds or other investments held or owned by the bond bank authority, for rendering services in connection with the payment or collection of amounts payable as to principal or interest, and for rendering services in connection with the delivery to the bond bank authority of municipal bonds or other investments purchased by it or sold by it, and to pay the cost of those services. The bond bank authority may also, in connection with any of the services to be rendered by a bank, trust company, or banking or financial institution as to the custody and safekeeping of its municipal bonds or investments, require security in the form of collateral bonds, surety agreements, or security agreements in such form and amount as, in the opinion of the bond bank authority, is necessary or desirable.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-130">
+            <num>44.85.130</num>
+            <heading>Effect of obligations.</heading>
+            <subsection eId="44-85-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Bonds and notes issued under this chapter are not a debt or liability of the state and do not create or constitute an indebtedness, liability, or obligation of the state, nor do they constitute a pledge of the faith and credit of the state.  All bonds and notes issued under this chapter, unless funded or refunded by bonds or notes of the bond bank authority, are general obligations of the authority to which the full faith and credit of the authority are pledged to the payments of them, except to the extent provided by the resolution authorizing the issuance of them.  Each bond and note must contain on its face a statement to the effect that the bond bank authority is obligated to pay the principal and interest on the instrument only from revenues or funds of the bond bank authority and that the state is not obligated to pay the principal or interest and that neither the faith and credit nor the taxing power of the state is pledged to the payment of the principal of or the interest on the bond or note.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The state pledges to and agrees with the holders of the bonds or notes issued under this chapter that the state will not limit or restrict the rights vested in the bond bank authority to purchase, acquire, hold, sell, or dispose of municipal bonds or other investments or to make loans to political subdivisions or to establish and collect fees or other charges convenient or necessary to produce sufficient revenues to meet the expenses of operation of the bond bank authority and to fulfill the terms of any agreement made with the holders of its bonds or notes or in any way impair the rights or remedies of the holders of the bonds or notes until the bonds or notes, together with the interest on the bonds or notes, and interest on unpaid installments of interest, and all costs and expenses in connection with an action or proceeding by or on behalf of the holders, are fully met, paid and discharged.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-140">
+            <num>44.85.140</num>
+            <heading>Negotiability of bonds or notes.</heading>
+            <content>
+              <p>Sec. 44.85.140.   Negotiability of bonds or notes.
+Notwithstanding other provisions of law, a bond or note issued under this chapter is fully negotiable for all purposes of
+AS 45.01
+
+AS 45.08
+,
+AS 45.12
+,
+AS 45.14
+, and
+AS 45.29
+(Uniform Commercial Code), and a holder or owner of a bond or note, or of a coupon appurtenant to it, by accepting the bond, note, or coupon is conclusively considered to have agreed that the bond, note, or coupon is fully negotiable for all purposes of
+AS 45.01
+
+AS 45.08
+,
+AS 45.12
+,
+AS 45.14
+, and
+AS 45.29
+.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-150">
+            <num>44.85.150</num>
+            <heading>Bonds or notes as legal investments.</heading>
+            <content>
+              <p>Sec. 44.85.150.   Bonds or notes as legal investments.
+Notwithstanding the restrictions of any other law, all banks, trust companies, savings banks and institutions, building and loan associations, savings and loan associations, investment companies, and other persons carrying on a banking business, all insurance companies, insurance associations, and other persons carrying on an insurance business, and all executors, administrators, guardians, trustees, and other fiduciaries, may legally invest sinking funds, money, or other funds belonging to them or within their control in bonds or notes issued under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-160">
+            <num>44.85.160</num>
+            <heading>Tax exemption.</heading>
+            <content>
+              <p>Sec. 44.85.160.   Tax exemption.
+All property of the bond bank authority is public property devoted to an essential public and governmental function and purpose and is exempt from all taxes and special assessments of the state or a political subdivision of the state.  All bonds or notes issued under this chapter are issued by a body corporate and public of this state and for an essential public and governmental purpose and the bonds and notes, and the interest and income on and from the bonds and notes, and all fees, charges, funds, revenues, income, and other money pledged or available to pay or secure the payment of the bonds or notes, or interest on the bonds or notes, are exempt from taxation except for transfer, inheritance, and estate taxes.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-170">
+            <num>44.85.170</num>
+            <heading>Loans to political subdivisions and joint insurance arrangements.</heading>
+            <subsection eId="44-85-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The bond bank authority, to carry out the purposes and policies of this chapter, may lend money to municipalities through the purchase by the bond bank authority of municipal bonds of municipalities and if the purpose of the loan is to provide financing for a municipal self-insurance program and the loan meets the credit standards of the bond bank authority, may lend money to municipalities, or municipal joint insurance arrangements organized under
+AS 21.76
+. Notwithstanding a home rule charter provision requiring public sale by a municipality of its municipal bonds, a municipality may sell its municipal bonds to the bond bank authority at a negotiated, private sale. The bond bank authority, for this purpose, may issue its bonds and notes payable solely from the revenues or funds available to the bond bank authority for such payment and may otherwise assist municipalities as provided in this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding any other provision of law, to the extent that any department or agency of the state is the custodian of money payable to a political subdivision, at any time after written notice to the department or agency head from the bond bank authority that the political subdivision is in default on the payment of principal or interest on municipal bonds then held or owned by the bond bank authority, or amounts due under an agreement between the bond bank authority and a political subdivision or a municipal joint insurance arrangement organized under
+AS 21.76
+, the department or agency shall withhold the payment of that money from that political subdivision and pay over the money to the bond bank authority for the purpose of paying principal of and interest on the bonds or debt. The notice shall be given in each instance of default.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-180">
+            <num>44.85.180</num>
+            <heading>Issuance of bonds and notes.</heading>
+            <subsection eId="44-85-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to
+AS 44.85.100
+(b), the bond bank authority may issue its bonds or notes in principal amounts that it considers necessary to provide funds for any purposes under this chapter, including</p>
+              </content>
+              <paragraph eId="44-85-180__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the purchase of municipal bonds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-180__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the making of loans through the purchase of municipal bonds, notes, or certificates of participation secured by an agreement between the bond bank authority and a municipality or a municipal joint insurance arrangement organized under
+AS 21.76
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-180__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the payment, funding, or refunding of the principal of, or interest or redemption premiums on, bonds or notes issued by it whether the bonds or notes or interest to be funded or refunded have or have not become due;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-180__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the establishment or increase of reserves to secure or to pay bonds or notes or interest on bonds or notes and all other costs or expenses of the bond bank authority incident to and necessary or convenient to carry out its corporate purposes and powers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-180__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>assisting governmental employers to prepay all or a portion of their share of the unfunded accrued actuarial liabilities of retirement systems, with security as the bond bank authority considers reasonable; however, to carry out this paragraph, bonds and other obligations may only be issued  after submitting a proposal to the Legislative Budget and Audit Committee under (f) of this section and if the state bond rating is the equivalent of AA- or better; bonds issued under this paragraph are subject to
+AS 37.15.903
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-85-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in this chapter or by the bond bank authority, every issue of bonds or notes shall be general obligations payable out of the revenues or funds of the bond bank authority, subject only to agreements with the holders of particular bonds or notes pledging a particular revenue or fund. Bonds or notes may be additionally secured by a pledge of a grant or contributions from the United States or the state or a political subdivision or a person, firm, or corporation, or a pledge of income or revenues, funds or money of the bond bank authority from any source whatsoever.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding the provisions of (a) and (b) of this section, the total amount of bond bank authority bonds and notes outstanding at any one time may not exceed $1,500,000,000. This subsection does not apply to</p>
+              </content>
+              <paragraph eId="44-85-180__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>bonds or notes issued to fund or refund bonds or notes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-180__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>bonds, notes, commercial paper, and other obligations issued under
+AS 44.85.086
+or (a)(5) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-85-180__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In deciding to purchase municipal bonds, the bond bank authority shall give preference to the entities referred to in
+AS 44.85.005
+. In addition, the following, listed in order of preference, are preferred purposes of the municipal bonds that may be considered by the bond bank authority for purchase: schools, waste water treatment facilities, fire protection and public safety facilities, public health facilities, and public transportation facilities.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-180__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding (a), (b), and (c) of this section, the bond bank authority may issue its bonds or notes</p>
+              </content>
+              <paragraph eId="44-85-180__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in principal amounts not to exceed $500,000,000 for the purpose of making loans to the University of Alaska; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-180__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in principal amounts not to exceed $500,000,000 at any one time for the purpose of making loans to a regional health organization; this paragraph does not apply to bonds or notes issued to fund or refund bonds or notes.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-85-180__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Before the issuance of bonds or other obligations under this section, the bond bank authority shall submit a proposal to the Legislative Budget and Audit Committee for review, and 45 days shall elapse before bonds or other obligations are issued, unless the Legislative Budget and Audit Committee earlier recommends that the bond bank authority proceed with the issuance.  Should the Legislative Budget and Audit Committee recommend within the 45-day period that the bond bank authority not proceed with the issuance of bonds or other obligations, the bond bank authority shall again review the proposal, and, if the bond bank authority decides to issue the bonds or other obligations, the bond bank authority shall provide the Legislative Budget and Audit Committee with a statement of the bond bank authority's reasons for doing so before issuance under this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-190">
+            <num>44.85.190</num>
+            <heading>Form of issuance.</heading>
+            <content>
+              <p>Sec. 44.85.190.   Form of issuance.
+Bonds or notes of the bond bank authority shall be authorized by resolution of the bond bank authority and may be issued in one or more series and shall bear the date, mature at the time, bear interest at the rate of interest each year or within a maximum rate, be in the denomination, be in the form, either coupon or registered, carry the conversion or registration privileges, have the rank or priority, be executed in the manner, be payable from the sources in the medium of payment at the place inside or outside the state, and be subject to the terms of redemption, with or without premium, as the resolution of the bond bank authority provides.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-200">
+            <num>44.85.200</num>
+            <heading>Sale price.</heading>
+            <content>
+              <p>Sec. 44.85.200.   Sale price.
+Bonds or notes of the bond bank authority may be sold at public or private sale at the price the bond bank authority determines.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-210">
+            <num>44.85.210</num>
+            <heading>Payment or refunding of notes.</heading>
+            <content>
+              <p>Sec. 44.85.210.   Payment or refunding of notes.
+The bond bank authority may from time to time issue its notes under this chapter and pay and retire or fund or refund the notes from proceeds of bonds or of other notes, or from other funds or money of the bond bank authority available for that purpose in accordance with a contract between the bond bank authority and the holders of the notes.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-220">
+            <num>44.85.220</num>
+            <heading>Terms of agreement with the bondholder or noteholder.</heading>
+            <content>
+              <p>Sec. 44.85.220.   Terms of agreement with the bondholder or noteholder.
+In a resolution of the bond bank authority authorizing or relating to the issuance of bonds or notes, the bond bank authority, in order to secure the payment of the bonds or notes and in addition to its other powers, may covenant and contract with the holders of the bonds or notes
+(1) to pledge to a payment or purpose all or a part of its revenues to which its right then exists or may thereafter come into existence, and the money derived from the revenues, and the proceeds of any bonds or notes;
+(2) to covenant against pledging all or a part of its revenues, or against permitting or suffering a lien on those revenues or its property;
+(3) to covenant as to the use and disposition of payments of principal or interest received by the bond bank authority on municipal bonds or other investments held by the bond bank authority;
+(4) to covenant as to establishment of reserves or sinking funds, the making of provision for them, and the regulation and disposition of the reserves or sinking funds;
+(5) to covenant with respect to or against limitations on a right to sell or otherwise dispose of property of any kind;
+(6) to covenant as to bonds or notes to be issued, and their limitations, terms, and conditions, and as to their custody, and as to the application and disposition of the proceeds of the bonds and notes;
+(7) to covenant as to issuance of additional bonds or notes or as to limitations on the issuance of additional bonds or notes and on the incurring of other debts by it;
+(8) to covenant as to the payment of the principal of or interest on the bonds or notes, as to the sources and methods of payment, as to the rank or priority of bonds or notes with respect to a lien or security, or as to the acceleration of the maturity of any bonds or notes;
+(9) to provide for the replacement of lost, stolen, destroyed, or mutilated bonds or notes;
+(10) to covenant against extending the time for the payment of bonds or notes or interest on the bonds or notes;
+(11) to covenant as to the redemption of bonds or notes and privileges of their exchange for other bonds or notes of the bond bank authority;
+(12) to covenant as to charges to be established and charged, the amount to be raised each year or other period of time by charges or other revenues, and as to the use and disposition to be made of the charges or other revenues;
+(13) to covenant to create or authorize the creation of special funds or money to be held in pledge or otherwise for operating expenses, payment or redemption of bonds or notes, reserves or other purposes and as to the use and disposition of the money held in those funds;
+(14) to establish the procedure, if any, by which the terms of a contract or covenant with or for the benefit of the holders of bonds or notes may be amended or abrogated, the amount of bonds or notes the holders of which must consent to amendment or abrogation, and the manner in which the consent may be given;
+(15) to covenant as to the custody of any of its property or investments, their safekeeping and insurance, and the use and disposition of insurance money;
+(16) to covenant as to the time or manner of enforcement or restraint from enforcement of any rights of the bond bank authority arising by reason of or with respect to nonpayment of the principal or interest of a municipal bond;
+(17) to provide for the rights and liabilities, powers and duties arising upon the breach of any covenant, condition, or obligation and to prescribe the events of default and the terms and conditions upon which any or all of the bonds, notes, or other obligation of the bond bank authority become or may be declared due and payable before maturity and the terms and conditions upon which the declaration and its consequences may be waived;
+(18) to vest in a trustee inside or outside the state such property, rights, powers, and duties in trust as the bond bank authority may determine, which may include any of the rights, powers, and duties of a trustee appointed by the holders of the bonds or notes, and to limit or abrogate the right of the holders of the bonds or notes of the bond bank authority to appoint a trustee under this chapter or limit the rights, powers, and duties of the trustee;
+(19) to pay the costs or expenses incident to the enforcement of the bonds or notes or of the resolution or of a covenant or agreement of the bond bank authority with the holders of its bonds or notes;
+(20) to agree with a corporate trustee which may be a trust company or bank having the powers of a trust company inside or outside the state, as to the pledging or assigning of revenues or funds in which the bond bank authority has a right or interest, and may further provide for such other rights and remedies exercisable by the trustee as may be proper for the protection of the holders of bonds or notes of the bond bank authority and not otherwise in violation of law, and the agreement may also provide for the restriction of the rights of an individual holder of bonds or notes of the bond bank authority;
+(21) to appoint and to provide for the duties and obligations of a paying agent or paying agents, or other fiduciaries as the resolution may provide inside or outside the state;
+(22) to limit the rights of the holders of bonds or notes to enforce a pledge or covenant securing bonds or notes; and
+(23) to make covenants other than and in addition to the covenants expressly authorized in this section, of like or different character, and to make covenants to do or refrain from doing acts and things as may be necessary, or convenient and desirable, in order to better secure bonds or notes or which, in the absolute discretion of the bond bank authority, will tend to make bonds or notes more marketable, notwithstanding that the covenants, acts, or things may not be enumerated in this section.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-230">
+            <num>44.85.230</num>
+            <heading>Purchase and disposition of own obligations.</heading>
+            <content>
+              <p>Sec. 44.85.230.   Purchase and disposition of own obligations.
+The bond bank authority may purchase bonds or notes of the bond bank authority out of its funds or money available for the purchase of its own bonds and notes. The bond bank authority may hold, cancel, or resell the bonds or notes subject to and in accordance with agreements with holders of its bonds or notes.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-240">
+            <num>44.85.240</num>
+            <heading>Bond anticipation notes.</heading>
+            <content>
+              <p>Sec. 44.85.240.   Bond anticipation notes.
+Notwithstanding any law applicable to a municipality as to the period for temporary financing of a public improvement or purpose by issuance of its notes in anticipation of the issuance of permanent bonds or as to the renewal of bond anticipation notes, the bond bank authority may purchase and the municipality may issue bond anticipation notes and may renew them from time to time; however, the bond anticipation notes, including renewals, shall mature in such amounts and in such years not exceeding five years from the date of the original issuance as is agreed between the bond bank authority and the municipality.  In connection with the transaction and purchase of bond anticipation notes, the bond bank authority may by agreement with the municipality impose any terms, conditions, and limitations as in its opinion are proper for the purposes and security of the bond bank authority and the holders of its bonds or notes.  The failure of a municipality to comply with the agreement constitutes a failure of the municipality to pay principal of and interest on the bonds or notes, and the bond bank authority shall enforce all rights, remedies, and provisions of law as it has under this chapter or are elsewhere provided.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-250">
+            <num>44.85.250</num>
+            <heading>Documentation.</heading>
+            <content>
+              <p>Sec. 44.85.250.   Documentation.
+All municipal bonds purchased, held, or owned by the bond bank authority, upon delivery to the bond bank authority, must be accompanied by all documentation required by the authority.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-260">
+            <num>44.85.260</num>
+            <heading>Presumption of validity.</heading>
+            <content>
+              <p>Sec. 44.85.260.   Presumption of validity.
+After issuance, all bonds or notes of the bond bank authority shall be conclusively presumed to be fully authorized and issued under the laws of the state, and a person or a municipality is estopped from questioning their authorization, sale, issuance, execution, or delivery by the bond bank authority.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-270">
+            <num>44.85.270</num>
+            <heading>Reserve fund.</heading>
+            <subsection eId="44-85-270__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The bond bank authority shall establish and maintain a special fund called the Alaska municipal bond bank authority reserve fund in which there shall be deposited or transferred</p>
+              </content>
+              <paragraph eId="44-85-270__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>all money appropriated by the legislature for the purpose of the fund in accordance with the provisions of (g) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-270__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>all proceeds of bonds required to be deposited in the fund by terms of a contract between the bond bank authority and its bondholders or a resolution of the bond bank authority with respect to the proceeds of bonds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-270__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>all other money appropriated by the legislature to the reserve fund; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-270__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>any other money or funds of the bond bank authority that it decides to deposit in the fund.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-85-270__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Subject to the provisions of (h) of this section, money in the reserve fund shall be held and applied solely to the payment of the interest on and principal of bonds of the bond bank authority as the interest and principal become due and payable and for the retirement of bonds; and the money may not be withdrawn if a withdrawal would reduce the amount in the reserve fund to an amount less than the required debt service reserve except for payment of interest then due and payable on bonds and the principal of bonds then maturing and payable and for the retirement of bonds in accordance with the terms of a contract between the bond bank authority and its bondholders and for which payments of other money of the bond bank authority is not then available. In this subsection, required debt service reserve means, as of the date of computation, the amount required to be on deposit in the reserve fund as provided by resolution of the bond bank authority.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-270__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Money in the reserve fund in excess of the required debt service reserve as defined in (b) of this section, whether by reason of investment or otherwise, may be withdrawn at any time by the bond bank authority and transferred to another fund or account of the bond bank authority subject to the provision of (h) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-270__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Money in the reserve fund may be invested in the same manner and on the same conditions as permitted for investment of funds belonging to the state or held in the treasury under
+AS 37.10.070
+; however, the authority may agree with the bondholders to further limit these investments.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-270__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For purposes of valuation, investments in the reserve fund shall be valued at par or if purchased at less than par, at cost unless otherwise provided by resolution of the bond bank authority.  Valuation on a particular date shall include the amount of interest then earned or accrued to that date on the money or investments in the reserve fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-270__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding any other provision of this chapter, bonds may not be issued by the bond bank authority unless there is in the reserve fund the required debt service reserve for all bonds then issued and outstanding and for the bonds to be issued; however, the bond bank authority may satisfy this requirement by depositing as much of the proceeds of the bonds to be issued, upon their issuance, as is needed to meet the required debt service reserve.  The bond bank authority may at any time issue its bonds or notes for the purpose of increasing the amount in the reserve fund to the required debt service reserve, or to meet whatever higher or additional reserve that may be fixed by the bond bank authority with respect to the fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-270__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In order to assure the maintenance of the required debt service reserve in the reserve fund, the legislature may appropriate annually to the bond bank authority for deposit in the fund the sum, certified by the chairman of the bond bank authority to the governor and to the legislature, that is necessary to restore the fund to an amount equal to the required debt service reserve.  The chairman annually, before January 30, shall make and deliver to the governor and to the legislature a certificate stating the sum required to restore the fund to that amount, and the sum so certified may be appropriated and paid to the bond bank authority during the then current state fiscal year.  Nothing in this subsection creates a debt or liability of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-270__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>All amounts received on account of money appropriated to the reserve fund referred to in (a)(3) of this section shall be held and applied in accordance with (b) of this section; however, at the end of each fiscal year, if the amount in the reserve fund is in excess of the required debt service reserve, any amount representing earnings or income received on account of money appropriated to the reserve fund that exceeds the operating expenses of the authority for that fiscal year shall be transferred to the general fund of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-85-270__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>All references to the reserve fund in this section include special accounts within the reserve fund which may be created by the authority to secure the payment of particular bonds. The commissioner of revenue may lend surplus money in the general fund to the authority for deposit to any account in the reserve fund in an amount equal to the required debt service reserve. The loans shall be made on such terms and conditions as may be agreed upon by the commissioner of revenue and the authority, including, without limitation, terms and conditions providing that the loans need not be repaid until the obligations of the corporation secured and to be secured by the account in the reserve fund are no longer outstanding.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-280">
+            <num>44.85.280</num>
+            <heading>Additional funds and accounts.</heading>
+            <content>
+              <p>Sec. 44.85.280.   Additional funds and accounts.
+The bond bank authority may establish additional reserves or other funds or accounts as may be, in its discretion, necessary, desirable, or convenient to further the accomplishment of its purposes or to comply with the provisions of any of its agreements or resolutions.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-290">
+            <num>44.85.290</num>
+            <heading>Application of funds.</heading>
+            <content>
+              <p>Sec. 44.85.290.   Application of funds.
+Money or investments in a fund or account of the bond bank authority established or held for bonds, notes, indebtedness, or liability to be paid, funded, or refunded by issuance of bonds or notes, unless the resolution authorizing the bonds or notes provides otherwise, shall be applied to the payment or retirement of the bonds, notes, indebtedness or liability, and to no other purpose.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-300">
+            <num>44.85.300</num>
+            <heading>Rights of holders paramount.</heading>
+            <content>
+              <p>Sec. 44.85.300.   Rights of holders paramount.
+In order to carry out its purpose under this chapter of making loans to municipalities by purchase of the municipal bonds of those municipalities and by receipt of its income from service charges and from payments of interest on the maturing principal of municipal bonds purchased and held by it, and in order to produce revenues or income to the bond bank authority sufficient at all times to meet its costs and expenses of operation under this chapter and to pay the principal of and interest on its outstanding bonds and notes when due, the bond bank authority must at all times, and to the greatest extent possible, plan to issue its bonds and notes and lend money to political subdivisions so that the purpose is achieved without in any way jeopardizing any rights of the holders of bonds or notes of the bond bank authority or affecting other matters under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-310">
+            <num>44.85.310</num>
+            <heading>Default in payment; appointment of trustee.</heading>
+            <content>
+              <p>Sec. 44.85.310.   Default in payment; appointment of trustee.
+If the bond bank authority defaults in the payment of principal or interest on an issue of notes or bonds after they become due, whether at maturity or upon call for redemption, and the default continues for 30 days, or if the bond bank authority fails or refuses to comply with this chapter or defaults in an agreement made with the holders of an issue of notes or bonds, the holders of 25 percent in the aggregate principal amount of the outstanding notes or bonds of that issue, by instrument filed in the office of the clerk of the district court of the first judicial district and executed in the same manner as a deed to be recorded, may appoint a trustee to represent the holders of those notes or bonds for the purposes provided in this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-320">
+            <num>44.85.320</num>
+            <heading>Powers and duties of trustee on default.</heading>
+            <subsection eId="44-85-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A trustee appointed under
+AS 44.85.310
+may, and shall in the trustee's name, upon written request of the holders of 25 percent in principal amount of the outstanding notes or bonds,</p>
+              </content>
+              <paragraph eId="44-85-320__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>by civil action enforce all rights of the noteholders or bondholders, including the right to require the bond bank authority to collect rates, charges, and other fees and to collect interest and amortization payments on municipal bonds and notes held by it adequate to carry out an agreement as to, or pledge of, the rates, charges, and other fees and of the interest and amortization payments, and to require the bond bank authority to carry out any other agreements with the holders of the notes or bonds and to perform its duties under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-320__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>bring a civil action upon the notes or bonds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-320__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>by civil action require the bond bank authority to account as if it were the trustee of an express trust for the holders of the notes or bonds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-320__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>by civil action enjoin anything that may be unlawful or in violation of the rights of the holders of the notes or bonds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-320__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>declare all the notes or bonds due and payable, and if all defaults are made good, then with the consent of the holders of 25 percent of the principal amount of the outstanding notes or bonds, annul the declaration and its consequences;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-320__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>in addition to the foregoing, exercise all the powers necessary for the exercise of functions specifically set out or incident to the general representation of bondholders or noteholders in the enforcement and protection of their rights.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-85-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before declaring the principal of notes or bonds due and payable, the trustee must first give 30 days' notice in writing to the governor, the bond bank authority, the commissioner of commerce, community, and economic development, and the attorney general of the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-330">
+            <num>44.85.330</num>
+            <heading>Personal liability.</heading>
+            <content>
+              <p>Sec. 44.85.330.   Personal liability.
+Neither a member of the bond bank authority nor a person executing bonds or notes issued under this chapter is liable personally on the bonds or notes.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-340">
+            <num>44.85.340</num>
+            <heading>Exemption from execution and sale.</heading>
+            <content>
+              <p>Sec. 44.85.340.   Exemption from execution and sale.
+All property of the bond bank authority is exempt from levy and sale by virtue of an execution and no execution or other judicial process may issue against the property.  A judgment against the bond bank authority may not be a charge or lien upon its property; however, nothing in this section applies to or limits the rights of the holder of bonds or notes to pursue a remedy for the enforcement of a pledge or lien given by the bond bank authority on its revenues or other money.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-350">
+            <num>44.85.350</num>
+            <heading>Lien of pledge.</heading>
+            <content>
+              <p>Sec. 44.85.350.   Lien of pledge.
+A pledge of revenues or other money made by the bond bank authority is binding from the time the pledge is made. Revenues or other money so pledged and thereafter received by the bond bank authority are immediately subject to the lien of the pledge without any further act, and the lien of a pledge is binding against all parties having claims of any kind in tort, contract, or otherwise against the bond bank authority, regardless of whether the parties have notice of the lien. Neither the resolution nor any other instrument by which a pledge is created needs to be filed or recorded except in the records of the bond bank authority.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-360">
+            <num>44.85.360</num>
+            <heading>Insurance or guaranty.</heading>
+            <content>
+              <p>Sec. 44.85.360.   Insurance or guaranty.
+The bond bank authority may obtain from a department or agency of the United States, or a nongovernmental insurer available insurance or guaranty for the payment or repayment of interest or principal, or both, or any part of interest or principal, on bonds or notes issued by the bond bank authority, or on municipal bonds of municipalities purchased or held by the bond bank authority.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-370">
+            <num>44.85.370</num>
+            <heading>Surety for deposits by bank.</heading>
+            <content>
+              <p>Sec. 44.85.370.   Surety for deposits by bank.
+All banks, trust companies, savings banks, investment companies, and other persons carrying on a banking business are authorized to give to the bond bank authority a good and sufficient undertaking with such sureties as are approved by the bank to the effect that the bank or banking institution shall faithfully keep and pay over to the order of or upon the warrant of the bond bank authority or its authorized agent all those funds deposited with it by the bank and agreed interest under or by reason of this chapter, at such times or upon such demands as may be agreed with the bank or in lieu of these sureties, deposit with the bond bank authority or its authorized agent or a trustee or for the holders of bonds, as collateral, those securities as the bond bank authority may approve.  The deposits of the bond bank authority may be evidenced by an agreement in the form and upon the terms and conditions that may be agreed upon by the bond bank authority and the depository bank or banking institution.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-380">
+            <num>44.85.380</num>
+            <heading>Expenses of administration.</heading>
+            <content>
+              <p>Sec. 44.85.380.   Expenses of administration.
+All expenses incurred in carrying out this chapter are payable solely from revenues or funds appropriated under this chapter and nothing in this chapter authorizes the bond bank authority to incur an indebtedness or liability on behalf of or payable by the state.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-390">
+            <num>44.85.390</num>
+            <heading>Cooperation by government agencies.</heading>
+            <content>
+              <p>Sec. 44.85.390.   Cooperation by government agencies.
+All officers, departments, boards, agencies, divisions, and commissions of the state shall render services to the bond bank authority that are within the area of their respective governmental functions and that may be requested by the bond bank authority and must comply promptly with any reasonable request by the bond bank authority relating to making of a study or review as to desirability, need, cost or expense, or financial feasibility with respect to a public project, purpose, or improvement, or the financial or fiscal responsibility or ability of a political subdivision making application for loan to the bond bank authority and for the purchase by the bond bank authority of municipal bonds to be issued by that municipality. The cost and expense of a service requested by the bond bank authority, at the request of the officer, department, board, agency, division, or commission rendering the service, shall be paid by the bond bank authority.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-400">
+            <num>44.85.400</num>
+            <heading>Public records; open meetings.</heading>
+            <content>
+              <p>Sec. 44.85.400.   Public records; open meetings.
+The provisions of
+AS 40.25.110
+ 40.25.120 (public records) and
+AS 44.62.310
+ 44.62.319 (Open Meetings Act) apply to the bond bank authority.</p>
+            </content>
+          </section>
+          <section eId="sec_44-85-410">
+            <num>44.85.410</num>
+            <heading>Definitions.</heading>
+            <subsection eId="44-85-410__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>special assessments on benefited property;
+(ii) tax increments and a letter of credit or equal security; or
+(iii) a lease;</p>
+              </content>
+              <paragraph eId="44-85-410__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>notes means notes of the bond bank authority issued under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-410__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>public body means a public body corporate and politic or a political subdivision of the state established under any law of the state which may issue municipal bonds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-410__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>regional health organization has the meaning given in
+AS 18.28.100
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-410__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>reserve fund means the Alaska municipal bond bank reserve fund established under
+AS 44.85.270
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-85-410__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>revenues means all fees, charges, money, profits, payments of principal of or interest on municipal bonds and other investments, gifts, grants, contributions, appropriations, and all other income derived or to be derived by the bond bank authority under this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_44-85-420">
+            <num>44.85.420</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 44.85.420.   Short title.
+This chapter may be cited as the Alaska Municipal Bond Bank Authority Act or the Alaska Municipal Bond Bank Act.  In transactions involving general obligation bonds of municipalities, the Alaska Municipal Bond Bank Authority created by this chapter may be referred to as the Alaska Municipal Bond Bank with the same legal effect as if the reference were to Alaska Municipal Bond Bank Authority.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

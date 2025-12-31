@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-34"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-34"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="38.34"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-34/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-34/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-38/chapter-34/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-38/chapter-34/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_38">
+        <num>38</num>
+        <heading>Public Land</heading>
+        <chapter eId="title_38__chp_34">
+          <num>34</num>
+          <heading>In-State Natural Gas Pipeline</heading>
+          <section eId="sec_38-34-010">
+            <num>38.34.010</num>
+            <heading>In-state gasline project coordinator.</heading>
+            <subsection eId="38-34-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The position of in-state gasline project coordinator is created in the Office of the Governor. The Office of the Governor shall provide administrative support for the position. The position shall continue until one year after commencement of commercial operation of the in-state natural gas pipeline.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-34-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The governor shall appoint an individual to the position of in-state gasline project coordinator. The coordinator is in the exempt service under
+AS 39.25.110
+. The person serving as the in-state gasline project coordinator may be removed from the position at the discretion of the governor, who shall appoint another person to the position.</p>
+              </content>
+            </subsection>
+            <subsection eId="38-34-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The in-state gasline project coordinator shall collaborate with other state agencies or entities to coordinate and facilitate the provisions of
+AS 31.25.007
+and
+AS 38.34.020
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-34-020">
+            <num>38.34.020</num>
+            <heading>Expedited construction and operation or expansion of an Alaska Gasline Development Corporation project.</heading>
+            <subsection eId="38-34-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>[Renumbered as
+AS 31.25.007
+.]</p>
+              </content>
+            </subsection>
+            <subsection eId="38-34-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding any contrary provision of law, a state agency or entity may not include in any project certificate, right-of-way, permit, or other authorization a term or condition that is not required by law if the in-state gasline project coordinator determines that the term or condition would prevent or impair, in any significant respect, the expeditious construction and operation or expansion of a project under
+AS 31.25
+(Alaska Gasline Development Corporation).</p>
+              </content>
+            </subsection>
+            <subsection eId="38-34-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless required by law, a state agency or entity may not add to, amend, or abrogate any certificate, right-of-way, permit, or other authorization if the in-state gasline project coordinator determines that the action would prevent or impair, in any significant respect, the expeditious construction, operation, or expansion of a project under
+AS 31.25
+(Alaska Gasline Development Corporation).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_38-34-099">
+            <num>38.34.099</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 38.34.099.   Definitions.
+In this chapter,
+(1) Alaska Gasline Development Corporation means the corporation created under
+AS 31.25.010
+;
+(2) in-state natural gas pipeline and natural gas pipeline have the meanings given in
+AS 31.25.390
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

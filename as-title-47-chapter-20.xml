@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_20">
+          <num>20</num>
+          <heading>Special Services for Certain Children</heading>
+          <section eId="sec_47-20-060">
+            <num>47.20.060</num>
+            <heading>Purpose.</heading>
+            <content>
+              <p>Sec. 47.20.060.   Purpose.
+It is the purpose of
+AS 47.20.060
+ 47.20.290 to
+(1) subject to the availability of funding, provide quality learning and related early intervention family support services to eligible children under the age of three who have developmental delays or disabilities and, on a discretionary basis, to those children under the age of three who are at risk of developmental delays or disabilities;
+(2) bring together and make optimal use of all available federal, state, local, and private resources for the benefit of children under the age of three with developmental delays or disabilities and their families;
+(3) expand and improve existing learning and early intervention services and to provide and arrange for comprehensive services through local agencies and statewide support programs.</p>
+            </content>
+          </section>
+          <section eId="sec_47-20-070">
+            <num>47.20.070</num>
+            <heading>Establishment of early intervention services system program.</heading>
+            <subsection eId="47-20-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department, with the assistance of the Governor's Council on Disabilities and Special Education, shall establish a coordinated, comprehensive, statewide system of multidisciplinary interagency programs that provide appropriate early intervention services to eligible persons under
+AS 47.20.060
+ 47.20.290.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department is the lead agency for purposes of federal law with respect to the administration of the early intervention services system required under (a) of this section. The department shall establish and administer the system required under (a) of this section so that the state is eligible for the maximum available funding from public and private sources.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In connection with the system established under (a) of this section, the department shall</p>
+              </content>
+              <paragraph eId="47-20-070__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>develop a state plan that identifies the best methods of providing services to children under the age of three with developmental delays or disabilities and their families and report to the governor on the extent to which that plan is being implemented in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-070__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>develop and implement an educational program concerning the nature and effects of developmental delays and disabilities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-070__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>serve as a clearinghouse for educational materials and information about developmental delays and disabilities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-070__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>organize and encourage training programs for persons who provide services to children under the age of three with developmental delays and disabilities and their families;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-070__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>establish a training program for paraprofessionals who provide services to children under the age of three with developmental delays and disabilities and their families;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-070__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>cooperate with other public and private agencies and individuals to facilitate the transition of children served in the early intervention system to the formal education system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-070__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>identify and use all public and private resources available to the state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-070__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>monitor and evaluate the services provided to ensure the demonstrable effectiveness of the services and compliance with state and federal law and department policy regarding the provision of early intervention services.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-20-075">
+            <num>47.20.075</num>
+            <heading>Grant authority.</heading>
+            <content>
+              <p>Sec. 47.20.075.   Grant authority.
+The department may award grants for covered services to children and their families who are eligible under
+AS 47.20.060
+ 47.20.290.</p>
+            </content>
+          </section>
+          <section eId="sec_47-20-080">
+            <num>47.20.080</num>
+            <heading>Program eligibility.</heading>
+            <subsection eId="47-20-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A child and the child's family are eligible for core early intervention services and additional early intervention services under
+AS 47.20.060
+ 47.20.290 if the child is under the age of three and</p>
+              </content>
+              <paragraph eId="47-20-080__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>experiencing developmental delay or disability; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-080__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>at risk of experiencing developmental delay or disability if early intervention services are not provided.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-20-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the department estimates that funding available for services under
+AS 47.20.060
+ 47.20.290 will be insufficient to provide services to all persons who are eligible under (a) of this section, the department shall eliminate coverage for services in the following order:</p>
+              </content>
+              <paragraph eId="47-20-080__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>additional early intervention services for persons eligible under (a)(2) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-080__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>additional early intervention services for persons eligible under (a)(1) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-080__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>core early intervention services for persons eligible under (a)(2) of this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-080__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>core early intervention services for persons eligible under (a)(1) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-20-090">
+            <num>47.20.090</num>
+            <heading>Finding and evaluating eligible participants.</heading>
+            <subsection eId="47-20-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall establish a comprehensive system for finding children and their families who are eligible for services under
+AS 47.20.060
+ 47.20.290. This child find system must</p>
+              </content>
+              <paragraph eId="47-20-090__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>include a public awareness program focusing on early identification of developmentally delayed and disabled children under three years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-090__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provide for participation by primary referral sources; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-090__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>include procedures with timelines for referral of eligible participants to service providers.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-20-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall, within 45 days after a child's referral for services under (a) of this section, ensure that all affected public agencies and service providers</p>
+              </content>
+              <paragraph eId="47-20-090__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provide for a comprehensive multidisciplinary evaluation of the functioning of the child and the needs of the child's family so that the family can appropriately assist in the development of the child;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-090__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in consultation with the child's parents, develop a written individualized service plan that identifies how the needs of the child and the family could be met.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-20-100">
+            <num>47.20.100</num>
+            <heading>Individualized family service plan.</heading>
+            <content>
+              <p>Sec. 47.20.100.   Individualized family service plan.
+The individualized family service plan developed under
+AS 47.20.090
+(b)(2) shall be based on the evaluation conducted under
+AS 47.20.090
+(b)(1) and must include, subject to
+AS 47.20.080
+(b),
+(1) provisions for case management services to implement the plan, including the name of the case manager from the profession most immediately relevant to the child's or family's needs who will be responsible for the implementation of the plan and coordination with other agencies and persons;
+(2) a statement of the child's present levels of physical development, cognitive development, language and speech development, psychosocial development, and self-help skills, based on appropriate objective criteria;
+(3) a description of the family's concerns, priorities, and resources as they relate to the future enhancement of the child's development;
+(4) a description of the specific early intervention services that will help meet the unique needs of the child and the family, including the frequency, intensity, and method with which the services should be delivered;
+(5) the projected dates for initiation of services and the anticipated duration of the services;
+(6) an outline of the major outcomes expected to be achieved for the child and the family along with the criteria, procedures, and timelines that will be used to determine the degree to which progress toward achieving the outcomes are being made and whether modifications or revisions of the outcomes or services are necessary; and
+(7) a statement of the steps that will be taken to support the transition of the child and the family to the use of services available under other appropriate programs, including programs for children who are three years of age or older.</p>
+            </content>
+          </section>
+          <section eId="sec_47-20-110">
+            <num>47.20.110</num>
+            <heading>Other duties of the department.</heading>
+            <subsection eId="47-20-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall adopt regulations necessary to implement
+AS 47.20.060
+ 47.20.290, including regulations</p>
+              </content>
+              <paragraph eId="47-20-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for personnel development, including preservice and in-service training programs for providers of early intervention services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to govern resolution of intra-agency and interagency disputes about the provision of services under
+AS 47.20.060
+ 47.20.290 and the financial responsibility of the respective parties for those services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>that ensure that services are provided to children and their families in a timely manner pending the resolution of disputes among public agencies or service providers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-110__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>providing for due process with respect to the rights of children and parents who are eligible for services under
+AS 47.20.060
+ 47.20.290; the regulations must provide that during the pendency of a complaint about a change in services, the child and family shall continue to receive the prior services unless the state and the family otherwise agree, or, if the complaint relates to an application for initial services, the child and family shall receive the services that are not in dispute; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-110__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>for the award of grants under
+AS 47.20.060
+ 47.20.290.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-20-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall establish a system for compiling data on the numbers of children and their families in the state who need early intervention services, the numbers being served, the types of services provided, and other information as required under federal law. Personally identifiable information obtained under
+AS 47.20.060
+ 47.20.290 is confidential for purposes of
+AS 40.25.110
+ 40.25.120.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-20-290">
+            <num>47.20.290</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 47.20.290.   Definitions.
+In
+AS 47.20.060
+ 47.20.290,
+(1) additional early intervention services means
+(A) family training and counseling;
+(B) speech pathology and audiology;
+(C) occupational therapy;
+(D) physical therapy;
+(E) psychological services;
+(F) medical services only for diagnostic or evaluation purposes; and
+(G) health services for the child that are necessary to enable the child to benefit from the other early intervention services;
+(2) core early intervention services means
+(A) case management services;
+(B) special instruction; and
+(C) early identification, screening, and assessment;
+(3) department means the Department of Health;
+(4) developmentally delayed means functioning at least 15 percent below a chronological or corrected age or 1.5 standard deviations below age appropriate norms in one or more of the following areas: cognitive development, gross motor development, sensory development, speech or language development, or psychosocial development, including self-help skills and behavior, as measured and verified by appropriate diagnostic instruments and procedures or through systematic observation of functional abilities in a daily routine by two professionals and a parent, developmental history, and appropriate assessment procedures;
+(5) disability means having an identifiable physical, mental, sensory, or psychosocial condition that has a probability of resulting in developmental delay even though a developmental delay may not be exhibited at the time the condition is identified, including
+(A) chromosomal abnormalities associated with delays in development, such as Down's syndrome, Turner's syndrome, Cornelia de Lange syndrome, or fragile X syndrome;
+(B) other syndromes and conditions associated with delays in development, such as fetal alcohol syndrome, cocaine and other drug-related syndromes, metabolic disorders, cleft lip, or cleft palate;
+(C) neurological disorders associated with delays in development, such as cerebral palsy, microcephaly, hydrocephaly, spina bifida, or periventricular leukomalacia;
+(D) sensory impairment, such as hearing loss or deafness, visual loss or blindness, or a combination of hearing and visual loss, that interferes with the child's ability to respond effectively to environmental stimulus;
+(E) congenital infections, such as rubella, cytomegalovirus, toxoplasmosis, or acquired immune deficiency syndrome;
+(F) chronic illness or conditions that may limit learning or development, such as cystic fibrosis, bronchopulmonary dysplasia, tracheostomies, amputations, arthritis, or muscular dystrophy;
+(G) psychosocial disorders, such as reactive attachment disorder, infant autism, or childhood schizophrenia; or
+(H) atypical growth patterns consistent with a prognosis of developmental delay based upon parental and professional judgment, such as failure to thrive;
+(6) early intervention services or services means services that are designed to help meet the developmental needs of a child under the age of three who is developmentally delayed or disabled or at risk of developmental delay or disability or the needs of the child's family so that the family can support the child's development.
+Article 2. Newborn and Infant Hearing Screening, Tracking, and Intervention Program.</p>
+            </content>
+          </section>
+          <section eId="sec_47-20-300">
+            <num>47.20.300</num>
+            <heading>Department to implement program.</heading>
+            <content>
+              <p>Sec. 47.20.300.   Department to implement program.
+The department shall plan, develop, and implement a hearing screening, tracking, and intervention program to facilitate compliance with the requirements of
+AS 47.20.310
+ 47.20.390.</p>
+            </content>
+          </section>
+          <section eId="sec_47-20-310">
+            <num>47.20.310</num>
+            <heading>Screening requirements.</heading>
+            <subsection eId="47-20-310__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to (b) of this section, the physician in attendance at or immediately after the birth of a child in a hospital in this state, or, if a physician is not in attendance at or immediately after the birth, the person attending the newborn child in a hospital in this state, shall, unless medically contraindicated, cause the child to be screened to determine whether the child has a potential hearing impairment using the methods determined by the department under (e) of this section. Unless medically contraindicated, the screening shall occur before the newborn is released from the hospital or before the infant is 30 days old, whichever is earlier. Each birthing center that provides maternity and newborn care services shall provide that each newborn in the center's care is referred for an appointment to a licensed audiologist or to a hospital or other newborn hearing screening provider before discharge. Unless medically contraindicated, the screening shall occur before the infant is 30 days old.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-310__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, the physician or other person at or immediately after the birth of a child in a hospital or birthing center that averages less than 20 births a year is not required to screen the child as described in (a) of this section but shall, before the newborn is released from the hospital or birthing center, refer the child for screening at another facility or with another provider. Unless medically contraindicated, the screening shall occur before the child is 30 days old.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-310__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If it is determined by screening that a newborn child may have a hearing impairment, the physician or other person who is required under (a) of this section to cause the child to be screened shall</p>
+              </content>
+              <paragraph eId="47-20-310__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>refer the child for confirmatory diagnostic evaluation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-310__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>make reasonable efforts to promptly notify the child's parent that the child may have a hearing impairment and explain to the parent the potential effect of the impairment on the development of the child's speech and language skills and psychosocial and cognitive development; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-310__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>notify the department of the hearing screening results on a form approved by the department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-20-310__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>When the Bureau of Vital Statistics receives a certificate of live birth under
+AS 18.50.160
+for a newborn who was delivered at a place other than a hospital, the bureau shall notify the department employees who administer
+AS 47.20.310
+ 47.20.390. The department employees shall notify the child's parents of the merits of having a hearing screening performed, and the department shall provide information to the parents to assist the parents in accomplishing the hearing screening within 30 days after the child's birth.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-310__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The hearing screening required under this section shall use protocols established by the department. At a minimum, the protocols must include the use of at least one of the following physiologic technologies: automated or diagnostic auditory brainstem response (ABR) or otoacoustic emissions (OAE). The department shall consider updating the protocols as information is provided to the department that new physiologic technologies or improvements to existing physiologic technologies will substantially enhance newborn and infant hearing assessment.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-310__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a physician or other person required to cause a newborn hearing screening under this section is exempt from this requirement if the parent of the newborn child objects to the screening procedure on the grounds that the procedure conflicts with the religious or other tenets and practices of the parent. The parent shall sign a statement that the parent knowingly refuses the services, and the physician or other person shall have a copy of the signed statement retained in the hospital records of the birth and sent to the department for tracking under
+AS 47.20.320
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-310__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The physician or other person required to cause a newborn hearing screening under this section shall report the results of newborn hearing screening as required by the department under
+AS 47.20.320
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-20-320">
+            <num>47.20.320</num>
+            <heading>Reporting and tracking program.</heading>
+            <subsection eId="47-20-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall develop and implement a reporting and tracking system for newborns and infants screened for hearing loss in order to provide the department with information and data to effectively plan, establish, monitor, and evaluate the newborn and infant hearing screening, tracking, and intervention program. Evaluation of the program must include evaluation of the initial hearing screening, follow-up components, and the use and availability of the system of services for newborns and infants who are deaf or hard of hearing and their families.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A physician or other person attending the birth in the state, or a hospital on behalf of a physician or other person attending the birth, shall report information related to hearing screening required under (a) of this section as specified by the department. A person who provides audiological confirmatory evaluation and diagnostic services for newborns and infants whose hearing was screened under
+AS 47.20.310
+shall report information as specified by the department in regulation.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-320__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The information received under (b) of this section shall be compiled and maintained by the department in the tracking system. The information shall be kept confidential in accordance with the applicable provisions of 20 U.S.C. 1439 (Individuals with Disabilities Education Act), as amended by P.L. 105-17. Data collected by the department that was obtained from the medical records of the newborn or infant shall be for the confidential use of the department and are not public records subject to disclosure under
+AS 40.25.110
+. Aggregate statistical data without identifying information compiled from the information received is public information.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-320__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A hospital or other health facility, clinical laboratory, audiologist, physician, registered or advanced practice registered nurse, certified direct-entry midwife, officer or employee of a health facility or clinical laboratory, or an employee of an audiologist, physician, or registered or advanced practice registered nurse is not criminally or civilly liable for furnishing information in good faith to the department or its designee under this section. The furnishing of information in accordance with this section is not a violation of
+AS 08
+or
+AS 18
+or regulations adopted under
+AS 08
+or
+AS 18
+for licensees under those statutes.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-20-330">
+            <num>47.20.330</num>
+            <heading>Intervention program.</heading>
+            <subsection eId="47-20-330__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall establish guidelines for the provision of follow-up care for newborn and infant children in the state who have been identified as having or being at risk of developing a hearing loss. The services recommended must include appropriate follow-up care for newborns and infants with abnormal or inconclusive screening results, such as diagnostic evaluation, referral, and coordination of early intervention service programs if the newborn or infant is found to have a hearing loss.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-20-330__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The parents of all newborns and infants diagnosed with a hearing loss, as reported to the department, shall be provided by the department with written information on the availability of follow-up care through community resources and government agencies, including those provided in accordance with 20 U.S.C. 1400  1482 (Individuals with Disabilities Education Act), as amended. Information provided by the department must include listings of local and statewide nonprofit deaf and hard of hearing consumer-based organizations, parent support organizations affiliated with deafness, counseling and educational services, and programs offered through the department and the Department of Education and Early Development.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-20-340">
+            <num>47.20.340</num>
+            <heading>Outreach campaign.</heading>
+            <content>
+              <p>Sec. 47.20.340.   Outreach campaign.
+The department shall conduct a community outreach and awareness campaign to inform medical providers, pregnant women, and families of newborns and infants of the newborn and infant hearing screening, tracking, and intervention program and the value of early hearing screening, tracking, and intervention.</p>
+            </content>
+          </section>
+          <section eId="sec_47-20-350">
+            <num>47.20.350</num>
+            <heading>Report.</heading>
+            <content>
+              <p>Sec. 47.20.350.   Report.
+The department shall prepare an annual report for the governor about the newborn and infant hearing screening, tracking, and intervention program administered under
+AS 47.20.310
+ 47.20.390. The report must include recommendations on improving the early screening, tracking, and intervention program, including strategies to increase the rate of early screening and the use of appropriate early intervention techniques. The department shall notify the legislature that the report is available.</p>
+            </content>
+          </section>
+          <section eId="sec_47-20-360">
+            <num>47.20.360</num>
+            <heading>Performance evaluation.</heading>
+            <subsection eId="47-20-360__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall collect and compile performance data on the early hearing screening, tracking, and intervention program established under
+AS 47.20.300
+ 47.20.390 to ensure that the program is in compliance with
+AS 47.20.300
+ 47.20.390 and the regulations adopted under
+AS 47.20.300
+ 47.20.390. The performance evaluation must include</p>
+              </content>
+              <paragraph eId="47-20-360__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a comparison of the number of infants born in the state to the number of infants screened;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-360__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the referral rate for confirmatory diagnostic evaluation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-360__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the follow-up rate for intervention; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-20-360__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the number of false screening results.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-20-360__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In conducting a performance evaluation, the department shall establish hearing screening performance standards that must include a false positive rate and a false negative rate for screening results of less than or equal to three percent.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-20-390">
+            <num>47.20.390</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 47.20.390.   Definitions.
+In
+AS 47.20.300
+ 47.20.390,
+(1) commissioner means the commissioner of health;
+(2) department means the Department of Health;
+(3) follow-up care means all of the following:
+(A) services necessary to diagnose and confirm a hearing loss;
+(B) ongoing audiological services to monitor hearing;
+(C) communication services, including aural rehabilitation, speech, language, social, and psychological services;
+(D) support services for the infant and family; and
+(E) early intervention services described in 20 U.S.C. 1431  1445 (Individuals with Disabilities Education Act), as amended;
+(4) hearing loss means a hearing loss of 40 decibels or greater in the frequency region important for speech recognition and comprehension in one or both ears, approximately 500 through 4000 Hz;
+(5) hearing screening means automated auditory brain stem response, otoacoustic emissions, or other appropriate screening procedure approved by the department;
+(6) infant means a child 30 days to 24 months old;
+(7) newborn means a child less than 30 days old;
+(8) parent means a natural parent, stepparent, adoptive parent, legal guardian, or other legal custodian of the child;
+(9) program means the newborn and infant hearing, tracking, and intervention screening program established under
+AS 47.20.310
+ 47.20.390.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

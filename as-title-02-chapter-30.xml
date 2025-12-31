@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-30"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="2.30"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_2">
+        <num>2</num>
+        <heading>Aeronautics</heading>
+        <chapter eId="title_2__chp_30">
+          <num>30</num>
+          <heading>Operation of Aircraft</heading>
+          <section eId="sec_02-30-030">
+            <num>02.30.030</num>
+            <heading>Reckless operation.</heading>
+            <subsection eId="02-30-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not operate an aircraft in the air or on the ground or water in a careless or reckless manner so as to endanger the life or property of another. In a proceeding charging careless or reckless operation of aircraft in violation of this section, the court, in determining whether the operation was careless or reckless, shall consider the standards for safe operation of aircraft prescribed by federal statutes or regulations governing aeronautics.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-30-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not operate an aircraft occupied by a crew member or passenger who is obviously under the influence of intoxicating liquor or a controlled substance.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-30-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 14 ch 56 SLA 2001.]</p>
+              </content>
+            </subsection>
+            <subsection eId="02-30-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 14 ch 56 SLA 2001.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_02-30-040">
+            <num>02.30.040</num>
+            <heading>Penalties.</heading>
+            <content>
+              <p>Sec. 02.30.040.   Penalties.
+A person violating a provision of this chapter is guilty of a misdemeanor and upon conviction is punishable by a fine of not more than $1,000.</p>
+            </content>
+          </section>
+          <section eId="sec_02-30-050">
+            <num>02.30.050</num>
+            <heading>Definition.</heading>
+            <content>
+              <p>Sec. 02.30.050.   Definition.
+In this chapter, operate aircraft means to use, navigate, pilot, or taxi an aircraft in the airspace over this state, or upon the land or water inside this state.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

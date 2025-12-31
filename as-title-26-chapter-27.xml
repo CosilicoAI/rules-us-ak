@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-26/chapter-27"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-26/chapter-27"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="26.27"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-26/chapter-27/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-26/chapter-27/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-26/chapter-27/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-26/chapter-27/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_26">
+        <num>26</num>
+        <heading>Military Affairs, Veterans, Disasters, and Aerospace</heading>
+        <chapter eId="title_26__chp_27">
+          <num>27</num>
+          <heading>Alaska Aerospace Corporation</heading>
+          <section eId="sec_26-27-010">
+            <num>26.27.010</num>
+            <heading>Creation and termination of corporation.</heading>
+            <subsection eId="26-27-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Alaska Aerospace Corporation is created as a public corporation of the state. The corporation is a body corporate and politic located for administrative purposes within the Department of Military and Veterans' Affairs and affiliated with the University of Alaska but with a separate and independent legal existence.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The corporation may not be terminated as long as it has bonds, notes, or other obligations outstanding. If the corporation is terminated, it shall be terminated in a manner that permits the University of Alaska and Poker Flat Research Range to continue their research and educational missions uninterrupted.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-020">
+            <num>26.27.020</num>
+            <heading>Board of directors.</heading>
+            <subsection eId="26-27-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The powers and responsibilities of the corporation are vested in the board of directors. The board of directors of the corporation consists of nine members appointed by the governor as follows:</p>
+              </content>
+              <paragraph eId="26-27-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>three state residents who have a significant high level of experience in the private business sector, specializing in financing or economic development or marketing; two of the state residents appointed under this paragraph shall be residents of the borough where the launch activities of the corporation occur if qualified candidates residing in the borough are available;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the president or the designee of the president of the University of Alaska;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the director or designee of the Geophysical Institute of the University of Alaska;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the adjutant general of the Department of Military and Veterans' Affairs or the adjutant general's designee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>two members who have held or currently hold positions in the aerospace or commercial space industry, have special experience regarding federal regulatory procedures and policies involving space, or have operational experience; members with aerospace experience may not exceed one; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a public school educator or a public member.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="26-27-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The members of the board of directors of the corporation described in (a)(5) of this section may be nonresidents of the state. The term of the members described in (a)(1), (5) and (6) of this section is four years and those terms shall be staggered.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Members of the board of directors of the corporation described in (a)(1), (5) and (6) of this section receive $100 compensation for each day spent on official business of the corporation.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In addition to the members of the board of directors described in (a) of this section, two members of the legislature shall serve as ex officio nonvoting members of the board of directors. The two ex officio nonvoting members shall include one member of the senate appointed by the president of the senate and one member of the house appointed by the speaker of the house.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The voting and nonvoting members of the board of directors of the corporation are entitled to per diem and travel expenses authorized under
+AS 39.20.180
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-030">
+            <num>26.27.030</num>
+            <heading>Chair and vice-chair.</heading>
+            <content>
+              <p>Sec. 26.27.030.   Chair and vice-chair.
+The board of directors of the corporation shall select a chair and vice-chair from among the members of the board of directors of the corporation who are state residents. The vice-chair presides over all meetings in the absence of the chair and has other duties the board of directors of the corporation may direct.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-040">
+            <num>26.27.040</num>
+            <heading>Meetings; staff.</heading>
+            <subsection eId="26-27-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A majority of the members of the corporation constitutes a quorum for the transaction of business or the exercise of a power or function at a meeting of the corporation. The corporation shall meet at least every three months. The corporation may meet and transact business by electronic media if (1) public notice of the time and locations where the meeting will be held by electronic media has been given in the same manner as if the meeting were held in a single location; (2) participants and members of the public in attendance can hear and have the same right to participate in the meeting as if the meeting were conducted in person; and (3) copies of pertinent reference materials, statutes, regulations, and audio-visual materials are reasonably available to participants and the public. A meeting by electronic media as provided in this subsection has the same legal effect as a meeting in person.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The corporation may employ persons as staff it considers advisable, including an executive director, and may employ professional advisors, technical experts, agents, and other employees it considers advisable. The executive director and employees of the corporation are in the exempt service under
+AS 39.25
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The corporation may hire legal counsel to represent the corporation.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The corporation shall keep minutes of each meeting and send a certified copy of the minutes to the governor and to the Legislative Budget and Audit Committee.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-050">
+            <num>26.27.050</num>
+            <heading>Alaska Aerospace Corporation fund.</heading>
+            <subsection eId="26-27-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Alaska Aerospace Corporation fund is established in the corporation. The fund consists of appropriations made to the fund by the legislature, and rents, fees, or other money or assets transferred to the fund by the corporation. Amounts deposited in the fund may be pledged to the payment of bonds of the corporation or expended for the purposes of the corporation under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The corporation shall have custody of the fund and shall be responsible for its management. The corporation is the fiduciary of the fund under
+AS 37.10.071
+and may invest amounts in the fund in accordance with an investment policy adopted by the corporation. Notwithstanding
+AS 37.10.010
+ 37.10.050, the corporation may make disbursements from the fund in accordance with
+AS 37.25.050
+. Notwithstanding
+AS 37.05.130
+and 37.05.140, the corporation shall report disbursements from the fund annually in accordance with
+AS 26.27.100
+(b)(1). An appropriation made to the fund by the legislature shall be transferred from the state treasury to the corporation for deposit in the fund.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-060">
+            <num>26.27.060</num>
+            <heading>Insurance coverage; safety program.</heading>
+            <subsection eId="26-27-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The corporation may engage actuarial experts and shall develop probability models to indicate the degree of potential harm to the public and private enterprise from the corporation's activities.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The corporation shall, to the extent available and consistent with federal requirements, secure insurance coverage within reasonable limits for liability that may arise as a consequence of its activities and the activities of its officers and employees and to insure its buildings, structures, and other facilities against loss.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The corporation shall establish a safety program that includes</p>
+              </content>
+              <paragraph eId="26-27-060__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the development and implementation of a loss prevention program consisting of a comprehensive corporation wide safety program, including a statement by the board, of safety policy and responsibility and regulations implementing it;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-060__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provision for regular and periodic facility and equipment inspections;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-060__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>investigation of job-related accidents and other accidents occurring on the premises of the corporation or within areas of its jurisdiction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-060__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the establishment of a program to promote increased safety awareness among employees, agents, and subcontractors of the corporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-060__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the study of safety operations at other space-related facilities in the United States;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-060__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>all federal and state safety and emergency facility requirements for commercial space facilities.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-070">
+            <num>26.27.070</num>
+            <heading>Space activities location.</heading>
+            <content>
+              <p>Sec. 26.27.070.   Space activities location.
+To the extent that the University of Alaska agrees to lease the Poker Flat Research Range to the corporation, the Poker Flat Research Range constitutes the location and launch site for the corporation. The corporation may not pledge or encumber the Poker Flat Research Range, nor is it an asset of the corporation. Other sites may be developed and utilized if determined by the board to be necessary.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-080">
+            <num>26.27.080</num>
+            <heading>Licenses and permits.</heading>
+            <content>
+              <p>Sec. 26.27.080.   Licenses and permits.
+The corporation shall obtain all federal and state licenses and permits necessary to fulfill the purposes, to perform the duties, and exercise the powers of the corporation.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-090">
+            <num>26.27.090</num>
+            <heading>Purpose of the corporation.</heading>
+            <content>
+              <p>Sec. 26.27.090.   Purpose of the corporation.
+The purpose of the corporation is to allow the state to take a lead role in the exploration and development of space, to enhance human and economic development, and to provide a unified direction
+(1) for space-related economic growth thereby ensuring a stable and dynamic research and business climate by attracting space-related businesses to locate within and utilize the opportunities provided in the state;
+(2) for space-related educational and research development by encouraging and assisting the University of Alaska in developing space-related programs, research, and courses of instruction and to assist the University of Alaska as a member of the Space Grant State Consortia under 42 U.S.C. 2486 (National Space Grant College and Fellowship Program);
+(3) to promote the continued utilization of the Poker Flat Research Range as a launch site for launch vehicles and for scientific research both from ground based and rocket or balloon based instrumentation;
+(4) to recognize the importance and benefits of and to promote and encourage the continued utilization of Poker Flat Research Range for the University of Alaska's polar research efforts;
+(5) for promotion of space-related tourism activities at Poker Flat Research Range and other space-related facilities or centers that may be utilized or established by the corporation; and
+(6) for development of a state strategy for and to implement the acceleration of space-related economic growth and educational and research development in the state by the use of innovative development methods designed to stimulate space-related business and educational and research development and improve the entrepreneurial atmosphere in the state.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-100">
+            <num>26.27.100</num>
+            <heading>Powers and duties of the corporation.</heading>
+            <subsection eId="26-27-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In furtherance of its corporate purposes, in addition to its other powers the corporation may</p>
+              </content>
+              <paragraph eId="26-27-100__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>sue and be sued;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>adopt a seal;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>have perpetual succession;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>adopt, amend, and repeal bylaws and regulations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>make and execute contracts and other instruments;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>in its own name acquire property, lease, rent, convey, or acquire real and personal property, except that a project site or part of a project site may not be acquired by eminent domain;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>issue bonds and otherwise incur indebtedness, in accordance with
+AS 26.27.150
+, in order to pay the cost of a project or projects to construct or improve launch facilities or other space and aerospace projects or in order to provide money for the corporation's purposes under this chapter; the corporation may also secure payment of the bonds or other indebtedness as provided in this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>accept gifts, grants, or loans from, and enter into contracts or other transactions regarding them with, a federal agency or an agency or instrumentality of the state, a municipality, private organization, or other source;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>enter into contracts or agreements with a federal agency, agency or instrumentality of the state, municipality, or public or private individual or entity, with respect to the exercise of its powers, and do all things necessary or convenient to carry out its corporate purposes and exercise the powers granted in this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>own, acquire, construct, develop, create, reconstruct, equip, operate, maintain, extend, and improve launch sites, launch pads, landing areas, ranges, payload facilities, laboratories, space business incubators, facilities for the construction of rockets and other launch vehicles, and other space facilities and space-related systems, including educational, cultural, tourism, and parking facilities, and space-related initiatives;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>undertake a program of advertising to the public and space-related businesses promoting the space-related projects of the corporation and space-related businesses;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>construct, improve, and operate by itself or in cooperation with the University of Alaska or the Department of Transportation and Public Facilities transportation facilities appropriate to meet the transportation requirements of a facility operated by the corporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>construct, improve, and operate water, sewage, and utility service to a facility operated by the corporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>construct, provide, or improve public safety facilities for a facility operated by the corporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>charge fees, rents, or other charges for the use of a facility, structure, or service developed, operated, or provided by the corporation including fees, rents, and other charges in excess of the actual operating cost of the use of the facility, structure, or service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>pledge rents, fees, charges, or other revenue from the use of its services or facilities as security for bonds of the corporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>undertake to finance or develop a space-related project with any agency or authority of the state, its political subdivisions, agencies or authorities of other states, the federal government, foreign governments, or private entities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>apply to the federal government for a grant allowing the designation of corporation territory as a foreign trade zone under
+AS 45.77.010
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>negotiate agreements for the overflight or recovery of a space vehicle, rocket, missile, payload, booster, scientific experiments or other space-related material, debris, or parts with any person or entity, including but not limited to adjacent landowners;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>lease the Poker Flat Research Range or portions of it from the University of Alaska and to lease to the University space-related facilities that the corporation may construct or acquire;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_a__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>apply for and hold in the name of the corporation patents, copyrights, and other intellectual property.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="26-27-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The corporation shall</p>
+              </content>
+              <paragraph eId="26-27-100__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>prepare an annual report of its operations to include a balance sheet, an income statement, a statement of changes in financial position, a reconciliation of changes in equity accounts, a summary of significant accounting principles, an auditor's report, comments regarding the year's business, and prospects from the next year; the report shall be completed by the third day of each regular session of the legislature, and the corporation shall notify the governor, the presiding officers of each house of the legislature, the University of Alaska, and the Legislative Budget and Audit Committee that the report is available;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>submit its annual budget to the legislature through the governor as provided for state agencies by
+AS 37.07
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>establish a personnel management system for hiring employees and setting employee-benefit packages;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>establish procedures, rules, and rates governing per diem and travel expenses of the employees of the corporation in substantial conformity to statutes, procedures, rules, and rates governing state employees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-100__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>fulfill its purposes, perform its duties, and exercise its power in a manner that does not interfere or restrict the educational and research functions of Poker Flat Research Range and the University of Alaska.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-110">
+            <num>26.27.110</num>
+            <heading>Regulations.</heading>
+            <subsection eId="26-27-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The corporation shall adopt regulations to carry out the purposes of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except for
+AS 44.62.310
+ 44.62.319 (Open Meetings Act), the provisions of
+AS 44.62
+(Administrative Procedure Act) regarding the adoption of regulations do not apply to the corporation. The corporation shall make available to members of the public copies of the regulations adopted under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The corporation may adopt regulations by motion or by resolution or in another manner permitted by its bylaws.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-110__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in (e) of this section, at least 15 days before the adoption of a regulation, the corporation shall give public notice of the proposed action by publishing the notice in at least three newspapers of general circulation in the state and by mailing a copy of the notice to every person who has filed a request for notice of proposed regulations with the corporation. The public notice must include a statement of the time, place, and nature of the proceedings for the adoption of the regulation and must include an informative summary of the subject of the proposed action. On the date and at the time and place designated in the notice, the corporation shall give each interested person or an authorized representative of the person, or both, the opportunity to present statements, arguments, or contentions orally or in writing and shall give members of the public an opportunity to present oral statements, arguments, or contentions for a total period of at least one hour. The corporation shall consider all relevant matter presented to it before taking the proposed action on the regulation. At a hearing under this subsection, the corporation may continue or postpone the hearing to a time and place determined by the corporation and announced at the hearing before taking the action to continue or postpone the hearing. A regulation adopted by the corporation may vary from the informative summary specified in this subsection if the subject matter of the action taken on the regulation remains the same and if the original notice of the proposed action was written so as to assure that members of the public are reasonably notified of the subject matter of the proposed action in order for them to determine whether their interests could be affected by the corporation's proposed action on that subject.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-110__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The adoption of a regulation may be made as an emergency regulation if, in the order of adoption, the corporation states the facts constituting the emergency and makes a finding that the adoption of the regulation is necessary for the immediate preservation of the orderly operation of the corporation's programs. The requirements of (d) of this section do not apply to the initial adoption of an emergency regulation; however, upon adoption of an emergency regulation under this subsection, the corporation shall, within 10 days after that adoption, publish notice of the adoption in accordance with the notice procedures specified in (d) of this section. An emergency regulation adopted under this subsection may not remain in effect for more than 120 days unless, before the expiration of that period, the corporation adopts that regulation as a permanent regulation in accordance with the procedures specified in (d) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-110__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A regulation adopted under this section takes effect immediately upon its adoption by the corporation or at another time specified by the corporation in its order of adoption.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-120">
+            <num>26.27.120</num>
+            <heading>Exercise by corporation of powers within municipalities.</heading>
+            <content>
+              <p>Sec. 26.27.120.   Exercise by corporation of powers within municipalities.
+The corporation may exercise any of its powers in all portions of a space-related facility or territory lying within the boundaries of a municipality to the same extent and in the same manner as in areas of the space-related facility or territory not within the boundaries of a municipality.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-130">
+            <num>26.27.130</num>
+            <heading>Trade secrets confidential.</heading>
+            <content>
+              <p>Sec. 26.27.130.   Trade secrets confidential.
+The corporation shall maintain the confidentiality of a trade secret, or other proprietary technical information, supplied for purposes related to this chapter unless the owner of the trade secret authorizes its release or a court orders its release. Information covered by this section is not a public record for purposes of
+AS 40.25.110
+ 40.25.140. The corporation shall adopt regulations implementing this section.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-140">
+            <num>26.27.140</num>
+            <heading>Approval of projects by legislature.</heading>
+            <content>
+              <p>Sec. 26.27.140.   Approval of projects by legislature.
+Notwithstanding any other provision of this chapter, a proposed construction project of $1,000,000 or more shall be submitted by the corporation to the legislature for approval at a regular session of the legislature.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-150">
+            <num>26.27.150</num>
+            <heading>Issuance of bonds, notes, and refunding bonds.</heading>
+            <subsection eId="26-27-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section, the corporation may issue bonds in its discretion for any of its corporate purposes and may issue refunding bonds for the purpose of paying or retiring bonds previously issued by it.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The corporation may not, without prior legislative approval, issue bonds, other than refunding bonds,</p>
+              </content>
+              <paragraph eId="26-27-150__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in a total amount in excess of $1,000,000 each calendar year; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-150__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the annual debt service on all outstanding bonds issued and proposed to be issued exceeds $1,000,000 in a fiscal year.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-160">
+            <num>26.27.160</num>
+            <heading>Security for bonds.</heading>
+            <content>
+              <p>Sec. 26.27.160.   Security for bonds.
+The corporation may issue bonds including but not limited to bonds on which the principal and interest are payable (1) exclusively from the income and revenue of the space-related project financed with the proceeds of the bonds, (2) exclusively from the income and revenue of designated space-related projects whether or not they are financed in whole or in part with the proceeds of the bonds, (3) from its revenue or other assets generally, or (4) exclusively from rents, fees, charges, or other revenue collected or received by the corporation. Bonds may be additionally secured by a pledge of a grant or contribution from the federal government or from another source, or by a pledge of income or revenue of the corporation, or by a mortgage of a space-related project or other property of the corporation.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-170">
+            <num>26.27.170</num>
+            <heading>Limitation of liability on bonds.</heading>
+            <content>
+              <p>Sec. 26.27.170.   Limitation of liability on bonds.
+The members of the corporation and a person executing the bonds are not liable personally on the bonds by reason of their issuance. The bonds of the corporation are not a debt of the state or a political or municipal corporation or other subdivision of the state, including the University of Alaska, and each bond must so state on its face. Neither the state nor a political or municipal corporation or other subdivision of the state, including the University of Alaska, other than the corporation is liable on the bonds, nor are the bonds payable out of funds or properties other than those of the corporation. The corporation may not pledge the faith of the people of the state for a loan or obligation. Bonds of the corporation are not a debt, indebtedness, or the borrowing of money within the meaning of a limitation or restriction on the issuance of bonds contained in the constitution or laws of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-180">
+            <num>26.27.180</num>
+            <heading>Issuance and sale of bonds and notes.</heading>
+            <content>
+              <p>Sec. 26.27.180.   Issuance and sale of bonds and notes.
+Bonds and notes of the corporation are authorized by adoption of a resolution prescribing the date of issuance and maturity, interest rate, denomination, form, conversion privilege, rank or priority, execution, terms of redemption, medium, and place of payment. Bonds and notes may be sold in the manner, on the terms, and at the price the corporation determines. Each bond and note is negotiable. The signature of a member or an officer upon a bond or note or coupon is not invalidated by that person's ceasing to hold office before the delivery of the bond or note. The recitation of a bond or note that it has been issued in the financing of a space-related project or purpose under this chapter is conclusive as to the issuance of the bond or note and the character of the project in a challenge of the validity of the bond or note or the security for it.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-190">
+            <num>26.27.190</num>
+            <heading>Bonds exempt from taxes.</heading>
+            <content>
+              <p>Sec. 26.27.190.   Bonds exempt from taxes.
+Bonds and other obligations of the corporation are issued for an essential public and governmental purpose and are public instrumentalities and, together with interest on them and income from them, are exempt from taxes.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-200">
+            <num>26.27.200</num>
+            <heading>Independent financial advisor.</heading>
+            <content>
+              <p>Sec. 26.27.200.   Independent financial advisor.
+In negotiating the private sale of bonds or bond anticipation notes to an underwriter, the corporation shall retain a financial advisor who is independent from the underwriter. The financial advisor may not bid on the bonds or notes if offered at public sale or negotiate for their purchase if sold at private sale.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-210">
+            <num>26.27.210</num>
+            <heading>Additional powers to secure bonds or obligations under leases.</heading>
+            <content>
+              <p>Sec. 26.27.210.   Additional powers to secure bonds or obligations under leases.
+In connection with the issuance of bonds or the incurring of obligations under leases and in order to secure the payment of bonds or lease obligations, the corporation, in addition to its other powers, may
+(1) pledge all or a part of its gross or net rents, fees, or revenues to which its right exists or may exist;
+(2) mortgage or encumber all or a part of its real or personal property, owned or later acquired;
+(3) covenant against pledging all or a part of its rents, fees, and revenue, or against mortgaging all or a part of its real or personal property, to which its right or title exists or may come into existence or against permitting or suffering any lien on the revenues or property;
+(4) covenant with respect to limitations on its right to sell, lease, or otherwise dispose of a space-related project or a part of a space-related project;
+(5) covenant as to what other, or additional debts or obligations may be incurred by it;
+(6) covenant as to the bonds to be issued and as to the issuance of the bonds in escrow or otherwise, and as to the use and disposition of the proceeds of bonds;
+(7) provide for the replacement of lost, destroyed, or mutilated bonds;
+(8) covenant against extending the time for the payment of its bonds or interest on the bonds;
+(9) redeem the bonds, and covenant for their redemption and to provide the terms and conditions of redemption;
+(10) covenant as to the rents and fees to be charged in the operation of a space-related project, the amount to be raised each year or other period of time by rents, fees, and other revenue, and as to the use and disposition of this revenue;
+(11) create or authorize the creation of special funds for money held for construction or operating costs, debt service, reserves, or other purposes, and covenant as to the use and disposition of this money;
+(12) prescribe the procedure by which the terms of a contract with bondholders may be amended or abrogated, the amount of bonds the holders of which must consent thereto and the manner in which the consent may be given;
+(13) covenant as to the rights, liabilities, powers, and duties arising upon the breach by it of a covenant, condition, or obligation, and covenant and prescribe as to events of default and terms and conditions upon which any or all of its bonds or obligations shall become or may be declared due before maturity, and covenant as to the terms and conditions upon which this declaration and its consequences may be waived;
+(14) vest in a trustee or trustees or the holders of bonds or a specified proportion of them, the right to enforce the payment of the bonds or covenants securing or relating to the bonds;
+(15) vest in one or more trustees the right, in the event of a default by the corporation, to take possession of a space-related project or a part of the project, and so long as the corporation continues in default to retain possession and to use, operate, and manage the project, and to collect the rent and revenue from the project, and to dispose of the money according to the agreement between the corporation and the trustees;
+(16) provide for the powers and duties of the trustees, and limit the liability of the trustees; and
+(17) provide the terms and conditions upon which the trustee or trustees or the holders of bonds, or portions of bonds, may enforce a covenant or right securing or relating to the bonds.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-220">
+            <num>26.27.220</num>
+            <heading>Right of obligee of corporation to bring injunction.</heading>
+            <content>
+              <p>Sec. 26.27.220.   Right of obligee of corporation to bring injunction.
+An obligee of the corporation may, in addition to all other rights that may be conferred and subject only to contractual restriction binding upon the obligee, seek an injunction or an action in nature of an action for mandamus against the members, the corporation, its officers, agents, or employees.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-230">
+            <num>26.27.230</num>
+            <heading>Power of corporation to confer upon obligee right to bring action or proceeding.</heading>
+            <content>
+              <p>Sec. 26.27.230.   Power of corporation to confer upon obligee right to bring action or proceeding.
+The corporation may by resolution, trust indenture, mortgage, lease, or other contract confer upon an obligee holding or representing a specified amount in bonds, or holding a lease, the right upon a default as defined in the resolution or instrument by suit, action, or proceeding
+(1) to have possession of a space-related project or part of one surrendered to the obligee, with possession retained by the obligee as long as the corporation continues in default;
+(2) to obtain the appointment of a receiver of a space-related project or part of one and its rents and profits, who may enter, take possession, and for the duration of the default operate and maintain it, collect and receive all fees, rents, revenues, or other charges thereafter arising, and keep the money in a separate account or accounts to be applied in accordance with the obligations of the corporation as the court directs;
+(3) to require the corporation and its members to account as if they were the trustees of an express trust.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-240">
+            <num>26.27.240</num>
+            <heading>Exemption of real property of corporation from execution or other process.</heading>
+            <content>
+              <p>Sec. 26.27.240.   Exemption of real property of corporation from execution or other process.
+All real property of the corporation is exempt from levy and sale by execution, and an execution or other judicial process may not issue against it. A judgment against the corporation may not be a charge or lien upon its real property. However, this section does not limit the right of an obligee to foreclose or otherwise enforce a mortgage of the corporation or to pursue any remedy for the enforcement of a pledge or lien given by the corporation on its rents, fees, or revenues.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-250">
+            <num>26.27.250</num>
+            <heading>Power of corporation to obtain federal aid and cooperation.</heading>
+            <content>
+              <p>Sec. 26.27.250.   Power of corporation to obtain federal aid and cooperation.
+The corporation may borrow, accept contributions, grants, or other financial assistance from the federal government in aid of a space-related project and for this purpose may comply with conditions and enter into the mortgages, trust indentures, leases, or agreements that are necessary, convenient, or desirable in order to obtain financial aid or cooperation from the federal government in the undertaking, construction, maintenance, or operation of a space-related project.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-260">
+            <num>26.27.260</num>
+            <heading>Exemption from taxes and assessments.</heading>
+            <content>
+              <p>Sec. 26.27.260.   Exemption from taxes and assessments.
+The property of the corporation is public property used for essential public and governmental purposes and this property and the corporation are exempt from all taxes and special assessments of a municipality, the state, or a political subdivision of the state. However, instead of taxes, the corporation may make payments to the municipality or political subdivision for improvements, services, and facilities furnished by it for the benefit of a space-related project.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-270">
+            <num>26.27.270</num>
+            <heading>Disposal of surplus property.</heading>
+            <subsection eId="26-27-270__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The corporation may convey real or personal property that it determines is in excess of its needs. Except as provided in (b) of this section, the sale shall be by public auction or by sealed bids. Public notice shall be given by publishing notice of the sale at least once a week for two consecutive weeks in a newspaper of general circulation within the area in which the property to be sold is located and by posting notice of sale in at least two public places in the area. In no event may the auction be held less than 30 days after the last day of publication. If an acceptable bid is not received, the corporation may sell the property at negotiated sale within six months after the date of the auction. A negotiated sale may not be made on an appraisal made more than nine months before the date of sale. The price at a negotiated sale may not be less than the appraised value.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-270__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Real or personal property of the corporation may be conveyed to a state or federal agency or political subdivision or the University of Alaska for less than the appraised value without competitive bidding, upon a determination by the board that the terms are fair and proper and in the best interests of the state. The board shall consider both the nature of the agency's or political subdivision's public services or functions and the terms under which the property was acquired by the corporation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-280">
+            <num>26.27.280</num>
+            <heading>Public loans or donations to or cooperation with corporation.</heading>
+            <subsection eId="26-27-280__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A public body or agency of the state may</p>
+              </content>
+              <paragraph eId="26-27-280__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>lend or donate money or property to the corporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-280__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>cooperate with it in the planning, construction, or operation of a project;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-280__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>transfer to it an interest in property, grant an easement, undertake otherwise authorized construction of facilities adjacent to a project;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-280__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>furnish or improve otherwise authorized roads, streets, alleys, and sidewalks;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-280__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>purchase bonds of the corporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-280__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>incur the entire expense of improvements made under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-280__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>agree with the corporation that a certain sum or that no sum shall be paid by the corporation to it instead of taxes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-280__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>enter into agreements respecting exercise of the powers granted in this chapter that shall be approved and executed by the public body or municipality in or adjacent to the project before the project may be constructed; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-280__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>in general do all things necessary or convenient to cooperate in the planning, construction, or operation of a project.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="26-27-280__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as required under
+AS 44.62.310
+ 44.62.319 (Open Meetings Act), a sale, conveyance, lease, or agreement under this section may be made without appraisal, public notice or advertisement, or bidding. A public body may exercise the powers granted in this section by resolution or ordinance by a majority of the members of the governing body present at the meeting at which it is introduced, and the resolution or ordinance takes effect immediately without publishing or posting.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-290">
+            <num>26.27.290</num>
+            <heading>Reserve fund.</heading>
+            <subsection eId="26-27-290__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The corporation shall establish and maintain a special fund called the Alaska Aerospace Corporation reserve fund in which there shall be deposited or transferred</p>
+              </content>
+              <paragraph eId="26-27-290__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>all money appropriated by the legislature for the purpose of the fund in accordance with the provisions of (g) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-290__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>all proceeds of bonds required to be deposited in the fund by terms of a contract between the corporation and its bondholders or a resolution of the corporation with respect to the proceeds of bonds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-290__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>all other money appropriated by the legislature to the reserve fund; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="26-27-290__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>any other money or funds of the corporation that it decides to deposit in the fund.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="26-27-290__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Subject to the provisions of (h) of this section, money in the reserve fund shall be held and applied solely to the payment of the interest on and principal of bonds of the corporation as the interest and principal become due and payable and for the retirement of bonds; and the money may not be withdrawn if a withdrawal would reduce the amount in the reserve fund to an amount less than the required debt service reserve except for payment of interest then due and payable on bonds and the principal of bonds then maturing and payable and for the retirement of bonds in accordance with the terms of a contract between the corporation and its bondholders and for which payments of other money of the corporation is not then available. In this subsection, required debt service reserve means, as of the date of computation, the amount required to be on deposit in the reserve fund as provided by resolution of the corporation.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-290__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Money in the reserve fund in excess of the required debt service reserve as defined in (b) of this section, whether by reason of investment or otherwise, may be withdrawn at any time by the corporation and transferred to another fund or account of the corporation subject to the provision of (h) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-290__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Money in the reserve fund may be invested in the same manner and on the same conditions as permitted for investment of funds belonging to the state or held in the treasury under
+AS 37.10.070
+; however, the corporation may agree with the bondholders to further limit these investments.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-290__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For purposes of valuation, investments in the reserve fund shall be valued at par or if purchased at less than par, at cost unless otherwise provided by resolution of the corporation. Valuation on a particular date shall include the amount of interest then earned or accrued to that date on the money or investments in the reserve fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-290__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding any other provision of this chapter, bonds may not be issued by the corporation unless there is in the reserve fund the required debt service reserve for all bonds then issued and outstanding and for the bonds to be issued; however, the corporation may satisfy this requirement by depositing as much of the proceeds of the bonds to be issued, upon their issuance, as is needed to meet the required debt service reserve. The corporation may at any time issue its bonds or notes for the purpose of increasing the amount in the reserve fund to the required debt service reserve, or to meet whatever higher or additional reserve that may be fixed by the corporation with respect to the fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-290__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In order to assure the maintenance of the required debt service reserve in the reserve fund, the legislature may appropriate annually to the corporation for deposit in the fund the sum, certified by the chair of the corporation to the governor and to the legislature, that is necessary to restore the fund to an amount equal to the required debt service reserve. The chair annually, before January 30, shall make and deliver to the governor and to the legislature a certificate stating the sum required to restore the fund to that amount, and the certified sum may be appropriated and paid to the corporation during the then current state fiscal year. Nothing in this subsection creates a debt or liability of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-290__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>All amounts received on account of money appropriated to the reserve fund referred to in (a)(3) of this section shall be held and applied in accordance with (b) of this section; however, at the end of each fiscal year, if the amount in the reserve fund is in excess of the required debt service reserve, any amount representing earnings or income received on account of money appropriated to the reserve fund that exceeds the operating expenses of the corporation for that fiscal year shall be transferred to the general fund of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="26-27-290__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>All references to the reserve fund in this section include special accounts within the reserve fund that may be created by the corporation to secure the payment of particular bonds. The commissioner of revenue may lend surplus money in the general fund to the corporation for deposit to any account in the reserve fund in an amount equal to the required debt service reserve. The loans shall be made on the terms and conditions that may be agreed upon by the commissioner of revenue and the corporation, including, without limitation, terms and conditions providing that the loans need not be repaid until the obligations of the corporation secured and to be secured by the account in the reserve fund are no longer outstanding.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_26-27-300">
+            <num>26.27.300</num>
+            <heading>Cooperation with other authorities.</heading>
+            <content>
+              <p>Sec. 26.27.300.   Cooperation with other authorities.
+In issuing a bond, the corporation may request the assistance of and work with the Alaska Industrial Development and Export Authority and the Alaska Municipal Bond Bank Authority. The Alaska Industrial Development and Export Authority may invest in and issue bonds for space-related projects of the Alaska Aerospace Corporation. The Alaska Industrial Development and Export Authority and the Alaska Municipal Bond Bank Authority may purchase and market bonds of the Alaska Aerospace Corporation.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-310">
+            <num>26.27.310</num>
+            <heading>Investment of revenue.</heading>
+            <content>
+              <p>Sec. 26.27.310.   Investment of revenue.
+The revenue and receipts of the corporation, to the extent they are not needed to pay bonds or other obligations of the corporation, shall be invested by the commissioner of revenue in cooperation with the corporation.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-320">
+            <num>26.27.320</num>
+            <heading>Legality of corporation bonds as investments.</heading>
+            <content>
+              <p>Sec. 26.27.320.   Legality of corporation bonds as investments.
+Bonds of the corporation are legal and proper investments and security for public and private banking, insurance, and trust funds.</p>
+            </content>
+          </section>
+          <section eId="sec_26-27-900">
+            <num>26.27.900</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 26.27.900.   Definitions.
+In this chapter,
+(1) board means the board of directors of the Alaska Aerospace Corporation;
+(2) corporation means the Alaska Aerospace Corporation;
+(3) landing site means a site or facility designed, intended, or used for the landing or recovery of space vehicles, aircraft, or balloons;
+(4) launch site means a site or facility designed, intended, or used for the launching of space vehicles, sounding rockets, aircraft, or balloons;
+(5) payload means property or cargo, including people or animals, to be transported aboard a vehicle launched by the corporation;
+(6) recovery means the retrieval and recovery of space vehicles, payloads, and parts that have been launched from the corporation's facilities;
+(7) space vehicle means a rocket, missile, booster, or other vehicle designed, intended, or used to reach high altitude.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-53"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-53"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.53"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-53/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-53/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-53/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-53/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_53">
+          <num>53</num>
+          <heading>Cigarette Sales</heading>
+          <section eId="sec_45-53-010">
+            <num>45.53.010</num>
+            <heading>Tobacco product Master Settlement Agreement recognized.</heading>
+            <content>
+              <p>Sec. 45.53.010.   Tobacco product Master Settlement Agreement recognized.
+The Master Settlement Agreement entered into by certain United States tobacco product manufacturers and the state, and related documents, for settlement of claims raised in State of Alaska v. Philip Morris, Incorporated, and approved by the Alaska Superior Court on February 9, 1999, are recognized.</p>
+            </content>
+          </section>
+          <section eId="sec_45-53-020">
+            <num>45.53.020</num>
+            <heading>Requirements.</heading>
+            <subsection eId="45-53-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any tobacco product manufacturer selling cigarettes to consumers within the state, whether directly or through a distributor, retailer, or similar intermediary or intermediaries, after June 4, 1999, shall do one of the following:</p>
+              </content>
+              <paragraph eId="45-53-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>become a participating manufacturer, as that term is defined in sec. II(jj) of the Master Settlement Agreement, and generally perform its financial obligations under the Master Settlement Agreement; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>place into a qualified escrow fund by April 15 of the year following each listed calendar year the following amounts, as such amounts are adjusted for inflation:
+(A) for 1999, $.0094241 per unit sold on or after June 4, 1999, but before January 1, 2000;
+(B) for 2000, $.0104712 per unit sold during that year;
+(C) for each of 2001 and 2002, $.0136125 per unit sold during the year in question;
+(D) for each of 2003 through 2006, $.0167539 per unit sold during the year in question;
+(E) for each of 2007 and each year thereafter, $.0188482 per unit sold during the year in question.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-53-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A tobacco product manufacturer that places money into escrow under (a)(2) of this section is entitled to receive the interest or other appreciation on such money as earned. Such money itself shall be released from escrow only under the following circumstances:</p>
+              </content>
+              <paragraph eId="45-53-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to pay a judgment or settlement on a released claim brought against such tobacco product manufacturer by this state or a releasing party located or residing in this state; the funds shall be released from escrow under this paragraph in the order in which they were placed into escrow and only to the extent and at the time necessary to make payments required under the judgment or settlement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to the extent that the tobacco product manufacturer establishes that the amount that it was required to place into escrow on account of units sold in the state in a particular year was greater than the Master Settlement Agreement payments, as determined under sec. IX(i) of the Master Settlement Agreement, including, after final determination of all adjustments, payments that the manufacturer would have been required to make on account of those units had it been a participating manufacturer, the excess shall be released from escrow and revert back to that tobacco product manufacturer; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-020__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to the extent not released from escrow under (1) or (2) of this subsection, funds placed into escrow shall be released from escrow and revert back to the tobacco product manufacturer 25 years after the date on which they were placed into escrow.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-53-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To be a qualified escrow fund under this section, the</p>
+              </content>
+              <paragraph eId="45-53-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>fund must be an escrow fund governed by an escrow arrangement with a federally or state chartered financial institution having no affiliation with a tobacco product manufacturer and having assets of at least $1,000,000,000; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>escrow arrangements described in (1) of this subsection must
+(A) require that the financial institution hold the principal of the escrow fund for the benefit of releasing parties; and
+(B) prohibit the tobacco product manufacturer that places money into the escrow fund from using, accessing, or directing the use of the principal of the fund except as consistent with this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-53-030">
+            <num>45.53.030</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 45.53.030.   Regulations.
+The commissioner of revenue shall adopt regulations under
+AS 44.62
+(Administrative Procedure Act) necessary to ascertain the amount of excise tax paid on the cigarettes of a tobacco product manufacturer for each year for which the manufacturer is required to place money into a qualified escrow fund under
+AS 45.53.020
+.</p>
+            </content>
+          </section>
+          <section eId="sec_45-53-040">
+            <num>45.53.040</num>
+            <heading>Certification of compliance; civil actions.</heading>
+            <subsection eId="45-53-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A tobacco product manufacturer that elects to comply with
+AS 45.53.020
+by placing money into escrow under that section shall annually, at the time of compliance, certify to the commissioner of revenue that it is in compliance with
+AS 45.53.020
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-53-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the commissioner of revenue does not timely receive a certification of compliance from a tobacco product manufacturer as required by (a) of this section, the commissioner shall notify the attorney general. The attorney general shall require the manufacturer, within 15 days, to place into a qualified escrow fund the money necessary to bring the manufacturer into compliance with
+AS 45.53.020
+. The attorney general may bring a civil action on behalf of the state against a tobacco product manufacturer that fails to place into a qualified escrow fund the money necessary to bring the manufacturer into compliance with
+AS 45.53.020
+. The court, upon a finding of a tobacco product manufacturer's</p>
+              </content>
+              <paragraph eId="45-53-040__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>violation of
+AS 45.53.020
+, shall require the manufacturer, within 15 days, to place into a qualified escrow fund the money necessary to bring the manufacturer into compliance with
+AS 45.53.020
+and may impose a civil penalty, in an amount not to exceed five percent of the amount improperly withheld from escrow, for each day of the violation; the total amount of the penalty under this paragraph may not exceed 100 percent of the original amount improperly withheld from escrow;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-040__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>knowing violation of
+AS 45.53.020
+, shall require the manufacturer, within 15 days, to place into a qualified escrow fund the money necessary to bring the manufacturer into compliance with
+AS 45.53.020
+and may impose a civil penalty, in an amount not to exceed 15 percent of the amount improperly withheld from escrow, for each day of the violation; the total amount of the penalty under this paragraph may not exceed 300 percent of the original amount improperly withheld from escrow; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-040__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>second knowing violation of
+AS 45.53.020
+, shall require the manufacturer, within 15 days, to place into a qualified escrow fund the money necessary to bring the manufacturer into compliance with
+AS 45.53.020
+, and may impose a monetary penalty as described in (2) of this subsection, and shall prohibit the manufacturer from selling cigarettes to consumers within the state, whether directly or through a distributor, retailer, or similar intermediary, for a period not to exceed two years.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-53-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to the civil penalties described in (b) of this section, the court may award the state full reasonable attorney fees and costs if the state prevails in a civil action brought under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-53-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Each failure to make an annual placement of money into a qualified escrow fund as required by
+AS 45.53.020
+is a separate violation for the purposes of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-53-100">
+            <num>45.53.100</num>
+            <heading>Definitions.</heading>
+            <subsection eId="45-53-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>any roll of tobacco wrapped in paper or in any substance not containing tobacco;
+(ii) tobacco, in any form, that is functional in the product, which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling is likely to be offered to, or purchased by, consumers as a cigarette; or
+(iii) any roll of tobacco wrapped in any substance containing tobacco which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette described in (i) of this subparagraph;
+(B) includes roll-your-own; for purposes of this subparagraph,</p>
+              </content>
+            </subsection>
+            <subsection eId="45-53-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>0.09 ounces of roll-your-own tobacco constitutes one individual cigarette;
+(ii) roll-your-own includes any tobacco that, because of its appearance, type, packaging, or labeling is suitable for use and likely to be offered to, or purchased by, consumers as tobacco for making cigarettes;</p>
+              </content>
+              <paragraph eId="45-53-100__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Master Settlement Agreement means the settlement agreement and related documents described in
+AS 45.53.010
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-100__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>original participating manufacturer means original participating manufacturer as that term is defined in the Master Settlement Agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-100__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>qualified escrow fund means a fund described in
+AS 45.53.020</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-100__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>released claims means released claims as that term is defined in the Master Settlement Agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-100__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>releasing parties means releasing parties as that term is defined in the Master Settlement Agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-53-100__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>tobacco product manufacturer
+(A) means an entity that, on or after June 4, 1999, directly, and not exclusively through an affiliate,</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-53-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>manufactures cigarettes anywhere that such manufacturer intends to be sold in the United States, including cigarettes intended to be sold in the United States through an importer; provided, however, that an entity that manufactures cigarettes that it intends to be sold in the United States shall not be considered to be a tobacco product manufacturer under this clause (i) if, first, such cigarettes are sold in the United States exclusively through an importer that is an original participating manufacturer, as that term is defined in the Master Settlement Agreement, that will be responsible for the payments under the Master Settlement Agreement with respect to such cigarettes as a result of the provisions of sec. II(mm) of the Master Settlement Agreement and that pays the taxes specified in sec. II(z) of the Master Settlement Agreement, and, second, the manufacturer of such cigarettes does not market or advertise such cigarettes in the United States;
+(ii) is the first purchaser anywhere for resale in the United States of cigarettes manufactured anywhere that the manufacturer does not intend to be sold in the United States; or
+(iii) becomes a successor of an entity described in (i) or (ii) of this subparagraph;
+(B) does not include an affiliate of an entity described in (A) of this paragraph unless the affiliate itself meets the standards set out in any of (A)(i)  (iii) of this paragraph;</p>
+              </content>
+              <paragraph eId="45-53-100__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>units sold means the number of individual cigarettes sold in the state by the applicable tobacco product manufacturer, whether directly or through a distributor, retailer, or similar intermediary or intermediaries, during the year in question, as measured by excise taxes collected by the state on packs or roll-your-own tobacco containers.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

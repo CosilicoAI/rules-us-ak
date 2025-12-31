@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-48"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-48"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.48"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-48/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-48/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-48/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-48/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_48">
+          <num>48</num>
+          <heading>Group Life Insurance</heading>
+          <section eId="sec_21-48-010">
+            <num>21.48.010</num>
+            <heading>Group requirements for group contracts.</heading>
+            <subsection eId="21-48-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A group life insurance policy may not be issued for delivery in this state unless the group is a bona fide association or the group was formed for purposes other than obtaining insurance or is a trust established, adopted, or participated in by one or more employers or labor unions or by one or more employers and labor unions, and</p>
+              </content>
+              <paragraph eId="21-48-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the policy covers at least two individuals at the date of issue;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-48-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an individual eligible for coverage is subject to uniformly applied standards of insurability as may be imposed by the insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-48-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>amounts of group life insurance are determined based on some plan that will preclude individual selection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-48-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the group life insurance policy is in compliance with the other applicable provisions of this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-48-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the group meets other requirements established by the director in regulation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-48-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not apply to life insurance policies</p>
+              </content>
+              <paragraph eId="21-48-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>insuring only individuals related by blood, marriage, or legal adoption;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-48-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>insuring only individuals having a common interest through ownership of a business enterprise, or a substantial legal interest or equity in a business enterprise, and who are actively engaged in its management; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-48-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>insuring only individuals otherwise having an insurable interest in each other's lives.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-48-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Insurance under a group life insurance policy may be extended to insure dependents.  Notwithstanding
+AS 21.48.170
+, only one certificate need be issued for delivery to an insured person if a statement concerning a dependent's coverage is included in the certificate.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-48-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, dependents means the spouse and dependent children of an employee or member of the group.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-48-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A group life insurance policy may be issued to a group that does not meet one or more of the requirements under (a) of this section only if the director finds that issuance</p>
+              </content>
+              <paragraph eId="21-48-010__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is in the best interests of the public;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-48-010__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>results in economies of acquisition or administration; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-48-010__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>meets other requirements established by the director in regulation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-48-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An insurer shall submit to the director information satisfactory to the director that the group meets the requirements of (a) or (e) of this section, and the director must affirmatively approve of the group before an insurer may issue a group life policy to a group under (a) or (e) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-48-060">
+            <num>21.48.060</num>
+            <heading>Debtor groups.</heading>
+            <content>
+              <p>Sec. 21.48.060.   Debtor groups.
+The lives of a group of individuals may be insured under a policy issued to a creditor, who shall be considered the policyholder, to insure the debtors of the creditor, subject to the following requirements:
+(1) the debtors eligible for insurance under the policy shall be all of the debtors of the creditor whose indebtedness is repayable either (A) in installments, or (B) in one sum at the end of a period not in excess of 18 months from the initial date of the debt, or all of any class or classes of them determined by conditions pertaining to the indebtedness or the purchase giving rise to the indebtedness; the policy may provide that the term debtors includes the debtors of one or more subsidiary corporations, and the debtors of one or more affiliated corporations, proprietors, or partnerships if the business of the policyholder and of the affiliated corporations, proprietors, or partnerships is under common control;
+(2) the premium for the policy shall be paid by the policyholder, either from the creditor's funds or from charges collected from the insured debtors or from both; a policy on which part or all of the premium is to be derived from the collection from the insured debtors of identifiable charges not required of uninsured debtors may not include, in the class or classes of debtors eligible for insurance, debtors under obligations outstanding at its date of issue without evidence of individual insurability unless at least 75 percent of the then eligible debtors elect to pay the required charges; a policy on which no part of the premium is to be derived from the collection of the identifiable charges must insure all eligible debtors, or all except those whose evidence of individual insurability is not satisfactory to the insurer;
+(3) the policy may be issued only if the group of eligible debtors is then receiving new entrants at the rate of at least 100 persons yearly, or may reasonably be expected to receive at least 100 new entrants during the first policy year, and only if the policy reserves to the insurer the right to require evidence of individual insurability if less than 75 percent of the new entrants become insured; the policy may exclude from the classes eligible for insurance classes of debtors determined by age;
+(4) the amount of insurance on the life of a debtor may at no time exceed the amount owed by the debtor to the creditor; if the insurance is in connection with an educational credit transaction commitment, the amount owed by the debtor to the creditor may be considered to include the portion of the educational loan commitment that has not been advanced by the creditor; if the indebtedness is repayable in one sum to the creditor, the insurance on the life of a debtor may in no instance be in effect for a period in excess of 18 months, except that the insurance may be continued for an additional period not exceeding six months in the case of default, extension, or recasting of the loan;
+(5) the insurance shall be payable to the policyholder; each payment shall reduce or extinguish the unpaid indebtedness of the debtor to the extent of the payment.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-070">
+            <num>21.48.070</num>
+            <heading>Credit union group.</heading>
+            <content>
+              <p>Sec. 21.48.070.   Credit union group.
+The lives of a group of individuals may be insured under a policy issued to a credit union organized under the laws of the state or the Federal Credit Union Act, which shall be considered the policyholder, to insure eligible members for amounts of insurance not in excess of the share balance of each member, based upon some plan that will preclude individual selection, for the benefit of someone other than the credit union or its officials and subject to the following requirements:
+(1) the members eligible for insurance under the policy shall be all the members of the credit union who meet standard physical requirement conditions of the insurer, or all of any class or classes of them determined by conditions pertaining to their age, or to membership in the credit union, or both;
+(2) the premiums for the policy shall be paid by the policyholder, either wholly from the credit union's funds, or partly from these funds and partly from funds contributed by the insured members specifically for their insurance; a policy may not be issued on which the entire premium is to be derived from funds contributed by the insured members specifically for their insurance; a policy on which part of the premium is to be derived from funds contributed by the insured members specifically for their insurance may be placed only if at least 75 percent of the then eligible members, excluding those whose evidence of individual insurability is not satisfactory to the insured, elect to make the required contribution; a policy on which no part of the premium is to be derived from funds contributed by the insured members specifically for their insurance must insure all eligible members or all except those whose evidence of individual insurability is not satisfactory to the insurer;
+(3) the policy must cover at least 25 members at the date of issue.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-100">
+            <num>21.48.100</num>
+            <heading>Provisions required in group contracts.</heading>
+            <content>
+              <p>Sec. 21.48.100.   Provisions required in group contracts.
+A policy of group life insurance may not be delivered in this state unless it contains in substance the provisions set out in
+AS 21.48.110
+ 21.48.200 or provisions that in the opinion of the director are more favorable to the persons insured, or at least as favorable to the persons insured and more favorable to the policyholder; except that
+(1)
+AS 21.48.160
+ 21.48.200 do not apply to policies issued to a creditor to insure debtors of the creditor;
+(2) the standard provisions required for individual life insurance policies do not apply to group life insurance policies;
+(3) if the group life insurance policy is on a plan of insurance other than the term plan, it must contain a nonforfeiture provision or provisions that in the opinion of the director is or are equitable to the insured persons and to the policyholder, but nothing in this paragraph may be construed to require that group life insurance policies contain the same nonforfeiture provisions as are required for individual life insurance policies.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-110">
+            <num>21.48.110</num>
+            <heading>Grace period.</heading>
+            <content>
+              <p>Sec. 21.48.110.   Grace period.
+The group life insurance policy must contain a provision that the policyholder is entitled to a grace period of 31 days for the payment of a premium due except the first, during which grace period the death benefit coverage shall continue in force, unless the policyholder gave the insurer written notice of discontinuance in advance of the date of discontinuance and in accordance with the terms of the policy.  The policy may provide that the policyholder shall be liable to the insurer for payment of a pro rata premium for the time the policy was in force during the grace period.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-120">
+            <num>21.48.120</num>
+            <heading>Incontestability.</heading>
+            <content>
+              <p>Sec. 21.48.120.   Incontestability.
+The group life insurance policy must contain a provision that the validity of the policy may not be contested, except for nonpayment of premium, after it has been in force for two years from its date of issue; and that a statement made by a person insured under the policy relating to that person's insurability may not be used in contesting the validity of the insurance with respect to which the statement was made after the insurance has been in force for a period of two years during the person's lifetime or unless it is contained in a written instrument signed by the person.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-130">
+            <num>21.48.130</num>
+            <heading>Application.</heading>
+            <content>
+              <p>Sec. 21.48.130.   Application.
+The group life insurance policy must contain a provision that a copy of the application, if any, of the policyholder shall be attached to the policy when issued, that all statements made by the policyholder or by the persons insured shall be considered representations and not warranties, and that a statement made by a person insured may not be used in a contest unless a copy of the instrument containing the statement is or has been furnished to the person or the beneficiary of the person.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-140">
+            <num>21.48.140</num>
+            <heading>Insurability.</heading>
+            <content>
+              <p>Sec. 21.48.140.   Insurability.
+The group life insurance policy must contain a provision setting out the conditions, if any, under which the insurer reserves the right to require a person eligible for insurance to furnish evidence of individual insurability satisfactory to the insurer as a condition to part or all of the coverage.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-150">
+            <num>21.48.150</num>
+            <heading>Misstatement of age.</heading>
+            <content>
+              <p>Sec. 21.48.150.   Misstatement of age.
+The group life insurance policy must contain a provision specifying an equitable adjustment of premiums or of benefits or of both to be made if the age of a person insured has been misstated, the provision to contain a clear statement of the method of adjustment to be used.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-160">
+            <num>21.48.160</num>
+            <heading>Payment of benefits.</heading>
+            <content>
+              <p>Sec. 21.48.160.   Payment of benefits.
+The group life insurance policy must contain a provision that any sum becoming due by reason of the death of the person insured shall be payable to the beneficiary designated by the person insured, subject to the provisions of the policy if there is no designated beneficiary as to all or a part of the sum living at the death of the person insured, and subject to any right reserved by the insurer in the policy and set out in the certificate to pay at its option a part of the sum not exceeding $4,000 to any person appearing to the insurer to be equitably entitled to it by reason of having incurred funeral or other expenses incident to the last illness or death of the person insured.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-170">
+            <num>21.48.170</num>
+            <heading>Certificate.</heading>
+            <content>
+              <p>Sec. 21.48.170.   Certificate.
+The group life insurance policy must contain a provision that the insurer will issue to the policyholder for delivery to each person insured an individual certificate listing the insurance protection to which the insured is entitled, to whom the insurance benefits are payable, and the rights and conditions set out in
+AS 21.48.180
+ 21.48.200.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-180">
+            <num>21.48.180</num>
+            <heading>Conversion on termination of eligibility.</heading>
+            <content>
+              <p>Sec. 21.48.180.   Conversion on termination of eligibility.
+The group life insurance policy must contain a provision that if the insurance, or any portion of it, on a person covered under the policy ceases because of termination of employment or of membership in the class or classes eligible for coverage under the policy, the person shall be entitled to have issued to the person by the insurer, without evidence of insurability, an individual policy of life insurance without health insurance or other supplementary benefits, provided application for the individual policy is made, and the first premium paid to the insurer, within 31 days after the termination, and provided further that
+(1) the individual policy shall, at the option of the person, be on any one of the forms, except term insurance, then customarily issued by the insurer at the age and for the amount applied for;
+(2) the amount of the individual policy may not be in excess of the amount of life insurance that ceases because of the termination, less the amount of any life insurance for which the person is or becomes eligible under the same or any other group policy within 31 days after the termination, provided that any amount of insurance that matured on or before the date of the termination as an endowment payable to the person insured, whether in one sum or in installments or in the form of annuity, may not, for the purpose of this provision, be included in the amount that is considered to cease because of the termination;
+(3) the premium on the individual policy shall be at the insurer's then customary rate applicable to the form and amount of the individual policy, to the class of risk to which the person then belongs, and to the person's age attained on the effective date of the individual policy.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-190">
+            <num>21.48.190</num>
+            <heading>Conversion on termination of policy.</heading>
+            <content>
+              <p>Sec. 21.48.190.   Conversion on termination of policy.
+The group life insurance policy must contain a provision that if the group policy terminates or is amended to terminate the insurance of any class of insured persons, every person insured under the policy at the date of the termination whose insurance terminates and who has been so insured for at least five years before the termination date shall be entitled to have issued to the person by the insurer an individual policy of life insurance, subject to the same conditions and limitations as are provided in
+AS 21.48.180
+, except that the group policy may provide that the amount of the individual policy may not exceed the smaller of
+(1) the amount of the person's life insurance protection ceasing because of the termination or amendment of the group policy, less the amount of any life insurance for which the person is or becomes eligible under any group policy issued or reinstated by the same or another insurer within 31 days after the termination; and
+(2) $2,000.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-200">
+            <num>21.48.200</num>
+            <heading>Death pending conversion.</heading>
+            <content>
+              <p>Sec. 21.48.200.   Death pending conversion.
+The group life insurance policy must contain a provision that if a person insured under the policy dies during the period within which the person would have been entitled to have an individual policy issued in accordance with
+AS 21.48.180
+or 21.48.190 and before the individual policy becomes effective, the amount of life insurance that the person would have been entitled to have issued under the individual policy shall be payable as a claim under the group policy, whether or not application for the individual policy or the payment of the first premium has been made.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-210">
+            <num>21.48.210</num>
+            <heading>Notice as to conversion right.</heading>
+            <content>
+              <p>Sec. 21.48.210.   Notice as to conversion right.
+If an individual insured under a group life insurance policy hereafter delivered in this state becomes entitled under the terms of the policy to have an individual policy of life insurance issued without evidence of insurability, subject to making application and paying the first premium within the period specified in the policy, and if the individual is not given notice of the existence of the right at least 15 days before the expiration date of the period, the individual shall have an additional period within which to exercise the right, but nothing in this section may be construed to continue an insurance beyond the period provided in the policy.  This additional period shall expire 15 days after the individual is given notice, but in no event may the additional period extend beyond 60 days after the expiration date of the period provided in the policy. Written notice presented to the individual or mailed by the policyholder to the last known address of the individual or mailed by the insurer to the last known address of the individual as furnished by the policyholder constitutes notice for the purpose of this section.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-220">
+            <num>21.48.220</num>
+            <heading>Employee life insurance.</heading>
+            <content>
+              <p>Sec. 21.48.220.   Employee life insurance.
+Employee life insurance is that plan of life insurance, other than salary savings life insurance or pension trust insurance and annuities, under which individual policies are issued to the employees of an employer and where the policies are issued on the lives of not less than five nor more than 10 employees at the date of issue. Premiums for the policies shall be paid by the employer or the trustee of a fund established by the employer either wholly from the employer's funds, or funds contributed by the employer, or partly from these funds and partly from funds contributed by the insured employees.</p>
+            </content>
+          </section>
+          <section eId="sec_21-48-230">
+            <num>21.48.230</num>
+            <heading>Violations.</heading>
+            <content>
+              <p>Sec. 21.48.230.   Violations.
+Violations of this chapter are subject to the penalties provided by
+AS 21.97.020
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

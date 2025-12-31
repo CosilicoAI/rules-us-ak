@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-05"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-05"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.05"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-05/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-05/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_05">
+          <num>05</num>
+          <heading>Letters of Credit</heading>
+          <section eId="sec_45-05-101">
+            <num>45.05.101</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 45.05.101.   Short title.
+This chapter shall be known and may be cited as Uniform Commercial Code  Letters of Credit.</p>
+            </content>
+          </section>
+          <section eId="sec_45-05-102">
+            <num>45.05.102</num>
+            <heading>Definitions.</heading>
+            <subsection eId="45-05-102__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In this chapter,</p>
+              </content>
+              <paragraph eId="45-05-102__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>adviser means a person who, at the request of the issuer, a confirmer, or another adviser, notifies or requests another adviser to notify the beneficiary that a letter of credit has been issued, confirmed, or amended;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>applicant means a person at whose request or for whose account a letter of credit is issued; applicant includes a person who requests an issuer to issue a letter of credit on behalf of another if the person making the request undertakes an obligation to reimburse the issuer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>beneficiary means a person who under the terms of a letter of credit is entitled to have the letter of credit's complying presentation honored; beneficiary includes a person to whom drawing rights have been transferred under a transferable letter of credit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>confirmer means a nominated person who undertakes, at the request or with the consent of the issuer, to honor a presentation under a letter of credit issued by another;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>dishonor of a letter of credit means the failure timely to honor or to take an interim action, such as acceptance of a draft, that may be required by the letter of credit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>document means a draft or other demand, document of title, investment security, certificate, invoice, or other record, statement, or representation of fact, law, right, or opinion that is
+(A) presented in a written or other medium permitted by the letter of credit or, unless prohibited by the letter of credit, by the standard practice referred to in
+AS 45.05.108</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>good faith means honesty in fact in the conduct or transaction concerned;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>honor of a letter of credit means performance of the issuer's undertaking in the letter of credit to pay or deliver an item of value; unless the letter of credit provides otherwise, honor occurs
+(A) upon payment;
+(B) if the letter of credit provides for acceptance, upon acceptance of a draft and, at maturity, its payment; or
+(C) if the letter of credit provides for incurring a deferred obligation, upon incurring the obligation and, at maturity, its performance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>issuer means a bank or other person that issues a letter of credit, but does not include an individual who makes an engagement for personal, family, or household purposes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>letter of credit means a definite undertaking that satisfies the requirements of
+AS 45.05.104
+by an issuer to a beneficiary at the request or for the account of an applicant, or, in the case of a financial institution, to itself or for its own account, to honor a documentary presentation by payment or delivery of an item of value;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>nominated person means a person whom the issuer
+(A) designates or authorizes to pay, accept, negotiate, or otherwise give value under a letter of credit; and
+(B) undertakes by agreement or custom and practice to reimburse;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>presentation means delivery of a document to an issuer or nominated person for honor or giving of value under a letter of credit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>presenter means a person making a presentation as or on behalf of a beneficiary or nominated person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>record means information that is inscribed on a tangible medium, or that is stored in an electronic or other medium and is retrievable in perceivable form;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>successor of a beneficiary means a person who succeeds to substantially all of the rights of a beneficiary by operation of law, including a corporation with or into which the beneficiary has been merged or consolidated, an administrator, an executor, a personal representative, a trustee in bankruptcy, a debtor in possession, a liquidator, and a receiver.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-102__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The following definitions that apply to this chapter and the sections in which they appear are</p>
+              </content>
+              <paragraph eId="45-05-102__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>accept or acceptance (
+AS 45.03.409
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-102__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>value (
+AS 45.03.303
+and
+AS 45.04.211
+).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-102__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>AS 45.01
+contains certain additional general definitions and principles of construction and interpretation applicable throughout this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-103">
+            <num>45.05.103</num>
+            <heading>Scope.</heading>
+            <subsection eId="45-05-103__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This chapter applies to letters of credit and to certain rights and obligations arising out of transactions involving letters of credit.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-103__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The statement of a rule in this chapter does not by itself require, imply, or negate application of the same or a different rule to a situation not provided for, or to a person not specified, in this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-103__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>With the exception of this subsection, (a) and (d) of this section,
+AS 45.05.102
+(a)(9) and (10), 45.05.106(d), and 45.05.114(d), and except to the extent prohibited in
+AS 45.01.302
+and
+AS 45.05.117
+(d), the effect of this chapter may be varied by agreement or by a provision stated or incorporated by reference in an undertaking. A term in an agreement or undertaking generally excusing liability or generally limiting remedies for failure to perform obligations is not sufficient to vary obligations prescribed by this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-103__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Rights and obligations of an issuer to a beneficiary or a nominated person under a letter of credit are independent of the existence, performance, or nonperformance of a contract or arrangement out of which the letter of credit arises or that underlies it, including contracts or arrangements between the issuer and the applicant and between the applicant and the beneficiary.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-104">
+            <num>45.05.104</num>
+            <heading>Formal requirements.</heading>
+            <content>
+              <p>Sec. 45.05.104.   Formal requirements.
+A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issued in any form that is a record and is authenticated
+(1) by a signature; or
+(2) under the agreement of the parties or the standard practice referred to in
+AS 45.05.108
+(e).</p>
+            </content>
+          </section>
+          <section eId="sec_45-05-105">
+            <num>45.05.105</num>
+            <heading>Consideration.</heading>
+            <content>
+              <p>Sec. 45.05.105.   Consideration.
+Consideration is not required to issue, amend, transfer, or cancel a letter of credit, advice, or confirmation.</p>
+            </content>
+          </section>
+          <section eId="sec_45-05-106">
+            <num>45.05.106</num>
+            <heading>Issuance, amendment, cancellation, and duration.</heading>
+            <subsection eId="45-05-106__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A letter of credit is issued and becomes enforceable according to its terms against the issuer when the issuer sends or otherwise transmits it to the person requested to advise or to the beneficiary. A letter of credit is revocable only if it provides that it is revocable.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-106__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>After a letter of credit is issued, rights and obligations of a beneficiary, applicant, confirmer, and issuer are not affected by an amendment or cancellation to which the beneficiary, applicant, confirmer, or issuer has not consented, except to the extent the letter of credit provides that the letter of credit is revocable or that the issuer may amend or cancel the letter of credit without the consent.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-106__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If there is no stated expiration date or other provision that determines the letter of credit's duration, a letter of credit expires one year after its stated date of issuance or, if a date of issuance is not stated, after the date on which the letter of credit is issued.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-106__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A letter of credit that states that it is perpetual expires five years after its stated date of issuance or, if a date of issuance is not stated, after the date on which the letter of credit is issued.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-107">
+            <num>45.05.107</num>
+            <heading>Confirmer, nominated person, and adviser.</heading>
+            <subsection eId="45-05-107__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A confirmer is directly obligated on a letter of credit and has the rights and obligations of an issuer to the extent of the confirmer's confirmation. The confirmer also has rights against and obligations to the issuer as if the issuer were an applicant and the confirmer had issued the letter of credit at the request and for the account of the issuer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-107__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A nominated person who is not a confirmer is not obligated to honor or otherwise give value for a presentation.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-107__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person requested to advise may decline to act as an adviser. An adviser that is not a confirmer is not obligated to honor or give value for a presentation. An adviser undertakes to the issuer and to the beneficiary to advise accurately as to the terms of the letter of credit, confirmation, amendment, or advice received by the person requested to advise, and undertakes to the beneficiary to check the apparent authenticity of the request to advise. Even if the advice is inaccurate, the letter of credit, confirmation, or amendment is enforceable as issued.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-107__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person who notifies a transferee beneficiary of the terms of a letter of credit, confirmation, amendment, or advice has the rights and obligations of an adviser under (c) of this section. The terms in the notice to the transferee beneficiary may differ from the terms in a notice to the transferor beneficiary to the extent permitted by the letter of credit, confirmation, amendment, or advice received by the person who notifies the transferee beneficiary.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-108">
+            <num>45.05.108</num>
+            <heading>Issuer's rights and obligations.</heading>
+            <subsection eId="45-05-108__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in
+AS 45.05.109
+, an issuer shall honor a presentation that, as determined by the standard practice referred to in (e) of this section, appears on its face to comply strictly with the terms and conditions of the letter of credit. Except as otherwise provided in
+AS 45.05.113
+and unless otherwise agreed with the applicant, an issuer shall dishonor a presentation that does not appear so to comply.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-108__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An issuer has a reasonable time after presentation, but not beyond the end of the seventh business day of the issuer after the day of the issuer's receipt of documents,</p>
+              </content>
+              <paragraph eId="45-05-108__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to honor the presentation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-108__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the letter of credit provides for honor to be completed more than seven business days after presentation, to accept a draft or incur a deferred obligation; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-108__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to give notice to the presenter of discrepancies in the presentation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-108__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided in (d) of this section, an issuer is precluded from asserting a discrepancy as a basis for dishonor if</p>
+              </content>
+              <paragraph eId="45-05-108__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>timely notice is not given; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-108__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the discrepancy is not stated in the notice, if timely notice is given.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-108__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Failure to give the notice specified in (b) of this section or to mention fraud, forgery, or expiration in the notice does not preclude the issuer from asserting as a basis for dishonor fraud or forgery as described in
+AS 45.05.109</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-108__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or expiration of the letter of credit before presentation.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-108__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An issuer shall observe the standard practice of financial institutions that regularly issue letters of credit. A determination of the issuer's observance of the standard practice is a matter of interpretation for a court. A court shall offer the parties a reasonable opportunity to present evidence of the standard practice.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-108__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An issuer is not responsible for</p>
+              </content>
+              <paragraph eId="45-05-108__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the performance or nonperformance of the underlying contract, arrangement, or transaction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-108__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an act or omission of others; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-108__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>observance or knowledge of the usage of a particular trade, other than the standard practice referred to in (e) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-108__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If an undertaking constituting a letter of credit under
+AS 45.05.102
+(a)(10) contains nondocumentary conditions, an issuer shall disregard the nondocumentary conditions and treat them as if they were not stated.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-108__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>An issuer that dishonors a presentation shall return the documents or hold them at the disposal of, and send advice to that effect to, the presenter.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-108__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>An issuer that honors a presentation as permitted or required by this chapter</p>
+              </content>
+              <paragraph eId="45-05-108__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is entitled to be reimbursed by the applicant in immediately available funds not later than the date of the payment of funds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-108__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>takes the documents free of claims of the beneficiary or presenter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-108__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>is precluded from asserting a right of recourse on a draft under
+AS 45.03.414
+ 45.03.415;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-108__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>except as otherwise provided in
+AS 45.05.110
+and 45.05.117, is precluded from restitution of money paid or other value given by mistake to the extent the mistake concerns discrepancies in the documents or tender that are apparent on the face of the presentation; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-108__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>is discharged to the extent of the issuer's performance under the letter of credit unless the issuer honored a presentation in which a required signature of a beneficiary was forged.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-109">
+            <num>45.05.109</num>
+            <heading>Fraud and forgery.</heading>
+            <subsection eId="45-05-109__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a presentation is made that appears on its face to comply strictly with the terms and conditions of the letter of credit, but a required document is forged or materially fraudulent, or honor of the presentation would facilitate a material fraud by the beneficiary on the issuer or applicant, the issuer</p>
+              </content>
+              <paragraph eId="45-05-109__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>shall honor the presentation, if honor is demanded by
+(A) a nominated person that has given value in good faith and without notice of forgery or material fraud;
+(B) a confirmer that has honored its confirmation in good faith;
+(C) a holder in due course of a draft that was drawn under the letter of credit and that was taken after acceptance by the issuer or nominated person; or
+(D) an assignee of the issuer's or nominated person's deferred obligation if the obligation was taken for value and without notice of forgery or material fraud after the obligation was incurred by the issuer or nominated person; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-109__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>acting in good faith, may honor or dishonor the presentation in a case not covered by (1) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-109__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an applicant claims that a required document is forged or materially fraudulent or that honor of the presentation would facilitate a material fraud by the beneficiary on the issuer or applicant, a court of competent jurisdiction may temporarily or permanently enjoin the issuer from honoring a presentation or grant similar relief against the issuer or other persons only if the court finds that</p>
+              </content>
+              <paragraph eId="45-05-109__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the relief is not prohibited under the law applicable to an accepted draft or deferred obligation incurred by the issuer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-109__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a beneficiary, issuer, or nominated person who may be adversely affected is adequately protected against loss that the beneficiary, issuer, or nominated person may suffer because the relief is granted;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-109__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>all of the conditions that entitle a person to the relief under the law of this state are met; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-109__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>on the basis of the information submitted to the court, the applicant is more likely than not to succeed under its claim of forgery or material fraud, and the person demanding honor does not qualify for protection under (a)(1) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-110">
+            <num>45.05.110</num>
+            <heading>Warranties.</heading>
+            <subsection eId="45-05-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If its presentation is honored, the beneficiary warrants to</p>
+              </content>
+              <paragraph eId="45-05-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the issuer, another person to whom presentation is made, and the applicant that there is no fraud or forgery of the kind described in
+AS 45.05.109</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the applicant that the drawing does not violate an agreement between the applicant and beneficiary or another agreement intended by them to be augmented by the letter of credit.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The warranties in (a) of this section are in addition to warranties arising under
+AS 45.03
+,
+AS 45.04
+,
+AS 45.07
+, and
+AS 45.08
+because of the presentation or transfer of documents covered by those chapters.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-111">
+            <num>45.05.111</num>
+            <heading>Remedies.</heading>
+            <subsection eId="45-05-111__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If an issuer wrongfully dishonors or repudiates its obligation to pay money under a letter of credit before presentation, the beneficiary, successor, or nominated person presenting on its own behalf may recover from the issuer the amount that is the subject of the dishonor or repudiation. If the issuer's obligation under the letter of credit is not for the payment of money, the claimant may obtain specific performance or, at the claimant's election, recover an amount equal to the value of performance from the issuer. In either case, the claimant may also recover incidental but not consequential damages. The claimant is not obligated to take action to avoid damages that might be due from the issuer under this subsection. If, although not obligated to do so, the claimant avoids damages, the claimant's recovery from the issuer is reduced by the amount of damages avoided. The issuer has the burden of proving the amount of damages avoided. In the case of repudiation, the claimant does not need to present a document.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-111__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an issuer wrongfully dishonors a draft or demand presented under a letter of credit or honors a draft or demand in breach of the issuer's obligation to the applicant, the applicant may recover damages resulting from the breach, including incidental but not consequential damages, less any amount saved as a result of the breach.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-111__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If an adviser or nominated person other than a confirmer breaches an obligation under this chapter or an issuer breaches an obligation not covered in (a) or (b) of this section, a person to whom the obligation is owed may recover damages resulting from the breach, including incidental but not consequential damages, less any amount saved as a result of the breach. To the extent of the confirmation, a confirmer has the liability of an issuer specified in this subsection and in (a) and (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-111__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An issuer, nominated person, or adviser who is found liable under (a)  (c) of this section shall pay interest on the amount owed under the liability from the date of wrongful dishonor or other appropriate date.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-111__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Attorney fees and costs shall be awarded under Rules 79 and 82, Alaska Rules of Civil Procedure, to the prevailing party in an action in which a remedy is sought under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-111__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Damages that would otherwise be payable by a party for breach of an obligation under this chapter may be liquidated by agreement or undertaking, but only in an amount or by a formula that is reasonable in light of the harm anticipated.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-112">
+            <num>45.05.112</num>
+            <heading>Transfer of letter of credit.</heading>
+            <subsection eId="45-05-112__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in
+AS 45.05.113
+, unless a letter of credit provides that it is transferable, the right of a beneficiary to draw or otherwise demand performance under a letter of credit may not be transferred.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-112__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Even if a letter of credit provides that it is transferable, the issuer may refuse to recognize or carry out a transfer if</p>
+              </content>
+              <paragraph eId="45-05-112__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the transfer would violate applicable law; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-112__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the transferor or transferee has failed to comply with a requirement stated in the letter of credit, or with another requirement that
+(A) relates to transfer imposed by the issuer; and
+(B) is within the standard practice referred to in
+AS 45.05.108</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-112__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>or is otherwise reasonable under the circumstances.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-113">
+            <num>45.05.113</num>
+            <heading>Transfer by operation of law.</heading>
+            <subsection eId="45-05-113__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A successor of a beneficiary may consent to amendments, sign and present documents, and receive payment or other items of value in the name of the beneficiary without disclosing its status as a successor.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-113__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A successor of a beneficiary may consent to amendments, sign and present documents, and receive payment or other items of value in its own name as the disclosed successor of the beneficiary. Except as otherwise provided in (e) of this section, an issuer shall recognize a disclosed successor of a beneficiary as beneficiary in full substitution for the successor's predecessor upon compliance with</p>
+              </content>
+              <paragraph eId="45-05-113__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the requirements for recognition by the issuer of a transfer of drawing rights by operation of law under the standard practice in
+AS 45.05.108</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-113__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in the absence of the standard practice referred to in
+AS 45.05.108</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-113__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An issuer is not obliged to determine whether a purported successor is a successor of a beneficiary or whether the signature of a purported successor is genuine or authorized.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-113__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Honor of a purported successor's apparently complying presentation under (a) or (b) of this section has the consequences specified in
+AS 45.05.108</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-113__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>even if the purported successor is not the successor of a beneficiary. Documents signed in the name of the beneficiary or of a disclosed successor by a person who is not the beneficiary or the successor of the beneficiary are forged documents for the purposes of
+AS 45.05.109
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-113__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An issuer whose rights of reimbursement are not covered by (d) of this section, or by substantially similar law, and any confirmer or nominated person may decline to recognize a presentation under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-113__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A beneficiary whose name is changed after the issuance of a letter of credit has the same rights and obligations as a successor of a beneficiary under this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-114">
+            <num>45.05.114</num>
+            <heading>Assignment of proceeds.</heading>
+            <subsection eId="45-05-114__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In this section, proceeds of a letter of credit means the cash, check, accepted draft, or other item of value paid or delivered upon honor or giving of value by the issuer or a nominated person under the letter of credit. The term does not include a beneficiary's drawing rights or documents presented by the beneficiary.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-114__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A beneficiary may assign its right to part or all of the proceeds of a letter of credit. The beneficiary may do so before presentation as a present assignment of the beneficiary's right to receive proceeds contingent upon the beneficiary's compliance with the terms and conditions of the letter of credit.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-114__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An issuer or nominated person need not recognize an assignment of proceeds of a letter of credit until the issuer or nominated person consents to the assignment.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-114__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An issuer or nominated person does not have an obligation to give or withhold its consent to an assignment of proceeds of a letter of credit, but consent may not be unreasonably withheld if the assignee possesses and exhibits the letter of credit and if presentation of the letter of credit is a condition to honor.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-114__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Rights of a transferee beneficiary or nominated person are independent of the beneficiary's assignment of the proceeds of a letter of credit and are superior to the assignee's right to the proceeds.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-114__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Neither the rights recognized by this section between an assignee and an issuer, transferee beneficiary, or nominated person nor the issuer's or nominated person's payment of proceeds to an assignee or a third person affect the rights between the assignee and a person other than the issuer, transferee beneficiary, or nominated person. The mode of creating and perfecting a security interest in or granting an assignment of a beneficiary's rights to proceeds is governed by
+AS 45.29
+or other law. As against a person other than the issuer, transferee beneficiary, or nominated person, the rights and obligations arising on the creation of a security interest and its perfection, or other assignment of a beneficiary's rights to proceeds, are governed by
+AS 45.29
+or other law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-115">
+            <num>45.05.115</num>
+            <heading>Statute of limitations.</heading>
+            <content>
+              <p>Sec. 45.05.115.   Statute of limitations.
+An action to enforce a right or obligation arising under this chapter must be commenced within one year after the expiration date of the relevant letter of credit or one year after the cause of action accrues, whichever occurs later. A cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach.</p>
+            </content>
+          </section>
+          <section eId="sec_45-05-116">
+            <num>45.05.116</num>
+            <heading>Choice of law and forum.</heading>
+            <subsection eId="45-05-116__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The liability of an issuer, nominated person, or adviser for an action or omission is governed by the law of the jurisdiction chosen by an agreement in the form of a record signed or otherwise authenticated by the affected parties in the manner provided in
+AS 45.05.104
+or by a provision in the letter of credit, confirmation, or other undertaking. The jurisdiction whose law is chosen does not need to bear a relation to the transaction.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-116__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless (a) of this section applies, the liability of an issuer, nominated person, or adviser for action or omission is governed by the law of the jurisdiction in which the issuer, nominated person, or adviser is located. The issuer, nominated person, or adviser is considered to be located at the address indicated in the undertaking of the issuer, nominated person, or adviser. If more than one address is indicated, the issuer, nominated person, or adviser is considered to be located at the address from which the undertaking of the issuer, nominated person, or adviser was issued. For the purpose of jurisdiction, choice of law, and recognition of interbranch letters of credit, but not enforcement of a judgment, all branches of a bank are considered separate juridical entities, and a bank is considered to be located at the place where the bank's relevant branch is considered to be located under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-116__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided in this subsection, the liability of an issuer, nominated person, or adviser is governed by rules of custom or practice, such as the Uniform Customs and Practice for Documentary Credits, to which the letter of credit, confirmation, or other undertaking is expressly made subject. If this chapter would govern the liability of an issuer, nominated person, or adviser under (a) or (b) of this section, if the relevant undertaking incorporates rules of custom or practice, and if there is conflict between this chapter and those rules as applied to that undertaking, those rules govern except to the extent of a conflict with the nonvariable provisions specified in
+AS 45.05.103
+(c).</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-116__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If there is conflict between this chapter and
+AS 45.03
+,
+AS 45.04
+,
+AS 45.14
+, or
+AS 45.29
+, this chapter governs.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-116__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The forum for settling disputes arising out of an undertaking within this chapter may be chosen in the manner and with the binding effect that governing law may be chosen under (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-117">
+            <num>45.05.117</num>
+            <heading>Subrogation of issuer, applicant, and nominated person.</heading>
+            <subsection eId="45-05-117__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An issuer who honors a beneficiary's presentation is subrogated to the rights of</p>
+              </content>
+              <paragraph eId="45-05-117__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the beneficiary to the same extent as if the issuer were a secondary obligor of the underlying obligation owed to the beneficiary; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-117__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the applicant to the same extent as if the issuer were the secondary obligor of the underlying obligation owed to the applicant.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-117__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant that reimburses an issuer is subrogated to the rights of the issuer against a beneficiary, presenter, or nominated person to the same extent as if the applicant were the secondary obligor of the obligations owed to the issuer, and the applicant has the rights of subrogation of the issuer to the rights of the beneficiary stated in (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-117__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A nominated person who pays or gives value against a draft or demand presented under a letter of credit is subrogated to the rights of</p>
+              </content>
+              <paragraph eId="45-05-117__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the issuer against the applicant to the same extent as if the nominated person were a secondary obligor of the obligation owed to the issuer by the applicant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-117__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the beneficiary to the same extent as if the nominated person were a secondary obligor of the underlying obligation owed to the beneficiary; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-117__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the applicant to the same extent as if the nominated person were a secondary obligor of the underlying obligation owed to the applicant.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-05-117__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding an agreement or term to the contrary, the rights of subrogation stated in (a) and (b) of this section do not arise until the issuer honors the letter of credit or otherwise pays, and the rights of subrogation stated in (c) of this section do not arise until the nominated person pays or otherwise gives value. Until then, the issuer, nominated person, and the applicant do not derive under this section present or prospective rights forming the basis of a claim, defense, or excuse.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-05-118">
+            <num>45.05.118</num>
+            <heading>Security interest of issuer or nominated person.</heading>
+            <subsection eId="45-05-118__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An issuer or nominated person has a security interest in a document presented under a letter of credit to the extent that the issuer or nominated person honors or gives value for the presentation.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-05-118__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>So long as and to the extent that an issuer or nominated person has not been reimbursed or has not otherwise recovered the value given with respect to a security interest in a document under (a) of this section, the security interest continues and is subject to
+AS 45.29
+, but</p>
+              </content>
+              <paragraph eId="45-05-118__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a security agreement is not necessary to make the security interest enforceable under
+AS 45.29.203</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-118__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the document is presented in a medium other than a written or other tangible medium, the security interest is perfected; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-05-118__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the document is presented in a written or other tangible medium and is not a certificated security, chattel paper, a document of title, an instrument, or a letter of credit, the security interest is perfected and has priority over a conflicting security interest in the document so long as the debtor does not have possession of the document.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

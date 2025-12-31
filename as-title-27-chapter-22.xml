@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-22"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-22"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="27.22"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-22/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-22/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-22/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-22/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_27">
+        <num>27</num>
+        <heading>Mining</heading>
+        <chapter eId="title_27__chp_22">
+          <num>22</num>
+          <heading>Bonus for Discovery and Production</heading>
+          <section eId="sec_27-22-010">
+            <num>27.22.010</num>
+            <heading>Discovery and production bonus.</heading>
+            <subsection eId="27-22-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To stimulate prospecting for, discovery of, and production from new domestic mineral-bearing deposits, and in the interest of the general industrial development of the state, the commissioner shall, upon sufficient proof, pay a bonus of $10,000 to a person or persons, partnership, company, or corporation that discovers and produces ore in Alaska under the terms of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-22-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall pay the bonus for the discovery and production from new domestic mineral-bearing deposits containing one or any combination of those minerals presently eligible for assistance under the Federal Office of Mineral Exploration program.  The production must be from a mining location of a lode or placer deposit that has not previously been discovered or worked.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-22-020">
+            <num>27.22.020</num>
+            <heading>Amount of production.</heading>
+            <content>
+              <p>Sec. 27.22.020.   Amount of production.
+The bonus will be paid, not for discovery alone, but only in connection with the delivery and sale to a bona fide purchaser of the first unit shipment of ore or concentrate with a gross market value of $100,000 or more substantiated by affidavit showing completion of sale and receipt of money, gross or net, in hand of the claimant.</p>
+            </content>
+          </section>
+          <section eId="sec_27-22-030">
+            <num>27.22.030</num>
+            <heading>Eligibility to claim bonus.</heading>
+            <content>
+              <p>Sec. 27.22.030.   Eligibility to claim bonus.
+A person of legal age and a citizen of the United States or a partnership, company, or corporation of citizens legally authorized to operate in the state may claim the bonus offered in this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_27-22-040">
+            <num>27.22.040</num>
+            <heading>Nature of bonus.</heading>
+            <subsection eId="27-22-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A bonus will be paid only once for production of ores or concentrates from a single lode or placer deposit. The commissioner or a duly authorized representative shall determine whether production from a given location, claim, or group of claims is the first production from the deposit for the purpose of this chapter or whether the deposit has previously been discovered or worked for any of the minerals presently eligible for assistance under the Federal Office of Mineral Exploration program or any other metals or minerals, including gravel, not so listed, or whether production is such as to which a bonus has already been paid, or whether for any reason a bonus is not payable. In making the determination, the commissioner shall be guided by the federal or state mining laws, either of which is applicable, or both. The subdivision of a deposit into units to increase bonus payments will not be recognized in determining eligibility for bonus payments.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-22-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The fact that a bonus has already been received will not prevent the payment of another bonus to the same person, partnership, company, or corporation with respect to production from a different deposit.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-22-050">
+            <num>27.22.050</num>
+            <heading>Notice of discovery and production; action of the commissioner.</heading>
+            <subsection eId="27-22-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notice of the discovery of a mineral deposit and production from it believed to meet the requirements of this chapter shall be forwarded to the commissioner by registered letter together with</p>
+              </content>
+              <paragraph eId="27-22-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a brief description of the size, location, and date of discovery of the deposit, including the number, size, and location of mining claims and the name or names of the locators;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-22-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the calendar dates during which the ore was mined and concentrate prepared;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-22-050__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an affidavit and supporting documents showing completion of sale and receipt of at least $100,000, gross or net, in hand of the claimant.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="27-22-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon receipt of the notice, the commissioner shall make or cause to be made the field investigations, including examination of the claimant's records and other pertinent data, to assure compliance with the expressed intent and purpose of this chapter.  If the claimant has fulfilled the necessary requirements as determined by the commissioner, the commissioner shall so certify and pay the bonus.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-22-060">
+            <num>27.22.060</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 27.22.060.   Definitions.
+In this chapter,
+(1) commissioner means the commissioner of natural resources;
+(2) domestic means within the confines of the state.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

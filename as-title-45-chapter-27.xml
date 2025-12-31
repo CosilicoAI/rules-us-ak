@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-27"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-27"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.27"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-27/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-27/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-27/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-27/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_27">
+          <num>27</num>
+          <heading>Marine Products and Motorized Recreational Products</heading>
+          <section eId="sec_45-27-010">
+            <num>45.27.010</num>
+            <heading>Consent to transfer of agreement.</heading>
+            <content>
+              <p>Sec. 45.27.010.   Consent to transfer of agreement.
+A manufacturer may not unreasonably withhold consent to the sale or other transfer of a dealership agreement by an authorized dealer to a transferee if the transferee
+(1) meets the criteria generally applied by the manufacturer when approving new authorized dealers; and
+(2) agrees to be bound by all the terms and conditions of the standard form of the dealership agreement.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-020">
+            <num>45.27.020</num>
+            <heading>Cancellation or nonrenewal of agreement.</heading>
+            <subsection eId="45-27-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A manufacturer may not cancel or decline to renew a dealership agreement with an authorized dealer unless</p>
+              </content>
+              <paragraph eId="45-27-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the manufacturer has
+(A) satisfied the notice requirements of this chapter; and
+(B) shown that there is good cause for the cancellation or nonrenewal of the dealership agreement, and, if the reasons underlying the good cause can be corrected by the authorized dealer, the authorized dealer has failed for 60 days after delivery of the notice required by
+AS 45.27.030
+to make the corrections; the circumstances identified under
+AS 45.27.030</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the authorized dealer has engaged in fraud
+(A) against consumers or the manufacturer; or
+(B) in the operation of the authorized dealer's dealership.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-27-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Under (a)(1)(B) of this section, an authorized dealer may not prevent a cancellation or nonrenewal of a dealership agreement more than two times by making corrections.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (a)(1) of this section, a manufacturer may not cancel or decline to renew a dealership agreement with an authorized dealer because of the death or incapacity of an owner if the owner is not listed in the agreement as one on whose expertise and abilities the manufacturer relied in the granting of the agreement.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, good cause includes circumstances in which the authorized dealer fails to comply with or observe a material provision of the dealership agreement with the authorized dealer. For the purpose of determining good cause under this subsection, reasonable sales and service performance criteria and capital and facility requirements may be considered material provisions only if the criteria or requirements were communicated in writing to the authorized dealer within a reasonable period of not less than six months before the effective date of the cancellation or nonrenewal, to afford the authorized dealer a reasonable opportunity to comply with the criteria or requirements.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-030">
+            <num>45.27.030</num>
+            <heading>Notice of cancellation or nonrenewal.</heading>
+            <subsection eId="45-27-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A manufacturer shall furnish a notice of cancellation or nonrenewal of a dealership agreement with an authorized dealer to an authorized dealer at least</p>
+              </content>
+              <paragraph eId="45-27-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>90 days before the effective date of a cancellation or nonrenewal, except as provided under (2) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>15 days before the effective date of a cancellation or nonrenewal when the authorized dealer
+(A) is insolvent or is the subject of a bankruptcy or receivership proceeding;
+(B) is convicted of a felony involving moral turpitude or fraud under the law of this state, another state, the federal government, a territory of the United States, or the District of Columbia;
+(C) has violated a term of the dealership agreement with the manufacturer, the violation of which the manufacturer and the authorized dealer have agreed in the dealership agreement constitutes a basis for cancellation or nonrenewal.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-27-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notice required under (a) of this section must be in writing, shall be sent by certified mail or personally delivered to the authorized dealer, and must contain</p>
+              </content>
+              <paragraph eId="45-27-030__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a statement of intention to cancel or not renew the dealership agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-030__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a statement of the reasons for the cancellation or nonrenewal; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-030__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the date on which the cancellation or nonrenewal takes effect.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-27-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, mail means registered or certified mail, return receipt requested.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-040">
+            <num>45.27.040</num>
+            <heading>Threat of cancellation or nonrenewal.</heading>
+            <subsection eId="45-27-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A manufacturer or manufacturer's representative may not coerce or attempt to coerce an authorized dealer to enter into a dealership agreement with the manufacturer or a subsidiary of the manufacturer, or to perform any other act unfair to the authorized dealer, by threatening to terminate a dealership agreement between the manufacturer or subsidiary of the manufacturer and the authorized dealer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not prohibit a voluntary agreement between a manufacturer and an authorized dealer to settle legitimate disputes.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, manufacturer's representative means an employee or agent of a manufacturer who engages in the business of contacting a manufacturer's authorized dealer for the purpose of making or promoting the sale of the manufacturer's products or product parts.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-050">
+            <num>45.27.050</num>
+            <heading>Repurchase obligations on cancellation or nonrenewal.</heading>
+            <subsection eId="45-27-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On the cancellation or nonrenewal of a dealership agreement by a manufacturer without satisfying the requirements under
+AS 45.27.020
+, the manufacturer shall repurchase from the authorized dealer's inventory</p>
+              </content>
+              <paragraph eId="45-27-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>each new and unused product of the manufacturer that is a current product model, or the product model from the previous year; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>each product part that
+(A) was purchased from the manufacturer by the authorized dealer;
+(B) is listed in the manufacturer's parts price books in the previous two years; and
+(C) has not been damaged or substantially altered to the prejudice of the manufacturer while in the possession of the authorized dealer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-27-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Within 90 days after the effective date of the cancellation or nonrenewal, the authorized dealer shall return the property required by (a) of this section to be repurchased to the manufacturer at the manufacturer's expense. The manufacturer shall pay the compensation for the property within 60 days after the tender of inventory and other items if the authorized dealer has clear title to the property and is in a position to convey that title to the manufacturer. If the property is subject to a security interest, the manufacturer may make the payments jointly to the authorized dealer and the holder of the security interest, and the manufacturer may offset the payment.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The amount of a repurchase required by (a) of this section must be based on the authorized dealer's landed cost, subject to adjustments to landed costs for quarterly or annual purchase rebates and credits given to the authorized dealer on the products or product parts.
+Article 2. Product Warranties.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-100">
+            <num>45.27.100</num>
+            <heading>Warranty provided.</heading>
+            <content>
+              <p>Sec. 45.27.100.   Warranty provided.
+A manufacturer shall provide, through the authorized dealer, to the product's ultimate purchaser from an authorized dealer the manufacturer's standard warranty, if any, that is in effect at the time of delivery of the product to the authorized dealer.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-110">
+            <num>45.27.110</num>
+            <heading>Nonconforming products.</heading>
+            <subsection eId="45-27-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A manufacturer of a nonconforming product shall, during the original warranty period, pay an authorized dealer to complete factory-recommended warranty repairs, solutions, and procedures to cure factory warranty problems with a nonconforming product. The manufacturer shall make the payment in accordance with the standard warranty service claim procedures and methods of the industry and with
+AS 45.27.100
+ 45.27.220.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a part that is necessary to repair a nonconforming product of a nonconformity that is covered under a manufacturer's warranty is not in an authorized dealer's inventory when the nonconforming product is brought to the authorized dealer for repair, the manufacturer of the product shall provide the authorized dealer with the part. The manufacturer shall provide the part as soon as possible and may not charge for freight or handling. This subsection applies to a manufacturer whose products are sold in the state through an authorized dealer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The manufacturer of a nonconforming product shall pay the cost for transporting a replacement for the nonconforming product from the manufacturer to the authorized dealer who sold the nonconforming product to the ultimate purchaser or the authorized dealer who is located nearest to the ultimate purchaser, whichever of the two authorized dealers the ultimate purchaser chooses. The manufacturer is not required to pay the transportation cost from the authorized dealer to the ultimate purchaser or from the ultimate purchaser to the authorized dealer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-110__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, nonconforming product means a product that has a nonconformity.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-120">
+            <num>45.27.120</num>
+            <heading>Authorized dealer warranty representations.</heading>
+            <content>
+              <p>Sec. 45.27.120.   Authorized dealer warranty representations.
+An authorized dealer may not make a representation about the warranty that is not made by the manufacturer in the warranty. An authorized dealer shall deliver the manuals on the operation and maintenance of a product to an ultimate purchaser and make the manufacturer's warranty known to the ultimate purchaser, including all disclaimers and limitations.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-130">
+            <num>45.27.130</num>
+            <heading>Warranty service and claims.</heading>
+            <subsection eId="45-27-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An authorized dealer shall provide warranty service in accordance with the manufacturer's applicable warranty on all of the manufacturer's products sold by the authorized dealer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An authorized dealer shall make all claims for warranty reimbursement in the manner established by the manufacturer.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-140">
+            <num>45.27.140</num>
+            <heading>Warranty restrictions.</heading>
+            <content>
+              <p>Sec. 45.27.140.   Warranty restrictions.
+A manufacturer may not, by dealership agreement, by restrictions on reimbursement, or by another method, restrict the nature or extent of product parts provided or labor performed by an authorized dealer if the restriction impairs the authorized dealer's ability to satisfy a warranty created by the manufacturer in accordance with generally accepted standards.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-150">
+            <num>45.27.150</num>
+            <heading>Basis for reimbursements.</heading>
+            <subsection eId="45-27-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A manufacturer shall use the criteria established in this section to reimburse an authorized dealer for all approved warranty service work performed by the authorized dealer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the technician performing the warranty service work meets the certification standards in the dealership agreement, a manufacturer shall pay to a servicing authorized dealer warranty work labor rates that</p>
+              </content>
+              <paragraph eId="45-27-150__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>are not less than the highest of the following:
+(A) the rate the authorized dealer customarily charges to a customer for nonwarranty service work;
+(B) the manufacturer's printed flat rate; or
+(C) the rate established by a flat rate manual for dealers, if the manual is produced for dealers by a nationally respected industry consultant; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-150__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>include time for clean-up, preparation, diagnosis, disassembly, repair, assembly, testing, and final cleaning as needed to provide a quality result and customer satisfaction.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-27-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to the payment under (b) of this section, the manufacturer shall reimburse an authorized dealer a minimum of one hour at the authorized dealer's shop standard labor rate for the administration of each warranty claim.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-150__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A manufacturer shall reimburse the authorized dealer for product parts in the authorized dealer's inventory at the current manufacturer's full suggested retail price.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-160">
+            <num>45.27.160</num>
+            <heading>Timely reimbursement for claims.</heading>
+            <content>
+              <p>Sec. 45.27.160.   Timely reimbursement for claims.
+A manufacturer shall pay a properly submitted warranty claim of an authorized dealer within 30 days after receiving the claim from an authorized dealer. Unless a manufacturer issues a written notice of disapproval under
+AS 45.27.170
+within the 30 days, if a manufacturer fails to pay a claim within 30 days after receipt, the failure is considered an acceptance of the claim as submitted, and the manufacturer shall pay the authorized dealer interest at the rate of 1.5 percent a month on the claim.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-170">
+            <num>45.27.170</num>
+            <heading>Warranty claim disapproval.</heading>
+            <content>
+              <p>Sec. 45.27.170.   Warranty claim disapproval.
+If a manufacturer does not approve a claim submitted under
+AS 45.27.160
+, the manufacturer shall issue a written notice of disapproval to the authorized dealer within 30 days after the manufacturer receives the claim. The notice must contain the specific reasons for the disapproval.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-180">
+            <num>45.27.180</num>
+            <heading>Repairs required.</heading>
+            <content>
+              <p>Sec. 45.27.180.   Repairs required.
+If a product does not conform to a warranty that is applicable to it and the ultimate purchaser of the product reports the nonconformity to the manufacturer of the product or to the manufacturer's authorized dealer during the term of the warranty, the manufacturer or authorized dealer shall make the necessary repairs to conform the product to the warranty.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-190">
+            <num>45.27.190</num>
+            <heading>Replacement or refund.</heading>
+            <subsection eId="45-27-190__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If, during the term of a warranty or within one year after the date of the delivery of the product to the ultimate purchaser, whichever period of time terminates first, the manufacturer or authorized dealer is unable to conform a product to an applicable warranty after a reasonable number of attempts, the manufacturer shall accept the return of the nonconforming product, and, at the ultimate purchaser's option, shall replace the nonconforming product with a new comparable product or refund the full purchase price to the owner after deducting a reasonable amount of money for the ultimate purchaser's use of the product from the date the product was delivered to the ultimate purchaser.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-190__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The reasonable amount of money deducted under (a) of this section may not exceed an amount that is equal to the sum of</p>
+              </content>
+              <paragraph eId="45-27-190__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount of money that reflects the depreciation in value of the product for the period during which the product was available for use by the ultimate purchaser, as calculated by a straight line depreciation method over seven years; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-190__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an amount of money that is equal to the depreciation in value of the product that was caused by
+(A) neglect or abuse by the ultimate purchaser; or
+(B) body damage that was not caused by the nonconformity.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-27-190__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The manufacturer shall make the refund required by this section</p>
+              </content>
+              <paragraph eId="45-27-190__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to the lienholder of record for the product, if any, to the extent of the lienholder's interest, and, if there is a balance after satisfying the lienholder's interest, to the ultimate purchaser; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-190__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>entirely to the ultimate purchaser, if there is no lienholder of record for the product.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-27-190__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="45-27-190__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>costs include original registration fees, transportation fees, authorized dealer's preparation fees, and the cost of options installed by the authorized dealer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-190__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>full purchase price means the total price paid for a product by the ultimate purchaser, including any costs added to the retail price.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-200">
+            <num>45.27.200</num>
+            <heading>Notice by ultimate purchaser.</heading>
+            <subsection eId="45-27-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To claim a refund or replacement under
+AS 45.27.190
+, an ultimate purchaser shall give written notice by certified mail to the manufacturer and its authorized dealer before 60 days have elapsed after the termination of whichever of the following periods of time terminates first:</p>
+              </content>
+              <paragraph eId="45-27-200__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the term of the warranty; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-200__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>one year after the date of delivery of the product to the ultimate purchaser.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-27-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The notice required by (a) of this section must</p>
+              </content>
+              <paragraph eId="45-27-200__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>state that the product has a nonconformity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-200__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provide a reasonable description of the nonconformity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-200__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>state that the manufacturer or authorized dealer has made a reasonable number of attempts to conform the product to the warranty; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-200__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>state that the ultimate purchaser demands that a refund or a replacement of the product be delivered on or before the 60th day after the mailing date of the written notice.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-27-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Within 30 days after receiving the notice required by this section, the manufacturer may make a final attempt to conform the product before the manufacturer is required to make a refund or replacement under
+AS 45.27.190
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-210">
+            <num>45.27.210</num>
+            <heading>Exceptions.</heading>
+            <content>
+              <p>Sec. 45.27.210.   Exceptions.
+An ultimate purchaser may not receive a refund for or replacement of a product under
+AS 45.27.190
+ 45.27.220 if the manufacturer shows that the problem or condition because of which the ultimate purchaser is claiming a refund or a replacement
+(1) is not a nonconformity; or
+(2) is a nonconformity that resulted from
+(A) alteration of the product by the ultimate purchaser, or by a person who is not the authorized dealer or otherwise authorized by the manufacturer or distributor to make the alteration; or
+(B) abuse or neglect by the ultimate purchaser or another person other than the authorized dealer.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-220">
+            <num>45.27.220</num>
+            <heading>Presumption.</heading>
+            <content>
+              <p>Sec. 45.27.220.   Presumption.
+A rebuttable presumption that a reasonable number of attempts have been made to conform a product to an applicable warranty is established if
+(1) the nonconformity continues to exist even though the same nonconformity has been subject to repair three or more times by the manufacturer or authorized dealer during the term of the warranty or the one-year period after the date of delivery of the product to the ultimate purchaser, whichever period of time terminates first; or
+(2) the product is out of service for repair for a total of 30 or more days on which the authorized dealer is open for business during the term of the warranty or during the one-year period after the date of delivery of the product to the ultimate purchaser, whichever period of time terminates first; a period of time during which repairs are not performed for reasons that are beyond the control of the manufacturer or authorized dealer is not included in satisfying the 30-day time period.
+Article 3. Miscellaneous Business Practices.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-250">
+            <num>45.27.250</num>
+            <heading>Required posting.</heading>
+            <subsection eId="45-27-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An authorized dealer shall post a notice of the authorized dealer's retail labor rate in a place conspicuous to service customers. If the authorized dealer uses a factory-certified or factory-trained technician to perform warranty service work, the notice must also contain a statement that warranty service work completed by the authorized dealer is performed by a factory-certified or factory-trained technician.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an authorized dealer's service operations employees receive a commission for the amount of work they perform, the authorized dealer shall post a conspicuous sign that is visible to service customers that the authorized dealer's service operations employees work on commission.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-260">
+            <num>45.27.260</num>
+            <heading>Written estimates for repairs not covered by warranty.</heading>
+            <subsection eId="45-27-260__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before beginning repair work on a product for a customer, an authorized dealer shall provide to the customer a written estimate listing the specific parts, labor, and cost of the repairs.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-260__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If additional repairs are determined to be necessary after the service employees begin repairing the product, the authorized dealer shall contact the customer and receive permission to do additional repairs not covered in the written estimate.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-260__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An authorized dealer shall post in a conspicuous place for service customers to view all charges for diagnostics, storage, and other incidentals not associated with the actual repair of a product.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-270">
+            <num>45.27.270</num>
+            <heading>Content of factory recall notices.</heading>
+            <content>
+              <p>Sec. 45.27.270.   Content of factory recall notices.
+A manufacturer shall include in a written factory recall notice to ultimate purchasers and authorized dealers the date by which the manufacturer expects that necessary parts and equipment will be available to the authorized dealer for the correction of the defect that is the subject of the recall.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-280">
+            <num>45.27.280</num>
+            <heading>Resale without disclosure prohibited.</heading>
+            <content>
+              <p>Sec. 45.27.280.   Resale without disclosure prohibited.
+A manufacturer may not resell in the state a product returned under
+AS 45.27.190
+unless the manufacturer fully discloses to the prospective buyer before the resale is concluded the reason why the product was returned.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-300">
+            <num>45.27.300</num>
+            <heading>Other rights and remedies.</heading>
+            <content>
+              <p>Sec. 45.27.300.   Other rights and remedies.
+The provisions of this chapter do not limit other rights and remedies that may be available to the owner of a product under other provisions of law. This section does not create a new cause of action against an authorized dealer who sells or attempts to repair a product found to be nonconforming.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-310">
+            <num>45.27.310</num>
+            <heading>Applicability.</heading>
+            <content>
+              <p>Sec. 45.27.310.   Applicability.
+The provisions of this chapter apply to a dealership agreement if the dealership agreement is between a manufacturer and an authorized dealer in this state.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-320">
+            <num>45.27.320</num>
+            <heading>Jurisdiction; venue.</heading>
+            <subsection eId="45-27-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This state has jurisdiction over a legal dispute between a manufacturer located in or outside this state and an authorized dealer located in this state, and the dispute is governed by, interpreted, and adjudicated under the law of this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Venue for court action involving a dispute under (a) of this section is in the judicial district of this state in which the authorized dealer's principal place of business is located.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-330">
+            <num>45.27.330</num>
+            <heading>Corporate affiliates.</heading>
+            <subsection eId="45-27-330__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A manufacturer may not use a subsidiary corporation, affiliated corporation, partnership, association, or other person to do what the manufacturer is prohibited from doing under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-27-330__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The provisions of (a) of this section do not limit the right of a person to engage in reasonable and appropriate business practices consistent with an existing trade practice that is not prohibited by this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-340">
+            <num>45.27.340</num>
+            <heading>Unenforceable provisions.</heading>
+            <content>
+              <p>Sec. 45.27.340.   Unenforceable provisions.
+If a provision in a dealership agreement violates this chapter, the provision is not enforceable.</p>
+            </content>
+          </section>
+          <section eId="sec_45-27-390">
+            <num>45.27.390</num>
+            <heading>Definitions.</heading>
+            <subsection eId="45-27-390__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>owned or controlled by a person described under (A) of this paragraph; and
+(ii) separate from a person described under (A) of this paragraph;</p>
+              </content>
+              <paragraph eId="45-27-390__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>marine product means a new watercraft, boat, or gasoline motor designed for recreational or commercial use on water; marine product includes an outboard gasoline motor or boat with an attached gasoline motor, but does not include a watercraft designed or adapted to be powered only by an occupant's energy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-390__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>motorized recreational product means an all-terrain vehicle, a marine gasoline motor, a boat, a boat package, a marine product, and a snow machine; in this paragraph,
+(A) all-terrain vehicle means a vehicle with three or more low-pressure, flotation-type tires, as designed by the manufacturer or altered, to be used as an off-road recreational vehicle;
+(B) boat package means a boat that is equipped and sold with a gasoline motor or another form of gasoline motorized propulsion;
+(C) snow machine means a motorized vehicle with a gross vehicle weight under 1,300 pounds propelled by a track system designed to move a person over snow or ice, and includes a snowmobile;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-390__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>nonconformity means a defect or condition in a product that is caused by a manufacturer, distributor, or authorized dealer and that
+(A) substantially decreases the dollar value of a product to the owner when compared to the dollar value of a similar product that does not have the defect or condition; or
+(B) prevents a product from being operated or used or makes the product unsafe;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-390__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>part includes an accessory;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-390__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>product means a marine product or a motorized recreational product;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-390__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>ultimate purchaser means
+(A) a purchaser, other than for resale, of a new product, if the new product is not subject to
+AS 28.10
+or
+AS 28.39
+; or
+(B) a person to whom ownership of a new product is transferred under
+AS 28.10
+or
+AS 28.39
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-27-390__subsec_i__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>warranty means a written warranty provided by the manufacturer of a product.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-27-395">
+            <num>45.27.395</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 45.27.395.   Short title.
+This chapter may be cited as the Alaska Marine Product and Motorized Recreational Product Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

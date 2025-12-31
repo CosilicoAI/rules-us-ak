@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-23"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-23"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.23"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-23/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-23/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-23/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-23/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_23">
+          <num>23</num>
+          <heading>Health Care Services Information and Review Organizations</heading>
+          <section eId="sec_18-23-005">
+            <num>18.23.005</num>
+            <heading>Patient access to records.</heading>
+            <content>
+              <p>Sec. 18.23.005.   Patient access to records.
+Notwithstanding the provisions of
+AS 18.23.005
+ 18.23.070 or any other law, a patient is entitled to inspect and copy any records developed or maintained by a health care provider or other person pertaining to the health care rendered to the patient.</p>
+            </content>
+          </section>
+          <section eId="sec_18-23-010">
+            <num>18.23.010</num>
+            <heading>Limitation on liability for persons providing information to review organization.</heading>
+            <subsection eId="18-23-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person providing information to a review organization is not subject to action for damages or other relief by reason of having furnished that information unless the information is false and the person providing the information knew or had reason to know the information was false.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A privilege of confidentiality arising from a physician-patient relationship may not be invoked to withhold pertinent information from review by a review organization.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-23-020">
+            <num>18.23.020</num>
+            <heading>Limitation on liability for members of review organizations.</heading>
+            <content>
+              <p>Sec. 18.23.020.   Limitation on liability for members of review organizations.
+A person who is a member or employee of, or who acts in an advisory capacity to, or who furnishes counsel or services to a review organization is not liable for damages or other relief in an action brought by another whose activities have been or are being scrutinized or reviewed by a review organization, by reason of the performance of a duty, function, or activity of the review organization, unless the performance of the duty, function, or activity was motivated by malice toward the affected person. A person is not liable for damages or other relief in an action by reason of performance of a duty, function, or activity as a member of a review organization or by reason of a recommendation or action of the review organization when the person acts in the reasonable belief that the action or recommendation is warranted by facts known to the person or to the review organization after reasonable efforts to ascertain the facts upon which the review organization's action or recommendation is made.</p>
+            </content>
+          </section>
+          <section eId="sec_18-23-030">
+            <num>18.23.030</num>
+            <heading>Confidentiality of records of review organization.</heading>
+            <subsection eId="18-23-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b), (c), and (e) of this section, all data and information acquired by a review organization in the exercise of its duties and functions shall be held in confidence and may not be disclosed to anyone except to the extent necessary to carry out the purposes of the review organization and is not subject to subpoena or discovery. Except as provided in (b) of this section, a person described in
+AS 18.23.020
+may not disclose what transpired at a meeting of a review organization except to the extent necessary to carry out the purposes of a review organization, and the proceedings and records of a review organization are not subject to discovery or introduction into evidence in a civil action against a health care provider arising out of the matter that is the subject of consideration by the review organization. Information, documents, or records otherwise available from original sources are not immune from discovery or use in a civil action merely because they were presented during proceedings of a review organization, nor may a person who testified before a review organization or who is a member of it be prevented from testifying as to matters within the person's knowledge, but a witness may not be asked about the witness's testimony before a review organization or opinions formed by the witness as a result of its hearings, except as provided in (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Testimony, documents, proceedings, records, and other evidence adduced before a review organization that are otherwise inaccessible under this section may be obtained by a health care provider who claims that denial is unreasonable or may be obtained under subpoena or discovery proceedings brought by a plaintiff who claims that information provided to a review organization was false and claims that the person providing the information knew or had reason to know the information was false.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing in
+AS 18.23.005
+ 18.23.070 prevents a person whose conduct or competence has been reviewed under
+AS 18.23.005
+ 18.23.070 from obtaining, for the purpose of appellate review of the action of the review organization, any testimony, documents, proceedings, records, and other evidence adduced before the review organization.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding the provisions of (b) and (c) of this section, information contained in a report submitted to the State Medical Board, and information gathered by the board during an investigation, under
+AS 08.64.336
+is not subject to subpoena or discovery unless and until the board takes action to suspend, revoke, limit, or condition a license of the person who is the subject of the report or investigation.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A review organization may publish a report containing data or information obtained in the exercise of its duties if the report does not violate federal or state law regarding confidentiality of a person or decedent. A report may include</p>
+              </content>
+              <paragraph eId="18-23-030__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the identification of trends, patterns, and risk factors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-030__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an analysis of the rate and cause of death in the state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-030__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>methods of intervention or prevention related to causes of death.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-23-040">
+            <num>18.23.040</num>
+            <heading>Penalty for violation.</heading>
+            <content>
+              <p>Sec. 18.23.040.   Penalty for violation.
+Other than as authorized by
+AS 18.23.030
+, a disclosure of data and information acquired by a review committee or of what transpired at a review meeting is a misdemeanor and punishable by imprisonment for not more than one year or by a fine of not more than $500.</p>
+            </content>
+          </section>
+          <section eId="sec_18-23-050">
+            <num>18.23.050</num>
+            <heading>Protection of patient.</heading>
+            <content>
+              <p>Sec. 18.23.050.   Protection of patient.
+Nothing in
+AS 18.23.005
+ 18.23.070 relieves a person of liability that the person has incurred or may incur to a person as a result of furnishing health care to the patient.</p>
+            </content>
+          </section>
+          <section eId="sec_18-23-060">
+            <num>18.23.060</num>
+            <heading>Parties bound by review.</heading>
+            <content>
+              <p>Sec. 18.23.060.   Parties bound by review.
+When a review organization reviews matters under
+AS 18.23.070
+(5)(A)(viii) a party is not bound by a ruling of the organization in a controversy, dispute, or question unless the party agrees in advance, either specifically or generally, to be bound by the ruling.</p>
+            </content>
+          </section>
+          <section eId="sec_18-23-070">
+            <num>18.23.070</num>
+            <heading>Definitions forAS 18.23.005 18.23.070.</heading>
+            <subsection eId="18-23-070__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>evaluating and improving the quality of health care rendered in the area or medical institution;
+(ii) reducing morbidity or mortality;
+(iii) obtaining and disseminating statistics and information relative to the treatment and prevention of diseases, illness, and injuries;
+(iv) developing and publishing guidelines showing the norms of health care in the area or medical institution;</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-070__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>developing and publishing guidelines designed to keep the cost of health care within reasonable bounds;
+(vi) reviewing the quality or cost of health care services provided to enrollees of health maintenance organizations;
+(vii) acting as a professional standards review organization under 42 U.S.C. 1320c;
+(viii) reviewing, ruling on, or advising on controversies, disputes, or questions between a health insurance carrier or health maintenance organization and one or more of its insured or enrollees; between a professional licensing board, acting under its powers of discipline or license revocation or suspension, and a health care provider licensed by it when the matter is referred to a review organization by the professional licensing board; between a health care provider and the provider's patients concerning diagnosis, treatment, or care, or a charge or fee; between a health care provider and a health insurance carrier or health maintenance organization concerning a charge or fee for health care services provided to an insured or enrollee; or between a health care provider or the provider's patients and the federal or a state or local government, or an agency of the federal or a state or local government;
+(ix) acting on the recommendation of a credential review committee or a grievance committee;
+(B) the State Medical Board established by
+AS 08.64.010
+;
+(C) a committee established by the commissioner of health and approved by the chief medical officer in the Department of Health to review public health issues regarding morbidity or mortality;
+(D) a nationally recognized group or entity that accredits health care organizations, including the Joint Commission on Accreditation of Healthcare Organizations (JCAHO).
+Article 2. Form of Medical Records.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-23-100">
+            <num>18.23.100</num>
+            <heading>Use of electronic medical records.</heading>
+            <content>
+              <p>Sec. 18.23.100.   Use of electronic medical records.
+A health care provider may maintain and preserve its medical records in an electronic format that protects the physical security of the records and protects the records from access by unauthorized persons. A health care provider who maintains and preserves the records in an electronic format that provides these protections is not required to maintain a separate paper copy. The Department of Health may adopt regulations under
+AS 44.62
+(Administrative Procedure Act) to regulate the implementation of this section.</p>
+            </content>
+          </section>
+          <section eId="sec_18-23-300">
+            <num>18.23.300</num>
+            <heading>Creation of health information exchange system.</heading>
+            <subsection eId="18-23-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall establish and implement a statewide electronic health information exchange system and ensure the interoperability and compliance of the system with state and federal specifications and protocols for exchanging health records and data.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The system established under this section must</p>
+              </content>
+              <paragraph eId="18-23-300__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>include infrastructure planning that involves
+(A) the designation by the commissioner of a qualified entity or combination of qualified entities in the state that</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-23-300__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>has an advisory or governing body made up of health system stakeholders that include members identified under (d) of this section;
+(ii) applies for available federal and state funding for planning and implementation of the system authorized by the commissioner;
+(iii) submits an annual budget for approval of the commissioner;
+(iv) complies with nondiscrimination and conflict of interest policies;</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-300__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>meets and complies with federal and state health information policies and standards;
+(vi) provides cost and cost saving data associated with the development and use of the system to the department;
+(B) the development of statewide infrastructure to support the electronic health information exchange system established under this section and to connect electronic health records to the infrastructure;
+(C) the development of a statewide technology plan, with the participation of identified stakeholders, to promote the implementation and sustained use by public and private health care payors and providers of electronic health records and the system established under this section in order to ensure interoperability among government-operated health information systems and other public and private health information and reporting systems;
+(D) the development of policies and standards, consistent with federal and state law, to safeguard the privacy and security of health information;
+(E) the development of a training and workforce development plan for implementing and serving the system;
+(F) an estimate of costs of the hardware, software, services, and support needed to implement and maintain the technical infrastructure; and</p>
+              </content>
+              <paragraph eId="18-23-300__subsec_v__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>include implementation measures that
+(A) provide for installation and training on the use of the system;
+(B) set out a plan to encourage health care provider, payor, and patient use of electronic records over a sustained period of time;
+(C) provide support to providers for workflow redesign, quality improvement, and care management services;
+(D) provide for participation by all identified stakeholders in the planning and implementation of the system;
+(E) comply with federal and state health information policies; and
+(F) provide for periodic evaluation and improvement of the system.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-23-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may enter into contracts, seek and accept available federal and private funds and equipment, and adopt regulations necessary to carry out the purposes of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-300__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The designee under (b)(1)(A) of this section may be a private for-profit or nonprofit entity or entities under contract with the state. The advisory or governing body of the designee must include</p>
+              </content>
+              <paragraph eId="18-23-300__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the commissioner;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-300__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>eight other individuals, each of whom represents one of the following interests:
+(A) hospitals and nursing home facilities;
+(B) private medical care providers;
+(C) community-based primary care providers;
+(D) federal health care providers;
+(E) Alaska tribal health organizations;
+(F) health insurers;
+(G) health care consumers;
+(H) employers or businesses; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-300__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>two nonvoting liaison members who shall serve to enhance communication and collaboration between the designee and both the Board of Regents of the University of Alaska and the commission established in the governor's office to review health care policy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-23-305">
+            <num>18.23.305</num>
+            <heading>Department; duties.</heading>
+            <content>
+              <p>Sec. 18.23.305.   Department; duties.
+In carrying out its duties under
+AS 18.23.300
+, the department shall
+(1) in accordance with federal recommendations, determine the manner in which the system is developed and operated;
+(2) provide oversight and technical assistance needed for planning and implementing the system;
+(3) authorize and facilitate applications for available federal funding for planning and implementing the system;
+(4) ensure compliance with applicable federal and state health information policies and standards;
+(5) ensure compliance with federal and state law and standards that safeguard the privacy and security of health information;
+(6) ensure that the health information exchange system becomes self-sustaining through a combination of user fees and other private and public funding sources.</p>
+            </content>
+          </section>
+          <section eId="sec_18-23-310">
+            <num>18.23.310</num>
+            <heading>Confidentiality and security of information.</heading>
+            <subsection eId="18-23-310__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall establish appropriate security standards to protect the transmission and receipt of individually identifiable information contained in the system established under
+AS 18.23.300
+. The standards must</p>
+              </content>
+              <paragraph eId="18-23-310__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>include controls over access to and collection, organization, and maintenance of records and data that protect the confidentiality of the individual who is the subject of a health record;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-310__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>include a secure and traceable electronic audit system for identifying access points and trails;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-310__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>meet the most stringent applicable federal or state privacy law governing the protection of the information contained in the system.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-23-310__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not release or publish individually identifying health information from the system for purposes unrelated to the treatment or billing of the patient who is the subject of the information. Use or distribution of the information for a marketing purpose is strictly prohibited.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-310__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall establish procedures for a patient who is the subject of a health record contained in the system</p>
+              </content>
+              <paragraph eId="18-23-310__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to opt out of the system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-310__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to consent to the distribution of the patient's records contained in the system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-310__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to be notified of a violation of the confidentiality provisions required under this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-310__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>on request to the department, to view an audit report created under this section for the purpose of monitoring access to the patient's records.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-23-315">
+            <num>18.23.315</num>
+            <heading>Health information exchange system report to the legislature.</heading>
+            <content>
+              <p>Sec. 18.23.315.   Health information exchange system report to the legislature.
+The department shall provide to the legislature, on or before December 31 of each year, an annual report on the progress of the health information exchange system in the state, including a specific set of recommendations for long-term participation and financial support by the state.</p>
+            </content>
+          </section>
+          <section eId="sec_18-23-320">
+            <num>18.23.320</num>
+            <heading>Contract conditions.</heading>
+            <content>
+              <p>Sec. 18.23.320.   Contract conditions.
+A contract entered into to carry out the purposes of
+AS 18.23.300
+must require that the contractor meet applicable federal and state requirements for protecting health information privacy and security and nationally recognized standards for interoperability of health information technology.</p>
+            </content>
+          </section>
+          <section eId="sec_18-23-325">
+            <num>18.23.325</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.23.325.   Definitions.
+In
+AS 18.23.300
+ 18.23.325,
+(1) commissioner means the commissioner of health;
+(2) department means the Department of Health;
+(3) system means the statewide electronic health information exchange system established under
+AS 18.23.300
+.
+Article 4. Health Care Services and Price Information.</p>
+            </content>
+          </section>
+          <section eId="sec_18-23-400">
+            <num>18.23.400</num>
+            <heading>Disclosure and reporting of health care services, price, and fee information.</heading>
+            <subsection eId="18-23-400__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care provider shall annually compile a list, including a brief description in plain language that an individual with no medical training can understand, of the 10 health care services most commonly performed by the health care provider in the state in the previous calendar year from each of the six sections of Category I, Current Procedural Terminology, adopted by the American Medical Association and, for each of those services, state</p>
+              </content>
+              <paragraph eId="18-23-400__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the procedure code;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the undiscounted price; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>any facility fees.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-23-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A health care facility in the state shall annually compile a list, including a brief description in plain language that an individual with no medical training can understand, of the 10 health care services most commonly performed at the health care facility in the previous calendar year from each of the six sections of Category I, Current Procedural Terminology, adopted by the American Medical Association and, for each of those services, state</p>
+              </content>
+              <paragraph eId="18-23-400__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the procedure code;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the undiscounted price; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>any facility fees.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-23-400__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If, in the annual reporting period under this section, fewer than the number of health care services described under (a) or (b) of this section are performed by a health care provider or at a health care facility in the state, the provider or facility shall include in the list required under this section all of the health care services performed by the provider or at the facility from each of the six sections described under (a) or (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-400__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A health care provider who provides health care services at a health care facility in a group practice is not required to compile and publish a list under (a) and (e) of this section if</p>
+              </content>
+              <paragraph eId="18-23-400__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the health care facility where the provider is in a group practice compiles and publishes a list in compliance with (b) and (e) of this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the prices and fees that the provider charges are reflected in the list compiled and published by the health care facility.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-23-400__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A health care provider and health care facility shall publish the lists compiled under (a) and (b) of this section by January 31 each year</p>
+              </content>
+              <paragraph eId="18-23-400__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>by providing the list to the department for entry in the department's database under
+AS 18.15.360
+along with the name and location of the health care provider or health care facility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>by posting a copy of the list
+(A) in a font not smaller than 20 points;
+(B) in a conspicuous public reception area at the health care provider's office or health care facility where the services are performed;
+(C) that includes the address for the department's Internet website;
+(D) that may include a statement explaining that the undiscounted price may be higher or lower than the amount an individual actually pays for the health care services described in the list;
+(E) that includes a statement substantially similar to the following: You will be provided with an estimate of the anticipated charges for your nonemergency care upon request. Please do not hesitate to ask for information.; and
+(F) that lists any health care insurers with which the health care provider or health care facility has a contract to provide health care services as an in-network preferred provider; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the health care provider or health care facility has an Internet website, by posting the list on the website.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-23-400__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department shall annually compile the lists provided under (a) and (b) of this section by health care service and, where relevant, health care provider and health care facility name and location, post the information on the department's Internet website, and enter the information in the database maintained under
+AS 18.15.360
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-400__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If a patient who is receiving nonemergency health care services requests an estimate from a health care provider, health care facility, or health care insurer of the reasonably anticipated charges for treating the patient's specific condition, the health care provider, health care facility, or health care insurer</p>
+              </content>
+              <paragraph eId="18-23-400__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>shall provide a good faith estimate before the nonemergency health care services are provided and not later than 10 business days after receiving the request;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>shall provide the estimate in whichever of the following formats the patient requests: orally, in writing, or by electronic means; if the estimate is provided orally, the health care provider, health care facility, or health care insurer shall keep a record of the estimate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>is not required to disclose the charges for the total anticipated course of treatment for the patient, but if the estimate does not include charges for the total anticipated course of treatment, the estimate must include a statement explaining that the estimate only includes charges for a portion of the total anticipated course of treatment; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>may provide an estimate that includes a reasonable range of charges for anticipated health care services if the charges for the services will vary significantly in response to conditions that the health care provider, health care facility, or health care insurer cannot reasonably assess before the services are provided.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-23-400__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A good faith estimate provided by a health care provider or health care facility under (g) of this section must include</p>
+              </content>
+              <paragraph eId="18-23-400__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a brief description in plain language that an individual with no medical training can understand of the health care services, products, procedures, and supplies that are included in the estimate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a notice disclosing the health care provider's or health care facility's in-network or out-of-network status that is substantially similar to one of the following forms:
+(A) (Name of health care provider or health care facility) is a contracted, in-network preferred provider for ONLY the following plan networks: (list each network or state 'NONE. YOU MAY INCUR OUT-OF-NETWORK CHARGES.')
+(B) (Name of health care provider or health care facility) is a contracted, in-network preferred provider for your insurance plan.; or
+(C) (Name of health care provider or health care facility) is NOT a contracted, in-network preferred provider for your insurance plan. YOU MAY INCUR OUT-OF-NETWORK CHARGES.;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_h__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the procedure code for each health care service included in the estimate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_h__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>any facility fees, along with an explanation of the facility fees; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_h__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the identity, or suspected identity, of any other person that may charge the patient for a service, product, procedure, or supply in connection with the health care services included in the estimate, along with an explanation of whether the charges are included in the estimate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-23-400__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A health care provider or health care facility that provides a good faith estimate to a patient under (g) and (h) of this section or a health care insurer that provides a good faith estimate to a patient under (g) of this section is not liable for damages or other relief if the estimate differs from the amount actually charged to the patient.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-400__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The requirement for a health care facility to provide a good faith estimate of reasonably anticipated charges for nonemergency health care services under (e)(2)(E), (g), and (h) of this section does not apply to a health care facility that is an emergency department.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-400__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>A health care provider or a health care facility that fails to comply with the requirements of (a)  (e), (g), or (h) of this section or a health care insurer that fails to comply with the requirements of (g) of this section is liable for a civil penalty not to exceed $10,000 for each violation. The department may impose a penalty</p>
+              </content>
+              <paragraph eId="18-23-400__subsec_k__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for failure to comply with (a)  (e) of this section of not more than $100 for each day of noncompliance after March 31; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_k__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for failure to provide a good faith estimate under (g) or (h) of this section of not more than $100 for each day of noncompliance.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-23-400__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>A health care provider, health care facility, or health care insurer penalized under (k) of this section is entitled to a hearing conducted by the office of administrative hearings under
+AS 44.64
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-400__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>A municipality may not enact or enforce an ordinance that is inconsistent with or imposes health care price or fee disclosure requirements in addition to the requirements under this section or regulations adopted under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-23-400__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="18-23-400__subsec_n__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>department means the Department of Health;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_n__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>facility fee means a charge or fee billed by a health care provider or health care facility that is in addition to fees billed for a health care provider's professional services and is intended to cover building, electronic medical records system, billing, and other administrative and operational expenses;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_n__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>health care facility means a private, municipal, or state hospital, psychiatric hospital, emergency department, independent diagnostic testing facility, residential psychiatric treatment center as defined in
+AS 47.32.900
+, kidney disease treatment center (including freestanding hemodialysis units), office of a private physician or dentist whether in individual or group practice, ambulatory surgical center as defined in
+AS 47.32.900
+, freestanding birth center as defined in
+AS 47.32.900
+, and rural health clinic as defined in
+AS 47.32.900
+; health care facility does not include
+(A) the Alaska Pioneers' Home and the Alaska Veterans' Home administered by the department under
+AS 47.55
+;
+(B) an assisted living home as defined in
+AS 47.33.990
+;
+(C) a nursing facility licensed by the department to provide long-term care;
+(D) a facility operated by an Alaska tribal health organization;
+(E) a hospital operated by the United States Department of Veterans Affairs or the United States Department of Defense, or any other federally operated hospital or institution; or
+(F)  a hospital subject to 45 C.F.R. 180 as that section read on the effective date of this section or any other federal price transparency requirements that are reasonably similar to or exceed the requirements in this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_n__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>health care insurer has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_n__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>health care provider means an individual licensed, certified, or otherwise authorized or permitted by law to provide health care services in the ordinary course of business or practice of a profession;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_n__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>health care service means a service or procedure provided in person or remotely by telemedicine or other means by a health care provider or at a health care facility for the purpose of or incidental to the care, prevention, or treatment of a physical or mental illness or injury;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_n__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>nonemergency health care service means a health care service other than a health care service that is immediately necessary to prevent the death or serious impairment of the health of the patient;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_n__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>patient means an individual to whom health care services are provided in the state by a health care provider or at a health care facility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_n__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>third party means a public or private entity, association, or organization that provides, by contract, agreement, or other arrangement, insurance, payment, price discount, or other benefit for all or a portion of the cost of health care services provided to a recipient; third party does not include a member of the recipient's immediate family;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-23-400__subsec_n__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>undiscounted price means an amount billed for a service rendered without complications or exceptional circumstances; undiscounted price does not include a negotiated discount for an in-network or out-of-network service rendered or the cost paid by a third party for that service.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

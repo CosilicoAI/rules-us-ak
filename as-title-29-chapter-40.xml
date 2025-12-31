@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-40"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-40"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="29.40"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-40/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-40/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_29">
+        <num>29</num>
+        <heading>Municipal Government</heading>
+        <chapter eId="title_29__chp_40">
+          <num>40</num>
+          <heading>Planning, Platting, and Land Use Regulation</heading>
+          <section eId="sec_29-40-010">
+            <num>29.40.010</num>
+            <heading>Planning, platting, and land use regulation.</heading>
+            <subsection eId="29-40-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A first or second class borough shall provide for planning, platting, and land use regulation on an areawide basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a city in a borough consents by ordinance, the assembly may by ordinance delegate any of its powers and duties under this chapter to the city.  The assembly may by ordinance, without first obtaining the consent of the city, revoke any power or duty delegated under this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-020">
+            <num>29.40.020</num>
+            <heading>Planning commission.</heading>
+            <subsection eId="29-40-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each first and second class borough shall establish a planning commission consisting of five residents unless a greater number is required by ordinance. A member shall be appointed by the borough mayor for a term of three years subject to confirmation by the assembly, except that a member from a home rule or first class city shall be selected from a list of recommendations submitted by the council. Members first appointed shall draw lots for one, two, and three year terms. Appointments to fill vacancies are for the unexpired term. The compensation and expenses of the planning commission and its staff are paid as directed by the assembly. If a first or second class borough has a population of less than 20,000 or more than 75,000, the commission membership shall be apportioned so that the number of members from home rule and first class cities reflects the proportion of borough population residing in home rule and first class cities located in the borough.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to the duties prescribed by ordinance, the planning commission shall</p>
+              </content>
+              <paragraph eId="29-40-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>prepare and submit to the assembly a proposed comprehensive plan in accordance with
+AS 29.40.030
+for the systematic and organized development of the borough;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>review, recommend, and administer measures necessary to implement the comprehensive plan, including measures provided under
+AS 29.40.040
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-030">
+            <num>29.40.030</num>
+            <heading>Comprehensive plan.</heading>
+            <subsection eId="29-40-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The comprehensive plan is a compilation of policy statements, goals, standards, and maps for guiding the physical, social, and economic development, both private and public, of the first or second class borough, and may include, but is not limited to, the following:</p>
+              </content>
+              <paragraph eId="29-40-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>statements of policies, goals, and standards;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a land use plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a community facilities plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a transportation plan; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>recommendations for implementation of the comprehensive plan.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-40-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>With the recommendations of the planning commission, the assembly shall adopt by ordinance a comprehensive plan.  The assembly shall, after receiving the recommendations of the planning commission, periodically undertake an overall review of the comprehensive plan and update the plan as necessary.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-040">
+            <num>29.40.040</num>
+            <heading>Land use regulation.</heading>
+            <subsection eId="29-40-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In accordance with a comprehensive plan adopted under
+AS 29.40.030
+and in order to implement the plan, the assembly by ordinance shall adopt or amend provisions governing the use and occupancy of land that may include, but are not limited to,</p>
+              </content>
+              <paragraph eId="29-40-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>zoning regulations restricting the use of land and improvements by geographic districts;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>land use permit requirements designed to encourage or discourage specified uses and construction of specified structures, or to minimize unfavorable effects of uses and the construction of structures;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>measures to further the goals and objectives of the comprehensive plan.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-40-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A variance from a land use regulation adopted under this section may not be granted if</p>
+              </content>
+              <paragraph eId="29-40-040__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>special conditions that require the variance are caused by the person seeking the variance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-040__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the variance will permit a land use in a district in which that use is prohibited; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-040__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the variance is sought solely to relieve pecuniary hardship or inconvenience.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-050">
+            <num>29.40.050</num>
+            <heading>Appeals from administrative decisions.</heading>
+            <subsection eId="29-40-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>By ordinance the assembly shall provide for an appeal from an administrative decision of a municipal employee, board, or commission made in the enforcement, administration, or application of a land use regulation adopted under this chapter. The assembly may provide for an appeal to a court, hearing officer, board of adjustment, or other body.  The assembly shall provide for an appeal from a decision on a request for a variance from the terms of a land use regulation when literal enforcement would deprive a property owner of rights commonly enjoyed by other properties in the district.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>By ordinance the assembly may provide for appointment of a hearing officer, or for the composition, appointment, and terms of office of a board of adjustment or other body established to hear appeals from administrative actions.  The assembly may define proper parties and prescribe evidentiary rules, standards of review, and remedies available to the hearing officer, board of adjustment, or other body.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-060">
+            <num>29.40.060</num>
+            <heading>Judicial review.</heading>
+            <subsection eId="29-40-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The assembly shall provide by ordinance for an appeal by a municipal officer or person aggrieved from a decision of a hearing officer, board of adjustment, or other body to the superior court.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An appeal to the superior court under this section is an administrative appeal heard solely on the record established by the hearing officer, board of adjustment, or other body.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-070">
+            <num>29.40.070</num>
+            <heading>Platting regulation.</heading>
+            <content>
+              <p>Sec. 29.40.070.   Platting regulation.
+By ordinance the assembly shall adopt platting requirements that may include, but are not limited to, the control of
+(1) form, size, and other aspects of subdivision, dedications, and vacations of land;
+(2) dimensions and design of lots;
+(3) street width, arrangement, and rights-of-way, including requirements for public access to lots and installation of street paving, curbs, gutters, sidewalks, sewers, water lines, drainage, and other public utility facilities and improvements;
+(4) dedication of streets, rights-of-way, public utility easements and areas considered necessary by the platting authority for other public uses.</p>
+            </content>
+          </section>
+          <section eId="sec_29-40-080">
+            <num>29.40.080</num>
+            <heading>Platting authority.</heading>
+            <subsection eId="29-40-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The assembly by ordinance shall establish a platting authority to administer subdivision regulations and to perform other duties as required by the assembly. The platting authority may consist of members of the planning commission or of other municipal residents.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The assembly may by ordinance provide for an administrative official to act as the platting authority with regard to abbreviated plats.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The assembly may by ordinance allow the platting authority to approve a division of a tract or parcel of land that has not previously received platting approval.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-090">
+            <num>29.40.090</num>
+            <heading>Abbreviated plats and waivers.</heading>
+            <subsection eId="29-40-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding other provisions of this chapter, the assembly shall by ordinance establish an abbreviated plat procedure for a plat that will</p>
+              </content>
+              <paragraph eId="29-40-090__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>subdivide a single lot into not more than four lots;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-090__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provide legal and physical access to a public highway or street for each lot created by the subdivision;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-090__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>not contain or require a dedication of a street, right-of-way, or other area;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-090__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>not require a vacation of a public dedication of land or a variance from a subdivision regulation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-40-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The platting authority shall waive the preparation, submission for approval, filing, and recording of a plat on satisfactory evidence that the subdivision meets the requirements of (a) of this section and each lot created by the subdivision is five acres or larger.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-100">
+            <num>29.40.100</num>
+            <heading>Information required.</heading>
+            <content>
+              <p>Sec. 29.40.100.   Information required.
+A plat must show
+(1) initial point of survey;
+(2) original or reestablished corners and their descriptions;
+(3) actual traverse showing area of closure and all distances, angles, and calculations required to determine initial point, corners, and distances of the plat; and
+(4) other information that may be required by ordinance.</p>
+            </content>
+          </section>
+          <section eId="sec_29-40-110">
+            <num>29.40.110</num>
+            <heading>Plat procedure.</heading>
+            <subsection eId="29-40-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The platting authority shall approve or disapprove a plat within 60 days after it is filed, or shall return it to the applicant for modification or correction.  Unless the applicant for plat approval consents to an extension of time, the plat is considered approved and a certificate of approval shall be issued by the platting authority on demand if the platting authority fails to act within 60 days.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The platting authority shall state in writing its reasons for disapproval of a plat.  If the platting authority approves a plat, the plat shall be acknowledged, filed, and recorded in accordance with
+AS 40.15.010
+  40.15.020.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-120">
+            <num>29.40.120</num>
+            <heading>Alteration or replat petition.</heading>
+            <content>
+              <p>Sec. 29.40.120.   Alteration or replat petition.
+A recorded plat may not be altered or replatted except by the platting authority on petition of the state, the borough, a public utility, or the owners of a majority of the land affected by the alteration or replat.  A platted street may not be vacated, except on petition of the state, the borough, a public utility, or owners of a majority of the land fronting the part of the street sought to be vacated.  The petition shall be filed with the platting authority and shall be accompanied by a copy of the existing plat showing the proposed alteration or replat.</p>
+            </content>
+          </section>
+          <section eId="sec_29-40-130">
+            <num>29.40.130</num>
+            <heading>Notice of hearing.</heading>
+            <content>
+              <p>Sec. 29.40.130.   Notice of hearing.
+The platting authority shall fix a time for a hearing on an alteration or replat petition that may not be more than 60 days after the petition is filed.  Notice shall be published by the platting authority stating when and by whom the petition was filed, its purpose, and the time and place of the hearing.  The notice must generally describe the alteration or replat sought. The platting authority shall also mail a copy of the notice to each affected property owner who did not sign the petition.</p>
+            </content>
+          </section>
+          <section eId="sec_29-40-140">
+            <num>29.40.140</num>
+            <heading>Hearing and determination.</heading>
+            <subsection eId="29-40-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The platting authority shall consider the alteration or replat petition at a hearing and make its decision on the merits of the proposal.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Vacation of a city street may not be made without the consent of the council.  Vacation of a street in the borough area outside all cities may not be made without the consent of the assembly.  The governing body shall have 30 days from the decision of the platting authority in which to veto a vacation of a street.  If no veto is received by the platting authority within the 30-day period, consent is considered to have been given to the vacation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-150">
+            <num>29.40.150</num>
+            <heading>Recording.</heading>
+            <content>
+              <p>Sec. 29.40.150.   Recording.
+If the alteration or replat is approved, the revised plat shall be acknowledged, filed, and recorded in accordance with
+AS 40.15.010
+  40.15.020.</p>
+            </content>
+          </section>
+          <section eId="sec_29-40-160">
+            <num>29.40.160</num>
+            <heading>Title to vacated area.</heading>
+            <subsection eId="29-40-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The title to the street or other public area vacated on a plat attaches to the lot or land bordering the area in equal proportions, except that if the area was originally dedicated by different persons, original boundary lines shall be adhered to so that the street area that lies on one side of the boundary line shall attach to the abutting property on that side, and the street area that lies on the other side of the boundary line shall attach to the property on that side.  The portion of a vacated street that lies inside the limits of a platted addition attaches to the lots of the platted addition bordering on the area.  If a public square is vacated, the title to it vests in a city if it lies inside the city, and in the borough if it lies inside the borough but outside all cities. If the property vacated is a lot, title vests in the rightful owner.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the municipality acquired the street or other public area vacated for legal consideration or by express dedication to the municipality other than as a subdivision platting requirement, before the final act of vacation the fair market value of the street or public area shall be deposited with the platting authority to be paid to the municipality on final vacation.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-160__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The provisions of (a) and (b) of this section apply to home rule and general law municipalities.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-160__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The council of a second class city located outside a borough may vacate streets, alleys, crossings, sidewalks, or other public ways that may have been previously dedicated or established when the council finds that the streets, alleys, crossings, sidewalks, or other public ways are no longer necessary for the public welfare, or when the public welfare will be enhanced by the vacation.  If the council determines that all or a portion of the area vacated under this subsection should be devoted to another public purpose, title to the area vacated and held for another public purpose does not vest as provided in (a) of this section but remains in the city.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-170">
+            <num>29.40.170</num>
+            <heading>Delegations.</heading>
+            <content>
+              <p>Sec. 29.40.170.   Delegations.
+The planning commission and the platting authority may, as authorized by ordinance, delegate powers to hear and decide cases under this chapter, including delegations to
+(1) one or more members of the planning commission or platting authority;
+(2) other boards or commissions;
+(3) a hearing officer designated by the planning commission or platting authority.</p>
+            </content>
+          </section>
+          <section eId="sec_29-40-180">
+            <num>29.40.180</num>
+            <heading>Prohibited acts; criminal penalties.</heading>
+            <subsection eId="29-40-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The owner of land located in a subdivision may not transfer, sell, offer to sell, or enter into a contract to sell land in a subdivision before a plat of the subdivision has been prepared, approved, filed, and recorded in accordance with this chapter.  A person may not file or record a plat or other document depicting subdivided land in a public recorder's office unless the plat or document has been approved by the platting authority.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the violation of a provision of this chapter, a subdivision regulation adopted under this chapter, or a term, condition, or limitation imposed by a platting authority in the exercise of its powers under this chapter, a municipality may by ordinance prescribe a penalty not to exceed a fine of $1,000 and imprisonment for 90 days.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-190">
+            <num>29.40.190</num>
+            <heading>Civil remedies and penalties.</heading>
+            <subsection eId="29-40-190__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The municipality or an aggrieved person may institute a civil action against a person who violates a provision of this chapter, a subdivision regulation adopted under this chapter, or a term, condition, or limitation imposed by a platting authority.  In addition to other relief, a civil penalty not to exceed $1,000 may be imposed for each violation.  An action to enjoin a violation may be brought notwithstanding the availability of any other remedy.  Upon application for injunctive relief and a finding of a violation or threatened violation, the superior court shall grant the injunction.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-190__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each day that an unlawful act or condition continues constitutes a separate violation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-40-200">
+            <num>29.40.200</num>
+            <heading>Subdivisions of state land.</heading>
+            <subsection eId="29-40-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The subdivision requirements adopted under this chapter apply to a subdivision plat of undeveloped state land for disposal under
+AS 38.05
+or
+AS 38.08
+filed with the platting authority. Subdivision ordinances and regulations adopted after the platting authority is notified by the commissioner of natural resources of a proposed sale of subdivided state land under
+AS 38.05
+or
+AS 38.08
+do not apply to the state land in the proposed sale.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The platting authority shall approve and sign a subdivision plat of state land within 60 days after its receipt from the commissioner of natural resources unless the platting authority</p>
+              </content>
+              <paragraph eId="29-40-200__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>determines that the plat does not comply with subdivision requirements; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-40-200__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>notifies the commissioner of each determination of noncompliance within the 60-day period established in this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-40-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner of natural resources may withdraw the subdivision plat and amend it in response to the determination of noncompliance by the platting authority under (b) of this section.  The platting authority shall respond within 30 days to the amendment or response from the commissioner of natural resources.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-200__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Nothing in this section relieves the Department of Natural Resources of its obligations to provide legal access to a subdivision.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-40-200__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>This section applies to home rule and general law municipalities.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-30"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="15.30"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_15">
+        <num>15</num>
+        <heading>Elections</heading>
+        <chapter eId="title_15__chp_30">
+          <num>30</num>
+          <heading>National Elections</heading>
+          <section eId="sec_15-30-010">
+            <num>15.30.010</num>
+            <heading>Provision for selection of electors.</heading>
+            <content>
+              <p>Sec. 15.30.010.   Provision for selection of electors.
+Electors of President and Vice President of the United States are selected by election at the general election in presidential election years, in the manner and as determined by the ranked-choice method of tabulating votes described in
+AS 15.15.350
+ 15.15.370.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-020">
+            <num>15.30.020</num>
+            <heading>Number and manner of selecting candidates.</heading>
+            <content>
+              <p>Sec. 15.30.020.   Number and manner of selecting candidates.
+Each political party shall select a number of candidates for electors of President and Vice-President of the United States equal to the number of senators and representatives to which the state is entitled in Congress. The candidates for electors shall be selected by the state party convention or in any other manner prescribed by the bylaws of the party. The chairperson and secretary of the state convention or any other party official designated by the party bylaws shall certify a list of the names of candidates for electors to the director on or before September 1 in presidential election years.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-025">
+            <num>15.30.025</num>
+            <heading>Qualifications for limited political parties.</heading>
+            <subsection eId="15-30-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A limited political party may be organized for the purpose of selecting candidates for electors of President and Vice-President of the United States by filing with the director at least 90 days before a presidential general election a petition signed by qualified voters of the state equaling in number at least one percent of the number of voters who cast ballots for President at the last presidential election.  The petition shall state that the signers intend to organize a limited political party, that they intend to select candidates for electors of President and Vice-President of the United States at the next succeeding presidential election, and the name of the limited political party.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-30-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A limited political party organized under this section may not assume a name which is so similar to an existing political party as to confuse or mislead the voters at an election.  If the director determines that the name of the limited political party set out in a petition is confusing or misleading, the director may refuse to accept the petition for filing.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-30-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A limited political party organized under this section ceases to be a limited political party if its presidential candidate fails to receive at least three percent of the number of voters who cast ballots for the office of President at a presidential election.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-30-026">
+            <num>15.30.026</num>
+            <heading>Qualifications for independent candidates for President of the United States; selection of candidate for Vice-President; selection of electors.</heading>
+            <subsection eId="15-30-026__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who desires to be an independent candidate for President of the United States must file with the director not earlier than January 1 of a presidential election year and not later than the 90th day before a presidential general election a petition signed by qualified voters of the state equal in number to at least one percent of the number of voters who cast ballots in an election under this chapter for President of the United States at the last presidential general election. The petition must state that the signers desire the named candidate for President of the United States to appear on the ballot as an independent candidate for president at the next succeeding presidential general election.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-30-026__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In order to appear on the ballot, a candidate who has qualified for ballot status under (a) of this section shall certify the following information to the director on or before September 1 of the year of the presidential general election:</p>
+              </content>
+              <paragraph eId="15-30-026__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the names of the electors for the independent candidate for President of the United States, equal to the number of senators and representatives to which the state is entitled in Congress;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-30-026__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the name of a candidate for Vice-President, selected by the independent candidate; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-30-026__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the name, Alaska mailing address, and signature of the candidate's state campaign chair, who must be a state resident.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_15-30-030">
+            <num>15.30.030</num>
+            <heading>Qualification of electors.</heading>
+            <content>
+              <p>Sec. 15.30.030.   Qualification of electors.
+Any qualified voter except a United States senator or representative or person holding an office of trust or profit under the United States may be selected as a candidate for elector.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-040">
+            <num>15.30.040</num>
+            <heading>Requirement of party pledge.</heading>
+            <content>
+              <p>Sec. 15.30.040.   Requirement of party pledge.
+The party shall require from each candidate for elector a pledge that as an elector the person will vote for the candidates nominated by the party of which the person is a candidate.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-050">
+            <num>15.30.050</num>
+            <heading>Interpretation of votes cast for candidates for President and Vice-President.</heading>
+            <content>
+              <p>Sec. 15.30.050.   Interpretation of votes cast for candidates for President and Vice-President.
+In voting for presidential electors, a vote marked for the candidates for President and Vice-President is considered and counted as a vote for the presidential electors of the party or for the presidential electors named under
+AS 15.30.026
+, as appropriate.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-060">
+            <num>15.30.060</num>
+            <heading>Notification of electors.</heading>
+            <content>
+              <p>Sec. 15.30.060.   Notification of electors.
+When the results of the election of presidential electors have been determined, the director shall send a certificate of election to each elector and shall notify the electors of the time and place of their meeting and of their duties as electors.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-070">
+            <num>15.30.070</num>
+            <heading>Place and time of meeting.</heading>
+            <content>
+              <p>Sec. 15.30.070.   Place and time of meeting.
+The electors shall meet at the office of the director or other place designated by the director at 11:00 o'clock in the morning on the first Monday after the second Wednesday in December following their election. If Congress fixes a different day for the meeting, the electors shall meet on the day designated by the Act of Congress.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-080">
+            <num>15.30.080</num>
+            <heading>Filling of vacancies.</heading>
+            <content>
+              <p>Sec. 15.30.080.   Filling of vacancies.
+If there is a vacancy caused by death, failure to attend, ineligibility, or other cause, and if available alternates have not been designated, the electors shall fill the vacancy by plurality vote.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-090">
+            <num>15.30.090</num>
+            <heading>Duties of electors.</heading>
+            <content>
+              <p>Sec. 15.30.090.   Duties of electors.
+After any vacancies have been filled, the electors shall proceed to cast their votes for the candidates for the office of President and Vice-President of the party that selected them as candidates for electors, or for the candidates for the office of President and Vice-President under
+AS 15.30.026
+if the electors were named under
+AS 15.30.026
+, and shall perform the duties of electors as required by the constitution and laws of the United States. The director shall provide administrative services and the Department of Law shall provide legal services necessary for the electors to perform their duties.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-100">
+            <num>15.30.100</num>
+            <heading>Compensation of electors.</heading>
+            <content>
+              <p>Sec. 15.30.100.   Compensation of electors.
+Each elector is entitled to receive from the state treasury the same per diem and travel expenses allowed members of the legislature.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-110">
+            <num>15.30.110</num>
+            <heading>Provisions for election of United States senators.</heading>
+            <content>
+              <p>Sec. 15.30.110.   Provisions for election of United States senators.
+A United States senator shall be elected at the general election held in the year 1960 and at the general election every sixth year thereafter.  A United States senator shall be elected at the general election held in the year 1962 and at the general election every sixth year thereafter.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-120">
+            <num>15.30.120</num>
+            <heading>Provisions for election of United States representatives.</heading>
+            <content>
+              <p>Sec. 15.30.120.   Provisions for election of United States representatives.
+A United States representative in Congress shall be elected from each congressional district at the general election in 1960 and at the general election every second year thereafter.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-150">
+            <num>15.30.150</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 15.30.150.   Short title.
+AS 15.30.150
+ 15.30.190 shall be known and may be cited as The Alaska Congressional Ballot Access Limitation Act of 1993.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-160">
+            <num>15.30.160</num>
+            <heading>Findings and declarations.</heading>
+            <content>
+              <p>Sec. 15.30.160.   Findings and declarations.
+The people of the State of Alaska hereby find and declare as follows:
+(1) federal officeholders who remain in office for extended periods of time become preoccupied with their own reelection and for that reason devote more effort to campaigning for their office than making legislative decisions for the benefit of the people of Alaska;
+(2) federal officeholders have become to closely aligned with the special interest groups who provide contributions and support for their reelection campaigns, give them special favors, and lobby the House of Representatives and Senate for special interest legislation, all of which create corruption or the appearance of corruption of the legislative system;
+(3) entrenched incumbency has discouraged qualified citizens from seeking office and has led to a lack of competitiveness and a decline in robust debate on issues of importance to the people of Alaska;
+(4) due to the appearance of corruption and the lack of competition for the legislative seats held by the entrenched incumbents, there has been a reduction in voter participation which is counter-productive in a representative democracy;
+(5) the citizens of Alaska have a compelling interest in preventing corruption and the appearance of corruption by limiting the number of terms which any Senator or Representative representing the people of this state may serve;
+(6) the citizens of Alaska have a compelling interest in preserving the integrity of the ballot by promoting competitive elections and limiting the influence of special interests upon entrenched incumbent legislators;
+(7) the citizens of Alaska have a compelling interest in voting for the candidate or candidates of their choice, and in standing for and holding elective office, and in preventing the perpetual monopolization of elective offices by incumbents;
+(8) the citizens of Alaska have a compelling interest in extending the equal protection of the laws by ensuring that more of the people of this state have an equal opportunity to stand for and hold elective office.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-170">
+            <num>15.30.170</num>
+            <heading>Purpose and intent.</heading>
+            <content>
+              <p>Sec. 15.30.170.   Purpose and intent.
+The purpose and intent in enacting
+AS 15.30.150
+ 15.30.190 is to:
+(1) promote, protect, and defend the compelling interest of the citizens of this state in preventing corruption and the appearance of corruption among the federal legislative representatives of this state by limiting the number of terms in which any Senator or Representative may hold office;
+(2) promote, protect, and defend the compelling interest of the citizens of this state in preserving the integrity of the ballot by ensuring, to the greatest extent permitted by law, competitive elections without the corrupting influence of special interests upon entrenched incumbents;
+(3) promote, protect and defend the rights of the citizens of this state, guaranteed by the First Amendment of the United States Constitution, to vote for the candidates of their choice, and to stand for and hold elective office, by curtailing the effects of entrenched incumbency and freely permitting write-in candidacies;
+(4) promote, protect, and defend the rights of the citizens of this state for equal protection of the laws, guaranteed by the Fourteenth Amendment to the United States Constitution, by giving more of the citizens of this state the opportunity to stand for and hold elective office;
+(5) ensure that when this measure does become operative, it is given the maximum retrospective effect permitted by applicable law in order to prevent the perpetuation of a professional, federal office-seeking and office-holding class.</p>
+            </content>
+          </section>
+          <section eId="sec_15-30-180">
+            <num>15.30.180</num>
+            <heading>Federal legislative candidates; ballot access.</heading>
+            <subsection eId="15-30-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subsections (b) and (c) of this section shall take effect only when twenty-four (24) states, not including this state, have enacted and have in simultaneous effect statutes, state constitutional provisions, ordinances and other enactments having the force and effect of law, the operative dates of which may be contingent upon the enactment of similar statutes, constitutional provisions, ordinances or other enactments in any number of other states, which limit either ballot access of persons seeking federal legislative office, or the number of terms or years of federal legislative office a person may hold, or both, based upon a person's length of service in federal legislative office; provided, however, that when subsections (b) and (c) of this section have once taken effect, the subsequent repeal, amendment, deletion by means of a sunset provision, or judicial determination of unconstitutionality or invalidity of another state's statute, state constitutional provision, ordinance other enactment ineffective or void, shall not affect the validity or effectiveness of subsections (b) and (c) of this section, which shall remain in full force and effect until repealed or otherwise rendered ineffective under the law of this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-30-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person is not eligible to place or to have the person's name placed upon the ballot for election to the United States House of Representatives if, by the end of the then current term of office, the person will have served, or but for resignation would have served, as a member of the United States House of Representatives representing any portion or district of the State of Alaska during six or more of the previous twelve years.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-30-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person is not eligible to place or to have the person's name placed upon the ballot for election to the United States Senate if, by the end of the then current term of office, the person will have served, or but for resignation would have served, as a member of the United States Senate representing any portion or district of the State of Alaska during twelve or more of the previous eighteen years.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-30-180__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The provisions of this section shall, to the maximum extent permitted by applicable law, be interpreted as having retrospective effect from and after the date of its enactment upon any member of the United States House of Representatives or United States Senate elected at the election held on November 8, 1994, or at any election held thereafter; provided, however, that years of service completed during a term of office which commenced prior to November 8, 1994 may not be included in determining previous years of service for the purposes of subsections (b) or (c) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-30-180__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Nothing in
+AS 15.30.100
+ 15.30.190 shall be construed as preventing or prohibiting any qualified voter of this state from casting a ballot for any person by writing the name of that person on the ballot, or from having such a ballot counted or tabulated, nor shall any provision of
+AS 15.30.100
+15.30.190 be construed as preventing or prohibiting any person from standing or campaigning for any elective office by means of a write-in campaign.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-30-180__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Nothing in this section shall be construed as preventing or prohibiting the name of any person from appearing on the ballot at any direct primary or general election unless that person is specifically prohibited from doing so by the provisions of this section and to that end any such prohibiting provisions shall be strictly construed.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-30-180__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The members of the United States House of Representatives and United States Senate representing any district or portion of Alaska are instructed to use their best efforts to attain such a limitation on terms nationwide.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-30-180__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>AS 15.30.150
+ 15.30.190 shall take effect and be applicable to federal legislative candidates whose terms of office begin on or after January 1, 1995. Service prior to January 1, 1995 shall not be counted for the purpose of
+AS 15.30.150
+15.30.190. In the event of conflict with (a) of this section, the provisions under (a) shall govern.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-30-190">
+            <num>15.30.190</num>
+            <heading>Severability.</heading>
+            <content>
+              <p>Sec. 15.30.190.   Severability.
+If any provision, subsection, part of the subsection, or clause of
+AS 15.30.150
+ 15.30.190 shall be held by a court of competent jurisdiction to be void, invalid, or unconstitutional for any reason, the remaining provisions of
+AS 15.30.150
+ 15.30.190 shall not be affected, and to this end the provisions of
+AS 15.30.150
+ 15.30.190 are severable.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

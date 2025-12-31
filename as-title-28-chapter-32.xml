@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-32"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-32"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="28.32"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-32/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-32/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-32/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-32/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_28">
+        <num>28</num>
+        <heading>Motor Vehicles</heading>
+        <chapter eId="title_28__chp_32">
+          <num>32</num>
+          <heading>Commercial Motor Vehicle Safety Citations</heading>
+          <section eId="sec_28-32-010">
+            <num>28.32.010</num>
+            <heading>Commercial motor vehicle safety citations.</heading>
+            <subsection eId="28-32-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>[Repealed, § 16 E.O. 98 (1997). For current law, see
+AS 19.10.310
+.]</p>
+              </content>
+            </subsection>
+            <subsection eId="28-32-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A peace officer, or an employee of the Department of Public Safety who is authorized by the commissioner of that department to enforce both hazardous materials and commercial vehicle safety regulations, may issue a citation under
+AS 12.25.175
+ 12.25.230 to a person who violates a regulation adopted under
+AS 28.05.011
+(a)(2). An employee of the Department of Public Safety who is authorized by the commissioner of public safety to enforce both hazardous materials and commercial vehicle safety regulations may not take a person into custody under
+AS 12.25.180
+(b).</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

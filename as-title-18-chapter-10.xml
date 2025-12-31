@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-10"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.10"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_10">
+          <num>10</num>
+          <heading>Health Units and Districts</heading>
+          <section eId="sec_18-10-010">
+            <num>18.10.010</num>
+            <heading>Local health unit and health board.</heading>
+            <content>
+              <p>Sec. 18.10.010.   Local health unit and health board.
+Each community or settlement outside an incorporated city is a health unit.  In each health unit there shall be a board of health composed of the president of the school board and two citizens of the unit selected by the school board.  At least one of the members of the health board must, where practicable, be a licensed physician.  In a health unit where there is no school board, the commissioner shall appoint three residents of the unit to the local board of health, at least one member of which must, where practicable, be a licensed physician.</p>
+            </content>
+          </section>
+          <section eId="sec_18-10-020">
+            <num>18.10.020</num>
+            <heading>Health unit in incorporated city.</heading>
+            <content>
+              <p>Sec. 18.10.020.   Health unit in incorporated city.
+AS 18.10.010
+applies to an incorporated city unless the city otherwise provides for the establishment and maintenance of a local board of health or a health officer.</p>
+            </content>
+          </section>
+          <section eId="sec_18-10-030">
+            <num>18.10.030</num>
+            <heading>Health units in Native villages and communities.</heading>
+            <content>
+              <p>Sec. 18.10.030.   Health units in Native villages and communities.
+In a Native village, or community composed largely of Natives, where the formation of a board of health is impracticable, the commissioner may delegate to a representative of the Alaska Native Service the authority granted to the local boards of health.</p>
+            </content>
+          </section>
+          <section eId="sec_18-10-040">
+            <num>18.10.040</num>
+            <heading>Health districts.</heading>
+            <content>
+              <p>Sec. 18.10.040.   Health districts.
+Two or more contiguous health units of two or more local boards of health for contiguous incorporated cities may be constituted a health district by the department.  Members of the board of health for this type of health district shall be appointed by the department from residents of each health unit or incorporated city represented in the health district in the numbers and for the periods of time determined by the department.</p>
+            </content>
+          </section>
+          <section eId="sec_18-10-050">
+            <num>18.10.050</num>
+            <heading>Commissioner to supervise local health boards.</heading>
+            <content>
+              <p>Sec. 18.10.050.   Commissioner to supervise local health boards.
+Each local board of health whether inside or outside incorporated cities, and each representative of the Alaska Native Service acting in the capacity of health officer is responsible to and under the supervision of the commissioner.</p>
+            </content>
+          </section>
+          <section eId="sec_18-10-260">
+            <num>18.10.260</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.10.260.   Definitions.
+In this chapter,
+(1) commissioner means the commissioner of health;
+(2) department means the Department of Health.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-30"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="16.30"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_16">
+        <num>16</num>
+        <heading>Fish and Game</heading>
+        <chapter eId="title_16__chp_30">
+          <num>30</num>
+          <heading>Destruction of Big Game Animals and Wild Fowl</heading>
+          <section eId="sec_16-30-010">
+            <num>16.30.010</num>
+            <heading>Wanton waste of big game animals and wild fowl.</heading>
+            <subsection eId="16-30-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is a class A misdemeanor for a person who kills a big game animal or a species of wild fowl to fail intentionally, knowingly, recklessly, or with criminal negligence to salvage for human consumption the edible meat of the animal or fowl.</p>
+              </content>
+            </subsection>
+            <subsection eId="16-30-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a person is convicted of violating this section and in the course of that violation failed to salvage from a big game animal at least the hindquarters as far as the distal joint of the tibia-fibula (hock), the court shall impose a sentence of imprisonment of not less than seven consecutive days and a fine of not less than $2,500.</p>
+              </content>
+            </subsection>
+            <subsection eId="16-30-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The imposition or execution of the minimum sentence prescribed in (b) of this section may not be suspended under
+AS 12.55.080
+or 12.55.085.  The minimum sentence prescribed in (b) of this section may not be reduced.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_16-30-012">
+            <num>16.30.012</num>
+            <heading>Possession of horns or antlers.</heading>
+            <subsection eId="16-30-012__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is a class A misdemeanor for a person to possess the horns or antlers of a big game animal that was killed after the opening of the current or most recent lawful hunting season for that animal if the person does not possess the edible meat of the animal.</p>
+              </content>
+            </subsection>
+            <subsection eId="16-30-012__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not be arrested or prosecuted for a violation of this section unless the arresting officer determines that there is probable cause to believe that the edible meat of the big game animal from which the horns or antlers were taken has not been salvaged.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_16-30-015">
+            <num>16.30.015</num>
+            <heading>Surrender of salvaged portions, license forfeiture.</heading>
+            <content>
+              <p>Sec. 16.30.015.   Surrender of salvaged portions, license forfeiture.
+A person convicted of violating
+AS 16.30.010
+(1) shall surrender to the department all salvaged portions of the animal or fowl;
+(2) forfeits the convicted person's hunting license;
+(3) is ineligible to hold a hunting license for
+(A) the year in which the conviction is entered and the year following the year in which the conviction is entered;
+(B) a period of five years from the date of the conviction if the person has failed to salvage from a big game animal at least the hindquarters as far as the distal joint of the tibia-fibula (hock).</p>
+            </content>
+          </section>
+          <section eId="sec_16-30-017">
+            <num>16.30.017</num>
+            <heading>Defenses.</heading>
+            <subsection eId="16-30-017__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is a defense to a criminal charge under
+AS 16.30.010
+or 16.30.012 that the failure to salvage or possess the edible meat was due to circumstances beyond the control of the person charged, including</p>
+              </content>
+              <paragraph eId="16-30-017__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>theft of the animal or fowl;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="16-30-017__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>unanticipated weather conditions or other acts of God;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="16-30-017__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>unavoidable loss in the field to another wild animal.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="16-30-017__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is a defense to a criminal charge under
+AS 16.30.012
+that the defendant does not possess the edible meat of the big game animal because the meat was</p>
+              </content>
+              <paragraph eId="16-30-017__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>consumed by human beings; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="16-30-017__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>delivered to another person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="16-30-017__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, delivered means given, sold, or bartered in a manner that does not violate state or federal law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_16-30-020">
+            <num>16.30.020</num>
+            <heading>Board may exempt animals.</heading>
+            <content>
+              <p>Sec. 16.30.020.   Board may exempt animals.
+The provisions of
+AS 16.30.010
+and 16.30.012 do not apply to animals that the board exempts by regulation.</p>
+            </content>
+          </section>
+          <section eId="sec_16-30-030">
+            <num>16.30.030</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 16.30.030.   Definitions.
+In this chapter,
+(1) big game animal means moose, caribou, mountain sheep, mountain goat, feral reindeer, deer, elk, bison, walrus, or musk ox;
+(2) criminal negligence means criminal negligence as defined in
+AS 11.81.900
+(a)(4);
+(3) edible meat means, in the case of big game animals, the meat of the ribs, neck, brisket, front quarters as far as the distal joint of the radius-ulna (knee), hindquarters as far as the distal joint of the tibia-fibula (hock), and that portion of the animal between the front and hindquarters; in the case of wild fowl, the meat of the breast; however, edible meat of big game or wild fowl does not include
+(A) meat of the head;
+(B) meat that has been damaged and made inedible by the method of taking;
+(C) bones, sinew, and incidental meat reasonably lost as a result of boning or a close trimming of the bones;
+(D) viscera;
+(4) intentionally means intentionally as defined in
+AS 11.81.900
+(a)(1);
+(5) knowingly means knowingly as defined in
+AS 11.81.900
+(a)(2);
+(6) possess the edible meat includes possessing portions of the edible meat in more than one location while the meat is being transported from the place where it was salvaged;
+(7) recklessly means recklessly as defined in
+AS 11.81.900
+(a)(3);
+(8) wild fowl means species of wild fowl for which seasons or bag limits have been established by state or federal law.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

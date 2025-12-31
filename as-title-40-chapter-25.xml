@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-40/chapter-25"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-40/chapter-25"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="40.25"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-40/chapter-25/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-40/chapter-25/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-40/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-40/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_40">
+        <num>40</num>
+        <heading>Public Records and Recorders</heading>
+        <chapter eId="title_40__chp_25">
+          <num>25</num>
+          <heading>Public Record Disclosures</heading>
+          <section eId="sec_40-25-100">
+            <num>40.25.100</num>
+            <heading>Disposition of tax information.</heading>
+            <subsection eId="40-25-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Information in the possession of the Department of Revenue that discloses the particulars of the business or affairs of a taxpayer or other person, including information under
+AS 38.05.020
+(b)(11) that is subject to a confidentiality agreement under
+AS 38.05.020
+(b)(12), is not a matter of public record, except as provided in
+AS 43.05.230</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p> (m) or for purposes of investigation and law enforcement. The information shall be kept confidential except when its production is required in an official investigation, administrative adjudication under
+AS 43.05.405
+ 43.05.499, or court proceeding. These restrictions do not prohibit the publication of statistics presented in a manner that prevents the identification of particular reports and items, prohibit the publication of tax lists showing the names of taxpayers who are delinquent and relevant information that may assist in the collection of delinquent taxes, or prohibit the publication of records, proceedings, and decisions under
+AS 43.05.405
+ 43.05.499.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a copy of a record of tax information is requested under (a) of this section for the purposes of child support administration, the copy may be released only to the child support services agency created in
+AS 25.27.010
+or a child support enforcement agency of another state. The Department of Revenue shall provide the requesting agency with a copy of the record. The requesting agency receiving information under this subsection may use it only for child support purposes authorized under law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_40-25-105">
+            <num>40.25.105</num>
+            <heading>Disclosure of information for compliance with the tobacco product Master Settlement Agreement.</heading>
+            <subsection eId="40-25-105__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding the provisions of
+AS 40.25.100
+(a), the Department of Revenue may disclose information submitted to the Department of Revenue relating to cigarette and tobacco products, cigarette and tobacco product manufacturers, and cigarette and tobacco product retailers to the attorney general and to other parties as the Department of Revenue determines necessary to monitor and enforce compliance by cigarette and tobacco product manufacturers with the tobacco product Master Settlement Agreement described in
+AS 45.53.010
+ 45.53.100.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-105__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person receiving information under this section shall maintain the confidentiality that the Department of Revenue is required to extend under
+AS 43.05.230
+to the returns, reports, documents, determinations, and workpapers furnished to that person under this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_40-25-110">
+            <num>40.25.110</num>
+            <heading>Public records open to inspection and copying; fees.</heading>
+            <subsection eId="40-25-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless specifically provided otherwise, the public records of all public agencies are open to inspection by the public under reasonable rules during regular office hours. The public officer having the custody of public records shall give on request and payment of the fee established under this section or
+AS 40.25.115
+a certified copy of the public record.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in this section, the fee for copying public records may not exceed the standard unit cost of duplication established by the public agency.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the production of records for one requester in a calendar month exceeds five person-hours, the public agency shall require the requester to pay the personnel costs required during the month to complete the search and copying tasks. The personnel costs may not exceed the actual salary and benefit costs for the personnel time required to perform the search and copying tasks. The requester shall pay the fee before the records are disclosed, and the public agency may require payment in advance of the search.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-110__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A public agency may reduce or waive a fee when the public agency determines that the reduction or waiver is in the public interest. Fee reductions and waivers shall be uniformly applied among persons who are similarly situated. A public agency may waive a fee of $5 or less if the fee is less than the cost to the public agency to arrange for payment.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-110__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding other provisions of this section to the contrary, the Bureau of Vital Statistics and the library archives in the Department of Education and Early Development may continue to charge the same fees that they were charging on September 25, 1990, for performing record searches, and may increase the fees as necessary to recover agency expenses on the same basis that was used by the agency immediately before September 25, 1990. Notwithstanding other provisions of this section to the contrary, the Department of Commerce, Community, and Economic Development may continue to charge the same fees that the former Department of Commerce and Economic Development was charging on July 1, 1999, for performing record searches for matters related to banking, securities, and corporations, and may increase the fees as necessary to recover agency expenses on the same basis that was used by the former Department of Commerce and Economic Development immediately before July 1, 1999.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-110__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding other provisions of this section to the contrary, the Board of Regents of the University of Alaska may establish reasonable fees for the inspection and copying of public records, including record searches.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-110__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding other provisions of this section to the contrary, the board of directors of the Alaska Railroad Corporation may establish reasonable fees for the inspection and copying of public records, including record searches.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-110__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Notwithstanding other provisions of this section to the contrary, the judicial branch may establish by court rule reasonable fees for the inspection and copying of public records, including record searches.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-110__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Electronic information that is provided in printed form shall be made available without codes or symbols, unless accompanied by an explanation of the codes or symbols.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_40-25-115">
+            <num>40.25.115</num>
+            <heading>Electronic services and products.</heading>
+            <subsection eId="40-25-115__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding
+AS 40.25.110</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-115__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p> (d) to the contrary, upon request and payment of a fee established under (b) of this section, a public agency may provide electronic services and products involving public records to members of the public. A public agency is encouraged to make information available in usable electronic formats to the greatest extent feasible. The activities authorized under this section may not take priority over the primary responsibilities of a public agency.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-115__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The fee for electronic services and products must be based on recovery of the actual incremental costs of providing the electronic services and products, and a reasonable portion of the costs associated with building and maintaining the information system of the public agency. The fee may be reduced or waived by the public agency if the electronic services and products are to be used for a public purpose, including public agency program support, nonprofit activities, journalism, and academic research. Fee reductions and waivers shall be uniformly applied among persons who are similarly situated.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-115__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (b) of this section, the fee for duplicating a public record in the electronic form kept by a public agency may not exceed the actual incremental costs of the public agency.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-115__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Public agencies shall include in a contract for electronic services and products provisions that</p>
+              </content>
+              <paragraph eId="40-25-115__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>protect the security and integrity of the information system of the public agency and of information systems that are shared by public agencies; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-115__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>limit the liability of the public agency providing the services and products.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="40-25-115__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Each public agency shall notify the state library distribution and data access center established under
+AS 14.56.090
+of the electronic services and products offered by the public agency to the public under this section. The notification must include a summary of the available format options and the fees charged.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-115__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>When offering online access to an electronic file or data base, a public agency also shall provide without charge online access to the electronic file or data base through one or more public terminals.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-115__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Each public agency shall establish the fees for the electronic services and products provided under this section. The governor may cancel the fees established by a public agency in the executive branch, except the fees of the University of Alaska and the Alaska Railroad Corporation, if the governor determines that the fees are unreasonably high.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-115__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A public agency may not make electronic services and products available to one member of the public and withhold them from other members of the public.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-115__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A public agency other than a municipality or the Alaska Railroad Corporation shall separately account for the fees received by the agency under this section and deposited in the general fund. The annual estimated balance in the account may be used by the legislature to make appropriations to the agency to carry out the activities of the agency.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_40-25-120">
+            <num>40.25.120</num>
+            <heading>Public records; exceptions; certified copies.</heading>
+            <subsection eId="40-25-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Every person has a right to inspect a public record in the state, including public records in recorders' offices, except</p>
+              </content>
+              <paragraph eId="40-25-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>records of vital statistics and adoption proceedings, which shall be treated in the manner required by
+AS 18.50
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>records pertaining to juveniles unless disclosure is authorized by law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>medical and related public health records;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>records required to be kept confidential by a federal law or regulation or by state law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>to the extent the records are required to be kept confidential under 20 U.S.C. 1232g and the regulations adopted under 20 U.S.C. 1232g in order to secure or retain federal assistance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>records or information compiled for law enforcement purposes, but only to the extent that the production of the law enforcement records or information
+(A) could reasonably be expected to interfere with enforcement proceedings;
+(B) would deprive a person of a right to a fair trial or an impartial adjudication;
+(C) could reasonably be expected to constitute an unwarranted invasion of the personal privacy of a suspect, defendant, victim, or witness;
+(D) could reasonably be expected to disclose the identity of a confidential source;
+(E) would disclose confidential techniques and procedures for law enforcement investigations or prosecutions;
+(F) would disclose guidelines for law enforcement investigations or prosecutions if the disclosure could reasonably be expected to risk circumvention of the law; or
+(G) could reasonably be expected to endanger the life or physical safety of an individual;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>names, addresses, and other information identifying a person as a participant in the Education Trust of Alaska under
+AS 14.40.802
+or the advance college tuition savings program under
+AS 14.40.803
+ 14.40.817;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>public records containing information that would disclose or might lead to the disclosure of a component in the process used to execute or adopt an electronic signature if the disclosure would or might cause the electronic signature to cease being under the sole control of the person using it;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>[See delayed repeal note]  reports submitted under
+AS 05.25.030
+concerning certain collisions, accidents, or other casualties involving boats;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>records or information pertaining to a plan, program, or procedures for establishing, maintaining, or restoring security in the state, or to a detailed description or evaluation of systems, facilities, or infrastructure in the state, but only to the extent that the production of the records or information
+(A) could reasonably be expected to interfere with the implementation or enforcement of the security plan, program, or procedures;
+(B) would disclose confidential guidelines for investigations or enforcement and the disclosure could reasonably be expected to risk circumvention of the law; or
+(C) could reasonably be expected to endanger the life or physical safety of an individual or to present a real and substantial risk to the public health and welfare;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>[Repealed, § 23 ch. 7 SLA 2018.]</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>records that are
+(A) proprietary, privileged, or a trade secret in accordance with
+AS 43.90.150
+or 43.90.220(e);
+(B) applications that are received under
+AS 43.90
+until notice is published under
+AS 43.90.160
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>information of the Alaska Gasline Development Corporation created under
+AS 31.25.010
+or a subsidiary of the Alaska Gasline Development Corporation that is confidential by law or under a valid confidentiality agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>information under
+AS 38.05.020</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>records relating to proceedings under
+AS 09.58
+(Alaska Medical Assistance False Claim and Reporting Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>names, addresses, and other information identifying a person as a participant in the Alaska savings program for eligible individuals under
+AS 06.65
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>artists' submissions made in response to an inquiry or solicitation initiated by the Alaska State Council on the Arts under
+AS 44.27.060
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-120__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>records that are
+(A) investigative files under
+AS 45.55.910
+; or
+(B) confidential under
+AS 45.56.620
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="40-25-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Every public officer having the custody of records not included in the exceptions shall permit the inspection, and give on demand and on payment of the fees under
+AS 40.25.110
+ 40.25.115 a certified copy of the record, and the copy shall in all cases be evidence of the original.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Recorders shall permit memoranda, transcripts, and copies of the public records in their offices to be made by photography or otherwise for the purpose of examining titles to real estate described in the public records, making abstracts of title or guaranteeing or insuring the titles of the real estate, or building and maintaining title and abstract plants, subject to reasonable rules and regulations as are necessary for the protection of the records and to prevent interference with the regular discharge of the duties of the recorders and their employees.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_40-25-121">
+            <num>40.25.121</num>
+            <heading>Copies of public records for veterans.</heading>
+            <content>
+              <p>Sec. 40.25.121.   Copies of public records for veterans.
+When a copy of a public record is required by the Department of Military and Veterans' Affairs, the Department of Commerce, Community, and Economic Development, or by the United States Department of Veterans Affairs to be used in determining the eligibility of a person to participate in benefits, the official custodian of the public record shall, without charge, provide the applicant for the benefits, a person acting on behalf of the applicant, or an authorized representative of the department or the United States Department of Veterans Affairs with a certified copy of the record.</p>
+            </content>
+          </section>
+          <section eId="sec_40-25-122">
+            <num>40.25.122</num>
+            <heading>Litigation disclosure.</heading>
+            <content>
+              <p>Sec. 40.25.122.   Litigation disclosure.
+A public record that is subject to disclosure and copying under
+AS 40.25.110
+ 40.25.120 remains a public record subject to disclosure and copying even if the record is used for, included in, or relevant to litigation, including law enforcement proceedings, involving a public agency, except that with respect to a person involved in litigation, the records sought shall be disclosed in accordance with the rules of procedure applicable in a court or an administrative adjudication. In this section, involved in litigation means a party to litigation or representing a party to litigation, including obtaining public records for the party.</p>
+            </content>
+          </section>
+          <section eId="sec_40-25-123">
+            <num>40.25.123</num>
+            <heading>Supervision and regulation.</heading>
+            <subsection eId="40-25-123__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Administration shall supervise and adopt regulations for the operation and implementation of
+AS 40.25.110
+ 40.25.140 by public agencies in the executive branch, except the Alaska Railroad Corporation.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-123__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The legislative council shall supervise and adopt procedures for the operation and implementation of
+AS 40.25.110
+ 40.25.140 by public agencies in the legislative branch.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-123__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The administrative director of the Alaska Court System shall supervise and adopt procedures for the operation and implementation of
+AS 40.25.110
+ 40.25.140 by public agencies in the judicial branch.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-123__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Board of Regents of the University of Alaska shall supervise and adopt procedures for the operation and implementation of
+AS 40.25.110
+ 40.25.140 by the University of Alaska.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-123__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The regulations and procedures adopted under this section must include the establishment of procedures for making an administrative appeal of public agency action that is taken under
+AS 40.25.110
+ 40.25.140.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-123__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="40-25-123__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>action includes the calculation of a fee, the denial of a fee reduction or waiver, and the denial of a request to inspect or copy a public record;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-123__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>public agency does not include a municipality.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_40-25-124">
+            <num>40.25.124</num>
+            <heading>Appeals.</heading>
+            <content>
+              <p>Sec. 40.25.124.   Appeals.
+A person may appeal to the superior court the final administrative order made by a public agency under
+AS 40.25.110
+ 40.25.140.</p>
+            </content>
+          </section>
+          <section eId="sec_40-25-125">
+            <num>40.25.125</num>
+            <heading>Enforcement: injunctive relief.</heading>
+            <content>
+              <p>Sec. 40.25.125.   Enforcement: injunctive relief.
+A person having custody or control of a public record who denies, obstructs, or attempts to obstruct, or a person not having custody or control who aids or abets another person in denying, obstructing, or attempting to obstruct, the inspection of a public record subject to inspection under
+AS 40.25.110
+or 40.25.120 may be enjoined by the superior court from denying, obstructing, or attempting to obstruct, the inspection of public records subject to inspection under
+AS 40.25.110
+or 40.25.120. A person may seek injunctive relief under this section without exhausting the person's remedies under
+AS 40.25.123
+ 40.25.124.</p>
+            </content>
+          </section>
+          <section eId="sec_40-25-140">
+            <num>40.25.140</num>
+            <heading>Confidentiality of library records.</heading>
+            <subsection eId="40-25-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section, the names, addresses, or other personal identifying information of people who have used materials made available to the public by a library shall be kept confidential, except upon court order, and are not subject to inspection under
+AS 40.25.110
+or 40.25.120. This section applies to a library operated by the state, a municipality, or a public school, including the University of Alaska.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Records of a public elementary or secondary school library identifying a minor child shall be made available on request to a parent or guardian of that child.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_40-25-151">
+            <num>40.25.151</num>
+            <heading>Confidentiality of retirement records.</heading>
+            <subsection eId="40-25-151__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b)  (d) of this section, public records, including electronic services and products involving public records, containing information about a person and maintained under
+AS 14.25
+,
+AS 22.25
+,
+AS 26.05.222
+ 26.05.229,
+AS 39.35
+, or former
+AS 39.37
+shall be kept confidential and are not subject to inspection or copying under
+AS 40.25.110
+ 40.25.120.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-151__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Records described in (a) of this section concerning a person who is a member or former member of a state retirement system who is still living may only be released to</p>
+              </content>
+              <paragraph eId="40-25-151__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the person or the person's guardian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-151__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the person's employer or former employer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-151__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a state agency authorized to obtain confidential information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-151__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>another person if the person has
+(A) written authorization for release from the affected member or former member or the member's or former member's guardian; or
+(B) a court order or subpoena to obtain the information.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="40-25-151__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Records described in (a) of this section concerning a member or former member of a state retirement system who is deceased or a deceased member's named beneficiary may only be released to</p>
+              </content>
+              <paragraph eId="40-25-151__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the member's named beneficiary or the beneficiary's guardian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-151__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the member's or former member's former employer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-151__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a state agency authorized to obtain confidential information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-151__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the personal representative of the member's or former member's estate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-151__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>another person if the person has
+(A) written authorization for release from the member or former member, the member's named beneficiary, or the personal representative of the member's or former member's estate; or
+(B) a court order or subpoena to secure the information.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="40-25-151__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The name and address of a living person who is a member or former member of a state retirement system may be released to a retirement organization representing persons receiving benefits under a state retirement system if the retirement organization is affiliated with an organization representing employees of the employer under
+AS 23.40.070
+ 23.40.260 (Public Employment Relations Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-151__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section, state retirement system means the teachers' retirement system under
+AS 14.25
+, the judicial retirement system under
+AS 22.25
+, the retirement system for members of the national guard under
+AS 26.05.222
+ 26.05.229, the public employees' retirement system under
+AS 39.35
+, or the elected public officers retirement system under former
+AS 39.37
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_40-25-220">
+            <num>40.25.220</num>
+            <heading>Definitions forAS 40.25.100 40.25.295.</heading>
+            <content>
+              <p>Sec. 40.25.220.   Definitions for
+AS 40.25.100
+ 40.25.295.
+In
+AS 40.25.100
+ 40.25.295, unless the context otherwise requires,
+(1) electronic services and products means computer-related services and products provided by a public agency, including
+(A) electronic manipulation of the data contained in public records in order to tailor the data to the person's request or to develop a product that meets the person's request;
+(B) duplicating public records in alternative formats not used by a public agency, providing periodic updates of an electronic file or data base, or duplicating an electronic file or data base from a geographic information system;
+(C) providing online access to an electronic file or data base;
+(D) providing information that cannot be retrieved or generated by the existing computer programs of the public agency;
+(E) providing functional electronic access to the information system of the public agency; in this subparagraph, functional access includes the capability for alphanumeric query and printing, graphic query and plotting, nongraphic data input and analysis, and graphic data input and analysis;
+(F) providing software developed by a public agency or developed by a private contractor for a public agency;
+(G) generating maps or other standard or customized products from an electronic geographic information system;
+(2) public agency means a political subdivision, department, institution, board, commission, division, authority, public corporation, council, committee, or other instrumentality of the state or a municipality; public agency includes the University of Alaska and the Alaska Railroad Corporation;
+(3) public records means books, papers, files, accounts, writings, including drafts and memorializations of conversations, and other items, regardless of format or physical characteristics, that are developed or received by a public agency, or by a private contractor for a public agency, and that are preserved for their informational value or as evidence of the organization or operation of the public agency; public records does not include proprietary software programs.</p>
+            </content>
+          </section>
+          <section eId="sec_40-25-295">
+            <num>40.25.295</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 40.25.295.   Short title.
+AS 40.25.100
+ 40.25.295 may be cited as the Alaska Public Records Act.</p>
+            </content>
+          </section>
+          <section eId="sec_40-25-300">
+            <num>40.25.300</num>
+            <heading>Notice regarding personal information.</heading>
+            <subsection eId="40-25-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a state agency requests personal information that may be included in a public record directly from the person who is the subject of the information, the agency shall give the person a written notice at the time of the request that states</p>
+              </content>
+              <paragraph eId="40-25-300__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and address of the agency;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the citation of the statute or regulation that authorizes the agency to request the information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a statement indicating whether the person is required to supply the information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the consequences to the person, if any, of not providing all or part of the requested information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a statement of the agency's anticipated uses of the information, including the agency's internal uses of the information and disclosure of the information to other state agencies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the fact that the information may be subject to inspection and copying under
+AS 40.25.110
+ 40.25.120; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>a statement summarizing how a person may challenge under
+AS 40.25.310
+the accuracy or completeness of personal information maintained by a state agency.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="40-25-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An agency may provide the written notice required under (a) of this section by</p>
+              </content>
+              <paragraph eId="40-25-300__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>placing the notice on the form used to request the information from the person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>giving the person the notice on a separate sheet that accompanies the form used to request the information from the person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>giving the person a statement in a pamphlet, booklet, manual, or other printed matter at the time the information on the person is requested; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>prominently posting a sign containing the notice in a prominent location so that the sign can be easily observed and read by the person at the time the information is requested.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="40-25-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section does not apply to a request for information on a person if</p>
+              </content>
+              <paragraph eId="40-25-300__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the request is made by a peace officer; in this paragraph, peace officer has the meaning given in
+AS 01.10.060
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the person is the agency's employee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the information is related to litigation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the information is being collected by a public agency when investigating a possible violation of law; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-300__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the information is not subject to inspection and copying under
+AS 40.25.110
+ 40.25.120, even if the information is eventually subject to inspection and copying under
+AS 18.50.310</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_40-25-310">
+            <num>40.25.310</num>
+            <heading>Information accuracy and completeness.</heading>
+            <subsection eId="40-25-310__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who is the subject of personal information that is maintained by a state agency and subject to public disclosure under
+AS 40.25.110
+ 40.25.140 may challenge the accuracy or completeness of the personal information.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-310__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To challenge the accuracy or completeness of personal information under (a) of this section, the person must file with the state agency a written request that the personal information be changed. The request must provide</p>
+              </content>
+              <paragraph eId="40-25-310__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a description of the challenged personal information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-310__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the changes necessary to make the personal information accurate or complete; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-310__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the person's name and the address where the department may contact the person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="40-25-310__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Within 30 days after receiving a written request made under (b) of this section, the state agency may request verification of the disputed personal information from the person who made the request.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-310__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Within 30 days after receiving the written request under (b) of this section or the verification under (c) of this section, the state agency shall review the request and</p>
+              </content>
+              <paragraph eId="40-25-310__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>change the personal information according to the request and notify the person in writing of the change; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="40-25-310__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>deny the request and notify the person in writing of the reasons for the decision and the name, title, and business address of the person who denied the request.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="40-25-310__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a request is denied under (d) of this section, the person may provide to the state agency a concise written statement that states the person's reasons for disagreeing with the decision. The state agency shall maintain in its records the request made under (b) of this section and the statement provided by the person under this subsection. On all of the state agency's records that contain the disputed information, the state agency shall clearly note which portions of the records are disputed. If the record is in electronic form, the state agency may note the dispute in one field of the electronic form and maintain the other information about the dispute in paper form.</p>
+              </content>
+            </subsection>
+            <subsection eId="40-25-310__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>This section does not apply to criminal intelligence or criminal investigative records, criminal justice information under
+AS 12.62
+, state agency personnel or retirement system records, records of applicants for employment with the state agency, or information in documents recorded under
+AS 40.17
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_40-25-350">
+            <num>40.25.350</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 40.25.350.   Definitions.
+In
+AS 40.25.300
+ 40.25.350,
+(1) person means an individual;
+(2) personal information means information that can be used to identify a person and from which judgments can be made about a person's character, habits, avocations, finances, occupation, general reputation, credit, health, or other personal characteristics, but does not include a person's name, address, or telephone number, if the number is published in a current telephone directory, or information describing a public job held by a person;
+(3) state agency
+(A) means a department, institution, board, commission, division, authority, public corporation, committee, or other administrative unit of the executive, judicial, or legislative branch of state government, including the University of Alaska;
+(B) does not include the Alaska Railroad Corporation.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

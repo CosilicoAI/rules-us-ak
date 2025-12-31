@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-39"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-39"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.39"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-39/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-39/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-39/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-39/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_39">
+          <num>39</num>
+          <heading>Rates and Rating Organizations</heading>
+          <section eId="sec_21-39-010">
+            <num>21.39.010</num>
+            <heading>Purpose.</heading>
+            <content>
+              <p>Sec. 21.39.010.   Purpose.
+The purpose of this chapter is to promote the public welfare by regulating insurance rates in order that they will not be excessive, inadequate, or unfairly discriminatory, and to authorize and regulate cooperative action among insurers in rate making and in other matters within the scope of this chapter. Nothing in this chapter is intended (1) to prohibit or discourage reasonable competition, or (2) to prohibit or encourage, except to the extent necessary to accomplish the purpose of this chapter, uniformity in insurance rates, rating systems, rating plans or practices.  This chapter shall be liberally interpreted to carry into effect the intent of this section.</p>
+            </content>
+          </section>
+          <section eId="sec_21-39-020">
+            <num>21.39.020</num>
+            <heading>Applicability.</heading>
+            <subsection eId="21-39-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This chapter applies to all forms of casualty insurance, including fidelity, surety, and guaranty bonds, to all forms of fire, marine, and inland marine insurance, and to a combination of any of them, or risks or operations in this state.  Inland marine insurance includes insurance defined by statute, or by interpretation of statute, or if not defined or interpreted, by ruling of the director, or as established by general custom of the business, as inland marine insurance.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This chapter does not apply to</p>
+              </content>
+              <paragraph eId="21-39-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>reinsurance, other than joint reinsurance to the extent stated in
+AS 21.39.110
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>health insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-020__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>insurance of vessels or craft, their cargoes, marine builders' risks, marine protection and indemnity, or other risks commonly insured under marine, as distinguished from inland marine insurance policies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-020__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>insurance against loss of or damage to aircraft or against liability, other than workers' compensation and employer's liability, arising out of the ownership, maintenance, or use of aircraft; or, to insurance of hulls of aircraft, including their accessories and equipment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-020__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>insurance written under
+AS 21.34
+, except as provided in
+AS 21.34.030</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-030">
+            <num>21.39.030</num>
+            <heading>Making of rates.</heading>
+            <subsection eId="21-39-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Rates, including loss costs under
+AS 21.39.043
+or any other provision of law, shall be made in accordance with the following provisions:</p>
+              </content>
+              <paragraph eId="21-39-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>rates shall not be excessive, inadequate, or unfairly discriminatory;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>consideration shall be given to past and prospective loss experience inside and outside this state; to the conflagration and catastrophe hazards; to a reasonable margin for underwriting profit and contingencies; to dividends, savings, or unabsorbed premium deposits allowed or returned by insurers to their policyholders, members, or subscribers; to past and prospective expenses both countrywide and those specially applicable to this state; and to all other relevant factors inside and outside this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the systems of expense provisions included in the rates for use by an insurer or group of insurers may differ from those of other insurers or group of insurers to reflect the requirements of the operating methods of the insurer or group of insurers with respect to any kind of insurance, or with respect to a subdivision or combination thereof for which subdivision or combination separate expense provisions are applicable;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>risks may be grouped by classifications for the establishment of rates and minimum premiums; classification rates may be modified to produce rates for individual risks in accordance with rating plans that establish standards for measuring variations in hazards or expense provisions, or both; the standards may measure any differences among risks that can be demonstrated to have a probable effect upon losses or expenses;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>in the case of fire insurance rates, consideration may be given to the experience of the fire insurance business during a period of not more than the most recent five-year period for which experience is available;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-030__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>when there is an established program to inspect new and existing dwellings and the program has been certified by the director as likely to reduce the incidence of fires in inspected dwellings, then in any rate plan used in this state, dwellings that have been found by the inspection to meet the standards established by the program shall have credits applied to the rate in amounts approved by the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-39-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except to the extent necessary to meet the provisions of (a)(1) of this section, uniformity among insurers in matters within the scope of this section is neither required nor prohibited.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section dwelling means a residential structure containing not more than four family living units.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-035">
+            <num>21.39.035</num>
+            <heading>Required filing of insurance scoring models; personal insurance.</heading>
+            <subsection eId="21-39-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Credit history may not be used to determine personal insurance rates or premiums or to make underwriting decisions unless the insurance scoring models are filed with the director. Insurance scoring models include all attributes and factors used in the calculation of an insurance score, statistical validation, documentation, appropriate loss information, and any other relevant factors.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Information filed under (a) of this section</p>
+              </content>
+              <paragraph eId="21-39-035__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is confidential, shall be considered a trade secret, and is not subject to public inspection under
+AS 21.06.060
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-035__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may be released or otherwise shared as provided in
+AS 21.06.060
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-035__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>shall be filed by the insurer and may not be filed by a third party or vendor.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-39-035__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An insurer shall comply with
+AS 21.36.460
+when using credit history to calculate a personal insurance score or determine personal insurance premiums or rates.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-035__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding (b) of this section, the director shall make available to the public a general description of the insurance scoring models filed under (a) of this section. A general description of insurance scoring models may not disclose any trade secrets contained in the models.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-035__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-39-035__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>credit history has the meaning given in
+AS 21.36.460
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-035__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>insurance score has the meaning given in
+AS 21.36.460
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-035__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>personal insurance has the meaning given in
+AS 21.36.460
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-040">
+            <num>21.39.040</num>
+            <heading>Rate filings.</heading>
+            <subsection eId="21-39-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each insurer shall file with the director, except as to inland marine risks, which, by general custom of the business, are not written according to manual rates or rating plans, and except for rates for commercial insurance for which the director, by regulation authorizes an informational filing as set out in (k) of this section, every manual, minimum, class rate, rating schedule, loss cost adjustment, or rating plan and every other rating rule, and each modification of any of them that it proposes to use. Each filing</p>
+              </content>
+              <paragraph eId="21-39-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>shall be made under the applicable filing procedures in
+AS 21.39.041
+, 21.39.210, or 21.39.220;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>must state the proposed effective date; the effective date may be
+(A)  a specific date;
+(B) the date the filing is approved by the director; or
+(C) a date conditioned on some other event when approved by the director; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>must indicate the character and extent of the coverage contemplated.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-39-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An insurer may satisfy its obligation to make filings by becoming a member of, or a subscriber to, a licensed rating organization that makes filings and by authorizing the director to accept the filings on its behalf, except that nothing in this chapter may be construed as requiring an insurer to become a member of or a subscriber to a rating organization.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director shall review filings as soon as reasonably possible after they have been made in order to determine whether they meet the requirements of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>When a filing is not accompanied by the information upon which the insurer supports the filing, and the director does not have sufficient information to determine whether the filing meets the requirements of this chapter, the director shall require the insurer to furnish the information upon which the insurer supports the filing. The waiting period in
+AS 21.39.041</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or 21.39.220(b) begins on the date the information is furnished to the director. The information furnished in support of a filing may include (1) the experience or judgment of the insurer or rating organization making the filing; (2) the insurer's interpretation of the statistical data it relies upon; (3) the experience of other insurers or rating organizations; (4) any other relevant factors. Specific inland marine rates on risks specially rated, made by a rating organization, shall be filed with the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Specific inland marine rates on risks specially rated by a rating organization, or a specific filing with respect to a surety or guaranty bond required by law or by court, executive order, or regulation of a public body and not covered by a previous filing, shall become effective when filed and considered to meet the requirements of this chapter until such time as the director reviews the filing and as long thereafter as the filing remains in effect.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-040__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The director may, by written order, suspend or modify the requirement of filing on a kind of insurance, subdivision or combination of them, or on classes of risks, the rates for which cannot practicably be filed before they are used or the filing and approval of which are, in the director's opinion, not desirable or necessary for the protection of the public. The orders shall be made known to insurers and rating organizations affected by them. The director may make an examination that the director may consider advisable to ascertain whether the rates affected by the order meet the standards set out in
+AS 21.39.030
+(a)(2).</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-040__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Upon the written application of the insured describing the unusual characteristics that are not otherwise contemplated in the filed rating plan, the insurer may file a rate other than a rate provided for in an applicable rate filing that may be used on a specific risk. The filing shall be made under the applicable filing procedures in
+AS 21.39.041
+or 21.39.220.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-040__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>An insurer may not make or issue a contract or policy except in accordance with the filings that are in effect for that insurer as provided in this chapter or in accordance with (f), (g), and (i) of this section.  This subsection does not apply to contracts or policies for inland marine risks on which filings are not required.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-040__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>An insurer may use a rate less than that provided by a filing otherwise applicable on a specific risk the insurance for which would otherwise be exported under
+AS 21.34
+.  Within 30 days of this action the insurer shall file a report detailing the information required by the director on a form prescribed by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-040__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>An insurer who has submitted an application for a certificate of authority under
+AS 21.09.110
+and a filing of policy forms under
+AS 21.42.120
+may file a proposed rating system as described in this section. The director's approval of the rating system is contingent upon the issuance of a certificate of authority under
+AS 21.09.120
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-040__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The director</p>
+              </content>
+              <paragraph eId="21-39-040__subsec_k__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may adopt regulations detailing the format and content of a rating system filing under this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-040__subsec_k__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>shall adopt regulations consistent with the National Association of Insurance Commissioners Property and Casualty Model Rate and Policy Form Act, including those provisions relating to the format and content of informational filings for rates for commercial insurance; the provisions of
+AS 21.39.030</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-39-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>apply to an informational filing authorized by the director; in this paragraph, informational filing means a filing that the director does not approve before its use and that meets the format and content requirements of regulations adopted by the director.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-041">
+            <num>21.39.041</num>
+            <heading>Prior approval.</heading>
+            <subsection eId="21-39-041__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for workers' compensation prospective loss cost filings and workers' compensation assigned risk pool rates by a rating organization under
+AS 21.39.043
+, an insurer or rating organization shall file medical malpractice, workers' compensation and assigned risk plan rating systems as specified in
+AS 21.39.040</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-041__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>with the director for review and approval prior to use. Each filing shall be on file for a waiting period of 15 days before it becomes effective. This period may be extended by the director for an additional period not to exceed 15 days if the director gives written notice within the waiting period to the insurer or rating organization that made the filing stating that additional time for the consideration of the filing is required. The director shall approve the filing upon a determination that the filing meets the requirements of this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-041__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The filing must include the effective date. In place of a specific date, the insurer or rating organization may specify a reasonable time period after approval for the filing to be effective.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-041__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon written application by the insurer or rating organization, the director may authorize a filing that the director has approved to become effective before the expiration of the waiting period. A filing shall be considered to meet the requirements of this title unless disapproved by the director within the waiting period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-041__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the insurer or rating organization fails to provide information requested by the director under
+AS 21.39.040</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-041__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>within 30 days after the director requests the information, the response period may be extended by the director for an additional 15 days upon written application of the insurer or rating organization within the initial 30-day response period. The director shall consider the failure to provide information as a request by the insurer or rating organization to withdraw the filing from further consideration.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-041__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A filing and supporting information shall be open to public inspection after the filing becomes effective.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-041__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If, within the review period provided for in (a) of this section, the director finds that a filing does not meet the requirements of this title, the director shall send to the insurer or rating organization that made the filing written notice of disapproval of the filing specifying in what respects the filing fails to meet the requirements of this title and stating that the filing may not become effective.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-043">
+            <num>21.39.043</num>
+            <heading>Workers' compensation loss cost filings and assigned risk pool rate filings.</heading>
+            <subsection eId="21-39-043__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On at least an annual calendar year basis, a rating organization shall make a workers' compensation prospective loss cost filing and an assigned risk pool rate filing, even if the rating organization determines that a change in the prospective loss costs or rates is not indicated.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A rating organization shall submit a prospective loss cost filing and an assigned risk pool rate filing to the director not less than 125 days before the proposed effective date of each filing.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At the time a prospective loss cost filing and assigned risk pool rate filing are submitted to the director under (b) of this section, the rating organization shall make available to any member or subscriber that may be affected by the filings a complete copy of the filings, together with the materials, aggregate data, and other information submitted in support of the filings. The prospective loss cost and assigned risk pool rate filings and supporting information are available for public inspection. Before the hearing under (d) of this section, members and subscribers may submit interrogatories to the rating organization, including requests for additional supporting information concerning the filings.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director shall hold an administrative hearing on whether a prospective loss cost filing meets the requirements of this chapter and whether the filing should be approved, disapproved, or modified, in whole or in part. The director shall hold the hearing not earlier than 20 days and not later than 25 days after the date of receipt of the prospective loss cost filing by the director. The director may adopt regulations governing the conduct of the hearing subject to the following:</p>
+              </content>
+              <paragraph eId="21-39-043__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the director shall sit in a quasi-judicial capacity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-043__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an interested party may
+(A) have a reasonable opportunity to inspect the filing and supporting information and to examine witnesses, including the designated actuary and other witnesses of the rating organization;
+(B) present witnesses, oral and written testimony, and documentary evidence; and
+(C) apply for subpoenas to be issued by the director to compel attendance of witnesses and the production of evidence on the interested party's behalf;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-043__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>evidence and testimony from interested parties is limited to matters relevant to a determination of whether the filing's prospective loss costs meet the requirements of this chapter and may include a recommendation for approval, disapproval, or modification of the prospective loss cost filing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-043__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the director shall record the hearing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-043__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>formal rules of pleading or evidence need not be observed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-043__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the director may conduct part or all of a hearing by teleconference and allow a witness to testify telephonically; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-043__subsec_d__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the director shall leave the hearing record open for 10 days after the date of the hearing, during which time interested parties may submit additional written testimony and documentary evidence concerning the prospective loss cost filing to the director subject to the limitations of (3) of this subsection, and members and subscribers may submit to the rating organization and to the director proposed modifications to the prospective loss cost filing accompanied by the information upon which the member or subscriber supports the modification.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-39-043__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The director shall review the prospective loss cost filing and the evidence presented through the hearing process within 15 days after the hearing. The 15-day period may be extended for an additional 15 days if the director gives written notice within the first 15-day period to the rating organization that additional time for consideration of the filing is required. If, under (d)(7) of this section, evidence is provided to support a modification and the rating organization does not include the requested modification in the filing, the director shall require that the rating organization rebut the evidence to show why the modification should not be included. The director may request that the rating organization</p>
+              </content>
+              <paragraph eId="21-39-043__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provide additional supporting information for the filing; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-043__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>modify the filing based on evidence provided through the hearing process.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-39-043__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The rating organization shall file its rebuttal, if required by the director under (e) of this section, and any other information requested under (e)(1) of this section, or its modification of the loss cost filing under (e)(2) of this section within 15 days after receipt of the director's request unless additional time is allowed by the director. The director shall review the rating organization's responses to the director's interrogatories within 15 days after receipt of the response. The 15-day period may be extended for an additional 15 days if the director gives written notice within the first 15-day period to the rating organization that additional time for consideration of the filing is required.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Subject to
+AS 21.06.060
+(f), all communications under this section between the director, the rating organization, and any interested party concerning a prospective loss cost filing, including the director's interrogatories, the rating organization's written responses, modified filings and all supporting information, except for information related to a particular insured, are part of the filing record and are available for public inspection.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The rating organization shall make available to a member or subscriber all information that is available for public inspection under this section as soon as possible after issuance or receipt of the information by the director. Other interested parties may obtain copies of public documents from the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The director shall issue a written order approving or disapproving the prospective loss cost filing and the assigned risk pool rate filing. The order must include details of the director's reasoning for approving or disapproving the filings.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>A separate prospective loss cost filing submitted solely to address an amendment to
+AS 23.30
+is not subject to the procedures of this section, but shall be reviewed and approved or disapproved by the director in accordance with
+AS 21.39.040
+(d). A filing under this subsection, together with all supporting information and communications between the director and the rating organization, is available for public inspection.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>A written order of the director under this section is subject to review by appeal to the superior court. An appeal under this section shall be filed with the court within 30 days after the date of the written order. The court shall determine whether the filing of the appeal will operate as a stay of the order.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>A filing made under this section is subject to all other provisions of this chapter except to the extent that the other provisions are inconsistent with this section.
+AS 21.39.080
+does not apply to a prospective loss cost filing by a workers' compensation rating organization.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>An assigned risk pool filing is not directly subject to (d)  (h) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-043__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-39-043__subsec_n__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>assigned risk pool rate filing means the filing submitted by a rating organization for rates proposed to be charged by the rating organization for the assigned risk pool insurance under
+AS 21.39.155
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-043__subsec_n__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>interested party means
+(A) an employer association;
+(B) an employee or labor association;
+(C) a producer;
+(D) a producer association;
+(E) an insurer member or subscriber of the rating organization; and
+(F) other persons who are substantially affected by the loss cost filing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-043__subsec_n__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>prospective loss cost filing means the historical aggregate losses and loss adjustment expenses upon which a portion of a rate is based, adjusted through trending to a future point in time, but does not include expenses, other than loss adjustment expenses, or profit.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-045">
+            <num>21.39.045</num>
+            <heading>Workers' compensation rate filings.</heading>
+            <subsection eId="21-39-045__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding any other provision of this chapter, a rate filing for workers' compensation insurance that classifies a risk in the construction industry may not contain or impose a higher premium rate if the risk upon which the higher rate filing is based consists only of a higher wage rate paid by the employer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director shall accept a rate filing for workers' compensation insurance if the filing includes a reasonable method of recognizing differences in rates of pay for the construction industry, and the method uses a credit scale that begins at an amount equal to the average weekly wage in this state for the construction industry as determined by the Department of Labor and Workforce Development.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-050">
+            <num>21.39.050</num>
+            <heading>Disapproval of filings.</heading>
+            <subsection eId="21-39-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>[Repealed, § 12 ch 88 SLA 2005.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If, within 30 days after a specific inland marine rate on a risk especially rated by a rating organization subject to
+AS 21.39.040</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>has become effective or, if within 30 days after a special surety or guaranty filing subject to
+AS 21.39.040</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>has become effective, the director finds that the filing does not meet the requirements of this chapter, the director shall send to the rating organization or insurer that made the filing written notice of disapproval of the filing specifying in what respects the filing fails to meet the requirements of this chapter and stating when, within a reasonable period, the filing shall be considered no longer effective. Disapproval shall not affect a contract made or issued before the expiration of the period set out in the notice.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If, at any time subsequent to the applicable review period provided for in
+AS 21.39.041</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or 21.39.220(b), the director finds that a filing does not meet the requirements of this title, the director shall, after a hearing held upon not less than 10 days written notice specifying the matters to be considered at the hearing and given to each insurer and rating organization that made the filing, issue an order specifying in what respects the filing fails to meet the requirements of this title and stating when, within a reasonable period thereafter, the filing shall be considered no longer effective. Copies of the order shall be sent to each insurer and rating organization that made the filing. The order may not affect a contract or policy made or issued before the expiration of the period set out in the order.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person or organization aggrieved by a filing that is in effect may make written application to the director for a hearing, except that the insurer that made the filing may not be authorized to proceed under this subsection.  The application shall specify the grounds to be relied upon by the applicant and the application must show that the person or organization making the application has a specific economic interest affected by the filing.  If the director finds that the application is made in good faith, that the applicant has a specific economic interest, that the applicant would be so aggrieved if the grounds are established, and that the grounds otherwise justify holding a hearing, the director shall within 30 days after receipt of the application hold a hearing upon not less than 10 days written notice to the applicant and to every insurer and rating organization that made the filing.  A rating or advisory organization has status under this chapter to make application for a hearing on a filing made by an insurer with the director. If, after the hearing, the director finds that the filing does not meet the requirements of this chapter, the director shall issue an order specifying in what respects that the filing fails to meet the requirements of this chapter, and stating when, within a reasonable period thereafter, the filing shall be considered no longer effective.  Copies of the order shall be sent to the applicant and to every insurer and rating organization that made the filing.  The order shall not affect a contract or policy made or issued before the expiration of the period set out in the order.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A filing may not be disapproved if the rates in the filing meet the requirements of this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-055">
+            <num>21.39.055</num>
+            <heading>Cancellation of approved filing.</heading>
+            <content>
+              <p>Sec. 21.39.055.   Cancellation of approved filing.
+The voluntary surrender of a certificate of authority or the failure of the surrendering admitted foreign insurer to continue a certificate of authority in force has the effect of cancelling an approval that the insurer may have received under this chapter, unless the approval has been affirmed by the director at the time of the surrender or noncontinuation of the certificate of authority.</p>
+            </content>
+          </section>
+          <section eId="sec_21-39-060">
+            <num>21.39.060</num>
+            <heading>Rating organizations.</heading>
+            <subsection eId="21-39-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A corporation, an unincorporated association, a partnership, or a person, whether located inside or outside this state, may make application to the director for license as a rating organization for the kinds of insurance, or subdivision or class of risk or a part or combination thereof as are specified in its application and shall file with the application (1) a copy of its constitution, its articles of agreement or association, or its certificate of incorporation, and of its bylaws and regulations governing the conduct of its business; (2) a list of its members and subscribers; (3) the name and address of a resident of this state upon whom notices or orders of the director or process affecting the rating organization may be served; and (4) a statement of its qualifications as a rating organization. If the director finds that the applicant is competent, trustworthy, and otherwise qualified to act as a rating organization and that its constitution, articles of agreement or association or certificate of incorporation, and its bylaws and regulations governing the conduct of its business conform to the requirements of law, the director shall issue a license specifying the kinds of insurance, or subdivisions or classes or risks or parts or combinations of them for which the applicant is authorized to act as a rating organization. Each application shall be granted or denied in whole or in part by the director within 60 days after the date of its filing. Licenses issued under this section shall remain in effect for three years unless suspended or revoked by the director. The fee for the license is set under
+AS 21.06.250
+. Licenses issued under this section may be suspended or revoked by the director, after hearing upon notice, if the rating organization ceases to meet the requirements of this subsection and (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each rating organization shall notify the director promptly of every change in</p>
+              </content>
+              <paragraph eId="21-39-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>its constitution, its articles of agreement or association, or its certificate of incorporation, and its bylaws and regulations governing the conduct of its business;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>its list of members and subscribers; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-060__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the name and address of the resident of this state designated by it upon whom notices or orders of the director or process affecting the rating organization may be served.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-39-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Subject to regulations that have been approved by the director as reasonable, each rating organization shall permit an insurer that is not a member to be a subscriber to its rating services for the kind of insurance, subdivision, or class of risk or a part or combination of them for which it is authorized to act as a rating organization. Notice of proposed changes in the regulations shall be given to subscribers. Each rating organization shall furnish its rating service without discrimination to its members and subscribers. The reasonableness of a regulation in its application to subscribers, or the refusal of a rating organization to admit an insurer as a subscriber, shall, at the request of a subscriber or an insurer, be reviewed by the director at a hearing held upon at least 10 days' written notice to the rating organization and to the subscriber or insurer. If the director finds that the regulation is unreasonable in its application to subscribers, the director shall order that the regulation shall not be applicable to subscribers. If the rating organization fails to grant or reject an insurer's application for subscribership within 30 days after it was made, the insurer may request a review by the director as if the application had been rejected. If the director finds that the insurer has been refused admittance to the rating organization as a subscriber without justification, the director shall order the rating organization to admit the insurer as a subscriber. If the director finds that the action of the rating organization was justified, the director shall make an order affirming the action.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A rating organization may not adopt a regulation that would prohibit or regulate the payment of dividends, savings, or unabsorbed premium deposits allowed or returned by insurers to their policyholders, members, or subscribers.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Cooperation among rating organizations or among rating organizations and insurers in rate making or other matters within the scope of this chapter is authorized. The filings resulting from the cooperation are subject to the provisions of this chapter that are applicable to filings generally. The director may review the cooperative activities and practices, and if, after a hearing, the director finds that the activity or practice is unfair or unreasonable or inconsistent with this chapter, the director may issue a written order specifying in what respects the activity or practice is unfair or unreasonable or otherwise inconsistent with this chapter, and requiring the discontinuance of the activity or practice.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-060__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A rating organization may provide for the examination of policies, daily reports, binders, renewal certificates, endorsements, or other evidences of insurance, or the cancellation of them, and may make reasonable rules governing their submission. The rules must contain a provision that in the event an insurer does not within 60 days furnish satisfactory evidence to the rating organization of the correction of an error or omission previously called to its attention by the rating organization, it shall be the duty of the rating organization to notify the director. All information submitted for examination shall be confidential.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-060__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A rating organization may subscribe for or purchase actuarial, technical, or other service. The services shall be available to all members and subscribers without discrimination.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-070">
+            <num>21.39.070</num>
+            <heading>Deviations.</heading>
+            <subsection eId="21-39-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each member of or subscriber to a rating organization shall adhere to the filings made on its behalf by the organization except that an insurer may file with the director, in accordance with
+AS 21.39.040
+(a), a deviation from the class rates, schedules, rating plans, or rules respecting a kind of insurance, or class of risk within a kind of insurance, or a combination of them.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 12 ch 88 SLA 2005.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-080">
+            <num>21.39.080</num>
+            <heading>Appeal by minority.</heading>
+            <subsection eId="21-39-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A member or subscriber to a rating organization may appeal to the director from the action or decision of the rating organization in approving or rejecting a proposed change in or addition to the filings of the rating organization and the director shall, after a hearing held upon not less than 10 days written notice to the appellant and to the rating organization, issue an order approving the action or decision of the rating organization or directing it to give further consideration to the proposal, or, if the appeal is from the action or decision of the rating organization in rejecting a proposed addition to its filings, the director may, on a finding that the action or decision was unreasonable, issue an order directing the rating organization to make an addition to its filings, on behalf of its members and subscribers, in a manner consistent with the findings, within a reasonable time after the issuance of the order.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the appeal is based upon the failure of the rating organization to make a filing on behalf of the member or subscriber, that is based on a system of expense provisions that differs, in accordance with the right granted in
+AS 21.39.030
+(a)(3), from the system of expense provisions included in a filing made by the rating organization, the director shall, if the appeal is granted, order the rating organization to make the requested filing for use by the appellant.  In deciding the appeal the director shall apply the standards set out in
+AS 21.39.030
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-090">
+            <num>21.39.090</num>
+            <heading>Rights of insureds.</heading>
+            <content>
+              <p>Sec. 21.39.090.   Rights of insureds.
+Each rating organization and each insurer that makes its own rate shall, within a reasonable time after receiving written request and upon payment of the reasonable charge as it may make, furnish to an insured affected by a rate made by it, or to the authorized representative of the insured, all pertinent information concerning the rate.  Each rating organization and each insurer that makes its own rates shall provide within this state reasonable means for a person aggrieved by the application of its rating system to be heard, in person or by an authorized representative, on a written request to review the manner in which the rating system has been applied in connection with the insurance.  If the rating organization or insurer fails to grant or reject the request within 30 days after it is made, the applicant may proceed in the same manner as if the application had been rejected.  A party affected by the action of the rating organization or the insurer on the request may, within 30 days after written notice of the action, appeal to the director, who, after a hearing held upon not less than 10 days written notice to the appellant and to the rating organization or insurer, may affirm or reverse the action.</p>
+            </content>
+          </section>
+          <section eId="sec_21-39-100">
+            <num>21.39.100</num>
+            <heading>Advisory organizations.</heading>
+            <subsection eId="21-39-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each group, association or other organization of insurers, whether located inside or outside this state, that assists insurers that make their own filings or rating organizations in rate making by the collection and furnishing of loss or expense statistics or by the submission of recommendations, but that does not make filings under this chapter, shall be known as an advisory organization.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each advisory organization shall file with the director</p>
+              </content>
+              <paragraph eId="21-39-100__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a copy of its constitution, its articles of agreement or association, or its certificate of incorporation and of its bylaws and regulations governing its activities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-100__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a list of its members;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-100__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the name and address of a resident of this state upon whom notices or orders of the director or process issued at the direction of the director may be served; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-39-100__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>an agreement that the director may examine the advisory organization in accordance with
+AS 21.39.120
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-39-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If, after a hearing, the director finds that the furnishing of the information or assistance involves an act or practice that is unfair or unreasonable or otherwise inconsistent with this chapter, the director may issue a written order specifying in what respects the act or practice is unfair or unreasonable or otherwise inconsistent with this chapter, and requiring the discontinuance of the act or practice.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An insurer that makes its own filings and a rating organization may not support its filings by statistics or adopt rate making recommendations, furnished to it by an advisory organization that has not complied with this section or with an order of the director involving the statistics or recommendations issued under (c) of this section.  If the director finds the insurer or rating organization to be in violation of this subsection the director may issue an order requiring the discontinuance of the violation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-110">
+            <num>21.39.110</num>
+            <heading>Joint underwriting or joint reinsurance.</heading>
+            <subsection eId="21-39-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each group, association, or other organization of insurers that engages in joint underwriting or joint reinsurance is subject to regulation in accordance with this section. In addition, joint underwriting is subject to all other provisions of this chapter, except for
+AS 21.39.210
+, and joint reinsurance is subject to
+AS 21.39.120
+, 21.39.160, and 21.39.170.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If, after a hearing, the director finds that an activity or practice of a group, association, or other organization is unfair or unreasonable or otherwise inconsistent with this chapter, the director may issue a written order specifying in what respects the activity or practice is unfair or unreasonable or otherwise inconsistent with this chapter, and requiring the discontinuance of the activity or practice.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-120">
+            <num>21.39.120</num>
+            <heading>Examinations.</heading>
+            <subsection eId="21-39-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director shall, at least once in five years, make or cause to be made an examination of each rating organization licensed in this state under
+AS 21.39.060
+and may, as often as the director may consider it expedient, make or cause to be made an examination of each advisory organization referred to in
+AS 21.39.100
+and of each group, association, or other organization referred to in
+AS 21.39.110
+.  The reasonable costs of the examination shall be paid by the rating organization, advisory organization, or group, association, or other organization examined upon presentation to it of a detailed account of the costs. The officers, manager, agents, and employees of the rating organization, advisory organization, or group, association, or other organization may be examined at any time under oath and shall exhibit all books, records, accounts, documents, or agreements governing its method of operation.  In lieu of an examination the director may accept the report of an examination made by the insurance supervisory official of another state, under the laws of that state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A report of an examination may not be made public unless the rating organization, advisory organization, group, association, or other organization examined within 30 days after its receipt of the director's written notice of intention to publicize the report, does not apply to the director for a hearing.  If the application is made within the 30 days, the director shall hold a hearing, after first giving reasonable written notice of the time and place, and either approve or disapprove the report as being correct.  If the director approves the report or if no application is made for a hearing, the report shall immediately become and be admissible in evidence as a public record, and open to public inspection.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-130">
+            <num>21.39.130</num>
+            <heading>Rate administration.</heading>
+            <subsection eId="21-39-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director shall adopt reasonable regulations and statistical plans, reasonably adapted to each of the rating systems filed with the director, that may be modified and that shall be used by each insurer in the recording and reporting of its loss and countrywide expense experience, in order that the experience of all insurers may be made available at least annually in the form and detail that may be necessary to aid in determining whether rating systems comply with the standards set out in
+AS 21.39.030
+. The regulations and plans may also provide for the recording and reporting of expense experience items that are specially applicable to this state and are not susceptible of determination by a prorating of countrywide expense experience.  In adopting the regulations and plans, the director shall give due consideration to the rating systems filed with the director and, in order that the regulations and plans may be as uniform as is practicable among the several states, to the regulations and to the form of the plans used for the rating systems in other states.  An insurer may not be required to record or report its loss experience on a classification basis that is inconsistent with the rating system filed by it.  The director may designate one or more rating organizations or other agencies to assist in gathering the experience and making compilations.  The compilations shall be made available, subject to reasonable regulations adopted by the director, to insurers and rating organizations.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Reasonable regulations and plans may be adopted by the director for the interchange of data necessary for the application of rating plans.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In order to further uniform administration of rate regulatory laws, the director and each insurer and rating organization may exchange information and experience data with insurance supervisory officials, insurers, and rating organizations in other states and may consult with them with respect to rate making and the application of rating systems.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director may adopt reasonable regulations necessary to carry out the purposes of this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-140">
+            <num>21.39.140</num>
+            <heading>False or misleading information.</heading>
+            <content>
+              <p>Sec. 21.39.140.   False or misleading information.
+A person or organization may not wilfully withhold information from, or knowingly give false or misleading information to, the director, a statistical agency designated by the director, a rating organization, or an insurer, that will affect the rates or premiums chargeable under this chapter.  A violation of this section shall subject the one guilty of the violation to the penalties provided in
+AS 21.39.160
+.</p>
+            </content>
+          </section>
+          <section eId="sec_21-39-150">
+            <num>21.39.150</num>
+            <heading>Assigned risks.</heading>
+            <content>
+              <p>Sec. 21.39.150.   Assigned risks.
+Agreements may be made among insurers with respect to the equitable apportionment among them of insurance that may be afforded applicants who are in good faith entitled to the insurance but who are unable to procure the insurance through ordinary methods.  The insurers may agree among themselves on the use of reasonable rate modifications for the insurance. The agreements and rate modifications are subject to the approval of the director.</p>
+            </content>
+          </section>
+          <section eId="sec_21-39-155">
+            <num>21.39.155</num>
+            <heading>Assigned risk pool.</heading>
+            <subsection eId="21-39-155__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director may require insurers, except a reciprocal insurer formed under
+AS 21.75
+, as a condition of writing a line of insurance dealing with medical malpractice or workers' compensation, to participate in an assigned risk pool if the director finds that mandatory carrier participation is in the public interest.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-155__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The assigned risk pool and the procedures to be followed in administering the pool shall be established by regulation.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-155__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An insurer may impose a surcharge not to exceed 25 percent of the premium for assigned risk pool insurance, except that a surcharge may not be applied to the first $3,000 in premium in any policy year.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-160">
+            <num>21.39.160</num>
+            <heading>Penalties.</heading>
+            <subsection eId="21-39-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the director finds, following an appropriate hearing, that a person or organization has violated a provision of this chapter, the director may impose a civil penalty not to exceed $200 or the actual amount of gain, whichever is greater, for each violation, but if the director finds the violation to be wilful the director may impose a penalty of $2,000 or three times the actual amount of gain, whichever is greater, for each violation.  The penalties may be in addition to any other penalty provided by law.  In this section, gain means the difference between the amount actually charged and the amount that should have been charged under applicable filings of the person or organization.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may suspend the license of a rating organization or insurer that fails to comply with an order of the director within the time limited by the order or an extension of time granted by the director.  The director may not suspend the license of a rating organization or insurer for failure to comply with an order until the time prescribed for an appeal has expired or, if an appeal has been taken, until the order has been affirmed.  The director may determine when a suspension of license becomes effective.  The suspension shall remain in effect for the period fixed by the director unless the director modifies or rescinds the suspension, or until the order upon which the suspension is based is modified, rescinded, or reversed.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-160__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A penalty may not be imposed and a license may not be suspended or revoked except upon a written order of the director, stating findings, made after a hearing held upon not less than 10 days written notice to the person or organization specifying the alleged violation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-170">
+            <num>21.39.170</num>
+            <heading>Hearing procedure and judicial review.</heading>
+            <subsection eId="21-39-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An insurer or rating organization to which the director has issued an order made without a hearing may, within 30 days after notice to it of the order, make written request to the director for a hearing. The director shall hear the party or parties within 20 days after receipt of the request and shall give not less than 10 days written notice of the time and place of the hearing.  Within 15 days after the hearing the director shall affirm, reverse or modify the previous action, specifying the reasons.  Pending the hearing and decision the director may suspend or postpone the effective date of the previous action.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing contained in this chapter may require the observance at a hearing of formal rules of pleading or evidence.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An order or decision of the director is subject to review by appeal to the superior court at the instance of a party in interest.  The court shall determine whether the filing of the appeal will operate as a stay of an order or decision of the director.  The court may, in disposing of the issue before it, modify, affirm, or reverse the order or decision of the director in whole or in part.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-210">
+            <num>21.39.210</num>
+            <heading>Flex-rating.</heading>
+            <subsection eId="21-39-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for workers' compensation, medical malpractice, and assigned risk plan rates, an insurer's rate level increase or decrease may take effect without prior approval if the cumulative rate level change for all coverages combined, calculated from the effective date to 12 months before the effective date, is not greater than 10 percent.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An insurer may make multiple rate filings under this provision during any 12-month period if the cumulative rate level change is within the specified limitation as described in (a) of this section. For an insurer adopting a rating organization prospective loss cost filing, the cumulative rate level change includes both the rating organization's prospective loss cost change as well as the insurer's loss cost adjustment change.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-210__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding any other provision of this title, for a policy governed by this section, a filing that produces a rate level change within the limitations provided in (a) of this section is effective without prior approval and may take effect on the date specified in the filing, but not earlier than the date it is received by the division. A rate level change within the limitation in (a) of this section may not be applied to a policy until the beginning of the policy period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-210__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A filing submitted under (a) of this section must include an exhibit showing the calculation of the overall rate level change and an exhibit showing the insurer's expense provisions. An insurer submitting a loss cost adjustment filing shall include supporting information showing how the loss cost adjustment is calculated. The director may request additional supporting information if the director does not have enough information upon which to determine if the filing meets the requirements of this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-210__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A filing submitted under (a) of this section is considered to comply with this title. However, if the director determines that the filing does not meet the requirements of this title, the director shall issue an order specifying in detail the specific statutes the insurer has violated and the reasons the filing is not in compliance. The order must state a reasonable future date on which the filing is to be considered no longer effective. An order by the director under this subsection is prospective and does not affect any contract issued or made before the effective date of the order.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-210__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The director may adopt regulations implementing the provisions of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-210__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>This section does not apply to rating organizations or to any impaired or insolvent insurer operating under a rehabilitation plan, an order of supervision, or an impaired financial condition as determined by the director.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-39-220">
+            <num>21.39.220</num>
+            <heading>File and use, filing of rates, supplementary rate information, and supporting information.</heading>
+            <subsection eId="21-39-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An insurer's rate level increase or decrease filing falling outside of the limitation provided in
+AS 21.39.210</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>is subject to file and use provisions under this section, unless the filing is otherwise exempt from those provisions under another provision in this chapter. A rate filing from a rating organization shall be submitted to the director under the file and use provisions. A rate filing from an insurer operating under a rehabilitation plan, an order of supervision, or an impaired financial condition as determined by the director shall be submitted to the division under the prior approval provisions. The insurer shall submit a filing for a new product or coverage introduction that does not have a rate on file under the file and use provisions.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each insurer shall file with the director all rates, supplementary rate information, and supporting information at least 30 days before the proposed effective date. The director shall review the filing within 15 days. This period may be extended by the director for an additional period not to exceed 15 days if the director gives written notice within the initial 15-day period to the insurer or rating organization that made the filing that states additional time for the consideration of the filing is required. The waiting period is the 30-day period following the date the director receives the filing.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-220__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The filing must include the effective date that may not be before the end of the waiting period. Upon written application by the insurer or rating organization, the director may authorize a filing that the director has reviewed to become effective before the expiration of the waiting period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-220__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A filing shall be considered to meet the requirements of this chapter and to become effective unless disapproved by the director within the waiting period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-220__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The director shall disapprove a filing if the director finds that the filing does not meet the requirements of this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-220__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If the insurer or rating organization is unable to provide information requested by the director under
+AS 21.39.040</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-220__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>within 30 days after the director's request, the response period may be extended by the director for an additional 15 days upon written application of the insurer or rating organization within the initial 30-day response period. The director may disapprove the filing for failure to provide the requested information during the response period. The disapproval notice must state a reasonable future date on which the filing is to be considered no longer effective.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-220__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A filing and supporting information shall be open to public inspection after the director completes the review of the filing or after the filing becomes effective, whichever is later.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-39-220__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>If within the waiting period in (b) of this section, the director finds that a filing does not meet the requirements of this title, the director shall send to the insurer or rating organization that made the filing, written notice of disapproval of the filing specifying in what respects the filing fails to meet the requirements of this title and shall state a reasonable future date on which the filing is to be considered no longer effective.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

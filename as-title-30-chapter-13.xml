@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-13"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-13"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="30.13"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-13/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-13/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-13/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-13/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_30">
+        <num>30</num>
+        <heading>Navigation, Harbors, Shipping, and Transportation Facilities</heading>
+        <chapter eId="title_30__chp_13">
+          <num>13</num>
+          <heading>Regional Resource Development Authorities</heading>
+          <section eId="sec_30-13-010">
+            <num>30.13.010</num>
+            <heading>Creation of authority.</heading>
+            <subsection eId="30-13-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The residents of each area of the state within the boundaries of a regional housing authority established under
+AS 18.55.996
+that is located in whole or in part in the unorganized borough of the state may create a public body corporate and politic under the name and style of the Resource Development Authority with all or any significant part of the name of the region of the state inserted. The boundaries of the authority created shall be coterminous with the portion of the applicable regional housing authority that lies in the unorganized borough. Creation of an authority is initiated by a petition filed with the Department of Commerce, Community, and Economic Development and a statement submitted to the governor. The petition must include the proposed name of the authority, its boundaries, and a statement of the facilities proposed to be provided by the authority. The petition must be signed by 15 percent of the total number of residents in the portion of the applicable regional housing authority that lies in the unorganized borough who cast votes in the preceding general election. The Department of Commerce, Community, and Economic Development shall review petitions for content and signatures. If the department determines that the petition is adequate, it shall transmit the petition to the director of elections.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The statement required under (a) of this section to be submitted to the governor must include the purposes for which the authority is to be created, the goals and potential projects the authority intends to accomplish, and an analysis of alternative methods of accomplishing the goals and projects of the proposed authority.  The governor shall determine whether the accomplishment of the goals and potential projects of the proposed authority would be advantageous to the economic growth of the region and the state and whether the creation of the proposed authority would be an appropriate and desirable method of accomplishing those goals and projects. The governor shall submit findings under this subsection to the division of elections within 90 days after receipt of the statement.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director of elections shall order an election in the area of the proposed authority to determine whether the voters desire the creation of the authority if the director has received the petition and</p>
+              </content>
+              <paragraph eId="30-13-010__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the governor has submitted affirmative findings to the director under (b) of this section; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="30-13-010__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>more than 90 days have elapsed since the statement was submitted to the governor under (a) of this section and the governor has failed to submit negative findings to the division of elections.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="30-13-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An order for an election shall be made within 30 days after the requirements of (c) of this section have been met.  The election shall be held not less than 30 nor more than 120 days after the date of the election order.  To the extent practicable, the election shall be held on a date coinciding with the date for other elections in the region.  The election order must specify the dates after which nomination petitions for election of initial officers may be filed.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A registered voter who has been a resident within the area of the proposed authority for 30 days before the date of election may vote.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If creation of an authority is approved, the director of elections shall, within 10 days of certification, order an election to choose the five initially elected members of the board of governors of the authority.  The election shall be held not less than 60 or more than 90 days after the date of the election order.  The initially elected members of the board of governors shall take office on the first Monday following certification of their election.  Two of the initially elected members shall be designated by lot to serve for a term expiring on the first day of the second November after the date of their election; two of the initially elected members shall be designated by lot to serve for a term expiring on the first day of the third November after the date of their election; and one of the initially elected members shall be designated by lot to serve for a term expiring on the first day of the fourth November after the date of election.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-010__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Nominations for elected members are made by petition. The petition must be in the form prescribed by the director of elections and include the name and address of the nominee and the statement of the nominee that the nominee is qualified under this chapter for the office of member of the board of governors of the authority.  A nomination petition must include the signature and resident address of 20 voters in the area of the authority.  The director of elections shall supervise the elections in the general manner prescribed by
+AS 15
+(Alaska Election Code). The state shall pay all election costs under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-010__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A copy of each petition for the creation of an authority and of the certificate of the director of elections as to the election shall be filed in the office of the director of elections.  Upon proof of filing the authority referred to shall, in any suit, action, or proceeding involving the validity or enforcement of, or relating to, any contract or obligation or act of the authority, be conclusively presumed to have been lawfully and properly created as a public body corporate and politic and established and authorized to transact business and exercise its powers under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_30-13-020">
+            <num>30.13.020</num>
+            <heading>Board of governors.</heading>
+            <subsection eId="30-13-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The authority shall be governed by a board of governors consisting of eight members, five of whom shall be elected and three of whom shall be appointed by the governor.  Elections of members to succeed those initially elected under
+AS 30.13.010</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>shall be held on the first Tuesday of October of each year in which a term expires. Terms of elected members shall be two years.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nominations for elected members to succeed those initially elected under
+AS 30.13.010</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>shall be in accordance with the procedures set out in
+AS 30.13.010
+(g).</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The three members appointed by the governor shall be the commissioner of transportation and public facilities and the heads of two other principal departments of the executive branch.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The members of the board of governors shall elect a chairperson and a vice-chairperson from among its members. Five members of the board of governors, one of whom shall be a member appointed under (c) of this section, constitute a quorum for the transaction of business.  Action may be taken and motions or resolutions adopted by the board of governors at a meeting at which a quorum is present by vote of a majority of the members present, unless the bylaws of an authority require a larger number.  The board of governors may delegate to one or more of its officers, agents, or employees the powers and duties that it considers proper.  The board of governors may appoint persons as officers it considers advisable, including an executive director, and may employ professional advisors, counsel, technical experts, agents, and other employees it considers advisable.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A member of the board of governors of an authority may not vote on a resolution of the board relating to any agreement to be entered into by the authority under this chapter if the member is a party to the agreement or has a direct ownership or equity interest, beneficially or of record, exceeding one percent in, or is employed by, a firm, partnership, corporation, or association that is a party to the agreement. A resolution of the board that is approved by a majority of all the members who are not barred from voting under this subsection is a valid action of the authority for all purposes.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The board of governors may hold meetings by teleconference.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_30-13-030">
+            <num>30.13.030</num>
+            <heading>Purpose of an authority.</heading>
+            <content>
+              <p>Sec. 30.13.030.   Purpose of an authority.
+The purpose of an authority shall be the improvement, establishment, and development of facilities in its district for transportation purposes in connection with natural resource enterprises, either directly or by agreement with any public or private entity or person.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-040">
+            <num>30.13.040</num>
+            <heading>Powers of an authority.</heading>
+            <content>
+              <p>Sec. 30.13.040.   Powers of an authority.
+Subject to
+AS 30.13.050
+and
+AS 30.13.130
+, in furtherance of its corporate purposes under
+AS 30.13.030
+, an authority has the power to
+(1) sue and be sued;
+(2) have a seal and alter it at its pleasure;
+(3) adopt and amend bylaws for its organization and internal management;
+(4) adopt regulations governing the exercise of its corporate powers;
+(5) acquire, rent, hold, use, and dispose of projects and other real and personal property necessary, useful, or convenient for its purposes upon the terms and conditions the authority may consider advisable;
+(6) provide for and secure the payment of bonds and the rights of the holders of them, and to purchase, hold, and dispose of bonds;
+(7) accept gifts, loans, or grants, including organizational grants, from, and enter into contracts or other transactions regarding them with, any federal, state, municipal, or other agency or instrumentality, private organization, or other person;
+(8) deposit or invest its funds, subject to agreements with bondholders;
+(9) charge and collect only those rents, rates, fees, or other charges that are necessary to pay for capital, maintenance, and operating costs of the services and facilities of the authority and for the establishment of reserves to secure, and for the payment of, bonds or notes or interest on bonds or notes;
+(10) enter into contracts or other transactions with any federal, state, municipal, or other agency, or instrumentality, private organization, or person consistent with the exercise of any powers under this chapter; and
+(11) do all things necessary and convenient to carry out its corporate purposes and exercise the powers granted in this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-050">
+            <num>30.13.050</num>
+            <heading>Limitation on powers.</heading>
+            <content>
+              <p>Sec. 30.13.050.   Limitation on powers.
+An authority has only those powers expressly granted in this chapter, reasonably implied from this chapter, or reasonably necessary or convenient to carry out its corporate purposes and to exercise the powers expressly granted in or reasonably implied from this chapter.  An authority does not have powers of eminent domain, taxation, land use planning, zoning, permitting, or other similar governmental powers.  An authority may not use state grants, appropriations, or other transfers from the state to satisfy bond obligations or otherwise establish collateral or security for bonds issued by the authority.  An authority may not use rents, rates, fees, or other charges collected through operation of a facility owned by the authority to finance the improvement, establishment, and development of unrelated facilities.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-055">
+            <num>30.13.055</num>
+            <heading>Consideration of projects to be financed.</heading>
+            <subsection eId="30-13-055__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before issuing bonds for any project under this chapter, an authority must find, on the basis of all information reasonably available to it, that</p>
+              </content>
+              <paragraph eId="30-13-055__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the project and its development under this chapter will be economically advantageous to the state and the general public welfare and will contribute to the economic growth of the state and the region within which the authority may exercise its powers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="30-13-055__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the project is financially sound and can be expected to produce revenue adequate to repay the bonds with which it is financed; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="30-13-055__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the scope of the project is sufficient to provide a reasonable expectation of a benefit to the region and the economy of the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="30-13-055__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An authority shall give fair and reasonable consideration to a project presented to it for financing.  When the authority determines whether to finance or assist in the financing of the project, the authority shall state the reasons for its determination in a written resolution upon request by a person who presented the project to the authority or a person who presented opposition to the project.  The authority shall base its reasons on the information presented to it concerning the project and on other information considered appropriate by the authority.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_30-13-060">
+            <num>30.13.060</num>
+            <heading>Bonds of an authority.</heading>
+            <subsection eId="30-13-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to the provisions of
+AS 30.13.055
+(a), an authority may borrow money and may issue revenue bonds, including but not limited to bonds on which the principal and interest are payable</p>
+              </content>
+              <paragraph eId="30-13-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>exclusively from the income and receipts or other money derived from the project financed with the proceeds of the bonds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="30-13-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>exclusively from the income and receipts or other money derived from designated projects whether or not they are financed in whole or in part with the proceeds of the bonds; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="30-13-060__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>from the income and receipts or assets generally, or a designated part or parts of them, of the authority or of any other person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="30-13-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Bonds shall be authorized by resolution of the authority, and be dated and shall mature as the resolution may provide, except that no bond may mature more than 40 years from the date of its issue.  Bonds shall bear interest at the rate or rates, be in the denominations, be in the form, either coupon or registered, carry the registration privileges, be executed in the manner, be payable in the medium of payment, at the place or places, and be subject to the terms of redemption which the resolution or a subsequent resolution may provide.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>All bonds, regardless of form or character, shall be negotiable instruments for the purposes of the Uniform Commercial Code.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>All bonds may be sold at public or private sale in the manner, for the price or prices, and at the time or times that the authority may determine.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The superior court shall have jurisdiction to hear and determine suits, actions, or proceedings relating to an authority, including without limitation suits, actions, or proceedings brought to foreclose or otherwise enforce a mortgage, pledge, assignment, or security interest or brought by or for the benefit or security of a holder of its bonds or by a trustee for or other representative of the holders.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-060__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Before issuing bonds for a project under this chapter an authority shall submit to the state bond committee a description of the bond issue and an independent economic feasibility analysis of the project and expected revenues. This information may be contained in a preliminary prospectus, offering circular, or official statement relating to the bond issue.  Bonds may not be issued unless the state bond committee finds, based upon the information submitted by the authority under this subsection and other information that is reasonably available to it, that the project revenues can be reasonably expected to be adequate for payment of the principal and interest on the bonds to be issued if the bonds are to be secured by project revenues alone, and in any event that issuance of the bonds by the authority would not be expected to adversely affect the ability of the state or its political subdivisions to market bonds.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-060__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The total principal sum of bonds issued under this section for all authorities formed under this chapter is $400,000,000 exclusive of refunding bonds.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_30-13-070">
+            <num>30.13.070</num>
+            <heading>Trust indentures and trust agreements.</heading>
+            <content>
+              <p>Sec. 30.13.070.   Trust indentures and trust agreements.
+In the discretion of the authority, an issue of bonds may be secured by a trust indenture or trust agreement between the authority and a corporate trustee, that may be a trust company, bank, or national banking association, with corporate trust powers, located inside or outside the state, or by a secured loan agreement or other instrument or under a resolution giving powers to a corporate trustee, after this in this section referred to as trust agreement, by means of which the authority may
+(1) make and enter into the covenants and agreements with the trustee or the holders of the bonds that the authority determines necessary or desirable, including, without limitation, covenants, provisions, limitations, and agreements as to
+(A) the application, investment, deposit, use, and disposition of the proceeds of the bonds of the authority or of money or other property of the authority or in which it has an interest;
+(B) the fixing and collection of rents or other consideration for, and the other terms to be incorporated in an agreement with respect to a project;
+(C) the assignment by the authority of its rights in a mortgage or other security interest created with respect to a project to a trustee for benefit of bondholders;
+(D) the terms and conditions upon which additional bonds of the authority may be issued;
+(E) the vesting in a trustee of rights, powers, duties, funds, or property in trust for the benefit of bondholders, including, without limitation, the right to enforce payment, performance, and all other rights of the authority or of the bondholders, under a lease, contract of sale, mortgage, security agreement, or trust agreement with respect to a project by mandamus or other proceeding or by taking possession of by agent or otherwise and operating a project and collecting rents or other consideration and applying the same in accordance with the trust agreement;
+(2) pledge, mortgage, or assign money, leases, agreements, property, or other assets of the authority either presently in hand or to be received in the future, or both; and
+(3) provide for any other matters that in any way affect the security or protection of the bonds.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-080">
+            <num>30.13.080</num>
+            <heading>Validity of pledge.</heading>
+            <content>
+              <p>Sec. 30.13.080.   Validity of pledge.
+It is the intention of the legislature that a pledge made in respect of bonds is perfected and valid and binding from the time the pledge is made; that the money or property so pledged and thereafter received by an authority is immediately subject to the lien of the pledge without physical delivery or further act; and that the lien of the pledge is valid and binding against all parties having claims of any kind in tort, contract, or otherwise against the authority whether or not the parties have notice.  Neither the resolution, trust agreement, nor any other instrument by which a pledge is created need be recorded or filed under the provisions of the Uniform Commercial Code to be perfected or to be valid, binding, or effective against the parties.  This section does not affect title to or conveyances of real property, and does not limit the applicability of
+AS 40.17.080
+.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-090">
+            <num>30.13.090</num>
+            <heading>Nonliability on bonds.</heading>
+            <subsection eId="30-13-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Neither the members of an authority nor a person executing the bonds are liable personally on the bonds or are subject to personal liability or accountability by reason of the issuance of the bonds.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The bonds issued by an authority do not constitute an indebtedness or other liability of the state or of a political subdivision of the state, but shall be payable solely from the income and receipts or other funds or property of the authority. The authority may not pledge the faith or credit of the state or of a political subdivision of the state, except the authority, to the payment of a bond, and the issuance of a bond by the authority does not directly or indirectly or contingently obligate the state or a political subdivision of the state to apply money from, levy or pledge any form of taxation to the payment of the bond.</p>
+              </content>
+            </subsection>
+            <subsection eId="30-13-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An authority issuing bonds shall print the language in (b) of this section in substantial form on the face of the bonds and in any offering circular or statement issued in connection with the bonds.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_30-13-100">
+            <num>30.13.100</num>
+            <heading>Pledge of the state.</heading>
+            <content>
+              <p>Sec. 30.13.100.   Pledge of the state.
+The state pledges to and agrees with the holders of bonds issued under this chapter and with the federal agency which loans or contributes funds in respect to a project, that the state will not limit or alter the rights and powers vested in an authority by this chapter to fulfill the terms of a contract made by the authority with the holders or federal agency, or in any way impair the rights and remedies of the holders until the bonds, together with the interest on them with interest on unpaid installments of interest, and all costs and expenses in connection with an action or proceeding by or on behalf of the holders, are fully met and discharged. The authority is authorized to include this pledge and agreement of the state, insofar as it refers to holders of bonds of the authority, in a contract with the holders, and insofar as it relates to a federal agency, in a contract with the federal agency.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-110">
+            <num>30.13.110</num>
+            <heading>Exemption from taxation.</heading>
+            <content>
+              <p>Sec. 30.13.110.   Exemption from taxation.
+The real and personal property of an authority and its assets, income, and receipts are declared to be the property of a political subdivision of the state and, together with any project financed under this chapter, are exempt from all taxes and special assessments of the state or a political subdivision of the state. All bonds of an authority are declared to be issued by a political subdivision of the state and for an essential public and governmental purpose and to be a public instrumentality, and the bonds, and the interest on them, the income from them and the transfer of the bonds, and all assets, income, and receipts pledged to pay or secure the payment of the bonds, or interest on them, shall at all times be exempt from taxation by or under the authority of the state, except for inheritance and estate taxes and taxes on transfers by or in contemplation of death. Nothing in this section affects or limits an exemption from license fees, property taxes, or excise, income, or other taxes, provided under any other law, nor does it create a tax exemption with respect to the interest of any business enterprise or other person, other than the authority, in any property, assets, income, receipts, project, or lease whether or not financed under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-120">
+            <num>30.13.120</num>
+            <heading>Bonds as legal investments for fiduciaries.</heading>
+            <content>
+              <p>Sec. 30.13.120.   Bonds as legal investments for fiduciaries.
+The bonds of an authority are securities in which all public officers and bodies of the state and all municipalities and municipal subdivisions, all insurance companies and associations and other persons carrying on an insurance business, all banks, bankers, trust companies, savings banks, savings associations, including without limitation savings and loan associations and building and loan associations, investment companies and other persons carrying on banking business, all administrators, guardians, executors, trustees and other fiduciaries, and all other persons who are now or may afterward be authorized to invest in bonds or other obligations of the state may properly and legally invest money including capital in their control or belonging to them. Notwithstanding any other provisions of law, the bonds of an authority are also securities that may be deposited with and may be received by all public officers and bodies of the state and all municipalities and municipal subdivisions for any purpose for which the deposit of bonds or other obligations of the state is now or may afterward be authorized.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-125">
+            <num>30.13.125</num>
+            <heading>Audit.</heading>
+            <content>
+              <p>Sec. 30.13.125.   Audit.
+The legislative auditor shall audit or shall cause to have audited annually the financial records of an authority.  The legislative auditor may prescribe the form and content of the financial records of an authority and shall have access to these records at any reasonable time.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-130">
+            <num>30.13.130</num>
+            <heading>Equal use and access.</heading>
+            <content>
+              <p>Sec. 30.13.130.   Equal use and access.
+If an authority owns, leases, or otherwise operates or controls, or participates in the financing of, a facility, the authority shall, to the maximum extent possible, provide for equal rights of access to and use of the facility by members of the public and other persons or entities upon terms and conditions that are fair and reasonable. However, this section does not prevent an authority from establishing fair and reasonable limitations on use of or access to a facility to the extent the limitations are necessary in connection with the nature of the facility or the demand for use of or access to the facility.  This section applies to the establishment of rates and rate structures as well as all other factors, terms, and conditions relating to the use of or access to the facility, including without limitation the design and location of the facility.  The members of the authority shall make a written finding concerning compliance of the facility with the provisions of this section.  A written finding signed by at least three of the five elected members and two of the three appointed members that the facility complies with the provisions of this section shall constitute a conclusive presumption of compliance.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-150">
+            <num>30.13.150</num>
+            <heading>Succession.</heading>
+            <content>
+              <p>Sec. 30.13.150.   Succession.
+Whenever a borough of the first or second class or a home rule municipality is created with an area coterminous with or inclusive of the area of an authority, the authority shall be integrated into the borough or home rule municipality within one year of incorporation.  On integration the borough or home rule municipality succeeds to all the rights, powers, duties, assets, and liabilities of the authority, except that any indebtedness of an authority does not constitute a general obligation of the borough or home rule municipality payable from taxes levied by the borough or home rule municipality. The borough or home rule municipality may not levy any taxes to pay the indebtedness.</p>
+            </content>
+          </section>
+          <section eId="sec_30-13-900">
+            <num>30.13.900</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 30.13.900.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) authority means a public body created under
+AS 30.13.010
+;
+(2) bonds means bonds or other obligations issued under this chapter;
+(3) cost includes the cost of acquisition or construction of all or any part of transportation facilities and of all or any property, rights, easements, and franchises considered by an authority to be necessary, useful, or convenient, including without limitation reimbursements to the authority or any other person of money expended for the purposes of the authority and interest or discount on bonds to finance those expenses, engineering and inspection costs and legal expenses, the cost of financial, professional, and other advice, and the cost of issuance of bonds;
+(4) district means the area within the boundaries of an authority;
+(5) person includes a corporation, company, partnership, firm, association, organization, business trust, society, state or agency or subdivision of the state, municipality of the state, or an authority, as well as a natural person;
+(6) transportation facilities, or facilities, or projects means harbor, port, shipping and transportation facilities of all kinds, including harbors, channels, turning basins, anchorage areas, jetties, breakwaters, waterways, canals, locks, tidal basins, wharves, docks, piers, slips, bulkheads, public landings, warehouses, terminals, refrigerating and cold storage plants, rolling stock, car ferries, tugs, boats, conveyors, tunnels, bridges, highways, roads and railroads, and appliances of all kinds for the handling, storage, inspection, and transportation of freight and natural resource products; it also includes all property, rights, easements, and franchises relative to a facility and necessary or convenient for the acquisition, construction, or operation of the facility, but does not include airport facilities.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

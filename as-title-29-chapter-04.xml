@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-04"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-04"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="29.04"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-04/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-04/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-04/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-04/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_29">
+        <num>29</num>
+        <heading>Municipal Government</heading>
+        <chapter eId="title_29__chp_04">
+          <num>04</num>
+          <heading>Classification of Municipalities</heading>
+          <section eId="sec_29-04-010">
+            <num>29.04.010</num>
+            <heading>Home rule.</heading>
+            <content>
+              <p>Sec. 29.04.010.   Home rule.
+A home rule municipality is a municipal corporation and political subdivision.  It is a city or a borough that has adopted a home rule charter, or it is a unified municipality. A home rule municipality has all legislative powers not prohibited by law or charter.</p>
+            </content>
+          </section>
+          <section eId="sec_29-04-020">
+            <num>29.04.020</num>
+            <heading>General law.</heading>
+            <content>
+              <p>Sec. 29.04.020.   General law.
+A general law municipality is a municipal corporation and political subdivision and is an unchartered borough or city. It has legislative powers conferred by law.</p>
+            </content>
+          </section>
+          <section eId="sec_29-04-030">
+            <num>29.04.030</num>
+            <heading>Classes of general law.</heading>
+            <content>
+              <p>Sec. 29.04.030.   Classes of general law.
+General law municipalities are of five classes:
+(1) first class boroughs;
+(2) second class boroughs;
+(3) third class boroughs;
+(4) first class cities;
+(5) second class cities.</p>
+            </content>
+          </section>
+          <section eId="sec_29-04-040">
+            <num>29.04.040</num>
+            <heading>Reclassification of cities.</heading>
+            <subsection eId="29-04-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A second class city may be reclassified as a first class city. A first class or home rule city may be reclassified as a second class city. Reclassification is proposed by filing a petition with the department. The department shall investigate the proposal and report its findings to the Local Boundary Commission with its recommendations. The commission shall hold at least one public hearing in the city on the proposal. The commission may amend the petition and may impose conditions on the reclassification. If the commission determines that the reclassification, as amended or conditioned if appropriate, meets applicable standards under the state constitution and commission regulations, meets the standards for incorporation under
+AS 29.05.011
+for the class of city proposed in the reclassification petition, and is in the best interests of the state, it may accept the petition. Otherwise, it shall reject the petition. The commission shall notify the city of its decision. The decision may be appealed under
+AS 44.62
+(Administrative Procedure Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="29-04-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A petition proposing reclassification may be filed by</p>
+              </content>
+              <paragraph eId="29-04-040__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a number of voters equal to 15 percent of the number of votes cast in the city at the preceding regular election; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-04-040__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the council.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-04-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 31 ch 58 SLA 1994.]</p>
+              </content>
+            </subsection>
+            <subsection eId="29-04-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The council shall, within 30 days after receiving notification from the Local Boundary Commission that a petition has been accepted, order an election on the question of reclassification. The election shall be held at least 30 days after the order and not later than the next regular election occurring after the 30-day period. If more than one question is to be voted on at the election, each shall appear separately on the ballot.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-04-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The council shall certify the election results to the department. If the majority of votes cast is favorable, the city is reclassified 30 days after certification of the election results.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-04-045">
+            <num>29.04.045</num>
+            <heading>Reclassification of first class cities with fewer than 400 permanent residents.</heading>
+            <subsection eId="29-04-045__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding
+AS 29.04.040
+, a first class city with a population of less than 400 based on the most recent decennial census conducted by the United States Bureau of the Census may be reclassified as a second class city if the council submits a written request to the Local Boundary Commission.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-04-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the Local Boundary Commission verifies that the population of the city is less than 400 persons based on the most recent decennial census conducted by the United States Bureau of the Census, the Local Boundary Commission shall, within 30 days after receiving the request, notify the council that the city is eligible for reclassification as a second class city.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-04-045__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>After the Local Boundary Commission notifies the council of the city's eligibility for reclassification, the council has 30 days to reject the reclassification. If the council rejects the reclassification, the council may not petition the department for reclassification for a period of one year after transmitting the rejection to the Local Boundary Commission. If the council does not reject the reclassification, the reclassification takes effect on the next occurrence of July 1 that is at least 60 days after the date of notification of eligibility.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-04-050">
+            <num>29.04.050</num>
+            <heading>Reclassification of second class boroughs.</heading>
+            <content>
+              <p>Sec. 29.04.050.   Reclassification of second class boroughs.
+A second class borough may reclassify as a first class borough in the manner provided by
+AS 29.35.320
+ 29.35.330 for the addition of an areawide power by a first or second class borough, except the petition or proposal requests reclassification instead of requesting addition of a power.</p>
+            </content>
+          </section>
+          <section eId="sec_29-04-060">
+            <num>29.04.060</num>
+            <heading>Reclassification of third class boroughs.</heading>
+            <subsection eId="29-04-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A third class borough may reclassify as a first or second class borough in the manner provided by
+AS 29.35.320
+ 29.35.330 for the addition of an areawide power by a first or second class borough, except the petition or proposal requests reclassification instead of requesting addition of a power. At the time of voting on reclassification of a third class borough to first or second class status, voters shall vote also on whether the borough shall, on reclassification, retain a combined assembly and school board or elect a separate assembly and board as otherwise provided for first and second class boroughs.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-04-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a combined assembly and school board are approved at the reclassification election, the assembly serving at the time of the election continues to serve as the assembly and board on voter approval of reclassification and until terms of assembly members expire as provided before reclassification.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-04-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a separate assembly and school board are approved at the reclassification election, a school board shall be elected in conformity with
+AS 14.12.030
+ 14.12.100 at the next regular election, if it occurs within 90 days of the date of the reclassification election, or otherwise at a special election within 90 days of the date of the reclassification election. Expiration dates of terms of school board members elected at a special election must coincide with the date of the regular election.  Until a board is elected and qualified, the assembly continues to serve as the board.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

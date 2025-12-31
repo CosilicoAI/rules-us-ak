@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-42/chapter-08"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-42/chapter-08"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="42.08"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-42/chapter-08/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-42/chapter-08/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-42/chapter-08/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-42/chapter-08/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_42">
+        <num>42</num>
+        <heading>Public Utilities and Carriers and Energy Programs</heading>
+        <chapter eId="title_42__chp_08">
+          <num>08</num>
+          <heading>In-State Pipeline Contract Carrier</heading>
+          <section eId="sec_42-08-010">
+            <num>42.08.010</num>
+            <heading>Application of chapter.</heading>
+            <subsection eId="42-08-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This chapter applies to the regulation of in-state natural gas pipelines that provide transportation by contract carriage.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An in-state natural gas pipeline subject exclusively to federal jurisdiction is exempt from this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-020">
+            <num>42.08.020</num>
+            <heading>Qualification of the Alaska Gasline Development Corporation; findings.</heading>
+            <subsection eId="42-08-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Alaska Gasline Development Corporation is financially fit, willing, and able to take the actions, perform the service, and conform to the requirements of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board of directors and the officers of the Alaska Gasline Development Corporation are managerially fit, willing, and able to manage the Alaska Gasline Development Corporation and to take the actions, perform the service, and conform to the requirements of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The proposed service, construction, and operation of an in-state natural gas pipeline for which the Alaska Gasline Development Corporation applies for a certificate under this chapter is required by present and future public convenience and necessity.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The findings that the Alaska Gasline Development Corporation is financially fit in (a) of this section and managerially fit in (b) of this section and that an in-state natural gas pipeline is required by present or future public convenience and necessity in (c) of this section are conclusive and binding on the commission.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The commission shall determine whether a person making application under this chapter is technically fit, willing, and able to take the actions, perform the service, and conform to the requirements in this chapter.
+Article 2. Powers and Duties of Regulatory Commission of Alaska.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-220">
+            <num>42.08.220</num>
+            <heading>General powers and duties.</heading>
+            <subsection eId="42-08-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall</p>
+              </content>
+              <paragraph eId="42-08-220__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>regulate, under the provisions of this chapter, an in-state natural gas pipeline that provides transportation by way of contract carriage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>require permits for the construction, enlargement in size or operating capacity, extension, connection and interconnection, operation, or abandonment of an in-state natural gas pipeline facility under the provisions of this chapter and subject to the same standards as certification in
+AS 42.08.330
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to the extent necessary to perform the duties of the commission under this chapter, have access to, and may designate its employees, agents, or consultants to inspect and examine, the accounts, financial and property records, books, maps, inventories, appraisals, valuations, and related reports kept by an in-state natural gas pipeline carrier, or kept for an in-state natural gas pipeline carrier by others, that directly affect the interests of the state and directly relate to in-state natural gas pipelines located in the state during normal business hours;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>provide all reasonable assistance to the Department of Law in intervening in, offering evidence in, and participating in proceedings before an officer, department, board, commission, or court of another state or the United States involving an in-state natural gas pipeline carrier or an affiliated interest and affecting the interests of the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-08-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission may</p>
+              </content>
+              <paragraph eId="42-08-220__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>review and approve recourse tariffs filed by an in-state natural gas pipeline carrier under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>review and approve contracts;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>investigate, on its own motion or after receiving a formal complaint, a dispute
+(A) related to rules, regulations, services, practices, and facilities that are not subject to the dispute resolution provisions in an in-state natural gas pipeline carrier's contracts or recourse tariff;
+(B) presented by a complainant that does not have a contract with the in-state natural gas pipeline carrier;
+(C) related to the conduct of an in-state natural gas pipeline carrier's open season under
+AS 42.08.300
+; to resolve the dispute, the commission may order an expansion of an in-state natural gas pipeline or order an open season under the terms provided for an expansion or open season in this chapter or
+AS 38.35.121</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-08-220__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>is a violation of the in-state natural gas pipeline carrier's tariff or contract with the public utility;
+(ii) has not been resolved by the in-state natural gas pipeline carrier; and
+(iii) will result in immediate injury, loss, or damage to the peace, health, safety, or general welfare of the public as clearly demonstrated by specific facts shown by affidavit or verified complaint;</p>
+              </content>
+              <paragraph eId="42-08-220__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>adopt regulations that are necessary and proper to the performance of the duties of the commission under this chapter, including regulations governing practices and procedures of the commission; regulations adopted by the commission may not be inconsistent with state law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>initiate, intervene in, and appear personally or by counsel and offer evidence in and participate in, proceedings before an officer, department, board, commission, or court of this state involving an in-state natural gas pipeline carrier and affecting the interests of the state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>appoint a qualified, unbiased, and impartial administrative law judge with experience in the general practice of law to conduct hearings under this chapter; the administrative law judge may perform other duties in connection with the administration of this chapter and other laws; an administrative law judge hired to conduct hearings under this chapter shall have been admitted to practice law for at least five years immediately before appointment under this paragraph.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-08-220__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except with regard to a precedent agreement under
+AS 42.08.320</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>that is filed before the issuance of a certificate, consideration of an application for a contract carriage certificate under
+AS 42.08.330
+, and an initial recourse tariff under
+AS 42.08.350
+(a), the commission may extend a timeline required under this chapter if all parties of record consent to the extension or if, for one time only, before the timeline expires, the</p>
+              </content>
+              <paragraph eId="42-08-220__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>commission reasonably finds that good cause exists to extend the timeline;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>commission issues a written order extending the timeline and setting out its findings regarding good cause; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>extension of time is 30 days or less.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-08-220__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in this chapter, the commission may not</p>
+              </content>
+              <paragraph eId="42-08-220__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>require rates, rate design, or tariff rates or regulations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>require an in-state natural gas pipeline carrier to make a recourse tariff filing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>order a modification of a contract that is approved, considered approved, or filed under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>conduct further review or investigation of a contract that is approved, considered approved, or filed under this chapter; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-220__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>investigate a dispute under (b)(3) of this section if a complete formal complaint has not been filed with the commission within 60 days after the event giving rise to the complaint.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-230">
+            <num>42.08.230</num>
+            <heading>Commission decision-making procedures.</heading>
+            <subsection eId="42-08-230__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and expeditiously adjudicate all matters that come before the commission.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-240">
+            <num>42.08.240</num>
+            <heading>Publication of reports, orders, decisions, and regulations.</heading>
+            <content>
+              <p>Sec. 42.08.240.   Publication of reports, orders, decisions, and regulations.
+All reports, orders, decisions, and regulations of the commission shall be in writing. The commission shall notify all affected operators of in-state natural gas pipeline facilities and interested parties of reports, orders, decisions, and regulations as they are issued and adopted and, when appropriate, publish them in a manner that will reasonably inform the public or the affected consumers of the services of an in-state natural gas pipeline facility. The commission may set charges for costs of printing or reproducing and furnishing copies of reports, orders, decisions, and regulations. The publication requirement, as it pertains to regulations, does not supersede the requirements of
+AS 44.62
+(Administrative Procedure Act).</p>
+            </content>
+          </section>
+          <section eId="sec_42-08-250">
+            <num>42.08.250</num>
+            <heading>Application of Administrative Procedure Act.</heading>
+            <subsection eId="42-08-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The administrative adjudication procedures of
+AS 44.62
+(Administrative Procedure Act) do not apply to adjudicatory proceedings of the commission under this chapter, except that final administrative determinations by the commission are subject to judicial review under
+AS 44.62
+(Administrative Procedure Act) as provided in
+AS 42.08.530
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>AS 44.62
+(Administrative Procedure Act) applies to regulations adopted by the commission.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-260">
+            <num>42.08.260</num>
+            <heading>Annual report.</heading>
+            <content>
+              <p>Sec. 42.08.260.   Annual report.
+The commission shall include in its annual reports under
+AS 42.05.211
+and
+AS 42.06.220
+a review of its activities under this chapter during the previous fiscal year. The report must address the regulation of in-state natural gas pipeline facilities in the state as of June 30 of each year and must contain details about the commission's compliance with the performance measures in this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_42-08-300">
+            <num>42.08.300</num>
+            <heading>Open seasons.</heading>
+            <subsection eId="42-08-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier shall include in its approved recourse tariff the procedures for conducting open seasons for uncommitted firm transportation service and for expansion. At a minimum, the in-state natural gas pipeline carrier shall publish reasonable public notice in advance of an open season. The notice shall contain the approved recourse tariff, the proposed form of the precedent agreement, the proposed form of the firm transportation service agreement, and other information sufficient to show the proposed route, capacity, operating pressures, in-service date, quality specifications, and other operating conditions that the pipeline carrier determines are relevant to an evaluation of the proposed service. The notice shall also state the methods for awarding capacity set out in the carrier's recourse tariff and whether presubscription agreements have been executed. An in-state natural gas pipeline carrier shall provide a mechanism for providing additional relevant information requested by potential shippers.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An open season shall be conducted and firm transportation service shall be awarded without undue discrimination or preference. Presubscription agreements are subject to the methods for awarding capacity set out in the open season notice.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier shall conduct an open season for firm transportation service when it has existing uncommitted firm transportation capacity and has received a request for firm transportation capacity from one or more potential shippers that meet the pipeline's creditworthiness requirements or after it has executed presubscription agreements for firm transportation.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-300__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier shall conduct an open season for an expansion of its pipeline system when it has received one or more requests for firm transportation service from potential shippers that meet the pipeline's creditworthiness requirements and that, in the aggregate, would enable the expansion of the pipeline's system on a commercially reasonable basis. An expansion of the pipeline system is not commercially reasonable if the expansion would cause the pipeline to be a competing natural gas pipeline project for purposes of
+AS 43.90
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-300__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A natural gas pipeline carrier may enter into presubscription agreements before the start of an open season, but not before an initial recourse tariff is approved.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-300__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier shall file revised recourse rates before conducting an open season under (c) and (d) of this section unless the in-state natural gas pipeline carrier filed revised recourse rates during the immediately preceding two-year period.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-300__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If executed precedent agreements are received by an in-state natural gas pipeline carrier, the carrier shall, within 10 days after accepting and executing the agreements, inform the public of the results through publication on the carrier's Internet website and in a press release or other announcement to the media. The results made public must include the name of each prospective shipper, the amount of capacity allocated, and the period of commitment. If the carrier determines that the commitments received during the open season are not sufficient to permit the carrier to continue the development or construction of the in-state natural gas pipeline, the corporation shall report that to the commission within 30 days.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-310">
+            <num>42.08.310</num>
+            <heading>Transportation service.</heading>
+            <subsection eId="42-08-310__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Firm transportation service shall be made available only through a presubscription agreement, a recourse tariff, or an open season conducted in accordance with
+AS 42.08.300
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-310__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The pipeline carrier shall offer a recourse tariff for firm transportation service. The rates included in the recourse tariff shall be determined on a cost-of-service basis and may be levelized over the depreciable life of the pipeline. The recourse tariff may not preclude the pipeline carrier from collecting rolled-in rates so long as the resulting rate for prior shippers does not exceed the initial maximum rate allowable under agreements for capacity.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-310__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier may contract to provide firm transportation service for rates and containing provisions different than those in the recourse tariff. For purposes of this subsection, provisions are limited to those terms and conditions that directly relate to the rate and do not include the general operating terms and conditions of the recourse tariff.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-310__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier shall provide interruptible transportation service through capacity not used for firm transportation service. An in-state natural gas pipeline carrier shall establish means for routinely advising potential shippers of the availability of interruptible transportation service and of uncommitted firm transportation capacity.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-320">
+            <num>42.08.320</num>
+            <heading>Review of certain contracts by the commission.</heading>
+            <subsection eId="42-08-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier shall submit each of its precedent agreements for firm transportation service and any substantial amendments to the commission. A precedent agreement negotiated with an entity that is not a public utility regulated by the commission may be filed under seal. Under
+AS 42.08.400
+, the commission shall keep confidential a precedent agreement filed under seal. Submission of precedent agreements to the commission is permissible before construction of an in-state natural gas pipeline and before a request for certification under this chapter. In this subsection, substantial amendment means an amendment that materially changes a rate or term and condition of service.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In the review of a precedent agreement submitted under (a) of this section or a related contract submitted under
+AS 42.05.433</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c), the commission shall</p>
+              </content>
+              <paragraph eId="42-08-320__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>conclude that a precedent agreement or related contract negotiated at arm's length between the parties is just and reasonable unless the commission finds that unlawful market activity affected the rate or unfair dealing, such as fraud or duress, affected the formation of the contract;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-320__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>review and may conduct an investigation and hearing to determine whether a contract submitted under (a) of this section is just and reasonable; the commission shall either approve the contract as presented or, if the commission finds that a contract is not just and reasonable, disapprove the contract; if the commission has not acted within 180 days after the submission of a contract, the contract shall be considered approved and shall take effect immediately; a contract that is approved or considered approved under this paragraph and the associated firm transportation service agreement are not subject to further review by the commission.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-08-320__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of (b)(1) of this section, and except as provided in (d) of this section, a precedent agreement or related contract is arm's length</p>
+              </content>
+              <paragraph eId="42-08-320__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if it incorporates the approved recourse tariff; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-320__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if it does not incorporate the approved recourse tariff,
+(A) the precedent agreement or related contract is between two state-owned parties;
+(B) the parties are not affiliated; or
+(C) if the parties are affiliated, the precedent agreement or related contract is substantially similar to a precedent agreement or related contract between unaffiliated parties, and the formation of the precedent agreement or related contract was not affected by unlawful market activity or unfair dealing as described in (b)(1) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-08-320__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding (c) of this section, a precedent agreement or related contract with a public utility is not arm's length if the rate paid for transportation on an in-state natural gas pipeline is greater than the recourse tariff rate.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-320__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a precedent agreement or related contract is not arm's length, the commission shall determine whether the precedent agreement or related contract is just and reasonable using the standards normally applied under
+AS 42.06.140
+. If the commission is reviewing a precedent agreement under (c)(2) of this section, the commission may consider the in-state natural gas pipeline carrier's approved recourse tariff, including the cost data underlying the tariff. When considering whether to approve a contract as just and reasonable under this subsection, the commission shall consider the consequences of failing to approve the contract.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-330">
+            <num>42.08.330</num>
+            <heading>Contract carriage certificate.</heading>
+            <subsection eId="42-08-330__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The owner of an in-state natural gas pipeline subject to this chapter may not engage in the transportation of natural gas or undertake the construction of a natural gas pipeline facility for that purpose, or acquire or operate an in-state natural gas pipeline facility, unless a certificate of public convenience and necessity by the commission authorizing contract carriage is in force with respect to that owner. A certificate shall describe the nature and extent of the authority granted, including, as appropriate for the services involved, a description of the authorized area and scope of operation for the in-state natural gas pipeline facility.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-330__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Application for a certificate shall be made in writing to the commission and verified under oath. The commission by regulation shall establish the requirements for the form of the application and the information to be contained in the application. Notice of the application shall be provided to interested parties in the manner provided by regulation.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-330__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Within 180 days after receiving an application under this chapter, the commission shall issue a contract carriage certificate authorizing, in whole or in part, the operation, service, construction, or acquisition covered by the application to a qualified applicant if the commission finds that the applicant is fit, willing, and able to do the acts, perform the proposed service, and conform to the provisions of this chapter and the requirements of the commission, and that the proposed service, operation, construction, extension, or acquisition, to the extent authorized by the certificate, is or will be required by the present or future public convenience and necessity. The commission may, by order, extend the 180-day period for considering an application by the duration of a delay caused by the failure of the applicant to provide additional information reasonably required by the commission. If, within the 180-day period and any extension of the period for considering the application, the commission fails to issue a contract carriage certificate and does not make a finding that the applicant is not fit, willing, and able under this subsection or that the proposed service is not required by public convenience and necessity, the application shall be considered approved and the contract carriage certificate shall take effect immediately.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-330__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commission may attach to a contract carriage certificate reasonable terms and conditions that are consistent with the terms of this chapter and are for the mutual benefit of the in-state natural gas pipeline facility and the public.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-330__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Operating authority may not be transferred by sale or lease of the contract carriage certificate or by the sale of substantially all of the stock or assets of a pipeline carrier holding a certificate without prior approval and a finding by the commission that the safe and efficient operation of the natural gas pipeline is not impaired by the transfer. The commission shall summarily approve a transfer not involving a substantial change in ownership.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-330__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>After receiving a complaint or on its own motion, the commission, after notice and hearing and for good cause shown, may amend, modify, suspend, or revoke, in whole or in part, a certificate. Good cause for amendment, modification, suspension, or revocation of a certificate is shown by</p>
+              </content>
+              <paragraph eId="42-08-330__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>misrepresentation of a material fact in obtaining the certificate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-330__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>unauthorized discontinuance or abandonment of all or part of a service that is the subject of the certificate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-330__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>wilful failure to comply with the provisions of this chapter or a regulation or order of the commission; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-330__subsec_f__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>wilful failure to comply with a term, condition, or limitation of the certificate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-08-330__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A person holding a certificate issued under this chapter may not abandon or permanently discontinue the use of all or a portion of an in-state natural gas pipeline without permission and approval by the commission, after due notice and hearing and a finding by the commission that continued service is not required by public convenience and necessity. An interested person may file a protest or memorandum of opposition to or in support of discontinuance or abandonment with the commission. The commission may order the temporary suspension of a service or part of a service.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-340">
+            <num>42.08.340</num>
+            <heading>Filing requirements; recourse tariffs.</heading>
+            <subsection eId="42-08-340__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier shall file with the commission a complete recourse tariff containing rates, rules, regulations, terms, and conditions pertaining to service provided under the certificate and copies of all contracts with shippers that in any way affect or relate to the carrier's rates, tariffs, charges, classifications, rules, regulations, terms, and conditions to service provided under the certificate.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-340__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The terms and conditions under which an in-state natural gas pipeline carrier offers its services and facilities to the public shall be governed strictly by the provisions of its currently effective recourse tariff as supplemented and modified by contracts that have been approved by the commission. A legally filed and effective recourse tariff rate, charge, rule, regulation, or condition of service may not be changed except as provided in this chapter. The in-state natural gas pipeline carrier shall maintain copies of its recourse tariff on file at its principal business office and at places designated by the commission and make the copies available to and subject to inspection by the general public on demand.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-340__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A change in a recourse tariff rate, charge, rule, regulation, or condition of service is not effective until filed under (a) of this section. If more than one recourse tariff rate or charge may reasonably be applied for billing purposes, the recourse tariff rate or charge most advantageous to the shipper shall be used.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-340__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commission may reject the filing of all or part of a recourse tariff that is not consistent with this chapter. A recourse tariff rate or provision so rejected is void.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-340__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Initial and revised recourse tariffs shall be filed in the manner provided in
+AS 42.08.350
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-350">
+            <num>42.08.350</num>
+            <heading>Initial or revised rates.</heading>
+            <subsection eId="42-08-350__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier may not establish or place in effect an initial recourse tariff containing rates, charges, rules, regulations, conditions of service, or practices without providing notice to the commission and to the public at least 90 days before establishing or placing in effect the initial recourse tariff. Notice shall be filed with the commission before an open season and by making the recourse tariff provisions available for public inspection. The notice shall plainly indicate the time when the recourse tariff will go into effect and include a supporting cost study. The commission may prescribe additional requirements for the notice and the form in which the notice must be provided. The commission, for good cause shown, may allow initial recourse tariffs to take effect on less than 90 days' notice under conditions the commission prescribes by order. Submission of a precedent agreement or an associated contract is not subject to this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-350__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall review the proposed initial recourse tariff and verify that the proposed terms and conditions of service are not unduly discriminatory. The commission also shall review the supporting cost study provided with an initial recourse tariff filing and verify, taking into consideration the expected risks, that the proposed rate of return on equity is within the range of permissible rates of return as determined by the Federal Energy Regulatory Commission in recent decisions related to the construction of natural gas pipelines, that the cost study incorporates a reasonable depreciation methodology and depreciable life, and that the cost study uses a reasonable capital structure. A proposed depreciation methodology, depreciable life, or capital structure is reasonable if it is commonly accepted or used by the commission or the Federal Energy Regulatory Commission.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-350__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon written complaint or in its own motion, and after reasonable notice, the commission may conduct a hearing to determine whether the initial recourse tariff filed with the commission complies with the requirements in (b) of this section. Pending a hearing the commission may, by order stating the reasons for its action, suspend the operation of the initial recourse tariff for a period not longer than 30 days beyond the time when the initial recourse tariff would otherwise go into effect. An order suspending an initial recourse tariff filing may be vacated if, after investigation, the commission finds that it is in all respects proper. Otherwise, the commission shall hold a hearing on the suspended filing and issue its order, before the end of the suspension period, approving or denying the suspended initial recourse tariff.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-350__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Unless a recourse tariff is denied because it includes a proposed term or condition of service that is unduly discriminatory, includes a proposed rate element that does not comply with (b) of this section, or violates a provision of this chapter, the commission shall approve the initial recourse tariff. If the commission does not issue its ruling within the 90-day period, and the period of suspension, if any, the initial recourse tariff filing shall be considered approved.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-350__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier may not establish or place in effect a revised rate, charge, rule, regulation, condition of service, or practice contained in a recourse tariff before providing notice to the commission and to the public at least 90 days before taking the action. After construction or an expansion of the pipeline, and at any time that a carrier files for a revised recourse rate, the carrier shall file a supporting cost study. Notice shall be given by filing with the commission and keeping open for public inspection the revised recourse tariff provisions, which shall plainly indicate the changes to be made in the schedules then in force and the time when the changes will go into effect. The commission may prescribe additional means of giving notice. The commission, for good cause shown, may allow changes to take effect on shorter notice under conditions the commission prescribes by order. Submission of a precedent agreement or an associated contract is not subject to this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-350__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The commission shall review a proposed revised recourse tariff in the same manner as the review of a proposed initial recourse tariff under (b) of this section, except that the depreciable life may be adjusted in accordance with the time period between the approval of the recourse tariff and the approval of the revised recourse tariff. The commission shall verify that the carrier is using the same elements that were last approved by the commission. A proposed recourse tariff with a new or revised term or condition of service that is unduly discriminatory shall be denied. The commission also shall deny a revised tariff rate that does not use the previously approved value of the specified rate element, unless the carrier proves that the new value is just and reasonable. If the commission does not issue its ruling within 90 days, the revised recourse tariff filing shall be considered approved.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-350__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A person initiating a change in an existing recourse tariff bears the burden of proving the reasonableness of the change. The in-state natural gas pipeline carrier bears the burden of proving the recourse tariff terms and conditions are not unduly discriminatory.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-350__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>An in-state natural gas pipeline carrier shall provide for separate rates for one or more classes of firm transportation service and for interruptible transportation service in a recourse tariff filed with the commission under (a) of this section. An in-state natural gas pipeline carrier may impose a reservation fee or similar charge for reservation of capacity in an in-state natural gas pipeline as a condition of providing firm transportation service, but may not impose a reservation fee or similar charge for reservation of capacity in an in-state natural gas pipeline for interruptible transportation service.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-370">
+            <num>42.08.370</num>
+            <heading>Expansion; dispute resolution.</heading>
+            <subsection eId="42-08-370__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contract entered into by an in-state natural gas pipeline carrier may provide for expansion unless the expansion would cause the pipeline to be a competing natural gas pipeline project for purposes of
+AS 43.90
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-370__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The recourse tariff or a contract filed by an in-state natural gas pipeline carrier may include a dispute resolution procedure. A dispute resolution procedure shall</p>
+              </content>
+              <paragraph eId="42-08-370__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provide that notice of a dispute be given to all shippers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-370__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>culminate in a process that is determined by an independent third party or panel; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-370__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>permit the participation of existing shippers and creditworthy potential shippers that have previously made good-faith requests for firm transportation service; a participant must satisfy the commission's standard for intervention in an adjudicatory proceeding and demonstrate that the participant has a property, financial, or other significant interest in the dispute.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-380">
+            <num>42.08.380</num>
+            <heading>Regulatory cost charge.</heading>
+            <subsection eId="42-08-380__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each year, a person operating an in-state natural gas pipeline under this chapter shall pay to the commission a regulatory cost charge if the pipeline for which the charge is assessed is subject to this chapter and the commission has taken action on the pipeline or certificate under this chapter during the prior fiscal year. The amount of the regulatory cost charge may not exceed the sum of the following percentages of gross revenue derived from operations in the state:</p>
+              </content>
+              <paragraph eId="42-08-380__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>0.7 percent to fund the operations of the commission; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-380__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>0.17 percent to fund operations of the public advocacy function under
+AS 42.04.070</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-08-380__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>and
+AS 44.23.020</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>in the Department of Law.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall by regulation establish a method to determine annually the amount of the regulatory cost charge that will apply to a pipeline regulated under this chapter. If the amount the commission expects to collect under (a) of this section,
+AS 42.05.254
+(a), and
+AS 42.06.286</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>exceeds the authorized budgets of the commission and the Department of Law public advocacy function under
+AS 42.04.070</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>and
+AS 44.23.020
+(e), the commission shall, by order, reduce the percentage determined under a regulation adopted under this subsection so that the total amount of the fees collected approximately equals the authorized budgets of the commission and the Department of Law public advocacy function under
+AS 42.04.070</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>and
+AS 44.23.020</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>for the fiscal year.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commission shall administer the charge imposed under this section. The Department of Revenue shall collect and enforce the charge imposed under this section. The Department of Administration shall identify the amount of the operating budgets of the commission and the Department of Law public advocacy function under
+AS 42.04.070</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>and
+AS 44.23.020</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>that lapses into the general fund each year. The legislature may appropriate an amount equal to the lapsed amount to the commission and to the Department of Law public advocacy function under
+AS 42.04.070</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>and
+AS 44.23.020</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>for operating costs for the next fiscal year. If the legislature does so, the commission shall reduce the total regulatory cost charge collected for that fiscal year by a comparable amount.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-380__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commission may adopt regulations under
+AS 44.62
+(Administrative Procedure Act) necessary to administer this section, including procedures and requirements for reporting information and a requirement for paying the regulatory cost charge in quarterly payments. The Department of Revenue may adopt regulations under
+AS 44.62
+(Administrative Procedure Act) for investigating the accuracy of filed information and for collecting required payments.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-390">
+            <num>42.08.390</num>
+            <heading>Effect of chapter on taxes and royalties.</heading>
+            <content>
+              <p>Sec. 42.08.390.   Effect of chapter on taxes and royalties.
+Nothing in this chapter shall alter the calculation of a production tax under
+AS 43.55.011
+ 43.55.180 or the calculation of a royalty due for a lease issued under
+AS 38.05.180
+.</p>
+            </content>
+          </section>
+          <section eId="sec_42-08-400">
+            <num>42.08.400</num>
+            <heading>Public records.</heading>
+            <subsection eId="42-08-400__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) and (c) of this section or prohibited from disclosure under state or federal law, records in the possession of the commission are open to public inspection at reasonable times.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission may by regulation classify records received from an in-state natural gas pipeline carrier or in-state natural gas pipeline as privileged records that are not open to the public for inspection.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-400__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A record filed with the commission that is a precedent agreement between an in-state natural gas pipeline carrier and an unregulated entity is a privileged record that is not open to the public for inspection. For a record that relates to a precedent agreement, or is or relates to a contract other than a precedent agreement between an in-state natural gas pipeline carrier and an unregulated entity, if an in-state natural gas pipeline carrier identifies the provisions of the record that contain information that, if disclosed, could adversely affect the competitive position of the shipper or could cause commercial or competitive harm or damage if disclosed and the commission agrees, the information shall be treated by the commission as confidential.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-400__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person may make written objection to the public disclosure of information contained in a record filed under this chapter or of information obtained by the commission or by the attorney general under this chapter, stating the grounds for the objection. When an objection is made, the commission shall order the information withheld from public disclosure if the information adversely affects the interest of the person making written objection and disclosure is not required in the interest of the public.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-400__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A commissioner may certify as to all official records of the commission under this section and may certify as to all official acts of the commission under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-410">
+            <num>42.08.410</num>
+            <heading>Investigations.</heading>
+            <content>
+              <p>Sec. 42.08.410.   Investigations.
+The commission may investigate any matter for which an investigation is authorized under this chapter. An investigation may be public, nonpublic, or both. In conducting an investigation, the commission may compel the attendance and testimony of witnesses and the production of records and testimony before the commission or its designee. In the course of an investigation, the commission may, subject to
+AS 44.23.020
+(e), exclude from attendance at the taking of investigative testimony all persons except a person compelled to attend, that person's attorney, members of the commission or the commission's staff, and a person authorized to transcribe the proceedings. In conducting an investigation related to a timely filed dispute, the commission shall issue a final order within 150 days after the date the formal complaint was filed with the commission, except for disputes related to open seasons, in which case, a final order must be issued within 60 days. If the commission has not acted within the applicable time period in this section, the dispute shall be considered to have been dismissed with prejudice.</p>
+            </content>
+          </section>
+          <section eId="sec_42-08-440">
+            <num>42.08.440</num>
+            <heading>Uniform system of accounts.</heading>
+            <content>
+              <p>Sec. 42.08.440.   Uniform system of accounts.
+An in-state natural gas pipeline carrier operating under this chapter shall maintain its records and accounts in accordance with the uniform system of accounts for class A natural gas pipelines in 18 C.F.R. 201 (Federal Energy Regulatory Commission), as amended.</p>
+            </content>
+          </section>
+          <section eId="sec_42-08-450">
+            <num>42.08.450</num>
+            <heading>Accounts; records; triennial reports; operating reserve fund.</heading>
+            <subsection eId="42-08-450__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To the extent necessary for the commission to perform the duties of the commission under this chapter,</p>
+              </content>
+              <paragraph eId="42-08-450__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the commission may by regulation require an in-state natural gas pipeline carrier or affiliated interest engaged in activities relating to pipelines to establish and maintain as part of its system of accounts continuing property records showing, as to property that is actually being used in pipeline activity in this state, the year of placement in service, original cost, and current location, and, as to a pipeline system, accounts and records in a manner showing, on a current basis, the original cost of the system in the state and related reserves for depreciation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-08-450__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the in-state natural gas pipeline carrier shall
+(A) keep its accounts for its pipeline facilities located in this state separate from any accounts relating to any other business, including another pipeline facilities business or a subsidiary business, in which it engages, directly or indirectly; except as the commission provides, property, expense, or revenue used in or derived from the other business may not be considered in establishing the rates and charges of the facility;
+(B) keep books, accounts, papers, and records required by this chapter or by regulations adopted by the commission under this chapter in an office in this state and may not remove them from the state except upon written authority by the commission; and
+(C) file a report with the commission that contains an updated cost study and a calculation of the three-year average actual return on equity; the report shall be filed every three years after the pipeline begins operations, within 90 days after the close of the annual accounting period for the in-state natural gas pipeline carrier, or within additional time granted by the commission upon a showing of good cause.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-08-450__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall review the cost study described in (a)(2)(C) of this section and verify that, for the rate elements specified in
+AS 42.08.350
+(b), the carrier is using the same elements that were last approved by the commission. If the carrier does not use the correct rate elements in its triennial report, the commission may require the carrier to recalculate and file a corrected report. If, on the date the report described in (a)(2)(C) of this section is delivered, the report reflects that the three-year average actual return on equity exceeds the approved rate of return, the carrier shall, not later than 90 days after the date the report is delivered, deposit an amount equal to the excess in a segregated operating reserve fund. The carrier shall continue to deposit the excess described in this subsection at the times described in this subsection until the amount in the operating reserve fund is equal to 20 percent of the most recent three-year average of the carrier's annual operating costs. The carrier may use money in the operating reserve fund to offset any shortage in the recovery of operating costs set out in another triennial report. If a deposit will cause the operating reserve fund to exceed 20 percent of the most recent three-year average of the carrier's annual operating costs, the amount exceeding 20 percent must be used to reduce, on a volumetric basis, the firm transportation service rates for all shippers for the next three-year period.
+Article 6. General Provisions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-510">
+            <num>42.08.510</num>
+            <heading>Designation of service agents.</heading>
+            <content>
+              <p>Sec. 42.08.510.   Designation of service agents.
+An in-state natural gas pipeline carrier shall file with the commission a written appointment of a named permanent resident, which may be a corporation, of this state as its registered agent in this state on whom service of all notices, regulations, and requests of the commission may be made. The appointment shall specify the address in this state of the appointed agent. The address may be changed from time to time by filing a new address in the state with the commission. If an in-state natural gas pipeline carrier fails to appoint a registered agent, service of notices, regulations, and requests may be made by posting a copy in the main office of the commission and filing a copy in the office of the lieutenant governor.</p>
+            </content>
+          </section>
+          <section eId="sec_42-08-520">
+            <num>42.08.520</num>
+            <heading>Effect of regulations.</heading>
+            <content>
+              <p>Sec. 42.08.520.   Effect of regulations.
+Regulations adopted by the commission under this chapter have the effect of law.</p>
+            </content>
+          </section>
+          <section eId="sec_42-08-530">
+            <num>42.08.530</num>
+            <heading>Judicial review and enforcement.</heading>
+            <subsection eId="42-08-530__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 38.35.200
+(c), a final order of the commission under this chapter is subject to judicial review under
+AS 44.62.560
+and 44.62.570.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-08-530__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an appeal is not taken from a final order of the commission within 10 calendar days after an investigation under
+AS 42.08.220
+(b)(3), the commission may apply to the superior court for enforcement of the order of the commission. The court shall enforce the order by injunction or other process.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-08-540">
+            <num>42.08.540</num>
+            <heading>Joinder of actions.</heading>
+            <content>
+              <p>Sec. 42.08.540.   Joinder of actions.
+Under the applicable court rules, appeals from orders of the commission and applications for enforcement of orders of the commission may be joined. The court may, in the interests of justice, separate the actions.</p>
+            </content>
+          </section>
+          <section eId="sec_42-08-900">
+            <num>42.08.900</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 42.08.900.   Definitions.
+In this chapter,
+(1) affiliated or affiliated interest, with respect to an in-state natural gas pipeline carrier, means any person that
+(A) is controlled or owned, in whole or in part, by the in-state natural gas pipeline carrier;
+(B) is controlled or owned, in whole or in part, by an entity that controls or owns, in whole or in part, the in-state natural gas pipeline carrier; or
+(C) controls or owns, in whole or in part, the in-state natural gas pipeline carrier;
+(2) commission means the Regulatory Commission of Alaska created under
+AS 42.04.010
+;
+(3) commissioner means a member of the commission;
+(4) firm transportation service means service by a natural gas pipeline carrier that is not subject to a prior claim by another shipper or another class of service; service constitutes firm transportation service if the service receives the same priority as any other class of firm transportation service;
+(5) in-state natural gas pipeline or in-state natural gas pipeline facility means a natural gas pipeline that transports or will transport natural gas in the state by way of contract carriage;
+(6) in-state natural gas pipeline carrier means the owner, including a corporation, company, or other entity organized under the laws of the United States or of any state, of an in-state natural gas pipeline or an interest in it, or a person, including a corporation, company, or other entity organized under the laws of the United States or of any state, that transports or will transport natural gas as a contract carrier;
+(7) natural gas pipeline has the meaning given in
+AS 31.25.390
+;
+(8) precedent agreement means a contractual commitment, including a presubscription agreement, to acquire firm transportation capacity, executed between an in-state natural gas pipeline carrier and another person, that establishes the rates, terms, and conditions for service;
+(9) record means a report, file, book, account, paper, or application and the facts and information contained in it.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

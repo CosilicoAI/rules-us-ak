@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-37/chapter-30"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-37/chapter-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="37.30"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-37/chapter-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-37/chapter-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-37/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-37/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_37">
+        <num>37</num>
+        <heading>Public Finance</heading>
+        <chapter eId="title_37__chp_30">
+          <num>30</num>
+          <heading>Local Government Bonding</heading>
+          <section eId="sec_37-30-100">
+            <num>37.30.100</num>
+            <heading>Prohibited bidding on bonds.</heading>
+            <subsection eId="37-30-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who provides financial programming or marketing assistance to a political subdivision of the state, whether home rule or otherwise, in connection with the issuance or sale of general obligation bonds, revenue bonds, or bond anticipation notes of the political subdivision may not bid on the bonds or notes if offered at public sale, or negotiate for their purchase if sold at private sale.</p>
+              </content>
+            </subsection>
+            <subsection eId="37-30-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The sale of general obligation, revenue bonds, or bond anticipation notes of a political subdivision to a person prohibited from bidding on, or negotiating for the sale of bonds or notes under (a) of this section is against public policy and the sale is void.</p>
+              </content>
+            </subsection>
+            <subsection eId="37-30-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section person means an individual, firm, agent, factor, intermediary, partnership, corporation, association, bond house, stockbroker, or bond broker.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

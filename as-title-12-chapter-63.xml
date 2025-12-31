@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-63"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-63"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.63"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-63/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-63/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-63/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-63/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_63">
+          <num>63</num>
+          <heading>Registration of Sex Offenders</heading>
+          <section eId="sec_12-63-010">
+            <num>12.63.010</num>
+            <heading>Registration of sex offenders and related requirements.</heading>
+            <subsection eId="12-63-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A sex offender or child kidnapper who is physically present in the state shall register as provided in this section. The sex offender or child kidnapper shall register</p>
+              </content>
+              <paragraph eId="12-63-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>within the 30-day period before release from an in-state correctional facility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-63-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>by the next working day following conviction for a sex offense or child kidnapping if the sex offender is not incarcerated at the time of conviction; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-63-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>by the next working day of becoming physically present in the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-63-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A sex offender or child kidnapper required to register under (a) of this section shall register with the Department of Corrections if the sex offender or child kidnapper is incarcerated or in person at the Alaska state trooper post or municipal police department located nearest to where the sex offender or child kidnapper resides at the time of registration. To fulfill the registration requirement, the sex offender or child kidnapper shall</p>
+              </content>
+              <paragraph eId="12-63-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>complete a registration form that includes the following information, if applicable:
+(A) the sex offender's or child kidnapper's full name, mailing and physical addresses, school address, telephone numbers used by the sex offender or child kidnapper, social security number, passport information, citizenship status, physical address of employment, name of employer, job title, and date of birth;
+(B) each conviction for a sex offense or child kidnapping for which the duty to register has not terminated under
+AS 12.63.020
+, the date of the sex offense or child kidnapping convictions, the place and court of the sex offense or child kidnapping convictions, and whether the sex offender or child kidnapper has been unconditionally discharged from the conviction for a sex offense or child kidnapping and the date of the unconditional discharge; if the sex offender or child kidnapper asserts that the offender or kidnapper has been unconditionally discharged, the offender or kidnapper shall supply proof of that discharge acceptable to the department;
+(C) all aliases used;
+(D) the sex offender's or child kidnapper's driver's license number;
+(E) the description, license numbers, and vehicle identification numbers of motor vehicles, including watercraft, aircraft, motorcycles, and recreational vehicles, the sex offender or child kidnapper has access to, regardless of whether that access is regular or not;
+(F) any identifying features of the sex offender or child kidnapper;
+(G) anticipated changes of address and any temporary lodging used by the sex offender or child kidnapper for seven days or more;
+(H) a statement concerning whether the offender or kidnapper has had treatment for a mental abnormality or personality disorder since the date of conviction for an offense requiring registration under this chapter;
+(I) each electronic mail address, instant messaging address, and other Internet communication identifier used by the sex offender or child kidnapper; and
+(J)  professional li</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-63-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>allow the Alaska state troopers, Department of Corrections, municipal police, or any peace officer to take a complete set of the sex offender's or child kidnapper's fingerprints and palm prints and to take the sex offender's or child kidnapper's photograph.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-63-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a sex offender or child kidnapper changes residence or obtains a change of name under
+AS 09.55.010
+or
+AS 25.24.165
+after having registered under (a) of this section, the sex offender or child kidnapper shall provide written notice of the change by the next working day following the change to the Alaska state trooper post or municipal police department located nearest to the new residence or, if the residence change is out of state, to the central registry. If a sex offender or child kidnapper establishes or changes an electronic mail address, instant messaging address, or other Internet communication identifier, the sex offender or child kidnapper shall, by the next working day, notify the department in writing of the changed or new address or identifier.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A sex offender or child kidnapper required to register</p>
+              </content>
+              <paragraph eId="12-63-010__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for 15 years under (a) of this section and
+AS 12.63.020
+shall, annually, during the term of a duty to register under
+AS 12.63.020
+, on a date set by the department at the time of the sex offender's or child kidnapper's initial registration, provide written verification to the department, in the manner required by the department, of the information provided under (b)(1) of this section and notice of any changes to the information previously provided under (b)(1) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-63-010__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for life under (a) of this section and
+AS 12.63.020
+shall, not less than quarterly, on a date set by the department, provide written verification to the department, in the manner required by the department, of the information provided under (b)(1) of this section and notice of any changes to the information previously provided under (b)(1) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-63-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The registration form required to be submitted under (b) of this section and the annual or quarterly verifications must be sworn to by the offender or kidnapper and contain an admonition that a false statement shall subject the offender or kidnapper to prosecution for perjury.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If a sex offender or child kidnapper plans to leave the state for international travel after having registered under (a) of this section, the sex offender or child kidnapper shall provide to the department or a municipal police department in the state written notice of the plan for any intended travel outside the United States at least 21 days before leaving the state for international travel.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-010__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If a sex offender or child kidnapper is away from the physical address provided to the department under (b)(1)(A) of this section for a period of seven days or more, the sex offender or child kidnapper shall notify the department in writing of the address being used by the sex offender or child kidnapper while away from the physical address provided under (b)(1)(A) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-010__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section, correctional facility has the meaning given in
+AS 33.30.901
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-63-020">
+            <num>12.63.020</num>
+            <heading>Duration of sex offender or child kidnapper duty to register.</heading>
+            <subsection eId="12-63-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The duty of a sex offender or child kidnapper to comply with the requirements of
+AS 12.63.010
+is as follows:</p>
+              </content>
+              <paragraph eId="12-63-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for a sex offender or child kidnapper, as that term is defined in
+AS 12.63.100
+(6)(A), for each sex offense or child kidnapping, the duty
+(A) continues for the lifetime of a sex offender or child kidnapper convicted of</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-63-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>one aggravated sex offense; or
+(ii) two or more sex offenses, two or more child kidnappings, or one sex offense and one child kidnapping; for purposes of this section, a person convicted of indecent exposure before a person under 16 years of age under
+AS 11.41.460
+more than two times has been convicted of two or more sex offenses;
+(B) ends 15 years following the sex offender's or child kidnapper's unconditional discharge from a conviction for a single sex offense that is not an aggravated sex offense or for a single child kidnapping if the sex offender or child kidnapper has supplied proof that is acceptable to the department of the unconditional discharge; the registration period under this subparagraph</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>is tolled for the period that a sex offender or child kidnapper fails to comply with the requirements of this chapter or is incarcerated for the offense or kidnapping for which the offender or kidnapper is required to register or for any other offense;
+(ii) may include the time a sex offender or child kidnapper was absent from this state if the sex offender or child kidnapper has complied with any sex offender or child kidnapper registration requirements of the jurisdiction in which the offender or kidnapper was located and if the sex offender or child kidnapper provides the department with proof of the compliance while the sex offender or child kidnapper was absent from this state; and
+(iii) continues for a sex offender or child kidnapper who has not supplied proof acceptable to the department of the offender's or kidnapper's unconditional discharge for the sex offense or child kidnapping requiring registration;</p>
+              </content>
+              <paragraph eId="12-63-020__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for a sex offender or child kidnapper, as that term is defined in
+AS 12.63.100
+(6)(B), the duty continues for the period determined by the department under (b) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-63-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall adopt, by regulation,</p>
+              </content>
+              <paragraph eId="12-63-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>procedures to notify a sex offender or child kidnapper
+(A) who, on the registration form under
+AS 12.63.010
+, lists a conviction for a sex offense or child kidnapping that is a violation of a former law of this state or a law of another jurisdiction, of the duration of the offender's or kidnapper's duty under (a) of this section for that sex offense or child kidnapping;
+(B) as that term is defined in
+AS 12.63.100
+(6)(B), of the duration of the sex offender or child kidnapper's duty under (a) of this section; in adopting regulations under this subparagraph, the department shall</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-63-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>consider the period of registration required in the other jurisdiction; and
+(ii) provide for tolling of the registration period if the sex offender or child kidnapper fails to comply with the requirements of this chapter or is incarcerated;</p>
+              </content>
+              <paragraph eId="12-63-020__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a requirement that an offender or kidnapper supply proof acceptable to the department of unconditional discharge and the date it occurred.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-63-030">
+            <num>12.63.030</num>
+            <heading>Notification of other jurisdictions.</heading>
+            <subsection eId="12-63-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a sex offender or child kidnapper notifies the department that the sex offender or child kidnapper is moving from the state, the department shall notify the Federal Bureau of Investigation and the state where the sex offender or child kidnapper is moving of the sex offender's or child kidnapper's intended address.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a sex offender or child kidnapper fails to register or to verify the sex offender's or child kidnapper's address and registration under this chapter, or the department does not know the location of a sex offender or child kidnapper required to register under this chapter, the department shall immediately notify the Federal Bureau of Investigation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-63-100">
+            <num>12.63.100</num>
+            <heading>Definitions.</heading>
+            <subsection eId="12-63-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>sexual assault in the first degree;
+(ii) sexual assault in the second degree;
+(iii) sexual abuse of a minor in the first degree; or
+(iv) sexual abuse of a minor in the second degree;
+(C) a crime, or an attempt, solicitation, or conspiracy to commit a crime, under
+AS 11.41.410
+, 11.41.434, or a similar law of another jurisdiction or a similar provision under a former law of this state; or
+(D) an offense, or an attempt, solicitation, or conspiracy to commit an offense, under</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>AS 26.05.890
+, or a similar law of another jurisdiction, if the person engaged in or attempted to engage in sexual penetration; or
+(ii)
+AS 26.05.893
+, or a similar law of another jurisdiction, if the prohibited sexual activity in which the member of the militia engaged or attempted to engage is sexual penetration;</p>
+              </content>
+              <paragraph eId="12-63-100__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>child kidnapping means
+(A) a crime under
+AS 11.41.100</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-63-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>member of the militia commits the enumerated offense of kidnapping, punishable under Article 134, 10 U.S.C. 934 (Uniform Code of Military Justice); and
+(ii) victim was under 18 years of age at the time of the offense;</p>
+              </content>
+              <paragraph eId="12-63-100__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>conviction means that an adult, or a juvenile charged as an adult under
+AS 47.12
+or a similar procedure in another jurisdiction, has entered a plea of guilty, guilty but mentally ill, or nolo contendere, or has been found guilty or guilty but mentally ill by a court or jury, of a sex offense or child kidnapping regardless of whether the judgment was set aside under
+AS 12.55.085
+or a similar procedure in another jurisdiction or was the subject of a pardon or other executive clemency; conviction does not include a judgment that has been reversed or vacated by a court;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-63-100__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>department means the Department of Public Safety;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-63-100__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>sexual contact has the meaning given in
+AS 11.81.900
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-63-100__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>sex offender or child kidnapper means
+(A) a person convicted of a sex offense or child kidnapping in this state or another jurisdiction regardless of whether the conviction occurred before, after, or on January 1, 1999; or
+(B) a person charged and convicted as an adult of an offense that requires registration as a sex offender or child kidnapper in another jurisdiction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-63-100__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>sex offense means
+(A) a crime under
+AS 11.41.100</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-63-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>sexual assault in the first degree;
+(ii) sexual assault in the second degree;
+(iii) sexual abuse of a minor in the first degree; or
+(iv) sexual abuse of a minor in the second degree;
+(C) a crime, or an attempt, solicitation, or conspiracy to commit a crime, under the following statutes or a similar law of another jurisdiction:</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>AS 11.41.410
+ 11.41.438;
+(ii)
+AS 11.41.440
+(a)(2);
+(iii)
+AS 11.41.450
+ 11.41.458;
+(iv)
+AS 11.41.460
+or
+AS 26.05.900</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>if the indecent exposure is before a person under 16 years of age and the offender has previously been convicted under
+AS 11.41.460
+or
+AS 26.05.900
+(c);</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-100__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>AS 11.61.125
+ 11.61.128;
+(vi)
+AS 11.66.130
+(a)(2)(B) or
+AS 26.05.900</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>if the person who was induced or caused to engage in prostitution was under 20 years of age at the time of the offense;
+(vii) former
+AS 11.15.120
+, former 11.15.134, or assault with the intent to commit rape under former
+AS 11.15.160
+, former
+AS 11.40.110
+, or former 11.40.200;
+(viii)
+AS 11.61.118
+(a)(2) if the offender has a previous conviction for that offense;
+(ix)
+AS 11.66.100
+(a)(2) if the offender is subject to punishment under former
+AS 11.66.100
+(e);</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-100__subsec_x">
+              <num>(x)</num>
+              <content>
+                <p>AS 26.05.890
+if the person engaged in sexual penetration or sexual contact with the victim;
+(xi)
+AS 26.05.890
+if, at the time of the offense, the victim is under a duty to obey the lawful orders of the offender, regardless of whether the offender is in the direct chain of command over the victim;
+(xii)
+AS 26.05.893
+if the person engaged in sexual penetration or sexual contact with the victim;
+(xiii)
+AS 26.05.900</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>if the victim is under 18 years of age at the time of the offense;
+(xiv)
+AS 26.05.900
+if, at the time of the offense, the victim is under a duty to obey the lawful orders of the offender, regardless of whether the offender is in the direct chain of command over the victim;
+(xv)
+AS 11.61.123
+if the offender is subject to punishment under
+AS 11.61.123
+(g)(1) or (2);
+(xvi)
+AS 11.66.137
+;
+(xvii)
+AS 11.61.130
+(a)(2); or
+(xviii)
+AS 11.66.110
+and 11.66.120;
+(D) an offense, or an attempt, solicitation, or conspiracy to commit an offense, under
+AS 26.05.935
+(b), or a similar law of another jurisdiction, if the member of the militia commits one of the following enumerated offenses punishable under Article 134, 10 U.S.C. 934 (Uniform Code of Military Justice):</p>
+              </content>
+            </subsection>
+            <subsection eId="12-63-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>child sexual abuse material; or
+(ii) pandering and prostitution if the person who is induced, enticed, caused, or procured to engage in a sexual act is under 20 years of age at the time of the offense; or
+(E) an offense in which the person is required to register as a sex offender under the laws of another jurisdiction;</p>
+              </content>
+              <paragraph eId="12-63-100__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>sexual penetration has the meaning given in
+AS 11.81.900
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-63-100__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>unconditional discharge has the meaning given in
+AS 12.55.185
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

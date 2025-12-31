@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-10"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="29.10"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_29">
+        <num>29</num>
+        <heading>Municipal Government</heading>
+        <chapter eId="title_29__chp_10">
+          <num>10</num>
+          <heading>Home Rule Municipalities</heading>
+          <section eId="sec_29-10-010">
+            <num>29.10.010</num>
+            <heading>Municipal charter adoption.</heading>
+            <subsection eId="29-10-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A general law borough or first class city may adopt a charter for its own government.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 31 ch 58 SLA 1994.]</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At an incorporation, merger, or consolidation election a municipality may adopt a charter for its own government and incorporate, merge, or consolidate as a home rule city, borough, or unified municipality.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A home rule municipality may adopt a new charter.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A proposed charter for an existing municipality is prepared by a charter commission of seven elected members. A charter commission election is called by filing a petition with the governing body or by resolution of the governing body. The petition shall be signed by a number of voters equal to 15 percent of the votes cast in the last regular election in the municipality. The petition shall be prepared by the municipal clerk upon receipt of an application meeting the requirements of
+AS 29.26.110
+except that instead of containing an ordinance or resolution the application shall request a charter commission election. The petition shall be prepared in accordance with
+AS 29.26.120
+, except material required under
+AS 29.26.120
+(a)(1) and (2) shall be replaced with the question of whether a charter commission shall be formed. The signature requirements of
+AS 29.26.130
+(a), (c), and (d) apply to the petition. The completed petition shall be submitted to the clerk who shall deliver it to the governing body with a report of the number of valid signatures determined by the clerk to be on the petition.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The proposed charter for a home rule municipality to be formed by incorporation, merger, or consolidation shall be prepared by the petitioners and filed with the petition to incorporate, merge, or consolidate a home rule city, borough, or unified municipality.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-10-020">
+            <num>29.10.020</num>
+            <heading>Model charters.</heading>
+            <content>
+              <p>Sec. 29.10.020.   Model charters.
+The department shall prepare at least one model home rule charter for a city, borough, and unified municipality. The model charters shall be made available to persons interested in filing a petition to form a home rule municipality under
+AS 29.05.060
+or
+AS 29.06.090
+.</p>
+            </content>
+          </section>
+          <section eId="sec_29-10-030">
+            <num>29.10.030</num>
+            <heading>Initiative and referendum.</heading>
+            <subsection eId="29-10-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A home rule charter shall provide procedures for initiative and referendum.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A charter may not require an initiative or referendum petition to have a number of signatures greater than 25 percent of the total votes cast in the municipality at the last regular election.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A charter may not permit the initiative and referendum to be used for a purpose prohibited by art. XI, § 7 of the Constitution of the State of Alaska.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-10-040">
+            <num>29.10.040</num>
+            <heading>Charter commission candidates.</heading>
+            <subsection eId="29-10-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A candidate for a charter commission of an existing municipality shall have been qualified to vote in municipality for at least one year immediately preceding the charter commission election.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A charter commission candidate is nominated by a petition signed by at least 50 voters or the number of voters equal to 10 percent of the number of votes cast in the municipality during the last regular election, whichever is less. A nomination petition shall be filed with the municipal clerk on or before a date fixed by the governing body.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If at least seven nominations for qualified charter commission candidates are not filed, the petition or resolution calling for a charter commission is void and an election on the question may not be held.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-10-050">
+            <num>29.10.050</num>
+            <heading>Charter commission election.</heading>
+            <content>
+              <p>Sec. 29.10.050.   Charter commission election.
+At a charter commission election the voters of an existing municipality shall consider the question Shall a charter commission be elected to prepare a proposed charter? and shall elect the members of the commission. If the question is approved, the seven candidates receiving the highest number of votes immediately organize as a charter commission.</p>
+            </content>
+          </section>
+          <section eId="sec_29-10-060">
+            <num>29.10.060</num>
+            <heading>Preparation of charter by charter commission.</heading>
+            <content>
+              <p>Sec. 29.10.060.   Preparation of charter by charter commission.
+The charter commission shall, within one year, prepare a proposed home rule charter for an existing municipality. The proposed charter shall be signed by a majority of the members of the commission and filed in the office of the municipal clerk. Within 15 days, the clerk shall have the proposed charter published and make copies available.  The commission shall give published notice of and hold at least one public hearing on the proposed charter before the signing and filing of the charter.</p>
+            </content>
+          </section>
+          <section eId="sec_29-10-070">
+            <num>29.10.070</num>
+            <heading>Charter election.</heading>
+            <content>
+              <p>Sec. 29.10.070.   Charter election.
+The proposed home rule charter for an existing municipality shall be submitted to the voters at an election held not less than 30 days or more than 90 days after the proposed charter is published. The proposed home rule charter for a home rule municipality to be formed by incorporation, merger, or consolidation shall be submitted to the voters at an election held under
+AS 29.05.110
+or
+AS 29.06.140
+.</p>
+            </content>
+          </section>
+          <section eId="sec_29-10-080">
+            <num>29.10.080</num>
+            <heading>Charter adoption.</heading>
+            <subsection eId="29-10-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a majority of those voting in an existing municipality favor the proposed charter or if a majority of those voting to form a home rule municipality by incorporation, merger, or consolidation favor incorporation, merger, or consolidation, the proposed charter becomes the organic law of the municipality effective on the date the election is certified. Thereafter, a court shall take judicial notice of the charter. The new home rule municipality shall file the indicated number of copies of the charter with</p>
+              </content>
+              <paragraph eId="29-10-080__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the lieutenant governor  two copies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-080__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the department  two copies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-080__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the district recorder  one copy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-080__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the municipal clerk  one copy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-10-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At the time of voting on the proposed charter in a third class borough, voters shall vote also on whether the borough shall, on adoption of the charter, retain a combined assembly and school board or elect a separate assembly and board as otherwise provided for home rule boroughs.  If a combined assembly and school board are approved at the charter election, the assembly serving at the time of the election continues to serve as the assembly and board on voter approval of the charter and until terms of assembly members expire as provided before adoption of the charter.  If a separate board and assembly are approved at the charter election, a school board shall be elected in conformity with
+AS 14.12.030
+ 14.12.100 at the next regular election, if it occurs within 90 days of the date of the charter election, or otherwise at a special election within 90 days of the date of the charter election. Expiration dates of terms of school board members elected at a special election shall coincide with the date of the regular election. Until a board is elected and qualified, the assembly continues to serve as the board.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-10-090">
+            <num>29.10.090</num>
+            <heading>Charter rejection.</heading>
+            <subsection eId="29-10-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a proposed charter for an existing municipality is rejected, the charter commission shall prepare another proposed charter to be submitted to the voters at an election to be held within one year after the date of the first charter election.  If the second proposed charter is also rejected, the charter commission shall be dissolved and the question of adoption of a charter shall be treated as if it had never been proposed or approved.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If incorporation, merger, or consolidation of a home rule municipality is rejected by the voters, the proposed charter is rejected.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-10-100">
+            <num>29.10.100</num>
+            <heading>Charter amendment.</heading>
+            <subsection eId="29-10-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A home rule charter may be amended as provided in the charter, except that no amendment is effective unless ratified by the voters.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-10-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a charter is amended, the municipality shall file the indicated number of copies of the revised charter with</p>
+              </content>
+              <paragraph eId="29-10-100__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the lieutenant governor  two copies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-100__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the department  two copies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-100__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the district recorder  one copy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-100__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the municipal clerk  one copy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-10-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section applies to home rule municipalities.
+Article 2. Home Rule Limitations.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-10-200">
+            <num>29.10.200</num>
+            <heading>Limitation of home rule powers.</heading>
+            <subsection eId="29-10-200__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>(ordinance veto by mayor);</p>
+              </content>
+              <paragraph eId="29-10-200__subsec_e__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>AS 29.20.630
+(prohibited discrimination);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>AS 29.20.640
+(reports);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>AS 29.25.010</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>AS 29.25.050
+(codification);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>AS 29.25.060
+(resolutions);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>AS 29.25.070</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-10-200__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>and (f) (penalties);</p>
+              </content>
+              <paragraph eId="29-10-200__subsec_e__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>AS 29.25.074
+(surcharge);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_23">
+                <num>(23)</num>
+                <content>
+                  <p>AS 29.25.080
+(breast-feeding);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_24">
+                <num>(24)</num>
+                <content>
+                  <p>AS 29.26.030
+(notice of elections);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_25">
+                <num>(25)</num>
+                <content>
+                  <p>AS 29.26.050
+(voter qualification);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_26">
+                <num>(26)</num>
+                <content>
+                  <p>AS 29.26.250
+ 29.26.360 (recall);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_27">
+                <num>(27)</num>
+                <content>
+                  <p>AS 29.35.020
+(extraterritorial jurisdiction);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_28">
+                <num>(28)</num>
+                <content>
+                  <p>AS 29.35.030
+(eminent domain);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_e__subsec_29">
+                <num>(29)</num>
+                <content>
+                  <p>AS 29.35.050</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-10-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p> (c) (garbage and solid waste services);</p>
+              </content>
+              <paragraph eId="29-10-200__subsec_a__subsec_30">
+                <num>(30)</num>
+                <content>
+                  <p>AS 29.35.055
+(local air quality control program);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_31">
+                <num>(31)</num>
+                <content>
+                  <p>AS 29.35.060
+(franchises and permits);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_32">
+                <num>(32)</num>
+                <content>
+                  <p>AS 29.35.070
+(public utilities);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_33">
+                <num>(33)</num>
+                <content>
+                  <p>AS 29.35.080
+(alcoholic beverages);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_34">
+                <num>(34)</num>
+                <content>
+                  <p>AS 29.35.090</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-10-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>(certain vacations of rights-of-way prohibited);</p>
+              </content>
+              <paragraph eId="29-10-200__subsec_b__subsec_35">
+                <num>(35)</num>
+                <content>
+                  <p>AS 29.35.120
+(post audit);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_36">
+                <num>(36)</num>
+                <content>
+                  <p>AS 29.35.125
+(fees for police protection services);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_37">
+                <num>(37)</num>
+                <content>
+                  <p>AS 29.35.131
+ 29.35.137 (enhanced 911 system);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_38">
+                <num>(38)</num>
+                <content>
+                  <p>AS 29.35.141
+(regulation of radio antennas);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_39">
+                <num>(39)</num>
+                <content>
+                  <p>AS 29.35.144
+(sprinkler fire protection systems);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_40">
+                <num>(40)</num>
+                <content>
+                  <p>AS 29.35.145
+(regulation of firearms and knives);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_41">
+                <num>(41)</num>
+                <content>
+                  <p>AS 29.35.146
+(images captured by unmanned aircraft systems);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_42">
+                <num>(42)</num>
+                <content>
+                  <p>AS 29.35.147
+(licensing of massage therapists);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_43">
+                <num>(43)</num>
+                <content>
+                  <p>AS 29.35.148
+(regulation of transportation network companies or drivers).</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_44">
+                <num>(44)</num>
+                <content>
+                  <p>AS 29.35.149
+(regulation of dextromethorphan);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_45">
+                <num>(45)</num>
+                <content>
+                  <p>AS 29.35.160
+(education);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_46">
+                <num>(46)</num>
+                <content>
+                  <p>AS 29.35.170</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-10-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>(assessment and collection of taxes);</p>
+              </content>
+              <paragraph eId="29-10-200__subsec_b__subsec_47">
+                <num>(47)</num>
+                <content>
+                  <p>AS 29.35.180</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-10-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>(land use regulation);</p>
+              </content>
+              <paragraph eId="29-10-200__subsec_b__subsec_48">
+                <num>(48)</num>
+                <content>
+                  <p>AS 29.35.250
+(cities inside boroughs);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_49">
+                <num>(49)</num>
+                <content>
+                  <p>AS 29.35.260
+(cities outside boroughs);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_50">
+                <num>(50)</num>
+                <content>
+                  <p>AS 29.35.340
+(acquisition of areawide power);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_51">
+                <num>(51)</num>
+                <content>
+                  <p>AS 29.35.450
+(service areas);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_52">
+                <num>(52)</num>
+                <content>
+                  <p>AS 29.35.500
+ 29.35.590 (hazardous materials and wastes);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_53">
+                <num>(53)</num>
+                <content>
+                  <p>AS 29.40.160</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-10-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p> (c) (title to vacated areas);</p>
+              </content>
+              <paragraph eId="29-10-200__subsec_a__subsec_54">
+                <num>(54)</num>
+                <content>
+                  <p>AS 29.40.200
+(subdivisions of state land);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_55">
+                <num>(55)</num>
+                <content>
+                  <p>AS 29.45.010
+ 29.45.560 and 29.45.800 (property taxes);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_56">
+                <num>(56)</num>
+                <content>
+                  <p>AS 29.45.650</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_57">
+                <num>(57)</num>
+                <content>
+                  <p>AS 29.45.700</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_58">
+                <num>(58)</num>
+                <content>
+                  <p>AS 29.45.750
+(taxation of mobile telecommunications);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_59">
+                <num>(59)</num>
+                <content>
+                  <p>AS 29.45.810
+(exemption from municipal taxation);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_60">
+                <num>(60)</num>
+                <content>
+                  <p>AS 29.45.820
+(air carriers);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_a__subsec_61">
+                <num>(61)</num>
+                <content>
+                  <p>AS 29.46.010</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-10-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>(exemption from municipal assessment);</p>
+              </content>
+              <paragraph eId="29-10-200__subsec_b__subsec_62">
+                <num>(62)</num>
+                <content>
+                  <p>AS 29.47.200</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-10-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>(security for bonds);</p>
+              </content>
+              <paragraph eId="29-10-200__subsec_b__subsec_63">
+                <num>(63)</num>
+                <content>
+                  <p>AS 29.47.260
+(revenue bonds);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_64">
+                <num>(64)</num>
+                <content>
+                  <p>AS 29.55.100
+ 29.55.165 (energy and resilience improvement assessment programs);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_65">
+                <num>(65)</num>
+                <content>
+                  <p>AS 29.65
+(general grant land);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_66">
+                <num>(66)</num>
+                <content>
+                  <p>AS 29.71.040
+(procurement preference for state agricultural and fisheries products);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-10-200__subsec_b__subsec_67">
+                <num>(67)</num>
+                <content>
+                  <p>AS 29.71.050
+(procurement preference for recycled Alaska products).</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

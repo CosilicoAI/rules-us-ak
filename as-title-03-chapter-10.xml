@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-10"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="3.10"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_3">
+        <num>3</num>
+        <heading>Agriculture, Animals, and Food</heading>
+        <chapter eId="title_3__chp_10">
+          <num>10</num>
+          <heading>Alaska Agricultural Loan Act</heading>
+          <section eId="sec_03-10-010">
+            <num>03.10.010</num>
+            <heading>Declaration of policy.</heading>
+            <content>
+              <p>Sec. 03.10.010.   Declaration of policy.
+It is the policy of this chapter to promote the more rapid development of agriculture as an industry throughout the state by means of long-term low-interest loans.</p>
+            </content>
+          </section>
+          <section eId="sec_03-10-020">
+            <num>03.10.020</num>
+            <heading>Powers of the board.</heading>
+            <subsection eId="03-10-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>[See delayed amendment note.]  The Board of Agriculture and Conservation (
+AS 03.09.010
+) may</p>
+              </content>
+              <paragraph eId="03-10-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>make a loan to
+(A) an individual resident farmer, homesteader, or a partnership or corporation composed of farmers and homesteaders for</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="03-10-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>clearing land for agricultural purposes;
+(ii) development of farms;
+(iii) storage and processing of farm produce; or
+(iv) the purchase of livestock or machinery;
+(B) an individual state resident, or a partnership or corporation for</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>storage and processing plants for agricultural products;
+(ii) the commercial production or processing of horticultural products in the state;
+(iii) the commercial production or processing of animal feed in the state; or
+(iv) the raising or care of animals in the state for the purpose of marketing their fur;</p>
+              </content>
+              <paragraph eId="03-10-020__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>designate agents and delegate its powers to them as necessary;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-020__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>adopt regulations necessary to carry out its functions, including regulations to establish reasonable fees for services provided and charges for collecting the fees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-020__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>establish amortization plans for repayment of loans, which may include delayed payments of principal and interest for not to exceed five years;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-020__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>enter into agreements with private lending institutions, other state agencies, or agencies of the federal government to carry out the purposes of this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-020__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>collect the fees and collection charges established under this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="03-10-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, horticultural products means vegetables, fruit plants, grass seed, sod, tree seedlings, ornamental plants, foliage, or flowering plants, grown in a greenhouse or nursery.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-10-030">
+            <num>03.10.030</num>
+            <heading>Limitations on loans.</heading>
+            <subsection eId="03-10-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A farm development, chattel, or irrigation loan made under this chapter</p>
+              </content>
+              <paragraph eId="03-10-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may not exceed a term of 30 years, except that a chattel loan may not exceed a term of seven years;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may not, when added to the outstanding balance of other loans made under this chapter, exceed a total outstanding balance of $3,000,000, adjusted annually for inflation on July 1 of each year based on the percentage increase in the Consumer Price Index for all urban consumers for urban Alaska during the previous calendar year, as determined by the United States Department of Labor, Bureau of Labor Statistics;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>shall be secured by a real estate or chattel mortgage of any priority, except that the portion of a loan that exceeds $500,000, when added to prior indebtedness that is secured by the same property, must be secured by a first mortgage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>shall bear interest at a fixed rate comparable to that charged by other agricultural lending institutions in the state for loans similar to those referred to in this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="03-10-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 72 ch 113 SLA 1982.]</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[See delayed amendment note.]  A short-term loan, to be amortized within one year, not to exceed $350,000 to any one borrower may be made for operating purposes, except that a loan made under this subsection may not exceed $200,000 unless the loan is made to a borrower in a farm disaster area declared under
+AS 03.10.058
+. The loan shall bear interest at a fixed rate comparable to that charged by other agricultural lending institutions in the state for loans similar to those referred to in this subsection. An applicant for a short-term loan may be required to purchase insurance through the Federal Crop Insurance Act (7 U.S.C. 1501  1520) as a condition of the loan. The term of a loan made under this subsection may be extended for up to three years by the Board of Agriculture and Conservation, in the discretion of the board, upon application by the borrower.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 72 ch 113 SLA 1982.]</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An installment payment is delinquent unless it is received by the Board of Agriculture and Conservation or the director of the board on or before the 30th day after the date specified for payment in the loan agreement. If an installment payment is delinquent, the director of the board may assess a delinquency penalty.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-030__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A farm product processing loan may not exceed $500,000. A mortgage that secures a farm product processing loan may be of any priority if the total indebtedness on the real estate, including the secured farm product processing loan, does not exceed $500,000. A farm product processing loan that, if made, would raise the existing indebtedness on the real estate securing the loan above $500,000, or a farm product processing loan on real estate that has a prior indebtedness of $500,000 or more, may be made only if all prior mortgagees agree to subordinate their mortgages to that of the state for the amount of the farm product processing loan that exceeds the $500,000 indebtedness limit on the real estate. A farm product processing loan may not exceed a term of 30 years or bear interest at a rate that is less than a fixed rate comparable to that charged by other agricultural lending institutions in the state for similar loans, and shall be secured by a real estate or chattel mortgage or both.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-030__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>[See delayed amendment note.]  A loan for clearing land may not</p>
+              </content>
+              <paragraph eId="03-10-030__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>exceed $250,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-030__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>bear interest at a rate that is less than a fixed rate comparable to that charged by other agricultural lending institutions in the state for similar loans;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-030__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>have a term in excess of 20 years; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-030__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>be made for clearing land other than land that has been classified by the United States Department of Agriculture, Natural Resources Conservation Service, under the Land Capability Classification System as having agricultural potential for the production of annual crops or hay, or for pasture.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="03-10-030__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The Board of Agriculture and Conservation shall adopt regulations to establish other terms for loans made under this chapter, consistent with the provisions of this section, and may establish interest rates for loans under (a)(4) of this section that</p>
+              </content>
+              <paragraph eId="03-10-030__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>encourage agricultural development;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-030__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>do not subsidize nonviable agricultural enterprises; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-030__subsec_h__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>do not discriminate against viable existing agricultural enterprises.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="03-10-030__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A person is not eligible for a loan under this chapter if the person has a past due child support obligation established by court order or by the child support services agency under
+AS 25.27.160
+ 25.27.220 at the time of application.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-10-033">
+            <num>03.10.033</num>
+            <heading>Restructuring of agricultural debt.</heading>
+            <subsection eId="03-10-033__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To increase the return to the state, the Board of Agriculture and Conservation may restructure loans (1) in existence on January 1, 1987, made by the former Agricultural Revolving Loan Fund Board or by the former Alaska Agricultural Action Council based upon guidelines approved by the Board of Agriculture and Conservation; (2) of a borrower in an area that has been declared a farm disaster area under
+AS 03.10.058
+; or (3) of a borrower who has experienced an agricultural disaster based upon regulations adopted by the Board of Agriculture and Conservation. Notwithstanding any other provision of law that relates to loan terms, the restructuring may only include reduction of interest to a fixed rate not less than five percent a year, an extension of the term of the loan, and an improvement to the security interest of the state. It may not reduce the amount of principal and interest owed before the loan is restructured.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-033__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The maximum term of a loan modified under (a) of this section is 30 years from the date of restructuring.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-033__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding any other provision of this section, the Board of Agriculture and Conservation may approve an application for restructuring under this section only upon</p>
+              </content>
+              <paragraph eId="03-10-033__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the applicant's written release of the state, including the University of Alaska, from all potential liability for actions and omissions occurring before the date of restructuring that relate in any way to a state farm project, land sale, land sale relinquishment, farm loan, or loan application or loan modification application, whether granted or denied by the state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-033__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>assignment by the applicant to the board of the proceeds from the federal government under 7 U.S.C. 1442 (Conservation Reserve Program) and P.L. 88-26 (Feed Grain Act of 1963), as amended.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="03-10-033__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the board receives proceeds under (c)(2) of this section that exceed the amount owed and credited to the loan during the year, the board shall refund the extra proceeds to the applicant.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-10-035">
+            <num>03.10.035</num>
+            <heading>Use or disposal of mortgaged farm land.</heading>
+            <subsection eId="03-10-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A borrower may not use farm land for a nonfarm use or sell, lease, or otherwise dispose of farm land if that land is encumbered by a mortgage given to secure the payment of a loan under this chapter unless the borrower either</p>
+              </content>
+              <paragraph eId="03-10-035__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>pays the outstanding balance of the loan in a lump sum or under other terms agreed to by the Board of Agriculture and Conservation that accelerate payment of the loan; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-035__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>pays the outstanding principal balance for the remaining term of the loan at the prevailing rate of interest that is charged by commercial banks in the state during the calendar quarter in which the board receives notice of the change of use, sale, lease, or other disposal of the farm land.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="03-10-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, nonfarm use means a use of land other than for the production of domesticated plants and animals useful to humans, including forage and sod crops, grain and feed crops, fruits, vegetables, and livestock.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-10-040">
+            <num>03.10.040</num>
+            <heading>Agricultural revolving loan fund.</heading>
+            <subsection eId="03-10-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is an agricultural revolving loan fund which may not exceed $75,000,000 to carry out the purpose of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Money in the fund may be used by the legislature to make appropriations for costs of administering this chapter and for operations of the Board of Agriculture and Conservation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-10-050">
+            <num>03.10.050</num>
+            <heading>Administration of fund; Board of Agriculture and Conservation.</heading>
+            <subsection eId="03-10-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Board of Agriculture and Conservation shall administer the agricultural revolving loan fund. A loan may not be made without the approval of a majority of the board, except that emergency loans based upon regulations adopted by the board and not to exceed $50,000 may be made upon the approval, by majority vote, of a committee composed of the chair of the board, another board member, and the director of the board.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board is composed of seven members appointed by the governor and confirmed by the legislature in joint session. Members shall have the following qualifications:</p>
+              </content>
+              <paragraph eId="03-10-050__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>one member shall have general business or financial experience;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-050__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>one member shall be a member of a statewide agriculture promotion organization;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-10-050__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>one member shall be a member of a soil and water conservation district established under
+AS 41.10.130</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="03-10-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>who is also engaged in commercial production agriculture;</p>
+              </content>
+              <paragraph eId="03-10-050__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>four members shall be engaged in commercial production agriculture; each shall represent a different agriculture enterprise from the others, such as livestock production, dairy, vegetable production, grain production, horticultural production, and greenhouse and hydroponic production.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="03-10-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A meeting of the board to act on applications for loans is exempt from the public meeting requirements of
+AS 44.62.310
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 30 ch 81 SLA 2000.]</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>To encourage the prompt payment of loans, the board may establish a program of credits for persons who have a loan from the agricultural revolving loan fund and maintain good financial standing. The credits may be applied against no more than two percentage points a year of the interest due on agricultural revolving loan fund loans.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-050__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A credit may not be granted under (e) of this section to reduce interest due on a loan if the borrower has an agricultural loan in default, has a loan that has been rewritten, restructured, rolled over, or otherwise had its term extended or interest rate reduced, or has had a land payment or land clearing loan restructured.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-10-050__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The board may dispose of property acquired by the agricultural revolving loan fund through foreclosure, default, or other action arising out of agricultural loans or the sale of agricultural land. Disposals shall be conducted under regulations approved by the commissioner. The regulations must ensure that the property is disposed of so as to maximize the return to the state and must require that the parcels of land that are composed primarily of cropland soils be restricted to agricultural uses and disposed of only to persons who are residents of the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-10-058">
+            <num>03.10.058</num>
+            <heading>Farm disaster area.</heading>
+            <content>
+              <p>Sec. 03.10.058.   Farm disaster area.
+The governor may declare a farm disaster in an area of the state if a natural disaster causes a crop failure.</p>
+            </content>
+          </section>
+          <section eId="sec_03-10-060">
+            <num>03.10.060</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 03.10.060.   Short title.
+This chapter may be cited as the Alaska Agricultural Loan Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

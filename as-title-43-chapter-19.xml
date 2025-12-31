@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-19"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-19"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.19"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-19/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-19/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-19/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-19/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_19">
+          <num>19</num>
+          <heading>Multistate Tax Compact</heading>
+          <section eId="sec_43-19-010">
+            <num>43.19.010</num>
+            <heading>Compact.</heading>
+            <content>
+              <p>Sec. 43.19.010.   Compact.
+The Multistate Tax Compact is hereby enacted into law and entered into with all jurisdictions legally joining in it, in the form substantially as follows:</p>
+            </content>
+          </section>
+          <section eId="sec_43-19-020">
+            <num>43.19.020</num>
+            <heading>Commissioner of revenue to represent department.</heading>
+            <subsection eId="43-19-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner shall represent this state on the Multistate Tax Commission.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-19-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The member representing this state on the multistate commission may be represented by an alternate designated by the commissioner.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-19-030">
+            <num>43.19.030</num>
+            <heading>Consulting committee.</heading>
+            <content>
+              <p>Sec. 43.19.030.   Consulting committee.
+The governor shall appoint a consulting committee consisting of three persons who are representative of subdivisions affected or likely to be affected by the Multistate Tax Compact, none of whom may be members of the legislature.  The member of the commission representing this state, and any alternate designated by the member shall consult regularly with this committee, in accordance with Article VI, 1(b) of the compact.</p>
+            </content>
+          </section>
+          <section eId="sec_43-19-040">
+            <num>43.19.040</num>
+            <heading>Advisory committee.</heading>
+            <content>
+              <p>Sec. 43.19.040.   Advisory committee.
+There is established the Multistate Tax Compact Advisory Committee composed of the member of the Multistate Tax Commission representing this state, any alternate designated by the member, the attorney general or the designee of the attorney general, the members of the consulting committee, two members of the senate to be appointed by the president, and two members of the house of representatives to be appointed by the speaker.  The chairman shall be the member of the commission representing this state.  The committee shall meet on the call of its chairman or at the request of a majority of its members, but in any event it shall meet not less than three times in each year.  The committee may consider all matters relating to recommendations of the Multistate Tax Commission and the activities of the members in representing this state on the commission.</p>
+            </content>
+          </section>
+          <section eId="sec_43-19-050">
+            <num>43.19.050</num>
+            <heading>Interstate audits.</heading>
+            <content>
+              <p>Sec. 43.19.050.   Interstate audits.
+Article VIII of the compact relating to interstate audits shall be in force in and with respect to this state.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

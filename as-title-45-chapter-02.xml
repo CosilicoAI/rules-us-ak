@@ -1,0 +1,3281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-02"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-02"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.02"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-02/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-02/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-02/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-02/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_02">
+          <num>02</num>
+          <heading>Sales</heading>
+          <section eId="sec_45-02-101">
+            <num>45.02.101</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 45.02.101.   Short title.
+This chapter shall be known and may be cited as Uniform Commercial Code  Sales.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-102">
+            <num>45.02.102</num>
+            <heading>Scope; certain security and other transactions excluded.</heading>
+            <content>
+              <p>Sec. 45.02.102.   Scope; certain security and other transactions excluded.
+Unless the context otherwise requires, this chapter applies to transactions in goods; it does not apply to a transaction that, although in the form of an unconditional contract to sell or present sale, is intended to operate only as a security transaction, nor does this chapter impair or repeal any statute regulating sales to consumers, farmers, or other specified class of buyers.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-103">
+            <num>45.02.103</num>
+            <heading>Definitions and index of definitions.</heading>
+            <subsection eId="45-02-103__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In this chapter, unless the context otherwise requires,</p>
+              </content>
+              <paragraph eId="45-02-103__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>buyer means a person who buys or contracts to buy goods;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>[Repealed, § 113 ch 44 SLA 2009.]</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>receipt of goods means taking physical possession of them;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>seller means a person who sells or contracts to sell goods.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-103__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Other definitions applying to this chapter and the sections in which they appear are</p>
+              </content>
+              <paragraph eId="45-02-103__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>acceptance (
+AS 45.02.606
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>banker's credit (
+AS 45.02.325
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>between merchants (
+AS 45.02.104
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>cancellation (
+AS 45.02.106</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>commercial unit (
+AS 45.02.105
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>confirmed credit (
+AS 45.02.325
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>conforming to contract (
+AS 45.02.106
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>contract for sale (
+AS 45.02.106
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>cover (
+AS 45.02.712
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>entrusting (
+AS 45.02.403
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>financing agency (
+AS 45.02.104
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>future goods (
+AS 45.02.105
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>goods (
+AS 45.02.105
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>identification (
+AS 45.02.501
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>installment contract (
+AS 45.02.612
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>letter of credit (
+AS 45.02.325
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>lot (
+AS 45.02.105
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>merchant (
+AS 45.02.104
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>overseas (
+AS 45.02.323
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>person in position of seller (
+AS 45.02.707
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>present sale (
+AS 45.02.106
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>sale (
+AS 45.02.106
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_23">
+                <num>(23)</num>
+                <content>
+                  <p>sale or return (
+AS 45.02.326
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_b__subsec_24">
+                <num>(24)</num>
+                <content>
+                  <p>termination (
+AS 45.02.106
+).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-103__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The following definitions in other chapters apply to this chapter:</p>
+              </content>
+              <paragraph eId="45-02-103__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>check (
+AS 45.03.104
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>consignee (
+AS 45.07.112
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>consignor (
+AS 45.07.112
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>consumer goods (
+AS 45.29.102
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>control (
+AS 45.07.116
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>dishonor (
+AS 45.03.502
+);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-103__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>draft (
+AS 45.03.104
+).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-103__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In addition,
+AS 45.01
+contains general definitions and principles of construction and interpretation applicable throughout this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-104">
+            <num>45.02.104</num>
+            <heading>Definitions: merchant; between merchants; financing agency.</heading>
+            <subsection eId="45-02-104__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Merchant means a person who deals in goods of the kind or otherwise by occupation holds oneself out as having knowledge or skill peculiar to the practices or goods involved in the transaction or to whom this knowledge or skill may be attributed by the person's employment of an agent or broker or other intermediary who by occupation holds oneself out as having this knowledge or skill.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-104__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Financing agency means a bank, finance company, or other person who, in the ordinary course of business, makes advances against goods or documents of title or who, by arrangement with either the seller or the buyer, intervenes in ordinary course to make or collect payment due or claimed under the contract for sale, as by purchasing or paying the seller's draft or making advances against it or by merely taking it for collection whether or not documents of title accompany or are associated with the draft. Financing agency includes also a bank or other person who similarly intervenes between persons who are in the position of seller and buyer in respect to the goods (
+AS 45.02.707
+).</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-104__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Between merchants means in any transaction with respect to which both parties are chargeable with the knowledge or skill of merchants.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-105">
+            <num>45.02.105</num>
+            <heading>Definitions: transferability; goods; future goods; lot; commercial unit.</heading>
+            <subsection eId="45-02-105__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Goods means all things, including specially manufactured goods, that are movable at the time of identification to the contract for sale other than the money in which the price is to be paid, investment securities (
+AS 45.08
+), and things in action.  Goods also includes the unborn young of animals and growing crops and other identified things attached to realty as described in the section on goods to be severed from realty (
+AS 45.02.107
+).</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-105__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Goods must be both existing and identified before an interest in them can pass.  Goods that are not both existing and identified are future goods.  A purported present sale of future goods or of an interest in future goods operates as a contract to sell.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-105__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>There may be a sale of a part interest in existing identified goods.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-105__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An undivided share in an identified bulk of fungible goods is sufficiently identified to be sold although the quantity of the bulk is not determined. Any agreed proportion of the bulk or a quantity of the bulk agreed upon by number, weight, or other measure may, to the extent of the seller's interest in the bulk, be sold to the buyer, who then becomes an owner in common.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-105__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Lot means a parcel or a single article that is the subject matter of a separate sale or delivery, whether or not it is sufficient to perform the contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-105__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Commercial unit means such a unit of goods as by commercial usage is a single whole for purposes of sale and division of which materially impairs its character or value on the market or in use.  A commercial unit may be a single article (as a machine), or a set of articles (as a suite of furniture or an assortment of sizes), or a quantity (as a bale, gross, or carload), or any other unit treated in use or in the relevant market as a single whole.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-106">
+            <num>45.02.106</num>
+            <heading>Definitions: contract; agreement; contract for sale; sale; present sale; conforming to contract; termination; cancellation.</heading>
+            <subsection eId="45-02-106__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In this chapter, unless the context otherwise requires, contract and agreement are limited to those relating to the present or future sale of goods. Contract for sale includes both a present sale of goods and a contract to sell goods at a future time.  A sale consists in the passing of title from the seller to the buyer for a price (
+AS 45.02.401
+). A present sale means a sale that is accomplished by the making of the contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-106__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Goods or conduct including any part of a performance are conforming or conform to the contract when they are in accordance with the obligations under the contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-106__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Termination occurs when either party, under a power created by agreement or law, puts an end to the contract otherwise than for its breach.  On termination all obligations that are still executory on both sides are discharged, but a right based on a prior breach of performance survives.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-106__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Cancellation occurs when either party puts an end to the contract for breach by the other and its effect is the same as that of termination, except that the cancelling party also retains any remedy for breach of the whole contract or an unperformed balance.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-107">
+            <num>45.02.107</num>
+            <heading>Goods to be severed from realty; recording.</heading>
+            <subsection eId="45-02-107__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contract for the sale of minerals or the like, including oil and gas, or a structure or its materials to be removed from realty is a contract for the sale of goods within this chapter if they are to be severed by the seller, but until severance a purported present sale that is not effective as a transfer of an interest in land is effective only as a contract to sell.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-107__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A contract for the sale apart from the land of growing crops or other things attached to realty and capable of severance without material harm to them but not described in (a) of this section or of timber to be cut is a contract for the sale of goods within this chapter, whether the subject matter is to be severed by the buyer or by the seller even though it forms part of the realty at the time of contracting, and the parties can by identification effect a present sale before severance.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-107__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section is subject to third party rights provided by the law relating to realty records. The contract for sale may be executed and recorded as a document transferring an interest in land.  It then constitutes notice to third parties of the buyer's rights under the contract for sale.
+Article 2. Form, Formation, and Readjustment of Contract.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-201">
+            <num>45.02.201</num>
+            <heading>Formal requirements; statute of frauds.</heading>
+            <subsection eId="45-02-201__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in this section a contract for the sale of goods, including the sale or transfer of a boat or vessel, for the price of $500 or more is not enforceable by action or defense unless there is a writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by an authorized agent or broker of that party.  A writing is not insufficient because it omits or incorrectly states a term agreed upon but the contract is not enforceable under this subsection beyond the quantity of goods shown in such writing.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-201__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Between merchants if within a reasonable time a writing in confirmation of the contract and sufficient against the sender is received and the party receiving it has reason to know its contents, it satisfies the requirements of (a) of this section against the party unless written notice of objection to its contents is given within 10 days after it is received.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-201__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A contract that does not satisfy the requirements of (a) of this section but that is valid in other respects is enforceable</p>
+              </content>
+              <paragraph eId="45-02-201__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if the goods are to be specially manufactured for the buyer and are not suitable for sale to others in the ordinary course of the seller's business and the seller, before notice of repudiation is received and under circumstances that reasonably indicate that the goods are for the buyer, has made either a substantial beginning of their manufacture or commitments for their procurement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-201__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the party against whom enforcement is sought admits in a pleading, in testimony, or in court that a contract for sale was made, but the contract is not enforceable under this provision beyond the quantity of goods admitted; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-201__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>with respect to goods for which payment has been made and accepted or that have been received and accepted (
+AS 45.02.606
+).</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-202">
+            <num>45.02.202</num>
+            <heading>Final written expression; parol or extrinsic evidence.</heading>
+            <content>
+              <p>Sec. 45.02.202.   Final written expression; parol or extrinsic evidence.
+Terms with respect to which the confirmatory memoranda of the parties agree, or that are otherwise set out in a writing intended by the parties as a final expression of their agreement with respect to the terms included in the writing, may not be contradicted by evidence of a prior agreement or of a contemporaneous oral agreement, but may be explained or supplemented
+(1) by course of performance, course of dealing, or usage of trade (
+AS 45.01.303
+); and
+(2) by evidence of consistent additional terms unless the court finds the writing was intended also as a complete and exclusive statement of the terms of the agreement.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-203">
+            <num>45.02.203</num>
+            <heading>Seals inoperative.</heading>
+            <content>
+              <p>Sec. 45.02.203.   Seals inoperative.
+The affixing of a seal to a writing evidencing a contract for sale or an offer to buy or sell goods does not make the writing a sealed instrument and the law with respect to sealed instruments does not apply to the contract or offer.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-204">
+            <num>45.02.204</num>
+            <heading>Formation in general.</heading>
+            <subsection eId="45-02-204__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contract for sale of goods may be made in any manner sufficient to show agreement, including conduct by both parties that recognizes the existence of the contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-204__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An agreement sufficient to be a contract for sale may be found even though the moment of its making is undetermined.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-204__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Even though one or more terms are left open, a contract for sale does not fail for indefiniteness if the parties intended to make a contract and there is a reasonably certain basis for giving an appropriate remedy.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-205">
+            <num>45.02.205</num>
+            <heading>Firm offers.</heading>
+            <content>
+              <p>Sec. 45.02.205.   Firm offers.
+An offer by a merchant to buy or sell goods in a signed writing that by its terms gives assurance that it will be held open is not revocable, for lack of consideration, during the time stated or if no time is stated for a reasonable time, but in no event may the period or irrevocability exceed three months.  A term of assurance on a form supplied by the offeree must be separately signed by the offeror.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-206">
+            <num>45.02.206</num>
+            <heading>Offer and acceptance in formation of contract.</heading>
+            <subsection eId="45-02-206__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless otherwise unambiguously indicated by the language or circumstances</p>
+              </content>
+              <paragraph eId="45-02-206__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-206__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an order or other offer to buy goods for prompt or current shipment shall be construed as inviting acceptance either by a prompt promise to ship or by the prompt or current shipment of conforming or nonconforming goods, but a shipment of nonconforming goods does not constitute an acceptance if the seller seasonably notifies the buyer that the shipment is offered only as an accommodation to the buyer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-206__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the beginning of a requested performance is a reasonable mode of acceptance, an offeror who is not notified of acceptance within a reasonable time may treat the offer as having lapsed before acceptance.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-207">
+            <num>45.02.207</num>
+            <heading>Additional terms in acceptance or confirmation.</heading>
+            <subsection eId="45-02-207__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A definite and seasonable expression of acceptance or a written confirmation that is sent within a reasonable time operates as an acceptance even though it states terms additional to or different from those offered or agreed upon, unless acceptance is expressly made conditional on assent to the additional or different terms.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-207__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The additional terms are to be construed as proposals for addition to the contract.  Between merchants these terms become part of the contract unless</p>
+              </content>
+              <paragraph eId="45-02-207__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the offer expressly limits acceptance to the terms of the offer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-207__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>they materially alter it; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-207__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>notification of objection to them has already been given or is given within a reasonable time after notice of them is received.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-207__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Conduct by both parties that recognizes the existence of a contract is sufficient to establish a contract for sale although the writings of the parties do not otherwise establish a contract.  In this case the terms of the particular contract consist of those terms on which the writings of the parties agree, together with supplementary terms incorporated under other provisions of the code.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-209">
+            <num>45.02.209</num>
+            <heading>Modification, rescission, and waiver.</heading>
+            <subsection eId="45-02-209__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An agreement modifying a contract within this chapter needs no consideration to be binding.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-209__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A signed agreement that excludes modification or rescission except by a signed writing cannot be otherwise modified or rescinded, but except as between merchants such a requirement on a form supplied by the merchant must be separately signed by the other party.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-209__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The requirements of the statute of frauds section (
+AS 45.02.201
+) must be satisfied if the contract as modified is within its provision.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-209__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Although an attempt at modification or rescission does not satisfy the requirements of (b) or (c) of this section it can operate as a waiver.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-209__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A party who has made a waiver affecting an executory portion of the contract may retract the waiver by reasonable notification received by the other party that strict performance will be required of any term waived, unless the retraction would be unjust in view of a material change of position in reliance on the waiver.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-210">
+            <num>45.02.210</num>
+            <heading>Delegation of performance; assignment of rights.</heading>
+            <subsection eId="45-02-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A party may perform the party's duty through a delegate unless otherwise agreed or unless the other party has a substantial interest in having the original promisor perform or control the acts required by the contract. No delegation of performance relieves the party delegating of a duty to perform or a liability for breach.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless otherwise agreed, all rights of either seller or buyer can be assigned except where the assignment would materially change the duty of the other party, increase materially the burden or risk imposed on the other party by the contract, or impair materially the chance of obtaining return performance. A right to damages for breach of the whole contract or a right arising out of the assignor's due performance of the entire obligation can be assigned despite agreement otherwise.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-210__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The creation, attachment, perfection, or enforcement of a security interest in the seller's interest under a contract is not a transfer that materially changes the duty of or increases materially the burden or risk imposed on the buyer or impairs materially the buyer's chance of obtaining return performance within the purview of (b) of this section unless, and then only to the extent that, enforcement actually results in a delegation of material performance of the seller; even in that event, the creation, attachment, perfection, and enforcement of the security interest remain effective, but</p>
+              </content>
+              <paragraph eId="45-02-210__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the seller is liable to the buyer for damages caused by the delegation to the extent that the damages could not reasonably be prevented by the buyer; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-210__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a court having jurisdiction may grant other appropriate relief, including cancellation of the contract for sale or an injunction against enforcement of the security interest or consummation of the enforcement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-210__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Unless the circumstances indicate the contrary, a prohibition of assignment of the contract is to be construed as barring only the delegation to the assignee of the assignor's performance.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-210__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An assignment of the contract or all my rights under the contract or an assignment in similar general terms is an assignment of rights and, unless the language or the circumstances, as in an assignment for security, indicate the contrary, it is a delegation of performance of the duties of the assignor and its acceptance by the assignee constitutes a promise by the assignee to perform those duties. This promise is enforceable by either the assignor or the other party to the original contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-210__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The other party may treat an assignment that delegates performance as creating reasonable grounds for insecurity and may, without prejudice to the party's rights against the assignor, demand assurances from the assignee (
+AS 45.02.609
+).
+Article 3. General Obligation and Construction of Contract.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-301">
+            <num>45.02.301</num>
+            <heading>General obligations of parties.</heading>
+            <content>
+              <p>Sec. 45.02.301.   General obligations of parties.
+The obligation of the seller is to transfer and deliver, and that of the buyer to accept and pay, in accordance with the contract.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-302">
+            <num>45.02.302</num>
+            <heading>Unconscionable contract or clause.</heading>
+            <subsection eId="45-02-302__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the court as a matter of law finds the contract or a clause of the contract was unconscionable at the time it was made, the court may refuse to enforce the contract, enforce the remainder of the contract without the unconscionable clause, or so limit the application of an unconscionable clause as to avoid an unconscionable result.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-302__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If it is claimed or appears to the court that the contract or any clause of the contract may be unconscionable, the parties shall be given a reasonable opportunity to present evidence as to its commercial setting, purpose, and effect to aid the court in making the determination.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-303">
+            <num>45.02.303</num>
+            <heading>Allocation or division of risks.</heading>
+            <content>
+              <p>Sec. 45.02.303.   Allocation or division of risks.
+Where this chapter allocates a risk or a burden as between the parties unless otherwise agreed, the agreement may not only shift the allocation but may also divide the risk or burden.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-304">
+            <num>45.02.304</num>
+            <heading>Price payable in money, goods, realty, or otherwise.</heading>
+            <subsection eId="45-02-304__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The price can be made payable in money or otherwise.  If it is payable in whole or in part in goods, each party is a seller of the goods that the party is to transfer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-304__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Even though all or part of the price is payable in an interest in realty, the transfer of the goods and the seller's obligations with reference to them are subject to this chapter but not the transfer of the interest in realty or the transferor's obligations in connection with the transfer of the real interest.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-305">
+            <num>45.02.305</num>
+            <heading>Open price term.</heading>
+            <subsection eId="45-02-305__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The parties if they so intend can conclude a contract for sale even though the price is not settled.  In this case the price is a reasonable price at the time for delivery if</p>
+              </content>
+              <paragraph eId="45-02-305__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>nothing is said as to price;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-305__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the price is left to be agreed by the parties and they fail to agree; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-305__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the price is to be fixed in terms of an agreed market or other standard as set or recorded by a third person or agency and it is not so set or recorded.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-305__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A price to be fixed by the seller or by the buyer means a price for the party to fix in good faith.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-305__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a price left to be fixed otherwise than by agreement of the parties fails to be fixed through fault of one party, the other party has the option to treat the contract as cancelled or fix a reasonable price.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-305__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If, however, the parties intend not to be bound unless the price is fixed or agreed and it is not fixed or agreed, there is no contract.  In this case the buyer must return goods already received or if unable so to do must pay their reasonable value at the time of delivery and the seller must return any portion of the price paid on account.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-306">
+            <num>45.02.306</num>
+            <heading>Output, requirements, and exclusive dealings.</heading>
+            <subsection eId="45-02-306__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A term that measures the quantity by the output of the seller or the requirements of the buyer means such actual output or requirements as may occur in good faith, except that no quantity unreasonably disproportionate to a stated estimate or, in the absence of a stated estimate, to a normal or otherwise comparable prior output or requirements may be tendered or demanded.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-306__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A lawful agreement by either the seller or the buyer for exclusive dealing in the kind of goods concerned imposes, unless otherwise agreed, an obligation by the seller to use best efforts to supply the goods and by the buyer to use best efforts to promote their sale.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-307">
+            <num>45.02.307</num>
+            <heading>Delivery in single lot or several lots.</heading>
+            <content>
+              <p>Sec. 45.02.307.   Delivery in single lot or several lots.
+Unless otherwise agreed, all goods called for by a contract for sale must be tendered in a single delivery and payment is due only on this tender, but, where the circumstances give either party the right to make or demand delivery in lots, the price if it can be apportioned may be demanded for each lot.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-308">
+            <num>45.02.308</num>
+            <heading>Absence of specified place for delivery.</heading>
+            <content>
+              <p>Sec. 45.02.308.   Absence of specified place for delivery.
+Unless otherwise agreed
+(1) the place for delivery of goods is the seller's place of business or if the seller has none the seller's residence; but
+(2) in a contract for sale of identified goods that to the knowledge of the parties at the time of contracting are in some other place, that place is the place for their delivery; and
+(3) documents of title may be delivered through customary banking channels.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-309">
+            <num>45.02.309</num>
+            <heading>Absence of specific time provisions; notice of termination.</heading>
+            <subsection eId="45-02-309__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The time for shipment or delivery or any other action under a contract if not provided in this chapter or agreed upon is a reasonable time.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-309__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the contract provides for successive performances but is indefinite in duration, it is valid for a reasonable time, but, unless otherwise agreed, may be terminated at any time by either party.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-309__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Termination of a contract by one party except on the happening of an agreed event requires that reasonable notification be received by the other party.  An agreement dispensing with notification is invalid if its operation would be unconscionable.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-310">
+            <num>45.02.310</num>
+            <heading>Open time for payment or running of credit; authority to ship under reservation.</heading>
+            <content>
+              <p>Sec. 45.02.310.   Open time for payment or running of credit; authority to ship under reservation.
+Unless otherwise agreed,
+(1) payment is due at the time and place at which the buyer is to receive the goods even though the place of shipment is the place of delivery;
+(2) if the seller is authorized to send the goods, the seller may ship them under reservation and may tender the documents of title, but the buyer may inspect the goods after their arrival before payment is due unless inspection is inconsistent with the terms of the contract (
+AS 45.02.513
+);
+(3) if delivery is authorized and made by way of documents of title other than by (2) of this section, then payment is due, regardless of where the goods are to be received, at the time
+(A) and place at which the buyer is to receive delivery of the tangible documents; or
+(B) the buyer is to receive delivery of the electronic documents and at the seller's place of business or, if the seller does not have a place of business, the seller's residence; and
+(4) if the seller is required or authorized to ship the goods on credit, the credit period runs from the time of shipment, but postdating the invoice or delaying its dispatch correspondingly delays the starting of the credit period.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-311">
+            <num>45.02.311</num>
+            <heading>Options and cooperation respecting performance.</heading>
+            <subsection eId="45-02-311__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An agreement for sale that is otherwise sufficiently definite (
+AS 45.02.204
+(c)) to be a contract is not made invalid by the fact that it leaves particulars of performance to be specified by one of the parties.  The specification must be made in good faith and within limits set by commercial reasonableness.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-311__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless otherwise agreed, specifications relating to assortment of the goods are at the buyer's option and, except as otherwise provided in
+AS 45.02.319
+(a)(3) and (c), specifications or arrangements relating to shipment are at the seller's option.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-311__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the specification would materially affect the other party's performance but is not seasonably made or if one party's cooperation is necessary to the agreed performance of the other but is not seasonably forthcoming, the other party in addition to all other remedies</p>
+              </content>
+              <paragraph eId="45-02-311__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is excused for a resulting delay in the party's own performance; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-311__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may either proceed to perform in a reasonable manner or, after the time for a material part of the party's own performance, treat the failure to specify or to cooperate as a breach by failure to deliver or accept the goods.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-312">
+            <num>45.02.312</num>
+            <heading>Warranty of title and against infringement; buyer's obligation against infringement.</heading>
+            <subsection eId="45-02-312__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to (b) of this section there is in a contract for sale a warranty by the seller that</p>
+              </content>
+              <paragraph eId="45-02-312__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the title conveyed shall be good, and its transfer rightful; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-312__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the goods shall be delivered free from a security interest or other lien or encumbrance of which the buyer at the time of contracting has no knowledge.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-312__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A warranty under (a) of this section will be excluded or modified only by specific language or by circumstances that give the buyer reason to know that the person selling does not claim title in the seller or that the person is purporting to sell only such right or title as the person selling or a third person may have.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-312__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless otherwise agreed, a seller who is a merchant regularly dealing in goods of the kind warrants that the goods shall be delivered free of the rightful claim of a third person by way of infringement or the like, but a buyer who furnishes specifications to the seller must hold the seller harmless against any such claim that arises out of compliance with the specifications.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-313">
+            <num>45.02.313</num>
+            <heading>Express warranties by affirmation, promise, description, sample.</heading>
+            <subsection eId="45-02-313__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Express warranties by the seller are created as follows:</p>
+              </content>
+              <paragraph eId="45-02-313__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an affirmation of fact or promise made by the seller to the buyer that relates to the goods and becomes part of the basis of the bargain creates an express warranty that the goods shall conform to the affirmation or promise;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-313__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a description of the goods that is made part of the basis of the bargain creates an express warranty that the goods shall conform to the description;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-313__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a sample or model that is made part of the basis of the bargain creates an express warranty that the whole of the goods shall conform to the sample or model.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-313__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is not necessary to the creation of an express warranty that the seller use formal words such as warrant or guarantee or that the seller have a specific intention to make a warranty, but an affirmation merely of the value of the goods or a statement purporting to be merely the seller's opinion of commendation of the goods does not create a warranty.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-314">
+            <num>45.02.314</num>
+            <heading>Implied warranty: Merchantability; usage of trade.</heading>
+            <subsection eId="45-02-314__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless excluded or modified (
+AS 45.02.316
+), a warranty that the goods shall be merchantable is implied in a contract for their sale if the seller is a merchant with respect to goods of that kind.  Under this section the serving for value of food or drink to be consumed either on the premises or elsewhere is a sale.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-314__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Goods to be merchantable must at least</p>
+              </content>
+              <paragraph eId="45-02-314__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>pass without objection in the trade under the contract description;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-314__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in the case of fungible goods, be of fair average quality within the description;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-314__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>be fit for the ordinary purposes for which the goods are used;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-314__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>run, within the variations permitted by the agreement, of even kind, quality, and quantity within each unit and among all units involved;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-314__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>be adequately contained, packaged, and labeled as the agreement requires; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-314__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>conform to the promises or affirmations of fact made on the container or label.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-314__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless excluded or modified (
+AS 45.02.316
+), other implied warranties may arise from course of dealing or usage of trade.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-315">
+            <num>45.02.315</num>
+            <heading>Implied warranty: Fitness for particular purpose.</heading>
+            <content>
+              <p>Sec. 45.02.315.   Implied warranty: Fitness for particular purpose.
+If the seller at the time of contracting has reason to know a particular purpose for which the goods are required and that the buyer is relying on the seller's skill or judgment to select or furnish suitable goods, there is, unless excluded or modified under
+AS 45.02.316
+, an implied warranty that the goods shall be fit for that purpose.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-316">
+            <num>45.02.316</num>
+            <heading>Exclusion or modification of warranties.</heading>
+            <subsection eId="45-02-316__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Words or conduct relevant to the creation of an express warranty and words or conduct tending to negate or limit warranty shall be construed where reasonable as consistent with each other; but, subject to the provisions on parol or extrinsic evidence (
+AS 45.02.202
+), negation or limitation is inoperative to the extent that such construction is unreasonable.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-316__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Subject to (c) of this section, to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify an implied warranty of fitness the exclusion must be by a writing and conspicuous. Language to exclude all implied warranties of fitness is sufficient if it states, for example, that There are no warranties which extend beyond the description on the face of this instrument.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-316__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (b) of this section,</p>
+              </content>
+              <paragraph eId="45-02-316__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like as is, with all faults, or other language that in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-316__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>when the buyer, before entering into the contract, has examined the goods or the sample or model as fully as the buyer desired or has refused to examine the goods, there is no implied warranty with regard to defects that an examination ought in the circumstances to have revealed to the buyer; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-316__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an implied warranty can also be excluded or modified by course of dealing or course of performance or usage of trade.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-316__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Remedies for breach of warranty can be limited in accordance with the provisions on liquidation or limitation of damages and on contractual modification of remedy (
+AS 45.02.718
+and 45.02.719).</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-316__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Implied warranties of merchantability and fitness are not applicable to a contract for the sale of human blood, blood plasma or other human tissue or organs from a blood bank or reservoir of tissue or organs.  The blood, blood plasma, tissue, or organs may not, for the purposes of this chapter, be considered commodities subject to sale or barter, but shall be considered medical services.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-317">
+            <num>45.02.317</num>
+            <heading>Cumulation and conflict of warranties express or implied.</heading>
+            <content>
+              <p>Sec. 45.02.317.   Cumulation and conflict of warranties express or implied.
+Warranties whether express or implied shall be construed as consistent with each other and as cumulative, but if that construction is unreasonable the intention of the parties determines which warranty is dominant.  In ascertaining that intention the following rules apply:
+(1) exact or technical specifications displace an inconsistent sample or model or general language of description;
+(2) a sample from an existing bulk displaces inconsistent general language of description;
+(3) an express warranty displaces an inconsistent implied warranty other than an implied warranty of fitness for a particular purpose.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-318">
+            <num>45.02.318</num>
+            <heading>Third-party beneficiaries of warranties express or implied.</heading>
+            <content>
+              <p>Sec. 45.02.318.   Third-party beneficiaries of warranties express or implied.
+A seller's warranty whether express or implied extends to a natural person who is in the family or household of the buyer or who is a guest in the buyer's home if it is reasonable to expect that the person may use, consume, or be affected by the goods and who is injured in person by breach of the warranty. A seller may not exclude or limit the operation of this section.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-319">
+            <num>45.02.319</num>
+            <heading>F.O.B. and F.A.S. terms.</heading>
+            <subsection eId="45-02-319__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless otherwise agreed, the term F.O.B., which means free on board, at a named place, even though used only in connection with the stated price, is a delivery term under which,</p>
+              </content>
+              <paragraph eId="45-02-319__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>when the term is F.O.B. the place of shipment, the seller must at that place ship the goods in the manner provided in
+AS 45.02.504
+and bear the expense and risk of putting them into the possession of the carrier; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-319__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>when the term is F.O.B. the place of destination, the seller must, at the expense and risk of the seller, transport the goods to that place and there tender delivery of them in the manner provided in
+AS 45.02.503
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-319__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>when under either (1) or (2) of this subsection the term is also F.O.B. vessel, car, or other vehicle, the seller must in addition, at the expense and risk of the seller, load the goods on board; if the term is F.O.B. vessel, the buyer must name the vessel and in an appropriate case the seller must comply with the provisions on the form of bill of lading (
+AS 45.02.323
+).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-319__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless otherwise agreed, the term F.A.S. vessel, which means free alongside, at a named port, even though used only in connection with the stated price, is a delivery term under which the seller must</p>
+              </content>
+              <paragraph eId="45-02-319__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>at the expense and risk of the seller deliver the goods alongside the vessel in the manner usual in that port or on a dock designated and provided by the buyer; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-319__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>obtain and tender a receipt for the goods in exchange for which the carrier is under a duty to issue a bill of lading.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-319__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless otherwise agreed, in a case falling within (a)(1) or (3) or (b) of this section, the buyer must seasonably give needed instructions for making delivery, including when the term is F.A.S. or F.O.B. the loading berth of the vessel and in an appropriate case its name and sailing date.  The seller may treat the failure of needed instructions as a failure of cooperation under
+AS 45.02.311
+.  The seller also has the option to move the goods in a reasonable manner preparatory to delivery or shipment.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-319__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Under the term F.O.B. vessel or F.A.S., unless otherwise agreed, the buyer must make payment against tender of the required documents and the seller may not tender or the buyer demand delivery of the goods in substitution for the documents.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-320">
+            <num>45.02.320</num>
+            <heading>C.I.F. and C. &amp; F. terms.</heading>
+            <subsection eId="45-02-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The term C.I.F. means that the price includes in a lump sum the cost of the goods and the insurance and freight to the named destination. The term C. &amp; F. or C.F. means that the price so includes cost and freight to the named destination.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless otherwise agreed and even though used only in connection with the stated price and destination, the term C.I.F. destination or its equivalent requires the seller at the expense and risk of the seller to</p>
+              </content>
+              <paragraph eId="45-02-320__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>put the goods into the possession of a carrier at the port for shipment and obtain a negotiable bill or bills of lading covering the entire transportation to the named destination; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-320__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>load the goods and obtain a receipt from the carrier, which may be contained in the bill of lading, showing that the freight has been paid or provided for; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-320__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>obtain a policy or certificate of insurance, including war risk insurance, of a kind and on terms then current at the port of shipment in the usual amount, in the currency of the contract, shown to cover the same goods covered by the bill of lading and providing for payment of loss to the order of the buyer or for the account of whom it may concern; but the seller may add to the price the amount of the premium for war risk insurance; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-320__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>prepare an invoice of the goods and procure any other documents required to effect shipment or to comply with the contract; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-320__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>forward and tender with commercial promptness all the documents in due form and with the endorsement necessary to perfect the buyer's rights.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-320__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless otherwise agreed, the term C. &amp; F. or its equivalent has the same effect and imposes upon the seller the same obligations and risks as a C.I.F. term except the obligation as to insurance.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-320__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Under the term C.I.F. or C. &amp; F., unless otherwise agreed, the buyer must make payment against tender of the required documents and the seller may not tender or the buyer demand delivery of the goods in substitution for the documents.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-321">
+            <num>45.02.321</num>
+            <heading>C.I.F. or C. &amp; F.: Net landed weights; payment on arrival; warranty of conditions on arrival.</heading>
+            <content>
+              <p>Sec. 45.02.321.   C.I.F. or C. &amp; F.: Net landed weights; payment on arrival; warranty of conditions on arrival.
+Under a contract containing a term C.I.F. or C. &amp; F.,
+(1) if the price is based on or is to be adjusted according to net landed weights, delivered weights, out turn quantity or quality, or the like, unless otherwise agreed, the seller must reasonably estimate the price; the payment due on tender of the documents called for by the contract is the amount so estimated, but after final adjustment of the price a settlement must be made with commercial promptness;
+(2) an agreement described in (1) of this section, or a warranty of quality or condition of the goods on arrival places upon the seller the risk of ordinary deterioration, shrinkage, and the like in transportation, but has no effect on the place or time of identification to the contract for sale or delivery or on the passing of the risk of loss;
+(3) unless otherwise agreed, if the contract provides for payment on or after arrival of the goods, the seller must before payment allow such preliminary inspection as is feasible; but if the goods are lost, delivery of the documents and payment are due when the goods should have arrived.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-322">
+            <num>45.02.322</num>
+            <heading>Delivery ex-ship.</heading>
+            <subsection eId="45-02-322__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless otherwise agreed, a term for delivery of goods ex-ship, which means from the carrying vessel, or in equivalent language is not restricted to a particular ship and requires delivery from a ship that has reached a place at the named port of destination where goods of the kind are usually discharged.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-322__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Under such a term, unless otherwise agreed,</p>
+              </content>
+              <paragraph eId="45-02-322__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the seller must discharge all liens arising out of the carriage and furnish the buyer with a direction that puts the carrier under a duty to deliver the goods; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-322__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the risk of loss does not pass to the buyer until the goods leave the ship's tackle or are otherwise properly unloaded.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-323">
+            <num>45.02.323</num>
+            <heading>Form of bill of lading required in overseas shipment; overseas.</heading>
+            <subsection eId="45-02-323__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where the contract contemplates overseas shipment and contains a term C.I.F. or C. &amp; F. or F.O.B. vessel, the seller, unless otherwise agreed, must obtain a negotiable bill of lading stating that the goods have been loaded on board or, in the case of a term C.I.F. or C. &amp;. F., received for shipment.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-323__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where, in a case within (a) of this section, a tangible bill of lading has been issued in a set of parts, unless otherwise agreed, if the documents are not to be sent from abroad, the buyer may demand tender of the full set; otherwise only one part of the bill of lading need be tendered. Even if the agreement expressly requires a full set,</p>
+              </content>
+              <paragraph eId="45-02-323__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>due tender of a single part is acceptable within the provisions on cure of improper delivery (
+AS 45.02.508</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-323__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>even though the full set is demanded, if the documents are sent from abroad, the person tendering an incomplete set may nevertheless require payment upon furnishing an indemnity that the buyer in good faith considers adequate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-323__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A shipment by water or by air or a contract contemplating the shipment is overseas insofar as by usage of trade or agreement it is subject to the commercial, financing, or shipping practices characteristic of international deep water commerce.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-324">
+            <num>45.02.324</num>
+            <heading>No arrival, no sale term.</heading>
+            <content>
+              <p>Sec. 45.02.324.   No arrival, no sale term.
+Under a term no arrival, no sale or terms of like meaning, unless otherwise agreed,
+(1) the seller must properly ship conforming goods and if they arrive by any means the seller must tender them on arrival, but the seller assumes no obligation that the goods will arrive unless the seller has caused the nonarrival; and
+(2) if without fault of the seller the goods are in part lost or have so deteriorated as no longer to conform to the contract or arrive after the contract time, the buyer may proceed as if there had been casualty to identified goods (
+AS 45.02.613
+).</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-325">
+            <num>45.02.325</num>
+            <heading>Letter of credit term; confirmed credit.</heading>
+            <subsection eId="45-02-325__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Failure of the buyer seasonably to furnish an agreed letter of credit is a breach of the contract for sale.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-325__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The delivery to seller of a proper letter of credit suspends the buyer's obligation to pay. If the letter of credit is dishonored, the seller may on seasonable notification to the buyer require payment directly from the buyer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-325__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless otherwise agreed, the term letter of credit or banker's credit in a contract for sale means an irrevocable credit issued by a financing agency of good repute and, if the shipment is overseas, of good international repute. The term confirmed credit means that the credit must also carry the direct obligation of such an agency that does business in the seller's financial market.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-326">
+            <num>45.02.326</num>
+            <heading>Sale on approval and sale or return; rights of creditors.</heading>
+            <subsection eId="45-02-326__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless otherwise agreed, if delivered goods may be returned by the buyer even though they conform to the contract, the transaction is</p>
+              </content>
+              <paragraph eId="45-02-326__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a sale on approval if the goods are delivered primarily for use; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-326__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a sale or return if the goods are delivered primarily for resale.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-326__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Goods held on approval are not subject to the claims of the buyer's creditors until acceptance; goods held on sale or return are subject to such claims while in the buyer's possession.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-326__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An or return term of a contract for sale is to be treated as a separate contract for sale within the statute of frauds section (
+AS 45.02.201
+), and as contradicting the sale aspect of the contract within the provisions on parol or extrinsic evidence (
+AS 45.02.202
+).</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-326__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Whenever an artist delivers or causes to be delivered a work of fine art of the artist's creation to an art dealer for the purpose of sale, or exhibition and sale to the public on a commission or fee or other basis of compensation, the work of fine art is not subject to the claims of the art dealer's creditors. For the purposes of this subsection,</p>
+              </content>
+              <paragraph eId="45-02-326__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>art dealer means a person other than a public auctioneer engaged in the business of selling works of fine art;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-326__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>artist means the creator of a work of fine art;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-326__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>fine art includes a painting, sculpture, drawing, photograph, or work of graphic art.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-327">
+            <num>45.02.327</num>
+            <heading>Special incidents of sale on approval and sale or return.</heading>
+            <subsection eId="45-02-327__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Under a sale on approval, unless otherwise agreed,</p>
+              </content>
+              <paragraph eId="45-02-327__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>although the goods are identified to the contract, the risk of loss and the title do not pass to the buyer until acceptance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-327__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>use of the goods consistent with the purpose of trial is not acceptance, but failure seasonably to notify the seller of election to return the goods is acceptance, and, if the goods conform to the contract, acceptance of any part is acceptance of the whole; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-327__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>after due notification of election to return, the return is at the seller's risk and expense but a merchant buyer must follow reasonable instructions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-327__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Under a sale or return, unless otherwise agreed,</p>
+              </content>
+              <paragraph eId="45-02-327__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the option to return extends to the whole or a commercial unit of the goods while in substantially their original condition, but must be exercised seasonably; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-327__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the return is at the buyer's risk and expense.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-328">
+            <num>45.02.328</num>
+            <heading>Sale by auction.</heading>
+            <subsection eId="45-02-328__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a sale by auction if goods are put up in lots each lot is the subject of a separate sale.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-328__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A sale by auction is complete when the auctioneer so announces by the fall of the hammer or in other customary manner. Where a bid is made while the hammer is falling in acceptance of a prior bid, the auctioneer has discretion to reopen the bidding or declare the goods sold under the bid on which the hammer was falling.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-328__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A sale by auction is with reserve unless the goods are in explicit terms put up without reserve.  In an auction with reserve, the auctioneer may withdraw the goods at any time until the auctioneer announces completion of the sale.  In an auction without reserve, after the auctioneer calls for bids on an article or lot, that article or lot cannot be withdrawn unless no bid is made within a reasonable time.  In either case a bidder may retract a bid until the auctioneer's announcement of completion of the sale, but a bidder's retraction does not revive any previous bid.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-328__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the auctioneer knowingly receives a bid on the seller's behalf or the seller makes or procures such a bid, and notice has not been given that liberty for the bidding is reserved, the buyer has the option to avoid the sale or take the goods at the price of the last good faith bid before the completion of the sale.  This subsection does not apply to a bid at a forced sale.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-350">
+            <num>45.02.350</num>
+            <heading>Sale by door-to-door solicitation.</heading>
+            <subsection eId="45-02-350__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contract for the purchase of goods or services in the amount of $10 or more from a person soliciting a door-to-door sale shall require, as a condition of taking effect, that the purchaser may revoke the offer to buy within five business days of entering into the contract, and that the seller, at the time of the sale, give the purchaser written notice of the right to revoke. Revocation is effective either upon the tender of the rejected goods to the seller or an agent of the seller, or upon the posting of a registered letter, marked Deliver to Addressee Only, Return Receipt, of rejection to the seller or an agent of the seller.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-350__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The cost of returning rejected goods shall be borne by the seller.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-350__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A door-to-door sale occurs when the seller, or a representative of the seller, personally solicits the sale and the purchaser's agreement or offer to purchase is made at a place other than the place of business of the seller.  The term door-to-door sale does not include a transaction</p>
+              </content>
+              <paragraph eId="45-02-350__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>made under prior negotiations in the course of a visit by the buyer to a retail business establishment having a fixed permanent location where the goods are exhibited or the services are offered for sale on a continuing basis;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-350__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in which the buyer has initiated the contact and the goods or services are needed to meet a bona fide immediate personal emergency of the buyer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-350__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>conducted and consummated entirely by mail;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-350__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>in which the buyer has initiated the contact and specifically requested the seller to visit the buyer's home for the purpose of repairing or performing maintenance upon the buyer's personal property; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-350__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>conducted at the purchaser's place of business.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-350__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>As used in (c) of this section, personally means in person or by telephone.
+Article 4. Title, Creditors, and Good Faith Purchasers.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-401">
+            <num>45.02.401</num>
+            <heading>Passing of title; reservation for security; limited application of this section.</heading>
+            <content>
+              <p>Sec. 45.02.401.   Passing of title; reservation for security; limited application of this section.
+Each provision of this chapter with regard to the rights, obligations, and remedies of the seller, the buyer, purchasers, or other third parties applies irrespective of title to the goods except where the provision refers to the title. Insofar as situations are not covered by the other provisions of this chapter and matters concerning title become material, the following rules apply:
+(1) title to goods cannot pass under a contract for sale before their identification to the contract (
+AS 45.02.501
+), and, unless otherwise explicitly agreed, the buyer acquires by their identification a special property as limited by the code; a retention or reservation by the seller of the title (property) in goods shipped or delivered to the buyer is limited in effect to a reservation of a security interest; subject to these provisions and to the provisions of
+AS 45.29
+, title to goods passes from the seller to the buyer in the manner and on the conditions explicitly agreed on by the parties;
+(2) unless otherwise explicitly agreed, title passes to the buyer at the time and place at which the seller completes performance with reference to the physical delivery of the goods, despite a reservation of a security interest and even though a document of title is to be delivered at a different time or place; in particular and despite a reservation of a security interest by the bill of lading,
+(A) if the contract requires or authorizes the seller to send the goods to the buyer but does not require the seller to deliver them at destination, title passes to the buyer at the time and place of shipment; but
+(B) if the contract requires delivery at destination, title passes on tender there;
+(3) unless otherwise explicitly agreed, where delivery is to be made without moving the goods,
+(A) if the seller is to deliver a tangible document of title, title passes at the time and place the seller delivers the document, and, if the seller is to deliver an electronic document of title, title passes when the seller delivers the document; or
+(B) if the goods are, at the time of contracting, already identified and no documents of title are to be delivered, title passes at the time and place of contracting;
+(4) a rejection or other refusal by the buyer to receive or retain the goods, whether or not justified, or a justified revocation of acceptance revests title to the goods in the seller; this revesting occurs by operation of law and is not a sale.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-402">
+            <num>45.02.402</num>
+            <heading>Rights of seller's creditors against sold goods.</heading>
+            <subsection eId="45-02-402__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) and (c) of this section, rights of unsecured creditors of the seller with respect to goods that have been identified to a contract for sale are subject to the buyer's rights to recover the goods under
+AS 45.02.502
+and 45.02.716.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-402__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A creditor of the seller may treat a sale or an identification of goods to a contract for sale as void if as against the creditor a retention of possession by the seller is fraudulent under any rule of law of the state where the goods are located, except that retention of possession in good faith and current course of trade by a merchant seller for a commercially reasonable time after a sale or identification is not fraudulent.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-402__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing in this chapter may be considered to impair the rights of creditors of the seller</p>
+              </content>
+              <paragraph eId="45-02-402__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>under the provisions of
+AS 45.29
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-402__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if identification to the contract or delivery is made not in current course of trade but in satisfaction of or as security for a pre-existing claim for money, security, or the like and is made under circumstances that under any rule of law of the state where the goods are located would, apart from this chapter, constitute the transaction of a fraudulent transfer or voidable preference.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-403">
+            <num>45.02.403</num>
+            <heading>Power to transfer; good faith purchase of goods; entrusting.</heading>
+            <subsection eId="45-02-403__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A purchaser of goods acquires all title that the transferor had or had power to transfer, except that a purchaser of a limited interest acquires rights only to the extent of the interest purchased. A person with voidable title has power to transfer a good title to a good faith purchaser for value. When goods have been delivered under a transaction of purchase, the purchaser has such power even though</p>
+              </content>
+              <paragraph eId="45-02-403__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the transferor was deceived as to the identity of the purchaser;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-403__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the delivery was in exchange for a check that was later dishonored;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-403__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>it was agreed that the transaction was to be a cash sale; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-403__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the delivery was procured through fraud punishable as larcenous under the criminal law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-403__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An entrusting of possession of goods to a merchant who deals in goods of that kind gives the merchant power to transfer all rights of the entruster to a buyer in ordinary course of business.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-403__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Entrusting includes a delivery and an acquiescence in retention of possession regardless of a condition expressed between the parties to the delivery or acquiescence and regardless of whether the procurement of the entrusting or the possessor's disposition of the goods is larcenous under the criminal law.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-403__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The rights of other purchasers of goods and of lien creditors are governed by
+AS 45.07
+and
+AS 45.29
+.
+Article 5. Performance.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-501">
+            <num>45.02.501</num>
+            <heading>Insurable interest in goods; manner of identification of goods.</heading>
+            <subsection eId="45-02-501__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The buyer obtains a special property and an insurable interest in goods by identification of existing goods as goods to which the contract refers even though the goods so identified are nonconforming and the buyer has an option to return or reject them. Identification can be made at any time and in any manner explicitly agreed to by the parties.  In the absence of explicit agreement, identification occurs</p>
+              </content>
+              <paragraph eId="45-02-501__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>when the contract is made if it is for the sale of goods already existing and identified;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-501__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the contract is for the sale of future goods other than those described in (3) of this subsection, when goods are shipped, marked, or otherwise designated by the seller as goods to which the contract refers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-501__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>when the crops are planted or otherwise become growing crops or the young are conceived if the contract is for the sale of unborn young to be born within 12 months after contracting or for the sale of crops to be harvested within 12 months or the next normal harvest season after contracting, whichever is longer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-501__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The seller retains an insurable interest in the goods as long as title to or a security interest in the goods remains in the seller and, if the identification is by the seller alone, the seller may, until default or insolvency or notification to the buyer that the identification is final, substitute other goods for those identified.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-501__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing in this section impairs an insurable interest recognized under another statute or rule of law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-502">
+            <num>45.02.502</num>
+            <heading>Buyer's right to goods on seller's repudiation, failure to deliver, or insolvency.</heading>
+            <subsection eId="45-02-502__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to (b) and (c) of this section and even though the goods have not been shipped, a buyer who has paid a part or all of the price of goods in which the buyer has a special property under the provisions of
+AS 45.02.501
+may, on making and keeping good a tender of an unpaid portion of their price, recover them from the seller if</p>
+              </content>
+              <paragraph eId="45-02-502__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in the case of goods bought for personal, family, or household purposes, the seller repudiates or fails to deliver as required by the contract; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-502__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in all cases, the seller becomes insolvent within 10 days after receipt of the first installment on their price.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-502__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The buyer's right to recover the goods under (a)(1) of this section vests upon acquisition of a special property even if the seller had not then repudiated or failed to deliver.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-502__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the identification creating the buyer's special property has been made by the buyer, the buyer acquires the right to recover the goods only if they conform to the contract for sale.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-503">
+            <num>45.02.503</num>
+            <heading>Manner of seller's tender of delivery.</heading>
+            <subsection eId="45-02-503__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Tender of delivery requires that the seller put and hold conforming goods at the buyer's disposition and give the buyer any notification reasonably necessary to enable the buyer to take delivery. The manner, time, and place for tender are determined by the agreement and this chapter, and, in particular,</p>
+              </content>
+              <paragraph eId="45-02-503__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>tender must be at a reasonable hour and, if it is of goods, they must be kept available for the period reasonably necessary to enable the buyer to take possession; but</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-503__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>unless otherwise agreed, the buyer must furnish facilities reasonably suited to the receipt of the goods.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-503__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the case is within
+AS 45.02.504
+respecting shipment, tender requires that the seller comply with its provisions.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-503__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the seller is required to deliver at a particular destination, tender requires that the seller comply with (a) of this section and also in an appropriate case tender documents as described in (d) and (e) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-503__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If goods are in the possession of a bailee and are to be delivered without being moved,</p>
+              </content>
+              <paragraph eId="45-02-503__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>tender requires that the seller either tender a negotiable document of title covering the goods or procure acknowledgment by the bailee of the buyer's right to possession of the goods; but</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-503__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>tender to the buyer of a nonnegotiable document of title or of a record directing the bailee to deliver is sufficient tender unless the buyer seasonably objects, and, except as otherwise provided in
+AS 45.29
+, receipt by the bailee of notification of the buyer's rights fixes those rights as against the bailee and all third persons; but risk of loss of the goods and of a failure by the bailee to honor the nonnegotiable document of title or to obey the direction remains on the seller until the buyer has had a reasonable time to present the document or direction, and a refusal by the bailee to honor the document or to obey the direction defeats the tender.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-503__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the contract requires the seller to deliver documents,</p>
+              </content>
+              <paragraph eId="45-02-503__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the seller must tender all such documents in correct form except as provided in
+AS 45.02.323</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-503__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>with respect to bills of lading in a set; and</p>
+              </content>
+              <paragraph eId="45-02-503__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>tender through customary banking channels is sufficient, and dishonor of a draft accompanying or associated with the documents constitutes nonacceptance or rejection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-504">
+            <num>45.02.504</num>
+            <heading>Shipment by seller.</heading>
+            <subsection eId="45-02-504__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the seller is required or authorized to send the goods to the buyer and the contract does not require the seller to deliver them at a particular destination, then, unless otherwise agreed, the seller must</p>
+              </content>
+              <paragraph eId="45-02-504__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>put the goods in the possession of such a carrier and make such a contract for their transportation as is reasonable, having regard to the nature of the goods and other circumstances of the case;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-504__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>obtain and promptly deliver or tender in due form any document necessary to enable the buyer to obtain possession of the goods or otherwise required by the agreement or by usage of trade; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-504__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>promptly notify the buyer of the shipment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-504__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Failure to notify the buyer under (a)(3) of this section or to make a proper contract under (a)(1) of this section is a ground for rejection only if material delay or loss ensues.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-505">
+            <num>45.02.505</num>
+            <heading>Seller's shipment under reservation.</heading>
+            <subsection eId="45-02-505__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the seller has identified goods to the contract by or before shipment,</p>
+              </content>
+              <paragraph eId="45-02-505__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the seller's procurement of a negotiable bill of lading to the seller's order or otherwise reserves in the seller a security interest in the goods; the seller's procurement of the bill to the order of a financing agency or of the buyer indicates in addition only the seller's expectation of transferring that interest to the person named;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-505__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a nonnegotiable bill of lading to the seller or the nominee of the seller reserves possession of the goods as security, but, except in a case of conditional delivery (
+AS 45.02.507</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-505__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If shipment by the seller with reservation of a security interest is in violation of the contract for sale, it constitutes an improper contract for transportation within
+AS 45.02.504
+but impairs neither the rights given to the buyer by shipment and identification of the goods to the contract nor the seller's powers as a holder of a negotiable document of title.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-506">
+            <num>45.02.506</num>
+            <heading>Rights of financing agency.</heading>
+            <subsection eId="45-02-506__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A financing agency by paying or purchasing for value a draft that relates to a shipment of goods acquires to the extent of the payment or purchase and in addition to its own rights under the draft and a document of title securing it any rights of the shipper in the goods including the right to stop delivery and the shipper's right to have the draft honored by the buyer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-506__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The right to reimbursement of a financing agency that has in good faith honored or purchased the draft under commitment to or authority from the buyer is not impaired by subsequent discovery of defects with reference to a relevant document that was apparently regular.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-507">
+            <num>45.02.507</num>
+            <heading>Effect of seller's tender; delivery on condition.</heading>
+            <subsection eId="45-02-507__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Tender of delivery is a condition to the buyer's duty to accept the goods and, unless otherwise agreed, to the buyer's duty to pay for them.  Tender entitles the seller to acceptance of the goods and to payment according to the contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-507__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If payment is due and demanded on the delivery to the buyer of goods or documents of title, the buyer's right as against the seller to retain or dispose of them is conditional upon the buyer's making the payment due.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-508">
+            <num>45.02.508</num>
+            <heading>Cure by seller of improper tender or delivery; replacement.</heading>
+            <subsection eId="45-02-508__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a tender or delivery by the seller is rejected because nonconforming and the time for performance has not yet expired, the seller may seasonably notify the buyer of the intent of the seller to cure and may then, within the contract time, make a conforming delivery.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-508__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the buyer rejects a nonconforming tender that the seller had reasonable grounds to believe would be acceptable with or without money allowance, the seller may, if the seller seasonably notified the buyer, have a further reasonable time to substitute a conforming tender.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-509">
+            <num>45.02.509</num>
+            <heading>Risk of loss in the absence of breach.</heading>
+            <subsection eId="45-02-509__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where the contract requires or authorizes the seller to ship the goods by carrier,</p>
+              </content>
+              <paragraph eId="45-02-509__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if it does not require the seller to deliver them at a particular destination, the risk of loss passes to the buyer when the goods are duly delivered to the carrier even though the shipment is under reservation (
+AS 45.02.505
+); but</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-509__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if it does require the seller to deliver them at a particular destination and the goods are there duly tendered while in the possession of the carrier, the risk of loss passes to the buyer when the goods are there duly so tendered as to enable the buyer to take delivery.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-509__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where the goods are held by a bailee to be delivered without being moved, the risk of loss passes to the buyer</p>
+              </content>
+              <paragraph eId="45-02-509__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>on the buyer's receipt of possession or control of a negotiable document of title covering the goods;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-509__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>on acknowledgment by the bailee of the buyer's right to possession of the goods; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-509__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>after the buyer's receipt of possession or control of a nonnegotiable document of title or other direction to deliver in a record, as provided in
+AS 45.02.503</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-509__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In any case not within (a) or (b) of this section, the risk of loss passes to the buyer on the buyer's receipt of the goods if the seller is a merchant; otherwise the risk passes to the buyer on tender of delivery.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-509__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section is subject to contrary agreement of the parties and to the provisions on sale on approval (
+AS 45.02.327
+), and on effect of breach on risk of loss (
+AS 45.02.510
+).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-510">
+            <num>45.02.510</num>
+            <heading>Effect of breach on risk of loss.</heading>
+            <subsection eId="45-02-510__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a tender or delivery of goods so fails to conform to the contract as to give a right of rejection, the risk of their loss remains on the seller until cure or acceptance.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-510__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the buyer rightfully revokes acceptance, the buyer may, to the extent of a deficiency in the buyer's effective insurance coverage, treat the risk of loss as having rested on the seller from the beginning.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-510__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the buyer as to conforming goods already identified to the contract for sale repudiates or is otherwise in breach before risk of their loss has passed to the buyer, the seller may, to the extent of a deficiency in the seller's effective insurance coverage, treat the risk of loss as resting on the buyer for a commercially reasonable time.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-511">
+            <num>45.02.511</num>
+            <heading>Tender of payment by buyer; payment by check.</heading>
+            <subsection eId="45-02-511__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless otherwise agreed, tender of payment is a condition to the seller's duty to tender and complete a delivery.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-511__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Tender of payment is sufficient when made by a means or in a manner current in the ordinary course of business unless the seller demands payment in legal tender and gives an extension of time reasonably necessary to procure it.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-511__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Subject to the provisions of the code on the effect of an instrument on an obligation (
+AS 45.03.310
+), payment by check is conditional and is defeated as between the parties by dishonor of the check on due presentment.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-512">
+            <num>45.02.512</num>
+            <heading>Payment by buyer before inspection.</heading>
+            <subsection eId="45-02-512__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the contract requires payment before inspection, nonconformity of the goods does not excuse the buyer from so making payment unless</p>
+              </content>
+              <paragraph eId="45-02-512__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the nonconformity appears without inspection; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-512__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>despite tender of the required documents, the circumstances would justify injunction against honor under
+AS 45.05.109</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-512__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Payment under (a) of this section does not constitute an acceptance of goods or impair the buyer's right to inspect or any of the buyer's remedies.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-513">
+            <num>45.02.513</num>
+            <heading>Buyer's right to inspection of goods.</heading>
+            <subsection eId="45-02-513__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless otherwise agreed and subject to (c) of this section, if goods are tendered, delivered or identified to the contract for sale, the buyer may before payment or acceptance inspect them at a reasonable place and time and in a reasonable manner. If the seller is required or authorized to send the goods to the buyer, the inspection may be after their arrival.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-513__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Expenses of inspection must be borne by the buyer but may be recovered from the seller if the goods do not conform and are rejected.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-513__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless otherwise agreed and subject to the provisions on C.I.F. contracts (
+AS 45.02.321
+), the buyer is not entitled to inspect the goods before payment of the price if the contract provides</p>
+              </content>
+              <paragraph eId="45-02-513__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for delivery C.O.D. or on other like terms; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-513__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for payment against documents of title, except where the payment is due only after the goods are to become available for inspection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-513__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A place or method of inspection fixed by the parties is presumed to be exclusive but, unless otherwise expressly agreed, it does not postpone identification or shift the place for delivery or for passing the risk of loss.  If compliance becomes impossible, inspection is as provided in this section unless the place or method fixed was clearly intended as an indispensable condition, failure of which avoids the contract.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-514">
+            <num>45.02.514</num>
+            <heading>When documents deliverable on acceptance; when on payment.</heading>
+            <content>
+              <p>Sec. 45.02.514.   When documents deliverable on acceptance; when on payment.
+Unless otherwise agreed, documents against which a draft is drawn are to be delivered to the drawee on acceptance of the draft if it is payable more than three days after presentment; otherwise, only on payment.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-515">
+            <num>45.02.515</num>
+            <heading>Preserving evidence of goods in dispute.</heading>
+            <content>
+              <p>Sec. 45.02.515.   Preserving evidence of goods in dispute.
+In furtherance of the adjustment of a claim or dispute,
+(1) either party, on reasonable notification to the other and to ascertain the facts and preserve evidence, may inspect, test, and sample the goods, including the goods in the possession or control of the other; and
+(2) the parties may agree to a third party inspection or survey to determine the conformity or condition of the goods and may agree that the findings shall be binding upon them in a subsequent litigation or adjustment.
+Article 6. Breach, Repudiation, and Excuse.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-601">
+            <num>45.02.601</num>
+            <heading>Buyer's rights on improper delivery.</heading>
+            <content>
+              <p>Sec. 45.02.601.   Buyer's rights on improper delivery.
+Subject to the provisions on breach in installment contracts (
+AS 45.02.612
+) and unless otherwise agreed under the sections on contractual limitations of remedy (
+AS 45.02.718
+and 45.02.719), if the goods or the tender of delivery fail in any respect to conform to the contract, the buyer may
+(1) reject the whole;
+(2) accept the whole; or
+(3) accept any commercial unit and reject the rest.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-602">
+            <num>45.02.602</num>
+            <heading>Manner and effect of rightful rejection.</heading>
+            <subsection eId="45-02-602__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Rejection of goods must be within a reasonable time after their delivery or tender.  It is ineffective unless the buyer seasonably notifies the seller.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-602__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Subject to the provisions of
+AS 45.02.603
+and 45.02.604 on rejected goods,</p>
+              </content>
+              <paragraph eId="45-02-602__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>after rejection, an exercise of ownership by the buyer with respect to a commercial unit is wrongful as against the seller; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-602__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the buyer has, before rejection, taken physical possession of goods in which the buyer does not have a security interest under
+AS 45.02.711</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-602__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the buyer has no further obligations with regard to goods rightfully rejected.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-602__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The seller's rights with respect to goods wrongfully rejected are governed by the provisions on seller's remedies in general (
+AS 45.02.703
+).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-603">
+            <num>45.02.603</num>
+            <heading>Merchant buyer's duties as to rightfully rejected goods.</heading>
+            <subsection eId="45-02-603__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to a security interest in the buyer (
+AS 45.02.711
+(c)), if the seller has no agent or place of business at the market of rejection, a merchant buyer is under a duty after rejection of goods in the buyer's possession or control to follow reasonable instructions received from the seller with respect to the goods and, in the absence of the instructions, to make reasonable efforts to sell them for the seller's account if they are perishable or threaten to decline in value speedily. Instructions are not reasonable if on demand indemnity for expenses is not forthcoming.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-603__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the buyer sells goods under (a) of this section, the buyer is entitled to reimbursement from the seller, or out of the proceeds, for reasonable expenses of caring for and selling them, and if the expenses include no selling commission then to such commission as is usual in the trade or if there is none to a reasonable sum not exceeding 10 percent on the gross proceeds.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-603__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In complying with this section, the buyer is held only to good faith, and good faith conduct here is not acceptance, conversion, or the basis of an action for damages.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-604">
+            <num>45.02.604</num>
+            <heading>Buyer's options as to salvage of rightfully rejected goods.</heading>
+            <content>
+              <p>Sec. 45.02.604.   Buyer's options as to salvage of rightfully rejected goods.
+Subject to the provisions of
+AS 45.02.603
+on perishables, if the seller gives no instructions within a reasonable time after notification of rejection, the buyer may store the rejected goods for the seller's account or reship them to the seller or resell them for the seller's account with reimbursement as provided in
+AS 45.02.603
+.  This action is not acceptance or conversion.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-605">
+            <num>45.02.605</num>
+            <heading>Waiver of buyer's objections by failure to particularize.</heading>
+            <subsection eId="45-02-605__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The buyer's failure to state in connection with rejection a particular defect that is ascertainable by reasonable inspection precludes the buyer from relying on the unstated defect to justify rejection or to establish breach</p>
+              </content>
+              <paragraph eId="45-02-605__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if the seller could have cured it if stated seasonably; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-605__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>between merchants if the seller has, after rejection, made a request in writing for a full and final written statement of all defects on which the buyer proposes to rely.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-605__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Payment against documents made without reservation of rights precludes recovery of the payment for defects apparent in the documents.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-606">
+            <num>45.02.606</num>
+            <heading>What constitutes acceptance of goods.</heading>
+            <subsection eId="45-02-606__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Acceptance of goods occurs when the buyer,</p>
+              </content>
+              <paragraph eId="45-02-606__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>after a reasonable opportunity to inspect the goods, signifies to the seller that the goods are conforming or that the buyer will take or retain them in spite of their nonconformity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-606__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>fails to make an effective rejection (
+AS 45.02.602
+), but this acceptance does not occur until the buyer has had a reasonable opportunity to inspect them; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-606__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>does an act inconsistent with the seller's ownership; but if this act is wrongful as against the seller it is an acceptance only if ratified by the seller.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-606__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Acceptance of a part of a commercial unit is acceptance of that entire unit.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-607">
+            <num>45.02.607</num>
+            <heading>Effect of acceptance; notice of breach; burden of establishing breach after acceptance; notice of claim or litigation to person answerable over.</heading>
+            <subsection eId="45-02-607__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The buyer must pay at the contract rate for any goods accepted.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-607__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Acceptance of goods by the buyer precludes rejection of the goods accepted and, if made with knowledge of a nonconformity, cannot be revoked because of it unless the acceptance was on the reasonable assumption that the nonconformity would be seasonably cured, but acceptance does not of itself impair any other remedy provided by this chapter for nonconformity.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-607__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a tender has been accepted,</p>
+              </content>
+              <paragraph eId="45-02-607__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the buyer must, within a reasonable time after the buyer discovers or should have discovered a breach, notify the seller of the breach or be barred from any remedy; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-607__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the claim is one for infringement or the like (
+AS 45.02.312</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-607__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The burden is on the buyer to establish a breach with respect to the goods accepted.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-607__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the buyer is sued for breach of a warranty or other obligation for which the buyer's seller is answerable over,</p>
+              </content>
+              <paragraph eId="45-02-607__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the buyer may give the seller written notice of the litigation; if the notice states that the seller may come in and defend and that if the seller does not do so the seller will be bound in an action against the seller by the seller's buyer by a determination of fact common to the two litigations, then, unless the seller, after seasonable receipt of the notice, does come in and defend, the seller is so bound;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-607__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the claim is one for infringement or the like (
+AS 45.02.312</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-607__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The provisions of (c)  (e) of this section apply to an obligation of a buyer to hold the seller harmless against infringement or the like (
+AS 45.02.312
+(c)).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-608">
+            <num>45.02.608</num>
+            <heading>Revocation of acceptance in whole or in part.</heading>
+            <subsection eId="45-02-608__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The buyer may revoke acceptance of a lot or commercial unit whose nonconformity substantially impairs its value to the buyer if the buyer has accepted it</p>
+              </content>
+              <paragraph eId="45-02-608__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>on the reasonable assumption that its nonconformity would be cured and it has not been seasonably cured; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-608__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>without discovery of the nonconformity if the buyer's acceptance was reasonably induced either by the difficulty of discovery before acceptance or by the seller's assurances.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-608__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Revocation of acceptance must occur within a reasonable time after the buyer discovers or should have discovered the ground for it and before a substantial change in condition of the goods that is not caused by their own defects. It is not effective until the buyer notifies the seller of it.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-608__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A buyer who so revokes has the same rights and duties with regard to the goods involved as if the buyer had rejected them.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-609">
+            <num>45.02.609</num>
+            <heading>Right to adequate assurance of performance.</heading>
+            <subsection eId="45-02-609__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contract for sale imposes an obligation on each party that the other's expectation of receiving due performance will not be impaired.  If reasonable grounds for insecurity arise with respect to the performance of either party, the other may in writing demand adequate assurance of due performance and, until the party receives this assurance, may, if commercially reasonable, suspend any performance for which the party has not already received the agreed return.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-609__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Between merchants the reasonableness of grounds for insecurity and the adequacy of an assurance offered shall be determined according to commercial standards.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-609__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Acceptance of an improper delivery or payment does not prejudice the aggrieved party's right to demand adequate assurance of future performance.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-609__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>After receipt of a justified demand, failure to provide, within a reasonable time not exceeding 30 days, such assurance of due performance as is adequate under the circumstances of the particular case is a repudiation of the contract.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-610">
+            <num>45.02.610</num>
+            <heading>Anticipatory repudiation.</heading>
+            <content>
+              <p>Sec. 45.02.610.   Anticipatory repudiation.
+When either party repudiates the contract with respect to a performance not yet due, the loss of which will substantially impair the value of the contract to the other, the aggrieved party may
+(1) for a commercially reasonable time await performance by the repudiating party; or
+(2) resort to any remedy for breach (
+AS 45.02.703
+or 45.02.711), even though the aggrieved party has notified the repudiating party that the former would await the latter's performance and has urged retraction; and
+(3) in either case suspend the aggrieved party's own performance or proceed in accordance with the provisions of this chapter on the seller's right to identify goods to the contract notwithstanding breach or to salvage unfinished goods (
+AS 45.02.704
+).</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-611">
+            <num>45.02.611</num>
+            <heading>Retraction of anticipatory repudiation.</heading>
+            <subsection eId="45-02-611__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Until the repudiating party's next performance is due, that party can retract the repudiation unless the aggrieved party has, since the repudiation, cancelled or materially changed the aggrieved party's position or otherwise indicated that the aggrieved party considers the repudiation final.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-611__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Retraction may be by any method that clearly indicates to the aggrieved party that the repudiating party intends to perform, but must include any assurance justifiably demanded under the provisions of
+AS 45.02.609
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-611__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Retraction reinstates the repudiating party's right under the contract with due excuse and allowance to the aggrieved party for any delay occasioned by the repudiation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-612">
+            <num>45.02.612</num>
+            <heading>Installment contract; breach.</heading>
+            <subsection eId="45-02-612__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An installment contract is one that requires or authorizes the delivery of goods in separate lots to be separately accepted, even though the contract contains a clause, each delivery is a separate contract, or its equivalent.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-612__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The buyer may reject an installment that is nonconforming if the nonconformity substantially impairs the value of that installment and cannot be cured or if the nonconformity is a defect in the required documents; but if the nonconformity does not fall within (c) of this section and the seller gives adequate assurance of its cure, the buyer must accept that installment.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-612__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If nonconformity or default with respect to one or more installments substantially impairs the value of the whole contract, there is a breach of the whole.  But the aggrieved party reinstates the contract if the party accepts a nonconforming installment without seasonably notifying of cancellation or if the party brings an action with respect only to past installments or demands performance as to future installments.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-613">
+            <num>45.02.613</num>
+            <heading>Casualty to identified goods.</heading>
+            <content>
+              <p>Sec. 45.02.613.   Casualty to identified goods.
+If the contract requires for its performance goods identified when the contract is made, and the goods suffer casualty without fault of either party before the risk of loss passes to the buyer, or in a proper case under a no arrival, no sale term (
+AS 45.02.324
+), then (1) if the loss is total, the contract is avoided, and (2) if the loss is partial or the goods have so deteriorated as no longer to conform to the contract, the buyer may nevertheless demand inspection and at the buyer's option either treat the contract as avoided or accept the goods with due allowance from the contract price for the deterioration or the deficiency in quantity but without further right against the seller.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-614">
+            <num>45.02.614</num>
+            <heading>Substituted performance.</heading>
+            <subsection eId="45-02-614__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If without fault of either party the agreed berthing, loading, or unloading facilities fail or an agreed type of carrier becomes unavailable or the agreed manner of delivery otherwise becomes commercially impracticable but a commercially reasonable substitute is available, the substitute performance must be tendered and accepted.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-614__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the agreed means or manner of payment fails because of domestic or foreign governmental regulation, the seller may withhold or stop delivery unless the buyer provides a means or manner of payment that is commercially a substantial equivalent.  If delivery has already been taken, payment by the means or in the manner provided by the regulation discharges the buyer's obligation unless the regulation is discriminatory, oppressive, or predatory.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-615">
+            <num>45.02.615</num>
+            <heading>Excuse by failure of presupposed conditions.</heading>
+            <content>
+              <p>Sec. 45.02.615.   Excuse by failure of presupposed conditions.
+Except so far as a seller may have assumed a greater obligation and subject to the preceding section on substituted performance,
+(1) delay in delivery or nondelivery in whole or in part by a seller who complies with (2) and (3) of this section is not a breach of the seller's duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency, the nonoccurrence of which was a basic assumption on which the contract was made or by compliance in good faith with an applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid;
+(2) if the causes mentioned in (1) of this section affect only a part of the seller's capacity to perform, the seller must allocate production and deliveries among the seller's customers, but may at the seller's option include regular customers not then under contract as well as the seller's own requirements for further manufacture; the seller may so allocate in a manner that is fair and reasonable;
+(3) the seller must notify the buyer seasonably that there will be delay or nondelivery and, when allocation is required under (2) of this section, of the estimated quota thus made available for the buyer.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-616">
+            <num>45.02.616</num>
+            <heading>Procedure on notice claiming excuse.</heading>
+            <subsection eId="45-02-616__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the buyer receives notification of a material or indefinite delay or an allocation justified under
+AS 45.02.615
+, the buyer may by written notification to the seller as to any delivery concerned and if the prospective deficiency substantially impairs the value of the whole contract under the provisions relating to breach of installment contracts,
+AS 45.02.612
+, then also as to the whole,</p>
+              </content>
+              <paragraph eId="45-02-616__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>terminate and thereby discharge any unexecuted portion of the contract; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-616__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>modify the contract by agreeing to take the buyer's available quota in substitution.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-616__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If, after receipt of the notification from the seller, the buyer fails so to modify the contract within a reasonable time not exceeding 30 days, the contract lapses with respect to deliveries affected.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-616__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section may not be negated by agreement except insofar as the seller has assumed a greater obligation under
+AS 45.02.615
+.
+Article 7. Remedies.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-701">
+            <num>45.02.701</num>
+            <heading>Remedies for breach of collateral contracts not impaired.</heading>
+            <content>
+              <p>Sec. 45.02.701.   Remedies for breach of collateral contracts not impaired.
+Remedies for breach of an obligation or promise collateral or ancillary to a contract for sale are not impaired by this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-702">
+            <num>45.02.702</num>
+            <heading>Seller's remedies on discovery of buyer's insolvency.</heading>
+            <subsection eId="45-02-702__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the seller discovers the buyer is insolvent, the seller may refuse delivery except for cash including payment for all goods previously delivered under the contract, and stop delivery under
+AS 45.02.705
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-702__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the seller discovers that the buyer has received goods on credit while insolvent, the seller may reclaim the goods upon demand made within 10 days after the receipt, but if misrepresentation of solvency has been made to the particular seller in writing within three months before delivery the 10-day limitation does not apply.  Except as provided in this subsection the seller may not base a right to reclaim goods on the buyer's fraudulent or innocent misrepresentation of solvency or of intent to pay.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-702__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The seller's right to reclaim under (b) of this section is subject to the rights of a buyer in ordinary course or other good faith purchaser or lien creditor under
+AS 45.02.403
+. Successful reclamation of goods excludes all other remedies with respect to them.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-703">
+            <num>45.02.703</num>
+            <heading>Seller's remedies in general.</heading>
+            <content>
+              <p>Sec. 45.02.703.   Seller's remedies in general.
+If the buyer wrongfully rejects or revokes acceptance of goods or fails to make a payment due on or before delivery or repudiates with respect to a part or the whole, then with respect to goods directly affected and, if the breach is of the whole contract (
+AS 45.02.612
+), then also with respect to the whole undelivered balance, the aggrieved seller may
+(1) withhold delivery of the goods;
+(2) stop delivery by a bailee as provided in
+AS 45.02.705
+;
+(3) proceed under
+AS 45.02.704
+respecting goods still unidentified to the contract;
+(4) resell and recover damages as provided in
+AS 45.02.706
+;
+(5) recover damages for nonacceptance (
+AS 45.02.708
+) or in a proper case the price (
+AS 45.02.709
+);
+(6) cancel.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-704">
+            <num>45.02.704</num>
+            <heading>Seller's right to identify goods to the contract notwithstanding breach or to salvage unfinished goods.</heading>
+            <subsection eId="45-02-704__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An aggrieved seller under
+AS 45.02.703
+may</p>
+              </content>
+              <paragraph eId="45-02-704__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>identify to the contract conforming goods not already identified if at the time the seller learned of the breach they are in the seller's possession or control;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-704__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>treat as the subject of resale goods that have demonstrably been intended for the particular contract even though those goods are unfinished.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-704__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where the goods are unfinished, an aggrieved seller may in the exercise of reasonable commercial judgment for the purposes of avoiding loss and of effective realization either complete the manufacture and wholly identify the goods to the contract or cease manufacture and resell for scrap or salvage value or proceed in any other reasonable manner.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-705">
+            <num>45.02.705</num>
+            <heading>Seller's stoppage of delivery in transit or otherwise.</heading>
+            <subsection eId="45-02-705__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The seller may stop delivery of goods in the possession of a carrier or other bailee when the seller discovers the buyer to be insolvent (
+AS 45.02.702
+) and may stop delivery of carload, truckload, planeload, or larger shipments of express or freight when the buyer repudiates or fails to make a payment due before delivery or if for any other reason the seller has a right to withhold or reclaim the goods.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-705__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As against the buyer, the seller may stop delivery until</p>
+              </content>
+              <paragraph eId="45-02-705__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>receipt of the goods by the buyer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-705__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>acknowledgment to the buyer by a bailee of the goods, except a carrier, that the bailee holds the goods for the buyer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-705__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an acknowledgment to the buyer under (1) or (2) of this subsection by a carrier by reshipment or as a warehouse; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-705__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>negotiation to the buyer of a negotiable document of title covering the goods.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-705__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To stop delivery the seller must so notify as to enable the bailee by reasonable diligence to prevent delivery of the goods.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-705__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>After that notification the bailee must hold and deliver the goods according to the direction of the seller, but the seller is liable to the bailee for any ensuing charges or damages.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-705__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a negotiable document of title has been issued for goods, the bailee is not obliged to obey a notification to stop until surrender of possession or control of the document.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-705__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A carrier who has issued a nonnegotiable bill of lading is not obliged to obey a notification to stop received from a person other than the consignor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-706">
+            <num>45.02.706</num>
+            <heading>Seller's resale including contract for resale.</heading>
+            <subsection eId="45-02-706__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Under the conditions stated in
+AS 45.02.703
+on seller's remedies, the seller may resell the goods concerned or the undelivered balance of the goods.  If the resale is made in good faith and in a commercially reasonable manner, the seller may recover the difference between the resale price and the contract price together with incidental damages allowed under
+AS 45.02.710
+, but less expenses saved in consequence of the buyer's breach.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-706__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in (c) of this section or unless otherwise agreed, resale may be at public or private sale including sale by way of one or more contracts to sell or of identification to an existing contract of the seller.  Sale may be as a unit or in parcels and at any time and place and on any terms, but every aspect of the sale including the method, manner, time, place, and terms must be commercially reasonable.  The resale must be reasonably identified as referring to the broken contract, but it is not necessary that the goods be in existence or that any or all of them have been identified to the contract before the breach.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-706__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the resale is at private sale, the seller must give the buyer reasonable notification of the intention to resell.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-706__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the resale is at public sale,</p>
+              </content>
+              <paragraph eId="45-02-706__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>only identified goods can be sold unless there is a recognized market for a public sale of futures in goods of the kind;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-706__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>it must be made at a usual place or market for public sale if one is reasonably available, and, except in the case of goods that are perishable or threaten to decline in value speedily, the seller must give the buyer reasonable notice of the time and place of the resale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-706__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the goods are not to be within the view of those attending the sale, the notification of sale must state the place where the goods are located and provide for their reasonable inspection by prospective bidders; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-706__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the seller may buy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-706__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A purchaser who buys in good faith at a resale takes the goods free of rights of the original buyer even though the seller fails to comply with one or more of the requirements of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-706__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The seller is not accountable to the buyer for a profit made on a resale.  A person in the position of a seller (
+AS 45.02.707
+), or a buyer who has rightfully rejected or justifiably revoked acceptance must account for an excess over the amount of the person's security interest, as defined in
+AS 45.02.711
+(c).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-707">
+            <num>45.02.707</num>
+            <heading>Person in the position of a seller.</heading>
+            <subsection eId="45-02-707__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person in the position of a seller includes, as against a principal, an agent who has paid or become responsible for the price of goods on behalf of the principal or anyone who otherwise holds a security interest or other right in goods similar to that of a seller.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-707__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person in the position of a seller may withhold or stop delivery (
+AS 45.02.705
+) and resell (
+AS 45.02.706
+) and recover incidental damages (
+AS 45.02.710
+).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-708">
+            <num>45.02.708</num>
+            <heading>Seller's damages for nonacceptance or repudiation.</heading>
+            <subsection eId="45-02-708__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to (b) of this section and to the provisions with respect to proof of market price (
+AS 45.02.723
+), the measure of damages for nonacceptance or repudiation by the buyer is the difference between the market price at the time and place for tender and the unpaid contract price together with any incidental damages provided in
+AS 45.02.710
+, but less expenses saved in consequence of the buyer's breach.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-708__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the measure of damages provided in (a) of this section is inadequate to put the seller in as good a position as performance would have done, then the measure of damages is the profit, including reasonable overhead, that the seller would have made from full performance by the buyer, together with any incidental damages provided in
+AS 45.02.710
+, due allowance for costs reasonably incurred, and due credit for payments or proceeds of resale.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-709">
+            <num>45.02.709</num>
+            <heading>Action for the price.</heading>
+            <subsection eId="45-02-709__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the buyer fails to pay the price as it becomes due, the seller may recover, together with any incidental damages under
+AS 45.02.710
+, the price</p>
+              </content>
+              <paragraph eId="45-02-709__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of goods accepted or of conforming goods lost or damaged within a commercially reasonable time after risk of their loss has passed to the buyer; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-709__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of goods identified to the contract if the seller is unable, after reasonable effort, to resell them at a reasonable price or the circumstances reasonably indicate that a reasonable effort will be unavailing.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-709__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the seller sues for the price, the seller must hold for the buyer goods that have been identified to the contract and are still in the control of the seller, except that if resale becomes possible the seller may resell them at any time before the collection of the judgment.  The net proceeds of this resale must be credited to the buyer and payment of the judgment entitles the buyer to goods not resold.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-709__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>After the buyer has wrongfully rejected or revoked acceptance of the goods or has failed to make a payment due or has repudiated (
+AS 45.02.610
+), a seller who is held not entitled to the price under this section shall nevertheless be awarded damages for nonacceptance under
+AS 45.02.708
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-710">
+            <num>45.02.710</num>
+            <heading>Seller's incidental damages.</heading>
+            <content>
+              <p>Sec. 45.02.710.   Seller's incidental damages.
+Incidental damages to an aggrieved seller include commercially reasonable charges, expenses, or commissions incurred in stopping delivery, in the transportation, care, and custody of goods after the buyer's breach, in connection with return or resale of the goods or otherwise resulting from the breach.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-711">
+            <num>45.02.711</num>
+            <heading>Buyer's remedies in general; buyer's security interest in rejected goods.</heading>
+            <subsection eId="45-02-711__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the seller fails to make delivery or repudiates or the buyer rightfully rejects or justifiably revokes acceptance, then, with respect to goods involved and with respect to the whole if the breach goes to the whole contract (
+AS 45.02.612
+), the buyer may cancel and, whether or not the buyer has done so, may, in addition to recovering so much of the price as has been paid,</p>
+              </content>
+              <paragraph eId="45-02-711__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>cover and have damages under
+AS 45.02.712
+as to all the goods affected, whether or not they have been identified to the contract; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-711__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>recover damages for nondelivery as provided in
+AS 45.02.713
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-711__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the seller fails to deliver or repudiates, the buyer may also</p>
+              </content>
+              <paragraph eId="45-02-711__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if the goods have been identified, recover them as provided in
+AS 45.02.502
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-711__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in a proper case obtain specific performance or replevy the goods as provided in
+AS 45.02.716
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-711__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>On rightful rejection or justifiable revocation of acceptance, a buyer has a security interest in goods in the possession or control of the buyer for payments made on their price and expenses reasonably incurred in their inspection, receipt, transportation, care, and custody and may hold the goods and resell them in like manner as an aggrieved seller (
+AS 45.02.706
+).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-712">
+            <num>45.02.712</num>
+            <heading>Cover; buyer's procurement of substitute goods.</heading>
+            <subsection eId="45-02-712__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>After a breach within
+AS 45.02.711
+, the buyer may cover by making in good faith and without unreasonable delay a reasonable purchase of or contract to purchase goods in substitution for those due from the seller.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-712__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The buyer may recover from the seller as damages the difference between the cost of cover and the contract price together with any incidental or consequential damages as defined in
+AS 45.02.715
+, but less expenses saved in consequence of the seller's breach.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-712__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Failure of the buyer to effect cover within this section does not bar the buyer from any other remedy.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-713">
+            <num>45.02.713</num>
+            <heading>Buyer's damages for nondelivery or repudiation.</heading>
+            <subsection eId="45-02-713__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to the provisions with respect to proof of market price (
+AS 45.02.723
+), the measure of damages for nondelivery or repudiation by the seller is the difference between the market price at the time when the buyer learned of the breach and the contract price together with any incidental and consequential damages provided in
+AS 45.02.715
+, but less expenses saved in consequence of the seller's breach.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-713__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Market price is to be determined as of the place for tender or, in cases of rejection after arrival or revocation of acceptance, as of the place of arrival.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-714">
+            <num>45.02.714</num>
+            <heading>Buyer's damages for breach in regard to accepted goods.</heading>
+            <subsection eId="45-02-714__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the buyer has accepted goods and given notification (
+AS 45.02.607
+(c)), the buyer may recover as damages for a nonconformity of tender the loss resulting in the ordinary course of events from the seller's breach as determined in a reasonable manner.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-714__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The measure of damages for breach of warranty is the difference at the time and place of acceptance between the value of the goods accepted and the value they would have had if they had been as warranted, unless special circumstances show proximate damages of a different amount.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-714__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In a proper case any incidental and consequential damages under
+AS 45.02.715
+may also be recovered.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-715">
+            <num>45.02.715</num>
+            <heading>Buyer's incidental and consequential damages.</heading>
+            <subsection eId="45-02-715__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Incidental damages resulting from the seller's breach include expenses reasonably incurred in inspection, receipt, transportation, and care and custody of goods rightfully rejected, any commercially reasonable charges, expenses, or commissions in connection with effecting cover and other reasonable expense incident to the delay or other breach.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-715__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Consequential damages resulting from the seller's breach include</p>
+              </content>
+              <paragraph eId="45-02-715__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>loss resulting from general or particular requirements and needs of which the seller at the time of contracting had reason to know and that could not reasonably be prevented by cover or otherwise; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-715__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>injury to person or property proximately resulting from a breach of warranty.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-716">
+            <num>45.02.716</num>
+            <heading>Buyer's right to specific performance or replevin.</heading>
+            <subsection eId="45-02-716__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Specific performance may be decreed where the goods are unique or in other proper circumstances.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-716__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The decree for specific performance may include such terms and conditions as to payment of the price, damages, or other relief as the court considers just.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-716__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The buyer has a right of replevin for goods identified to the contract if after reasonable effort the buyer is unable to effect cover for the goods or the circumstances reasonably indicate that such effort will be unavailing or if the goods have been shipped under reservation and satisfaction of the security interest in them has been made or tendered. In the case of goods bought for personal, family, or household purposes, the buyer's right of replevin vests upon acquisition of a special property even if the seller had not then repudiated or failed to deliver.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-717">
+            <num>45.02.717</num>
+            <heading>Deduction of damages from the price.</heading>
+            <content>
+              <p>Sec. 45.02.717.   Deduction of damages from the price.
+The buyer on notifying the seller of the intention to do so may deduct all or any part of the damages resulting from a breach of the contract from any part of the price still due under the same contract.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-718">
+            <num>45.02.718</num>
+            <heading>Liquidation or limitation of damages; deposits.</heading>
+            <subsection eId="45-02-718__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Damages for breach by either party may be liquidated in the agreement but only at an amount that is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy.  A term fixing unreasonably large liquidated damages is void as a penalty.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-718__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the seller justifiably withholds delivery of goods because of the buyer's breach, the buyer is entitled to restitution of an amount by which the sum of the buyer's payments exceeds</p>
+              </content>
+              <paragraph eId="45-02-718__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount to which the seller is entitled by virtue of terms liquidating the seller's damages in accordance with (a) of this section, or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-718__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in the absence of those terms, 20 percent of the value of the total performance for which the buyer is obligated under the contract or $500, whichever is smaller.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-718__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The buyer's right to restitution under (b) of this section is subject to offset to the extent that the seller establishes</p>
+              </content>
+              <paragraph eId="45-02-718__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a right to recover damages under this chapter other than (a) of this section, and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-718__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount or value of benefits received by the buyer directly or indirectly by reason of the contract.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-718__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a seller has received payment in goods, their reasonable value or the proceeds of their resale shall be treated as payments for the purposes of (b) of this section; but, if the seller has notice of the buyer's breach before reselling goods received in part performance, the resale is subject to the conditions laid down on resale by an aggrieved seller (
+AS 45.02.706
+).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-719">
+            <num>45.02.719</num>
+            <heading>Contractual modification or limitation of remedy.</heading>
+            <subsection eId="45-02-719__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to (b) and (c) of this section and
+AS 45.02.718
+on liquidation and limitation of damages,</p>
+              </content>
+              <paragraph eId="45-02-719__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the agreement may provide for remedies in addition to or in substitution for those provided in this chapter and may limit or alter the measure of damages recoverable under this chapter, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-02-719__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-02-719__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in the code.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-719__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable.  Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable, but limitation of damages where the loss is commercial is not.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-720">
+            <num>45.02.720</num>
+            <heading>Effect of cancellation or rescission on claims for antecedent breach.</heading>
+            <content>
+              <p>Sec. 45.02.720.   Effect of cancellation or rescission on claims for antecedent breach.
+Unless the contrary intention clearly appears, expressions of cancellation or rescission of the contract or the like shall not be construed as a renunciation or discharge of a claim in damages for an antecedent breach.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-721">
+            <num>45.02.721</num>
+            <heading>Remedies for fraud.</heading>
+            <content>
+              <p>Sec. 45.02.721.   Remedies for fraud.
+Remedies for material misrepresentation or fraud include all remedies available under this chapter for nonfraudulent breach.  Neither rescission or a claim for rescission of the contract for sale nor rejection or return of the goods bars or is inconsistent with a claim for damages or other remedy.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-722">
+            <num>45.02.722</num>
+            <heading>Who can sue third parties for injury to goods.</heading>
+            <content>
+              <p>Sec. 45.02.722.   Who can sue third parties for injury to goods.
+If a third party so deals with goods that have been identified to a contract for sale as to cause actionable injury to a party to that contract,
+(1) a right of action against the third party is in either party to the contract for sale who has title to or a security interest or a special property or an insurable interest in the goods; and, if the goods have been destroyed or converted, a right of action is also in the party who either bore the risk of loss under the contract for sale or has since the injury assumed that risk as against the other;
+(2) if at the time of the injury the party plaintiff did not fear the risk of loss as against the other party to the contract for sale and there is no arrangement between them for disposition of the recovery, the party plaintiff's suit or settlement is, subject to the party's own interest, as a fiduciary for the other party to the contract;
+(3) either party may with the consent of the other sue for the benefit of whom it may concern.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-723">
+            <num>45.02.723</num>
+            <heading>Proof of market price; time and place.</heading>
+            <subsection eId="45-02-723__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If an action based on anticipatory repudiation comes to trial before the time for performance with respect to some or all of the goods, damages based on market price (
+AS 45.02.708
+or 45.02.713) shall be determined according to the price of the goods prevailing at the time the aggrieved party learned of the repudiation.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-723__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If evidence of a price prevailing at the times or places described in this chapter is not readily available, the price prevailing within a reasonable time before or after the time described or at any other place that in commercial judgment or under usage of trade would serve as a reasonable substitute for the one described may be used, making a proper allowance for the cost of transporting the goods to or from the other place.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-723__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Evidence of a relevant price prevailing at a time or place other than the one described in this chapter offered by one party is not admissible until the party has given the other party notice the court finds sufficient to prevent unfair surprise.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-02-724">
+            <num>45.02.724</num>
+            <heading>Admissibility of market quotations.</heading>
+            <content>
+              <p>Sec. 45.02.724.   Admissibility of market quotations.
+When the prevailing price or value of goods regularly bought and sold in an established commodity market is in issue, reports in official publications or trade journals or in newspapers or periodicals of general circulation published as the reports of the market are admissible in evidence.  The circumstances of the preparation of such a report may be shown to affect its weight but not its admissibility.</p>
+            </content>
+          </section>
+          <section eId="sec_45-02-725">
+            <num>45.02.725</num>
+            <heading>Statute of limitations in contracts for sale.</heading>
+            <subsection eId="45-02-725__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An action for breach of a contract for sale must be commenced within four years after the cause of action has accrued.  By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-725__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach.  A breach of warranty occurs when tender of delivery is made, except that, if a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of performance, the cause of action accrues when the breach is or should have been discovered.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-725__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If an action commenced within the time limited by (a) of this section is so terminated as to leave available a remedy by another action for the same breach, the other action may be commenced after the expiration of the time limited and within six months after the termination of the first action unless the termination resulted from voluntary discontinuance or from dismissal for failure or neglect to prosecute.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-02-725__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not alter the law on tolling of the statute of limitations nor does it apply to causes of action that accrue before midnight, December 31, 1962.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

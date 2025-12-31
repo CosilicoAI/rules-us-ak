@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_20">
+          <num>20</num>
+          <heading>Purchase of Ore</heading>
+          <section eId="sec_45-20-010">
+            <num>45.20.010</num>
+            <heading>Certain claimants in possession considered owner of ores.</heading>
+            <content>
+              <p>Sec. 45.20.010.   Certain claimants in possession considered owner of ores.
+A person in the actual and peaceable possession of a mining claim, under claim or color of title, and engaged in the mining, shipment and treatment, or sale of ore from it, shall, as to all persons purchasing the ore in good faith and without notice as provided in this chapter of the title or claim of title, or ownership of another person to it, be considered to be the lawful owner of the ore.</p>
+            </content>
+          </section>
+          <section eId="sec_45-20-020">
+            <num>45.20.020</num>
+            <heading>When purchaser considered owner of ore; nonliability to person subsequently adjudged owner.</heading>
+            <content>
+              <p>Sec. 45.20.020.   When purchaser considered owner of ore; nonliability to person subsequently adjudged owner.
+A person who in good faith and in the usual course of business and without notice, as provided in this chapter, purchases and obtains delivery of ore from a person in possession of the mines or mining claim from which the ore has been mined or extracted, shall be considered the owner of the ore except as provided in this chapter; and the purchaser is not liable to, or subject to an action at law or in equity, for the recovery of the ore or the value of it by a person who is later adjudged to be the owner of the mine, or mining claim.</p>
+            </content>
+          </section>
+          <section eId="sec_45-20-030">
+            <num>45.20.030</num>
+            <heading>Notice to purchaser by claimant or owner out of possession; court action.</heading>
+            <content>
+              <p>Sec. 45.20.030.   Notice to purchaser by claimant or owner out of possession; court action.
+If a person is or claims to be the owner or entitled to the possession or enjoyment of a mine, mining claim, or premises, then in the possession of another, claiming to be the owner or entitled to the possession and mining, shipping or treating or selling the ore from it, the purchaser may, if the purchaser intends or desires to hold purchasers of or those intending to purchase the ore responsible for the value of the ore, serve upon the purchaser or intending purchaser a notice in writing, which contains the name of the mine, mining claim, or premises, the name of the person claiming or asserting ownership or right to the possession or enjoyment thereof, the name of the person in possession of and mining, shipping and selling ore from it, and warning the purchaser or intending purchaser that the purchaser or intending purchaser will be held liable and responsible for all ore purchased and delivered or to be purchased and delivered from the mine, mining claim, or premises by the person or the heirs, assigns or agents of that person subsequent to the service of the notice. Within 30 days from and after the service of the notice, the person serving it shall institute an action to enforce the person's title against the person in possession of and mining and shipping ore from the mine, mines, mining claim, claims, or premises, and to enjoin the person in possession from the mining or shipment and sale of ores taken from them, pending the action, and at once notify the purchaser or intending purchaser of the ore of the pendency of the action.  If the notice is served after the action is started, it is not necessary to begin another under this section.</p>
+            </content>
+          </section>
+          <section eId="sec_45-20-040">
+            <num>45.20.040</num>
+            <heading>Failure to bring action.</heading>
+            <content>
+              <p>Sec. 45.20.040.   Failure to bring action.
+If a person claiming the title to or right of possession of a mine, mining claim, or premises, not having before then brought action, serves notice upon a purchaser or intending purchaser of ore as provided in
+AS 45.20.030
+, and fails or neglects to begin an action as required in this chapter, the notice shall be considered to have been waived, and the party serving the notice is liable to the parties injured in full damages including costs, and the purchaser or intending purchaser is not bound by anything contained in it.</p>
+            </content>
+          </section>
+          <section eId="sec_45-20-050">
+            <num>45.20.050</num>
+            <heading>Liability of purchaser to person adjudged owner or entitled to possession.</heading>
+            <content>
+              <p>Sec. 45.20.050.   Liability of purchaser to person adjudged owner or entitled to possession.
+A purchaser of ore, who receives the notice provided for in this chapter, followed or preceded by the commencement of an action, as set out in this chapter, and who purchases or continues to purchase and receive ore taken from the mine, mining claim, or premises named in the notice, is liable and responsible for the value of it to the person who is ultimately adjudged to be the owner or entitled to the possession of it.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

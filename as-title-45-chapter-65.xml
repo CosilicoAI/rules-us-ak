@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-65"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-65"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.65"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-65/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-65/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-65/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-65/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_65">
+          <num>65</num>
+          <heading>Handicrafts and Works of Art</heading>
+          <section eId="sec_45-65-010">
+            <num>45.65.010</num>
+            <heading>Identification seals and emblems.</heading>
+            <subsection eId="45-65-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An Alaska Native person who creates or crafts an original article of authentic Alaska Native art in the state may obtain an identification seal as specified in
+AS 45.65.030</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to identify the article. The identification seal may be affixed only to original articles of authentic Alaska Native art created or crafted in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may use an emblem described under
+AS 45.65.030</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>to identify an article that is made in the state. The emblem may not be used to identify an article made outside the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-65-020">
+            <num>45.65.020</num>
+            <heading>Administration of chapter.</heading>
+            <subsection eId="45-65-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of commerce, community, and economic development is responsible for the administration of the provisions of
+AS 45.65.010
+ 45.65.070 relating to the emblem that is authorized under
+AS 45.65.010
+(b), including</p>
+              </content>
+              <paragraph eId="45-65-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the supervision of the use of the emblem;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>subject to
+AS 45.65.030</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the issuance of permits to agents to issue permits to use the emblems; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the enforcement of
+AS 45.65.010
+ 45.65.070 regarding the emblem authorized under
+AS 45.65.010</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-65-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Alaska State Council on the Arts (
+AS 44.27.040
+) is responsible for the administration of the provisions of
+AS 45.65.010
+ 45.65.070 relating to identification seals for authentic Alaska Native art, including</p>
+              </content>
+              <paragraph eId="45-65-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>subject to
+AS 45.65.030</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the issuance of permits to use identification seals and the collection of the fees established under
+AS 45.65.040</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-020__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the supervision of the use of identification seals; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-020__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the enforcement of
+AS 45.65.010
+ 45.65.070 regarding identification seals.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-65-030">
+            <num>45.65.030</num>
+            <heading>Design of identification seals and emblems.</heading>
+            <subsection eId="45-65-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The official symbol for the identification seal is the silver hand symbol. It must bear the words: Authentic Alaska Native Art from Alaska and include space for the artist's name and the place of origin of the article.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 5 ch 104 SLA 1992.]</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The official emblem for an article that is made in the state is a design approved by the commissioner under
+AS 45.65.020
+(a)(2) that depicts a mother bear with a cub and states the words Made in Alaska.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-65-040">
+            <num>45.65.040</num>
+            <heading>Identification seal.</heading>
+            <subsection eId="45-65-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The identification seal may only be used after receiving a permit from the council.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 14 ch 16 SLA 2008.]</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The council shall establish forms and fees for the applications and permits to be used or issued under this section, the period for which the permits are valid, and the procedures for renewing the permits.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Before issuing a permit to a person under (a) of this section, the council shall determine that the person is eligible under
+AS 45.65.010</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to obtain the identification seal and that the article for which the person is applying for the permit is eligible under
+AS 45.65.010</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>for the identification seal.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person may report alleged violations of
+AS 45.65.010
+ 45.65.070 regarding identification seals to the council.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-65-045">
+            <num>45.65.045</num>
+            <heading>Emblem and emblem agent permits.</heading>
+            <subsection eId="45-65-045__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The emblem authorized under
+AS 45.65.010</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>may not be used without receiving a permit from the commissioner or from an agent who possesses a current permit under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A resident of the state may apply to the commissioner for a permit to act as an agent to issue permits to use the emblem. An agent may report alleged violations of
+AS 45.65.010
+ 45.65.070 regarding emblems to the commissioner.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-045__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner shall establish forms and fees for the applications and permits to be used or issued under this section, the period for which the permits are valid, and the procedures for renewing the permits.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-045__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Before issuing a permit for an article under this section, the commissioner or the agent shall determine that the article is eligible for the emblem.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-65-055">
+            <num>45.65.055</num>
+            <heading>Prohibited conduct.</heading>
+            <content>
+              <p>Sec. 45.65.055.   Prohibited conduct.
+An individual may not
+(1) affix or attach the identification seal to an article that is not an original article of authentic Alaska Native art created or crafted in the state;
+(2) sell or offer for sale an article that has an identification seal affixed or attached but that is not an original article of authentic Alaska Native art created or crafted in the state; or
+(3) alter, change, or counterfeit an identification seal.</p>
+            </content>
+          </section>
+          <section eId="sec_45-65-060">
+            <num>45.65.060</num>
+            <heading>Penalties.</heading>
+            <subsection eId="45-65-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who knowingly violates
+AS 45.65.055
+is guilty of a class B misdemeanor. In this subsection, knowingly has the meaning given in
+AS 11.81.900
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 14 ch 16 SLA 2008.]</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who knowingly or wilfully alters, changes, or counterfeits an emblem is guilty of a class B misdemeanor.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person who knowingly or wilfully sells or offers for sale an article that is not made in the state but that bears the emblem is guilty of a class B misdemeanor.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person who knowingly or wilfully uses the emblem for an article that is not made in the state is guilty of a class B misdemeanor.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-060__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>[Repealed, § 14 ch 16 SLA 2008.]</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-060__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A person who has been issued a permit under
+AS 45.65.045
+to issue permits to use the emblem, is guilty of a class B misdemeanor if the person knowingly or wilfully issues a permit for an article that is not made in the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-65-070">
+            <num>45.65.070</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 45.65.070.   Definitions.
+In
+AS 45.65.010
+ 45.65.070, unless the context otherwise requires,
+(1) Alaska Native person means an individual who is a state resident and who is an enrolled member of an Alaska tribe; in this paragraph, state resident means an individual who is physically present in the state with the intent to remain indefinitely in the state under the requirements of
+AS 01.10.055
+, or, if the individual is not physically present in the state, intends to return to the state and remain indefinitely in the state under the requirements of
+AS 01.10.055
+;
+(2) Alaska tribe means an organized group or community in Alaska that is an Indian tribe; in this paragraph, Indian tribe has the meaning given in 25 U.S.C. 450b(e) (Indian Self-Determination and Education Assistance Act);
+(3) authentic Alaska Native art means a work of art that is created or crafted in the state by an Alaska Native person;
+(4) commissioner means the commissioner of commerce, community, and economic development;
+(5) council means the Alaska State Council on the Arts (
+AS 44.27.040
+);
+(6) emblem means the emblem that is authorized under
+AS 45.65.010
+(b);
+(7) identification seal means the seal authorized by
+AS 45.65.010
+(a);
+(8) original means new, unique, not a reproduction, and created or crafted by one person without the use of mechanized duplication instruments, electronic duplication instruments, or other devices or systems for copying large numbers of articles, except that original includes etched prints, lithographic prints, serigraphic prints, and prints from photographs, if the prints are made by hand by the person who created or crafted the etched plate, etched drawing, etched design, lithographic plate, lithographic stone, silkscreen, or photograph from which the prints were made;
+(9) work of art means a creation or crafting of
+(A) a visual article, including a painting, a sculpture, a drawing, a mosaic, a photograph, an etching, a lithograph, and a serigraph;
+(B) calligraphy;
+(C) clay, textile, fiber, wood, metal, plastic, or glass, or a combination of these materials;
+(D) traditional Alaska Native materials, including ivory, bone, grass, baleen, animal skins, wood, or furs; or
+(E) a collage or combination of two or more of the categories identified in (A)  (D) of this paragraph.</p>
+            </content>
+          </section>
+          <section eId="sec_45-65-200">
+            <num>45.65.200</num>
+            <heading>Artists and art dealer relationships.</heading>
+            <subsection eId="45-65-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When an artist delivers or causes to be delivered a work of art of the artist's own creation to an art dealer for the purpose of sale, or exhibition and sale, on a commission, fee, or other basis of compensation, the acceptance of the work of art by the art dealer is a consignment, and</p>
+              </content>
+              <paragraph eId="45-65-200__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the art dealer is, with respect to the work of art, the agent of the artist;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-200__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the work of art is trust property in the hands of the art dealer for the benefit of the artist;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-200__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>proceeds from the sale of the work of art are trust funds in the hands of the art dealer for the benefit of the artist;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-200__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the art dealer shall return an unsold work of art on demand of the artist;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-200__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the art dealer is strictly liable for loss or damage to a work of art while the work of art is in the possession of the art dealer; the value of a lost or damaged work of art is the value established by written agreement between the artist and art dealer before the loss or damage of the work of art; if no written agreement establishing the value of the work of art exists, the value is the fair market value of the work of art less the art dealer's commission or fee; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-65-200__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the dealer shall transmit the proceeds to the artist within 30 days of receipt by the dealer; if the sale is on installment, the money from each installment shall first be applied to pay any balance due the artist on the sale, unless the artist expressly agrees in writing that the proceeds on each installment are to be paid according to a percentage established by the consignment agreement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-65-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A work of art initially received as a consignment remains trust property notwithstanding the subsequent purchase of the artwork by the art dealer directly or indirectly for the art dealer's own account until the consignment price due to the artist is paid in full. The trusteeship continues until the fiduciary obligation of the art dealer with respect to the transaction is discharged in full.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-65-210">
+            <num>45.65.210</num>
+            <heading>Waiver.</heading>
+            <subsection eId="45-65-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A provision of a contract or agreement whereby the artist waives a provision of
+AS 45.65.200
+is void except as provided in this subsection. An artist may waive the provisions of
+AS 45.65.200
+if the waiver is clear, conspicuous, and agreed to in writing by the artist. A waiver under this subsection is not valid with respect to the proceeds of a work of art initially received as a consignment but subsequently purchased by the art dealer directly or indirectly for the art dealer's own account.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-65-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A waiver under (a) of this section may not inure to the benefit of the art dealer's creditors in a manner that is inconsistent with the artist's rights under
+AS 45.65.200
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-65-250">
+            <num>45.65.250</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 45.65.250.   Definitions.
+In
+AS 45.65.200
+ 45.65.250, unless the context otherwise requires,
+(1) art dealer means a person engaged in the business of selling works of art, other than a person exclusively engaged in the business of selling goods at public auction;
+(2) artist means the creator of a work of art or, if deceased, the heirs or personal representatives of the creator;
+(3) consignment means that no title to or estate in the goods or right to possession superior to that of the consignor vests in the consignee, notwithstanding the consignee's power or authority to transfer and convey, to third person, all of the right, title, and interest of the consignor, in and to the goods;
+(4) creditor has the meaning given in
+AS 45.01.211
+;
+(5) work of art means an original or multiple original art work including:
+(A) visual art such as a painting, sculpture, drawing, mosaic, or photograph;
+(B) calligraphy;
+(C) graphic art such as an etching, lithograph, offset print, or silk screen;
+(D) craft work in clay, textile, fiber, wood, metal, plastic, or glass materials;
+(E) mixed media such as a collage or any combination of art media in this paragraph;
+(F) art employing traditional native materials such as ivory, bone, grass, baleen, animal skins, wood, and furs.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

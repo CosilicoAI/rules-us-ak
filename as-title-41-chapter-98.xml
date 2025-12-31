@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-41/chapter-98"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-41/chapter-98"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="41.98"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-41/chapter-98/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-41/chapter-98/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-41/chapter-98/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-41/chapter-98/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_41">
+        <num>41</num>
+        <heading>Public Resources</heading>
+        <chapter eId="title_41__chp_98">
+          <num>98</num>
+          <heading>Miscellaneous Provisions; Nuclear Compact</heading>
+          <section eId="sec_41-98-110">
+            <num>41.98.110</num>
+            <heading>Western Interstate Nuclear Compact.</heading>
+            <content>
+              <p>Sec. 41.98.110.   Western Interstate Nuclear Compact.
+The Western Interstate Nuclear Compact, hereinafter called the compact, is hereby enacted into law and entered into with all other states legally joining therein, in the form substantially as follows:</p>
+            </content>
+          </section>
+          <section eId="sec_41-98-120">
+            <num>41.98.120</num>
+            <heading>Appointment of board member.</heading>
+            <content>
+              <p>Sec. 41.98.120.   Appointment of board member.
+The member of the Western Interstate Nuclear Board representing this state shall be appointed by the governor.</p>
+            </content>
+          </section>
+          <section eId="sec_41-98-130">
+            <num>41.98.130</num>
+            <heading>Appointment of deputy or assistant board member.</heading>
+            <content>
+              <p>Sec. 41.98.130.   Appointment of deputy or assistant board member.
+The deputy or assistant board member who may be appointed under art. II(a) of the compact shall be appointed by and shall serve at the pleasure of the principal board member representing this state, with the approval of the governor.</p>
+            </content>
+          </section>
+          <section eId="sec_41-98-140">
+            <num>41.98.140</num>
+            <heading>Filing copies of bylaws.</heading>
+            <content>
+              <p>Sec. 41.98.140.   Filing copies of bylaws.
+The Western Interstate Nuclear Board shall file copies of its bylaws as required by art. II(j) of the compact with the lieutenant governor.</p>
+            </content>
+          </section>
+          <section eId="sec_41-98-150">
+            <num>41.98.150</num>
+            <heading>Workers' compensation coverage.</heading>
+            <content>
+              <p>Sec. 41.98.150.   Workers' compensation coverage.
+The provisions of
+AS 23.30
+(Alaska Workers' Compensation Act) and any benefits payable under
+AS 23.30
+apply and are payable to persons dispatched to another state under art. VI of the compact.  If the aiding personnel are officers or employees of a subdivision of this state, they are entitled to the same workers' compensation or other benefits in case of injury or death to which they would have been entitled if injured or killed while engaged in coping with a nuclear incident in their jurisdiction of regular employment.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-35/chapter-30"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-35/chapter-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="35.30"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-35/chapter-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-35/chapter-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-35/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-35/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_35">
+        <num>35</num>
+        <heading>Public Buildings, Works, and Improvements</heading>
+        <chapter eId="title_35__chp_30">
+          <num>30</num>
+          <heading>Consistency with Local Government Plans and Ordinances</heading>
+          <section eId="sec_35-30-010">
+            <num>35.30.010</num>
+            <heading>Review and approval by local planning authorities.</heading>
+            <subsection eId="35-30-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section, before commencing construction of a public project,</p>
+              </content>
+              <paragraph eId="35-30-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if the project is located in a municipality, the department shall submit the plans for the project to the planning commission of the municipality for review and approval;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="35-30-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the project is located within two miles of a village, the department shall submit the plans to the village council for review and comment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="35-30-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the project is located within one-half mile of the boundary of an area represented by a community council established by municipal charter or ordinance, the department shall submit the plans to the community council for review and comment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="35-30-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prior approval by a municipal planning commission may not be required before the commencement of construction of a highway or local service road if</p>
+              </content>
+              <paragraph eId="35-30-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department and the municipality have entered into agreement for the planning of the project under
+AS 19.20.060
+or 19.20.070 and the plans for the project are completed in accordance with the terms of that agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="35-30-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the municipality has adopted a municipal master highway plan under
+AS 19.20.080
+and the highway or local service road is consistent with the plan adopted; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="35-30-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the department has entered into agreement with the municipality for the planning of transportation corridors under
+AS 19.20.015
+and the plans for the project are completed in accordance with the provisions of that agreement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="35-30-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If final disapproval by resolution of the governing body of the affected municipality or village is not received within 90 days from the date the project was submitted to the municipality or village, the department may proceed with the project.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_35-30-020">
+            <num>35.30.020</num>
+            <heading>Compliance with municipal ordinances.</heading>
+            <content>
+              <p>Sec. 35.30.020.   Compliance with municipal ordinances.
+A department shall comply with local planning and zoning ordinances and other regulations in the same manner and to the same extent as other landowners.</p>
+            </content>
+          </section>
+          <section eId="sec_35-30-030">
+            <num>35.30.030</num>
+            <heading>Waiver.</heading>
+            <content>
+              <p>Sec. 35.30.030.   Waiver.
+If a department clearly demonstrates an overriding state interest, waiver of local planning authority approval and the compliance requirement may be granted by the governor.  The governor shall issue specific findings giving reasons for granting any waiver under this section.</p>
+            </content>
+          </section>
+          <section eId="sec_35-30-040">
+            <num>35.30.040</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 35.30.040.   Definitions.
+In this chapter,
+(1) public project means a public building or other structure, public work, or other facility, highway, or local service road constructed or maintained by a department; the term includes the acquisition by purchase or agreement of land and rights in land for materials and the extraction or removal of materials necessary for completion of a highway under
+AS 19.05.080
+ 19.05.120;
+(2) village means an unincorporated community of the unorganized borough where at least 25 people reside as a social unit.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

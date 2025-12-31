@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-31"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="11.31"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-31/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-31/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-31/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-31/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_11">
+        <num>11</num>
+        <heading>Criminal Law</heading>
+        <chapter eId="title_11__chp_31">
+          <num>31</num>
+          <heading>Attempt, Solicitation, and Conspiracy</heading>
+          <section eId="sec_11-31-100">
+            <num>11.31.100</num>
+            <heading>Attempt.</heading>
+            <subsection eId="11-31-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person is guilty of an attempt to commit a crime if, with intent to commit a crime, the person engages in conduct which constitutes a substantial step toward the commission of that crime.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In a prosecution under this section, it is not a defense that it was factually or legally impossible to commit the crime which was the object of the attempt if the conduct engaged in by the defendant would be a crime had the circumstances been as the defendant believed them to be.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In a prosecution under this section, it is an affirmative defense that the defendant, under circumstances manifesting a voluntary and complete renunciation of the defendant's criminal intent, prevented the commission of the attempted crime.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An attempt is</p>
+              </content>
+              <paragraph eId="11-31-100__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an unclassified felony if the crime attempted is murder in the first degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-100__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a class A felony if the crime attempted is an unclassified felony other than murder in the first degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-100__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a class B felony if the crime attempted is a class A felony;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-100__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a class C felony if the crime attempted is a class B felony;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-100__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a class A misdemeanor if the crime attempted is a class C felony;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-100__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a class B misdemeanor if the crime attempted is a class A or class B misdemeanor.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-31-100__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the crime attempted is an unclassified crime described in a state law which is not part of this title and no provision for punishment of an attempt to commit the crime is specified, the punishment for the attempt is imprisonment for a term of not more than half the maximum period prescribed as punishment for the unclassified crime, or a fine of not more than half the amount of the maximum fine prescribed as punishment for the unclassified crime, or both.  If the crime attempted is punishable by an indeterminate or life term, the attempt is a class A felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-31-110">
+            <num>11.31.110</num>
+            <heading>Solicitation.</heading>
+            <subsection eId="11-31-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of solicitation if, with intent to cause another to engage in conduct constituting a crime, the person solicits the other to engage in that conduct.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In a prosecution under this section,</p>
+              </content>
+              <paragraph eId="11-31-110__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>it is not a defense
+(A) that the defendant belongs to a class of persons who by definition are legally incapable in an individual capacity of committing the crime that is the object of the solicitation; or
+(B) that a person whom the defendant solicits could not be guilty of the crime that is the object of the solicitation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-110__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>it is an affirmative defense that the defendant, under circumstances manifesting a voluntary and complete renunciation of the defendant's criminal intent, after soliciting another person to engage in conduct constituting a crime, prevented the commission of the crime.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-31-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Solicitation is</p>
+              </content>
+              <paragraph eId="11-31-110__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an unclassified felony if the crime solicited is murder in the first degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-110__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a class A felony if the crime solicited is an unclassified felony other than murder in the first degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-110__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a class B felony if the crime solicited is a class A felony;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-110__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a class C felony if the crime solicited is a class B felony;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-110__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a class A misdemeanor if the crime solicited is a class C felony;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-110__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a class B misdemeanor if the crime solicited is a class A or class B misdemeanor.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-31-110__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the crime solicited is an unclassified crime described in a state law which is not part of this title and no provision for punishment of a solicitation to commit the crime is specified, the punishment for the solicitation is imprisonment for a term of not more than half the maximum period prescribed as punishment for the unclassified crime, or a fine of not more than half the maximum fine prescribed as punishment for the unclassified crime, or both.  If the crime solicited is punishable by an indeterminate or life term, the solicitation is a class A felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-31-120">
+            <num>11.31.120</num>
+            <heading>Conspiracy.</heading>
+            <subsection eId="11-31-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An offender commits the crime of conspiracy if, with the intent to promote or facilitate a serious felony offense, the offender agrees with one or more persons to engage in or cause the performance of that activity and the offender or one of the persons does an overt act in furtherance of the conspiracy.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an offender commits the crime of conspiracy and knows that a person with whom the offender conspires to commit a serious felony offense has conspired or will conspire with another person or persons to commit the same serious felony offense, the offender is guilty of conspiring with that other person or persons to commit that crime whether or not the offender knows their identities.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In a prosecution under this section, it is a defense that the defendant was merely present at the time that two or more other persons agreed to engage in or cause the performance of a serious felony offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In a prosecution under this section, it is not a defense that a person with whom the defendant conspires could not be guilty of the crime that is the object of the conspiracy because of</p>
+              </content>
+              <paragraph eId="11-31-120__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>lack of criminal responsibility or other legal incapacity or exemption;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-120__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>belonging to a class of persons who by definition are legally incapable in an individual capacity of committing the crime that is the object of the conspiracy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-120__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>unawareness of the criminal nature of the conduct in question or of the criminal purpose of the defendant; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-120__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>any other factor precluding the culpable mental state required for the commission of the crime.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-31-120__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the offense that the conspiracy is intended to promote or facilitate is actually committed, a defendant may not be convicted of conspiring to commit that offense with another person for whose conduct the defendant is not legally accountable under
+AS 11.16.120
+(b).</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-120__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In a prosecution under this section, it is an affirmative defense that the defendant, under circumstances manifesting a voluntary and complete renunciation of the defendant's criminal intent, either (1) gave timely warning to law enforcement authorities; or (2) otherwise made proper effort that prevented the commission of the crime that was the object of the conspiracy. Renunciation by one conspirator does not affect the liability of another conspirator who does not join in the renunciation.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-120__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding
+AS 22.10.030
+, venue in actions in which the crime of conspiracy is alleged to have been committed may not be based solely on the location of overt acts done in furtherance of the conspiracy.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-120__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="11-31-120__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>overt act in furtherance of the conspiracy means an act of such character that it manifests a purpose on the part of the actor that the object of the conspiracy be completed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-120__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>serious felony offense means an offense
+(A) against the person under
+AS 11.41
+, punishable as an unclassified or class A felony;
+(B) involving controlled substances under
+AS 11.71
+, punishable as an unclassified, class A, or class B felony;
+(C) that is criminal mischief in the first degree under
+AS 11.46.475
+;
+(D) that is terroristic threatening in the first degree under
+AS 11.56.807
+;
+(E) that is human trafficking in the first degree under
+AS 11.41.360
+;
+(F) that is sex trafficking in the first degree under
+AS 11.66.110
+; or
+(G) that is arson in the first degree under
+AS 11.46.400
+or arson in the second degree under
+AS 11.46.410
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-31-120__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Conspiracy is</p>
+              </content>
+              <paragraph eId="11-31-120__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an unclassified felony if the object of the conspiracy is murder in the first degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-120__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a class A felony if the object of the conspiracy is a crime punishable as an unclassified felony other than murder in the first degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-120__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a class B felony if the object of the conspiracy is a crime punishable as a class A felony;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-120__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a class C felony if the object of the conspiracy is a crime punishable as a class B felony.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_11-31-125">
+            <num>11.31.125</num>
+            <heading>Duration of conspiracy for purposes of limitations of actions.</heading>
+            <subsection eId="11-31-125__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of applying
+AS 12.10
+governing limitations of actions, in a prosecution under
+AS 11.31.120
+, the statute of limitations begins to run</p>
+              </content>
+              <paragraph eId="11-31-125__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>when all the crimes that are serious felony offenses that are its objects are completed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-125__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if all the crimes that are its objects are not completed, when the last overt act in furtherance of the conspiracy is done by the defendant or any of the other coconspirators; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-31-125__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>when the defendant informs law enforcement authorities of the existence of the conspiracy and of the defendant's participation in it.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-31-125__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, overt act in furtherance of the conspiracy has the meaning given in
+AS 11.31.120
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-31-140">
+            <num>11.31.140</num>
+            <heading>Multiple convictions barred.</heading>
+            <subsection eId="11-31-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is not a defense to a prosecution under
+AS 11.31.100
+ 11.31.120 that the crime the defendant attempted to commit, solicited to commit, or conspired to commit was actually committed pursuant to the attempt, solicitation, or conspiracy.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not be convicted of more than one crime defined by
+AS 11.31.100
+ 11.31.120 for conduct designed to commit or culminate in commission of the same crime.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person may not be convicted on the basis of the same course of conduct of both (1) a crime defined by
+AS 11.31.100
+or 11.31.110; and (2) the crime that is the object of the attempt or solicitation.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-31-140__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not bar inclusion of multiple counts in a single indictment or information charging commission of a crime defined by
+AS 11.31.100
+ 11.31.120 and commission of the crime that is the object of the attempt, conspiracy, or solicitation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-31-150">
+            <num>11.31.150</num>
+            <heading>Substantive crimes involving attempt or solicitation.</heading>
+            <content>
+              <p>Sec. 11.31.150.   Substantive crimes involving attempt or solicitation.
+Notwithstanding
+AS 11.31.140
+(d),
+(1) a person may not be charged under
+AS 11.31.100
+if the crime allegedly attempted by the defendant is defined in such a way that an attempt to engage in the proscribed conduct constitutes commission of the crime itself;
+(2) a person may not be charged under
+AS 11.31.110
+if the solicitation in question is defined as a specific crime under other provisions of law.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

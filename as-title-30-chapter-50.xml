@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-50"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-50"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="30.50"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-50/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-50/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_30">
+        <num>30</num>
+        <heading>Navigation, Harbors, Shipping, and Transportation Facilities</heading>
+        <chapter eId="title_30__chp_50">
+          <num>50</num>
+          <heading>Miscellaneous Provisions</heading>
+          <section eId="sec_30-50-010">
+            <num>30.50.010</num>
+            <heading>Interfering with buoys and beacons.</heading>
+            <content>
+              <p>Sec. 30.50.010.   Interfering with buoys and beacons.
+A person who moors a vessel, boat, skiff, barge, scow, raft, or part of a raft to a buoy or beacon placed in the navigable waters of the state, or in a bay, river, or arm of the sea bordering the state by the authority of the United States Coast Guard, or who hangs on with a vessel, boat, skiff, barge, scow, raft, or part of a raft to the buoy or beacon, or who wilfully removes, damages, or destroys the buoy or beacon, or who cuts down, removes, damages, or destroys a beacon erected on land in the state by authority of the United States Coast Guard is guilty of a misdemeanor, and upon conviction is punishable by a fine of not less than $100 nor more than $200, or by imprisonment in a jail for not less than one month nor more than six months, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_30-50-020">
+            <num>30.50.020</num>
+            <heading>Discharging ballast into navigable waters.</heading>
+            <content>
+              <p>Sec. 30.50.020.   Discharging ballast into navigable waters.
+A person, whether or not an officer of a vessel, who discharges the ballast of a vessel into the navigable portion or channel of a bay, harbor, or river of the state, or within the jurisdiction of the state, so as to injuriously affect the navigable portion or channel, or to obstruct the navigation of the navigable portion or channel, upon conviction, is punishable by imprisonment in a jail for not less than three months nor more than one year, or by a fine of not less than $100 nor more than $500.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

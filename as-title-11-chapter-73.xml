@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-73"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-73"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="11.73"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-73/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-73/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-73/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-73/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_11">
+        <num>11</num>
+        <heading>Criminal Law</heading>
+        <chapter eId="title_11__chp_73">
+          <num>73</num>
+          <heading>Imitation Controlled Substances</heading>
+          <section eId="sec_11-73-010">
+            <num>11.73.010</num>
+            <heading>Manufacture or delivery of an imitation controlled substance.</heading>
+            <subsection eId="11-73-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 11.73.050
+, a person may not manufacture, deliver, or possess with intent to deliver, an imitation controlled substance.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-73-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in
+AS 11.73.030
+, a person who violates this section commits a class C felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-73-020">
+            <num>11.73.020</num>
+            <heading>Possession of substance with intent to manufacture.</heading>
+            <subsection eId="11-73-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 11.73.050
+, a person may not possess the following substances or their salts with the intent to manufacture an imitation controlled substance:</p>
+              </content>
+              <paragraph eId="11-73-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>ephedrine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>ephedrine sulfate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>pseudoephedrine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>pseudoephedrine hydrochloride;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>phenylpropanolamine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>caffeine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>theophylline;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>lidocaine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>procaine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>tetracaine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>dyclonine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>acetaminophen;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>salicylamide;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>doxylamine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>diphenhydramine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>pheniramine;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>chlorpheniramine; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-73-020__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>pyrilamine.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-73-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who violates this section commits a class C felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-73-030">
+            <num>11.73.030</num>
+            <heading>Delivery of an imitation controlled substance to a minor.</heading>
+            <subsection eId="11-73-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 11.73.050
+, a person 19 years of age or older may not deliver an imitation controlled substance to a person under 19 years of age, who is at least three years younger than the person delivering the substance.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-73-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who violates this section commits a class B felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-73-040">
+            <num>11.73.040</num>
+            <heading>Advertisement to promote the delivery of an imitation controlled substance.</heading>
+            <subsection eId="11-73-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 11.73.050
+, a person may not knowingly place in a newspaper, magazine, handbill, or other publication, or post or distribute in a public place, an advertisement or solicitation knowing that the purpose of the advertisement or solicitation is to promote the delivery of an imitation controlled substance in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-73-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who violates this section commits a class C felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-73-050">
+            <num>11.73.050</num>
+            <heading>Imitation controlled substance as placebo.</heading>
+            <content>
+              <p>Sec. 11.73.050.   Imitation controlled substance as placebo.
+No civil or criminal liability may be imposed under this chapter on a person who manufactures, delivers, possesses, or advertises or solicits to promote delivery of an imitation controlled substance solely for use as a placebo prescribed by a registered practitioner, as defined in
+AS 11.71.900
+, in the course of professional practice or research.</p>
+            </content>
+          </section>
+          <section eId="sec_11-73-060">
+            <num>11.73.060</num>
+            <heading>Forfeitures.</heading>
+            <subsection eId="11-73-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Property used during or in aid of a violation of this chapter may be forfeited to the state to the extent permitted under and in accordance with the provisions of
+AS 17.30.110
+ 17.30.126.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-73-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this section the terms controlled substance and this chapter, as used in
+AS 17.30.110
+ 17.30.126, shall be construed as imitation controlled substance and 
+AS 11.73
+ respectively.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-73-099">
+            <num>11.73.099</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 11.73.099.   Definitions.
+In this chapter,
+(1) controlled substance means a substance as defined in
+AS 11.71.900
+(5);
+(2) deliver or delivery means the actual, constructive, or attempted transfer from one person to another of an imitation controlled substance, whether or not there is an agency relationship;
+(3) imitation controlled substance means a substance containing ephedrine, ephedrine sulfate, pseudoephedrine, pseudoephedrine hydrochloride, phenylpropanolamine, caffeine, theophylline, lidocaine, procaine, tetracaine, dyclonine, acetaminophen, salicylamide, doxylamine, diphenhydramine, pheniramine, chlorpheniramine, or pyrilamine, or their salts, that is not a controlled substance, and that by dosage unit appearance (including color, shape, size, and markings) and by representations would lead a reasonable person to believe that the substance is a controlled substance; the term representations, as used in this paragraph, includes
+(A) statements made by an owner or by anyone else in control of the substance concerning the nature of the substance, or its use or effect;
+(B) statements made to the recipient that the substance may be resold for inordinate profit;
+(C) whether the substance is packaged in a manner normally used for controlled substances;
+(D) evasive tactics or actions used by the owner or person in control of the substance to avoid detection by law enforcement authorities;
+(E) the storage, packaging, presentation, display of, or reference to a controlled substance with, near, or in connection with the activity involving the imitation controlled substance;
+(4) manufacture means the production, preparation, compounding, processing, encapsulating, packaging or repackaging, labeling or relabeling, of an imitation controlled substance.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

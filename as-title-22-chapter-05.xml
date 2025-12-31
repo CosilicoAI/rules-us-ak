@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-05"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-05"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="22.05"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-05/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-05/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_22">
+        <num>22</num>
+        <heading>Judiciary</heading>
+        <chapter eId="title_22__chp_05">
+          <num>05</num>
+          <heading>The Supreme Court</heading>
+          <section eId="sec_22-05-010">
+            <num>22.05.010</num>
+            <heading>Jurisdiction.</heading>
+            <subsection eId="22-05-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The supreme court has final appellate jurisdiction in all actions and proceedings. However, a party has only one appeal as a matter of right from an action or proceeding commenced in either the district court or the superior court.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Appeal to the supreme court is a matter of right only in those actions and proceedings from which there is no right of appeal to the court of appeals under
+AS 22.07.020
+or to the superior court under
+AS 22.10.020
+or
+AS 22.15.240
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A decision of the superior court on an appeal from an administrative agency decision may be appealed to the supreme court as a matter of right.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The supreme court may in its discretion review a final decision of the court of appeals on application of a party under
+AS 22.07.030
+. The supreme court may in its discretion review a final decision of the superior court on an appeal of a civil case commenced in the district court. In this subsection, final decision means a decision or order, other than a dismissal by consent of all parties, that closes a matter in the court of appeals or the superior court, as applicable.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The supreme court may issue injunctions, writs, and all other process necessary to the complete exercise of its jurisdiction.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The supreme court may, in its discretion, review a final decision of the Military Appeals Commission under
+AS 26.05.645
+for which a sentence of confinement is imposed, the right to appeal to the Military Appeals Commission under
+AS 26.05.615
+or
+AS 26.05.640
+has been exhausted, and a petition for review is filed under
+AS 26.05.645
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-05-015">
+            <num>22.05.015</num>
+            <heading>Transfer of appellate cases.</heading>
+            <subsection eId="22-05-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The supreme court may transfer to the court of appeals for decision a case pending before the supreme court if the case is within the jurisdiction of the court of appeals.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The supreme court may take jurisdiction of a case pending before the court of appeals if the court of appeals certifies to the supreme court that the case involves a significant question of law under the Constitution of the United States or under the constitution of the state or involves an issue of substantial public interest that should be determined by the supreme court.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-015__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A case filed in the supreme court or in the court of appeals may not be dismissed by one court on the ground that it is within the jurisdiction of the other court.  The case shall be transferred to the proper court.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-05-020">
+            <num>22.05.020</num>
+            <heading>Composition and general powers of supreme court.</heading>
+            <subsection eId="22-05-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The supreme court is a court of record and consists of five justices including the chief justice.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The supreme court is vested with all power and authority necessary to carry into complete execution all its judgments, decrees, and determinations in all matters within its jurisdiction, according to the constitution, the laws of the state, and the common law.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The supreme court may prescribe by rule the fees to be charged by all courts for judicial services.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-05-025">
+            <num>22.05.025</num>
+            <heading>Court facilities.</heading>
+            <subsection eId="22-05-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The supreme court has authority over</p>
+              </content>
+              <paragraph eId="22-05-025__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>all matters relating to the
+(A) maintenance, occupancy, and operation of all court facilities;
+(B) rent or lease of facilities for court system purposes, subject to
+AS 36.30.080</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-05-025__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the planning, design, and construction of court facilities but, in the exercise of its authority under this paragraph, the supreme court shall cooperate and coordinate with the Department of Transportation and Public Facilities so that court facility construction projects are carried out in accordance with the statutes and regulations applicable to state public works projects.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-05-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, court facility means a state facility in which 75 percent or more of the net usable space is occupied by the court system and other justice-related agencies.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-05-030">
+            <num>22.05.030</num>
+            <heading>Session of court.</heading>
+            <content>
+              <p>Sec. 22.05.030.   Session of court.
+The supreme court shall always be open for the transaction of business in the manner determined by rule of the court.  The supreme court shall hold sessions on dates and at places fixed by court rule.</p>
+            </content>
+          </section>
+          <section eId="sec_22-05-040">
+            <num>22.05.040</num>
+            <heading>Effect of adjournment.</heading>
+            <content>
+              <p>Sec. 22.05.040.   Effect of adjournment.
+An adjournment from day to day, or from time to time, is a recess in the session, and does not prevent the court from sitting at any time.</p>
+            </content>
+          </section>
+          <section eId="sec_22-05-050">
+            <num>22.05.050</num>
+            <heading>Process.</heading>
+            <content>
+              <p>Sec. 22.05.050.   Process.
+Process of the supreme court shall be in the name of the State of Alaska, signed by the clerk of the court or the deputy clerk, dated when issued, sealed with the seal of the court, and made returnable according to rule prescribed by the court.</p>
+            </content>
+          </section>
+          <section eId="sec_22-05-060">
+            <num>22.05.060</num>
+            <heading>Seals of court.</heading>
+            <content>
+              <p>Sec. 22.05.060.   Seals of court.
+The seal of the supreme court is a vignette of the official flag of the state with the words Seal of the Supreme Court of the State of Alaska surrounding the vignette.  The supreme court shall prescribe by rule the seals of court for the court of appeals and for the superior and district courts.</p>
+            </content>
+          </section>
+          <section eId="sec_22-05-070">
+            <num>22.05.070</num>
+            <heading>Qualifications of justices.</heading>
+            <content>
+              <p>Sec. 22.05.070.   Qualifications of justices.
+A justice of the supreme court shall be a citizen of the United States and of the state, a resident of the state for five years immediately preceding appointment, have been engaged for not less than eight years immediately preceding appointment in the active practice of law, and at the time of appointment be licensed to practice law in the state.  The active practice of law includes
+(1) sitting as a judge in a state or territorial court;
+(2) being actually engaged in advising and representing clients in matters of law;
+(3) rendering legal services to an agency, branch, or department of a civil government within the United States or a state or territory of the United States, in an elective, appointive, or employed capacity;
+(4) serving as a professor, associate professor, or assistant professor in a law school accredited by the American Bar Association.</p>
+            </content>
+          </section>
+          <section eId="sec_22-05-080">
+            <num>22.05.080</num>
+            <heading>Vacancies.</heading>
+            <subsection eId="22-05-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governor shall fill a vacancy or appoint a successor to fill an impending vacancy in the office of supreme court justice within 45 days after receiving nominations from the judicial council, by appointing one of two or more persons nominated by the judicial council for each actual or impending vacancy.  An appointment to fill an impending vacancy becomes effective upon the actual occurrence of the vacancy.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The office of a supreme court justice, including the office of chief justice, becomes vacant 90 days after the election at which the justice is rejected by a majority of those voting on the question or for which the justice fails to file a declaration of candidacy.  Upon the occurrence of (1) an actual vacancy; (2) the certification of rejection following an election; or (3) the election following failure of a justice to file a declaration of candidacy, the judicial council shall meet within 90 days and submit to the governor the names of two or more persons qualified for the judicial office; except that this 90-day period may be extended by the council with the concurrence of the supreme court.  In the event of an impending vacancy other than by reason of rejection or failure to file a declaration of candidacy, the council may meet at any time within the 90-day period immediately preceding the effective date of the vacancy and submit to the governor the names of two or more persons qualified for the judicial office.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-05-090">
+            <num>22.05.090</num>
+            <heading>Oath of office.</heading>
+            <content>
+              <p>Sec. 22.05.090.   Oath of office.
+Each supreme court justice, upon entering office, shall take and subscribe to an oath of office required of all officers under the constitution and any further oath or affirmation that may be prescribed by law.</p>
+            </content>
+          </section>
+          <section eId="sec_22-05-100">
+            <num>22.05.100</num>
+            <heading>Approval or rejection.</heading>
+            <content>
+              <p>Sec. 22.05.100.   Approval or rejection.
+Each supreme court justice is subject to approval or rejection as provided in
+AS 15
+(Alaska Election Code). The judicial council shall conduct an evaluation of each justice before the retention election and shall provide to the public information about that justice and may provide a recommendation regarding retention or rejection. The information and any recommendation shall be made public at least 60 days before the retention election.  The judicial council shall also provide the information and any recommendation to the office of the lieutenant governor in time for publication in the election pamphlet under
+AS 15.58.050
+.  If a majority of those voting on the question rejects the candidacy, the rejected justice may not be appointed to fill any vacancy in the supreme court, court of appeals, superior court, or district courts of the state for a period of four years thereafter.</p>
+            </content>
+          </section>
+          <section eId="sec_22-05-120">
+            <num>22.05.120</num>
+            <heading>Impeachment.</heading>
+            <content>
+              <p>Sec. 22.05.120.   Impeachment.
+A supreme court justice is subject to impeachment by the legislature for malfeasance or misfeasance in the performance of official duties.  Impeachment shall originate in the senate and shall be approved by a two-thirds vote of its members. The motion for impeachment must list fully the basis for the proceeding.  Trial on impeachment shall be conducted by the house of representatives.  A supreme court justice designated by the court shall preside at the trial. Concurrence of two-thirds of the members of the house is required for a judgment of impeachment.  The judgment may not extend beyond removal from office, but does not prevent proceedings in the courts on the same or related charges.</p>
+            </content>
+          </section>
+          <section eId="sec_22-05-130">
+            <num>22.05.130</num>
+            <heading>Restrictions.</heading>
+            <content>
+              <p>Sec. 22.05.130.   Restrictions.
+A supreme court justice while holding office may not practice law, nor engage in the conduct of any other profession, vocation, or business for profit or compensation, which conduct would interfere with the performance of the judicial duties of the justice, nor may a justice hold office in a political party, or hold any other office or position of profit under the United States, the state, or its political subdivisions.  A supreme court justice filing for another elective public office other than delegate to a constitutional convention of this state or the United States forfeits the judicial position.</p>
+            </content>
+          </section>
+          <section eId="sec_22-05-140">
+            <num>22.05.140</num>
+            <heading>Compensation.</heading>
+            <subsection eId="22-05-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (d) of this section, the monthly base salary of the chief justice is $13,808, and for each other justice, the monthly base salary is $13,767.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A salary disbursement may not be issued to a justice of the supreme court until the justice has filed with the state officer designated to issue salary disbursements an affidavit that no matter referred to the justice for opinion or decision has been uncompleted or undecided by the justice for a period of more than six months.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to the monthly salary, each justice is entitled to receive a geographic cost-of-living adjustment each year on $100,000 of the justice's annual base salary for that year, based on the location of the primary office assignment. The commissioner of administration shall calculate the geographic cost-of-living adjustment based on the geographic pay differentials established under
+AS 39.27.020
+(a). Retirement contributions and benefits shall be computed only on the monthly base salary not including the geographic cost-of-living adjustment.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-05-140__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Beginning July 1, 2006, if the monthly basic salary for Step E, Range 28, of the salary schedule set out in
+AS 39.27.011
+increases, the monthly base salary of the chief justice and the other justices shall increase by the same percentage. The increase takes effect when the salary increase under
+AS 39.27.011
+takes effect and may be retroactive if consistent with the change in
+AS 39.27.011
+. The commissioner of administration shall, by regulation, establish the percentage at which the salary is increased and the increased salary amount.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

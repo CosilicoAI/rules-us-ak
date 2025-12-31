@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-31"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.31"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-31/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-31/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-31/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-31/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_31">
+          <num>31</num>
+          <heading>Estate Tax Law of Alaska</heading>
+          <section eId="sec_43-31-011">
+            <num>43.31.011</num>
+            <heading>Tax upon estates of resident decedents.</heading>
+            <content>
+              <p>Sec. 43.31.011.   Tax upon estates of resident decedents.
+A tax is imposed upon the transfer of the estate of a person who, at the time of death, was a resident of this state, the amount of which shall be computed as follows:
+(1) Determine the amount of the credit allowable under the applicable federal revenue Act for estate, inheritance, legacy, and succession taxes actually paid to the several states.
+(2) Determine for each of the other states the amount of all constitutionally valid estate, inheritance, legacy, and succession taxes, actually paid to each of the other states in respect to property owned by the decedent or subject to these taxes as a part of or in connection with the decedent's estate.
+(3) Determine for each other state in which property is located that is owned by the decedent or subject to estate, inheritance, legacy, or succession taxes as a part of or in connection with the decedent's estate the proportion of the amount of the credit allowable under the applicable federal revenue Act for estate, inheritance, legacy, and succession taxes actually paid to the several states, as the value of the property taxable in that state bears to the value of the entire gross estate wherever situated.
+(4) The amount of the tax is the amount of the allowable credit as determined in (1) of this section less the sum of the smaller figures of (2) or (3) of this section for each of the other states in which the decedent's property is situated.  For example: The amount of allowable credit under the federal Act is $10,000 (relating to (1) in this section)
+Amount of TaxProportion of CreditSmaller of
+Actually Paidfrom Situs of Property(2) of (3)
+(relating to (2) of(relating to (3) ofof this
+this section)this section)section
+State X$3,00010%$1,000$1,000
+State Y$1,00015%$1,500$1,000
+$2,000
+The Alaska estate tax is $10,000 minus $2,000 equalling $8,000.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-021">
+            <num>43.31.021</num>
+            <heading>Tax upon estates of nonresident decedents.</heading>
+            <content>
+              <p>Sec. 43.31.021.   Tax upon estates of nonresident decedents.
+A tax is imposed upon the transfer of real property situated in this state, upon tangible personal property having an actual situs in this state, upon intangible personal property having a business situs in this state and upon stocks, bonds, debentures, notes and other securities or obligations of corporations organized under the laws of this state, of a person who at the time of death was not a resident of this state but was a resident of the United States, the amount of which shall be a sum equal to that proportion of the amount of the credit allowable under the applicable federal revenue Act for estate, inheritance, legacy and succession taxes actually paid to the several states, as the value of the property taxable in this state bears to the value of the entire gross estate wherever situated.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-031">
+            <num>43.31.031</num>
+            <heading>Tax upon estates of alien decedents.</heading>
+            <subsection eId="43-31-031__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A tax is imposed upon the transfer of real property situated and tangible personal property having an actual situs in this state and upon intangible personal property physically present in this state of a person who at the time of death was not a resident of the United States, the amount of which is a sum equal to that proportion of the credit allowable under the applicable federal revenue Act for estate, inheritance, legacy, and succession taxes actually paid to the several states, as the value of the property taxable in this state bears to the value of the estate taxable by the United States wherever situated.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-31-031__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purpose of this section, stock in a corporation organized under the laws of this state shall be considered physically present in this state. The amount receivable as insurance upon the life of a decedent who at the time of death was not a resident of the United States, and any money deposited with a person carrying on the banking business by or for the decedent who was not engaged in business in the United States at the time of death, is not for the purpose of this section, considered to be physically present in this state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-31-041">
+            <num>43.31.041</num>
+            <heading>Administration by Department of Revenue.</heading>
+            <content>
+              <p>Sec. 43.31.041.   Administration by Department of Revenue.
+The department, except as otherwise provided, has jurisdiction and is charged with the administration and enforcement of the provisions of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-051">
+            <num>43.31.051</num>
+            <heading>Examination of books, papers, records, etc.</heading>
+            <subsection eId="43-31-051__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department, for the purpose of ascertaining the correctness of a return, or for the purpose of making a return where none has been made, may examine books, papers, records, or memoranda, bearing upon the matter required to be included in the return; may require the attendance of persons rendering the return or of an officer or employee of those persons, or of any person having knowledge in the premises, at a convenient place in the superior court in the judicial district in which the person resides, and may take testimony with reference to the matter required by law to be included in the return, and may administer oaths to these persons.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-31-051__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a person subpoenaed to appear under this chapter to testify, or to produce books, papers, or other data, refuses to do so, the superior court in the judicial district in which the person resides has jurisdiction by appropriate process to compel the attendance, testimony, or production of books, papers, or other data.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-31-061">
+            <num>43.31.061</num>
+            <heading>Appointment, bonds and credentials of agents.</heading>
+            <subsection eId="43-31-061__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may appoint and remove examiners and appraisers it considers necessary, these persons to have those duties and powers the department prescribes.  The compensation of these examiners and appraisers shall be as the department prescribes, and they shall be reimbursed for travel expenses as provided for state employees.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-31-061__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may require the examiners, appraisers, and employees as it designates to give bond payable to the state for the faithful performance of their duties in that form and with those sureties as it determines, and all premiums on these bonds shall be paid by the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-31-061__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>All officers empowered by law to administer oaths or employees, examiners, and appraisers appointed by the department may administer an oath to persons giving testimony before them or to take the acknowledgment of a person in respect to the returns or reports required under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-31-061__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>All employees, examiners, and appraisers appointed by the department shall have for identification purposes proper credentials issued by the department and exhibit them upon demand.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-31-071">
+            <num>43.31.071</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 43.31.071.   Regulations.
+The department may adopt regulations not inconsistent with this chapter as it considers necessary to enforce its provisions, and may adopt regulations as are or may be promulgated with respect to the estate tax provisions of the revenue Act of the United States insofar as they are applicable.  The department may prescribe forms it considers proper for the administration of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-091">
+            <num>43.31.091</num>
+            <heading>Actions by or against department.</heading>
+            <content>
+              <p>Sec. 43.31.091.   Actions by or against department.
+The department may sue and be sued but may not be required to give supersedeas or other bond in any cause or court of this state.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-111">
+            <num>43.31.111</num>
+            <heading>Notice of death or tax return.</heading>
+            <content>
+              <p>Sec. 43.31.111.   Notice of death or tax return.
+The executor, within two months after the decedent's death, or within a like period after qualifying as executor, shall submit a report of the death to the department on the form prepared and published by the department known as the preliminary notice and report. If a federal estate tax return is required by the applicable federal revenue Act, a copy of the preliminary notice filed with the federal government may be filed with the department in place of the preliminary notice and report.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-121">
+            <num>43.31.121</num>
+            <heading>Tax return in certain cases.</heading>
+            <content>
+              <p>Sec. 43.31.121.   Tax return in certain cases.
+The executor of an estate required by the laws of the United States to file a federal estate tax return shall file with the department within 15 months from the date of death a return consisting of an executed copy of the federal estate tax return, and shall file with this return all supplemental data, if any, as may be necessary to determine and establish the correct tax under this chapter.  This return shall be made in the case of every decedent who at the time of death was not a resident of the United States and whose gross estate includes any real property situated and tangible personal property having an actual situs in the state and intangible personal property physically present in the state.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-131">
+            <num>43.31.131</num>
+            <heading>Failure to make return and extension.</heading>
+            <content>
+              <p>Sec. 43.31.131.   Failure to make return and extension.
+If the federal taxing authorities grant an extension of time for filing a return the department shall allow a like extension of time for filing upon the filing by the executor of a copy of the federal extension with the department.  An extension of time for filing a return does not operate to extend the time for payment of the tax.  If a person fails to file a return at the time prescribed by law or files, wilfully or otherwise, a false or fraudulent return, the department shall make the return from its own knowledge and from information it can obtain through testimony or otherwise.  A return so made by the department shall be prima facie good and sufficient for all legal purposes.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-141">
+            <num>43.31.141</num>
+            <heading>When tax due, extension and interest.</heading>
+            <content>
+              <p>Sec. 43.31.141.   When tax due, extension and interest.
+The tax imposed by this chapter is due and payable 15 months after the decedent's death and shall be paid by the executor to the department. If the department finds that the payment on the due date of tax or any part of the tax would impose undue hardship upon the estate, the department may extend the time for payment of any part, but no extension may be for more than one year and the aggregate of extensions with respect to an estate may not exceed five years from the due date. In that case, the amount in respect of which the extension is granted shall be paid on or before the date of the expiration of the period of the extension unless a further extension is granted. If the time for the payment is extended, there shall be collected, as part of this amount, interest on the tax as provided in
+AS 43.05.225
+(1) from the due date of the tax to the date the tax is paid.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-151">
+            <num>43.31.151</num>
+            <heading>Notice of deficiency in federal estate tax.</heading>
+            <content>
+              <p>Sec. 43.31.151.   Notice of deficiency in federal estate tax.
+It is the duty of the executor to file with the department within 60 days after a final determination of a deficiency in federal estate tax has been made, written notice of the deficiency.  If, based upon this deficiency and the ground for it, it appears that the amount of tax previously paid is less than the amount of tax owing, the difference together with interest at the rate of seven percent a year from the due date of the tax shall be paid upon notice and demand by the department. If the executor fails to give the notice required by this section, any additional tax owing may be assessed, or a proceeding in court for the collection of the tax may be begun without assessment at any time before the filing of notice or within 30 days after the delinquent filing of notice, notwithstanding the provisions of
+AS 43.05.260
+.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-181">
+            <num>43.31.181</num>
+            <heading>Receipts for taxes.</heading>
+            <content>
+              <p>Sec. 43.31.181.   Receipts for taxes.
+The department shall issue to the executor, upon payment of the tax imposed by this chapter, receipts in triplicate, any of which is sufficient evidence of payment, and shall entitle the executor to be credited and allowed the amount of the receipt by a court having jurisdiction to audit or settle the accounts of the executor.  If the executor files a complete return and makes written application to the department for determination of the amount of the tax and discharge from personal liability, the department, as soon as possible, and in any event within one year after receipt of the application, shall notify the executor of the amount of the tax, and upon payment of the tax the executor shall be discharged from personal liability for any additional tax thereafter found to be due, and is entitled to receive from the department a receipt in writing showing the discharge; however, the discharge does not operate to release the gross estate of the lien of additional tax that may thereafter be found to be due, while the title to the gross estate remains in the executor or in the heirs, devisees, or distributees; but after the discharge is given, no part of the gross estate is subject to lien or to any claim or demand for tax after the title to the estate has passed to a bona fide purchaser for value.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-191">
+            <num>43.31.191</num>
+            <heading>Failure to pay tax.</heading>
+            <subsection eId="43-31-191__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a tax imposed by this chapter or any portion of the tax is unpaid within 90 days after it becomes due, and the time for payment is not extended, the department shall collect the tax, penalty and interest by using the remedy of distraint on real and personal property as set out in
+AS 43.20.270
+or by issuing a warrant directed to the commissioner of public safety commanding the commissioner to</p>
+              </content>
+              <paragraph eId="43-31-191__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>levy upon and sell the real and personal property of the estate found in the state for the payment of the amount of the unpaid tax with interest and penalties, if any, as may have accrued or been assessed against it, together with the cost of executing the warrant; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-31-191__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>return the warrant to the department and pay to it the money collected under it by a time to be specified in the warrant, not less than 60 days from the date of the warrant.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-31-191__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner of public safety shall proceed upon the warrant in all respects, with like effect, in the manner prescribed by law for executions issued against property upon judgments of a court of record.  Alias and pluries warrants may issue from time to time as the department considers proper until the entire amount of the tax, deficiency, interest, penalties and costs have been recovered.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-31-201">
+            <num>43.31.201</num>
+            <heading>Tax payable from entire estates and third persons.</heading>
+            <content>
+              <p>Sec. 43.31.201.   Tax payable from entire estates and third persons.
+If the tax or a part of the tax is paid or collected out of that part of the estate passing to or in possession of a person other than the executor in the capacity of executor, the person is entitled to a reimbursement out of a part of the estate still undistributed or by a just and equitable contribution by the person whose interest in the estate of the decedent would have been reduced if the tax had been paid before the distribution of the estate or whose interest in the estate is subject to an equal or prior liability for the payment of tax, debts, or other charges against the estate, it being the purpose and intent of this section that so far as is practical and unless otherwise directed by the will of the decedent, the tax shall be paid out of the estate before its distribution; but the department is not charged with enforcing contribution from a person.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-221">
+            <num>43.31.221</num>
+            <heading>Personal liability of executor.</heading>
+            <content>
+              <p>Sec. 43.31.221.   Personal liability of executor.
+If an executor makes distribution either in whole or in part of any of the property of an estate to the heirs, next of kin, distributees, legatees or devisees without having paid or secured the tax due the state under this chapter, or obtained the release of the property from the lien of the tax the executor becomes personally liable for the tax so due the state, or so much of it as remains due and unpaid, to the full extent of the full value of any property belonging to the person or estate which may come into the hands, custody, or control of the executor.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-230">
+            <num>43.31.230</num>
+            <heading>Sale of real estate by executor to pay tax.</heading>
+            <content>
+              <p>Sec. 43.31.230.   Sale of real estate by executor to pay tax.
+Every executor has the same right and power to take possession of or sell, convey and dispose of real estate as assets of the estate for the payment of the tax imposed by this chapter as the executor may have for the payment of the debts of the decedent.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-240">
+            <num>43.31.240</num>
+            <heading>Actions to enforce payment.</heading>
+            <content>
+              <p>Sec. 43.31.240.   Actions to enforce payment.
+Actions may be brought within the time or times specified in this chapter by the department to recover the amount of taxes, penalties and interest due under this chapter.  The action shall be brought in the superior court where the estate is being or has been administered, or if no administration is had in this state, then in the appropriate court of the jurisdiction where any of the property of the estate is situated.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-250">
+            <num>43.31.250</num>
+            <heading>No discharge of executor until tax paid.</heading>
+            <content>
+              <p>Sec. 43.31.250.   No discharge of executor until tax paid.
+No final account of an executor of the estate of a nonresident, nor of the estate of a resident where the value of the gross estate wherever situated exceeds $60,000 may be allowed by any court until the account shows, and the judge of the court finds, that the tax imposed by the provisions of this chapter upon the executor, which has become payable, has been paid.  The certificate of the department of nonliability for tax or its receipt for the amount of tax certified is conclusive in proceedings as to the liability or the payment of the tax to the extent of the certificate.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-260">
+            <num>43.31.260</num>
+            <heading>Agreements as to tax due.</heading>
+            <content>
+              <p>Sec. 43.31.260.   Agreements as to tax due.
+For the purpose of facilitating the settlement and distribution of estates held by executors, the department may, on behalf of the state, agree upon the amount of taxes at any time due or to become due from the executor under the provisions of this chapter, and payment in accordance with the agreement is full satisfaction of the taxes to which the agreement relates.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-280">
+            <num>43.31.280</num>
+            <heading>Refunds of excess tax paid.</heading>
+            <subsection eId="43-31-280__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When it appears upon the examination of a return made under this chapter or upon proof submitted to the department by the executor, that an amount of estate tax has been paid in excess of the tax legally due under this chapter, then the amount of overpayment, together with any overpayment of interest on it shall be refunded to the executor and this refund shall be made by the department as a matter of course regardless of whether the executor has filed a written claim for it, except that upon request of the department, the executor shall file with the department a conformed copy of any written claim for refund of federal estate tax which has been filed with the United States.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-31-280__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, no refund of estate tax may be made nor is any executor entitled to bring an action for refund of estate tax after the expiration of two years from the date of payment of the tax to be refunded unless there has been filed with the department written notice of administrative or judicial determination of the federal estate tax liability of the estate, whichever occurs last, and notice shall have been so filed not later than 60 days after determination has become final.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-31-280__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, an administrative determination shall be considered to have become final on the date of receipt by the executor or other interested party of the final payment to be made refunding federal estate tax or upon the last date on which the executor or any other interested party receives notice from the United States that an overpayment of federal estate tax has been credited by the United States against any liability other than federal estate tax of the estate.  A final judicial determination shall be considered to have occurred on the date on which a judgment entered by a court of competent jurisdiction and determining that there has been an overpayment of federal estate tax becomes final.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-31-280__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Nothing in this section prevents an executor from bringing or maintaining an action in a court of competent jurisdiction within a period otherwise prescribed by law to determine any question bearing upon the taxable situs of property, the domicile of a decedent, or otherwise affecting the jurisdiction of the state to impose an inheritance or estate tax with respect to a particular item of property.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-31-290">
+            <num>43.31.290</num>
+            <heading>Superior court judge to furnish names of decedents.</heading>
+            <content>
+              <p>Sec. 43.31.290.   Superior court judge to furnish names of decedents.
+Each superior court judge shall, on or before the 10th day of every month, notify the department of the names of all decedents, the names and addresses of the respective executors, administrators or curators appointed, the amount of the bonds, if any, required by the court, and the probable value of the estates, in all estates of decedents whose wills have been probated or propounded for probate before the judge or upon which letters testamentary or upon whose estates letters of administration or curatorship have been sought or granted, during the preceding months.  The report shall contain any other information which the judge may have concerning the estate of these decedents.  The judge shall also furnish immediately further information, from the records and files of the judge's office in regard to the estates, which the department may from time to time require.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-300">
+            <num>43.31.300</num>
+            <heading>Corporate executors of nonresident decedents.</heading>
+            <content>
+              <p>Sec. 43.31.300.   Corporate executors of nonresident decedents.
+If the executor of the estate of a nonresident is a corporation duly authorized, qualified, and acting as an executor in the jurisdiction of the domicile of the decedent, it is under the duties and obligations as to the giving of notices and filing of returns required by this chapter, and may bring and defend actions and suits as authorized or permitted by this chapter, to the same extent as an individual executor, notwithstanding that the corporation may be prohibited from exercising, in this state, any powers as executor, but nothing in this section authorizes corporations not authorized to do business in this state to qualify or act as executor, administrator, or in any other fiduciary capacity, if otherwise prohibited by the laws of this state, except to the extent expressly provided.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-310">
+            <num>43.31.310</num>
+            <heading>Prima facie liability for tax.</heading>
+            <content>
+              <p>Sec. 43.31.310.   Prima facie liability for tax.
+The estate of each decedent whose property is subject to the laws of the state is considered prima facie liable for estate taxes under this chapter, and is subject to a lien for them in an amount which may be later determined to be due and payable on the estate as provided in this chapter.  The presumption of liability begins on the date of the death of the decedent and continues until the full settlement of all taxes which may be found to be due under this chapter, the settlement to be shown by receipts for all taxes due to be issued by the department as provided for in this chapter.  Whenever it appears to the department that an estate is not subject to a tax under this chapter the department shall issue to the executor, administrator, curator or other personal representative, or to the heirs, devisees, or legatees of the decedent, a certificate in writing to that effect, showing nonliability to tax, which certificate of nonliability has the same effect as a receipt showing payment.  The certificate of nonliability is subject to record and admissible in evidence in like manner as receipts showing payment of taxes.  There shall be paid to the department a fee of $2.50 for each certificate so issued.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-320">
+            <num>43.31.320</num>
+            <heading>Discharge of estate; notice of lien, limitation, etc.</heading>
+            <subsection eId="43-31-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If no receipt for the payment of taxes, or no receipt of nonliability for taxes has been issued or recorded as provided for in this chapter, the property constituting the estate of the decedent in this state shall be considered fully acquitted and discharged of all liability for estate and inheritance taxes under this chapter after a lapse of 10 years from the date of the filing with the department of notice of the decedent's death, or after a lapse of 10 years from the date of the filing with the department of an estate tax return, whichever date is earlier, unless the department makes out, files and has recorded with the appropriate recorder wherein any part of the estate of the decedent may be situated in this state, a notice of lien against the property of the estate, specifying the amount or approximate amount of taxes claimed to be due to the state under this chapter, which notice of lien continues the lien in force for an additional period of five years or until payment is made. Notice of lien shall be filed and recorded; however, if no receipt for the payment of taxes, or no certificate of nonliability for taxes, has been issued or recorded as provided for in this chapter, the property constituting the estate of the decedent in this state, if the decedent was a resident of this state at the time of death, shall be considered fully acquitted and discharged of all liability for tax under this chapter after a lapse of 10 years from the date of the death of the decedent, unless the department makes out, files and has recorded notice of lien as provided in this chapter, which notice continues the lien in force against the property of the estate for an additional period of five years or until payment is made.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-31-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding anything to the contrary in this section or this chapter, no lien for estate and inheritance taxes under this chapter may continue for more than 20 years from the date of death of the decedent, whether the decedent is a resident or nonresident of this state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-31-330">
+            <num>43.31.330</num>
+            <heading>Disposition of proceeds.</heading>
+            <content>
+              <p>Sec. 43.31.330.   Disposition of proceeds.
+All taxes and fees levied and collected under this chapter shall be paid into the general fund.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-340">
+            <num>43.31.340</num>
+            <heading>Interpretation and construction.</heading>
+            <content>
+              <p>Sec. 43.31.340.   Interpretation and construction.
+When not otherwise provided for in this chapter, the rules of interpretation and construction applicable to the estate and inheritance tax laws of the United States apply to and shall be followed in the interpretation of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-350">
+            <num>43.31.350</num>
+            <heading>Failure to produce records.</heading>
+            <content>
+              <p>Sec. 43.31.350.   Failure to produce records.
+A person who fails to comply with any duty imposed upon the person by this chapter, or who, having possession or control of any record, file or paper, containing or supposed to contain information concerning the estate of the decedent, or having possession or control of any property comprised in the gross estate of the decedent, fails to exhibit it upon request to the department or an examiner or appraiser, appointed under this chapter, who desires to examine it in the performance of official duties under this chapter, is liable to a penalty of not more than $1,000, with costs of suit, in a civil action in the name of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-400">
+            <num>43.31.400</num>
+            <heading>Effectiveness of chapter.</heading>
+            <content>
+              <p>Sec. 43.31.400.   Effectiveness of chapter.
+This chapter shall remain in force and effect so long as the government of the United States retains in full force and effect as a part of the revenue laws of the United States a federal estate tax, and this chapter shall cease to be operative when the government of the United States ceases to impose an estate tax of the United States.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-410">
+            <num>43.31.410</num>
+            <heading>Exemptions.</heading>
+            <content>
+              <p>Sec. 43.31.410.   Exemptions.
+The tax imposed under the inheritance and estate tax laws of this state in respect to personal property, except tangible property having an actual situs in this state, is not payable
+(1) if the transferer at the time of death was a resident of a state or territory of the United States, or the District of Columbia, which at the time of death did not impose a death tax of any character in respect to property of residents of this state, except tangible personal property having an actual situs in the state, territory or district; or
+(2) if the laws of the state, territory or district of the residence of the transferer at the time of death contained a reciprocal exemption provision under which nonresidents were exempted from death taxes of every character in respect to personal property, except tangible personal property having an actual situs therein, and if the state, territory or district of the residence of the nonresident decedent allowed a similar exemption to residents of the state, territory or district of residence of the decedent.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-420">
+            <num>43.31.420</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 43.31.420.   Definitions.
+In this chapter,
+(1) decedent includes the testator, intestate grantor, bargainor, vendor, or donor;
+(2) executor means the executor, administrator, or curator of the decedent, or if there is no executor, administrator, or curator appointed qualified and acting, then any person who is in the actual or constructive possession of any property included in the gross estate of the decedent;
+(3) gross estate means the gross estate as determined under the provisions of the applicable federal revenue Act;
+(4) intangible personal property means incorporeal personal property including deposits in banks, negotiable instruments, mortgages, debts, receivables, shares of stock, bonds, notes, credits, evidences of an interest in property, evidences of debt, and choses in action generally;
+(5) net estate means the net estate as determined under the provisions of the applicable federal revenue Act;
+(6) nonresident means a natural person domiciled outside the state;
+(7) person means persons, corporations, associations, joint stock companies, and business trusts;
+(8) real property means real property as it is commonly understood and includes real property whose legal title is in the decedent but which is subject to a contract of sale to a third party;
+(9) resident means a natural person domiciled in the state;
+(10) tangible personal property means corporeal personal property, including money;
+(11) transfer includes the passing of property or any interest in property, in possession or enjoyment, present or future, by inheritance, descent, devise, succession, bequest, grant, deed, bargain, sale, gift, or appointment in the manner described in this chapter;
+(12) United States used in a geographical sense includes only the 50 states and the District of Columbia.</p>
+            </content>
+          </section>
+          <section eId="sec_43-31-430">
+            <num>43.31.430</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 43.31.430.   Short title.
+This chapter may be cited as the Estate Tax Law of Alaska.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

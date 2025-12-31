@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-37"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-37"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="17.37"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-37/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-37/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-37/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-37/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_17">
+        <num>17</num>
+        <heading>Food and Drugs</heading>
+        <chapter eId="title_17__chp_37">
+          <num>37</num>
+          <heading>Medical Uses of Marijuana</heading>
+          <section eId="sec_17-37-010">
+            <num>17.37.010</num>
+            <heading>Registry of patients and listing of caregivers.</heading>
+            <subsection eId="17-37-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall create and maintain a confidential registry of patients who have applied for and are entitled to receive a registry identification card according to the criteria set out in this chapter. The registry must also contain the name of the primary caregiver and the name of the alternate caregiver of a patient, if either is designated by the patient. Only one primary caregiver and one alternate caregiver may be listed in the registry for a patient. The registry and the information contained within it are not a public record under
+AS 40.25.100
+ 40.25.295 (Alaska Public Records Act). Peace officers and authorized employees of state or municipal law enforcement agencies shall be granted access to the information contained within the department's confidential registry only</p>
+              </content>
+              <paragraph eId="17-37-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for the purpose of verifying that an individual who has presented a registry identification card to a state or municipal law enforcement official is lawfully in possession of such card; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for the purpose of determining that an individual who claims to be lawfully engaged in the medical use of marijuana is registered or listed with the department or is considered to be registered or listed under (g) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-37-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in (a) of this section, a person, other than authorized employees of the department in the course of their official duties, may not be permitted to gain access to names of patients, physicians, primary or alternate caregivers, or any information related to such persons maintained in connection with the department's confidential registry.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In order to be placed on the state's confidential registry for the medical use of marijuana, an adult patient or a parent or guardian of a minor patient shall provide to the department</p>
+              </content>
+              <paragraph eId="17-37-010__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a statement signed by the patient's physician
+(A) stating that the physician personally examined the patient and that the examination took place in the context of a bona fide physician-patient relationship and setting out the date the examination occurred;
+(B) stating that the patient has been diagnosed with a debilitating medical condition; and
+(C) stating that the physician has considered other approved medications and treatments that might provide relief, that are reasonably available to the patient, and that can be tolerated by the patient, and that the physician has concluded that the patient might benefit from the medical use of marijuana;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-010__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a sworn application on a form provided by the department containing the following information:
+(A) the name, address, date of birth, and Alaska driver's license or identification card number of the patient;
+(B) the name, address, and telephone number of the patient's physician; and
+(C) the name, address, date of birth, and Alaska driver's license or identification card number of the patient's primary caregiver and alternate caregiver if either is designated at the time of application, along with the statements required under (d) of this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-010__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the patient is a minor, a statement by the minor's parent or guardian that the patient's physician has explained the possible risks and benefits of medical use of marijuana and that the parent or guardian consents to serve as the primary caregiver for the patient and to control the acquisition, possession, dosage, and frequency of use of marijuana by the patient.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-37-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person may be listed under this section as the primary caregiver or alternate caregiver for a patient if the person submits a sworn statement on a form provided by the department that the person</p>
+              </content>
+              <paragraph eId="17-37-010__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is at least 21 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-010__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has never been convicted of a felony offense under
+AS 11.71
+or
+AS 11.73
+or a law or ordinance of another jurisdiction with elements similar to an offense under
+AS 11.71
+or
+AS 11.73
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-010__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>is not currently on probation or parole from this or another jurisdiction.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-37-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person may be a primary caregiver or alternate caregiver for only one patient at a time unless the primary caregiver or alternate caregiver is simultaneously caring for two or more patients who are related to the caregiver by at least the fourth degree of kinship by blood or marriage.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department shall review the application and all information submitted under (c) and (d) of this section within 30 days of receiving it. The department shall notify the patient that the patient's application for a registry identification card has been denied if the department's review of the information that the patient has provided discloses that the information required under (c) of this section has not been provided or has been falsified or that the patient is not otherwise qualified to be registered. If the department determines that the primary caregiver or alternate caregiver is not qualified under this section to be a primary caregiver or alternate caregiver, or if the information required under this section has not been provided or has been falsified, the department shall notify the patient of that determination and shall proceed to review the patient's application as if a primary caregiver or alternate caregiver was not designated. The patient may amend the application and designate a new primary caregiver or alternate caregiver at any time. The department may not list a newly designated primary caregiver or alternate caregiver until it determines that the newly designated primary caregiver or alternate caregiver is qualified under this section and that the information required under this section has been provided. Otherwise, not more than five days after verifying the information, the department shall issue a registry identification card to the patient, and, if a primary caregiver for a patient has been listed in the registry, the department shall issue to the patient a duplicate of the patient's card clearly identified as the caregiver registry identification card, stating</p>
+              </content>
+              <paragraph eId="17-37-010__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the patient's name, address, date of birth, and Alaska driver's license or identification card number;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-010__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>that the patient is registered with the department as a person who has a debilitating medical condition that the patient may address with the medical use of marijuana;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-010__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the dates of issuance and expiration of the registry identification card; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-010__subsec_f__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the name, address, date of birth, and Alaska driver's license or identification card number of the patient's primary caregiver and alternate caregiver, if either is designated.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-37-010__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If the department fails to deny the application and issue a registry identification card within 35 days of receipt of an application, the patient's application for the card is considered to have been approved. Receipt of an application shall be considered to have occurred upon delivery to the department. Notwithstanding this subsection, an application may not be considered to have been received before June 1, 1999. If the department subsequently registers a patient or lists a primary caregiver or alternate caregiver, if either is designated, or denies the application or listing, that registration or listing or denial revokes the approval that is considered to have occurred under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A patient or a primary caregiver who is questioned by a state or municipal law enforcement official about the patient's or primary caregiver's medical use of marijuana shall immediately show proper identification to the official and inform the official that the person is a registered patient or listed primary caregiver for a registered patient and either show the official (1) the person's registry identification card, or (2) a copy of an application that has been pending without registration or denial for over 35 days since received by the department and proof of the date of delivery to the department, which shall be accorded the same legal effect as a registry identification card until the patient receives actual notice that the application has been denied.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A person may not apply for a registry identification card more than once every six months.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The denial or revocation of a registry identification card or the removal of a patient from the registry or the listing of a caregiver shall be considered a final agency action subject to judicial review. Only the patient, or the parent or guardian of a patient who is a minor, has standing to contest the final agency action.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>When there has been a change in the name, address, or physician of a patient who has qualified for a registry identification card, or a change in the name or address of the patient's primary caregiver or alternate caregiver, that patient must notify the department of the change within 10 days. To maintain an effective registry identification card, a patient must annually resubmit updated written documentation, including a statement signed by the patient's physician containing the information required to be submitted under (c)(1) of this section, to the department, as well as the name and address of the patient's primary caregiver or alternate caregiver, if any.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>A patient who no longer has a debilitating medical condition and the patient's primary caregiver, if any, shall return all registry identification cards to the department within 24 hours of receiving the diagnosis by the patient's physician.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>A copy of a registry identification card is not valid. A registry identification card is not valid if the card has been altered, mutilated in a way that impairs its legibility, or laminated.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>The department may revoke a patient's registration if the department determines that the patient has violated a provision of this chapter or
+AS 11.71
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>The department may remove a primary caregiver or alternate caregiver from the registry if the department determines that the primary caregiver or alternate caregiver is not qualified to be listed or has violated a provision of this chapter or
+AS 11.71
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>The department may determine and levy reasonable fees to pay for any administrative costs associated with its role in administering this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>A primary caregiver may only act as the primary caregiver for the patient when the primary caregiver is in physical possession of the caregiver registry identification card. An alternate caregiver may only act as the primary caregiver for the patient when the alternate caregiver is in physical possession of the caregiver registry identification card.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-010__subsec_r">
+              <num>(r)</num>
+              <content>
+                <p>The department may not register a patient under this section unless the statement of the patient's physician discloses that the patient was personally examined by the physician within the 16-month period immediately preceding the patient's application. The department shall cancel, suspend, revoke, or not renew the registration of a patient whose annual resubmission of updated written documentation to the department under (k) of this section does not disclose that the patient was personally examined by the patient's physician within the 16-month period immediately preceding the date by which the patient is required to annually resubmit written documentation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_17-37-030">
+            <num>17.37.030</num>
+            <heading>Privileged medical use of marijuana.</heading>
+            <subsection eId="17-37-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A patient, primary caregiver, or alternate caregiver registered with the department under this chapter has an affirmative defense to a criminal prosecution related to marijuana to the extent provided in
+AS 11.71.090
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided by law, a person is not subject to arrest, prosecution, or penalty in any manner for applying to have the person's name placed on the confidential registry maintained by the department under
+AS 17.37.010
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A physician is not subject to any penalty, including arrest, prosecution, or disciplinary proceeding, or denial of any right or privilege, for</p>
+              </content>
+              <paragraph eId="17-37-030__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>advising a patient whom the physician has diagnosed as having a debilitating medical condition about the risks and benefits of medical use of marijuana or that the patient might benefit from the medical use of marijuana, provided that the advice is based upon the physician's contemporaneous assessment in the context of a bona fide physician-patient relationship of
+(A) the patient's medical history and current medical condition; and
+(B) other approved medications and treatments that might provide relief and that are reasonably available to the patient and that can be tolerated by the patient; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-030__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>providing a patient with a written statement in an application for registration under
+AS 17.37.010
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-37-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding the provisions of this section, a person, including a patient, primary caregiver, or alternate caregiver, is not entitled to the protection of this chapter for the person's acquisition, possession, cultivation, use, sale, distribution, or transportation of marijuana for nonmedical use.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_17-37-040">
+            <num>17.37.040</num>
+            <heading>Restrictions on medical use of marijuana.</heading>
+            <subsection eId="17-37-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A patient, primary caregiver, or alternate caregiver may not</p>
+              </content>
+              <paragraph eId="17-37-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>engage in the medical use of marijuana in a way that endangers the health or well-being of any person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>engage in the medical use of marijuana in plain view of, or in a place open to, the general public; this paragraph does not prohibit a patient or primary caregiver from possessing marijuana in a place open to the general public if
+(A) the person possesses, in a closed container carried on the person, one ounce or less of marijuana in usable form;
+(B) the marijuana is not visible to anyone other than the patient or primary caregiver; and
+(C) the possession is limited to that necessary to transport the marijuana directly to the patient or primary caregiver or directly to a place where the patient or primary caregiver may lawfully possess or use the marijuana;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>sell or distribute marijuana to any person, except that a patient may deliver marijuana to the patient's primary caregiver and a primary caregiver may deliver marijuana to the patient for whom the caregiver is listed; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-040__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>possess in the aggregate more than
+(A) one ounce of marijuana in usable form; and
+(B) six marijuana plants, with no more than three mature and flowering plants producing usable marijuana at any one time.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-37-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any patient found by a preponderance of the evidence to have knowingly violated the provisions of this chapter shall be precluded from obtaining or using a registry identification card for the medical use of marijuana for a period of one year. In this subsection, knowingly has the meaning given in
+AS 11.81.900
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A governmental, private, or other health insurance provider is not liable for any claim for reimbursement for expenses associated with medical use of marijuana.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-37-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Nothing in this chapter requires any accommodation of any medical use of marijuana</p>
+              </content>
+              <paragraph eId="17-37-040__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in any place of employment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-040__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in any correctional facility, medical facility, or facility monitored by the department or the Department of Administration;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-040__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>on or within 500 feet of school grounds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-040__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>at or within 500 feet of a recreation or youth center; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-040__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>on a school bus.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_17-37-060">
+            <num>17.37.060</num>
+            <heading>Addition of debilitating medical conditions.</heading>
+            <content>
+              <p>Sec. 17.37.060.   Addition of debilitating medical conditions.
+The department shall adopt regulations under
+AS 44.62
+(Administrative Procedure Act) governing the manner in which it may consider adding debilitating medical conditions to the list provided in
+AS 17.37.070
+. After the adoption of the regulations, the department shall also accept for consideration physician or patient initiated petitions to add debilitating medical conditions to the list provided in
+AS 17.37.070
+and, after hearing, shall approve or deny the petitions within 180 days after submission. The denial of a petition shall be considered a final agency action subject to judicial review.</p>
+            </content>
+          </section>
+          <section eId="sec_17-37-070">
+            <num>17.37.070</num>
+            <heading>Definitions.</heading>
+            <subsection eId="17-37-070__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>an assisted living home as defined in
+AS 47.33.990
+; and
+(ii) the Alaska Pioneers' Home or the Alaska Veterans' Home, operated under
+AS 47.55
+;
+(C) the mentally ill; for the purposes of this subparagraph, institution includes a designated treatment facility and an evaluation facility, as those terms are defined in
+AS 47.30.915
+;</p>
+              </content>
+              <paragraph eId="17-37-070__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>medical facility means an institution, building, office, or home providing medical services, and includes a hospital, clinic, physician's office, or health facility as defined in
+AS 47.07.900
+, and a facility providing hospice care or rehabilitative services, as those terms are defined in
+AS 47.07.900
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-070__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>medical use means the acquisition, possession, cultivation, use or transportation of marijuana or paraphernalia related to the administration of marijuana to alleviate a debilitating medical condition under the provisions of this chapter and
+AS 11.71.090
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-070__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>patient means a person who has a debilitating medical condition;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-070__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>physician means a person licensed to practice medicine in this state or an officer in the regular medical service of the armed forces of the United States or the United States Public Health Service while in the discharge of their official duties, or while volunteering services without pay or other remuneration to a hospital, clinic, medical office, or other medical facility in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-070__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>primary caregiver  means a person listed as a primary caregiver under
+AS 17.37.010
+and in physical possession of a caregiver registry identification card; primary caregiver also includes an alternate caregiver when the alternate caregiver is in physical possession of the caregiver registry identification card;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-37-070__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>usable form and usable marijuana means the seeds, leaves, buds, and flowers of the plant (genus) cannabis, but does not include the stalks or roots.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_17-37-080">
+            <num>17.37.080</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 17.37.080.   Short title.
+AS 17.37.010
+ 17.37.070 may be cited as the Medical Uses of Marijuana for Persons Suffering from Debilitating Medical Conditions Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

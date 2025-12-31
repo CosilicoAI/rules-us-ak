@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-95"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-95"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="36.95"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-95/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-95/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-95/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-95/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_36">
+        <num>36</num>
+        <heading>Public Contracts</heading>
+        <chapter eId="title_36__chp_95">
+          <num>95</num>
+          <heading>General Provisions</heading>
+          <section eId="sec_36-95-010">
+            <num>36.95.010</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 36.95.010.   Definitions.
+In this title, unless the context requires otherwise,
+(1) contractor means the contractor including subcontractors performing work necessary to facilitate public construction;
+(2) laborer, mechanic, or field surveyor means a person who engages in work that is basically physical or unskilled in nature; or who engages in work, requiring the use of tools or machines, that basically consists of the shaping and working of materials into some type of structure, machine, or other object; or who engages in outdoor tasks related to the operation of findings and delineating contour, dimensions, position, topography, as of any part of the earth's surface, by preparation of measured plan or description of any area or other portion of country or of road or line through any area or other portion of country;
+(3) public construction or public works means the on-site field surveying, erection, rehabilitation, alteration, extension or repair, including painting or redecorating of buildings, highways, or other improvements to real property under contract for the state, a political subdivision of the state, or a regional school board;
+(4) resident means a person who establishes residency under
+AS 01.10.055
+;
+(5) retainage means money withheld from a contractor until completion of a contract or satisfaction of other contingency as evidenced by approval of the applicable pay estimate;
+(6) state or a political subdivision of the state means any state department, state agency, state university, borough, city, village, school district or other state subdivision;
+(7) wages includes fringe benefits.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

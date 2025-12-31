@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-05"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-05"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="30.05"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-05/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-05/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_30">
+        <num>30</num>
+        <heading>Navigation, Harbors, Shipping, and Transportation Facilities</heading>
+        <chapter eId="title_30__chp_05">
+          <num>05</num>
+          <heading>Shipping Subsidies</heading>
+          <section eId="sec_30-05-010">
+            <num>30.05.010</num>
+            <heading>Subsidies to freight carriers.</heading>
+            <content>
+              <p>Sec. 30.05.010.   Subsidies to freight carriers.
+The Department of Transportation and Public Facilities may pay a sum of money not to exceed $30,000 a year to the owner or charterer of a vessel of American registry who operates the vessel as a common carrier of freight and mail to and from points the department designates.</p>
+            </content>
+          </section>
+          <section eId="sec_30-05-020">
+            <num>30.05.020</num>
+            <heading>Payment of subsidies.</heading>
+            <content>
+              <p>Sec. 30.05.020.   Payment of subsidies.
+The subsidy shall be paid in the installments the Department of Transportation and Public Facilities thinks proper, after proof is submitted that the conditions of the contract or subsidy are fulfilled up to the time of payment.  The inability to touch at a point along the route designated by the department due to a lack of proper docking or harbor facilities or to stress of weather does not prevent the owner or charterer from receiving the money otherwise earned, and is not a cause for reducing the amount of the subsidy.  If the subsidized vessel is lost, wrecked, or damaged, the department may permit the contractor to carry out the service temporarily with another vessel or ship of American registry that meets with its approval.</p>
+            </content>
+          </section>
+          <section eId="sec_30-05-030">
+            <num>30.05.030</num>
+            <heading>Tariff of rates.</heading>
+            <content>
+              <p>Sec. 30.05.030.   Tariff of rates.
+The owner or charterer of the vessel awarded the subsidy must adopt and publish a tariff of freight rates to be approved by the Department of Transportation and Public Facilities.  The tariff must be reasonable, and the operator of the vessel may not charge more than provided for in the tariff.  The tariff must be published before services are performed under the subsidy.</p>
+            </content>
+          </section>
+          <section eId="sec_30-05-040">
+            <num>30.05.040</num>
+            <heading>Report by owner or charterer.</heading>
+            <content>
+              <p>Sec. 30.05.040.   Report by owner or charterer.
+It is a condition in awarding of the subsidy that the contractor agrees to make a report under oath, in form and manner designated by the Department of Transportation and Public Facilities at the end of each year, giving the following information:
+(1) tariff sheet of freight rates for the route covered;
+(2) total tonnage carried;
+(3) gross earning from freight and mail service rendered, segregating the two amounts;
+(4) a statement in detail of all expenses incurred and on what account, the names and addresses of all persons employed, and the gross earnings and gross expense of the route covered.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

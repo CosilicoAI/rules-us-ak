@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-68"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-68"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.68"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-68/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-68/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-68/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-68/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_68">
+          <num>68</num>
+          <heading>Sexual Assault Investigations</heading>
+          <section eId="sec_18-68-010">
+            <num>18.68.010</num>
+            <heading>Sexual assault examination kit.</heading>
+            <subsection eId="18-68-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Public Safety and the Department of Law shall develop a uniform sexual assault examination kit.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-68-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Under protocols developed under
+AS 18.68.020
+,</p>
+              </content>
+              <paragraph eId="18-68-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the Department of Public Safety shall distribute the kits throughout the state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-68-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>peace officers and health care providers shall use the kits for the gathering of evidence in cases of suspected sexual assault.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-68-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The appropriate person under the protocols developed under
+AS 18.68.020
+shall provide a sexual assault examination kit at no charge.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-68-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not prohibit the introduction in court of evidence obtained without the use of a sexual assault examination kit.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-68-020">
+            <num>18.68.020</num>
+            <heading>Sexual assault investigations protocols.</heading>
+            <subsection eId="18-68-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Public Safety and the Department of Law in conjunction with the Department of Health shall develop a manual of protocols governing the distribution and use of the sexual assault examination kit developed under
+AS 18.68.010
+. The protocols must allow a victim who is 18 years of age or older and not a vulnerable adult to choose one of the following types of reports:</p>
+              </content>
+              <paragraph eId="18-68-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a law enforcement report if the victim wants to obtain a medical forensic examination with evidence collection and, at the time of the medical forensic examination, chooses to participate in the criminal justice system; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-68-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an anonymous report if the victim wants to obtain a medical forensic examination with evidence collection but, at the time of the medical forensic examination, chooses not to have personal identifying information provided to law enforcement or to participate in the criminal justice system; the person who collects the evidence shall release the evidence to the appropriate law enforcement agency for preservation in accordance with
+AS 12.36.200
+but may not provide personal identifying information of the victim to the law enforcement agency; the law enforcement agency shall assign a unique identifying number to the evidence, and the person who collects the evidence shall record the number and provide the number to the victim.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-68-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Public Safety shall distribute copies of the protocol manual developed under this section to the appropriate peace officers and health care providers in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-68-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, vulnerable adult has the meaning given in
+AS 47.24.900
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-68-030">
+            <num>18.68.030</num>
+            <heading>Training in protocols and sexual examination kits.</heading>
+            <content>
+              <p>Sec. 18.68.030.   Training in protocols and sexual examination kits.
+The Department of Public Safety and the Department of Law shall develop and implement training in the use of the protocols and the sexual assault examination kits for peace officers, district attorneys, and appropriate law enforcement agencies, health care providers, and sexual assault program personnel.</p>
+            </content>
+          </section>
+          <section eId="sec_18-68-040">
+            <num>18.68.040</num>
+            <heading>Sexual assault victim may not be required to pay for examination.</heading>
+            <content>
+              <p>Sec. 18.68.040.   Sexual assault victim may not be required to pay for examination.
+A law enforcement agency, health care facility, or other entity may not require a victim of sexual assault under
+AS 11.41.410
+ 11.41.425 who is 16 years of age or older to pay, directly or indirectly, through health insurance or any other means, for the costs of examination of the victim necessary for
+(1) collecting evidence using the sexual assault examination kit under
+AS 18.68.010
+or otherwise; or
+(2) determining whether a sexual assault has occurred.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

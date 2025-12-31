@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-61"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-61"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.61"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-61/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-61/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-61/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-61/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_61">
+          <num>61</num>
+          <heading>Excise Tax on Marijuana</heading>
+          <section eId="sec_43-61-010">
+            <num>43.61.010</num>
+            <heading>Marijuana tax.</heading>
+            <subsection eId="43-61-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An excise tax is imposed on the sale or transfer of marijuana from a marijuana cultivation facility to a retail marijuana store or marijuana product manufacturing facility. Every marijuana cultivation facility shall pay an excise tax at the rate of $50 per ounce, or proportionate part thereof, on marijuana that is sold or transferred from a marijuana cultivation facility to a retail marijuana store or marijuana product manufacturing facility.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-61-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may exempt certain parts of the marijuana plant from the excise tax described in (a) of this section or may establish a rate lower than $50 per ounce for certain parts of the marijuana plant.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-61-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The recidivism reduction fund is established in the general fund. The Department of Administration shall separately account for 50 percent of the tax collected under this section and deposit it into the recidivism reduction fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-61-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The legislature may use the annual estimated balance in the recidivism reduction fund to make appropriations to the Department of Corrections, the Department of Health, or the Department of Public Safety for recidivism reduction programs.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-61-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Nothing in this section creates a dedicated fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-61-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The marijuana education and treatment fund is established in the general fund. In addition to the accounting under (c) of this section, the Department of Administration shall separately account for 25 percent of the tax collected under this section and deposit it into the marijuana education and treatment fund. The Department of Administration shall deposit interest earned on the fund into the general fund. Money in the fund does not lapse. The legislature may use the annual estimated balance in the fund to make appropriations to the Department of Health for the comprehensive marijuana use education and treatment program established under
+AS 44.29.020
+(a)(14).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-61-020">
+            <num>43.61.020</num>
+            <heading>Monthly statement and payments.</heading>
+            <subsection eId="43-61-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each marijuana cultivation facility shall send a statement by mail or electronically to the department on or before the last day of each calendar month. The statement must contain an account of the amount of marijuana sold or transferred to retail marijuana stores and marijuana product manufacturing facilities in the state during the preceding month, setting out</p>
+              </content>
+              <paragraph eId="43-61-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the total number of ounces, including fractional ounces, sold or transferred;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-61-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the names and Alaska address of each buyer and transferee; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-61-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the weight of marijuana sold or transferred to the respective buyers or transferees.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-61-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The marijuana cultivation facility shall pay monthly to the department, all taxes, computed at the rates prescribed in this chapter, on the respective total quantities of the marijuana sold or transferred during the preceding month. The monthly return shall be filed and the tax paid on or before the last day of each month to cover the preceding month.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-61-030">
+            <num>43.61.030</num>
+            <heading>Administration and enforcement of tax.</heading>
+            <subsection eId="43-61-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Delinquent payments under this chapter shall subject the marijuana cultivation facility to civil penalties under
+AS 43.05.220
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-61-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a marijuana cultivation facility fails to pay the tax to the state the marijuana cultivation facility's registration may be revoked in accordance with procedures established under
+AS 17.38.190
+(a)(1).</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

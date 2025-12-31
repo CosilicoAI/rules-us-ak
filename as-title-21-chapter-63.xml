@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-63"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-63"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.63"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-63/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-63/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-63/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-63/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_63">
+          <num>63</num>
+          <heading>Surety Insurance Contracts</heading>
+          <section eId="sec_21-63-010">
+            <num>21.63.010</num>
+            <heading>Rights of surety insurer.</heading>
+            <content>
+              <p>Sec. 21.63.010.   Rights of surety insurer.
+A surety insurer authorized as such under this title shall have the power to become the surety on bonds and undertakings required by law, subject to all the rights and liabilities of private persons. This section does not limit in any way the powers, obligations, and liabilities of the insurers as provided for in other provisions of this title.</p>
+            </content>
+          </section>
+          <section eId="sec_21-63-020">
+            <num>21.63.020</num>
+            <heading>May be sole surety on official bonds.</heading>
+            <content>
+              <p>Sec. 21.63.020.   May be sole surety on official bonds.
+Whenever a bond, undertaking, recognizance, or other obligation is by law, or the charter, ordinance, rules, or regulations of a municipality, board, body, organization, or public officer, required or permitted to be made, given, tendered, or filed, with surety or sureties, and whenever the performance of an act, duty, or obligation, or the refraining from an act, is required or permitted to be guaranteed, the bond, undertaking, obligation, recognizance, or guaranty may be executed by a surety insurer qualified to act as surety or guarantor as authorized in this title.  The execution by the insurer of the bond, undertaking, obligation, recognizance, or guaranty shall be in all respects a full and complete compliance with every requirement of the law, charter, ordinance, rule, or regulation that the bond, undertaking, obligation, recognizance, or guaranty shall be executed by one surety or by one or more sureties, or that the surety shall be a resident, or householder, or freeholder, or either or both, or possessed of any other qualifications; and all courts, judges, heads of departments, boards, bodies, municipalities, and public officers of every character shall accept and treat accordingly the bond, undertaking, obligation, recognizance, or guaranty when so executed by the insurer, as conforming to and fully and completely complying with every requirement of every law, charter, ordinance, rule, or regulation.</p>
+            </content>
+          </section>
+          <section eId="sec_21-63-030">
+            <num>21.63.030</num>
+            <heading>Release from liability on official bonds.</heading>
+            <content>
+              <p>Sec. 21.63.030.   Release from liability on official bonds.
+A surety insurer may be released from its liability on a bond referred to in
+AS 21.63.020
+upon the same terms and conditions as are by law prescribed for the release of individual sureties.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

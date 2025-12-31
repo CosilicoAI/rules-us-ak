@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="9.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_9">
+        <num>9</num>
+        <heading>Code of Civil Procedure</heading>
+        <chapter eId="title_9__chp_20">
+          <num>20</num>
+          <heading>Trial</heading>
+          <section eId="sec_09-20-010">
+            <num>09.20.010</num>
+            <heading>Qualification of jurors; interpreters.</heading>
+            <subsection eId="09-20-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person is qualified to act as a juror if the person is</p>
+              </content>
+              <paragraph eId="09-20-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a citizen of the United States;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-20-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a resident of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-20-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>at least 18 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-20-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>of sound mind;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-20-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>in possession of the person's natural faculties; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-20-010__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>able to read or speak the English language.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-20-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person is not disqualified from serving as a juror solely because of the loss of hearing or sight in any degree or a disability that substantially impairs or interferes with the person's mobility.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-20-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The court shall provide, and pay the cost of services of, an interpreter or reader when necessary to enable a person with impaired hearing or sight to act as a juror.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-20-020">
+            <num>09.20.020</num>
+            <heading>Disqualification of jurors.</heading>
+            <content>
+              <p>Sec. 09.20.020.   Disqualification of jurors.
+A person is disqualified from serving as a juror if the person
+(1) has served as a juror in the state within one year of the time of examination for service; or
+(2) has been convicted of a felony for which the person has not been unconditionally discharged; unconditional discharge has the meaning given in
+AS 12.55.185
+.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-025">
+            <num>09.20.025</num>
+            <heading>Limitation on jury service.</heading>
+            <content>
+              <p>Sec. 09.20.025.   Limitation on jury service.
+A person may not be required to serve more than a total of three months as a juror during any consecutive two-year period. However, if a person is serving as a juror at the conclusion of the three months period, that person shall complete the trial then in progress.  In this section, a person is serving as a juror whenever that person is in attendance in court as a member of a jury or a jury panel.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-030">
+            <num>09.20.030</num>
+            <heading>Exemptions.</heading>
+            <subsection eId="09-20-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may claim exemption and may be excused from service as a juror if it is shown that the person's health, the health or proper care of the person's family, a permanent physical or mental disability, or other substantial hardship expected to last more than two years makes it necessary for the person to be excused, or if the person is a judicial officer.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-20-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may claim exemption and shall be excused by the court from service as a juror during the school term if it is shown that the person is a teacher in a school that is designated as a low performing school under regulations adopted by the state Board of Education and Early Development. In this subsection, teacher means a person who serves a school district in a teaching capacity in a classroom setting and is required to be certificated in order to hold the position.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-20-035">
+            <num>09.20.035</num>
+            <heading>Deferral of jury service.</heading>
+            <content>
+              <p>Sec. 09.20.035.   Deferral of jury service.
+A person may have jury service deferred if the person shows that jury service at the time for which the person is summoned will cause hardship to that person or another, that transportation problems make it temporarily impossible for the person to serve, or that the person summoned is employed as a full-time or temporary election official and the jury service is during the month in which a primary or general election is held. Jury service may be deferred under this section only if the person seeking the deferment agrees to a deferred date. Jury service may not be deferred for more than 10 months from the date the initial jury service was to begin.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-037">
+            <num>09.20.037</num>
+            <heading>Protection for employee on jury duty.</heading>
+            <subsection eId="09-20-037__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An employer may not deprive an employee of employment or threaten, coerce, or penalize an employee because the employee receives or responds to a summons for jury service, serves as a juror, or attends court for prospective jury service. This section does not require an employer to pay wages to an employee for time spent on jury service or in court for prospective jury service.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-20-037__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an employer violates this section, the employee may bring a civil action to recover wages lost as a result of the violation, other damages that resulted from the violation, and may also seek an order requiring the reinstatement of the employee.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-20-040">
+            <num>09.20.040</num>
+            <heading>Compliance with statute.</heading>
+            <content>
+              <p>Sec. 09.20.040.   Compliance with statute.
+The selection of jurors shall be made in substantial compliance with
+AS 09.20.040
+ 09.20.090. A failure in substantial compliance that prejudices the rights of a party is reversible error.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-050">
+            <num>09.20.050</num>
+            <heading>Jury list.</heading>
+            <subsection eId="09-20-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At such times as need may require, but not later than November 30 of each year, the administrative director of the Alaska Court System shall prepare for each judicial district a list of the names of the residents of the district who are qualified by law for jury service. If the superior court is located in different cities in the same judicial district, the administrative director shall prepare for each location of the court a list of the names of the qualified residents of that portion of the district considered to be appropriate.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-20-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The jury list shall be based on a list prepared by the Department of Revenue of all persons who filed an application for a distribution of Alaska permanent fund income under
+AS 43.23
+during the current calendar year that shows an Alaska address, and of all persons who volunteer for jury duty under (d) of this section. If considered necessary by the administrative director of the Alaska Court System, the jury list shall incorporate a list prepared by the Department of Administration of all persons who hold a valid Alaska driver's license. The departments shall submit their respective lists to the Alaska Court System not later than September 30 of each year. To the extent that it is available, the departments shall include on the lists they submit the following information for each person: first name, middle initial, and last name; mailing address, including the zip code; and birth date.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-20-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A copy of the appropriate portion of the jury list shall be transmitted to the presiding judge of each judicial district and shall only be used to summon jurors and for other purposes of judicial administration. Duplicate names and the names of deceased persons and persons permanently excused from jury service shall be eliminated from the list before it is transmitted to the presiding judge. A questionnaire for prospective jurors may be adopted and submitted to them by the administrative director of the Alaska Court System.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-20-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person who is qualified as a juror under
+AS 09.20.010
+and is not disqualified from serving as a juror by
+AS 09.20.020
+may volunteer for jury duty by contacting the administrative director of the Alaska Court System and providing the information the administrative director may require.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-20-060">
+            <num>09.20.060</num>
+            <heading>Use of jury box or computer list.</heading>
+            <content>
+              <p>Sec. 09.20.060.   Use of jury box or computer list.
+The clerk of the court shall write the names included in the list on separate pieces of paper or prepare metal, plastic, or other types of pieces to correspond to numbers on the jury list.  As directed by the court, the clerk shall deposit the named or numbered pieces in the jury box in a number and manner to assure a fair and impartial drawing of the jury panel.  A randomly generated computer list of prospective jurors may be used in place of the jury box.  The jury box and the named or numbered pieces, or the computer list may be examined by the parties or by an attorney authorized to practice law in the state within limitations and under conditions prescribed by the court.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-070">
+            <num>09.20.070</num>
+            <heading>Public drawing for jurors for panel.</heading>
+            <content>
+              <p>Sec. 09.20.070.   Public drawing for jurors for panel.
+Under the direction of the court the clerk shall conduct the public drawing of jurors for the panel by shaking the box to mix the named or numbered pieces. The clerk shall then draw as many names or numbers as are ordered by the court to fill the jury panel.  A random selection of the jury panel by computer may be used in place of the public drawing of names.  If the name or number of a person is drawn or selected and the person is deceased, unqualified, disqualified, or the person's attendance cannot be obtained within a reasonable time or may involve a large and unnecessary expense, and the fact appears to the satisfaction of the court through the use of questionnaires or otherwise, the court may reject the name of that person and direct that the name or number of another be drawn.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-080">
+            <num>09.20.080</num>
+            <heading>Jury panel.</heading>
+            <subsection eId="09-20-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The jury panel for the trial of civil cases consists of at least twice the number of jurors needed to serve on a trial jury, including any needed alternate jurors.  If the number of jurors on the panel falls below the number required by this section or if the regular panel is exhausted, the court shall order the clerk to complete the panel or to secure additional jurors by drawing names from the jury box or by obtaining names from the randomly generated computer list.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-20-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the list of prospective jurors for a court location does not produce sufficient names for a jury panel of minimum size, the administrative director of the Alaska Court System may authorize that additional names of prospective jurors be randomly selected from sources other than those listed in
+AS 09.20.050
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-20-090">
+            <num>09.20.090</num>
+            <heading>Impaneling the trial jury.</heading>
+            <content>
+              <p>Sec. 09.20.090.   Impaneling the trial jury.
+When a civil case that is to be tried by a jury is called for trial, the clerk shall draw from the trial jury box containing the names of those on the jury panel a number of names or numbers sufficient to name a jury of 12 unless the court directs otherwise. The prospective jurors shall be examined, challenged, and sworn as provided by rules of the supreme court.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-100">
+            <num>09.20.100</num>
+            <heading>Verdicts.</heading>
+            <content>
+              <p>Sec. 09.20.100.   Verdicts.
+In a civil case tried by a jury in any court, whether of record or not, not less than five-sixths of the jury may render a verdict, which is entitled to the legal effect of a unanimous verdict at common law. Special verdicts need not be concurred in by the same jurors.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-110">
+            <num>09.20.110</num>
+            <heading>Service on concealed witness.</heading>
+            <content>
+              <p>Sec. 09.20.110.   Service on concealed witness.
+If a witness is concealed in a building or vessel for the purpose of preventing the service of a subpoena, a peace officer may break into the building or vessel to serve the subpoena upon the witness.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-120">
+            <num>09.20.120</num>
+            <heading>Disobedience to subpoena.</heading>
+            <content>
+              <p>Sec. 09.20.120.   Disobedience to subpoena.
+A witness who disobeys a subpoena served on the witness shall also forfeit to the party requiring the attendance of the witness the sum of $50 and all damages which that party may sustain by the failure of the witness to attend.  The forfeiture and damages may be recovered in a civil action.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-130">
+            <num>09.20.130</num>
+            <heading>Proceedings for examination of prisoner as a witness.</heading>
+            <subsection eId="09-20-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a witness is a prisoner confined in a prison in the state, a state court may order the prisoner's temporary removal and production before a state court for the purpose of being orally examined</p>
+              </content>
+              <paragraph eId="09-20-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>by the court or a judge of the court in which the action or proceeding is pending, unless it is a district court;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-20-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>by a judge of the superior or supreme court when the action or proceeding is pending in a district court, or when the witness's oral examination is required before a judge or other persons out of court.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-20-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In any other case, a state court may order the examination in prison upon a deposition.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-20-140">
+            <num>09.20.140</num>
+            <heading>Compelling person to testify.</heading>
+            <content>
+              <p>Sec. 09.20.140.   Compelling person to testify.
+A person present in court or before a judicial officer may be required to testify in the same manner as if the person were in attendance before the court or officer on a subpoena.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-150">
+            <num>09.20.150</num>
+            <heading>Witnesses are exonerated from civil arrest.</heading>
+            <content>
+              <p>Sec. 09.20.150.   Witnesses are exonerated from civil arrest.
+A person who has been served in good faith with a subpoena to attend as a witness before a court, judge, referee, or other official is exonerated from arrest in a civil action while going to the place of attendance, necessarily remaining there, and returning from there.  The arrest of a witness contrary to this section is void, and when wilfully made is a contempt of court. The officer wilfully making it is responsible to the witness arrested for double the amount of damages that may be assessed against the witness, and is also liable to an action at the suit of the party serving the witness with the subpoena for the damages sustained by the party in consequence of the arrest.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-160">
+            <num>09.20.160</num>
+            <heading>Affidavit as prerequisite to officer's liability.</heading>
+            <subsection eId="09-20-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The officer making the arrest is not liable in any way therefor unless the person claiming exoneration from arrest, if required, makes an affidavit stating that the person</p>
+              </content>
+              <paragraph eId="09-20-160__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has been served a subpoena to attend as a witness before a court, judge, referee, or other official, specifying the same, the place of attendance, and the action or proceeding in which the subpoena was issued; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-20-160__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has not been served by the person's own procurement with the intention of avoiding an arrest.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-20-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The affidavit may be taken by the officer, and exonerates the officer from liability for not making the arrest or for discharging the witness when arrested.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-20-170">
+            <num>09.20.170</num>
+            <heading>Discharge from improper arrest.</heading>
+            <content>
+              <p>Sec. 09.20.170.   Discharge from improper arrest.
+The court, judge, referee, or other person before whom the attendance of the witness is required may discharge a witness from an arrest made in violation of
+AS 09.20.150
+.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-180">
+            <num>09.20.180</num>
+            <heading>Exclusion of witnesses from courtroom.</heading>
+            <content>
+              <p>Sec. 09.20.180.   Exclusion of witnesses from courtroom.
+Except as provided in
+AS 12.61.010
+and
+AS 47.12.110
+(b), upon the request of either party the judge may exclude from the courtroom any witness of the adverse party not under examination at the time so that the witness may not hear the testimony of other witnesses.</p>
+            </content>
+          </section>
+          <section eId="sec_09-20-185">
+            <num>09.20.185</num>
+            <heading>Expert witness qualification.</heading>
+            <subsection eId="09-20-185__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In an action based on professional negligence, a person may not testify as an expert witness on the issue of the appropriate standard of care unless the witness is</p>
+              </content>
+              <paragraph eId="09-20-185__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a professional who is licensed in this state or in another state or country;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-20-185__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>trained and experienced in the same discipline or school of practice as the defendant or in an area directly related to a matter at issue; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-20-185__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>certified by a board recognized by the state as having acknowledged expertise and training directly related to the particular field or matter at issue.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-20-185__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The provisions of (a) of this section do not apply if the state has not recognized a board that has certified the witness in the particular field or matter at issue.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

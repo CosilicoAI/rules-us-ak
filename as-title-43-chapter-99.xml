@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-99"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-99"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.99"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-99/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-99/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-99/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-99/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_99">
+          <num>99</num>
+          <heading>General Provisions</heading>
+          <section eId="sec_43-99-010">
+            <num>43.99.010</num>
+            <heading>Accounts to be kept by persons subject to tax.</heading>
+            <content>
+              <p>Sec. 43.99.010.   Accounts to be kept by persons subject to tax.
+A person subject to a tax shall keep in permanent form at the person's principal place of business or occupation within the state correct accounts in a manner that will readily disclose, upon examination, the amount of tax due the state.  The department may adopt regulations for the making and keeping of these records.</p>
+            </content>
+          </section>
+          <section eId="sec_43-99-950">
+            <num>43.99.950</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 43.99.950.   Definitions.
+Except in
+AS 43.70
+, in this title,
+(1) commissioner means the commissioner of revenue; and
+(2) department means the Department of Revenue.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

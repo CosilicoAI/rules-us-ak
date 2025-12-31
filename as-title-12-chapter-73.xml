@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-73"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-73"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.73"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-73/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-73/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-73/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-73/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_73">
+          <num>73</num>
+          <heading>Post-Conviction DNA Testing Procedure</heading>
+          <section eId="sec_12-73-010">
+            <num>12.73.010</num>
+            <heading>Application for post-conviction DNA testing.</heading>
+            <subsection eId="12-73-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person convicted of a felony against a person under
+AS 11.41
+who has not been unconditionally discharged may apply to the superior court for an order for DNA testing of evidence. The application must be filed in the court that entered the judgment of conviction, and a copy shall be served on the prosecuting authority responsible for obtaining the conviction.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-73-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An application filed under (a) of this section must specifically identify the evidence sought to be tested and must include facts from which the court can make the findings required under
+AS 12.73.020
+. The application must also include</p>
+              </content>
+              <paragraph eId="12-73-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an affidavit by the applicant that attests to the following:
+(A) the applicant did not commit the offense for which the applicant was convicted or a lesser included offense;
+(B) the applicant did not solicit another person to commit, or aid or abet another person in planning or committing, that offense or a lesser included offense; and
+(C) the applicant did not admit or concede guilt under oath in an official proceeding for the offense that was the basis of the conviction or a lesser included offense, except that the court, in the interest of justice, may waive this requirement; for the purposes of this subparagraph, the entry of a guilty or nolo contendere plea is not an admission or concession of guilt;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-73-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an affidavit by the applicant or the applicant's attorney stating the results of each DNA test performed on the evidence in the prosecution that resulted in the applicant's conviction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-73-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an affidavit by the applicant or the applicant's attorney describing all previous efforts to obtain DNA testing and any previous application filed under
+AS 12.72
+or this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-73-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An attorney who represents an applicant under this section shall investigate and, if possible, confirm the accuracy of information provided by the applicant under (b)(2) and (3) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-73-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If an applicant is indigent, filing fees must be paid under
+AS 09.19
+, and counsel shall be appointed under
+AS 18.85.100
+to represent the applicant.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-73-020">
+            <num>12.73.020</num>
+            <heading>Findings required for post-conviction DNA testing orders.</heading>
+            <subsection eId="12-73-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the applicant is requesting DNA testing using a method or technology that is substantially more probative than the previous DNA testing; or
+(ii) the court determines that granting the application is in the best interest of justice;</p>
+              </content>
+              <paragraph eId="12-73-020__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the evidence to be tested has been subject to a chain of custody and retained under conditions that ensure that the evidence has not been substituted, contaminated, or altered in any manner material to the proposed DNA testing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-73-020__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the proposed DNA testing is reasonable in scope, uses scientifically sound methods, and is consistent with accepted forensic practices;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-73-020__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the applicant identifies a theory of defense that would establish the applicant's innocence;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-73-020__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the applicant was convicted after a trial and the identity of the perpetrator was a disputed issue in the trial;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-73-020__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>the proposed DNA testing of the specific evidence may produce new material evidence that would
+(A) support the theory of defense described in (7) of this section; and
+(B) raise a reasonable probability that the applicant did not commit the offense;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-73-020__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>the applicant consents to provide a DNA sample for purposes of comparison and to entry of the results into the DNA identification registration system under
+AS 44.41.035
+and into any other law enforcement database; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-73-020__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>the application is timely as described in
+AS 12.73.040
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-73-030">
+            <num>12.73.030</num>
+            <heading>Summary dismissal and response.</heading>
+            <subsection eId="12-73-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If an application under
+AS 12.73.010</p>
+              </content>
+            </subsection>
+            <subsection eId="12-73-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>does not set out the specific facts necessary for the court to make the findings required under
+AS 12.73.020
+or does not comply with
+AS 12.73.010
+(b), the court shall deny the application without further proceedings.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-73-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an application filed under
+AS 12.73.010</p>
+              </content>
+            </subsection>
+            <subsection eId="12-73-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>is not denied under (a) of this section, the prosecuting authority shall file a response within 45 days after service of the application. The court shall conduct an evidentiary hearing to resolve any disputed facts.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-73-040">
+            <num>12.73.040</num>
+            <heading>Timeliness.</heading>
+            <content>
+              <p>Sec. 12.73.040.   Timeliness.
+In determining whether an application is timely under
+AS 12.73.020
+(11), there is a presumption of
+(1) timeliness if the application is filed before three years after the date of conviction; this presumption may be rebutted if the court finds that the application is based solely upon information used in a previously denied application; and
+(2) untimeliness if the application is filed three years or more after conviction; this presumption may be rebutted if the court finds good cause for filing three years or more after conviction.</p>
+            </content>
+          </section>
+          <section eId="sec_12-73-050">
+            <num>12.73.050</num>
+            <heading>Testing procedures.</heading>
+            <subsection eId="12-73-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the court grants the application and DNA samples for comparison purposes are required, samples taken from the applicant or a prisoner must be collected at a law enforcement or correctional facility. If the DNA sample is being collected from a person other than the applicant or a prisoner, the sample must be taken by a law enforcement officer or other authorized person at a location that is convenient for the person from whom the sample is being collected and the person collecting the sample.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-73-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The court may not order that a person other than the applicant provide a DNA sample for comparison purposes unless that person is first afforded notice and an opportunity to be heard by the court. The results of DNA testing of a sample provided by a person other than the applicant may not be made available to the DNA identification registration system under
+AS 44.41.035
+or to any other law enforcement database unless specifically ordered by the court.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-73-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>DNA testing ordered under this section shall be performed at the state's expense and at a laboratory operated or approved by the Department of Public Safety. If, after completion of the testing ordered under this section, an applicant requests additional testing, any additional testing ordered by the court at the applicant's request must be at the applicant's expense. If the court orders additional testing by another laboratory at the request of the applicant, the laboratory operated or approved by the Department of Public Safety shall preserve a portion of the evidence for later testing. A laboratory selected by the applicant to perform testing under this section must comply with the quality assurance standards for DNA adopted by the United States Department of Justice and be accredited by the American Society of Crime Laboratory Directors Laboratory Accreditation Board or accepted as equivalent by the Department of Public Safety.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-73-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in (b) of this section, the results of testing ordered under this section shall be entered into the DNA identification registration system under
+AS 44.41.035
+and into any other law enforcement database available to the Department of Public Safety.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-73-060">
+            <num>12.73.060</num>
+            <heading>Post-conviction testing by stipulation.</heading>
+            <content>
+              <p>Sec. 12.73.060.   Post-conviction testing by stipulation.
+The provisions of this chapter do not prohibit an applicant and the prosecuting authority from agreeing to conduct post-conviction DNA testing without the person's filing an application under this chapter. The parties may also stipulate to the payment of costs for the DNA testing and other costs associated with the terms of the agreement.</p>
+            </content>
+          </section>
+          <section eId="sec_12-73-090">
+            <num>12.73.090</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 12.73.090.   Definitions.
+In this chapter, unless the context requires otherwise,
+(1) DNA means deoxyribonucleic acid;
+(2) innocence means that the applicant was not a perpetrator of or an accomplice to the offense or lesser included offense for which the applicant was convicted;
+(3) prisoner has the meaning given in
+AS 33.30.901
+;
+(4) unconditionally discharged means that a defendant is released from all disability arising under a sentence, including probation and parole.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

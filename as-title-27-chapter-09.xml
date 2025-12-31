@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-09"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-09"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="27.09"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-09/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-09/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-09/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-09/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_27">
+        <num>27</num>
+        <heading>Mining</heading>
+        <chapter eId="title_27__chp_09">
+          <num>09</num>
+          <heading>Mining Loan Fund</heading>
+          <section eId="sec_27-09-010">
+            <num>27.09.010</num>
+            <heading>Mining loan fund.</heading>
+            <subsection eId="27-09-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is established in the Department of Commerce, Community, and Economic Development the mining loan fund.  The department may make loans from the fund to underwrite advanced mineral exploration, development, or mining in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-09-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The mining loan fund is a revolving fund consisting of appropriations made to the fund by the legislature, repayments of principal and interest, and any money chargeable to principal or interest that is collected through liquidation by foreclosure or other process on loans made from the fund. On June 30 of each fiscal year the unexpended and unobligated cash balance of the fund that is attributable to loans owned by the fund lapses into the general fund. Money in the fund may be used by the legislature to make appropriations for costs of administering the fund.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-09-015">
+            <num>27.09.015</num>
+            <heading>Special account established.</heading>
+            <subsection eId="27-09-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is established as a special account within the mining loan fund the foreclosure expense account.  This account is established as a reserve from fund equity.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-09-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner of commerce, community, and economic development may expend money credited to the foreclosure expense account when necessary to protect the state's security interest in collateral on loans made under
+AS 27.09.010
+or to defray expenses incurred during foreclosure proceedings after a default by an obligor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-09-020">
+            <num>27.09.020</num>
+            <heading>Eligibility.</heading>
+            <subsection eId="27-09-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may make loans under this chapter to</p>
+              </content>
+              <paragraph eId="27-09-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an individual who has at least five years of mining or prospecting experience in the state and who is a resident of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-09-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a partnership if at least half of the partners each have five years mining or prospecting experience in the state and at least half of the partners are residents of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-09-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a corporation that has at least five years of mining or prospecting experience in the state if at least 51 percent of its shares are held by residents of the state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-09-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a corporation that does not meet the requirements of (3) of this section if at least 51 percent of its shares are held by persons having at least five years of mining or prospecting experience in the state and at least 51 percent of its shares are held by persons who are residents of the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="27-09-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who has a past due child support obligation established by court order or by the child support services agency under
+AS 25.27.160
+ 25.27.220 at the time of application is not eligible for a loan under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-09-030">
+            <num>27.09.030</num>
+            <heading>Operating plan.</heading>
+            <subsection eId="27-09-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who requests a loan under
+AS 27.09.010
+shall prepare an operating plan that describes the amount of the loan requested, the nature and location of the advanced mineral exploration, development, or mining for which the loan is requested, the equipment and other resources available to the person to implement the operating plan, and the economic feasibility of the plan.  The person requesting a loan shall submit an operating plan to the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-09-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Within 30 days after receipt of an operating plan under (a) of this section, the department shall review the operating plan and shall determine the economic feasibility of the advanced mineral exploration, development, or mining described in the operating plan.  The department may extend the time for making its determination as to economic feasibility if an extension is necessary to obtain more information under (c) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-09-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may require a person who has submitted an operating plan to provide additional information on the proposed advanced mineral exploration, development, or mining if the information is necessary for a determination of economic feasibility under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-09-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the department determines that an operating plan is economically feasible, the department shall provide the person who submitted the plan with a written statement of economic feasibility.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-09-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department may enter into contracts for the services of experts in advanced mineral exploration, development, or mining to perform the functions described in (b)  (d) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-09-030__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Information acquired under this section is confidential and may not be disclosed except to the person who supplied the information or except by order of the court.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-09-040">
+            <num>27.09.040</num>
+            <heading>Loan terms.</heading>
+            <subsection eId="27-09-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A loan granted under this chapter</p>
+              </content>
+              <paragraph eId="27-09-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may not exceed $5,000,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-09-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may not exceed a term of 15 years;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-09-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>may not bear interest exceeding 10 percent; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-09-040__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>may not exceed 75 percent of the appraised value of the collateral used to secure the loan.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="27-09-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A loan may not be made under this chapter if it would result in an outstanding debt of the borrower to the fund in excess of $5,000,000.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-09-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A loan made under this chapter shall be secured by</p>
+              </content>
+              <paragraph eId="27-09-040__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a first priority lien or mortgage; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-09-040__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a second priority lien or mortgage that is subordinate to a valid first priority lien or mortgage if the total of the financing by the lender making the first mortgage and by the loan made under this chapter does not exceed 75 percent of the appraised value of the collateral used to secure the loan.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="27-09-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Unless the loan under this chapter was made to underwrite placer mining activities, repayment of the loan principal shall begin not later than one year after the date mineral production begins or five years from the date the loan is made, whichever is sooner. For loans made under this chapter to underwrite placer mining activities, the department may not require repayment of principal to begin before the end of the second placer mining season after the loan is made. The accrual of interest on a loan made under this chapter begins when the loan is made, and the accrued interest shall be repaid on an annual basis, or repayment may be on a monthly or quarterly basis if the department and the borrower so agree. In this subsection, placer mining season means the time during a consecutive 12-month period when placer mining activities may be conducted by virtue of the thawed and fluid condition of the streams and rivers in the mining area.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-09-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 72 ch 113 SLA 1982.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-09-045">
+            <num>27.09.045</num>
+            <heading>Refinancing.</heading>
+            <content>
+              <p>Sec. 27.09.045.   Refinancing.
+The department may refinance a loan under this chapter by making a loan to pay outstanding mining debts.  When an original loan is to be refinanced, the department may not refinance more than 49 percent of the amount of the original loan.  The terms in
+AS 27.09.040
+apply to mining debts refinanced under this section.</p>
+            </content>
+          </section>
+          <section eId="sec_27-09-050">
+            <num>27.09.050</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 27.09.050.   Regulations.
+The department may adopt regulations necessary to carry out the provisions of this chapter, including regulations to establish reasonable fees for services provided.  Regulations adopted under this section shall be prepared after consultation with the Department of Natural Resources or after consultation with a person who, in the opinion of the commissioner of commerce, community, and economic development or a designee, has broad experience in and is highly qualified in advanced mineral exploration, development, and mining.</p>
+            </content>
+          </section>
+          <section eId="sec_27-09-055">
+            <num>27.09.055</num>
+            <heading>Disposal of property acquired by default or foreclosure.</heading>
+            <content>
+              <p>Sec. 27.09.055.   Disposal of property acquired by default or foreclosure.
+The department shall dispose of property acquired through default or foreclosure of a loan made under this chapter. Disposal shall be made in a manner that serves the best interests of the state and may include the amortization of payments over a period of years.</p>
+            </content>
+          </section>
+          <section eId="sec_27-09-060">
+            <num>27.09.060</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 27.09.060.   Definitions.
+In this chapter,
+(1) advanced mineral exploration means the investigation of a known mineral deposit to gain knowledge of its size, shape, and value, and to determine whether it is feasible for mining, by the use of geophysical surveys, boreholes, pits, or underground workings;
+(2) date of mineral production means the date on which the first shipment of products from mining operations is made;
+(3) department means the Department of Commerce, Community, and Economic Development;
+(4) development means the preparation of a proven mineral deposit for mining;
+(5) fund means the mining loan fund;
+(6) mining means the extraction of ore and the preparation of a mineral product for market.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

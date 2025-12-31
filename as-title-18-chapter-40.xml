@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-40"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-40"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.40"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-40/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-40/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_40">
+          <num>40</num>
+          <heading>Shelter Cabins and Comfort Stations</heading>
+          <section eId="sec_18-40-010">
+            <num>18.40.010</num>
+            <heading>Shelter cabins and comfort stations on airports.</heading>
+            <content>
+              <p>Sec. 18.40.010.   Shelter cabins and comfort stations on airports.
+The Department of Transportation and Public Facilities may erect and maintain shelter cabins and comfort stations for the accommodation of travelers on the airports throughout the state where the facilities are required and necessary out of funds appropriated for the construction and maintenance of roads and aviation fields. Each shelter cabin or comfort station shall contain a suitable stove and other facilities considered necessary by the Department of Transportation and Public Facilities.</p>
+            </content>
+          </section>
+          <section eId="sec_18-40-020">
+            <num>18.40.020</num>
+            <heading>Shelter cabins on roads and trails.</heading>
+            <content>
+              <p>Sec. 18.40.020.   Shelter cabins on roads and trails.
+The Department of Transportation and Public Facilities may erect and maintain cabins for the accommodation of travelers and shelter for dog teams and horses at the places along traveled roads and trails considered necessary by the Department of Transportation and Public Facilities for the safety of the traveling public. Each cabin shall contain a suitable stove.  The Department of Transportation and Public Facilities shall place in conspicuous places on roads and trails leading to or from the cabins sign boards advising travelers of the direction and distance to the cabin.</p>
+            </content>
+          </section>
+          <section eId="sec_18-40-030">
+            <num>18.40.030</num>
+            <heading>Inspection of cabins.</heading>
+            <content>
+              <p>Sec. 18.40.030.   Inspection of cabins.
+The Department of Transportation and Public Facilities shall inspect or cause to be inspected all the cabins erected under this chapter at least once a year.</p>
+            </content>
+          </section>
+          <section eId="sec_18-40-040">
+            <num>18.40.040</num>
+            <heading>Cabins and furnishings property of state.</heading>
+            <content>
+              <p>Sec. 18.40.040.   Cabins and furnishings property of state.
+The cabins, comfort stations, stoves, and other furnishings provided for in this chapter are the property of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_18-40-050">
+            <num>18.40.050</num>
+            <heading>Prohibited acts and penalties.</heading>
+            <content>
+              <p>Sec. 18.40.050.   Prohibited acts and penalties.
+A person who wilfully removes, destroys, or defaces a cabin or part of a cabin, or stove or other furnishing, or who occupies a cabin for a length of time other than that necessary and incident to ordinary travel is guilty of violation of this chapter, and upon conviction is punishable by a fine of not less than $100 nor more than $500, or by imprisonment in a jail for not less than three months nor more than one year, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_18-40-060">
+            <num>18.40.060</num>
+            <heading>Exception.</heading>
+            <content>
+              <p>Sec. 18.40.060.   Exception.
+Nothing in this chapter prevents the Department of Transportation and Public Facilities from authorizing responsible persons in writing to occupy permanently in the capacity of caretakers or roadhouse keepers shelters with adequate accommodations in order to improve the accommodations for the traveling public.</p>
+            </content>
+          </section>
+          <section eId="sec_18-40-070">
+            <num>18.40.070</num>
+            <heading>Damages for destruction of or injury to shelter cabins.</heading>
+            <content>
+              <p>Sec. 18.40.070.   Damages for destruction of or injury to shelter cabins.
+A person who violates
+AS 18.40.050
+is liable in damages for injury sustained by another as a result of the wilful destruction of or injury to a shelter cabin or its contents.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

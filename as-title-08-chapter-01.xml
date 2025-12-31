@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-01"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-01"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="8.01"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-01/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-01/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-01/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-01/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_8">
+        <num>8</num>
+        <heading>Business and Professions</heading>
+        <chapter eId="title_8__chp_01">
+          <num>01</num>
+          <heading>Centralized Licensing</heading>
+          <section eId="sec_08-01-010">
+            <num>08.01.010</num>
+            <heading>Applicability of chapter.</heading>
+            <content>
+              <p>Sec. 08.01.010.   Applicability of chapter.
+This chapter applies to the
+(1) Board of Public Accountancy (
+AS 08.04.010
+);
+(2) regulation of acupuncturists under
+AS 08.06
+;
+(3) State Board of Registration for Architects, Engineers, and Land Surveyors (
+AS 08.48.011
+);
+(4) Athletic Commission (
+AS 05.05
+and
+AS 05.10
+);
+(5) regulation of athletic trainers under
+AS 08.07
+;
+(6) regulation of audiologists and speech-language pathologists under
+AS 08.11
+;
+(7) Board of Barbers and Hairdressers (
+AS 08.13.010
+);
+(8) regulation of behavior analysts under
+AS 08.15
+;
+(9) Big Game Commercial Services Board (
+AS 08.54.591
+);
+(10) regulation of business licenses under
+AS 43.70
+;
+(11) Board of Chiropractic Examiners (
+AS 08.20.010
+);
+(12) regulation of collection agencies under
+AS 08.24
+;
+(13) regulation of concert promoters under
+AS 08.92
+;
+(14) regulation of construction contractors and home inspectors under
+AS 08.18
+;
+(15) Board of Dental Examiners (
+AS 08.36.010
+);
+(16) regulation of dietitians and nutritionists under
+AS 08.38
+;
+(17) Board of Certified Direct-Entry Midwives (
+AS 08.65.010
+);
+(18) regulation of dispensing opticians under
+AS 08.71
+;
+(19) regulation of electrical and mechanical administrators under
+AS 08.40
+;
+(20) regulation of agencies that perform euthanasia services under
+AS 08.02.050
+;
+(21) regulation of professional geologists under
+AS 08.02.060
+;
+(22) regulation of private professional guardians and private professional conservators (
+AS 08.26
+);
+(23) regulation of hearing aid dealers under
+AS 08.55
+;
+(24) Board of Marine Pilots (
+AS 08.62.010
+);
+(25) Board of Marital and Family Therapy (
+AS 08.63.010
+);
+(26) Board of Massage Therapists (
+AS 08.61.010
+);
+(27) State Medical Board (
+AS 08.64.010
+);
+(28) regulation of morticians under
+AS 08.42
+;
+(29) regulation of the practice of naturopathy under
+AS 08.45
+;
+(30) Board of Nursing (
+AS 08.68.010
+);
+(31) regulation of nursing home administrators under
+AS 08.70
+;
+(32) Board of Examiners in Optometry (
+AS 08.72.010
+);
+(33) regulation of pawnbrokers (
+AS 08.76.100
+ 08.76.590);
+(34) Board of Pharmacy (
+AS 08.80.010
+);
+(35) State Physical Therapy and Occupational Therapy Board (
+AS 08.84.010
+);
+(36) Board of Professional Counselors (
+AS 08.29.010
+);
+(37) Board of Psychologist and Psychological Associate Examiners (
+AS 08.86.010
+);
+(38) Real Estate Commission (
+AS 08.88.011
+);
+(39) Board of Certified Real Estate Appraisers (
+AS 08.87.010
+);
+(40) Board of Social Work Examiners (
+AS 08.95.010
+);
+(41) Board of Veterinary Examiners (
+AS 08.98.010
+).</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-020">
+            <num>08.01.020</num>
+            <heading>Board organization.</heading>
+            <content>
+              <p>Sec. 08.01.020.   Board organization.
+Board members are appointed by the governor and serve at the pleasure of the governor.  Unless otherwise provided, the governor may designate the chair of a board, and all other officers shall be elected by the board members. Unless otherwise provided, officers of a board are the chair and the secretary. A board may provide by regulation that three or more unexcused absences from meetings are cause for removal.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-025">
+            <num>08.01.025</num>
+            <heading>Public members.</heading>
+            <content>
+              <p>Sec. 08.01.025.   Public members.
+A public member of a board may not
+(1) be engaged in the occupation that the board regulates;
+(2) be associated by legal contract with a member of the occupation that the board regulates except as a consumer of the services provided by a practitioner of the occupation; or
+(3) have a direct financial interest in the occupation that the board regulates.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-030">
+            <num>08.01.030</num>
+            <heading>Quorum.</heading>
+            <content>
+              <p>Sec. 08.01.030.   Quorum.
+A majority of the membership of a board constitutes a quorum unless otherwise provided.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-035">
+            <num>08.01.035</num>
+            <heading>Appointments and terms.</heading>
+            <content>
+              <p>Sec. 08.01.035.   Appointments and terms.
+Members of boards subject to this chapter are appointed for staggered terms of four years. Except as provided in
+AS 39.05.080
+(4), a member of a board serves until a successor is appointed. Except as provided in
+AS 39.05.080
+(4), an appointment to fill a vacancy on a board is for the remainder of the unexpired term. A member who has served all or part of two successive terms on a board may not be reappointed to that board unless four years have elapsed since the person has last served on the board.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-040">
+            <num>08.01.040</num>
+            <heading>Transportation and per diem.</heading>
+            <content>
+              <p>Sec. 08.01.040.   Transportation and per diem.
+A board member is entitled to transportation expenses and per diem as set out in
+AS 39.20.180
+.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-050">
+            <num>08.01.050</num>
+            <heading>Administrative duties of department.</heading>
+            <subsection eId="08-01-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall perform the following administrative and budgetary services when appropriate:</p>
+              </content>
+              <paragraph eId="08-01-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>collect and record fees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>maintain records and files;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>issue and receive application forms;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>notify applicants of acceptance or rejection as determined by the board or, for occupations or activities listed in
+AS 08.01.010
+that are regulated directly by the department, as determined by the department under applicable law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>designate dates examinations are to be held and notify applicants;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>publish notice of examinations and proceedings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>arrange space for holding examinations and proceedings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>notify applicants of results of examinations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>issue licenses or temporary licenses as authorized by the board or, for occupations or activities listed in
+AS 08.01.010
+that are regulated directly by the department, as authorized by the department under applicable law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>issue duplicate licenses upon submission of a written request by the licensee attesting to loss of or the failure to receive the original and payment by the licensee of a fee established by regulation adopted by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>notify licensees of renewal dates at least 30 days before the expiration date of their licenses;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>compile and maintain a current register of licensees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>answer routine inquiries;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>maintain files relating to individual licensees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>arrange for printing and advertising;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>purchase supplies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>employ additional help when needed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>perform other services that may be requested by the board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>provide inspection, enforcement, and investigative services to the boards and for the occupations listed in
+AS 08.01.010
+regarding all licenses issued by or through the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>retain and safeguard the official seal of a board and prepare, sign, and affix a board seal, as appropriate, for licenses approved by a board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_a__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>issue business licenses under
+AS 43.70
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-01-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The form and content of a license, authorized by a board listed in
+AS 08.01.010
+, including any document evidencing renewal of a license, shall be determined by the department after consultation with and consideration of the views of the board concerned.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 49 ch 94 SLA 1987.]</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>At the request of one of the following boards, the department may contract with public agencies and private professional organizations to provide assistance and treatment to persons licensed by the board who abuse alcohol, other drugs, or other substances:</p>
+              </content>
+              <paragraph eId="08-01-050__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Board of Social Work Examiners;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Board of Dental Examiners;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Board of Marital and Family Therapy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>State Medical Board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Board of Nursing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Board of Examiners in Optometry;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_d__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Board of Pharmacy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_d__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>State Physical Therapy and Occupational Therapy Board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_d__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Board of Professional Counselors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_d__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>Board of Psychologist and Psychological Associate Examiners; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-050__subsec_d__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>Board of Veterinary Examiners.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-060">
+            <num>08.01.060</num>
+            <heading>Application for license.</heading>
+            <subsection eId="08-01-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All applications for examination or licensing to engage in the business or profession covered by this chapter shall be made in writing to the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the applicant is a natural person, the application must require that the applicant submit the applicant's social security number to the department. Notwithstanding any other provision of this title, a license to engage in a profession may not be issued by the department to a natural person unless the social security number has been provided to the department.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-062">
+            <num>08.01.062</num>
+            <heading>Courtesy licenses.</heading>
+            <subsection eId="08-01-062__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A board established under this title and the department, with respect to an occupation that it regulates under this title, may by regulation establish criteria for issuing a temporary courtesy license to nonresidents who enter the state so that, on a temporary basis, they may practice the occupation regulated by the board or the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-062__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The regulations adopted under (a) of this section may include limitations relating to the</p>
+              </content>
+              <paragraph eId="08-01-062__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>duration of the license's validity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-062__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>scope of practice allowed under the license; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-062__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>other matters considered important by the board or the department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-063">
+            <num>08.01.063</num>
+            <heading>Military courtesy licenses.</heading>
+            <subsection eId="08-01-063__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (d) of this section, and notwithstanding another provision of law, the department or appropriate board shall issue a temporary courtesy license to an active duty member of the armed forces of the United States or the spouse of an active duty member of the armed forces of the United States if the active duty member or spouse meets the requirements of this section and applies to the department or appropriate board in the manner prescribed by the department or appropriate board. An application must include evidence satisfactory to the department or appropriate board that the applicant</p>
+              </content>
+              <paragraph eId="08-01-063__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is an active duty member of the armed forces of the United States or is married to and living with a member of the armed forces of the United States who is on active duty and assigned to a duty station in this state under official active duty military orders;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-063__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>holds a current license or certificate in another state, district, or territory of the United States, or that is recognized by the United States, including a branch of the armed forces of the United States, with requirements that the department or appropriate board determines are substantially equivalent to those established under this title for that occupation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-063__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if required by the department or appropriate board for obtaining a license in the applicant's profession, has been fingerprinted and has provided the fees required by the Department of Public Safety under
+AS 12.62.160
+for criminal justice information and a national criminal history record check; the fingerprints and fees shall be forwarded to the Department of Public Safety to obtain a report of criminal justice information under
+AS 12.62
+and a national criminal history record check under
+AS 12.62.400
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-063__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>has not committed an act in any jurisdiction that would have constituted grounds for the refusal, suspension, or revocation of a license or certificate to practice that occupation under this title at the time the act was committed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-063__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>has not been disciplined by a licensing or credentialing entity in another jurisdiction and is not the subject of an unresolved complaint, review procedure, or disciplinary proceeding conducted by a licensing or credentialing entity in another jurisdiction; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-063__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>pays any fees required under this title.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-01-063__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department or appropriate board shall issue a temporary license under this section to a person who meets the requirements under (a) of this section within 30 days after the department or appropriate board receives the person's completed application for the temporary license.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-063__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A temporary courtesy license issued under this section is valid for 180 days and may be extended at the discretion of the department or appropriate board for one additional 180-day period, on application of the holder of the temporary courtesy license.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-063__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not apply to the practice of law or the regulation of attorneys under
+AS 08.08
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-063__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall prepare an annual report that describes, for the previous fiscal year, information on temporary courtesy licenses issued under this section, including</p>
+              </content>
+              <paragraph eId="08-01-063__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>expedited application procedures;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-063__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>progress made toward implementing regulations for the licenses, changes to regulations made to accommodate the needs of military spouses, and any plans for future regulations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-063__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the number and type of the licenses that have been issued; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-063__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the department's efforts to inform each board authorized to issue a temporary courtesy license under this section and the military community in the state about the licenses.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-01-063__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department shall submit the report prepared under (e) of this section to the Joint Armed Services Committee on or before the first day of March each year. In addition, the department shall consolidate the two most recent reports and submit a biennial report to the legislature on or before the first day of March during the first regular session of each legislature. The department shall deliver a copy of the biennial report to the senate secretary and the chief clerk of the house of representatives and notify the legislature that the report is available.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-063__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The department shall annually produce and distribute to each board authorized to issue a temporary courtesy license under this section informational materials for the purpose of improving the board's knowledge of the licenses, the application process, and best practices in providing applicant support. The department shall encourage the boards to designate a single employee to serve as the point of contact for public information and inquiries related to temporary courtesy licenses for military spouses.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-064">
+            <num>08.01.064</num>
+            <heading>Military education, training, and service credit; temporary license.</heading>
+            <subsection eId="08-01-064__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding another provision of law, the department or applicable board shall accept military education, training, and service for some or all of the qualifications otherwise required of an applicant for a license or certificate issued under this chapter if</p>
+              </content>
+              <paragraph eId="08-01-064__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department or applicable board determines that the military education, training, and service is substantially equivalent to some or all of the qualifications otherwise required of an applicant for a license or certificate issued under this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-064__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the applicant provides satisfactory evidence of successful completion of the education, training, or service as a member of the armed forces of the United States, the United States Reserves, the National Guard of any state, the Military Reserves of any state, or the Naval Militia of any state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-01-064__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the department issues temporary licenses or certificates as authorized by the department or applicable board under
+AS 08.01.050
+(a)(9), the department or applicable board shall issue a temporary license or certificate to a person who</p>
+              </content>
+              <paragraph eId="08-01-064__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>applies to the department or applicable board in a manner prescribed by the department or board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-064__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>meets the requirements in
+AS 08.01.063</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-064__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>while in the armed forces of the United States or any state, as described in (a) of this section,
+(A) held a current license or certificate in another state, district, or territory of the United States, practiced in the area of the license or certificate, and maintained the license or certificate in active status before and at the time of application for a license or certificate under this subsection; or
+(B) was awarded a degree, diploma, or certificate by a branch of the armed forces of the United States or any state, as described in (a) of this section, that met standards for an equivalent license or a certificate of technical training.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-01-064__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department or applicable board shall expedite the procedure for issuance of a license or certificate under (b) of this section for an applicant who is on active duty.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-064__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A license or certificate issued under (b) of this section is valid for 180 days and may be extended at the discretion of the department or applicable board for one additional 180-day period if the holder of the license or certificate applies for an extension on a form approved by the department or applicable board.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-064__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department or applicable board may adopt regulations necessary to implement this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-065">
+            <num>08.01.065</num>
+            <heading>Establishment of fees.</heading>
+            <subsection eId="08-01-065__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for business licenses, the department shall adopt regulations that establish the amount and manner of payment of application fees, examination fees, license fees, registration fees, permit fees, investigation fees, and all other fees as appropriate for the occupations covered by this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-065__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 4 ch 34 SLA 1992.]</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-065__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in (f)  (k) of this section, the department shall establish fee levels under (a) of this section so that the total amount of fees collected for an occupation approximately equals the actual regulatory costs for the occupation. The department shall annually review each fee level to determine whether the regulatory costs of each occupation are approximately equal to fee collections related to that occupation. If the review indicates that an occupation's fee collections and regulatory costs are not approximately equal, the department shall calculate fee adjustments and adopt regulations under (a) of this section to implement the adjustments. In January of each year, the department shall report on all fee levels and revisions for the previous year under this subsection to the office of management and budget. If a board regulates an occupation covered by this chapter, the department shall consider the board's recommendations concerning the occupation's fee levels and regulatory costs before revising fee schedules to comply with this subsection. In this subsection, regulatory costs means costs of the department that are attributable to regulation of an occupation plus</p>
+              </content>
+              <paragraph eId="08-01-065__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>all expenses of the board that regulates the occupation if the board regulates only one occupation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-065__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the expenses of a board that are attributable to the occupation if the board regulates more than one occupation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-01-065__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The license fee for a business license is set by
+AS 43.70.030
+(a). The department shall adopt regulations that establish the manner of payment of the license fee.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-065__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 28 ch 90 SLA 1991.]</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-065__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding (c) of this section, the department shall establish fee levels under (a) of this section so that the total amount of fees collected by the State Board of Registration for Architects, Engineers, and Land Surveyors approximately equals the total regulatory costs of the department and the board for all occupations regulated by the board. The department shall set the fee levels for the issuance and renewal of a certificate of registration issued under
+AS 08.48.211
+so that the fee levels are the same for all occupations regulated by the board.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-065__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding (c) of this section, the department shall establish fee levels under (a) of this section so that the total amount of fees collected by the department for all occupations regulated under
+AS 08.11
+approximately equals the total regulatory costs of the department for all occupations regulated by the department under
+AS 08.11
+. The department shall set the fee levels for the issuance and renewal of licenses issued under
+AS 08.11
+so that the fee levels are the same for all occupations regulated by the department under
+AS 08.11
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-065__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Notwithstanding (c) of this section, the department shall establish fee levels under (a) of this section so that the total amount of fees collected by the Board of Barbers and Hairdressers approximately equals the total regulatory costs of the department, the board, and the Department of Environmental Conservation for all occupations regulated by the board. For purposes of this subsection, the regulatory costs of the Department of Environmental Conservation for the occupations regulated by the board include the cost of inspections under
+AS 08.13.210
+(b), the cost of developing and adopting regulations under
+AS 44.46.020
+for barbershop, hairdressing, hair braiding, manicuring, esthetics, body piercing, ear piercing, tattooing , and permanent cosmetic coloring establishments, and the cost to the Department of Environmental Conservation of enforcing the regulations for body piercing, tattooing, and permanent cosmetic coloring establishments. The department shall set the fee levels for the issuance and renewal of a practitioner's license issued under
+AS 08.13.100
+so that the license and license renewal fees are the same for all occupations regulated by the Board of Barbers and Hairdressers.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-065__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Notwithstanding (c) of this section, the department shall establish fee levels under (a) of this section so that the total amount of fees collected by the Department of Commerce, Community, and Economic Development for specialty contractors, home inspectors, and associate home inspectors approximately equals the total regulatory costs of the department for those three registration categories. The department shall set the fee levels for the issuance and renewal of a certificate of registration issued under
+AS 08.18
+so that the fee levels are the same for all three of these registration categories and so that the fee level for a home inspector with a joint registration is not different from the fee level for a home inspector who does not have a joint registration. In this subsection, joint registration has the meaning given in
+AS 08.18.171
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-065__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The department shall establish for real estate appraisal management companies registered under
+AS 08.87
+a registry fee in an amount that equals the amount determined by the federal Appraisal Subcommittee established under  12 U.S.C. 3310 as a national registry fee for each real estate appraiser of the appraiser panel of a real estate appraisal management company under  12 U.S.C. 3338 (Title XI, Financial Institutions Reform, Recovery, and Enforcement Act of 1989), as amended by  12 U.S.C. 5301   5641 (Dodd-Frank Wall Street  Reform and Consumer Protection Act); the department may annually remit fees paid under this subsection to the Appraisal Subcommittee for participation in the national registry for real estate appraisal management companies.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-065__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Notwithstanding (c) of this section, the department shall establish fee levels under (a) of this section so that the total amount of fees collected by the Board of Dental Examiners approximately equals the total regulatory costs of the department, the board, and the Department of Health for all occupations regulated by the board. For purposes of this subsection, the regulatory costs of the Department of Health for the occupations regulated by the board include the cost of inspecting dental radiological equipment under
+AS 44.29.020
+(d).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-070">
+            <num>08.01.070</num>
+            <heading>Administrative duties of boards.</heading>
+            <content>
+              <p>Sec. 08.01.070.   Administrative duties of boards.
+Each board shall perform the following duties in addition to those provided in its respective law:
+(1) take minutes and records of all proceedings;
+(2) hold a minimum of one meeting each year;
+(3) hold at least one examination each year;
+(4) request, through the department, investigation of violations of its laws and regulations;
+(5) prepare and grade board examinations;
+(6) set minimum qualifications for applicants for examination and license and may establish a waiver of continuing education requirements for renewal of a license for the period in which a licensee is engaged in active duty military service as described under
+AS 08.01.100
+(f);
+(7) forward a draft of the minutes of proceedings to the department within 20 days after the proceedings;
+(8) forward results of board examinations to the department within 20 days after the examination is given;
+(9) notify the department of meeting dates and agenda items at least 15 days before meetings and other proceedings are held;
+(10) submit before the end of the fiscal year an annual performance report to the department stating the board's accomplishments, activities, and needs.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-075">
+            <num>08.01.075</num>
+            <heading>Disciplinary powers of boards.</heading>
+            <subsection eId="08-01-075__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A board may take the following disciplinary actions, singly or in combination:</p>
+              </content>
+              <paragraph eId="08-01-075__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>permanently revoke a license;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-075__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>suspend a license for a specified period;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-075__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>censure or reprimand a licensee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-075__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>impose limitations or conditions on the professional practice of a licensee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-075__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>require a licensee to submit to peer review;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-075__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>impose requirements for remedial professional education to correct deficiencies in the education, training, and skill of the licensee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-075__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>impose probation requiring a licensee to report regularly to the board on matters related to the grounds for probation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-075__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>impose a civil fine not to exceed $5,000.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-01-075__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A board may withdraw probationary status if the deficiencies that required the sanction are remedied.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-075__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A board may summarily suspend a licensee from the practice of the profession before a final hearing is held or during an appeal if the board finds that the licensee poses a clear and immediate danger to the public health and safety. A person is entitled to a hearing conducted by the office of administrative hearings (
+AS 44.64.010
+) to appeal the summary suspension within seven days after the order of suspension is issued. A person may appeal an adverse decision of the board on an appeal of a summary suspension to a court of competent jurisdiction.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-075__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A board may reinstate a suspended or revoked license if, after a hearing, the board finds that the applicant is able to practice the profession with skill and safety.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-075__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A board may accept the voluntary surrender of a license.  A license may not be returned unless the board determines that the licensee is competent to resume practice and the licensee pays the appropriate renewal fee.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-075__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A board shall seek consistency in the application of disciplinary sanctions.  A board shall explain a significant departure from prior decisions involving similar facts in the order imposing the sanction.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-077">
+            <num>08.01.077</num>
+            <heading>Conviction as grounds for disciplinary action.</heading>
+            <content>
+              <p>Sec. 08.01.077.   Conviction as grounds for disciplinary action.
+Notwithstanding any other provision of this title, the conviction under
+AS 47.24.010
+of a person licensed, certified, or regulated by the department or a board under this title may be considered by the department or board as grounds for disciplinary proceedings or sanctions.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-080">
+            <num>08.01.080</num>
+            <heading>Department regulations.</heading>
+            <content>
+              <p>Sec. 08.01.080.   Department regulations.
+The department shall adopt regulations to carry out the purposes of this chapter, including describing
+(1) how an examination is to be conducted;
+(2) what is contained in application forms;
+(3) how a person applies for an examination or license.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-087">
+            <num>08.01.087</num>
+            <heading>Investigative and enforcement powers of department.</heading>
+            <subsection eId="08-01-087__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may, upon its own motion, conduct investigations to</p>
+              </content>
+              <paragraph eId="08-01-087__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>determine whether a person has violated a provision of this chapter or a regulation adopted under it, or a provision of
+AS 43.70
+, or a provision of this title or regulation adopted under this title dealing with an occupation or board listed in
+AS 08.01.010
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-087__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>secure information useful in the administration of this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-01-087__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If it appears to the commissioner that a person has engaged in or is about to engage in an act or practice in violation of a provision of this chapter or a regulation adopted under it, or a provision of
+AS 43.70
+, or a provision of this title or regulation adopted under this title dealing with an occupation or board listed in
+AS 08.01.010
+, the commissioner may, if the commissioner considers it in the public interest, and after notification of a proposed order or action by telephone or facsimile to all board members, if a board regulates the act or practice involved, unless a majority of the members of the board object within 10 days,</p>
+              </content>
+              <paragraph eId="08-01-087__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>issue an order directing the person to stop the act or practice; however, reasonable notice of and an opportunity for a hearing must first be given to the person, except that the commissioner may issue a temporary order before a hearing is held; a temporary order remains in effect until a final order affirming, modifying, or reversing the temporary order is issued or until 15 days after the person receives the notice and has not requested a hearing by that time; a temporary order becomes final if the person to whom the notice is addressed does not request a hearing within 15 days after receiving the notice; the office of administrative hearings (
+AS 44.64.010
+) shall conduct the hearing and shall issue a proposed decision within 10 days after the hearing; the commissioner shall issue a final order within five days after the proposed decision is issued;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-087__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>bring an action in the superior court to enjoin the acts or practices and to enforce compliance with this chapter, a regulation adopted under it, an order issued under it, or with a provision of this title or regulation adopted under this title dealing with business licenses or an occupation or board listed in
+AS 08.01.010
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-087__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>examine or have examined the books and records of a person whose business activities require a business license or licensure by a board listed in
+AS 08.01.010
+, or whose occupation is listed in
+AS 08.01.010
+; the commissioner may require the person to pay the reasonable costs of the examination; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-087__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>issue subpoenas for the attendance of witnesses, and the production of books, records, and other documents.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-01-087__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Under procedures and standards of operation established by the department by regulation, and with the agreement of the appropriate agency, the department may designate appropriate state or municipal agencies to investigate reports of abuse, neglect, or misappropriation of property by certified nurse aides.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-089">
+            <num>08.01.089</num>
+            <heading>Copies of records for child support purposes.</heading>
+            <content>
+              <p>Sec. 08.01.089.   Copies of records for child support purposes.
+If a copy of a public record concerning an individual who owes or is owed child support that is prepared or maintained by the department is requested by the child support services agency created in
+AS 25.27.010
+or a child support enforcement agency of another state, the department shall provide the requesting agency with a certified copy of the public record, including the individual's social security number. If these records are prepared or maintained by the department in an electronic data base, the records may be supplied by providing the requesting agency with a copy of the electronic record and a statement certifying its contents. A requesting agency receiving information under this section may use it only for child support purposes authorized under law.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-090">
+            <num>08.01.090</num>
+            <heading>Applicability of the Administrative Procedure Act.</heading>
+            <subsection eId="08-01-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and actions taken under
+AS 08.68.333
+(c).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-100">
+            <num>08.01.100</num>
+            <heading>License renewal, lapse, and reinstatement.</heading>
+            <subsection eId="08-01-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Licenses shall be renewed biennially on the dates set by the department with the approval of the respective board.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A license subject to renewal shall be renewed on or before the date set by the department.  If the license is not renewed by the date set by the department, the license lapses.  In addition to renewal fees required for reinstatement of the lapsed license, the department may impose a delayed renewal penalty, established by regulation, that shall be paid before a license that has been lapsed for more than 60 days may be renewed.  The department may adopt a delayed renewal penalty only with the concurrence of the appropriate board.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in (f) of this section, when continuing education or other requirements are made a condition of license renewal, the requirements shall be satisfied before a license is renewed.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as otherwise provided, a license may not be renewed if it has been lapsed for five years or more.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-100__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding any other provision of this title, a renewal of a license may not be issued by the department to a natural person unless the licensee's social security number has been provided to the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-100__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department may establish and implement a waiver of continuing education requirements for renewal of a license regulated by the department and a board may establish and implement a waiver of continuing education requirements for renewal of a license regulated by the board for the period in which a licensee is engaged in active duty military service in the armed forces of the United States.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-100__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A member of the armed forces of the United States on active duty in a combat zone, danger pay post, or qualified hazardous duty area, who is a licensee under this title in good standing at the time of the licensee's active duty order is exempt from any fees or other requirements to maintain that license or good standing while the licensee is in that zone, at that post, or in that area. This exemption is valid for 180 days after returning to the licensee's permanent duty station, if the licensee does not engage in licensed practice for profit in the private sector. The licensee shall pay fees and meet all other requirements for the license period beginning after the exemption ends. In this subsection,</p>
+              </content>
+              <paragraph eId="08-01-100__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>combat zone has the meaning given in 26 U.S.C. 112(c)(2) (Internal Revenue Code);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-100__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>danger pay post means a post so designated by the United States Secretary of State in the Department of State Standardized Regulations for purposes of danger pay under 5 U.S.C. 5928;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-01-100__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>qualified hazardous duty area means an area that, during the applicant's deployment, is treated as if it were a combat zone for purposes of a federal tax exemption under 26 U.S.C. 112 (Internal Revenue Code).</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-102">
+            <num>08.01.102</num>
+            <heading>Citation for unlicensed practice or activity.</heading>
+            <content>
+              <p>Sec. 08.01.102.   Citation for unlicensed practice or activity.
+The department may issue a citation for a violation of a license requirement under this chapter, except a requirement to have a license under
+AS 43.70
+, if there is probable cause to believe a person has practiced a profession or engaged in business for which a license is required without holding the license. Each day a violation continues after a citation for the violation has been issued constitutes a separate violation. A citation issued under this section must comply with the standards adopted under
+AS 12.25.175
+ 12.25.230.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-103">
+            <num>08.01.103</num>
+            <heading>Procedure and form of citation.</heading>
+            <subsection eId="08-01-103__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person receiving the citation issued under
+AS 08.01.102
+is not required to sign a notice to appear in court.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-103__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The time specified in the notice to appear on a citation issued under
+AS 08.01.102
+shall be at least five working days after the issuance of the citation.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-103__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department is responsible for the issuance of books containing appropriate citations and shall maintain a record of each book issued and each citation contained in it.  The department shall require and retain a receipt for every book issued to an employee of the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-103__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>On or before the 10th working day after the issuance of a citation, the department shall deposit the original or a copy of the citation with a court having jurisdiction over the alleged offense. Upon its deposit with the court, the citation may be disposed of only by trial in the court or other official action taken by the magistrate, judge, or prosecutor. The department may not dispose of a citation, copies of it, or the record of its issuance except as required under this subsection and (e) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-103__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall require the return of a copy of every citation issued by the department and all copies of a citation that has been spoiled or upon which an entry has been made and not issued to an alleged violator.  The department shall also maintain, in connection with each citation, a record of the disposition of the charge by the court where the original or copy of the citation was deposited.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-01-103__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A citation issued under
+AS 08.01.102
+is considered to be a lawful complaint for the purpose of prosecution.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-01-104">
+            <num>08.01.104</num>
+            <heading>Failure to obey citation.</heading>
+            <content>
+              <p>Sec. 08.01.104.   Failure to obey citation.
+Unless the citation has been voided or otherwise dismissed by the magistrate, judge, or prosecutor, a person who without lawful justification or excuse fails to appear in court to answer a citation issued under
+AS 08.01.102
+, regardless of the disposition of the charge for which the citation was issued, is guilty of a class B misdemeanor.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-105">
+            <num>08.01.105</num>
+            <heading>Penalty for improper payment.</heading>
+            <content>
+              <p>Sec. 08.01.105.   Penalty for improper payment.
+An applicant shall pay a penalty of $10 each time a negotiable instrument is presented to the department in payment of an amount due and payment is subsequently refused by the named payor.</p>
+            </content>
+          </section>
+          <section eId="sec_08-01-110">
+            <num>08.01.110</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 08.01.110.   Definitions.
+In this chapter,
+(1) board includes the boards and commissions listed in
+AS 08.01.010
+;
+(2) commissioner means the commissioner of commerce, community, and economic development;
+(3) department means the Department of Commerce, Community, and Economic Development;
+(4) license means a business license or a license, certificate, permit, or registration or similar evidence of authority issued for an occupation by the department or by one of the boards listed in
+AS 08.01.010
+;
+(5) licensee means a person who holds a license;
+(6) occupation means a trade or profession listed in
+AS 08.01.010
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

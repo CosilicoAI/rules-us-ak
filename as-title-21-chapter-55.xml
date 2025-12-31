@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-55"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-55"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.55"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-55/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-55/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-55/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-55/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_55">
+          <num>55</num>
+          <heading>State Health Insurance</heading>
+          <section eId="sec_21-55-010">
+            <num>21.55.010</num>
+            <heading>Creation; membership; information from members.</heading>
+            <subsection eId="21-55-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is established a nonprofit incorporated legal entity to be known as the Comprehensive Health Insurance Association. Membership consists of all licensed hospital or medical service corporations in the state that offer subscriber contracts for major medical coverage, all health maintenance organizations or other managed care arrangements approved by the director, all licensed self-funded multiple employer welfare arrangements in the state, and all insurers licensed to transact health insurance in the state that offer policies for major medical coverage on an expense incurred basis. All members shall maintain membership in the association as a condition of doing health insurance business, or being able to offer subscriber contracts or enrollment in a health maintenance organization, self-funded multiple employer welfare arrangement, or managed care arrangement in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A member shall submit reports and provide information required by the board or the director to implement this chapter as a condition of transacting business in the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-020">
+            <num>21.55.020</num>
+            <heading>Board of directors; organization.</heading>
+            <subsection eId="21-55-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board of directors of the association consists of seven individuals. Five board members shall be selected by association members, subject to approval by the director of the division of insurance, and two board members shall be consumers selected by the director of the division of insurance. The director or the director's designee is a nonvoting ex officio member of the board. A member of the board serves for a term of three years and may be reappointed to an unlimited number of terms. The term of a board member shall continue until a successor is appointed.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In approving members of the board, the director shall consider, among other things, whether all types of association members are fairly represented.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In determining voting rights at association meetings, an association member is entitled to vote in person or by proxy. The vote shall be a weighted vote based on the association member's share of assessments as determined under
+AS 21.55.220
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>At board meetings, a board member is entitled to one vote in person or by proxy.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A member of the board may be reimbursed from the association for expenses incurred as a result of board activities, but may not otherwise be compensated for services by the association. The costs of conducting meetings of the association and its board of directors shall be the responsibility of the members of the association.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The board shall study and prepare a report at least once every three years on the effectiveness of this chapter. The report must include an analysis of the effectiveness of this chapter in promoting rate stability, product availability, and affordability of coverage. The report may contain recommendations for legislative or other regulatory action. The board shall notify the legislature that the report is available.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-020__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In this section, board means the board of directors of the association.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-030">
+            <num>21.55.030</num>
+            <heading>General powers.</heading>
+            <content>
+              <p>Sec. 21.55.030.   General powers.
+The association may
+(1) exercise the powers granted to insurers under the laws of the state;
+(2) sue or be sued;
+(3) enter into contracts with insurers, similar associations in other states, or with other persons for the performance of administrative functions;
+(4) establish administrative and accounting procedures for the operation of the association; and
+(5) receive funds from sources other than members of the association.</p>
+            </content>
+          </section>
+          <section eId="sec_21-55-040">
+            <num>21.55.040</num>
+            <heading>Plan of operation.</heading>
+            <subsection eId="21-55-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The association shall submit to the director a plan of operation and amendments necessary or suitable to assure the fair, reasonable, and equitable administration of the association. The plan of operation and amendments become effective upon approval in writing by the director. If the association fails to submit a suitable plan of operation by December 22, 1992, or if at subsequent time the association fails to submit suitable amendments to the plan, the director may, after notice and hearing, adopt reasonable regulations necessary or advisable to effectuate the provisions of this chapter. These regulations shall continue in force until modified by the director or superseded by a plan submitted by the association and approved by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All members of the association shall comply with the plan of operation.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The plan of operation shall</p>
+              </content>
+              <paragraph eId="21-55-040__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>establish procedures whereby all the powers and duties of the association under this chapter will be performed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-040__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>establish procedures for handling assets of the association;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-040__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>establish the amount and method of reimbursing members of the board of directors under
+AS 21.55.020
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-040__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>establish regular places and times for meetings of the board of directors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-040__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>establish procedures for records to be kept of all financial transactions of the association, its agents, and the board of directors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-040__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>provide that a member insurer aggrieved by a final action or decision of the association may appeal to the director within 30 days after the action or decision;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-040__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>establish procedures whereby selections for the board of directors will be submitted to the director;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-040__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>contain additional provisions necessary or proper for the execution of the powers and duties of the association.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-050">
+            <num>21.55.050</num>
+            <heading>Administrative Procedure Act.</heading>
+            <content>
+              <p>Sec. 21.55.050.   Administrative Procedure Act.
+The association is exempt from
+AS 44.62
+(Administrative Procedure Act).</p>
+            </content>
+          </section>
+          <section eId="sec_21-55-060">
+            <num>21.55.060</num>
+            <heading>Tax exemption.</heading>
+            <content>
+              <p>Sec. 21.55.060.   Tax exemption.
+The association is exempt from the payment of fees and taxes levied by the state or any of its political subdivisions except taxes levied on real or personal property.</p>
+            </content>
+          </section>
+          <section eId="sec_21-55-100">
+            <num>21.55.100</num>
+            <heading>Types of insurance plans.</heading>
+            <subsection eId="21-55-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The association shall make available to a person who is eligible for coverage under this chapter at least one individual state plan of health insurance. The association shall offer a plan with the deductible, copayment, and calendar year maximum limits as described in
+AS 21.55.120
+and may offer additional deductible, copayment, and calendar year maximum limits as approved by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The association may make available to residents who are high risks, eligible for and covered by Medicare, 65 years of age or older, and eligible under this chapter one or more Medicare supplement plans that meet the minimum policy standards and minimum benefit standards established by regulations adopted by the director under
+AS 21.96.060
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The association may not refuse to offer coverage under a state plan to a person who is eligible under this chapter. The association may not refuse coverage under a state plan to a person who is eligible under this chapter, applies for coverage, and pays the required premium.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The association may make available to a person eligible under this chapter coverage through a health maintenance organization or other managed care arrangement if approved by the director. Deductible, copayment, and calendar year maximum limits provided through an organization or arrangement are not subject to the limits described in
+AS 21.55.120
+, but the limits must be approved by the director.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-110">
+            <num>21.55.110</num>
+            <heading>Minimum benefits of state health insurance plan.</heading>
+            <subsection eId="21-55-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>shall be benefits with a lifetime maximum of $1,000,000 for each individual for usual, customary, reasonable, or prevailing charges or, when applicable, the allowance agreed upon between a provider and the plan administrator for charges. The minimum standard benefits of the plan must cover the following medical services performed for an individual covered by the plan for the diagnosis or treatment of nonoccupational disease or nonoccupational injury:</p>
+              </content>
+              <paragraph eId="21-55-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>hospital services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>subject to the limitations of
+AS 21.36.090</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the diagnosis or treatment of mental conditions, as defined in regulations of the director, rendered during the year on other than an inpatient basis, up to a yearly maximum benefit of $4,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>legend drugs requiring a physician's prescription;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>services of a skilled nursing facility for not more than 120 days in a policy year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>home health agency services up to a maximum of 270 visits in a calendar year if the services commence within seven days following confinement in a hospital or skilled nursing facility of at least three consecutive days for the same condition, except that in the case of an individual diagnosed by a physician as terminally ill with a prognosis of six months or less to live, the home health agency services may commence irrespective of whether the covered person was previously confined or, if the covered person was confined, irrespective of the seven-day period, and the yearly benefit for medical social services may not exceed $200;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>hospice services for up to six months in a calendar year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>use of radium or other radioactive materials;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>outpatient chemotherapy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>oxygen;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>anesthetics;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>nondental prosthesis and maxillo-facial prosthesis used to replace any anatomic structure lost during treatment for head and neck tumors or additional appliances essential for the support of the prosthesis;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>rental, or purchase if purchase is more cost effective than rental, of durable medical equipment that has no personal use in the absence of the condition for which it was prescribed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>diagnostic x-rays and laboratory tests;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>oral surgery for excision of partially or completely unerupted impacted teeth or excision of a tooth root without the extraction of the entire tooth;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>services of a licensed physical therapist rendered under the direction of a physician;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>transportation by a local ambulance operated by licensed or certified personnel to the nearest health care institution for treatment of the illness or injury and round trip transportation by air to the nearest health care institution for treatment of the illness or injury if the treatment is not available locally; if the patient is a child under 12 years of age, the transportation charges of a parent or legal guardian accompanying the child may be paid if the attending physician certifies the need for the accompaniment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>confinement in a licensed or certified facility established primarily for the treatment of alcohol or drug abuse, or in a part of a hospital used primarily for this treatment, for a period of at least 45 days within any calendar year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>alternatives to inpatient services as defined by the association in the state plan benefits;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>second surgical opinions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-110__subsec_a__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>other services that are medically necessary in the treatment or diagnosis of an illness or injury as may be designated or approved by the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-120">
+            <num>21.55.120</num>
+            <heading>Deductibles and copayments.</heading>
+            <subsection eId="21-55-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A state plan other than a Medicare supplement plan may require a deductible of not less than $500 a person as determined by the board and approved by the director. The amount of the deductible may not be greater when a service is rendered on an outpatient basis than when that service is offered on an inpatient basis. Expenses incurred during the last three months of a calendar year and actually applied to an individual's deductible for that year shall also be applied to that individual's deductible in the following calendar year.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A state plan other than a Medicare supplement plan shall require a maximum copayment of 20 percent for charges for all types of health care in excess of the deductible and 50 percent for services described in
+AS 21.55.110</p>
+              </content>
+              <paragraph eId="21-55-120__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>in excess of the deductible.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-55-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The sum of the deductible and copayments required in any calendar year under a plan may not exceed a maximum limit of $1,500 plus the deductible. Covered expenses incurred after the applicable maximum limit has been reached shall be paid at the rate of 100 percent of usual, customary, reasonable, or prevailing charges, except that expenses incurred for treatment of mental and nervous conditions shall be paid at the rate of 50 percent.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 24 ch 31 SLA 1999.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-120__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 24 ch 31 SLA 1999.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-130">
+            <num>21.55.130</num>
+            <heading>Preexisting conditions.</heading>
+            <subsection eId="21-55-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A preexisting condition exclusion in a state plan may not exclude coverage of a preexisting condition unless</p>
+              </content>
+              <paragraph eId="21-55-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the condition first manifested itself within the period of three months immediately before the effective date of coverage in a manner that would cause a reasonably prudent person to seek diagnosis, care, or treatment; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>medical advice or treatment was recommended or received within the period of three months immediately before the effective date of coverage.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-55-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A policy may not exclude coverage for a loss due to preexisting conditions for a period greater than six months following the effective date of coverage.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A state plan issued to a person whose previous subscriber contract, health policy, or Medicare supplement policy was involuntarily terminated shall credit the time covered under the previous contract or policy toward an exclusion for preexisting conditions under the state plan if the previous contract or policy had a similar preexisting condition exclusion and the person applies for a state plan within 31 days after termination of the previous contract or policy. If a person covered by this subsection is accepted by the plan administrator and pays a specified premium for retroactive coverage, the state plan is effective retroactively to the date that the person's previous contract or policy terminated.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A state plan issued to a federally defined eligible individual may not impose a preexisting condition exclusion.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-130__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A state plan issued to a qualified TAA eligible individual may not impose a preexisting condition exclusion.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-140">
+            <num>21.55.140</num>
+            <heading>Care and services not covered.</heading>
+            <subsection eId="21-55-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A state plan may not provide benefits for charges for the following:</p>
+              </content>
+              <paragraph eId="21-55-140__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>care for an injury or disease either
+(A) arising out of and in the course of an employment subject to a workers' compensation or similar law or where the benefit is available to be provided under a workers' compensation policy or equivalent self-insurance to a sole proprietor, business partner, or corporation officer; or
+(B) to the extent benefits are payable without regard to fault under a coverage statutorily required to be contained in a motor vehicle or other liability insurance policy or equivalent self-insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>treatment for cosmetic purposes other than surgery for the prompt repair of an accidental injury sustained while covered or for replacement of an anatomic structure removed during treatment of tumors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>travel, other than transportation covered under
+AS 21.55.110
+(17);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>private room accommodations to the extent it is in excess of the institution's most common charge for a semiprivate room;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>services or articles to the extent that the charge exceeds the reasonable charge in the locality for the service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>services or articles that are determined not to be medically necessary, except for the fabrication or placement of the prosthesis as specified in
+AS 21.55.110</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>and (2) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>services or articles that are not within the scope of the license or certificate of the institution or individual rendering the services or articles;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>services or articles furnished, paid for, or reimbursed directly by or under any law of a government, except as otherwise provided in this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>services or articles for custodial care or designed primarily to assist an individual in the activities of daily living;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>service charges that would not have been made if no insurance existed or that the covered individual is not legally obligated to pay;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>eyeglasses, contact lenses, or hearing aids or the fitting of them;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>dental care not specifically covered by this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>services of a registered nurse who ordinarily resides in the covered individual's home, or who is a member of the covered individual's family or the family of the covered individual's spouse;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>experimental procedures, except during an approved clinical trial; in this paragraph, approved clinical trial has the meaning given in
+AS 21.42.415
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-140__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>services and supplies for which the patient was not charged.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-55-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 8 ch 102 SLA 2003.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-150">
+            <num>21.55.150</num>
+            <heading>State plan premiums.</heading>
+            <subsection eId="21-55-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The association may not charge a rate for coverage issued by or through the association that is unfairly discriminatory. The board shall submit premium rates to the director for approval before use.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The association may use separate scales of premium rates based on age and geographic location of the insured. The association may use separate scales of premium rates based on other factors, including use or nonuse of tobacco, if approved by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The board shall determine standard risk premium rates by considering the premium rates charged by members of the association offering, to residents of the state, health insurance benefits substantially equivalent to benefits under the state plan. The premium for a state plan may not exceed 150 percent of the standard risk premium rates determined by the board.
+Article 3. Administration of Plans.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-200">
+            <num>21.55.200</num>
+            <heading>Selection of a plan administrator.</heading>
+            <content>
+              <p>Sec. 21.55.200.   Selection of a plan administrator.
+The board shall develop bid specifications and select a plan administrator through a competitive bidding process. The selection of the plan administrator shall be based upon criteria including the plan administrator's proven ability to handle health insurance coverage for individuals, efficient claim paying capacity, the estimate of total charges for administering the plan, the plan administrator's ability to apply effective cost containment programs and procedures and to administer the plan in a cost efficient manner, and the financial condition and stability of the plan administrator.</p>
+            </content>
+          </section>
+          <section eId="sec_21-55-210">
+            <num>21.55.210</num>
+            <heading>Duties of plan administrator.</heading>
+            <subsection eId="21-55-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The plan administrator shall perform the administrative and claims payment functions required by this section. The plan administrator shall provide these services for a period specified in the contract between the association and the plan administrator subject to the terms, conditions, and limitations of the contract between the association and the plan administrator. At least six months before the expiration of each contract period, the board shall invite eligible entities, including the plan administrator, to submit bids to serve as the plan administrator. The board shall follow the provisions of this subsection in selecting a plan administrator for the subsequent contract period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The plan administrator shall provide to all eligible persons enrolled in a state plan an individual policy setting out a statement of the insurance protection to which the person is entitled, with whom claims are to be filed, and to whom benefits are payable. The policy must indicate that coverage was obtained through the association.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-210__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The plan administrator shall submit to the board and the director on a regular basis a report on the operation of the state plans. The board shall determine the specific information to be contained in the report and that information shall be specified in the contract between the association and the plan administrator.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-210__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The plan administrator shall pay claims and shall indicate when a claim is paid under a state plan. A claim payment must include a telephone number that can be used for inquiries regarding the claim.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-210__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The plan administrator shall</p>
+              </content>
+              <paragraph eId="21-55-210__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be reimbursed from the state plan receipts for services rendered in connection with administering the plan; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-210__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>at all times when carrying out its duties under this chapter be considered an agent of the association.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-220">
+            <num>21.55.220</num>
+            <heading>Operation of the plan.</heading>
+            <subsection eId="21-55-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon notification of eligibility under
+AS 21.55.320
+, a person may enroll in a state plan by payment of the appropriate state plan premium to the plan administrator.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 29 ch 30 SLA 2009.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-220__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Each member of the association shall share the losses due to claims expenses of the state plans issued or approved for issuance by the association; each member of the association shall share the losses of a reinsurance program established by regulations adopted under
+AS 21.55.400
+reinsuring residents who are high risks; and each member of the association shall share in the operating and administrative expenses incurred or estimated to be incurred by the association incident to the conduct of its affairs. Claims expenses of the state plan that exceed the premium payments allocated to the payment of benefits shall be the liability of the members. Each member shall share in the claims expense of the state plans, the operating and administrative expenses of the association, and the losses of a reinsurance program established by regulations adopted under
+AS 21.55.400
+reinsuring residents who are high risks, in an amount equal to the ratio of the member's total major medical premiums, received from or on behalf of state residents, as divided by the total major medical premiums received by all members from or on behalf of state residents, as determined by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-220__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The board shall make an annual determination of each member's liability, if any, and may make an annual fiscal year end assessment if necessary. The board may also provide for interim assessments against the members as may be necessary to assure the financial capability of the association in meeting the incurred or estimated claims expenses of the state plans and operating and administrative expenses of the association until the association's next annual fiscal year end assessment. Payment of an assessment is due within 30 days after receipt by a member of written notice of a fiscal year end or interim assessment. A member who fails to pay a fiscal year end or interim assessment as required in this subsection (1) shall pay a civil penalty to the director in the amount of $100 for each day the member fails to pay the required assessment, and (2) may have the member's certificate of authority revoked by the director. A member that ceases to do business in the state remains liable for assessments until the board determines under (c) of this section that no assessment is due. The board may decline to levy an assessment against a member if the assessment would be minimal. Assessments paid by a member are a general expense of the member.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-220__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Net gains, if any, from the operation of the state plans shall be held at interest and used by the association to offset future losses due to claims expenses of a state plan or allocated to reduce state plan premiums.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-220__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A member may offset 50 percent of the amount of the assessment under this section as a premium tax credit reducing the premium tax payable by the member under
+AS 21.09.210
+. The offset shall apply to the tax levied for the calendar year following an annual determination of each member's liability under (d) of this section. The offset may not reduce the premium tax payable by a member to less than zero or create a premium tax credit for the member. An unused offset may be carried over to the immediately following calendar year. An offset made under this subsection is not subject to
+AS 21.09.270
+.
+Article 4. Enrollment in the State Health Insurance Plan.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-300">
+            <num>21.55.300</num>
+            <heading>Eligibility for state health insurance.</heading>
+            <subsection eId="21-55-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in this section, a state resident who is a high risk, a TAA eligible individual, or a federally defined eligible individual is eligible to enroll in a state plan described in
+AS 21.55.100
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except for a federally defined eligible individual or TAA eligible individual, a person may not be covered by the state plan</p>
+              </content>
+              <paragraph eId="21-55-300__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>while covered by another health insurance policy or subscriber contract; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-300__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the person is eligible to be covered
+(A) by a plan subject to the requirements of
+AS 21.56.110
+ 21.56.250;
+(B) under another state or federal law, including veterans' benefits, Native health care, or Medicaid, but not including Medicare; or
+(C) under another health benefit program, including self-insurance plan, health care trust, or welfare trust.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-55-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon ceasing to be a resident, a person is not eligible to purchase or renew coverage under a state plan, but previously purchased coverage remains in effect for the period covered by payments made while a resident.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-300__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Additional eligibility requirements for enrollment in a state plan may be imposed if approved by the director.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-310">
+            <num>21.55.310</num>
+            <heading>Enrollment by an eligible person.</heading>
+            <content>
+              <p>Sec. 21.55.310.   Enrollment by an eligible person.
+A person may enroll in a state plan by applying to the plan administrator. The application must include the following:
+(1) name, address, age, and length of residency of the applicant;
+(2) a designation of the plan desired, including deductible option chosen;
+(3) information relevant to whether the person is a high risk or a federally defined eligible individual; and
+(4) payment of the first premium.</p>
+            </content>
+          </section>
+          <section eId="sec_21-55-320">
+            <num>21.55.320</num>
+            <heading>Plan administrator's response.</heading>
+            <subsection eId="21-55-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within 30 days after receiving the application described in
+AS 21.55.310
+, the plan administrator shall</p>
+              </content>
+              <paragraph eId="21-55-320__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provide the applicant with either a notice of rejection for failing to comply with the requirements of
+AS 21.55.300
+and 21.55.310 or a notice of acceptance; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-320__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for a TAA eligible individual, send a notice to the director specifying the name, address, social security number, and effective date of coverage.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-55-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When a person with a disability that is covered under 42 U.S.C. 1395  1395b-10 (Title XVIII of the Social Security Act) is referred by an insurer to a state plan under
+AS 21.55.310
+, the plan administrator shall request that the Department of Health provide information to the person about applying for the federal benefits.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-330">
+            <num>21.55.330</num>
+            <heading>Effective date of policies.</heading>
+            <subsection eId="21-55-330__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section and
+AS 21.55.130
+(c), insurance under a state plan is effective immediately upon receipt of the first premium, and is retroactive to the date of the application, if the applicant otherwise complies with the requirements of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-330__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Insurance under a state plan is effective retroactively to the date that the person's previous contract or policy terminated if the person</p>
+              </content>
+              <paragraph eId="21-55-330__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>applies for a state plan within 60 days after the previous contract or policy terminated;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-330__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is accepted by the plan administrator; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-330__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>pays a specified premium for the period of retroactive coverage.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-340">
+            <num>21.55.340</num>
+            <heading>Solicitation of eligible persons.</heading>
+            <subsection eId="21-55-340__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The association, under a plan approved by the director, shall disseminate appropriate information to the residents of the state regarding the existence of the state plans and the means of enrollment. Means of communication may include use of the press, radio, and television, as well as publication in appropriate state offices and publications.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-340__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The association shall devise and implement means of maintaining public awareness of the provisions of this chapter regarding the state plans and shall administer this chapter in a manner that facilitates public participation in the state plans.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-340__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person may not sell or market a qualified state plan unless the person is acting within the scope of a license issued in this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-340__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An insurer or hospital or medical service corporation that rejects or applies underwriting restrictions to an applicant for a subscriber contract, a health insurance policy, or a Medicare supplement plan in the state shall notify the applicant of the existence of the state plans, the requirements for being accepted, and the procedure for applying.
+Article 5. General Provisions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-55-400">
+            <num>21.55.400</num>
+            <heading>Duties of director.</heading>
+            <content>
+              <p>Sec. 21.55.400.   Duties of director.
+The director may
+(1) approve the selection of the plan administrator by the association and approve the association's contract with the plan administrator, including the coverages and premiums to be charged;
+(2) contract with the federal government or another unit of government to ensure coordination of the state plans with other governmental assistance programs;
+(3) undertake, directly or through contracts with other persons, studies or demonstration programs to develop awareness of the benefits of this chapter; and
+(4) formulate general policy and adopt regulations that are reasonably necessary to administer this chapter, including regulations establishing a reinsurance program reinsuring residents who are high risks and specifying covered conditions eligible for payment through the reinsurance program.</p>
+            </content>
+          </section>
+          <section eId="sec_21-55-410">
+            <num>21.55.410</num>
+            <heading>State not liable.</heading>
+            <content>
+              <p>Sec. 21.55.410.   State not liable.
+The state is not liable for acts or omissions of the association or a plan administrator under this chapter, nor is the state liable for payment of a claim under a state plan issued by a plan administrator.</p>
+            </content>
+          </section>
+          <section eId="sec_21-55-420">
+            <num>21.55.420</num>
+            <heading>Board member civil and criminal immunity.</heading>
+            <content>
+              <p>Sec. 21.55.420.   Board member civil and criminal immunity.
+A member of the board of directors of the association may not be held civilly or criminally liable for an act or omission if the act or omission was in good faith and within the scope of the director's duties under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_21-55-500">
+            <num>21.55.500</num>
+            <heading>Definitions.</heading>
+            <subsection eId="21-55-500__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of 18 or more months as of the date that the individual seeks coverage under this chapter;
+(B) whose most recent prior creditable coverage was under a health benefit plan or health care insurance plan offered in the large employer group market or the small employer group market;
+(C) who is not eligible for coverage under a health benefit plan, 42 U.S.C. 1395c or 42 U.S.C. 1395j (Part A or Part B of Title XVIII of the Social Security Act), or a state plan under 42 U.S.C. 1396 (Title XIX of the Social Security Act), and who does not have other health care insurance coverage;
+(D) whose most recent coverage within the period of aggregate creditable coverage as provided under
+AS 21.54.110</p>
+              </content>
+            </subsection>
+            <subsection eId="21-55-500__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>was not terminated based on a factor relating to nonpayment of premiums or fraud;
+(E) who, having been offered and having elected continuation coverage under a federal continuation provision or a similar state program, has exhausted coverage under the continuation provision or program;</p>
+              </content>
+              <paragraph eId="21-55-500__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>group market has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>health benefit plan has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>health care insurance plan has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>health care insurer has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>health insurance has the meaning given in
+AS 21.12.050
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>home health agency services means any of the following services provided upon recommendation of a licensed physician as part of a treatment plan:
+(A) intermittent or part-time nursing services of a registered nurse or a licensed practical nurse, that are provided to a person under the continued direction of the person's physician and within the limitation of the nurse's license;
+(B) nursing services that are provided to a person at the person's residence, including a residential care facility or adult boarding home; a hospital, skilled nursing facility, or intermediate care facility is not considered a residence;
+(C) home health aide services that are prescribed by and under the continued direction of a physician and supervised by a registered nurse;
+(D) home health aide services that are provided to a person at the person's residence, as described in (B) of this paragraph;
+(E) physical and occupational therapy services, speech pathology, and audiology services that are prescribed by a physician and provided to a person by or under the supervision of a qualified practitioner; these services may be provided to a person who is a patient in an intermediate care facility or skilled nursing facility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>hospice services means services provided under a coordinated comprehensive program of palliative and supportive care on a 24-hour, seven days per week basis for persons who have been diagnosed as terminally ill and their families by an interdisciplinary team of professionals or volunteers under an incorporated central administration that has a physician as medical director;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>major medical
+(A) means health insurance or medical care coverage provided on an expense incurred basis, including Medicare supplement insurance;
+(B) does not include coverage for dental only, vision only, long-term care, nursing home care, home health care, community-based care, accident only, disability income, hospital confinement indemnity or other fixed indemnity, or credit, specified disease or specified accident, or other supplemental health insurance or coverage determined by the board not to constitute major medical and approved by the director;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>medical social services means services rendered the patient under the direction of a physician by a qualified social worker holding a master's degree from an accredited school of social work, including assessment of the social, psychological and family problems related to or arising out of the covered person's illness and treatment, appropriate action and utilization of community resources to assist in resolving the problems, and participation in the development of treatment for the covered person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>plan administrator means an eligible entity that is licensed as a third-party administrator under
+AS 21.27
+and is selected by the board and approved by the director to administer a state plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>preexisting condition exclusion has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>qualified TAA eligible individual means a qualifying individual as defined under 26 U.S.C. 35 (Internal Revenue Code, as enacted by sec. 201(a) of the Trade Adjustment Assistance Reform Act of 2002);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>resident means
+(A) except for a federally defined eligible individual or TAA eligible individual, an individual who meets the eligibility requirements in
+AS 43.23.005
+; or
+(B) for a federally defined eligible individual or TAA eligible individual, an individual who is legally domiciled in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>residents who are high risks means residents who
+(A) have been rejected for medical reasons after applying for a subscriber contract, a policy of health insurance, or a Medicare supplement policy by at least one association member within the six months immediately preceding the date of application for a state plan; medical reasons may include preexisting medical conditions, a family history that predicts future medical conditions, or an occupation that generates a frequency or severity of injury or disease that results in coverage not being generally available;
+(B) have had a restrictive rider placed on a subscriber contract, a health insurance policy, or a Medicare supplement policy that substantially reduces coverage; or
+(C) meet other requirements adopted by regulation by the director that are consistent with this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>state plan means a policy of insurance offered by the association through a plan administrator;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>TAA eligible individual means an eligible individual or a qualifying family member as defined under 26 U.S.C. 35 (Internal Revenue Code, as enacted by sec. 201(a) of the Trade Adjustment Assistance Reform Act of 2002); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-55-500__subsec_b__subsec_23">
+                <num>(23)</num>
+                <content>
+                  <p>usual, customary, reasonable, or prevailing charge means the charge for a medical care procedure, service, or supply item that is the lowest of the following amounts:
+(A) the billed amount for the medical service provider's actual charge;
+(B) the charge usually made by that provider for performing that procedure or service or for providing the supply item; or
+(C) the customary charge, based on a profile of charges made for the same medical procedure, service, or supply item in the same geographical area by other providers that have performed the same procedure or service or can provide the same supply item.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-35"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-35"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="22.35"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-35/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-35/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_22">
+        <num>22</num>
+        <heading>Judiciary</heading>
+        <chapter eId="title_22__chp_35">
+          <num>35</num>
+          <heading>Miscellaneous Provisions</heading>
+          <section eId="sec_22-35-020">
+            <num>22.35.020</num>
+            <heading>Copies of records for child support purposes.</heading>
+            <content>
+              <p>Sec. 22.35.020.   Copies of records for child support purposes.
+If a copy of a court record is requested by the child support services agency created in
+AS 25.27.010
+or a child support agency of another state, the official custodian of the record shall provide the requesting agency with a copy of the record, including any social security number that the record might contain. If the requested record is maintained by the court system in an electronic data base, the record may be supplied by providing the requesting agency with a copy of the electronic record and a statement certifying its contents. A requesting agency receiving otherwise confidential information under this section may use it only for child support purposes authorized by law.</p>
+            </content>
+          </section>
+          <section eId="sec_22-35-030">
+            <num>22.35.030</num>
+            <heading>Records concerning criminal cases resulting in acquittal or dismissal.</heading>
+            <content>
+              <p>Sec. 22.35.030.   Records concerning criminal cases resulting in acquittal or dismissal.
+The Alaska Court System may not publish a court record of a criminal case on a publicly available website if 60 days have elapsed from the date of acquittal or dismissal and
+(1) the defendant was acquitted of all charges filed in the case;
+(2) all criminal charges against the defendant in the case have been dismissed and were not dismissed as part of a plea agreement in another criminal case under Rule 11, Alaska Rules of Criminal Procedure;
+(3) the defendant was acquitted of some of the criminal charges in the case and the remaining charges were dismissed; or
+(4)  all criminal charges against the defendant in the case have been dismissed after a suspended entry of judgment under
+AS 12.55.078
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

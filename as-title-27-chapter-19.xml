@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-19"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-19"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="27.19"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-19/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-19/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-27/chapter-19/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-27/chapter-19/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_27">
+        <num>27</num>
+        <heading>Mining</heading>
+        <chapter eId="title_27__chp_19">
+          <num>19</num>
+          <heading>Reclamation</heading>
+          <section eId="sec_27-19-010">
+            <num>27.19.010</num>
+            <heading>Administration; applicability.</heading>
+            <subsection eId="27-19-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of natural resources shall implement this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This chapter applies to state, federal, municipal, and private land and water subject to mining operations.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in
+AS 27.19.040
+(b), this chapter does not apply to an activity regulated under
+AS 27.21
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This chapter does not alter or diminish the authority of another state agency, a state corporation, the University of Alaska, or a municipality under its laws and regulations.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The owner of private land may establish requirements for reclamation in excess of those established by this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The commissioner may not require a miner to reclaim under this chapter that portion of a previously mined area that was a part of a mining operation activity occurring before October 15, 1991.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-19-020">
+            <num>27.19.020</num>
+            <heading>Reclamation standard.</heading>
+            <content>
+              <p>Sec. 27.19.020.   Reclamation standard.
+A mining operation shall be conducted in a manner that prevents unnecessary and undue degradation of land and water resources, and the mining operation shall be reclaimed as contemporaneously as practicable with the mining operation to leave the site in a stable condition.</p>
+            </content>
+          </section>
+          <section eId="sec_27-19-030">
+            <num>27.19.030</num>
+            <heading>Reclamation plan.</heading>
+            <subsection eId="27-19-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 27.19.050
+, a miner may not engage in a mining operation until the commissioner has approved a reclamation plan for the mining operation.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In reviewing a reclamation plan for state, federal, or municipal land under (a) of this section, the commissioner may consider, after consultation with the commissioners of environmental conservation and fish and game and with the concurrence of the miner and landowner, uses to which the land may be put after mining has been completed, including trails, lakes, recreation sites, fish and wildlife enhancement, commercial, and agriculture uses.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-19-040">
+            <num>27.19.040</num>
+            <heading>Reclamation financial assurance.</heading>
+            <subsection eId="27-19-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner shall require an individual financial assurance in an amount not to exceed an amount reasonably necessary to ensure the faithful performance of the requirements of the approved reclamation plan. The commissioner shall establish the amount of the financial assurance to reflect the reasonable and probable costs of reclamation. The assurance amount may not exceed $750 for each acre of mined area, except that the $750 an acre limitation does not apply to the assurance amount required for a lode mine.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall establish a statewide bonding pool for mining operations as an alternative to individual financial assurance. The commissioner may determine which mining operations are eligible to participate in the bonding pool based on the projected cost of reclamation in relation to the size of the bonding pool; however, a mining operation may not be allowed to participate in the bonding pool if the mining operation will chemically process ore or has the potential to generate acid. A miner participating in the bonding pool shall contribute an initial deposit not to exceed 15 percent of the financial assurance amount plus an additional nonrefundable annual fee not to exceed five percent of the financial assurance amount. The commissioner shall refund the 15 percent deposit upon satisfactory completion of the approved reclamation plan. If requested by the miner, the commissioner may apply the deposit to a new reclamation plan. In addition to its use for mining operations under this chapter, the commissioner shall allow the bonding pool to be used to meet the requirements of
+AS 27.21.160
+. Income and other earnings on the bonding pool shall be added to the bonding pool.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the commissioner determines that a miner has violated or permitted a violation of the approved reclamation plan and has failed to comply with a lawful order of the commissioner, the commissioner shall forfeit the financial assurance and deposit it in the statewide bonding pool. The commissioner shall use the reclamation and administrative costs recovered under
+AS 27.19.070</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to supplement the forfeited financial assurance deposited in the statewide bonding pool for reclamation of the site subject to the forfeiture. If the commissioner is unable to recover the full cost of reclamation under
+AS 27.19.070
+(a), the commissioner may use the bonding pool to reclaim the site to the standards of this chapter, except that the commissioner may not use a deposit that is refundable under (b) of this section to fulfill another miner's reclamation obligation.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A miner not required to post a financial assurance may submit a reclamation plan under
+AS 27.19.030</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and participate in the bonding pool.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A miner may satisfy the requirement under this section for an individual financial assurance by providing, in a form acceptable to and approved by the commissioner, any of the following:</p>
+              </content>
+              <paragraph eId="27-19-040__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a surety bond;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-040__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a letter of credit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-040__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a certificate of deposit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-040__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a corporate guarantee that meets the financial tests set in regulation by the commissioner;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-040__subsec_e__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>payments and deposits into the trust fund established in
+AS 37.14.800
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-040__subsec_e__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>any other form of financial assurance that meets the financial test or other conditions set in regulation by the commissioner.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_27-19-050">
+            <num>27.19.050</num>
+            <heading>Exemption for small operations.</heading>
+            <subsection eId="27-19-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>AS 27.19.030</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and 27.19.040 do not apply to a mining operation</p>
+              </content>
+              <paragraph eId="27-19-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>where less than five acres are mined at one location in any year and there is a cumulative unreclaimed mined area of less than five acres at one location; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>where less than five acres and less than 50,000 cubic yards of gravel or other materials are disturbed or removed at one location in any year and there is a cumulative disturbed area of less than five acres at one location.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="27-19-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To obtain an exemption under (a) of this section, a miner shall file a letter of intent notifying the commissioner of the</p>
+              </content>
+              <paragraph eId="27-19-050__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>total acreage and volume of material to be mined;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-050__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>total acreage to be reclaimed; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-050__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>reclamation measures to be used.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="27-19-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A miner exempt under (a) of this section shall file an annual reclamation statement with the commissioner disclosing the total acreage and volume of material mined by the operation in the current year, the total acreage reclaimed, and the specific reclamation measures used to comply with
+AS 27.19.020
+.  A miner does not qualify for an exemption under (a) of this section for subsequent operations unless the annual reclamation statement for the previous operation has been filed with the commissioner.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A miner exempted from the requirements of
+AS 27.19.030</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and 27.19.040 under (a) of this section that fails to reclaim a mining operation to the standards of
+AS 27.19.020
+is required for two consecutive years to conduct each subsequent mining operation, regardless of size, under an approved reclamation plan and to provide an individual financial assurance.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-19-060">
+            <num>27.19.060</num>
+            <heading>Cooperative management agreements.</heading>
+            <content>
+              <p>Sec. 27.19.060.   Cooperative management agreements.
+The commissioner, on a determination that an agreement is in the best interest of the state, may enter into a cooperative management agreement with the federal government or a state agency to implement a requirement of this chapter or a regulation adopted under it.</p>
+            </content>
+          </section>
+          <section eId="sec_27-19-070">
+            <num>27.19.070</num>
+            <heading>Violations.</heading>
+            <subsection eId="27-19-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A miner who violates or permits a violation of an approved reclamation plan and fails to comply with a lawful order of the commissioner forfeits the financial assurance or a portion of the assurance and is liable to the state in a civil action for the full amount of reclamation and administrative costs incurred by the state related to the action. A miner exempted under
+AS 27.19.050</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>is subject to civil action for the full amount of reclamation and administrative costs incurred by the state related to the action if the commissioner determines that reclamation was not conducted under
+AS 27.19.020
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to other remedies available under this chapter, the commissioner may suspend or revoke permits or approvals of operations not being conducted under the approved reclamation plan and deny future mining permits and approvals under this title and
+AS 38
+related to the mining operation for failure to reclaim the mining operation to the standards of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A miner who has forfeited a financial assurance or has been held liable in a civil action under (a) of this section may conduct future mining operations only after posting a reclamation risk assessment fee equal to five times the amount of financial assurance established under
+AS 27.19.040</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>for the proposed mining operation. The reclamation assessment fee shall be refunded after two consecutive years of operation consistent with this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-19-080">
+            <num>27.19.080</num>
+            <heading>Administrative Procedure Act; regulations.</heading>
+            <subsection eId="27-19-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 44.37.011
+,
+AS 44.62
+(Administrative Procedure Act) applies to this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="27-19-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner may adopt regulations to carry out the purposes of this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_27-19-100">
+            <num>27.19.100</num>
+            <heading>Definitions.</heading>
+            <subsection eId="27-19-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a locatable or leasable mineral deposit except oil, gas, or coal;
+(ii) other materials or of a sand and gravel deposit; and
+(iii) each use reasonably incident to the development, extraction, and processing of a locatable or leasable mineral deposit or materials;
+(B) includes the construction of facilities, roads, transmission lines, pipelines, and other support facilities;</p>
+              </content>
+              <paragraph eId="27-19-100__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>reclamation plan means a plan submitted by a miner under regulations adopted by the commissioner for the reclamation of a proposed mining operation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-100__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>stable condition means the rehabilitation, where feasible, of the physical environment of the site to a condition that allows for the reestablishment of renewable resources on the site within a reasonable period of time by natural processes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-100__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>state land includes
+(A) the land of the University of Alaska;
+(B) the land of state corporations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="27-19-100__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>unnecessary and undue degradation
+(A) means surface disturbance greater than would normally result when an activity is being accomplished by a prudent operator in usual, customary, and proficient operations of similar character and considering site specific conditions;
+(B) includes the failure to initiate and complete reasonable reclamation under the reclamation standard of
+AS 27.19.020
+or an approved reclamation plan under
+AS 27.19.030</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

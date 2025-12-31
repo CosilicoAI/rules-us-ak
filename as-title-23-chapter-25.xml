@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-23/chapter-25"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-23/chapter-25"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="23.25"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-23/chapter-25/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-23/chapter-25/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-23/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-23/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_23">
+        <num>23</num>
+        <heading>Labor and Workers' Compensation</heading>
+        <chapter eId="title_23__chp_25">
+          <num>25</num>
+          <heading>Employer's Liability for Negligence</heading>
+          <section eId="sec_23-25-010">
+            <num>23.25.010</num>
+            <heading>Liability to employees for defects or insufficiency of machinery.</heading>
+            <content>
+              <p>Sec. 23.25.010.   Liability to employees for defects or insufficiency of machinery.
+A person engaged in manufacturing, mining, constructing, building, or other business or occupation carried on by means of machinery or mechanical appliances is liable to an employee or, in the event of the employee's death, to the employee's personal representative for the benefit of the employee's surviving spouse and children, if any, or if none, then for the employee's parents, or, if neither surviving spouse, nor children nor parents, then for the employee's next of kin dependent upon the employee, for all damages that may result from the negligence of any of the employer's officers, agents, or employees, or by reason of defect or insufficiency due to the employer's negligence in the machinery, appliances, and works.</p>
+            </content>
+          </section>
+          <section eId="sec_23-25-020">
+            <num>23.25.020</num>
+            <heading>Contributory negligence not a defense.</heading>
+            <content>
+              <p>Sec. 23.25.020.   Contributory negligence not a defense.
+In an action against a master or employer under
+AS 23.25.010
+the fact that the employee may have been guilty of contributory negligence does not bar a recovery where the employee's contributory negligence was slight and the negligence of the employer was gross in comparison, but the damages shall be diminished by the jury in proportion to the amount of negligence attributable to the employee.  All questions of negligence and contributory negligence are for the jury.</p>
+            </content>
+          </section>
+          <section eId="sec_23-25-030">
+            <num>23.25.030</num>
+            <heading>Contract, insurance, or indemnity is not a defense.</heading>
+            <subsection eId="23-25-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>No contract of employment, insurance, relief benefit, indemnity for injury or death entered into by or on behalf of an employee, nor the acceptance of insurance, relief benefit, or indemnity by the person entitled to it constitutes a bar or defense to an action brought to recover damages for personal injuries to or death of the employee.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-25-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon trial of the action the defendant may set off the sum contributed by the employer toward the insurance, relief benefit, or indemnity paid to the employee, or in case of the employee's death to the employee's personal representative.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-25-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Contributions for insurance, relief benefit, or indemnity exacted from or paid by the employee may not be allowed as set off.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_23-25-040">
+            <num>23.25.040</num>
+            <heading>Prerequisites to maintenance of action.</heading>
+            <content>
+              <p>Sec. 23.25.040.   Prerequisites to maintenance of action.
+An action may not be maintained under this chapter unless
+(1) it is shown that there exist beneficiaries as provided in
+AS 23.25.010
+;
+(2) the action is brought within two years from the time the cause of action accrued.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

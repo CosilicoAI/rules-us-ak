@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-38"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-38"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.38"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-38/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-38/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-38/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-38/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_38">
+          <num>38</num>
+          <heading>Alcohol and Substance Abuse Accountability</heading>
+          <section eId="sec_47-38-010">
+            <num>47.38.010</num>
+            <heading>Cooperation with the Department of Corrections.</heading>
+            <content>
+              <p>Sec. 47.38.010.   Cooperation with the Department of Corrections.
+The department shall cooperate with the Department of Corrections in establishing and conducting programs to provide treatment for alcoholics, intoxicated persons, drug abusers, and inhalant abusers who are on conditions of release as provided in
+AS 12.30
+or on probation.</p>
+            </content>
+          </section>
+          <section eId="sec_47-38-020">
+            <num>47.38.020</num>
+            <heading>Alcohol and substance abuse monitoring program.</heading>
+            <subsection eId="47-38-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner, in cooperation with the commissioner of corrections, shall establish a program using a competitive procurement process for certain persons with release conditions ordered as provided under
+AS 12.30
+, or offenders with conditions of probation, that include not consuming controlled substances or alcoholic beverages.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-38-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall adopt regulations to implement the program. The regulations must include regulations regarding products and services that provide alcohol and substance abuse monitoring.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-38-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner shall include in the program</p>
+              </content>
+              <paragraph eId="47-38-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a requirement for twice-a-day testing, either remotely or in person, for alcoholic beverage use and random testing for controlled substances;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-38-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a means to provide the probation officer, prosecutor's office, or local law enforcement agency with notice within 24 hours, so that a complaint may be filed alleging a violation of
+AS 11.56.757
+, a petition may be filed with the court seeking appropriate sanctions and may be scheduled by the court for a prompt hearing, or an arrest warrant may be issued for the person on release or offender with conditions of probation provided in this subsection, if the person or offender
+(A) fails to appear for an appointment or fails to complete a test through the use of remote alcohol or substance abuse monitoring technology as required by the program requirements; or
+(B) tests positive for the use of controlled substances or alcoholic beverages; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-38-020__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a requirement that the person or offender pay, based on the person's or offender's ability under financial guidelines established by the commissioner, for the cost of participating in the program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-38-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department shall contract with one or more vendors using a competitive procurement process in accordance with
+AS 36.30
+(State Procurement Code) to provide or conduct the testing required under (c) of this section.
+Article 2. Recidivism Reduction Program.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-38-100">
+            <num>47.38.100</num>
+            <heading>Recidivism reduction program.</heading>
+            <subsection eId="47-38-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The recidivism reduction program is established to promote the rehabilitation of persons on probation or parole or incarcerated for offenses and recently released from correctional facilities.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-38-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner, in cooperation with the Alaska Criminal Justice Data Analysis Commission established in
+AS 44.19.641
+, may provide for programs that have, as a primary focus, rehabilitation and reduction of recidivism for persons on probation or parole or incarcerated for offenses and recently released from correctional facilities. The commissioner may enter into contracts to provide for programs under this section. An eligible program under this section must accomplish at least one of the following objectives:</p>
+              </content>
+              <paragraph eId="47-38-100__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>increasing access to evidence-based rehabilitation programs, including drug and alcohol treatment, mental health treatment, and cognitive behavioral programs; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-38-100__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>supporting offenders' transition and re-entry from correctional facilities to the community, including transitional housing services, employment services, vocational training, educational support, counseling, and medical care.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-38-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner and the commissioner of corrections shall prepare a joint annual report on the program provided under (a) of this section, and notify the legislature on or before January 15 of each year that the report is available. The report must include an analysis of the program's effects on recidivism for program participants.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-38-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, evidenced-based means a program or practice that offers a high level of research on effectiveness.
+Article 3. General Provisions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-38-190">
+            <num>47.38.190</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 47.38.190.   Regulations.
+The department may adopt regulations necessary to implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_47-38-199">
+            <num>47.38.199</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 47.38.199.   Definitions.
+In this chapter,
+(1) commissioner means the commissioner of health;
+(2) department means the Department of Health.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

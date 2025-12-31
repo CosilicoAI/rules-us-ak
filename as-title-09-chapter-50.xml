@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-50"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-50"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="9.50"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-50/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-50/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_9">
+        <num>9</num>
+        <heading>Code of Civil Procedure</heading>
+        <chapter eId="title_9__chp_50">
+          <num>50</num>
+          <heading>Actions Where State a Party</heading>
+          <section eId="sec_09-50-010">
+            <num>09.50.010</num>
+            <heading>Acts or omissions constituting contempt.</heading>
+            <content>
+              <p>Sec. 09.50.010.   Acts or omissions constituting contempt.
+The following acts or omissions with respect to a court of justice or court proceedings are contempts of the authority of the court:
+(1) disorderly, contemptuous, or insolent behavior toward the judge while holding the court, tending to impair its authority or to interrupt the course of a trial or other judicial proceeding;
+(2) a breach of the peace, boisterous conduct, or violent disturbance, tending to interrupt the course of a trial or other judicial proceeding;
+(3) misbehavior in office, or other wilful neglect or violation of duty by an attorney, clerk, peace officer, or other person appointed or elected to perform a judicial or ministerial service;
+(4) deceit or abuse of the process or proceedings of the court by a party to an action or proceeding;
+(5) disobedience of a lawful judgment, order, or process of the court;
+(6) falsely pretending to act under authority to an order or process of the court;
+(7) rescuing a person or property in the custody of an officer by virtue of an order or process of the court;
+(8) unlawfully detaining a witness or party to an action or proceeding while going to, remaining at, or returning from the court where the witness or party is for trial;
+(9) any other unlawful interference with the process or proceedings of the court;
+(10) disobedience of a subpoena duly served, or refusing to be sworn or answer as a witness;
+(11) when summoned as a juror in a court, neglecting to attend or serve, or improperly conversing with a party to an action or proceeding to be tried at the court or with another person in relation to the merits of the action, or receiving a communication from a party or other person in respect to it without immediately disclosing it to the court;
+(12) disobedience by an inferior court, judge, magistrate, referee, master, or officer of the lawful judgment, order, or process of a higher court, or proceeding in an action or proceeding contrary to law after the action or proceeding is removed from the jurisdiction of that inferior court, judge, magistrate, or officer.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-020">
+            <num>09.50.020</num>
+            <heading>Penalties; damages; license revocation.</heading>
+            <subsection eId="09-50-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who commits a criminal contempt is guilty of a class A misdemeanor. A person who commits a civil contempt is subject to damages, a civil penalty of $5,000 or less for each violation, and other orders as the court finds appropriate.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-50-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to the penalty specified in (a) of this section, the court may suspend, restrict, or revoke, for a period not to exceed six months, a driver's license as defined in
+AS 28.90.990
+, a license as defined in
+AS 25.27.244
+(s), or a recreational license, or any combination of these licenses, or the person's ability to obtain the licenses, if</p>
+              </content>
+              <paragraph eId="09-50-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the person is a natural person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the contempt is one under
+AS 09.50.010</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-020__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p> (10); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-020__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the court, sitting without a jury, finds by a preponderance of evidence that the contempt related to failure to pay money in connection with a child support action or proceeding or failure to comply with a subpoena or warrant relating to a paternity or child support proceeding.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-50-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, recreational license means a recreational fishing license or recreational hunting license. In this subsection,</p>
+              </content>
+              <paragraph eId="09-50-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>recreational fishing license means a sport fishing license under
+AS 16.05.340
+unless that license is required for participation in personal use fishing, as defined in
+AS 16.05.940
+, or subsistence fishing, as defined in
+AS 16.05.940
+and modified by decisions of the Alaska Supreme Court;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>recreational hunting license means a hunting license under
+AS 16.05.340
+unless that license is required for participation in subsistence hunting, as defined in
+AS 16.05.940
+and modified by decisions of the Alaska Supreme Court.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_09-50-030">
+            <num>09.50.030</num>
+            <heading>Jury trial.</heading>
+            <content>
+              <p>Sec. 09.50.030.   Jury trial.
+A person who is charged with contempt of court not committed in the presence of the court, where the act or thing so charged as a contempt is of such nature as to constitute also a criminal offense under a statute of the United States or a law of this state, has a right to jury trial.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-040">
+            <num>09.50.040</num>
+            <heading>Indemnification of party aggrieved.</heading>
+            <content>
+              <p>Sec. 09.50.040.   Indemnification of party aggrieved.
+If a loss or injury to a party in an action or proceeding has been caused by the contempt, the court, in addition to the punishment imposed for the contempt, may give judgment in favor of the party aggrieved and against the person guilty of contempt for a sum of money sufficient to indemnify that party and to satisfy the costs and disbursements of that party.  The judgment and the acceptance of that amount is a bar to an action or proceeding by the aggrieved party for the loss or injury.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-050">
+            <num>09.50.050</num>
+            <heading>Imprisonment to compel performance of an act.</heading>
+            <content>
+              <p>Sec. 09.50.050.   Imprisonment to compel performance of an act.
+When the contempt consists of the omission or refusal to perform an act which is yet in the power of the defendant to perform, the defendant may be imprisoned until the defendant has performed it.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-060">
+            <num>09.50.060</num>
+            <heading>Prosecution on nonappearance.</heading>
+            <content>
+              <p>Sec. 09.50.060.   Prosecution on nonappearance.
+If the defendant does not appear on the day ordered by the court, the court may order the undertaking to be prosecuted. If the undertaking is prosecuted, the measure of damages is the extent of the loss or injury sustained by the aggrieved party by reason of the misconduct for which the warrant was issued and the costs of the proceeding.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-170">
+            <num>09.50.170</num>
+            <heading>Abatement of places used for certain acts.</heading>
+            <subsection eId="09-50-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who erects, establishes, continues, maintains, uses, owns, or leases a building, structure, or other place used for one of the following activities is guilty of maintaining a nuisance, and the building, structure, or place, or the ground itself in or upon which or in any part of which the activity is conducted, permitted, carried on, continues, or exists, and its furniture, fixtures, and other contents, constitute a nuisance and may be enjoined and abated:</p>
+              </content>
+              <paragraph eId="09-50-170__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>prostitution;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-170__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an illegal activity involving a place of prostitution; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-170__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an illegal activity involving
+(A) alcoholic beverages;
+(B) a controlled substance;
+(C) an imitation controlled substance; or
+(D) gambling or promoting gambling.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-50-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, illegal activity involving alcoholic beverages, illegal activity involving a controlled substance, illegal activity involving gambling or promoting gambling, illegal activity involving an imitation controlled substance, illegal activity involving a place of prostitution, and prostitution have the meanings given in
+AS 34.03.360
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-50-175">
+            <num>09.50.175</num>
+            <heading>Admissibility of evidence to prove nuisance.</heading>
+            <subsection eId="09-50-175__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to prove the existence of a nuisance, the court may consider</p>
+              </content>
+              <paragraph eId="09-50-175__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>evidence of reputation within a community;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-175__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>evidence derived from records of the courts of the state or of the United States that relate to previous complaints concerning alleged violations of, and to arrests for or convictions of violations of, laws based on activity set out in
+AS 09.50.170
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_09-50-180">
+            <num>09.50.180</num>
+            <heading>Injunction.</heading>
+            <content>
+              <p>Sec. 09.50.180.   Injunction.
+When there is reason to believe that a nuisance as defined in
+AS 09.50.170
+ 09.50.240 exists, the attorney general shall, or a citizen, or a home rule municipality if the nuisance is located in the home rule municipality, may, bring an action to perpetually enjoin the nuisance, the person maintaining it, and the owner, lessee, or agent of the building or group upon which the nuisance exists.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-190">
+            <num>09.50.190</num>
+            <heading>Dismissal.</heading>
+            <content>
+              <p>Sec. 09.50.190.   Dismissal.
+If the complaint is filed by a citizen, the action may be dismissed only upon approval of the attorney general and affidavit of the complainant and the complainant's attorney giving the reasons why the suit should be dismissed.  The court may refuse to dismiss the suit and may direct the attorney general to prosecute the action.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-200">
+            <num>09.50.200</num>
+            <heading>Contempt proceeding.</heading>
+            <content>
+              <p>Sec. 09.50.200.   Contempt proceeding.
+If an injunction granted under the provisions of
+AS 09.50.170
+ 09.50.240 is violated, the court may summarily try and punish the offender.  A party found guilty of contempt under the provisions of
+AS 09.50.170
+ 09.50.240 is punishable by a fine of not more than $1,000, or by imprisonment for not less than three months nor more than six months, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-210">
+            <num>09.50.210</num>
+            <heading>Order of abatement.</heading>
+            <subsection eId="09-50-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the court finds and enters judgment that a nuisance exists, the court shall enter an order of abatement. The order of abatement must direct</p>
+              </content>
+              <paragraph eId="09-50-210__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>termination of the lease or rental agreement, if any, on the premises subject to the order of abatement, if the tenant who occupies under the lease or rental agreement has been given notice of the proceedings under
+AS 09.50.170
+ 09.50.240;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-210__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the removal from the building or place of the fixtures, furniture, and movable property used in the nuisance and their sale in the manner provided for the sale of chattels under execution;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-210__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the closing of the building or place against its use for any purpose for a period of one year unless sooner released.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-50-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who breaks and enters or uses a building, structure, or other place directed to be closed by an order entered under (a)(3) of this section is guilty of contempt and shall be punished for contempt as provided in
+AS 09.50.200
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-50-220">
+            <num>09.50.220</num>
+            <heading>Proceeds of sale.</heading>
+            <subsection eId="09-50-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The proceeds of the sale of the contents shall be applied as follows:</p>
+              </content>
+              <paragraph eId="09-50-220__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to the payment of fees and costs of the removal and sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-220__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to payment of the allowances and costs of closing and keeping closed the buildings or places;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-220__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to the payment of plaintiff's costs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-220__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to the payment of any balance remaining to the owner of the property sold.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-50-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the proceeds do not fully discharge all the costs, fees, and allowances, the premises may also be sold under execution issued upon the order of the court and the proceeds of the sale applied in like manner.  However, the building or realty in which the nuisance is conducted or real estate on which it stands may not be subject to a lien, judgment, or costs unless the owner, or an agent or representative of the owner, has been duly served with process in the action and been given an opportunity to show good faith and to immediately abate the nuisance.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-50-230">
+            <num>09.50.230</num>
+            <heading>Release of premises to owner.</heading>
+            <subsection eId="09-50-230__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The court may order premises abated under
+AS 09.50.210
+delivered to the owner and cancel the order of abatement if the owner of the premises</p>
+              </content>
+              <paragraph eId="09-50-230__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has not been guilty of a contempt in the proceedings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-230__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>appears and pays all costs, fees, and allowances that are a lien on the premises; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-230__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>files a bond with sureties approved by the court in an amount determined by the court to the effect that the owner will abate the nuisance that exists at the building or place and prevent the nuisance from being established within a period of one year thereafter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-50-230__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The lease of the property does not release it from a judgment, lien, penalty, or liability to which it may be subject by law.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-50-230__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A cancellation of the order of abatement does not affect a termination of a lease or rental agreement made under
+AS 09.50.210
+(a)(1).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-50-240">
+            <num>09.50.240</num>
+            <heading>Fine for contempt as lien on premises.</heading>
+            <content>
+              <p>Sec. 09.50.240.   Fine for contempt as lien on premises.
+A fine imposed as punishment for contempt against the owner is a lien upon the premises to the extent of the interest of that person in the premises and is enforceable and collectible by execution issued by the order of the court.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-250">
+            <num>09.50.250</num>
+            <heading>Actionable claims against the state.</heading>
+            <content>
+              <p>Sec. 09.50.250.   Actionable claims against the state.
+A person or corporation having a contract, quasi-contract, or tort claim against the state may bring an action against the state in a state court that has jurisdiction over the claim. A person who may present the claim under
+AS 44.77
+may not bring an action under this section except as set out in
+AS 44.77.040
+(c). A person who may bring an action under
+AS 36.30.560
+ 36.30.695 may not bring an action under this section except as set out in
+AS 36.30.685
+. However, an action may not be brought if the claim
+(1) is an action for tort, and is based upon an act or omission of an employee of the state exercising due care in the execution of a statute or regulation, whether or not the statute or regulation is valid; or is an action for tort, and based upon the exercise or performance or the failure to exercise or perform a discretionary function or duty on the part of a state agency or an employee of the state, whether or not the discretion involved is abused;
+(2) is for damages caused by the imposition or establishment of, or the failure to impose or establish, a quarantine or isolation, or by other actions, by the state or its agents, officers, or employees under
+AS 18.15.355
+ 18.15.395, except for damages caused by negligent medical treatment provided under
+AS 18.15.355
+ 18.15.395 by a state employee, or except that, if a state employee quarantines or isolates a person with gross negligence or in intentional violation of
+AS 18.15.385
+, the state shall pay to the person who was quarantined or isolated a penalty of $500 for each day of the improper quarantine;
+(3) arises out of assault, battery, false imprisonment, false arrest, malicious prosecution, abuse of process, libel, slander, misrepresentation, deceit, or interference with contract rights;
+(4) arises out of the use of an ignition interlock device certified under
+AS 33.05.020
+(c); or
+(5) arises out of injury, illness, or death of a seaman that occurs or manifests itself during or in the course of, or arises out of, employment with the state;
+AS 23.30
+provides the exclusive remedy for such a claim, and no action may be brought against the state, its vessels, or its employees under the Jones Act (46 U.S.C. 30104  30105), in admiralty, or under the general maritime law.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-253">
+            <num>09.50.253</num>
+            <heading>Actionable claims against state employees.</heading>
+            <subsection eId="09-50-253__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (f) of this section, the remedy against the state provided by
+AS 09.50.250
+for injury or loss of property or personal injury or death arising or resulting from an act or omission of a state employee while acting within the scope of the employee's office or employment is exclusive of any other civil action or proceeding for money damages by reason of the same subject matter against the employee whose act or omission gave rise to the claim or against the estate of the employee. Any other civil action or proceeding for money damages arising out of or relating to the same subject matter against the employee or the employee's estate is precluded without regard to when the act or omission occurred.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-50-253__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A state employee against whom a civil action or proceeding is brought under (a) of this section shall deliver all pleadings and process served upon the employee, or a copy of the papers served, to the person designated by the head of the employee's agency to receive the papers and to the attorney general. The state employee shall deliver these documents within the time period established by the attorney general in a regulation adopted under this section. The initial delivery of these documents to the attorney general constitutes an agreement by the employee to cooperate with the attorney general in the state employee's defense of the action or proceeding and a consent that the attorney general conduct the defense as the attorney general considers advisable and in the best interests of the employee, including settlement in the attorney general's discretion.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-50-253__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon certification by the attorney general that the state employee was acting within the scope of the employee's office or employment at the time of the incident out of which the claim arose, any civil action or proceeding commenced upon the claim in a state court is considered an action or proceeding against the state under the provisions of this title, and the state is substituted as the party defendant. The civil action or proceeding certified under this subsection is subject to the same limitations and defenses applicable to an action or proceeding against the state. The attorney general or the attorney general's designee shall defend the civil action or proceeding on behalf of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-50-253__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the attorney general refuses to make the certification under (c) of this section, the state employee may, at any time before trial, petition the superior court to find and certify that the employee was acting within the scope of the employee's office or employment at the time of the incident out of which the claim arose. Upon certification by the court, the civil action is considered to be a civil action or proceeding brought against the state under the provisions of this title, and the state is substituted as the party defendant. Upon certification by the court, the state shall reimburse the state employee the employee's reasonable costs and attorney fees incurred in bringing the petition. A copy of the petition under this subsection shall be served upon the state in accordance with the provisions of Rule 4(d)(7), Alaska Rules of Civil Procedure. The petition to the superior court is the exclusive remedy to challenge the noncertification decision by the attorney general of a state employee under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-50-253__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A claim or suit for damages may not be filed against the state or the attorney general arising out of the process for certification under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-50-253__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>This section does not extend or apply to a civil action or proceeding against an employee of the state that is brought for a violation of the Constitution of the United States or that is brought for a violation of a law of the state under which an action or proceeding against an employee is expressly authorized.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-50-253__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The provisions of this section are in addition to and do not supersede a term in a state employee collective bargaining agreement addressing legal defense and indemnity.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-50-253__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="09-50-253__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>acting within the scope of the employee's office or employment means acts or omissions
+(A) that the state employee is employed or authorized to perform;
+(B) of the state employee that occur substantially within the authorized time and space limit;
+(C) that are activated by a purpose to serve the state; and
+(D) that do not constitute acting, or failing to act, with wilful, reckless, or intentional misconduct, or with gross negligence or malice;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-50-253__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>state employee
+(A) means</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-50-253__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a permanent, probationary, seasonal, temporary, provisional, or nonpermanent employee in the executive, legislative, or judicial branch of state government, whether in the classified, partially exempt, or exempt service; or
+(ii) a person appointed to a board or commission of state government;
+(B) does not include an employee of</p>
+              </content>
+            </subsection>
+            <subsection eId="09-50-253__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the University of Alaska;
+(ii) the Alaska Railroad Corporation; or
+(iii) a political subdivision of the state, including a regional educational attendance area.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-50-270">
+            <num>09.50.270</num>
+            <heading>Payment of judgment against the state.</heading>
+            <content>
+              <p>Sec. 09.50.270.   Payment of judgment against the state.
+An attachment or execution may not issue against the state. When a final judgment is rendered against the state in an action, the clerk of the court shall immediately transmit a certified copy of the judgment to the Department of Administration which shall either approve payment of the judgment against the state if a sufficient appropriation exists for payment, or audit the amount and transmit a copy to the legislature with the recommendation that an appropriation be made for its payment.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-280">
+            <num>09.50.280</num>
+            <heading>Judgment for plaintiff; punitive damages.</heading>
+            <content>
+              <p>Sec. 09.50.280.   Judgment for plaintiff; punitive damages.
+If judgment is rendered for the plaintiff, it shall be for the legal amount found due from the state with interest as provided under
+AS 09.30.070
+and without punitive damages.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-300">
+            <num>09.50.300</num>
+            <heading>Compromise by attorney general.</heading>
+            <content>
+              <p>Sec. 09.50.300.   Compromise by attorney general.
+Except as provided in
+AS 09.50.253
+, the attorney general may, with the approval of the court, arbitrate, compromise, or settle any action filed under
+AS 09.50.250
+ 09.50.300.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-310">
+            <num>09.50.310</num>
+            <heading>Action for usurpation of office or franchise.</heading>
+            <content>
+              <p>Sec. 09.50.310.   Action for usurpation of office or franchise.
+An action may be brought by the attorney general upon the attorney general's own information or upon complaint of a private party against (1) a person who usurps, intrudes into, or unlawfully holds or exercises a public office, civil or military, or a franchise, or an office in a corporation, either public or private; (2) a public officer who has acted to forfeit the office; or (3) any number of persons acting as a corporation without being incorporated.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-320">
+            <num>09.50.320</num>
+            <heading>Action on information or application of private party.</heading>
+            <content>
+              <p>Sec. 09.50.320.   Action on information or application of private party.
+When the action is brought upon the information or application of a private party, the attorney general may require that party to enter into an undertaking with sureties to be approved by the attorney general, conditioned on that party's paying a judgment for costs or damages recovered against the plaintiff and costs and expenses incurred in the prosecution of the action.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-330">
+            <num>09.50.330</num>
+            <heading>Determination of rights of defendant and claimant.</heading>
+            <content>
+              <p>Sec. 09.50.330.   Determination of rights of defendant and claimant.
+When the action is brought and the claim is made that another person is rightfully entitled to the office, judgment may be given upon the right of the defendant and also upon the right of the person so claimed to be entitled, or only upon the right of the defendant as justice may require.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-340">
+            <num>09.50.340</num>
+            <heading>Judgment for claimant.</heading>
+            <content>
+              <p>Sec. 09.50.340.   Judgment for claimant.
+If judgment is for the person claiming the franchise or office, that person is entitled to the possession and enjoyment of the franchise, or to assume the execution of the office after qualifying as required by law.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-350">
+            <num>09.50.350</num>
+            <heading>Recovery of damages by claimant; civil arrest.</heading>
+            <content>
+              <p>Sec. 09.50.350.   Recovery of damages by claimant; civil arrest.
+If judgment is for the person claiming the franchise or office, that person may recover the damages that may have been sustained by reason of the usurpation of the office by the defendant.  In the action, the defendant may be provisionally arrested and held to bail in the manner as in actions where the defendant is subject to arrest.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-360">
+            <num>09.50.360</num>
+            <heading>Multiple claimants.</heading>
+            <content>
+              <p>Sec. 09.50.360.   Multiple claimants.
+When several persons claim to be entitled to the same office or franchise, one action may be brought against all those persons in order to try their respective rights to that office or franchise.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-370">
+            <num>09.50.370</num>
+            <heading>Judgment against defendant.</heading>
+            <content>
+              <p>Sec. 09.50.370.   Judgment against defendant.
+If a defendant is adjudged guilty of usurping or intruding into or unlawfully holding or exercising an office or franchise, judgment shall be given that the defendant be excluded from holding or exercising the office or franchise. The court may also, in its discretion, impose a fine upon the defendant of not more than $2,000.  If a corporation is defendant and a judgment is given that causes the corporation to cease to exist, the corporation shall dissolve.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-380">
+            <num>09.50.380</num>
+            <heading>Enforcement of judgment for costs.</heading>
+            <content>
+              <p>Sec. 09.50.380.   Enforcement of judgment for costs.
+A judgment given in an action provided for in
+AS 09.50.310
+ 09.50.380 in respect to costs and disbursements may be enforced by execution as a judgment that requires the payment of money.</p>
+            </content>
+          </section>
+          <section eId="sec_09-50-390">
+            <num>09.50.390</num>
+            <heading>Nature of state interest.</heading>
+            <content>
+              <p>Sec. 09.50.390.   Nature of state interest.
+A complaint or pleading naming the State of Alaska as a defendant must set out, with such particularity as reasonably available information will permit, the nature of the interest or lien of the state. In actions or suits involving liens of the state, the complaint or pleading must include the name and address, if known, of the person whose liability created the lien and, if a notice of the lien was recorded, the amount shown on the lien, the department of the state government involved, the recording district, and the book and page on which the lien was recorded or the serial number assigned to the lien by the recorder.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-35/chapter-05"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-35/chapter-05"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="35.05"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-35/chapter-05/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-35/chapter-05/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-35/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-35/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_35">
+        <num>35</num>
+        <heading>Public Buildings, Works, and Improvements</heading>
+        <chapter eId="title_35__chp_05">
+          <num>05</num>
+          <heading>Administration</heading>
+          <section eId="sec_35-05-010">
+            <num>35.05.010</num>
+            <heading>Planning and procurement.</heading>
+            <content>
+              <p>Sec. 35.05.010.   Planning and procurement.
+The department is responsible for the planning and procurement of public works through lease or construction except as provided for court facilities in
+AS 22.05.025
+. Contracts for planning and procurement of public works are governed by
+AS 36.30
+(State Procurement Code).</p>
+            </content>
+          </section>
+          <section eId="sec_35-05-020">
+            <num>35.05.020</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 35.05.020.   Regulations.
+The department shall adopt regulations that it considers necessary to carry out the purpose of this title.  The regulations may not conflict with
+AS 36.30
+(State Procurement Code) or the regulations adopted by the Department of Administration under that chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_35-05-030">
+            <num>35.05.030</num>
+            <heading>Duties of department.</heading>
+            <content>
+              <p>Sec. 35.05.030.   Duties of department.
+The department has the following powers and duties:
+(1) direct approved public works planning and construction;
+(2) employ assistants and employees;
+(3) certify and approve vouchers;
+(4) prepare a departmental budget;
+(5) review the annual public works program.</p>
+            </content>
+          </section>
+          <section eId="sec_35-05-040">
+            <num>35.05.040</num>
+            <heading>Powers of department.</heading>
+            <content>
+              <p>Sec. 35.05.040.   Powers of department.
+The department may
+(1) acquire property;
+(2) exercise the power of eminent domain;
+(3) take immediate possession of real property, or any interest in it under a declaration of taking or by other lawful means;
+(4) acquire rights-of-way for present or future use;
+(5) dispose of excess property or property rights;
+(6) accept and dispose of federal funds or property available for public works construction, maintenance, or equipment;
+(7) enter into contracts or agreements relating to public works with the federal government and political subdivisions, and also enter into contracts with a foreign government if approved by the federal government;
+(8) exercise any other power necessary to carry out the purpose of this title;
+(9) lease or grant land or any interest in land to the Alaska Housing Finance Corporation for a purpose set out in
+AS 18.55.100
+ 18.55.960 on terms and conditions prescribed by the department;
+(10) procure directly materials, labor, and contractual services for planning, designing, leasing, and constructing public facilities of the state;
+(11) by lease under
+AS 36.30
+(State Procurement Code), procure and manage public facilities for state use.</p>
+            </content>
+          </section>
+          <section eId="sec_35-05-050">
+            <num>35.05.050</num>
+            <heading>Federal aid.</heading>
+            <content>
+              <p>Sec. 35.05.050.   Federal aid.
+Legislative assent to federal aid for the state, including aid given to the state through a department or agency of the federal government, is given.  The department may apply for, contract, and do all things necessary to cooperate with the United States Government for the construction of public works under federal Acts.</p>
+            </content>
+          </section>
+          <section eId="sec_35-05-060">
+            <num>35.05.060</num>
+            <heading>State assumption of nonfederal flood control project costs.</heading>
+            <content>
+              <p>Sec. 35.05.060.   State assumption of nonfederal flood control project costs.
+To the extent that funds are made available by the legislature, the state shall assume 90 percent of the nonfederal costs of planning, land acquisition, construction, and maintenance of flood control projects authorized within the state by the United States, except that the state shall assume the full share of nonfederally funded costs with respect to those facilities that are primarily state responsibilities, including highways and roads, parks and recreation, and fish and game facilities. The state shall participate in federal flood control projects under this section only as to those projects authorized and approved by the department.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

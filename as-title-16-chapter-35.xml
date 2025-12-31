@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-35"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-35"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="16.35"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-35/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-35/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_16">
+        <num>16</num>
+        <heading>Fish and Game</heading>
+        <chapter eId="title_16__chp_35">
+          <num>35</num>
+          <heading>Predatory Animals</heading>
+          <section eId="sec_16-35-200">
+            <num>16.35.200</num>
+            <heading>Use of poison to kill predatory animals.</heading>
+            <content>
+              <p>Sec. 16.35.200.   Use of poison to kill predatory animals.
+A department, other state agency, or person may not use poison to kill predatory animals without first obtaining the written consent of the appropriate board.</p>
+            </content>
+          </section>
+          <section eId="sec_16-35-210">
+            <num>16.35.210</num>
+            <heading>Nonindigenous fish.</heading>
+            <subsection eId="16-35-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not knowingly release, or transport, possess, import, or export for the purpose of release, into the water of the state live nonindigenous fish or live fertilized eggs of nonindigenous fish, unless permitted by
+AS 16.05
+
+AS 16.40
+or by a regulation adopted under
+AS 16.05
+
+AS 16.40
+. This subsection does not apply to</p>
+              </content>
+              <paragraph eId="16-35-210__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a fisherman who catches and releases a fish into the water from which the fish was taken; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="16-35-210__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>generally accepted conduct in relation to permitted salt water commercial or sport fishing.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="16-35-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not knowingly rear live ornamental fish in, or release live ornamental fish into, the water of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="16-35-210__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who violates this section is guilty of a class A misdemeanor.</p>
+              </content>
+            </subsection>
+            <subsection eId="16-35-210__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In addition to the penalty imposed under (c) of this section, a person who is convicted of violating this section may be ordered by the court to pay restitution to the state to cover the costs of damages to fishery resources of the state and of removing the introduced fish species from the water of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="16-35-210__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="16-35-210__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>knowingly has the meaning given in
+AS 11.81.900
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="16-35-210__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>nonindigenous fish means a species of fish that is not native to the body of water in which the fish is released or is intended to be released;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="16-35-210__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>ornamental fish means an aquatic finfish, commonly referred to as tropical fish, aquarium fish, or goldfish, an aquatic invertebrate, or an amphibian that is imported, cultured, or sold in the state customarily for viewing in an aquarium or for raising in an artificial containment system and that is not customarily used for sport fishing in the state or used for human consumption;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="16-35-210__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>water of the state means any water of the state forming a river, stream, lake, pond, slough, creek, bay, sound, estuary, inlet, strait, passage, canal, sea, or ocean, or any other body of water or waterway within the territorial limits of the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

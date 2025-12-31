@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-23/chapter-50"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-23/chapter-50"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="23.50"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-23/chapter-50/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-23/chapter-50/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-23/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-23/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_23">
+        <num>23</num>
+        <heading>Labor and Workers' Compensation</heading>
+        <chapter eId="title_23__chp_50">
+          <num>50</num>
+          <heading>Collective Negotiation by Physicians</heading>
+          <section eId="sec_23-50-010">
+            <num>23.50.010</num>
+            <heading>Legislative findings.</heading>
+            <subsection eId="23-50-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The legislature finds that permitting competing physicians to engage in collective negotiation of certain terms and conditions of contracts with a health benefit plan will benefit competition, so long as the physicians do not engage in an express or implied threat of retaliatory collective action, including boycotts or strikes.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The legislature finds that permitting physicians to engage in collective negotiations over fee-related terms may, in some circumstances, yield anticompetitive effects. There are, however, instances in which a health benefit plan dominates the market to the degree that fair negotiations between physicians and the health benefit plan are not possible in the absence of joint action on behalf of the physicians. In those circumstances, the health benefit plan can virtually dictate the terms of the contracts that it offers to physicians.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The legislature finds that it is appropriate and necessary to authorize collective negotiations between competing physicians and health benefit plans when the imbalances in bargaining capacity described in this section exist.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_23-50-020">
+            <num>23.50.020</num>
+            <heading>Collective action by competing physicians.</heading>
+            <subsection eId="23-50-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Competing physicians may meet and communicate in order to collectively negotiate with a health benefit plan concerning any of the contract terms and conditions described in this subsection, but may not negotiate the exclusion of providers who are non-physicians from direct reimbursement by a health benefit plan, and may not negotiate the setting in which providers who are non-physicians deliver services. Competing physicians may not engage in a boycott related to these terms and conditions. Competing physicians may meet and communicate concerning</p>
+              </content>
+              <paragraph eId="23-50-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>physician clinical practice guidelines and coverage criteria;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the respective liability of physicians and the health benefit plan for the treatment or lack of treatment of insured or enrolled persons;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>administrative procedures, including methods and timing of the payment of services to physicians;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>procedures for the resolution of disputes between the health benefit plan and physicians;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>patient referral procedures;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the formulation and application of reimbursement methodology;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>quality assurance programs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>health service utilization review procedures; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>criteria to be used by health benefit plans for the selection and termination of physicians, including whether to engage in selective contracting.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="23-50-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An authorized third party that intends to negotiate with a health benefit plan the items identified under (a) of this section shall provide the attorney general with written notice of the intended negotiations before the negotiations begin.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In exercising the collective rights granted by (a) of this section,</p>
+              </content>
+              <paragraph eId="23-50-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>physicians may communicate with each other with respect to the contractual terms and conditions to be negotiated with a health benefit plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>physicians may communicate with an authorized third party regarding the terms and conditions of contracts allowed under this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the authorized third party is the sole party authorized to negotiate with a health benefit plan on behalf of a defined group of physicians;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>physicians can be bound by the terms and conditions negotiated by the authorized third party that represents their interests;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a health benefit plan communicating or negotiating with the authorized third party may contract with, or offer different contract terms and conditions to, individual competing physicians;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>an authorized third party may not represent more than 30 percent of the market of practicing physicians for the provision of services in the geographic service area or proposed geographic service area, if the health benefit plan has less than a five percent market share as determined by the number of covered lives as reported by the director of insurance for the most recently completed calendar year or by the actual number of consumers of prepaid comprehensive health services; in this paragraph, covered lives means the total number of individuals who are entitled to benefits under the health benefit plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the attorney general may limit the percentage of practicing physicians represented by an authorized third party; however, the limitation may not be less than 30 percent of the market of practicing physicians in the geographic service area or proposed geographic service area; when determining whether to impose a limitation described under this paragraph, the attorney general shall consider the provisions described under (f)  (h) of this section; this paragraph does not apply if the market of practicing physicians in the geographic service area or proposed geographic service area consists of 40 or fewer individuals; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the authorized third party shall comply with the provisions of (d) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="23-50-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person acting or proposing to act as an authorized third party under this section shall,</p>
+              </content>
+              <paragraph eId="23-50-020__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>before engaging in collective negotiations with a health benefit plan,
+(A) file with the attorney general the information that identifies the authorized third party, the physicians represented by the third party, the authorized third party's plan of operation, and the authorized third party's procedures to ensure compliance with this section;
+(B) furnish to the attorney general, for the attorney general's approval, a brief report that identifies the proposed subject matter of the negotiations or discussions with a health benefit plan and that contains an explanation of the efficiencies or benefits that are expected to be achieved through the collective negotiations; the attorney general shall review whether the group of physicians represented by the authorized third party is appropriate to represent the interests involved in the negotiations; the attorney general may not approve the report if the group of physicians is not appropriate to represent the interests involved in the negotiations or if the proposed negotiations exceed the authority granted in this chapter and, if the group is not appropriate or the negotiations exceed the granted authority, shall enter an order prohibiting the collective negotiations from proceeding; the authorized third party shall provide supplemental information to the attorney general as new information becomes available that indicates that the subject matter of negotiations with the health benefit plan has changed or will change;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>within 14 days after receiving a health benefit plan's decision to decline to negotiate or to terminate negotiations, or within 14 days after requesting negotiations with a health benefit plan that fails to respond within that time, report to the attorney general that negotiations have ended or have been declined;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>during the negotiation process, provide the attorney general upon the attorney general's request with a copy of all written communications that are between physicians and the health benefit plan, that are relevant to the negotiations, and that are in the possession of the authorized third party;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>before reporting the results of negotiations with a health benefit plan and before giving physicians an evaluation of any offer made by a health benefit plan, provide to the attorney general, for the attorney general's approval, a copy of all communications to be made to physicians related to the negotiations, discussions, and health benefit plan offers.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="23-50-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The attorney general shall either approve or disapprove the contract that was the subject of the collective negotiation within 60 days after receiving the reports required under (d) of this section. If the contract is disapproved, the attorney general shall furnish a written explanation of any deficiencies along with a statement of specific remedial measures that would correct any identified deficiencies. An authorized third party who fails to obtain the attorney general's approval is considered to be acting outside the authority of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The attorney general shall approve a collective negotiation contract if</p>
+              </content>
+              <paragraph eId="23-50-020__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the competitive and other benefits of the contract terms outweigh any anticompetitive effects; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the contract terms are consistent with other applicable laws and regulations.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="23-50-020__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The competitive and other benefits of joint negotiations or negotiated provider contract terms must include</p>
+              </content>
+              <paragraph eId="23-50-020__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>restoration of the competitive balance in the market for health care services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>protections for access to quality patient care;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>promotion of health care infrastructure and medical advancement; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>improved communications between health care providers and health care insurers.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="23-50-020__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>When weighing the anticompetitive effects of contract terms, the attorney general shall consider whether the terms</p>
+              </content>
+              <paragraph eId="23-50-020__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provide for excessive payments; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>contribute to the escalation of the cost of providing health care services.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="23-50-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>This section does not authorize competing physicians to act in concert in response to a report issued by an authorized third party related to the authorized third party's discussion or negotiations with a health benefit plan. The authorized third party shall advise the physicians of the provisions of this subsection and shall warn them of the potential for legal action against those who violate state or federal antitrust laws by exceeding the authority granted under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-020__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>A contract allowed under this section may not exceed a term of five years.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-020__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The documents relating to a collective negotiation described under this section that are in the possession of the Department of Law are confidential and not open to public inspection.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-020__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Nothing in this section shall be construed as exempting from the application of the antitrust laws the conduct of providers or negotiations or agreements between providers and a health benefit plan if the purpose or effect of the conduct, negotiations, or agreements would be, directly or indirectly, to exclude, limit the participation or reimbursement of, or otherwise limit the scope of services to be provided by separate or competing classes of providers who practice or seek to practice within the scope of the occupational licenses held by the providers.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-020__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>A contract entered into under this section must be consistent with
+AS 21.36.090
+(d).</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-020__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>Nothing in this section shall be construed to make any conduct by providers unlawful if the conduct was lawful before September 18, 2002.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-020__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="23-50-020__subsec_o__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>geographic service area means the geographic area of the physicians seeking to jointly negotiate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-50-020__subsec_o__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provider has the meaning given in
+AS 21.36.090</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_23-50-030">
+            <num>23.50.030</num>
+            <heading>Fee for registration of authorized third parties.</heading>
+            <subsection eId="23-50-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The attorney general shall adopt regulations that establish the amount and manner of payment of a registration fee for authorized third parties. The attorney general shall establish the fee level so that the total amount of fees collected from authorized third parties approximately equals the actual regulatory costs for the oversight of joint negotiations between physicians and health benefit plans. The attorney general shall annually review the fee level to determine whether the regulatory costs are approximately equal to fee collections. If the review indicates that the fee collections and regulatory costs are not approximately equal, the attorney general shall calculate fee adjustments and adopt regulations under this subsection to implement the adjustments. In January of each year, the attorney general shall report on the fee level and revisions for the previous year under this subsection to the office of management and budget.</p>
+              </content>
+            </subsection>
+            <subsection eId="23-50-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, regulatory costs means costs of the Department of Law that are attributable to oversight of joint negotiations between physicians and health benefit plans.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_23-50-040">
+            <num>23.50.040</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 23.50.040.   Regulations.
+The attorney general may adopt regulations necessary to implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_23-50-099">
+            <num>23.50.099</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 23.50.099.   Definitions.
+In this chapter,
+(1) authorized third party means a person authorized by the physicians to negotiate on their behalf with a health benefit plan under this chapter;
+(2) health benefit plan means a health care insurer as defined in
+AS 21.54.500
+, but does not include a self-insured health benefit plan.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

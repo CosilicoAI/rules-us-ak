@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-14"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-14"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="14.14"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-14/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-14/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-14/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-14/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_14">
+        <num>14</num>
+        <heading>Education, Libraries, and Museums</heading>
+        <chapter eId="title_14__chp_14">
+          <num>14</num>
+          <heading>Local Administration of Schools</heading>
+          <section eId="sec_14-14-020">
+            <num>14.14.020</num>
+            <heading>Bond required.</heading>
+            <content>
+              <p>Sec. 14.14.020.   Bond required.
+Before the officer responsible for custody, investment, or management of school district money enters upon the duties of office, the district, or the municipality if the treasury is centralized, shall obtain a bond with sufficient sureties in an amount equal to the money that may come into the officer's official custody, but not to exceed $50,000.  The bond shall be conditioned on the officer's honest and faithful disbursement and accounting of all money that may come into the official custody of the officer.  The bond shall be filed with the clerk of the school board.  This section does not apply to an officer who has been bonded under
+AS 29.20.610
+.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-050">
+            <num>14.14.050</num>
+            <heading>Annual audit.</heading>
+            <subsection eId="14-14-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The school board in each school district shall, before October 1 of each year, provide for an audit of all school accounts for the school year ending the preceding June 30.  To make the audit the school board shall contract with a public accountant who has no personal interest, direct or indirect, in the fiscal affairs of the district. One certified copy of the audit shall be filed with the commissioner and one certified copy shall be posted in a public place at the principal administrative office of the district.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The audit shall conform in form to requirements established by the commissioner.  The commissioner shall withhold all payments of state funds after November 15 to a school district that fails to file a certified copy of the audit with the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner may provide for a reaudit or an audit check in a school district if in the commissioner's judgment it is necessary to substantiate the reported expenditures.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The school board shall not make the audit if an audit that satisfies the requirements of this section and that is filed and posted as required by this section is made according to
+AS 29.35.120
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-060">
+            <num>14.14.060</num>
+            <heading>Relationship between borough school district and borough; finances and buildings.</heading>
+            <subsection eId="14-14-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The borough assembly may by ordinance require that all school money be deposited in a centralized treasury with all other borough money.  The borough administrator shall have the custody of, invest, and manage all money in the centralized treasury.  However, the borough assembly, with the consent of the borough school board, may by ordinance delegate to the borough school board the responsibility of a centralized treasury.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When the borough school board by resolution consents, the borough assembly may by ordinance provide a centralized accounting system for school and all other borough operations. The system shall be operated in accordance with accepted principles of governmental accounting.  However, the assembly, with the consent of the borough school board, may by ordinance delegate to the borough school board the responsibilities of the accounting system.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided by municipal ordinance, the borough school board shall submit the school budget for the following school year to the borough assembly by May 1 for approval of the total amount. Within 30 days after receipt of the budget the assembly shall determine the total amount of money to be made available from local sources for school purposes and shall furnish the school board with a statement of the sum to be made available. If the assembly does not, within 30 days, furnish the school board with a statement of the sum to be made available, the amount requested in the budget is automatically approved. Except as otherwise provided by municipal ordinance, by June 30, the assembly shall appropriate the amount to be made available from local sources from money available for the purpose.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The borough assembly shall determine the location of school buildings with due consideration to the recommendations of the borough school board.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The borough school board is responsible for the design criteria of school buildings.  To the maximum extent consistent with education needs, a design of a school building shall provide for multiple use of the building for community purposes.  Subject to the approval of the assembly, the school board shall select the appropriate professional personnel to develop the designs.  The school board shall submit preliminary and subsequent designs for a school building to the assembly for approval or disapproval; if the design is disapproved, a revised design shall be prepared and presented to the assembly.  A design or revised design approved by the assembly shall be submitted by the board to the department in accordance with
+AS 14.07.020
+(a)(11).</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-060__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The borough school board shall provide custodial services and routine maintenance for school buildings and shall appoint, compensate, and otherwise control personnel for these purposes.  The borough assembly through the borough administrator, shall provide for all major rehabilitation, all construction and major repair of school buildings.  The recommendations of the school board shall be considered in carrying out the provisions of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-060__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>State law relating to teacher salaries and tenure, to financial support, to supervision by the department and other general laws relating to schools, governs the exercise of the functions by the borough. The school board shall appoint, compensate, and otherwise control all school employees and administration officers in accordance with this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-060__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>School boards within the borough may determine their own policy separate from the borough for the purchase of supplies and equipment.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-060__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Notwithstanding (e) and (f) of this section, a borough assembly and a borough school board may divide the duties imposed under (e) and (f) of this section by agreement between the borough assembly and borough school board.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-065">
+            <num>14.14.065</num>
+            <heading>Relationship between city school district and city.</heading>
+            <content>
+              <p>Sec. 14.14.065.   Relationship between city school district and city.
+The relationships between the school board of a city school district and the city council and executive or administrator are governed in the same manner as provided in
+AS 14.14.060
+for the school board of a borough school district and the borough assembly and executive or administrator.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-070">
+            <num>14.14.070</num>
+            <heading>Organization of school board.</heading>
+            <content>
+              <p>Sec. 14.14.070.   Organization of school board.
+Within seven days after the certification of the results of each regular school election, the school board shall meet and elect one of its members as president, one as clerk, and, if necessary, one as treasurer.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-080">
+            <num>14.14.080</num>
+            <heading>Declaring a school board vacancy.</heading>
+            <content>
+              <p>Sec. 14.14.080.   Declaring a school board vacancy.
+When a member of a school board has notice of and is absent from three consecutive regular school board meetings and is not excused by the president of the school board, the other members of the school board may declare the position vacant and shall notify the ex-member by registered mail.  The vacancy shall be filled as provided by
+AS 14.12.070
+.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-090">
+            <num>14.14.090</num>
+            <heading>Duties of school boards.</heading>
+            <content>
+              <p>Sec. 14.14.090.   Duties of school boards.
+In addition to other duties, a school board shall
+(1) determine and disburse the total amount to be made available for compensation of all school employees and administrative officers;
+(2) provide for, during the school term of each year, an educational program for each school age child who is enrolled in or a resident of the district;
+(3) withhold the salary for the last month of service of a teacher or administrator until the teacher or administrator has submitted all summaries, statistics, and reports that the school board may require by bylaws;
+(4) transmit, when required by the assembly or council but not more often than once a month, a summary report and statement of money expended;
+(5) keep the minutes of meetings and a record of all proceedings of the school board in a pertinent form;
+(6) keep the records and files of the school board open to inspection by the public at the principal administrative office of the district during reasonable business hours;
+(7) establish procedures for the review and selection of all textbooks and instructional materials at least once every 10 years, including textbooks and curriculum materials for statewide correspondence programs, before they are introduced into the school curriculum; the review includes a review for violations of
+AS 14.18.060
+; nothing in this paragraph precludes a correspondence study student, or the parent or guardian of a correspondence study student, from privately obtaining or using textbooks or curriculum material not provided by the school district;
+(8) provide prospective employees with information relating to the availability and cost of housing in rural areas to which they might be assigned, and, when possible, assist them in locating housing; however, nothing in this paragraph requires a school district to provide teacher housing, whether district owned, leased, rented, or through other means, nor does it require a school board to engage in a subsidy program of any kind regarding teacher housing;
+(9) train persons required to report under
+AS 47.17.020
+, in the recognition and reporting of child abuse, neglect, and sexual abuse of a minor;
+(10) provide for the development and implementation of a preventive maintenance program for school facilities; in this paragraph, preventive maintenance means scheduled maintenance actions that prevent the premature failure or extend the useful life of a facility, or a facility's systems and components, and that are cost-effective on a life-cycle basis;
+(11) establish procedures for providing the training under
+AS 14.18.060
+,
+AS 14.20.149
+, 14.20.680,
+AS 14.30.355
+, 14.30.356, 14.30.362,
+AS 14.33.100
+,
+AS 18.66.310
+, and
+AS 47.17.022
+; the procedures established under this paragraph must include a training schedule that ensures that not less than 50 percent of the total certificated staff employed by the district receive all of the training not less than every two years and that all of the certificated staff employed by the district receive all of the training not less than every four years.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-100">
+            <num>14.14.100</num>
+            <heading>Bylaws and administrative rules.</heading>
+            <subsection eId="14-14-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The school board policies relating to management and control of the district shall be expressed in written bylaws formally adopted at regular school board meetings.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Administrative rules that do not embody school district policy need not be adopted as bylaws; however, the rules must be in written form and readily available to all school personnel.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-105">
+            <num>14.14.105</num>
+            <heading>Sick leave bank.</heading>
+            <content>
+              <p>Sec. 14.14.105.   Sick leave bank.
+A school board may establish a sick leave bank to enable a teacher, because of unusual circumstances, to draw not more than twice the number of days of sick leave the teacher has accumulated before the first day of school in any school year, or 24 days, whichever is greater.  However, in a case of severe illness or extreme hardship the board may permit a teacher to draw more leave.  The board may establish and administer the sick leave bank independently or jointly with teachers.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-107">
+            <num>14.14.107</num>
+            <heading>Sick leave and sick leave transfer.</heading>
+            <subsection eId="14-14-107__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Every school district shall allow its certificated employees one and one-third days of sick leave a month with unlimited accumulation of sick leave days.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-107__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A certificated school district employee who changes employment from one school district to another district, or from a school district to the department, or from the department to a school district, may transfer all of the cumulative sick leave to the new employer.  It is the responsibility of the employee to notify the new employer, within 90 days of commencing work, of the number of days to be transferred.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-107__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may implement this section by regulation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-110">
+            <num>14.14.110</num>
+            <heading>Cooperation with other districts.</heading>
+            <subsection eId="14-14-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When necessary to provide more efficient or more economical educational services, a district may cooperate or the department may require a district to cooperate with other districts, state-operated schools, or the Bureau of Indian Affairs in providing educational or administrative services. However, if a cooperative arrangement requires pupils to live away from their usual homes, the school board shall provide classes within the attendance area when there are at least eight children eligible to attend elementary and secondary school in the attendance area. In this subsection,</p>
+              </content>
+              <paragraph eId="14-14-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>administrative services includes supervisory, maintenance, purchasing, or other services that are required for unified administration;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-14-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>educational services includes boarding and tuition arrangements, pupil or teacher exchanges, special education services, or curriculum development.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-14-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may prescribe the terms and conditions of any contract entered into under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A contract for the operation of schools on military reservations by a city or borough school district under
+AS 14.12.020</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and in (a) of this section must include, in addition to the terms and conditions prescribed by the department under (b) of this section, provisions for the following:</p>
+              </content>
+              <paragraph eId="14-14-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the educational program provided by the school district in the schools on the military reservation shall be comparable to the program provided by the school district in its nonmilitary reservation schools; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-14-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the school district shall be fully reimbursed for the cost of operation of the schools on a military reservation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-14-110__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department shall annually prepare a report on the cooperative arrangements entered into under (a) of this section, and shall include in the report the estimated cost savings resulting from the cooperative arrangements. The department shall notify the legislature that the report is available.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-115">
+            <num>14.14.115</num>
+            <heading>Cooperative arrangement grant program for school districts.</heading>
+            <subsection eId="14-14-115__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To encourage cooperative arrangements between school districts and between school districts and private businesses, nonprofit organizations, or government agencies to provide more efficient or economical administrative or educational services, a school district may receive a one-time cooperative arrangement grant from the department of up to $100,000. The department shall ensure that grant funds provided to districts under this section do not provide direct benefit to private educational institutions.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-115__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 12 ch 42 SLA 1997.]</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-115__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="14-14-115__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>administrative services and educational services have the meanings given in
+AS 14.14.110</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-14-115__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>district has the meaning given in
+AS 14.17.990
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-120">
+            <num>14.14.120</num>
+            <heading>Inoperative district.</heading>
+            <subsection eId="14-14-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When there are fewer than eight children eligible to attend elementary and secondary school in a district, the school board may declare the district inoperative for that school year.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>During the school year in which a district is inoperative, the school board shall perform those functions necessary to preserve the financial integrity of the district, to preserve the property and assets of the district, and to otherwise ensure against disruption of the continuity of the district business.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An inoperative school board shall, if practicable, pay the tuition and boarding costs necessary to enable the school age children within the district to attend school in another district. If a child in an inoperative school district is not attending school in another district, the department shall provide information on correspondence courses and other materials and charge the school board of the inoperative district an amount equal to the actual cost to the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The terms of office of a school board are not affected by a declaration that the district is inoperative. However, new board members may not be elected during the time a district is inoperative.  In the event more than three terms expire during the time a district is inoperative the functions of the school board shall be assumed by the assembly or council until the district becomes operative.  When the district becomes operative an expired school board term shall be filled by the assembly or council until the next regular school election when a school board member shall be elected to serve the balance of the term.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-130">
+            <num>14.14.130</num>
+            <heading>Chief school administrator.</heading>
+            <subsection eId="14-14-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A school board may select and employ a qualified person as the chief school administrator for the district. In this subsection, employ includes employment by contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the district employs a chief school administrator, the administrator shall administer the district in accordance with the policies that the school board prescribes by bylaw.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the district employs a chief school administrator, the administrator shall select, appoint, and otherwise control all school district employees that serve under the chief school administrator subject to the approval of the school board.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not prohibit two or more school districts from sharing the services of a chief school administrator.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-140">
+            <num>14.14.140</num>
+            <heading>Restriction on employment; compensation of board members.</heading>
+            <subsection eId="14-14-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>While serving on the school board, a member may not be employed by that local school board. Members of the immediate family of a school board member may not be employed by the school board except upon written approval of the commissioner.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Members of the immediate family of a chief school administrator may not be employed by the chief school administrator except upon written approval of the school board.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A school board member may receive compensation for time spent in the performance of duties as a school board member if the compensation is authorized by resolution adopted by the school board.  The restriction in (a) of this section does not apply to this compensation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-150">
+            <num>14.14.150</num>
+            <heading>Association of Alaska School Boards the representative agency of board members.</heading>
+            <content>
+              <p>Sec. 14.14.150.   Association of Alaska School Boards the representative agency of board members.
+The Association of Alaska School Boards is recognized as the organization and representative agency of the members of the school boards of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-160">
+            <num>14.14.160</num>
+            <heading>Cooperation and support of certain association functions.</heading>
+            <subsection eId="14-14-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department and local districts may cooperate with the Association of Alaska School Boards in its inservice training program for school board members and in encouraging and fostering cooperation among the school boards affiliated with the Association of Alaska School Boards.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>School districts may expend district money to carry out the provisions of (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-250">
+            <num>14.14.250</num>
+            <heading>Establishment of committee.</heading>
+            <content>
+              <p>Sec. 14.14.250.   Establishment of committee.
+A school board may create a committee or other advisory body on the involvement of young people in school governance.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-260">
+            <num>14.14.260</num>
+            <heading>Composition and chairman.</heading>
+            <content>
+              <p>Sec. 14.14.260.   Composition and chairman.
+The committee may consist of not more than nine members, drawn from the fields of public affairs, education, the sciences, the professions, other fields of private endeavor, from the state or local service, and three additional members from the 17-22 age group, and shall include women and representatives of minority groups.  The members shall be appointed by the board in the manner prescribed by the board without regard to political affiliation and shall serve at the pleasure of that body.  One member shall be designated by the board as chairman of the committee.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-270">
+            <num>14.14.270</num>
+            <heading>Compensation and per diem.</heading>
+            <content>
+              <p>Sec. 14.14.270.   Compensation and per diem.
+Members of the committee or other advisory body serve without compensation but are entitled to per diem and travel expenses as may be authorized by the board.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-280">
+            <num>14.14.280</num>
+            <heading>Functions of the committee.</heading>
+            <subsection eId="14-14-280__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The committee shall establish procedures to enable it to recommend annually to the board a group of promising young men and women from whom the board may select interns and youth voting members of district committees or other advisory bodies.  The committee, in establishing these procedures, shall enlist the aid of district residents who are actively interested in working with young people.  Following adoption of the procedures, the committee shall accept applications from individuals and nominations for consideration, and shall interview all applicants or nominees.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-280__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Recommendations of the committee shall be limited to young people who</p>
+              </content>
+              <paragraph eId="14-14-280__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>have a capacity, desire, interest, ability, and potential for leadership and service to the community and to the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-14-280__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>will have attained the age of 17 but not the age of 22 before the beginning of their service.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-14-280__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Annually, the committee shall evaluate the program and shall submit a written report to the board.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-290">
+            <num>14.14.290</num>
+            <heading>Interns.</heading>
+            <content>
+              <p>Sec. 14.14.290.   Interns.
+An intern may be appointed to serve on the staff of the board or the district administrator for a period of time prescribed by the board, with a maximum of one year.  An intern may be assigned responsibilities in any office, department, or agency of the district.  Service begins at a time prescribed by the board.  Interns shall be appointed without regard to political affiliation.  Salaries shall be individually established by the board on the basis of prior experience and the responsibilities of the position to which the intern is assigned.</p>
+            </content>
+          </section>
+          <section eId="sec_14-14-300">
+            <num>14.14.300</num>
+            <heading>Appointment to district committees or other advisory bodies.</heading>
+            <subsection eId="14-14-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding
+AS 39.05.100
+or a provision of law relating to age, the board may appoint any 17-21 year old district resident to a district committee or advisory body if recommended by the youth involvement committee.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A young person recommended by the committee may be appointed to district committees or advisory bodies with special qualifications for membership if the proposed nominee meets the required qualifications set by law, except for age.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-14-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An individual appointed to a district committee or advisory body under this section is entitled to the rights, privileges, and responsibilities of other members, and the appointment is subject to confirmation by the board when required by law. An additional seat on a district committee or advisory body is not created by virtue of
+AS 14.14.250
+ 14.14.310.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-14-310">
+            <num>14.14.310</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 14.14.310.   Definitions.
+In
+AS 14.14.250
+ 14.14.310,
+(1) board means the governing body of a borough or city school district or regional educational attendance area;
+(2) district means a borough, city, or regional educational attendance area.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

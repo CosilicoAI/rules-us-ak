@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-66"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-66"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="11.66"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-66/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-66/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-66/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-66/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_11">
+        <num>11</num>
+        <heading>Criminal Law</heading>
+        <chapter eId="title_11__chp_66">
+          <num>66</num>
+          <heading>Offenses Against Public Health and Decency</heading>
+          <section eId="sec_11-66-100">
+            <num>11.66.100</num>
+            <heading>Prostitution.</heading>
+            <subsection eId="11-66-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of prostitution if the person</p>
+              </content>
+              <paragraph eId="11-66-100__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>engages in or agrees or offers to engage in sexual conduct in return for a fee; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-100__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>offers a fee in return for sexual conduct.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-66-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 62 ch 11 SLA 2024.]</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person may not be prosecuted under (a)(1) of this section if the</p>
+              </content>
+              <paragraph eId="11-66-100__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>person witnessed or was a victim of, and reported to law enforcement in good faith, one or more of the following crimes:
+(A) murder in the first degree under
+AS 11.41.100
+;
+(B) murder in the second degree under
+AS 11.41.110
+;
+(C) manslaughter under
+AS 11.41.120
+;
+(D) criminally negligent homicide under
+AS 11.41.130
+;
+(E) assault in the first degree under
+AS 11.41.200
+;
+(F) assault in the second degree under
+AS 11.41.210
+;
+(G) assault in the third degree under
+AS 11.41.220
+;
+(H) assault in the fourth degree under
+AS 11.41.230
+;
+(I) sexual assault in the first degree under
+AS 11.41.410
+;
+(J) sexual assault in the second degree under
+AS 11.41.420
+;
+(K) sexual assault in the third degree under
+AS 11.41.425
+;
+(L) sexual assault in the fourth degree under
+AS 11.41.427
+;
+(M) sexual abuse of a minor in the first degree under
+AS 11.41.434
+;
+(N) sexual abuse of a minor in the second degree under
+AS 11.41.436
+;
+(O) sexual abuse of a minor in the third degree under
+AS 11.41.438
+;
+(P) sexual abuse of a minor in the fourth degree under
+AS 11.41.440
+;
+(Q) robbery in the first degree under
+AS 11.41.500
+;
+(R) robbery in the second degree under
+AS 11.41.510
+;
+(S) extortion under
+AS 11.41.520
+;
+(T) coercion under
+AS 11.41.530
+;
+(U) distribution of child sexual abuse material under
+AS 11.61.125
+;
+(V) possession of child sexual abuse material under
+AS 11.61.127
+;
+(W) sex trafficking in the first degree under
+AS 11.66.110
+;
+(X) sex trafficking in the second degree under
+AS 11.66.120
+;
+(Y) sex trafficking in the third degree under
+AS 11.66.130
+; or
+(Z) sex trafficking in the fourth degree under
+AS 11.66.135
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-100__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>evidence supporting the prosecution under (a)(1) of this section was obtained or discovered as a result of the person reporting the crime to law enforcement; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-100__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>person cooperated with law enforcement personnel.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-66-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Prostitution is a class B misdemeanor.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-100__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 62 ch 11 SLA 2024.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-110">
+            <num>11.66.110</num>
+            <heading>Sex trafficking in the first degree.</heading>
+            <subsection eId="11-66-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of sex trafficking in the first degree if the person</p>
+              </content>
+              <paragraph eId="11-66-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>induces or causes another person to engage in prostitution through the use of force;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>as other than a patron of a prostitute, induces or causes another person who is under 20 years of age to engage in prostitution; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>induces or causes a person in that person's legal custody to engage in prostitution.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-66-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In a prosecution under (a)(2) of this section, it is not a defense that the defendant reasonably believed that the person induced or caused to engage in prostitution was 20 years of age or older.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in (d) of this section, sex trafficking in the first degree is a class A felony.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-110__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person convicted under (a)(2) of this section is guilty of an unclassified felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-120">
+            <num>11.66.120</num>
+            <heading>Sex trafficking in the second degree.</heading>
+            <subsection eId="11-66-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of sex trafficking in the second degree if the person</p>
+              </content>
+              <paragraph eId="11-66-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>manages, supervises, controls, or owns, either alone or in association with others, a prostitution enterprise other than a place of prostitution;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>procures or solicits a patron for a prostitute;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>offers, sells, advertises, promotes, or facilitates travel that includes a commercial sexual act as enticement for the travel; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-120__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>under circumstances not proscribed under
+AS 11.66.110
+, induces or causes another person to engage in a commercial sexual act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-66-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this section, inducing or causing another person to engage in a commercial sexual act includes the following:</p>
+              </content>
+              <paragraph eId="11-66-120__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>exposing or threatening to expose confidential information or a secret, whether true or false, that would subject a person to hatred, contempt, or ridicule;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-120__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>destroying, concealing, or threatening to destroy or conceal an actual or purported passport or immigration document or another actual or purported identification document of any person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-120__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>threatening to report a person to a government agency for the purpose of arrest or deportation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-120__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>threatening to collect a debt;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-120__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>instilling in a person a fear that lodging, food, clothing, or medication will be withheld from any person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-120__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>providing a controlled substance to or withholding a controlled substance from the other person; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-120__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>engaging in deception.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-66-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Sex trafficking in the second degree is a class B felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-130">
+            <num>11.66.130</num>
+            <heading>Sex trafficking in the third degree.</heading>
+            <subsection eId="11-66-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of sex trafficking in the third degree if the person</p>
+              </content>
+              <paragraph eId="11-66-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>receives compensation for prostitution services rendered by another; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>with the intent to promote prostitution,
+(A) manages, supervises, controls, or owns, either alone or in association with others, a place of prostitution;
+(B) as other than a patron of a prostitute, induces or causes another person who is 20 years of age or older to engage in prostitution;
+(C) receives or agrees to receive money or other property under an agreement or understanding that the money or other property is derived from prostitution; or
+(D) engages in conduct that institutes, aids, or facilitates a prostitution enterprise.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-66-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 72, ch 1 4SSLA 2017.]</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Sex trafficking in the third degree is a class C felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-135">
+            <num>11.66.135</num>
+            <heading>Sex trafficking in the fourth degree.</heading>
+            <subsection eId="11-66-135__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of sex trafficking in the fourth degree if the person</p>
+              </content>
+              <paragraph eId="11-66-135__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>receives compensation for prostitution services rendered by another; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-135__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>engages in conduct that institutes, aids, or facilitates prostitution under circumstances not proscribed under
+AS 11.66.130</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-66-135__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 72 ch 1 4SSLA 2017.]</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-135__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Sex trafficking in the fourth degree is a class A misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-137">
+            <num>11.66.137</num>
+            <heading>Patron of a victim of sex trafficking.</heading>
+            <subsection eId="11-66-137__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of patron of a victim of sex trafficking if the person solicits a commercial sexual act</p>
+              </content>
+              <paragraph eId="11-66-137__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>with reckless disregard that the person engaging in the sexual act is a victim of sex trafficking; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-137__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>from a person who is under 18 years of age.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-66-137__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In a prosecution under (a)(2) of this section, it is an affirmative defense that, at the time of the alleged offense, the defendant</p>
+              </content>
+              <paragraph eId="11-66-137__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>reasonably believed the person to be 18 years of age or older; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-137__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>undertook reasonable measures to verify that the person was 18 years of age or older.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-66-137__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Patron of a victim of sex trafficking is a</p>
+              </content>
+              <paragraph eId="11-66-137__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>class B felony if the person violates (a)(2) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-137__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>class C felony if the person violates (a)(1) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-140">
+            <num>11.66.140</num>
+            <heading>Corroboration of certain testimony not required.</heading>
+            <content>
+              <p>Sec. 11.66.140.   Corroboration of certain testimony not required.
+In a prosecution under
+AS 11.66.110
+ 11.66.135, it is not necessary that the testimony of the person whose prostitution is alleged to have been compelled or promoted be corroborated by the testimony of any other witness or by documentary or other types of evidence.</p>
+            </content>
+          </section>
+          <section eId="sec_11-66-145">
+            <num>11.66.145</num>
+            <heading>Forfeiture.</heading>
+            <content>
+              <p>Sec. 11.66.145.   Forfeiture.
+Property used to institute, aid, or facilitate, or received or derived from, a violation of
+AS 11.66.110
+ 11.66.137 may be forfeited at sentencing.</p>
+            </content>
+          </section>
+          <section eId="sec_11-66-150">
+            <num>11.66.150</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 11.66.150.   Definitions.
+In
+AS 11.66.100
+ 11.66.150, unless the context requires otherwise,
+(1) compensation does not include any payment for reasonably apportioned shared expenses;
+(2) place of prostitution means any place where a person engages in sexual conduct in return for a fee;
+(3) prostitution enterprise means an arrangement in which two or more persons are organized to render sexual conduct in return for a fee;
+(4) sexual conduct means genital or anal intercourse, cunnilingus, fellatio, or masturbation of one person by another person.
+Article 2. Gambling Offenses.</p>
+            </content>
+          </section>
+          <section eId="sec_11-66-200">
+            <num>11.66.200</num>
+            <heading>Gambling.</heading>
+            <subsection eId="11-66-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the offense of gambling if the person engages in unlawful gambling.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is an affirmative defense to a prosecution under this section that the defendant was a player in a social game.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Gambling is a violation</p>
+              </content>
+              <paragraph eId="11-66-200__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for the first offense;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-200__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>punishable by a fine of not more than $1,000 for the second and each subsequent offense.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-210">
+            <num>11.66.210</num>
+            <heading>Promoting gambling in the first degree.</heading>
+            <subsection eId="11-66-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of promoting gambling in the first degree if the person promotes or profits from an unlawful gambling enterprise.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Promoting gambling in the first degree is a class C felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-220">
+            <num>11.66.220</num>
+            <heading>Promoting gambling in the second degree.</heading>
+            <subsection eId="11-66-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of promoting gambling in the second degree if the person promotes or profits from unlawful gambling.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Promoting gambling in the second degree is a class A misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-230">
+            <num>11.66.230</num>
+            <heading>Possession of gambling records in the first degree.</heading>
+            <subsection eId="11-66-230__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of possession of gambling records in the first degree if, with knowledge of its contents or character, the person possesses a gambling record used or intended to be used in the operation or promotion of an unlawful gambling enterprise.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-230__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Possession of gambling records in the first degree is a class C felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-240">
+            <num>11.66.240</num>
+            <heading>Possession of gambling records in the second degree.</heading>
+            <subsection eId="11-66-240__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of possession of gambling records in the second degree if, with knowledge of its contents or character, the person possesses a gambling record.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-240__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Possession of gambling records in the second degree is a class A misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-250">
+            <num>11.66.250</num>
+            <heading>Affirmative defenses.</heading>
+            <subsection eId="11-66-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is an affirmative defense in a prosecution under
+AS 11.66.230
+that the gambling record was possessed by the defendant solely as a player.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is an affirmative defense in a prosecution under
+AS 11.66.230
+or 11.66.240 that the gambling record</p>
+              </content>
+              <paragraph eId="11-66-250__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>was not used or intended to be used by the defendant in the operation or promotion of unlawful gambling;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-250__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>was used or intended to be used by the defendant in a social game.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-260">
+            <num>11.66.260</num>
+            <heading>Possession of a gambling device.</heading>
+            <subsection eId="11-66-260__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the offense of possession of a gambling device if, with knowledge of the character of the device, the person manufactures, sells, transports, places, or possesses, or conducts or negotiates a transaction affecting or designed to affect ownership, custody, or use of, a gambling device knowing that the device is used or is to be used in unlawful gambling.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-260__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is an affirmative defense in a prosecution under this section that the gambling device possessed by the defendant was used or intended to be used only in a social game.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-260__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Possession of a gambling device is a class A misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-270">
+            <num>11.66.270</num>
+            <heading>Forfeiture.</heading>
+            <content>
+              <p>Sec. 11.66.270.   Forfeiture.
+If used in violation of
+AS 11.66.200
+ 11.66.280, the following property shall be forfeited:
+(1) a gambling device or gambling record;
+(2) money, not found on the person, used as a bet or stake;
+(3) money used as a bet or stake which is found on the person of one who conducts, finances, manages, supervises, directs, or owns all or part of an unlawful gambling enterprise.</p>
+            </content>
+          </section>
+          <section eId="sec_11-66-280">
+            <num>11.66.280</num>
+            <heading>Definitions.</heading>
+            <subsection eId="11-66-280__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>confers only an immediate right of replay not exchangeable for something of value other than the privilege of immediate replay and does not contain a method or device by which the privilege of immediate replay may be cancelled or revoked;
+(ii) confers only tickets, credits, allowances, tokens, or anything of value that can be redeemed for toys, candy, or electronic novelties offered at the same facility where the amusement device is located; or
+(iii) allows a player to manipulate a claw machine or similar device within an enclosure and enables a person to receive merchandise directly from the machine;
+(C) an activity authorized by the Department of Revenue under
+AS 05.15
+; or
+(D)  the permanent fund dividend raffle authorized under
+AS 43.23.230
+;</p>
+              </content>
+              <paragraph eId="11-66-280__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>gambling device means any device, machine, paraphernalia, or equipment that is used or usable in the playing phases of unlawful gambling, whether it consists of gambling between persons or gambling by a person involving the playing of a machine; gambling device does not include
+(A) lottery tickets, policy slips, or other items used in the playing phases of lottery or policy schemes; or
+(B) an amusement device;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-280__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>gambling enterprise means a gambling business that
+(A) includes five or more persons who conduct, finance, manage, supervise, direct, or own all or part of the business;
+(B) has been or remains in substantially continuous operation for a period in excess of 30 days or has a gross income of $2,000 or more in any single day; and
+(C) is not a municipality or a qualified organization under
+AS 05.15.690
+, except that, for purposes of this paragraph, no application for a license under
+AS 05.15
+is required to be considered a qualified organization;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-280__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>gambling record means any writing or paper of a kind commonly used in the operation or promotion of unlawful gambling and includes lottery tickets, policy slips, or other writings or papers used in the playing phases of lottery or policy schemes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-280__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>player means a person who engages in gambling solely as a contestant or bettor, believing that the risk of losing and the chances of winning are the same for all participants except for the advantages of skill and luck, without receiving or becoming entitled to receive any profit from gambling other than personal gambling winnings and without otherwise rendering any material assistance to the establishment, conduct, or operation of the particular gambling activity, except that, for purposes of this paragraph, a person who gambles at a social game on equal terms with the other participants does not otherwise render material assistance to the establishment, conduct, or operation by performing, without fee or remuneration, acts directed towards the arrangement or facilitation of the game, such as inviting persons to play, permitting the use of premises for the game, or supplying cards or other equipment used in the game;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-280__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>profits from gambling means that a person, acting other than as a player, accepts or receives money or other property under an agreement or understanding with another person by which the person participates or is to participate in the proceeds of gambling;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-280__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>promoting gambling means that a person, acting other than as a player, engages in conduct that materially aids any form of gambling; conduct of this nature includes
+(A) conduct directed toward the</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-66-280__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>creation or establishment of the particular gambling activity or acquisition or maintenance of premises, paraphernalia, equipment, or apparatus used in the gambling;
+(ii) conduct of the playing phases of gambling; or
+(iii) arrangement of the financial or recording phase of gambling or toward any other phase of its operation; or
+(B) having control or right of control over premises that are used with the defendant's knowledge for purposes of gambling and permitting the gambling to occur or continue without making an effort to prevent its occurrence or continuation;</p>
+              </content>
+              <paragraph eId="11-66-280__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>social game means gambling in a home where no house player, house bank, or house odds exist and where there is no house income from the operation of the game;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-280__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>something of value means any money or property; any token, object, or article exchangeable for money or property; and any form of credit or promise directly or indirectly contemplating transfer of money or property or of an interest in money or property or involving extension of a service, entertainment, or privilege of playing at a game or scheme without charge;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-66-280__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>unlawful means not specifically authorized by law.
+Article 3. Adult Entertainment Business.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_11-66-300">
+            <num>11.66.300</num>
+            <heading>Prohibiting minors from being present at an adult entertainment business.</heading>
+            <subsection eId="11-66-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The owner or an agent or employee of the owner of a business that offers adult entertainment may not with criminal negligence allow a person under the age of 18 years to enter and remain within premises where adult entertainment is offered.</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, business that offers adult entertainment has the meaning given in
+AS 23.10.350
+(f).</p>
+              </content>
+            </subsection>
+            <subsection eId="11-66-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who violates this section is guilty of a class A misdemeanor. Each violation is a separate offense.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

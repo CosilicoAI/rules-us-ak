@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-85"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-85"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.85"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-85/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-85/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-85/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-85/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_85">
+          <num>85</num>
+          <heading>General Provisions</heading>
+          <section eId="sec_12-85-010">
+            <num>12.85.010</num>
+            <heading>Applicability of title and supreme court rules.</heading>
+            <content>
+              <p>Sec. 12.85.010.   Applicability of title and supreme court rules.
+The provisions of this title apply to all criminal actions and proceedings in all courts except where specific provision is otherwise made or where the Rules of Criminal Procedure adopted by the supreme court under its constitutional authority apply. This title governs all proceedings in actions brought after January 1, 1963, and all further proceedings in actions then pending, except to the extent that, in the opinion of the court, their application in a particular action pending when the rules take effect would not be feasible, or would work injustice, in which event, the laws in effect before January 1, 1963, apply.</p>
+            </content>
+          </section>
+          <section eId="sec_12-85-020">
+            <num>12.85.020</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 12.85.020.   Short title.
+This title may be cited as the Code of Criminal Procedure.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

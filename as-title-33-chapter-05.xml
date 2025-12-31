@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-33/chapter-05"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-33/chapter-05"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="33.05"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-33/chapter-05/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-33/chapter-05/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-33/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-33/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_33">
+        <num>33</num>
+        <heading>Probation, Prisons, Pardons, and Prisoners</heading>
+        <chapter eId="title_33__chp_05">
+          <num>05</num>
+          <heading>Probation Administration Act</heading>
+          <section eId="sec_33-05-010">
+            <num>33.05.010</num>
+            <heading>Powers of commissioner.</heading>
+            <content>
+              <p>Sec. 33.05.010.   Powers of commissioner.
+The commissioner shall administer a probation system and enforce the probation laws in the superior court.</p>
+            </content>
+          </section>
+          <section eId="sec_33-05-020">
+            <num>33.05.020</num>
+            <heading>Duties of commissioner; probation officers and personnel; ignition interlock devices.</heading>
+            <subsection eId="33-05-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner shall appoint and make available to the superior court, when ordered under
+AS 12.55.015
+(a), a qualified probation officer for the active supervision of a person placed on probation for a felony offense. The commissioner may provide active supervision to a person placed on probation for a misdemeanor offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-05-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall fix probation officers' and assistants' salaries, assign them to the various judicial districts, and shall provide for their necessary expenses including clerical services and travel.  The commissioner may assign to all probation officers and personnel any duties concerning the administration of the parole system as provided in
+AS 33.16
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-05-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner shall by regulation</p>
+              </content>
+              <paragraph eId="33-05-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>establish standards for calibration, certification, maintenance, and monitoring of ignition interlock devices required as a condition of probation or as part of a sentence under
+AS 12.55.102
+or another statute; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>establish a fee to be paid by the manufacturer for the cost of certifying an ignition interlock device.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-05-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The regulations in (c) of this section must require that the ignition interlock device operate reliably over the range of automobile environments, otherwise known as automobile manufacturing standards, for the geographic area for which the device is certified.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-05-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The commissioner shall notify the manufacturer of the ignition interlock device when the device is certified. The commissioner may not certify an ignition interlock device unless the device prominently displays a label warning that a person circumventing or tampering with the device violates
+AS 11.76.140
+and may be imprisoned and fined.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-05-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The commissioner shall establish a program for offenders on probation for a felony offense who have conditions of probation that include not consuming controlled substances or alcoholic beverages and who have been identified as being at moderate to high risk as identified by a risk-needs assessment. The commissioner shall adopt regulations to implement the program. The program shall</p>
+              </content>
+              <paragraph eId="33-05-020__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>include random testing for controlled substances and alcoholic beverage use;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-020__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>require that the probation officer file a petition with the court seeking appropriate sanctions by the close of the next business day if a probationer
+(A) fails to appear for an appointment as directed by the probation officer; or
+(B) tests positive for the use of controlled substances, inhalants, or alcoholic beverages; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-020__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>include a means to notify the court, by the close of the next business day, that a petition to revoke probation has been filed on a probationer placed in the program by the commissioner so that the court may review the petition, schedule a prompt hearing, address a request for a warrant provided by the probation officer, or take other action the court considers appropriate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-05-020__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The commissioner shall establish an administrative sanction and incentive program to facilitate a swift and effective response to a probationer's compliance with or violation of the conditions of probation. The commissioner shall adopt regulations to implement the program. At a minimum, the regulations must include</p>
+              </content>
+              <paragraph eId="33-05-020__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a decision-making process to guide probation officers in determining the suitable response to positive and negative offender behavior that includes a list of sanctions for the most common types of negative behavior, including technical violations of conditions of probation, and a list of incentives for compliance with conditions and positive behavior that exceeds those conditions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-020__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>policies and procedures that ensure
+(A) a process for responding to negative behavior that includes a review of previous violations and sanctions;
+(B) that enhanced sanctions for certain negative conduct are approved by the commissioner or the commissioner's designee; and
+(C) that appropriate due process protections are included in the process, including notice of negative behavior, an opportunity to dispute the accusation and the sanction, and an opportunity to request a review of the accusation and the sanction.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-05-020__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The commissioner shall establish by regulation a program allowing probationers to earn credits for complying with the conditions of probation. The credits earned reduce the period of probation. Nothing in this subsection prohibits the department from recommending to the court the early discharge of the probationer as provided in
+AS 33.30
+. At a minimum, the regulations must</p>
+              </content>
+              <paragraph eId="33-05-020__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>require that a probationer earn a credit of 10 days for each 30-day period served in which the defendant complied with the conditions of probation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-020__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>include policies and procedures for
+(A) calculating and tracking credits earned by probationers;
+(B) reducing the probationer's period of probation based on credits earned by the probationer; and
+(C) notifying a victim under
+AS 33.30.013
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-020__subsec_h__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>require that a probationer convicted of a crime involving domestic violence as defined in
+AS 18.66.990
+complete all treatment programs required as a condition of probation before discharge based on credits earned under this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-05-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A probationer may not be enrolled in the program established under (h) of this section if the probationer is on probation for</p>
+              </content>
+              <paragraph eId="33-05-020__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an unclassified felony;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-020__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a sex offense as defined in
+AS 12.63.100
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-020__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a felony crime against a person under
+AS 11.41
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-020__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a crime involving domestic violence, as defined in
+AS 18.66.990
+, that is an offense under
+AS 11.41
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-05-020__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The commissioner shall notify the victim of a crime upon receiving notice that a probationer has filed a petition for a change of name under
+AS 09.55.010
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_33-05-030">
+            <num>33.05.030</num>
+            <heading>Probation officers as officers of court.</heading>
+            <subsection eId="33-05-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All probation officers made available to the courts under this chapter shall be officers of the superior court and subject to the authority of the superior court.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-05-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The appointment of a probation officer shall be entered on the journal of the court in the judicial district where the probation officer shall be assigned, and one copy of the journal entry sent to the administrative director of the Alaska Court System.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_33-05-040">
+            <num>33.05.040</num>
+            <heading>Duties of probation officers.</heading>
+            <subsection eId="33-05-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A probation officer shall</p>
+              </content>
+              <paragraph eId="33-05-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>furnish to each probationer under the supervision of the officer a written statement of the conditions of probation and shall instruct the probationer regarding the same;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>keep informed concerning the conduct and condition of each probationer under the supervision of the officer and shall report on the probationer to the court placing that person on probation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>use all suitable methods, not inconsistent with the conditions imposed by the court, to aid probationers and to bring about improvements in their conduct and condition;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-040__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>keep records of the probation work, including administrative sanctions and incentives the probation officer imposes under
+AS 33.05.020</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-040__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>perform duties with respect to persons on parole as the commissioner shall request, and in that service shall be termed a parole officer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-040__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>use administrative sanctions and incentives developed under
+AS 33.05.020</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-05-040__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>to respond to a probationer's negative and positive behavior in a way that is intended to interrupt negative behavior in a swift, certain, and proportional manner and support progress with a recognition of positive behavior;</p>
+              </content>
+              <paragraph eId="33-05-040__subsec_g__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>upon determining that a probationer under the supervision of the officer meets the requirements of
+AS 12.55.090</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-040__subsec_g__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>for each probationer who owes restitution and who is under the supervision of the officer, create a restitution payment schedule based on the probationer's income and ability to pay if the court has not already set a restitution payment schedule;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-040__subsec_g__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>accommodate the diligent efforts of each probationer to secure and maintain steady employment or to participate in educational courses or training programs when prescribing the times at which a probationer shall report;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-040__subsec_g__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>permit each probationer to travel in the state to make diligent efforts to secure and maintain steady employment or to participate in educational courses or training programs if the travel is not inconsistent with other terms and conditions of probation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-040__subsec_g__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>report on the probationer by making a recommendation to the court to revoke probation or to maintain existing probation conditions when a petition to revoke probation is filed.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-05-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The caseload of a probation officer supervising probationers or the combined caseload of a probation officer or parole officer supervising probationers and persons on parole as provided for in (a)(5) of this section may not exceed an average of 75 persons, except in temporary or extraordinary circumstances approved by the commissioner.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_33-05-050">
+            <num>33.05.050</num>
+            <heading>Report of probation officer.</heading>
+            <content>
+              <p>Sec. 33.05.050.   Report of probation officer.
+When directed by the court, the probation officer shall report to the court with a statement of the conduct of the probationer while on probation. Except as otherwise provided by law, the court may then discharge the probationer from further supervision and may terminate the proceedings against the probationer, or may extend the probation, as shall seem advisable.</p>
+            </content>
+          </section>
+          <section eId="sec_33-05-060">
+            <num>33.05.060</num>
+            <heading>Transfer of jurisdiction over probationer.</heading>
+            <content>
+              <p>Sec. 33.05.060.   Transfer of jurisdiction over probationer.
+Whenever during the period of probation, a probationer goes from the judicial district in which the probationer is being supervised to another judicial district, jurisdiction over the probationer may be transferred, in the discretion of the court, from the court for the district from which the probationer goes to the court for the other district, with the concurrence of the latter court.  Thereupon the court for the district to which jurisdiction is transferred shall have all power with respect to the probationer that was previously possessed by the court for the district from which the transfer is made, except that the period of probation may not be changed without the consent of the sentencing court.  This process under the same conditions may be repeated whenever during the period of probation the probationer goes from the district in which the probationer is being supervised to another district.</p>
+            </content>
+          </section>
+          <section eId="sec_33-05-070">
+            <num>33.05.070</num>
+            <heading>Arrest of probationer.</heading>
+            <subsection eId="33-05-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At any time within the probation period, the probation officer may for cause arrest the probationer whenever found, without a warrant. At any time within the probation period, or within the maximum probation period permitted by
+AS 12.55.080
+and 12.55.090, the court for the district in which the probationer is being supervised or, if the probationer is no longer under supervision, the court for the district in which the probationer was last under supervision may issue a warrant for the probationer's arrest for violation of probation occurring during the probation period.  The warrant may be executed in any district by the probation officer or any peace officer in the district in which the warrant was issued or of any district in which the probationer is found.  If the probationer is arrested in any district other than that in which the probationer was last supervised, the probationer shall be returned to the district in which the warrant was issued, unless jurisdiction over the probationer is transferred as above provided to the district in which the probationer is found, and in that case the probationer shall be detained pending further proceedings in that district.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-05-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As speedily as possible after arrest, the probationer shall be taken before the court for the district having jurisdiction over the probationer. Except as provided in
+AS 12.55.090
+(f), the court may revoke the probation and require the probationer to serve the sentence imposed or any lesser sentence and, if imposition of sentence was suspended, may impose any sentence that might originally have been imposed, subject to the limitation specified in
+AS 12.55.086
+(c).</p>
+              </content>
+            </subsection>
+            <subsection eId="33-05-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At any time within the probation period, a police officer certified by the Alaska Police Standards Council may detain a probationer if the police officer has reasonable suspicion that the probationer has recently violated or may imminently violate a probation condition relating to one of the topics set out in (d) of this section. The police officer may also arrest the probationer without a warrant if the police officer has probable cause to believe that the probationer has violated a probation condition relating to one of the topics set out in (d) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-05-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The conditions that permit a police officer to detain or arrest a probationer or parolee without a warrant under
+AS 33.16.240
+and (c) of this section are those conditions imposed by the court, or the parole board, relating to</p>
+              </content>
+              <paragraph eId="33-05-070__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>geographic limitations on the probationer's movements;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-070__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>possessing or consuming controlled substances under state or federal law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-070__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>possessing firearms;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-070__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>possessing or consuming alcoholic beverages, or being in a place where they are sold or served;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-070__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>operating or driving a motor vehicle; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-05-070__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>other conduct that creates an imminent public danger or threatens serious harm to persons or property.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_33-05-080">
+            <num>33.05.080</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 33.05.080.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) administrative sanctions and incentives means responses by a probation officer to a probationer's compliance with or violation of the conditions of probation under
+AS 33.05.020
+(g).
+(2) commissioner means the commissioner of corrections or the designee of the commissioner;
+(3) probation, except as authorized under
+AS 12.55.086
+, is a procedure under which a defendant, found guilty of a crime upon verdict or plea, is released by the superior court subject to conditions imposed by the court and subject to the supervision of the probation service as provided in this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_33-05-090">
+            <num>33.05.090</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 33.05.090.   Short title.
+This chapter may be cited as the Probation Administration Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

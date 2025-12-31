@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-33/chapter-07"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-33/chapter-07"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="33.07"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-33/chapter-07/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-33/chapter-07/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-33/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-33/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_33">
+        <num>33</num>
+        <heading>Probation, Prisons, Pardons, and Prisoners</heading>
+        <chapter eId="title_33__chp_07">
+          <num>07</num>
+          <heading>Pretrial Services Program</heading>
+          <section eId="sec_33-07-010">
+            <num>33.07.010</num>
+            <heading>Pretrial services program; establishment.</heading>
+            <content>
+              <p>Sec. 33.07.010.   Pretrial services program; establishment.
+The commissioner shall establish and administer a pretrial services program that provides a pretrial risk assessment for all defendants detained in custody in a correctional facility following arrest and for any defendant for whom the prosecution requests to have a pretrial risk assessment at the next hearing or arraignment. The pretrial services program shall make recommendations to the court concerning pretrial release decisions and provide supervision of defendants released while awaiting trial as ordered by the court.</p>
+            </content>
+          </section>
+          <section eId="sec_33-07-020">
+            <num>33.07.020</num>
+            <heading>Duties of commissioner; pretrial services.</heading>
+            <content>
+              <p>Sec. 33.07.020.   Duties of commissioner; pretrial services.
+The commissioner shall
+(1) appoint and make available to the superior court and district court qualified pretrial services officers;
+(2) fix pretrial services officers' salaries;
+(3) assign pretrial services officers to each judicial district;
+(4) provide for the necessary supervision, training, expenses, including clerical services, and travel of pretrial services officers;
+(5) approve a risk assessment instrument that is objective, standardized, and developed based on analysis of empirical data and risk factors relevant to pretrial failure, that evaluates the likelihood of failure to appear in court and the likelihood of rearrest during the pretrial period, and that is validated on the state's pretrial population; and
+(6) adopt regulations in consultation with the Department of Law, the public defender, the Department of Public Safety, the office of victims' rights, and the Alaska Court System, consistent with this chapter and as necessary to implement the program; the regulations must include a process for pretrial services officers to make a recommendation to the court concerning a pretrial release decision and guidelines for pretrial diversion recommendations.</p>
+            </content>
+          </section>
+          <section eId="sec_33-07-030">
+            <num>33.07.030</num>
+            <heading>Duties of pretrial services officers.</heading>
+            <subsection eId="33-07-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Pretrial services officers shall, in advance of a first appearance before a judicial officer under
+AS 12.30
+, conduct a pretrial risk assessment on the defendant using an instrument approved by the commissioner for the purpose of making a recommendation to the court concerning an appropriate pretrial release decision and conditions of release. In conducting a pretrial risk assessment and making a recommendation to the court, the pretrial services officer shall follow the decision-making process established by regulation under this chapter. The pretrial risk assessment shall be completed and presented to the court in a pretrial release report that contains a risk assessment rating of low, moderate, or high and a recommendation regarding release and release conditions, including a recommendation concerning a defendant's dependency on, abuse of, or addiction to alcohol or controlled substances, to the extent those factors are indicated by the offense or criminal history, before the defendant's first appearance before a judicial officer.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-07-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A pretrial services officer shall make a recommendation under (a) of this section for pretrial release to the court based on factors that include the results of a pretrial risk assessment, the offense charged, and the least restrictive condition or conditions that will reasonably ensure the appearance of the person in court and the safety of the victim, other persons, and the community. If the offense or criminal history of a defendant identifies that a dependency on, abuse of, or addiction to alcohol or controlled substances is a factor in the defendant's offense, the pretrial services officer shall include that identified fact in the report to the court and to the attorneys. The recommendation must take into account</p>
+              </content>
+              <paragraph eId="33-07-030__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the defendant's risk rating;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-07-030__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the appropriateness for release on the defendant's own recognizance or upon the execution of an unsecured appearance bond, unsecured performance bond, or both; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-07-030__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the appropriateness of nonmonetary release conditions permitted under
+AS 12.30.011
+, 12.30.016, 12.30.021, and 12.30.027 and supervision of those conditions by a pretrial services officer for defendants who are recommended for release.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-07-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A pretrial services officer shall recommend for release on personal recognizance, upon execution of an unsecured appearance bond, or upon execution of an unsecured performance bond, with nonmonetary conditions as appropriate, if a defendant is charged with</p>
+              </content>
+              <paragraph eId="33-07-030__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a misdemeanor, unless that misdemeanor is
+(A) a crime involving domestic violence, as defined in
+AS 18.66.990
+;
+(B) a crime against the person under
+AS 11.41
+;
+(C) an offense under
+AS 11.56.730
+or 11.56.757;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-07-030__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a class C felony, unless that felony is
+(A) a crime involving domestic violence, as defined in
+AS 18.66.990
+;
+(B) a crime against the person under
+AS 11.41
+;
+(C) an offense under
+AS 11.56.730
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-07-030__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an offense under
+AS 28.35.030
+or 28.35.032, if the defendant has been assessed as being low or moderate risk on the pretrial risk assessment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-07-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A pretrial services officer shall recommend release on personal recognizance, upon execution of an unsecured appearance bond, or upon execution of an unsecured performance bond, with nonmonetary conditions as appropriate, unless the pretrial services officer finds</p>
+              </content>
+              <paragraph eId="33-07-030__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>by substantial evidence that no nonmonetary conditions of release in combination with release on personal recognizance or upon execution of unsecured bond can reasonably ensure public safety and appearance in court; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-07-030__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the defendant has been charged with
+(A) an offense under
+AS 28.35.030
+or 28.35.032, and the offender has been assessed as high risk under a pretrial risk assessment;
+(B) an offense under
+AS 11.56.730
+or 11.56.757, and the offender has been assessed as low to moderate risk under a pretrial risk assessment; or
+(C) any other offense, and the defendant has been assessed as being low risk under a pretrial risk assessment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-07-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A pretrial services officer may recommend release on personal recognizance, upon execution of an unsecured appearance bond, or upon execution of an unsecured performance bond, with nonmonetary conditions as appropriate, for a defendant not otherwise recommended for release under (c) or (d) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-07-030__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A pretrial services officer may supervise a defendant released while awaiting trial, imposing the least restrictive level of supervision that will reasonably ensure the appearance of the person in court and the safety of the victim, other persons, and the community, and prioritizing higher levels of supervision for a defendant accused of serious charges or assessed as moderate or high risk under a pretrial risk assessment. The commissioner may, in accordance with
+AS 36.30
+, procure and enter into agreements or contracts for the supervision of defendants on electronic monitoring during the pretrial period.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-07-030__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A pretrial services officer may</p>
+              </content>
+              <paragraph eId="33-07-030__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>recommend pretrial diversion to the court and parties before adjudication in accordance with the guidelines established by the commissioner under
+AS 33.07.020
+(6);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-07-030__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the officer has probable cause to believe the defendant has committed an offense under
+AS 11.56.730
+or 11.56.757 or has violated the defendant's release conditions, file a complaint with the court and
+(A)  arrest, with or without a warrant, a defendant who has been released while awaiting trial; or
+(B)  request the court to issue warrants related to any violation of the defendant's release conditions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-07-030__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>refer interested defendants for substance abuse screening, assessment, and treatment on a voluntary basis and assist any defendant whose offense or criminal history identified a dependency on, abuse of, or addiction to alcohol or controlled substances with accessing and obtaining appropriate treatment in the community to address those needs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-07-030__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>recommend that a defendant charged with an offense involving the use of alcohol or controlled substances comply with a program established under
+AS 47.38.020
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-07-030__subsec_g__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>coordinate with community-based organizations and tribal courts and councils to develop and expand pretrial diversion options.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_33-07-040">
+            <num>33.07.040</num>
+            <heading>Pretrial services officers as officers of court.</heading>
+            <content>
+              <p>Sec. 33.07.040.   Pretrial services officers as officers of court.
+All pretrial services officers shall be available to the superior and district courts and shall be officers of the court.</p>
+            </content>
+          </section>
+          <section eId="sec_33-07-090">
+            <num>33.07.090</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 33.07.090.   Definitions.
+In this chapter,
+(1) commissioner means the commissioner of corrections;
+(2) program means the pretrial services program.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

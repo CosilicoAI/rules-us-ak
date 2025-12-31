@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-25/chapter-15"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-25/chapter-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="25.15"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-25/chapter-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-25/chapter-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-25/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-25/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_25">
+        <num>25</num>
+        <heading>Marital and Domestic Relations</heading>
+        <chapter eId="title_25__chp_15">
+          <num>15</num>
+          <heading>Husband and Wife</heading>
+          <section eId="sec_25-15-010">
+            <num>25.15.010</num>
+            <heading>Property of one spouse not subject to contracts or liabilities of other.</heading>
+            <content>
+              <p>Sec. 25.15.010.   Property of one spouse not subject to contracts or liabilities of other.
+When property is owned by one spouse, the other has no interest that makes the property liable for the contracts or liabilities of the spouse who is not the owner of the property, except as provided in this chapter and
+AS 34.77
+.</p>
+            </content>
+          </section>
+          <section eId="sec_25-15-020">
+            <num>25.15.020</num>
+            <heading>Actions between spouses respecting property.</heading>
+            <content>
+              <p>Sec. 25.15.020.   Actions between spouses respecting property.
+Subject to
+AS 34.77
+, if one spouse obtains possession or control of property belonging to the other, either before or after marriage, the owner of the property may maintain an action for it, or for any right growing out of it, in the same manner and to the same extent as if they were unmarried.</p>
+            </content>
+          </section>
+          <section eId="sec_25-15-030">
+            <num>25.15.030</num>
+            <heading>Validity of conveyance, transfer, or lien between spouses.</heading>
+            <content>
+              <p>Sec. 25.15.030.   Validity of conveyance, transfer, or lien between spouses.
+A conveyance, transfer, or lien executed by one spouse to or in favor of the other is valid to the same extent as between other persons.</p>
+            </content>
+          </section>
+          <section eId="sec_25-15-040">
+            <num>25.15.040</num>
+            <heading>Authority to act as attorney-in-fact for each other.</heading>
+            <content>
+              <p>Sec. 25.15.040.   Authority to act as attorney-in-fact for each other.
+A husband or wife may appoint the other as attorney-in-fact to control or dispose of property, and may revoke the appointment to the same extent and manner as other persons.</p>
+            </content>
+          </section>
+          <section eId="sec_25-15-050">
+            <num>25.15.050</num>
+            <heading>Nonliability for premarital or separate debts of other.</heading>
+            <content>
+              <p>Sec. 25.15.050.   Nonliability for premarital or separate debts of other.
+Subject to
+AS 34.77
+, neither spouse is liable for the debts or liabilities of the other incurred before marriage, and, except as otherwise provided, neither is liable for the separate debts of the other, nor is the rent or income of the property of one spouse liable for the separate debts of the other.</p>
+            </content>
+          </section>
+          <section eId="sec_25-15-060">
+            <num>25.15.060</num>
+            <heading>Control and liability of separate property of spouse.</heading>
+            <content>
+              <p>Sec. 25.15.060.   Control and liability of separate property of spouse.
+Subject to
+AS 34.77
+, the property and pecuniary rights of a married person at the time of marriage or afterwards that are acquired by gift, devise, or inheritance are not subject to the debts or contracts of the other spouse, and a spouse may manage, sell, convey, or devise the property and pecuniary rights that by will are separate property of that spouse.</p>
+            </content>
+          </section>
+          <section eId="sec_25-15-100">
+            <num>25.15.100</num>
+            <heading>Married person may contract or incur liabilities.</heading>
+            <content>
+              <p>Sec. 25.15.100.   Married person may contract or incur liabilities.
+A married person may make contracts and may incur liabilities, and the contracts and liabilities may be enforced by or against the person to the same extent and in the same manner as if the person were unmarried.</p>
+            </content>
+          </section>
+          <section eId="sec_25-15-110">
+            <num>25.15.110</num>
+            <heading>Laws imposing civil disabilities upon married persons repealed.</heading>
+            <content>
+              <p>Sec. 25.15.110.   Laws imposing civil disabilities upon married persons repealed.
+All laws that impose or recognize civil disabilities upon a married person that are not imposed or recognized as existing as to the other spouse are repealed.  For any unjust usurpation of property or natural rights a married person has the same right to appeal individually to all courts for redress that the other spouse has.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

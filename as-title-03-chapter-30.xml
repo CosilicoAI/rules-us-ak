@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-30"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="3.30"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_3">
+        <num>3</num>
+        <heading>Agriculture, Animals, and Food</heading>
+        <chapter eId="title_3__chp_30">
+          <num>30</num>
+          <heading>Fences</heading>
+          <section eId="sec_03-30-020">
+            <num>03.30.020</num>
+            <heading>Duty to keep barbed wire fences in repair.</heading>
+            <content>
+              <p>Sec. 03.30.020.   Duty to keep barbed wire fences in repair.
+A person having a barbed wire fence shall keep it in good repair. When a domesticated animal is killed or injured by coming in contact with a barbed wire fence that is not at the time of injury kept in substantial compliance with this section and
+AS 03.30.030
+, the owner of the animal may recover from the owner of the fence a sum equal to the amount of damages sustained in the killing or injury to the animal.</p>
+            </content>
+          </section>
+          <section eId="sec_03-30-030">
+            <num>03.30.030</num>
+            <heading>Fence as nuisance.</heading>
+            <content>
+              <p>Sec. 03.30.030.   Fence as nuisance.
+Any wire fence so dilapidated as to be of no practical use as a fence that is a menace to livestock is a public nuisance and may be abated by a court in a proceeding instituted for that purpose.</p>
+            </content>
+          </section>
+          <section eId="sec_03-30-060">
+            <num>03.30.060</num>
+            <heading>Failure to close roadside gate used for retaining livestock.</heading>
+            <content>
+              <p>Sec. 03.30.060.   Failure to close roadside gate used for retaining livestock.
+A person failing to close a roadside gate after opening the same is presumed to be negligent and liable for all consequent damage upon proof thereof. For the purposes of this section, a roadside gate is a contrivance located alongside or near a public or private road made for the purpose of passing through a fence that is used for or intended to be used for the retention of livestock.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

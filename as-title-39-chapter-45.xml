@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-39/chapter-45"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-39/chapter-45"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="39.45"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-39/chapter-45/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-39/chapter-45/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-39/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-39/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_39">
+        <num>39</num>
+        <heading>Public Officers and Employees</heading>
+        <chapter eId="title_39__chp_45">
+          <num>45</num>
+          <heading>Public Employees' Deferred Compensation Program</heading>
+          <section eId="sec_39-45-010">
+            <num>39.45.010</num>
+            <heading>Authority.</heading>
+            <content>
+              <p>Sec. 39.45.010.   Authority.
+The state or a political subdivision of the state may, by contract, agree with an employee to defer, in whole or in part, that employee's salary or wages.</p>
+            </content>
+          </section>
+          <section eId="sec_39-45-020">
+            <num>39.45.020</num>
+            <heading>Administration of program.</heading>
+            <subsection eId="39-45-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The administration of the deferred compensation program for state employees is under the direction of the Department of Administration.  A political subdivision coming under the provisions of this chapter shall designate the office or official to administer its program.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Payroll deductions are authorized by this chapter and shall be made by the appropriate payroll officer.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The administrator of a deferred compensation program may contract with a private person for providing consolidated billing and other administrative services.  The administrator may contract with an insurance carrier to reimburse the state or political subdivision of the state for the cost of administering the deferred compensation program.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The administrator of a deferred compensation program under this chapter has the powers and duties with regard to the program as set out in
+AS 14.25.003
+and 14.25.004, as though those provisions applied to the program.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_39-45-030">
+            <num>39.45.030</num>
+            <heading>Investment authority.</heading>
+            <subsection eId="39-45-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Alaska Retirement Management Board is authorized, subject to contracts with individual employees, to invest the funds held under a deferred compensation program. The board has the same powers and duties concerning the management and investment in regard to those funds as are provided under
+AS 37.10.220
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 24 ch 31 SLA 1992.]</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The board may provide a range of investment options and permit a participant or beneficiary of the program to exercise control over the assets in the individual's account. If the board offers investment options, and if a participant or beneficiary exercises control over the assets in the individual's account,</p>
+              </content>
+              <paragraph eId="39-45-030__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the participant or beneficiary is not considered a fiduciary for any reason on the basis of exercising that control; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="39-45-030__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a person who is otherwise a fiduciary is not liable under this section for any loss, or by reason of any breach, that results from the individual's exercise of control.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="39-45-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the board is considering entering into a contract or modifying an existing contract concerning the management or investment of funds of the deferred compensation program, the board shall consult with the commissioner of administration before making a decision on the issue.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The board shall develop a contingency plan that addresses the board's response to possible future investment problems.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-030__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Except to the extent clearly set out in the terms of the plan document offered by the employer to the employee, the employer is not liable to the employee for investment losses if the prudent investment standard has been met.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-030__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In this section, board means the Alaska Retirement Management Board.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_39-45-040">
+            <num>39.45.040</num>
+            <heading>Additional benefits.</heading>
+            <content>
+              <p>Sec. 39.45.040.   Additional benefits.
+The deferred compensation program established under this chapter exists and serves in addition to any existing retirement, pension, or benefit system established by the state or its political subdivisions and may not effect a reduction in benefits receivable under an existing system.</p>
+            </content>
+          </section>
+          <section eId="sec_39-45-050">
+            <num>39.45.050</num>
+            <heading>Tax deferred investments.</heading>
+            <subsection eId="39-45-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The administrator of a deferred compensation program under this chapter shall invest in contracts that</p>
+              </content>
+              <paragraph eId="39-45-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>allow for deferment of state and federal income tax until benefits are received under the program; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="39-45-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>do not provide for deferral of state and federal income tax until the benefits are received under the program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="39-45-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A participating employer may designate that employee contributions consist of deferred tax contributions, Roth contributions, or both. In the absence of an affirmative election to make Roth contributions, an employee's contribution shall be considered to consist entirely of deferred tax contributions.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Contributions made on behalf of a participating employee for any calendar year, whether deferred tax contributions or Roth contributions, shall not exceed the dollar limitation set out in 26 U.S.C. 402(g) (Internal Revenue Code) in effect for the calendar year, subject to the provisions of 26 U.S.C. 414(v) (Internal Revenue Code). Contribution amounts in excess of the applicable dollar limits shall be distributed to the participant not later than April 15 after the close of the plan year to which the excess contribution relates. To the extent that a participating employee's contributions are reduced or returned to comply with the limitations of the plan, and the participant has allocated the contributions between deferred tax contributions and Roth contributions, the amount of the reduction or return shall be taken first from deferred tax contributions, to the extent of the contributions for the plan year, and, only after the reduction or return of all the deferred tax contributions, from Roth contributions for the plan year.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Deferred tax contributions made on behalf of a participating employee for a plan year shall be allocated to the deferred tax contribution account of the participating employee, as determined by the administrator.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Roth contributions made on behalf of a participating employee for a plan year shall be allocated to the Roth contribution account of the participating employee, as determined by the administrator.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-45-050__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The administrator may establish additional rules and procedures governing the manner and timing of elections by participating employees to make or change the deferred tax contribution or Roth contribution election, as needed for compliance with federal and state law and as needed for efficiency and effectiveness of plan administration.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_39-45-055">
+            <num>39.45.055</num>
+            <heading>Appeals.</heading>
+            <content>
+              <p>Sec. 39.45.055.   Appeals.
+A final decision made under
+AS 39.45.010
+ 39.45.060 is subject to appeal under
+AS 44.64
+.</p>
+            </content>
+          </section>
+          <section eId="sec_39-45-060">
+            <num>39.45.060</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 39.45.060.   Definitions.
+In this chapter,
+(1) board means the trustees of the Alaska Retirement Management Board established under
+AS 37.10.210
+;
+(2) employee means a person, whether appointed, elected, or under contract, who provides services for the state or a political subdivision of the state for which compensation is given;
+(3) Roth contribution means a contribution under 26 U.S.C. 402A(c) (Internal Revenue Code).</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

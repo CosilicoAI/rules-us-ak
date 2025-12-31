@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-12"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-12"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.12"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-12/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-12/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-12/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-12/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_12">
+          <num>12</num>
+          <heading>Holidays, Agency Office Hours, and Official Language</heading>
+          <section eId="sec_44-12-010">
+            <num>44.12.010</num>
+            <heading>Legal holidays.</heading>
+            <subsection eId="44-12-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The following days are legal holidays:</p>
+              </content>
+              <paragraph eId="44-12-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the first of January, known as New Year's Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the third Monday of January, known as Martin Luther King, Jr.'s Birthday as provided in (b) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the third Monday in February, known as Presidents' Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the last Monday of March, known as Seward's Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the last Monday in May, known as Memorial Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the 19th of June, known as Juneteenth Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the fourth of July, known as Independence Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the first Monday in September, known as Labor Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>the 18th of October, known as Alaska Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>the 11th of November, known as Veterans' Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>the fourth Thursday in November, known as Thanksgiving Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>the 25th of December, known as Christmas Day;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>every Sunday;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>every day designated by public proclamation by the President of the United States or the governor of the state as a legal holiday.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-12-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For employment purposes, Martin Luther King, Jr.'s Birthday is a legal holiday for state employees who</p>
+              </content>
+              <paragraph eId="44-12-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>are not covered by a collective bargaining agreement; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>are covered by a collective bargaining agreement whose terms
+(A) include by name Martin Luther King, Jr.'s Birthday; or
+(B) have been amended to substitute a holiday on the third Monday of January for Martin Luther King, Jr.'s Birthday in place of another paid holiday.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_44-12-020">
+            <num>44.12.020</num>
+            <heading>Holiday falling on Sunday.</heading>
+            <content>
+              <p>Sec. 44.12.020.   Holiday falling on Sunday.
+If a holiday listed in
+AS 44.12.010
+, except
+AS 44.12.010
+(a)(13), falls on a Sunday, Sunday and the following Monday are both legal holidays.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-025">
+            <num>44.12.025</num>
+            <heading>Holiday falling on Saturday.</heading>
+            <content>
+              <p>Sec. 44.12.025.   Holiday falling on Saturday.
+If a holiday listed in
+AS 44.12.010
+falls on a Saturday, the Saturday and the preceding Friday are both legal holidays for officers and employees of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-030">
+            <num>44.12.030</num>
+            <heading>Wickersham Day.</heading>
+            <content>
+              <p>Sec. 44.12.030.   Wickersham Day.
+August 24 is designated Wickersham Day in honor of James Wickersham, and is the occasion for school assemblies with appropriate programs, and other suitable observances and exercises by civic groups and the public in general.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-040">
+            <num>44.12.040</num>
+            <heading>Anthony J. Dimond Day.</heading>
+            <content>
+              <p>Sec. 44.12.040.   Anthony J. Dimond Day.
+November 30 is designated Anthony J. Dimond Day in honor of Tony Dimond, and shall be observed by appropriate school assemblies and programs, and other suitable observances and exercises by civic groups and the public at large.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-050">
+            <num>44.12.050</num>
+            <heading>Ernest Gruening Day.</heading>
+            <content>
+              <p>Sec. 44.12.050.   Ernest Gruening Day.
+Ernest Gruening Day is established on February 6 of each year to honor Ernest Gruening, doctor, editor, and statesman, for a lifetime of service to the territory and state of Alaska and the nation.  Ernest Gruening Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-055">
+            <num>44.12.055</num>
+            <heading>Bob Bartlett Day.</heading>
+            <content>
+              <p>Sec. 44.12.055.   Bob Bartlett Day.
+Bob Bartlett Day is established on April 20 of each year to honor E.L. Bob Bartlett, the architect of Alaska statehood, for a lifetime of public service to Alaska and the nation.  Bob Bartlett Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-060">
+            <num>44.12.060</num>
+            <heading>William A. Egan Day.</heading>
+            <content>
+              <p>Sec. 44.12.060.   William A. Egan Day.
+William A.  Egan Day is established on October 8 of each year to honor William Bill Egan, the first governor of the state of Alaska, for a lifetime of service to the territory and state of Alaska. William A.  Egan Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-061">
+            <num>44.12.061</num>
+            <heading>Walter Harper Day.</heading>
+            <content>
+              <p>Sec. 44.12.061.   Walter Harper Day.
+Walter Harper Day is established on June 7 of each year to honor Walter Harper, who in 1913 became the first person to summit Denali, for his superb subsistence skills, his integrity, his strong sense of identity and purpose, and his ability to navigate comfortably in both the Athabascan culture and other cultures of the United States. Walter Harper Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-063">
+            <num>44.12.063</num>
+            <heading>Katie John Day.</heading>
+            <content>
+              <p>Sec. 44.12.063.   Katie John Day.
+Katie John Day is established on May 31 of each year to honor Ahtna Athabascan elder Katie John for her mentoring and advocacy in defense of Alaska Native customary and traditional hunting, fishing, and gathering rights. Katie John Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-065">
+            <num>44.12.065</num>
+            <heading>Elizabeth Peratrovich Day.</heading>
+            <content>
+              <p>Sec. 44.12.065.   Elizabeth Peratrovich Day.
+Elizabeth Peratrovich Day is established on February 16 of each year to honor Elizabeth Peratrovich, past Grand President of the Alaska Native Sisterhood, for her courageous, unceasing efforts to eliminate discrimination and bring about equal rights in Alaska. Elizabeth Peratrovich Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-066">
+            <num>44.12.066</num>
+            <heading>Susan Butcher Day.</heading>
+            <content>
+              <p>Sec. 44.12.066.   Susan Butcher Day.
+Susan Butcher Day is established on the first Saturday of March of each year, the traditional start date of the Iditarod Trail Sled Dog Race, to honor Susan Butcher, a loving mother, devoted wife, world-class athlete, determined competitor, true Alaskan, and four-time Iditarod Trail Sled Dog Race champion. Susan Butcher Day may be observed by school assemblies, sporting events, and other suitable observances and exercises by civic groups and the public to remember the life of Susan Butcher, an inspiration to Alaskans and to millions around the world.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-067">
+            <num>44.12.067</num>
+            <heading>Ted Stevens Day.</heading>
+            <content>
+              <p>Sec. 44.12.067.   Ted Stevens Day.
+Ted Stevens Day is established on the fourth Saturday of July each year to honor Theodore F. Ted Stevens, whose long record of public service includes 40 years as a United States senator from Alaska, for his service to the state and the nation. Ted Stevens Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-068">
+            <num>44.12.068</num>
+            <heading>Vietnam Veterans Day.</heading>
+            <content>
+              <p>Sec. 44.12.068.   Vietnam Veterans Day.
+Vietnam Veterans Day is established on March 29 of each year to acknowledge and commemorate the military service of American men and women in Vietnam. The day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-070">
+            <num>44.12.070</num>
+            <heading>Alaska Flag Day.</heading>
+            <content>
+              <p>Sec. 44.12.070.   Alaska Flag Day.
+Alaska Flag Day is established on July 9 of each year to honor the creation of the design of the official flag of the state by Benny Benson and its importance as a symbol of the state. Alaska Flag Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-072">
+            <num>44.12.072</num>
+            <heading>Alaska Day of Prayer.</heading>
+            <content>
+              <p>Sec. 44.12.072.   Alaska Day of Prayer.
+The Alaska Day of Prayer is established on the first Thursday in May each year as an opportunity for residents of all faiths to join in united prayer to give thanks for blessings received, to request healing for wounds endured, to ask divine guidance for our leaders, and to bring wholeness to the citizens of our state and our nation.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-074">
+            <num>44.12.074</num>
+            <heading>Fetal Alcohol Spectrum Disorders Awareness Day.</heading>
+            <content>
+              <p>Sec. 44.12.074.   Fetal Alcohol Spectrum Disorders Awareness Day.
+Fetal Alcohol Spectrum Disorders Awareness Day is established on September 9 of each year to promote awareness of the fact that there is no known safe level of alcohol consumption during pregnancy, to promote awareness of the effects of prenatal exposure to alcohol, to increase identification of children with fetal alcohol spectrum disorders, and to improve the lives of those affected by fetal alcohol spectrum disorders.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-075">
+            <num>44.12.075</num>
+            <heading>Family day and family preservation month.</heading>
+            <content>
+              <p>Sec. 44.12.075.   Family day and family preservation month.
+Family Day is established on May 1 of each year to celebrate the institution of the family. The month of May each year is established as Preservation of the Family Month to encourage the preservation of the institution of the family. Family Day and Preservation of the Family Month may be observed by suitable observances by families, such as a family discussion of the role of families, the rights and responsibilities of children and parents, and appropriate methods for the resolution of violent feelings in family conflict, and by exercises by civic groups and the public. In observance of Family Preservation Month, the Department of Family and Community Services shall encourage the prevention of child abuse and neglect in Alaska families.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-076">
+            <num>44.12.076</num>
+            <heading>Prisoners of War and Missing in Action Recognition Days.</heading>
+            <subsection eId="44-12-076__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Former Prisoners of War Recognition Day is established on April 9 of each year to recognize and honor all former prisoners of war (POWs) from our nation's wars who have returned home. These POWs repeatedly demonstrated their devotion to duty, honor, and country, despite enduring captivity and sometimes brutal treatment by their captors. The governor shall issue a proclamation to commemorate the day, and the POW/MIA flag shall be flown that day at sites identified by the governor. Former POW Recognition Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-12-076__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prisoners of War and Missing in Action Recognition Day is established on the third Friday of September each year to honor all prisoners of war (POWs) and those missing in action (MIAs), unaccounted for from all our nation's wars or who died in captivity. These POWs and MIAs repeatedly demonstrated their devotion to duty, honor, and country, despite enduring captivity and sometimes brutal treatment by their captors. The fate of those unaccounted for and missing in action from our nation's wars causes considerable uncertainty for their families, friends, fellow soldiers, and veterans. This day is also an occasion for Alaskans to remember our country's enormous responsibility to do everything possible to account for those still missing in action. The governor shall issue a proclamation to commemorate the day, and the POW/MIA flag shall be flown that day at sites identified by the governor. POW and MIA Recognition Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-12-077">
+            <num>44.12.077</num>
+            <heading>Military Family Day.</heading>
+            <content>
+              <p>Sec. 44.12.077.   Military Family Day.
+Military Family Day is established on November 1 of each year to honor military families. Military Family Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-078">
+            <num>44.12.078</num>
+            <heading>Women Veterans Day.</heading>
+            <content>
+              <p>Sec. 44.12.078.   Women Veterans Day.
+Women Veterans Day is established on November 9 of each year to acknowledge and commemorate the sacrifices endured and valor displayed by American women veterans and to recognize their increasing role in the military. The governor shall issue a proclamation to commemorate Women Veterans Day. The day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-080">
+            <num>44.12.080</num>
+            <heading>Pearl Harbor Remembrance Day.</heading>
+            <content>
+              <p>Sec. 44.12.080.   Pearl Harbor Remembrance Day.
+Pearl Harbor Remembrance Day is established on December 7 of each year to commemorate the attack on Pearl Harbor on December 7, 1941, and to honor the individuals who died as a result of the attack. The governor shall issue a proclamation to commemorate the day and shall direct that the Alaska flag be flown at half-mast on that day. Pearl Harbor Remembrance Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-083">
+            <num>44.12.083</num>
+            <heading>Alaska Territorial Guard Day.</heading>
+            <content>
+              <p>Sec. 44.12.083.   Alaska Territorial Guard Day.
+Alaska Territorial Guard Day is established on October 18 of each year to acknowledge and commemorate the service of the members of the Alaska Territorial Guard in defense of Alaska and the United States during World War II. The governor shall issue a proclamation to commemorate Alaska Territorial Guard Day. The day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-085">
+            <num>44.12.085</num>
+            <heading>Dutch Harbor Remembrance Day.</heading>
+            <content>
+              <p>Sec. 44.12.085.   Dutch Harbor Remembrance Day.
+Dutch Harbor Remembrance Day is established on June 3 of each year to commemorate the attack on Dutch Harbor on June 3, 1942, and to honor the individuals who died as a result of the attack and those inhabitants of Attu and Kiska who fell into enemy hands three days later and were held captive in Japan until the end of World War II. On Dutch Harbor Remembrance Day the many servicemen who died in 1943 while recapturing Attu and Kiska from the Japanese are also honored for their diligent service to the United States and to the state. The governor shall issue a proclamation to commemorate Dutch Harbor Remembrance Day and shall direct that the Alaska flag be flown at half-mast on that day. The day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-087">
+            <num>44.12.087</num>
+            <heading>Great Alaska Good Friday Earthquake Remembrance Day.</heading>
+            <content>
+              <p>Sec. 44.12.087.   Great Alaska Good Friday Earthquake Remembrance Day.
+Great Alaska Good Friday Earthquake Remembrance Day is established on March 27 of each year to honor those who died throughout the state in earthquakes, tsunamis, and landslides after the most powerful recorded earthquake in North America, and also to honor those who died attempting to save others. The devastating consequences and efforts of recovery after the 1964 earthquake provided many lessons that should not be forgotten and should be used to develop a safer human environment in the state and to increase public awareness, which is the most cost-effective and critical aspect of preparation for the next earthquake. The governor shall issue a proclamation to commemorate Great Alaska Good Friday Earthquake Remembrance Day and shall direct that the Alaska flag be flown at half-mast on that day. The day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-090">
+            <num>44.12.090</num>
+            <heading>Juneteenth Day.</heading>
+            <content>
+              <p>Sec. 44.12.090.   Juneteenth Day.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-090">
+            <num>44.12.090</num>
+            <heading>Juneteenth Day.</heading>
+            <content>
+              <p>Sec. 44.12.090.   Juneteenth Day.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-092">
+            <num>44.12.092</num>
+            <heading>Alaska History Week.</heading>
+            <content>
+              <p>Sec. 44.12.092.   Alaska History Week.
+The first week of March of each year is established as Alaska History Week to celebrate the contributions and experiences that comprise the past development of The Great Land. Alaska History Week may be observed by school assemblies, programs, and other suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-094">
+            <num>44.12.094</num>
+            <heading>Alaska Mining Day.</heading>
+            <content>
+              <p>Sec. 44.12.094.   Alaska Mining Day.
+Alaska Mining Day is established on May 10 of each year to recognize and honor the intrepid individuals and industry that played an enormous role in settling and developing the territory and the state and that continue to contribute to the economy of the state. Mining served as a driving force behind the creation of the Alaska Railroad in the early 20th century, and the ongoing development of the mineral resources of the state, including rare earth minerals, contributes to the security and economy of the state and the nation. Alaska Mining Day may be observed by educational and celebratory events, projects, and activities to increase public awareness of and appreciation for mining and miners in the state and the many uses for the minerals mined in the state.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-095">
+            <num>44.12.095</num>
+            <heading>Drunk Driving Victims Remembrance Day.</heading>
+            <content>
+              <p>Sec. 44.12.095.   Drunk Driving Victims Remembrance Day.
+Drunk Driving Victims Remembrance Day is established on July 3 of each year to commemorate the victims of drunk driving. The governor shall issue a proclamation to commemorate the day. The day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-098">
+            <num>44.12.098</num>
+            <heading>Avalanche Awareness Month.</heading>
+            <content>
+              <p>Sec. 44.12.098.   Avalanche Awareness Month.
+The month of November each year is established as Avalanche Awareness Month. Avalanche Awareness Month may be observed by schools, community groups, and other public and private agencies and individuals with appropriate activities that increase the public's awareness of avalanche dangers, how to respond to avalanches, and the use of appropriate equipment in avalanche areas.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-100">
+            <num>44.12.100</num>
+            <heading>Older Alaskans' Day.</heading>
+            <content>
+              <p>Sec. 44.12.100.   Older Alaskans' Day.
+The second Wednesday of September of each year is established as Older Alaskans' Day to honor residents of the state who are 60 years of age or older for the many contributions made by older Alaskans to the state. The day may be celebrated by public ceremonies and by quiet appreciation.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-105">
+            <num>44.12.105</num>
+            <heading>Alaska Agriculture Day.</heading>
+            <content>
+              <p>Sec. 44.12.105.   Alaska Agriculture Day.
+Alaska Agriculture Day is established on the first Tuesday in May each year in order to recognize the many contributions of the agricultural industry in Alaska. Alaska Agriculture Day may be observed by celebratory events, projects, and activities directed at or involving people of all ages to increase their awareness and appreciation of Alaska agriculture and agriculture in general.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-106">
+            <num>44.12.106</num>
+            <heading>4-H Day.</heading>
+            <content>
+              <p>Sec. 44.12.106.   4-H Day.
+The first Wednesday of October of each year is established as 4-H Day in recognition of the contributions of 4-H programs to the positive development of youth in the state. 4-H Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-108">
+            <num>44.12.108</num>
+            <heading>Children's Day.</heading>
+            <content>
+              <p>Sec. 44.12.108.   Children's Day.
+Children's Day is established on the second Sunday of June of each year to honor Alaska children and to promote their value and well-being in our communities. Children's Day may be observed by suitable observances and activities by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-110">
+            <num>44.12.110</num>
+            <heading>Marmot Day.</heading>
+            <content>
+              <p>Sec. 44.12.110.   Marmot Day.
+Marmot Day is established on February 2 of each year. The day may be observed by suitable observances and exercises by school programs, the Alaska Zoo, civic groups, and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-115">
+            <num>44.12.115</num>
+            <heading>Purple Heart Day.</heading>
+            <content>
+              <p>Sec. 44.12.115.   Purple Heart Day.
+Purple Heart Day is established on August 7 of each year to honor recipients of the Purple Heart. The day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-118">
+            <num>44.12.118</num>
+            <heading>Motorcycle and Motor Scooter Awareness Month.</heading>
+            <content>
+              <p>Sec. 44.12.118.   Motorcycle and Motor Scooter Awareness Month.
+The month of May each year is established as Motorcycle and Motor Scooter Awareness Month. Motorcycle and Motor Scooter Awareness Month may be observed by schools, community groups, and other public and private agencies and individuals with appropriate activities that increase the public's awareness of the presence of motorcycles and motor scooters on roads and highways in the state and that remind motor vehicle drivers to be aware of the presence of motorcycles and motor scooters when driving.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-120">
+            <num>44.12.120</num>
+            <heading>Alaska Public Gardens Day.</heading>
+            <content>
+              <p>Sec. 44.12.120.   Alaska Public Gardens Day.
+Alaska Public Gardens Day is established on the Saturday immediately preceding Memorial Day each year to commemorate the state's public gardens and the role the gardens play in promoting environmental stewardship, the economy, a healthy food supply, education, plant conservation, recreation, and research.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-121">
+            <num>44.12.121</num>
+            <heading>Alaska Wild Salmon Day.</heading>
+            <subsection eId="44-12-121__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Alaska Wild Salmon Day is established on August 10 of each year to celebrate the enormous bounty that the following wild salmon bring to the state every year:</p>
+              </content>
+              <paragraph eId="44-12-121__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>chinook, also known as king;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-121__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>sockeye, also known as red;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-121__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>coho, also known as silver;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-121__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>chum, also known as dog or keta; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-121__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>pink, also known as humpy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-12-121__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Alaska Wild Salmon Day may be observed by educational and celebratory events, projects, and activities.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-12-125">
+            <num>44.12.125</num>
+            <heading>Alaska National Guard Day.</heading>
+            <content>
+              <p>Sec. 44.12.125.   Alaska National Guard Day.
+Alaska National Guard Day is established on July 30 of each year to honor the Alaska National Guard. Alaska National Guard Day may be observed by suitable observances and exercises by the Alaska National Guard, civic groups, and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-130">
+            <num>44.12.130</num>
+            <heading>Jay Hammond Day.</heading>
+            <content>
+              <p>Sec. 44.12.130.   Jay Hammond Day.
+Jay Hammond Day is established on July 21 of each year to honor Governor Jay Hammond. Jay Hammond Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-135">
+            <num>44.12.135</num>
+            <heading>Dr. Walter Soboleff Day.</heading>
+            <content>
+              <p>Sec. 44.12.135.   Dr. Walter Soboleff Day.
+Dr. Walter Soboleff Day is established on November 14 of each year to honor Dr. Walter Soboleff. Dr. Walter Soboleff Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-137">
+            <num>44.12.137</num>
+            <heading>Vic Fischer and Jack Coghill Constitution of the State of Alaska Day.</heading>
+            <content>
+              <p>Sec. 44.12.137.   Vic Fischer and Jack Coghill Constitution of the State of Alaska Day.
+Vic Fischer and Jack Coghill Constitution of the State of Alaska Day is established on April 24 of each year to honor Jack Coghill, Vic Fischer, and the other delegates to the Alaska Constitutional Convention and commemorate the creation of the Constitution of the State of Alaska. Vic Fischer and Jack Coghill Constitution of the State of Alaska Day may be observed at school assemblies and by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-140">
+            <num>44.12.140</num>
+            <heading>Alaska Law Enforcement Officers' Day.</heading>
+            <content>
+              <p>Sec. 44.12.140.   Alaska Law Enforcement Officers' Day.
+Alaska Law Enforcement Officers' Day is established on January 9 each year to honor law enforcement officers and peace officers. Alaska Law Enforcement Officers' Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-143">
+            <num>44.12.143</num>
+            <heading>Alaska Community Health Aide Appreciation Day.</heading>
+            <content>
+              <p>Sec. 44.12.143.   Alaska Community Health Aide Appreciation Day.
+Alaska Community Health Aide Appreciation Day is established on September 10 each year to honor community health aides. Alaska Community Health Aide Appreciation Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-145">
+            <num>44.12.145</num>
+            <heading>Alaska Firefighters' Day.</heading>
+            <content>
+              <p>Sec. 44.12.145.   Alaska Firefighters' Day.
+Alaska Firefighters' Day is established on the Sunday preceding October 9 each year to honor firefighters in the state. If October 9 falls on a Sunday, then Alaska Firefighters' Day is on October 9. Alaska Firefighters' Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-150">
+            <num>44.12.150</num>
+            <heading>African American Soldiers' Contribution to Building the Alaska Highway Day.</heading>
+            <content>
+              <p>Sec. 44.12.150.   African American Soldiers' Contribution to Building the Alaska Highway Day.
+African American Soldiers' Contribution to Building the Alaska Highway Day is established on October 25 each year, beginning in 2017, the 75th anniversary of completion of the Alaska Highway, to honor the sacrifices made by African American soldiers who built the Alaska Highway. African American Soldiers' Contribution to Building the Alaska Highway Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-152">
+            <num>44.12.152</num>
+            <heading>Filipino American History Month.</heading>
+            <content>
+              <p>Sec. 44.12.152.   Filipino American History Month.
+The month of October each year is established as Filipino American History Month. Filipino American History Month may be observed by schools, community groups, and other public and private agencies and individuals with appropriate activities to honor and recognize the contributions that Filipino Americans have made in the history of the state and the United States.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-153">
+            <num>44.12.153</num>
+            <heading>Hmong-American Veterans Day.</heading>
+            <content>
+              <p>Sec. 44.12.153.   Hmong-American Veterans Day.
+Hmong-American Veterans Day is established on May 15 of each year to acknowledge and commemorate the military service of Hmong-American men and women. Hmong-American Veterans Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-155">
+            <num>44.12.155</num>
+            <heading>Indigenous Peoples Day.</heading>
+            <content>
+              <p>Sec. 44.12.155.   Indigenous Peoples Day.
+Indigenous Peoples Day is established on the second Monday of October of each year. Indigenous Peoples Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-157">
+            <num>44.12.157</num>
+            <heading>Alaska Native Heritage Month.</heading>
+            <content>
+              <p>Sec. 44.12.157.   Alaska Native Heritage Month.
+The month of November each year is established as Alaska Native Heritage Month. Alaska Native Heritage Month may be observed by schools, community groups, and other public and private agencies and individuals with appropriate activities to honor and recognize the contributions made by Alaska Natives in the history of this state and the United States.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-160">
+            <num>44.12.160</num>
+            <heading>Teen Dating Violence Awareness and Prevention Month.</heading>
+            <content>
+              <p>Sec. 44.12.160.   Teen Dating Violence Awareness and Prevention Month.
+The month of February each year is established as Teen Dating Violence Awareness and Prevention Month. Teen Dating Violence Awareness and Prevention Month may be observed by schools, community groups, and other public and private agencies and individuals with appropriate activities that increase the public's awareness of teen dating violence in the state, encourage Alaskans to pursue healthy relationships and learn the signs of teen dating violence, and promote prevention of and action to end teen dating violence.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-162">
+            <num>44.12.162</num>
+            <heading>Ashley Johnson-Barr Day.</heading>
+            <content>
+              <p>Sec. 44.12.162.   Ashley Johnson-Barr Day.
+Ashley Johnson-Barr Day is established on March 12 of each year to honor Ashley Johnson-Barr. Ashley Johnson-Barr Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-165">
+            <num>44.12.165</num>
+            <heading>Sobriety Awareness Month.</heading>
+            <content>
+              <p>Sec. 44.12.165.   Sobriety Awareness Month.
+The month of March each year is established as Sobriety Awareness Month. Sobriety Awareness Month may be observed by schools, community groups, and other public and private agencies and individuals with appropriate activities that increase the public's awareness of prevention and treatment of alcoholism, drug abuse, and misuse of hazardous volatile materials and substances by inhalant abusers.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-170">
+            <num>44.12.170</num>
+            <heading>Patriot Day.</heading>
+            <content>
+              <p>Sec. 44.12.170.   Patriot Day.
+Patriot Day is established on September 11 of each year to commemorate the terrorist attacks on the United States on September 11, 2001, and to honor the individuals who died or were injured in the attacks, the courageous first responders and other individuals who gave their lives to save others during the attacks, and the brave individuals who continue to serve and protect our nation, including military personnel, first responders, and health care providers. The governor shall direct that the Alaska flag be flown at half-mast on that day. Patriot Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-175">
+            <num>44.12.175</num>
+            <heading>Post-Traumatic Stress Injury Awareness Day.</heading>
+            <content>
+              <p>Sec. 44.12.175.   Post-Traumatic Stress Injury Awareness Day.
+Post-Traumatic Stress Injury Awareness Day is established on June 27 of each year to promote awareness of persons suffering from post-traumatic stress injury and to encourage Alaskans to reach out to those persons to provide support and eliminate the stigma associated with post-traumatic stress injury. Post-Traumatic Stress Injury Awareness Day may be observed by suitable observances and exercises by civic groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-178">
+            <num>44.12.178</num>
+            <heading>Brain Injury Awareness Month.</heading>
+            <content>
+              <p>Sec. 44.12.178.   Brain Injury Awareness Month.
+The month of March each year is established as Brain Injury Awareness Month. Brain Injury Awareness Month may be observed by schools, community groups, and other public and private agencies and individuals with appropriate activities that increase the public's awareness of prevention and treatment of brain injuries.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-180">
+            <num>44.12.180</num>
+            <heading>Black History Month.</heading>
+            <content>
+              <p>Sec. 44.12.180.   Black History Month.
+The month of February each year is established as Black History Month. Black History Month may be observed by schools, community groups, and other public and private agencies and individuals with appropriate activities to honor and recognize the contributions that African Americans have made in the history of this state and the United States.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-185">
+            <num>44.12.185</num>
+            <heading>Don Young Day.</heading>
+            <content>
+              <p>Sec. 44.12.185.   Don Young Day.
+Don Young Day is established on June 9 of each year to honor Don Young, whose long record of public service includes 49 years as the United States House of Representatives member from Alaska, for his service to the state and the nation. Don Young Day may be observed by suitable observances and exercises by civil groups and the public.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-190">
+            <num>44.12.190</num>
+            <heading>Amyotrophic Lateral Sclerosis Awareness Month.</heading>
+            <content>
+              <p>Sec. 44.12.190.   Amyotrophic Lateral Sclerosis Awareness Month.
+The month of May each year is established as Amyotrophic Lateral Sclerosis Awareness Month to promote awareness of amyotrophic lateral sclerosis and to recognize people living with the disease and those researching causes, treatments, and a cure. Amyotrophic Lateral Sclerosis Awareness Month may be observed by public and private agencies and individuals with appropriate activities that increase the public's awareness of amyotrophic lateral sclerosis and understanding of the challenges faced by individuals with amyotrophic lateral sclerosis.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-195">
+            <num>44.12.195</num>
+            <heading>Alaska Veterans' Poppy Day.</heading>
+            <content>
+              <p>Sec. 44.12.195.   Alaska Veterans' Poppy Day.
+Alaska Veterans' Poppy Day is established on the Friday immediately preceding Memorial Day each year to thank past and current members of the armed forces and honor the individuals who died to preserve freedom.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-200">
+            <num>44.12.200</num>
+            <heading>State agency office hours.</heading>
+            <subsection eId="44-12-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is the policy of the state that, to the extent practicable, state agency offices that are intended to provide services directly to the public shall schedule the hours of work of their employees so that the offices are open at the times most convenient to the individuals being served and staffed by employees working 40 hours per week. Each office shall review the preferences and needs of its clientele and shall recommend to the commissioner or other executive head of the state agency the most suitable hours of operation for that specific location. Each office shall periodically review its hours of operation.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-12-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, state agency means a department, institution, board, commission, division, authority, public corporation, committee, or other administrative unit of the executive branch of state government, including the University of Alaska, the Alaska Railroad Corporation, and the Alaska Aerospace Corporation.
+Article 4. Official Language.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-12-300">
+            <num>44.12.300</num>
+            <heading>Findings and purpose.</heading>
+            <content>
+              <p>Sec. 44.12.300.   Findings and purpose.
+The people of the State of Alaska find that English is the common unifying language of the State of Alaska and the United States of America, and declare a compelling interest in promoting, preserving and strengthening its use.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-310">
+            <num>44.12.310</num>
+            <heading>Official languages.</heading>
+            <subsection eId="44-12-310__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The English, Inupiaq, Siberian Yupik, Central Alaskan Yup'ik, Cup'ig, Alutiiq, Unanga/Cx, Dena'ina, Deg Xinag, Holikachuk, Koyukon, Upper Kuskokwim, Gwich'in, Upper Tanana, Sahcheeg xut'een xneege' (Middle Tanana), Benhti Kokhwt'ana Kenaga' (Lower Tanana), Tanacross, Hdn, Ahtna, Wetal (Ts'etsa'ut), Eyak, Tlingit, Haida, and Tsimshian languages are the official languages of the State of Alaska.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-12-310__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The designation of languages other than English as official languages of the state under (a) of this section does not require or place a duty or responsibility on the state or a municipal government to print a document or record or conduct a meeting, assembly, or other government activity in any language other than English.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-12-320">
+            <num>44.12.320</num>
+            <heading>Scope.</heading>
+            <content>
+              <p>Sec. 44.12.320.   Scope.
+The English language shall be used in the preparation of all official public documents and records, including all documents officially compiled, published, or recorded by the government.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-330">
+            <num>44.12.330</num>
+            <heading>Applicability.</heading>
+            <content>
+              <p>Sec. 44.12.330.   Applicability.
+AS 44.12.300
+ 44.12.390 apply to the legislative and executive branches of the State of Alaska and all political subdivisions, including all departments, agencies, divisions and instrumentalities of the State, the University of Alaska, all public authorities and corporations, all local governments and departments, agencies, divisions, and instrumentalities of local governments, and all government officers and employees.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-340">
+            <num>44.12.340</num>
+            <heading>Exceptions.</heading>
+            <subsection eId="44-12-340__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The government, as defined in
+AS 44.12.330
+, may use a language other than English when necessary for the following purposes:</p>
+              </content>
+              <paragraph eId="44-12-340__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to communicate health and safety information or when an emergency requires the use of a language other than English;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-340__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to teach another language to students proficient in English;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-340__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to teach English to students of limited English proficiency;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-340__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to promote international relations, trade, commerce, tourism, or sporting events;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-340__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>to protect the constitutional and legal rights of criminal defendants;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-340__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>to serve the needs of the judicial system in civil and criminal cases in compliance with court rules and orders;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-340__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>to investigate criminal activity and protect the rights of crime victims;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-340__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>to the extent necessary to comply with federal law, including the Native American Languages Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-340__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>to attend or observe religious ceremonies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-340__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>to use non-English terms of art, names, phrases, or expressions included as part of communications otherwise in English; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-12-340__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>to communicate orally with constituents by elected public officials and their staffs, if the public official or staff member is already proficient in a language other than English.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-12-340__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An individual may provide testimony or make a statement to the government in a language other than English, if the individual is not an officer or employee of the government, and if the testimony or statement is translated into English and included in the records of the government.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-12-350">
+            <num>44.12.350</num>
+            <heading>Public accountability.</heading>
+            <content>
+              <p>Sec. 44.12.350.   Public accountability.
+All costs related to the preparation, translation, printing, or recording of documents, records, brochures, pamphlets, flyers, or other material in languages other than English shall be defined as a separate line item in the budget of every governmental agency, department, or office.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-360">
+            <num>44.12.360</num>
+            <heading>Non-denial of employment or services.</heading>
+            <subsection eId="44-12-360__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>No governmental entity shall require knowledge of a language other than English as a condition of employment unless the requirements of the position fall within one of the exceptions provided in
+AS 44.12.340
+, and facility in another language is a bona fide job qualification required to fulfill a function included within one of the exceptions.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-12-360__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>No person may be denied services, assistance, benefits, or facilities, directly or indirectly provided by the government, because that person communicates only in English.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-12-370">
+            <num>44.12.370</num>
+            <heading>Private sector excluded.</heading>
+            <content>
+              <p>Sec. 44.12.370.   Private sector excluded.
+AS 44.12.300
+ 44.12.390 shall not be construed in any way that infringes upon the rights of persons to use languages other than English in activities or functions conducted solely in the private sector, and the government may not restrict the use of language other than English in such private activities or functions.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-380">
+            <num>44.12.380</num>
+            <heading>Private cause of action authorized.</heading>
+            <content>
+              <p>Sec. 44.12.380.   Private cause of action authorized.
+Any person may bring suit against any governmental entity to enforce the provisions of
+AS 44.12.300
+ 44.12.390.</p>
+            </content>
+          </section>
+          <section eId="sec_44-12-390">
+            <num>44.12.390</num>
+            <heading>Severability.</heading>
+            <content>
+              <p>Sec. 44.12.390.   Severability.
+The provisions of
+AS 44.12.300
+ 44.12.390 are independent and severable, and if any provision of
+AS 44.12.300
+ 44.12.390, or the applicability of any provision to any person or circumstance, shall be held to be invalid by a court of competent jurisdiction, the remainder of
+AS 44.12.300
+ 44.12.390 shall not be affected and shall be given effect to the fullest extent practicable.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

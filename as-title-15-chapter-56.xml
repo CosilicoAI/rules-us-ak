@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-56"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-56"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="15.56"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-56/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-56/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-56/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-56/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_15">
+        <num>15</num>
+        <heading>Elections</heading>
+        <chapter eId="title_15__chp_56">
+          <num>56</num>
+          <heading>Election Offenses, Corrupt Practices, and Penalties</heading>
+          <section eId="sec_15-56-012">
+            <num>15.56.012</num>
+            <heading>Campaign misconduct in the first degree.</heading>
+            <subsection eId="15-56-012__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 15.56.014
+and 15.56.016, a person commits the crime of campaign misconduct in the first degree if the person knowingly engages in conduct that violates a provision of
+AS 15.13
+or a regulation adopted under authority of
+AS 15.13
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-012__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Violation of this section is a corrupt practice.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-012__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Campaign misconduct in the first degree is a class A misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-014">
+            <num>15.56.014</num>
+            <heading>Campaign misconduct in the second degree.</heading>
+            <subsection eId="15-56-014__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of campaign misconduct in the second degree if the person</p>
+              </content>
+              <paragraph eId="15-56-014__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>knowingly circulates or has written, printed, or circulated a letter, circular, or publication relating to an election, to a candidate at an election, or an election proposition or question without the name and address of the author appearing on its face;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-014__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>except as provided by
+AS 15.13.090</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-014__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>knowingly makes a communication, as that term is defined in
+AS 15.13.400
+,
+(A) containing false factual information relating to a candidate for an election;
+(B) that the person knows to be false; and
+(C) that would provoke a reasonable person under the circumstances to a breach of the peace or that a reasonable person would construe as damaging to the candidate's reputation for honesty or integrity, or to the candidate's qualifications to serve if elected to office.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-014__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Violation of this section is a corrupt practice.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-014__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Campaign misconduct in the second degree is a class B misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-016">
+            <num>15.56.016</num>
+            <heading>Campaign misconduct in the third degree.</heading>
+            <subsection eId="15-56-016__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the offense of campaign misconduct in the third degree if</p>
+              </content>
+              <paragraph eId="15-56-016__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the person violates a provision of
+AS 15.13
+or a regulation adopted under
+AS 15.13
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-016__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>during the hours the polls are open and after election officials have posted warning notices as required by
+AS 15.15.170
+or at the required distance in the form and manner prescribed by the chief municipal elections official in a local election, the person is within 200 feet of an entrance to a polling place, and
+(A) violates
+AS 15.15.170
+; or
+(B) circulates cards, handbills, or marked ballots, or posts political signs or posters relating to a candidate at an election or election proposition or question.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-016__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Campaign misconduct in the third degree is a violation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-018">
+            <num>15.56.018</num>
+            <heading>Applicability of campaign misconduct provisions.</heading>
+            <subsection eId="15-56-018__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of
+AS 15.56.012</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-018__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and 15.56.016(a)(1), each day a violation continues constitutes a separate offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-018__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When a person is convicted of violating
+AS 15.56.012
+, in addition to imposition of a sentence as authorized by
+AS 12.55.015
+, notwithstanding
+AS 12.55.015
+(c), the court shall order suspension, for a period of one year, of any license held by the defendant that allows the defendant to do business in the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-025">
+            <num>15.56.025</num>
+            <heading>Telephone campaign misconduct.</heading>
+            <subsection eId="15-56-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of telephone campaign misconduct if the person makes a statement about a candidate</p>
+              </content>
+              <paragraph eId="15-56-025__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>as part of an organized telephone poll or organized series of calls to convince potential voters concerning the outcome of an election;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-025__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>that the person knows to be false; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-025__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>that the person intends to affect the outcome of the election.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Violation of this section is a corrupt practice. However, notwithstanding
+AS 15.20.540
+, only a defeated candidate may contest the nomination or election of a person for violation of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Telephone campaign misconduct is a class A misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-030">
+            <num>15.56.030</num>
+            <heading>Unlawful interference with voting in the first degree.</heading>
+            <subsection eId="15-56-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of unlawful interference with voting in the first degree if the person</p>
+              </content>
+              <paragraph eId="15-56-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>uses, threatens to use, or causes to be used force, coercion, violence, or restraint, or inflicts, threatens to inflict, or causes to be inflicted damage, harm, or loss, upon or against another person to induce or compel that person to vote or refrain from voting in an election;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>knowingly pays, offers to pay, or causes to be paid money or other valuable thing to a person to vote or refrain from voting in an election;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>solicits, accepts, or agrees to accept money or other valuable thing with the intent to vote for or refrain from voting for a candidate at an election or for an election proposition or question;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>violates
+AS 15.20.081</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>by knowingly supplying or encouraging or assisting another person to supply to a voter an absentee ballot application form with a political party or group affiliation indicated if the voter is not already registered as affiliated with that political party or group, and the person has been previously convicted of unlawful interference with voting in the second degree under
+AS 15.56.035
+(a)(5);</p>
+              </content>
+              <paragraph eId="15-56-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>knowingly designs, marks, or encourages or assists another person to design or mark an absentee ballot application in a manner that suggests choice of one ballot over another as prohibited by
+AS 15.20.081</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-030__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>knowingly submits or encourages or assists another person to submit an absentee ballot application to an intermediary who could control or delay the submission of the application to the division of elections or who could gather data from the application form as prohibited by
+AS 15.20.081</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Violation of this section is a corrupt practice.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unlawful interference with voting in the first degree is a class C felony.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For purposes of (a)(2) and (3) of this section, other valuable thing</p>
+              </content>
+              <paragraph eId="15-56-030__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>includes
+(A) an entry in a game of chance in which a prize of money or other present or future pecuniary gain or advantage may be awarded to a participant wherein the total of the prizes offered is greater than $2 per participant with a maximum of $100; and
+(B) government employment or benefits;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-030__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>does not include
+(A) materials having a nominal value bearing the name, likeness, or other identification of a candidate, political party, political group, party district committee, or organization, or stating a position on a ballot proposition or question;
+(B) food and refreshments provided incidental to an activity that is nonpartisan in nature and directed at encouraging persons to vote, or incidental to a gathering in support of or in opposition to a candidate, political party, political group, party district committee, organization, or ballot question or proposition;
+(C) care of the voter's dependents provided in connection with the absence of a voter from home for the purpose of voting;
+(D) services provided by a person acting as a representative under
+AS 15.20.072
+;
+(E) services provided by an election official as defined in
+AS 15.80.010
+; and
+(F) transportation of a voter to or from the polls without charge.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-035">
+            <num>15.56.035</num>
+            <heading>Unlawful interference with voting in the second degree.</heading>
+            <subsection eId="15-56-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of unlawful interference with voting in the second degree if the person</p>
+              </content>
+              <paragraph eId="15-56-035__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has an official ballot in possession outside of the voting room unless the person is an election official or other person authorized by law or local ordinance, or by the director or chief municipal elections official in a local election;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-035__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>makes, or knowingly has in possession, a counterfeit of an official election ballot;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-035__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>knowingly solicits or encourages, directly or indirectly, a registered voter who is no longer qualified to vote under
+AS 15.05.010
+, to vote in an election;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-035__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>as a registration official
+(A) knowingly refuses to register a person who is entitled to register under
+AS 15.07.030
+; or
+(B) accepts a fee from an applicant applying for registration;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-035__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>violates
+AS 15.20.081</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>by knowingly supplying or encouraging or assisting another person to supply to a voter an absentee ballot application form with a political party or group affiliation indicated if the voter is not already registered as affiliated with that political party or group;</p>
+              </content>
+              <paragraph eId="15-56-035__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>knowingly designs, marks, or encourages or assists another person to design or mark an absentee ballot application in a manner that suggests choice of one ballot over another as prohibited by
+AS 15.20.081</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-035__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>knowingly submits or encourages or assists another person to submit an absentee ballot application to an intermediary who could control or delay the submission of the application to the division of elections or who could gather data from the application form as prohibited by
+AS 15.20.081</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Violation of (a)(3) of this section is a corrupt practice.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-035__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unlawful interference with voting in the second degree is a class A misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-040">
+            <num>15.56.040</num>
+            <heading>Voter misconduct in the first degree.</heading>
+            <subsection eId="15-56-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of voter misconduct in the first degree if the person</p>
+              </content>
+              <paragraph eId="15-56-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>votes or attempts to vote in the name of another person or in a name other than the person's own;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>votes or attempts to vote more than once at the same election with the intent that the person's vote be counted more than once;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>intentionally makes a false affidavit, swears falsely, or falsely affirms under an oath required by this title;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-040__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>knowingly votes or solicits a person to vote after the polls are closed with the intent that the vote be counted.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Voter misconduct in the first degree is a class C felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-050">
+            <num>15.56.050</num>
+            <heading>Voter misconduct in the second degree.</heading>
+            <subsection eId="15-56-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of voter misconduct in the second degree if the person</p>
+              </content>
+              <paragraph eId="15-56-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>registers to vote without being entitled to register under
+AS 15.07.030
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>knowingly makes a material false statement while applying for voter registration or reregistration; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-050__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>votes or attempts to vote in an election after being disqualified under
+AS 15.05.030
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Voter misconduct in the second degree is a class A misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-060">
+            <num>15.56.060</num>
+            <heading>Unlawful interference with an election.</heading>
+            <subsection eId="15-56-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of unlawful interference with an election if the person</p>
+              </content>
+              <paragraph eId="15-56-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>induces or attempts to induce an election official to fail in the official's duty by force, threat, intimidation, or offers of reward;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>intentionally changes, attempts to change, or causes to be changed an official election document including ballots, tallies, and returns;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-060__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>intentionally delays, attempts to delay, or causes to be delayed the sending of the certificate, register, ballots, or other materials whether original or duplicate, required to be sent by
+AS 15.15.370
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-060__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is contracted or employed by the state to print or reproduce in any manner an official ballot, and the person knowingly
+(A) personally appropriates, or gives or delivers to, or permits to be taken by anyone other than a person authorized by the director, official ballots; or
+(B) prints or reproduces or has printed or reproduced official ballots in a form or with a content other than that prescribed by law or as directed by the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unlawful interference with an election is a class C felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-070">
+            <num>15.56.070</num>
+            <heading>Election official misconduct in the first degree.</heading>
+            <subsection eId="15-56-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of election official misconduct in the first degree if while an election official, the person</p>
+              </content>
+              <paragraph eId="15-56-070__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>intentionally fails to perform an election duty or knowingly does an unauthorized act with the intent to affect an election or its results;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-070__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>knowingly permits or makes or attempts to make a false count of election returns; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-070__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>intentionally conceals, withholds, destroys, or attempts to conceal, withhold, or destroy election returns.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Election official misconduct in the first degree is a class C felony.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-080">
+            <num>15.56.080</num>
+            <heading>Election official misconduct in the second degree.</heading>
+            <subsection eId="15-56-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of election official misconduct in the second degree if while an election official, and while the polls are open, the person</p>
+              </content>
+              <paragraph eId="15-56-080__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>opens a ballot received from a voter at an election, unless permitted by ordinance in a local election;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-080__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>marks a ballot by folding or otherwise so as to be able to recognize it;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-080__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>otherwise attempts to learn how a voter marked a ballot; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-080__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>allows a person to do one of the acts prescribed by (1), (2), or (3) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Election official misconduct in the second degree is a class A misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-090">
+            <num>15.56.090</num>
+            <heading>Improper subscription to petition.</heading>
+            <subsection eId="15-56-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of improper subscription to petition if the person</p>
+              </content>
+              <paragraph eId="15-56-090__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>signs a name other than the person's own to a petition proposing an initiative, referendum, recall, or nomination of a candidate for state or local office;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-090__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>knowingly signs more than once for the same proposition, question, or candidate at one election;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-090__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>signs a petition proposing an initiative, referendum, recall, or nomination of a candidate for state or local office, while knowingly not being a qualified voter; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-090__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>solicits, accepts, or agrees to accept money or other valuable thing in exchange for signing or refraining from signing a petition proposing an initiative; in this paragraph, other valuable thing has the meaning given in
+AS 15.56.030</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-56-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Improper subscription to petition is a class B misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-100">
+            <num>15.56.100</num>
+            <heading>Refusal to allow employees time off.</heading>
+            <subsection eId="15-56-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An employer commits the offense of refusal to allow employees time off if the employer refuses to allow an employee time off for the purpose of voting, or if, after allowing the time off, the employer deducts the time from the wages of the employee, except as provided in (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An employee who has two consecutive hours in which to vote, either between the opening of the polls and the beginning of the employee's regular working shift, or between the end of that regular working shift and the close of the polls, is considered to have sufficient time outside of working hours within which to vote.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Refusal to allow employees time off to vote is a violation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-110">
+            <num>15.56.110</num>
+            <heading>Effect of certain convictions.</heading>
+            <subsection eId="15-56-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The election of a candidate to the state legislature or to municipal office who knowingly commits a corrupt practice or whose campaign treasurer or deputy campaign treasurer knowingly commits a corrupt practice is voidable under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-56-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a successful candidate or the campaign treasurer or the deputy campaign treasurer of a successful candidate for the state legislature or for a seat on a city council or borough assembly or for mayor is convicted of a felony or misdemeanor described in this chapter as a corrupt practice, the eligibility of the successful candidate to hold the office to which elected shall be determined as to</p>
+              </content>
+              <paragraph eId="15-56-110__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a member of the legislature under art. II, sec. 12, Constitution of the State of Alaska;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-110__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a member of the borough assembly under
+AS 29.20.170
+(6);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-110__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a borough mayor under
+AS 29.20.280
+(6);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-110__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a member of the city council under
+AS 29.20.170
+(6);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-56-110__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a city mayor under
+AS 29.20.280
+(6).</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_15-56-115">
+            <num>15.56.115</num>
+            <heading>Disposition of cases involving corrupt practice.</heading>
+            <content>
+              <p>Sec. 15.56.115.   Disposition of cases involving corrupt practice.
+When a candidate or a nominee or the campaign treasurer of a candidate or a nominee is charged with a felony or misdemeanor described in this chapter as a corrupt practice, the case shall be promptly tried and the case shall be accorded a preferred status by the courts to ensure a speedy disposition of the matter.</p>
+            </content>
+          </section>
+          <section eId="sec_15-56-199">
+            <num>15.56.199</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 15.56.199.   Definitions.
+In this chapter,
+(1) election includes a local election as defined in
+AS 15.80.010
+in addition to a state election;
+(2) knowingly has the meaning given in
+AS 11.81.900
+(a).</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

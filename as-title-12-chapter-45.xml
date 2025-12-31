@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-45"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-45"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.45"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-45/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-45/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_45">
+          <num>45</num>
+          <heading>Trial, Evidence, Compromise</heading>
+          <section eId="sec_12-45-010">
+            <num>12.45.010</num>
+            <heading>Formation of trial jury.</heading>
+            <content>
+              <p>Sec. 12.45.010.   Formation of trial jury.
+The qualification, disqualification, and exemption of jurors, the preparation of jury lists, and the composition of jury panel in criminal actions are the same as provided in civil actions.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-015">
+            <num>12.45.015</num>
+            <heading>Introduction of victim and defendant to jury.</heading>
+            <subsection eId="12-45-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>During jury selection or as part of an opening statement at trial, the prosecuting attorney may introduce the victim to the jury, and the attorney for the defendant may introduce the defendant to the jury.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, victim has the meaning given in
+AS 12.55.185
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-45-018">
+            <num>12.45.018</num>
+            <heading>Juror counseling following graphic evidence or testimony.</heading>
+            <subsection eId="12-45-018__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The trial judge may offer not more than 10 hours of post-trial psychological counseling, without charge, to a juror or an alternate juror who serves on a trial jury in a trial involving extraordinarily graphic, gruesome, or emotional evidence or testimony.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-018__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The counseling offered under (a) of this section applies only to a juror or alternate juror who serves on a trial jury for a trial involving the following offenses:</p>
+              </content>
+              <paragraph eId="12-45-018__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>murder under
+AS 11.41.100
+and 11.41.110;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-018__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>manslaughter under
+AS 11.41.120
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-018__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>criminally negligent homicide under
+AS 11.41.130
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-018__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>felonious assault under
+AS 11.41.200
+ 11.41.220;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-018__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a sexual offense under
+AS 11.41.410
+ 11.41.460.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-45-018__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The counseling offered under (a) of this section</p>
+              </content>
+              <paragraph eId="12-45-018__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>must occur not later than 180 days after the jury is dismissed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-018__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may be provided by the court system, by a state agency, or by contract; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-018__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>may be individual or group counseling.
+Article 2. Discovery, Testimony, and Evidence.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-45-020">
+            <num>12.45.020</num>
+            <heading>Conviction on testimony of accomplice and corroboration.</heading>
+            <content>
+              <p>Sec. 12.45.020.   Conviction on testimony of accomplice and corroboration.
+A conviction shall not be had on the testimony of an accomplice unless it is corroborated by other evidence that tends to connect the defendant with the commission of the crime; and the corroboration is not sufficient if it merely shows the commission of the crime or the circumstances of the commission.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-035">
+            <num>12.45.035</num>
+            <heading>Admissibility of DNA profiles.</heading>
+            <subsection eId="12-45-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a criminal action or proceeding, evidence of a DNA profile is admissible to prove or disprove any relevant fact, if the court finds that the technique underlying the evidence is scientifically valid. The admission of the DNA profile does not require a finding of general acceptance in the relevant scientific community of DNA profile evidence.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="12-45-035__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>deoxyribonucleic acid means the molecules in all cellular forms that contain genetic information in a patterned chemical structure for each individual;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-035__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>DNA profile
+(A) means an analysis of blood, semen, tissue, or other cells bearing deoxyribonucleic acid resulting in the identification of the individual's patterned chemical structure of genetic information;
+(B) includes statistical population frequency comparisons of the patterned chemical structures described in (A) of this paragraph.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-45-037">
+            <num>12.45.037</num>
+            <heading>Admissibility of expert testimony relating to criminal street gang activity.</heading>
+            <subsection eId="12-45-037__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a criminal prosecution, expert testimony is admissible to show, in regard to a specific criminal street gang or criminal street gangs whose conduct is relevant to the case,</p>
+              </content>
+              <paragraph eId="12-45-037__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>common characteristics of persons who are members of the criminal street gang or criminal street gangs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-037__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>rivalries between specific criminal street gangs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-037__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>common practices and operations of the criminal street gang or criminal street gangs and the members of those gangs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-037__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>social customs and behavior of members of the criminal street gang or the criminal street gangs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-037__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>terminology used by members of the criminal street gang or the criminal street gangs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-037__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>codes of conduct of the particular criminal street gang or criminal street gangs; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-037__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the types of crimes that are likely to be committed by the particular criminal street gang.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-45-037__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, criminal street gang has the meaning given in
+AS 11.81.900
+(b).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-45-042">
+            <num>12.45.042</num>
+            <heading>Mental examination of victim.</heading>
+            <content>
+              <p>Sec. 12.45.042.   Mental examination of victim.
+In a criminal prosecution under
+AS 11.41
+, the court may not order or compel the victim to undergo a psychiatric or psychological examination unless
+(1) the victim's psychiatric or psychological condition is an element of the offense charged; or
+(2) the prosecution has given notice that it will present evidence at trial that the victim suffers from a continuing psychological or psychiatric condition that resulted from the offense charged.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-045">
+            <num>12.45.045</num>
+            <heading>Evidence of past sexual conduct in trials of certain sexual offenses.</heading>
+            <subsection eId="12-45-045__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In prosecutions for the crimes of sexual assault in any degree, sexual abuse of a minor in any degree, unlawful exploitation of a minor, or an attempt to commit any of these crimes, evidence of the sexual conduct of the complaining witness, occurring either before or after the offense charged, may not be admitted nor may reference be made to it in the presence of the jury except as provided in this section. When the defendant seeks to admit the evidence for any purpose, the defendant shall apply for an order of the court not later than five days before trial or at a later time as the court may, for good cause, permit. The defendant may, for good cause shown, apply for an order during trial if the request is based on information learned after the deadline or during the trial. After the application is made, the court shall conduct a hearing in camera to determine the admissibility of the evidence. If the court finds that evidence offered by the defendant regarding the sexual conduct of the complaining witness is relevant, and that the probative value of the evidence offered is not outweighed by the probability that its admission will create undue prejudice, confusion of the issues, or unwarranted invasion of the privacy of the complaining witness, the court shall make an order stating what evidence may be introduced and the nature of the questions that may be permitted. The defendant may then offer evidence under the order of the court.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In the absence of a persuasive showing to the contrary, evidence of the complaining witness' sexual conduct occurring more than one year before the date of the offense charged is presumed to be inadmissible under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-045__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section complaining witness means the alleged victim of the crime charged, the prosecution of which is subject to this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-45-046">
+            <num>12.45.046</num>
+            <heading>Testimony of children in criminal proceedings.</heading>
+            <subsection eId="12-45-046__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a criminal proceeding under
+AS 11.41
+involving the prosecution of an offense committed against a child under the age of 16, or witnessed by a child under the age of 16, the court</p>
+              </content>
+              <paragraph eId="12-45-046__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may appoint a guardian ad litem for the child;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-046__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>on its own motion or on the motion of the party presenting the witness or the guardian ad litem of the child, may order that the testimony of the child be taken by closed circuit television or through one-way mirrors if the court determines that the testimony by the child victim or witness under normal court procedures would result in the child's inability to effectively communicate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-45-046__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In making a determination under (a)(2) of this section, the court shall consider factors it considers relevant, including</p>
+              </content>
+              <paragraph eId="12-45-046__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the child's chronological age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-046__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the child's level of development;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-046__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the child's general physical health;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-046__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>any physical, emotional, or psychological injury experienced by the child; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-046__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the mental or emotional strain that will be caused by requiring the child to testify under normal courtroom procedures.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-45-046__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the court determines under (a)(2) of this section that the testimony by the child victim or witness under normal court procedures would result in the child's inability to effectively communicate, the court may order that the testimony of the child be taken in a room other than the courtroom and be televised by closed circuit equipment in the courtroom to be viewed by the defendant, the court, and the finder of fact in the proceeding. If the court authorizes use of closed circuit televised testimony under this subsection,</p>
+              </content>
+              <paragraph eId="12-45-046__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>each of the following may be in the room with the child when the child testifies:
+(A) the prosecuting attorney;
+(B) the attorney for the defendant; and
+(C) operators of the closed circuit television equipment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-046__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the court may, in addition to persons specified in (1) of this subsection, admit a person whose presence, in the opinion of the court, contributes to the well-being of the child.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-45-046__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>When a child is to testify under (c) of this section, only the court and counsel may question the child. The persons operating the equipment shall do so in as unobtrusive a manner as possible. If the defendant requests, the court shall excuse the defendant from the courtroom, shall permit the defendant to attend in another location, and shall afford the defendant a means of viewing the child's testimony and of communicating with the defendant's attorney throughout the proceedings. Upon request of the defendant or the defendant's attorney, the court shall permit a recess to allow them to confer. The court shall provide a means of communicating with the attorneys during the questioning of the child. Objections made by the attorneys to questions of a child witness may be resolved in the courtroom if the court finds it necessary.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-046__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the court determines under (a)(2) of this section that the testimony by the child victim or witness under normal court procedures would result in the child's inability to effectively communicate, the court may authorize the use of one-way mirrors in conjunction with the taking of the child's testimony. The attorneys may pose questions to the child and have visual contact with the child during questioning, but the mirrors shall be placed to provide a physical shield so that the child does not have visual contact with the defendant and jurors.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-046__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If the court does not find under (a)(2) of this section that the testimony by the child victim or witness under normal court procedures will result in the child's inability to effectively communicate, the court may, after taking into consideration the factors specified in (b) of this section, supervise the spatial arrangements of the courtroom and the location, movement, and deportment of all persons in attendance so as to safeguard the child from emotional harm or stress. In addition to other procedures it finds appropriate, the court may</p>
+              </content>
+              <paragraph eId="12-45-046__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>allow the child to testify while sitting on the floor or on an appropriately sized chair;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-046__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>schedule the procedure in a room that provides adequate privacy, freedom from distractions, informality, and comfort appropriate to the child's developmental age; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-45-046__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>order a recess when the energy, comfort, or attention span of the child warrants.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-45-049">
+            <num>12.45.049</num>
+            <heading>Privilege relating to domestic violence and sexual assault counseling.</heading>
+            <content>
+              <p>Sec. 12.45.049.   Privilege relating to domestic violence and sexual assault counseling.
+Confidential communications between a victim of domestic violence or sexual assault and a victim counselor are privileged under
+AS 18.66.200
+ 18.66.250.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-050">
+            <num>12.45.050</num>
+            <heading>Limitation on discovery of statement of prosecution witness.</heading>
+            <content>
+              <p>Sec. 12.45.050.   Limitation on discovery of statement of prosecution witness.
+In a criminal prosecution, no statement or report in the possession of the state which was made by a prosecution witness or prospective prosecution witness (other than the defendant) to an agent of the state may be the subject of subpoena, discovery, or inspection until the witness has testified on direct examination at the preliminary hearing, or in the trial of the case.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-060">
+            <num>12.45.060</num>
+            <heading>Discovery after direct examination of witness.</heading>
+            <content>
+              <p>Sec. 12.45.060.   Discovery after direct examination of witness.
+After a witness called by the state has testified on direct examination, the court shall, on motion of the defendant, order the state to produce any statement of the witness in the possession of the state that relates to the subject matter as to which the witness has testified.  If the entire contents of the statement relate to the subject matter of the testimony of the witness, the court shall order it to be delivered directly to the defendant for examination and use.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-070">
+            <num>12.45.070</num>
+            <heading>Discovery of portions of statement.</heading>
+            <content>
+              <p>Sec. 12.45.070.   Discovery of portions of statement.
+If the state claims that any statement ordered to be produced under
+AS 12.45.060
+contains matter that does not relate to the subject matter of the testimony of the witness, the court shall order the state to deliver the statement for the inspection of the court in chambers.  Upon delivery the court shall excise the portions of the statement that do not relate to the subject matter of the testimony of the witness.  With the material excised, the court shall then direct delivery of the statement to the defendant for the use of the defendant. If, pursuant to this procedure, any portion of the statement is withheld from the defendant and the defendant objects to the withholding, and the trial is continued to an adjudication of the guilt of the defendant, the entire text of the statement shall be preserved by the state and, in the event the defendant appeals, shall be made available to the appellate court for the purpose of determining the correctness of the ruling of the trial judge.  When a statement is delivered to a defendant, the court may recess the trial for the defendant's examination of the statement and preparation for its use in the trial.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-080">
+            <num>12.45.080</num>
+            <heading>Disposition of proceeding upon failure of state to comply with order.</heading>
+            <content>
+              <p>Sec. 12.45.080.   Disposition of proceeding upon failure of state to comply with order.
+If the state elects not to comply with an order of the court to deliver to the defendant a statement or a portion of a statement as the court may direct, the court shall strike from the record the testimony of the witness, and the preliminary hearing or trial shall proceed unless the court in its discretion determines that the interests of justice require that the preliminary hearing be terminated immediately or a mistrial be declared.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-082">
+            <num>12.45.082</num>
+            <heading>Definition of statement.</heading>
+            <content>
+              <p>Sec. 12.45.082.   Definition of statement.
+In
+AS 12.45.060
+ 12.45.080, the term statement, in relation to any witness called by the state, means
+(1) a written statement made by the witness and signed or otherwise adopted or approved by the witness; or
+(2) a stenographic, mechanical, electrical, or other recording, or a transcription of the statement that is a substantially verbatim recital of an oral statement made by the witness to an agent of the state and recorded contemporaneously with the making of the oral statement.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-084">
+            <num>12.45.084</num>
+            <heading>Laboratory report of controlled substances.</heading>
+            <subsection eId="12-45-084__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a prosecution under
+AS 11.71.010
+ 11.71.060, a complete copy of an official laboratory report from the Department of Public Safety or a laboratory operated by another law enforcement agency is prima facie evidence of the content, identity, and weight of a controlled substance.  The report must be signed by the person performing the analysis and must state that the substance which is the basis of the alleged offense has been weighed and analyzed.  In the report, the author shall state with specificity findings as to the content, weight, and identity of the substance.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-084__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A sworn statement prepared by the author of the report provided for in (a) of this section must be attached to the report.  The statement must set out the identity of the author and include a statement that the author is an employee of the laboratory issuing the report and that performing the analysis is a part of the author's regular duties.  The statement must also include an outline of the author's education, training, and experience for performing an analysis. The author shall state that scientifically accepted tests were performed with due caution, and whether to the author's knowledge the evidence was handled in accordance with established and accepted procedures while in the custody of the laboratory.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-084__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The prosecuting attorney shall serve a copy of the report on the attorney of record for the accused, or on the defendant if the defendant has no attorney, not later than 20 days before a proceeding in which the report is to be used against the accused.  However, at a preliminary hearing or grand jury proceeding, the report may be used without having previously been served upon the accused.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-084__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The accused or the accused's attorney may demand the testimony of the person signing the report, by serving a written demand showing cause upon the prosecuting attorney within seven days from receipt of the report.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-084__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A report issued for use under this section must contain notice of the right of the accused to demand the testimony of the person signing the report.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-45-086">
+            <num>12.45.086</num>
+            <heading>Photographic evidence of property wrongfully taken or damaged.</heading>
+            <subsection eId="12-45-086__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a criminal proceeding or a children's court proceeding involving the wrongful taking or damaging of property, photographs of the property are competent evidence of the property and are admissible in the proceeding to the same extent as if the property had been introduced as evidence.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-086__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Photographs of property that are to be introduced as evidence under this section shall be accompanied by a written description of the property, the name of the owner of the property, the location where the alleged crime occurred, the name of the investigating peace officer, the date the photograph was taken, and the name and signature of the photographer.  The written description shall be signed by the investigating peace officer under penalty of perjury under
+AS 09.63.020
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-45-086__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In a prosecution for a violation of
+AS 11.46.120
+ 11.46.150 in which the property is commercial fishing gear as defined in
+AS 16.43.990
+, the gear shall be returned to the owner as soon as possible.  The prosecutor may obtain photographs of the gear for use as evidence in accordance with (a) and (b) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-45-120">
+            <num>12.45.120</num>
+            <heading>Authority to compromise misdemeanors for which victim has civil action.</heading>
+            <content>
+              <p>Sec. 12.45.120.   Authority to compromise misdemeanors for which victim has civil action.
+If a defendant is held to answer on a charge of misdemeanor for which the person injured by the act constituting the crime has a remedy by a civil action, the crime may be compromised except when it was committed
+(1) by or upon a peace officer, judge, or magistrate while in the execution of the duties of that office;
+(2) riotously;
+(3) with an intent to commit a felony;
+(4) larcenously;
+(5) against
+(A) a spouse or a former spouse of the defendant;
+(B) a parent, grandparent, child, or grandchild of the defendant;
+(C) a member of the social unit comprised of those living together in the same dwelling as the defendant; or
+(D) a person who is not a spouse or former spouse of the defendant but who previously lived in a spousal relationship with the defendant.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-130">
+            <num>12.45.130</num>
+            <heading>Acknowledgment of satisfaction by injured party.</heading>
+            <content>
+              <p>Sec. 12.45.130.   Acknowledgment of satisfaction by injured party.
+If the party injured appears before the court in which the defendant is bound to appear, at any time before trial, and acknowledges in writing that satisfaction has been received for the injury, the court may, on payment of the costs incurred, order the prosecution dismissed and the defendant discharged. The order is a bar to another prosecution for the same crime.</p>
+            </content>
+          </section>
+          <section eId="sec_12-45-140">
+            <num>12.45.140</num>
+            <heading>Compromise or stay upon compromise by other means prohibited.</heading>
+            <content>
+              <p>Sec. 12.45.140.   Compromise or stay upon compromise by other means prohibited.
+A crime may not be compromised or the prosecution or punishment upon a compromise dismissed or stayed except as provided by law.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,2713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-12"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-12"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.12"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-12/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-12/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-12/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-12/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_12">
+          <num>12</num>
+          <heading>Delinquent Minors</heading>
+          <section eId="sec_47-12-010">
+            <num>47.12.010</num>
+            <heading>Goal and purposes of chapter.</heading>
+            <subsection eId="47-12-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The goal of this chapter is to promote a balanced juvenile justice system in the state to protect the community, impose accountability for violations of law, and equip juvenile offenders with the skills needed to live responsibly and productively.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The purposes of this chapter are to</p>
+              </content>
+              <paragraph eId="47-12-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>respond to a juvenile offender's needs in a manner that is consistent with
+(A) prevention of repeated criminal behavior;
+(B) restoration of the community and victim;
+(C) protection of the public; and
+(D) development of the juvenile into a productive citizen;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>protect citizens from juvenile crime;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>hold each juvenile offender directly accountable for the offender's conduct;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>provide swift and consistent consequences for crimes committed by juveniles;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>make the juvenile justice system more open, accessible, and accountable to the public;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>require parental or guardian participation in the juvenile justice process;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>create an expectation that parents will be held responsible for the conduct and needs of their children;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>ensure that victims, witnesses, parents, foster parents, guardians, juvenile offenders, and all other interested parties are treated with dignity, respect, courtesy, and sensitivity throughout all legal proceedings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>provide due process through which juvenile offenders, victims, parents, and guardians are assured fair legal proceedings during which constitutional and other legal rights are recognized and enforced;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>divert juveniles from the formal juvenile justice process through early intervention as warranted when consistent with the protection of the public;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>provide an early, individualized assessment and action plan for each juvenile offender in order to prevent further criminal behavior through the development of appropriate skills in the juvenile offender so that the juvenile is more capable of living productively and responsibly in the community;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>ensure that victims and witnesses of crimes committed by juveniles are afforded the same rights as victims and witnesses of crimes committed by adults;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>encourage and provide opportunities for local communities and groups to play an active role in the juvenile justice process in ways that are culturally relevant; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-010__subsec_b__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>review and evaluate regularly and independently the effectiveness of programs and services under this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-020">
+            <num>47.12.020</num>
+            <heading>Jurisdiction.</heading>
+            <subsection eId="47-12-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proceedings relating to a minor under 18 years of age residing or found in the state are governed by this chapter, except as otherwise provided in this chapter, when the minor is alleged to be or may be determined by a court to be a delinquent minor as a result of violating a criminal law of the state or a municipality of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in this chapter, proceedings relating to a person who is 18 years of age or over are governed by this chapter if the person is alleged to have committed a violation of the criminal law of the state or a municipality of the state, the violation occurred when the person was under 18 years of age, and the period of limitation under
+AS 12.10
+has not expired.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The provisions of this chapter apply to the detention and care of a person who is alleged to have committed a violation of a criminal law of the state or local government, subject to the provisions of
+AS 47.12.030
+(a), 47.12.100, and 47.12.105.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-022">
+            <num>47.12.022</num>
+            <heading>Applicability; inclusion of certain persons as minors.</heading>
+            <subsection eId="47-12-022__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c). To implement
+AS 47.12.020</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-022__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and (c) and this section, the term minor as used in this chapter includes a person described in this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-025">
+            <num>47.12.025</num>
+            <heading>Special provisions for certain persons considered to be minors.</heading>
+            <subsection eId="47-12-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding any other provision of law, the following special provisions apply to a person who is subject to the jurisdiction of this chapter due solely to
+AS 47.12.020
+(b):</p>
+              </content>
+              <paragraph eId="47-12-025__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a petition filed under
+AS 47.12.040</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>must be styled as follows: In the matter of  ........ , a person under the jurisdiction of this chapter under
+AS 47.12.020
+(b); the petition may not state the name of a parent, guardian, or other person;</p>
+              </content>
+              <paragraph eId="47-12-025__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>notice of an investigation, adjustment, hearing, or other procedure under this chapter to a parent, guardian, or foster parent is not required;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>participation by a parent, guardian, or foster parent in any part of the investigation, adjustment, hearing, or other procedure under this chapter is not required;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>agreement or consent by a parent or guardian to the terms and conditions of an informal adjustment under
+AS 47.12.060
+is not required;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>an opportunity for a foster parent to be heard before informal adjustment under
+AS 47.12.060
+is not required;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the presence of a parent or guardian is not required, and the person does not have a right to have a parent or guardian present, at an interview conducted during an investigation under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>after a petition is filed and after further investigation that the court directs, if the person has not appeared voluntarily for proceedings under this chapter, the court may issue a summons or an arrest warrant for the person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>a person who is taken into custody under this chapter may, in the discretion of the court and upon written promise to appear in court at the time specified by the court, be released; if not released, the person shall be detained under the provisions of (b) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>consent of a parent or guardian to waiver of the right to appointed counsel or a guardian ad litem under
+AS 47.12.090
+is not required;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>the appointment of a guardian ad litem under
+AS 47.12.090
+is not required; the court may appoint a guardian ad litem under
+AS 47.12.090
+only if special circumstances exist concerning the mental or physical capacity of the person who is named in the petition under (1) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>an order under
+AS 47.12.120</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to release the person to a parent, guardian, or other person must be with the consent of the parent, guardian, or other person; a parent, guardian, or other person who consents does not assume any of the responsibilities described in
+AS 47.12.150
+or retain any residual rights or responsibilities described in
+AS 47.12.150
+;</p>
+              </content>
+              <paragraph eId="47-12-025__subsec_b__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>a person released under
+AS 47.12.120</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>shall be released without conditions;</p>
+              </content>
+              <paragraph eId="47-12-025__subsec_c__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>a parent, guardian, or custodian may not apply for a review under
+AS 47.12.120</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>is not required; a parent, guardian, custodian, or foster parent does not have a right to be heard at the review under
+AS 47.12.120
+(d);</p>
+              </content>
+              <paragraph eId="47-12-025__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>the person's parent or guardian may not file an appeal under
+AS 47.12.120</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>notice of the predisposition report under
+AS 47.12.130</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to the person's parent or guardian is not required;</p>
+              </content>
+              <paragraph eId="47-12-025__subsec_b__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>unless part of a conditional release plan agreed to by a parent or guardian, a parent or guardian of the person may not be ordered to participate in or pay for treatment under
+AS 47.12.155</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_b__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>an application to extend jurisdiction under
+AS 47.12.160</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>may not be made by a parent or guardian;</p>
+              </content>
+              <paragraph eId="47-12-025__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>the court may not order the parent of the person to pay for maintenance or care of the person under
+AS 47.12.230
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-025__subsec_a__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>the name of a parent or guardian of the person is not required to be disclosed in connection with the filing of a petition or informal adjustment under
+AS 47.12.315
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At a hearing under
+AS 47.12.250</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>regarding a person who is subject to the jurisdiction of this chapter due solely to
+AS 47.12.020
+(b), if the court finds that probable cause exists, the court shall determine whether the person should be detained pending the hearing on the petition or released. The court may either order the person detained as provided in (c) of this section or released under the provisions of
+AS 12.30
+as if the provisions of
+AS 12.30
+were to apply to proceedings under this chapter. If the court finds no probable cause, the court shall order the person released and close the proceeding.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a person who is subject to the jurisdiction of this chapter due solely to
+AS 47.12.020</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>has been arrested by a peace officer or a juvenile probation officer under
+AS 47.12.245
+, detained under
+AS 47.12.250
+, or committed to the custody or supervision of the department under
+AS 47.12.120</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or 47.12.240, the department, after consulting the peace officer or juvenile probation officer if appropriate, shall make arrangements for the detention, placement, or supervision of the person. In the discretion of the department, the person may be detained or placed in a juvenile detention facility, juvenile treatment facility, temporary secure juvenile holding area, or adult correctional facility.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-030">
+            <num>47.12.030</num>
+            <heading>Provisions inapplicable.</heading>
+            <subsection eId="47-12-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a minor who was at least 16 years of age at the time of the offense is charged by complaint, information, or indictment with an offense specified in this subsection, this chapter and the Alaska Delinquency Rules do not apply to the offense for which the minor is charged or to any additional offenses joinable to it under the applicable rules of court governing criminal procedure. Subject to the provisions of
+AS 47.12.105
+, the minor shall be charged, held, transported, released on bail, prosecuted, sentenced, and incarcerated in the same manner as an adult. If the minor is convicted of an offense other than an offense specified in this subsection, the minor may attempt to prove, by a preponderance of the evidence, that the minor is amenable to treatment under this chapter. If the court finds that the minor is amenable to treatment under this chapter, the minor shall be treated as though the charges had been heard under this chapter, and the court shall order disposition of the charges of which the minor is convicted under
+AS 47.12.120
+(b). The provisions of this subsection apply when the minor is charged by complaint, information, or indictment with an offense</p>
+              </content>
+              <paragraph eId="47-12-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>that is an unclassified felony or a class A felony and the felony is a crime against a person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of arson in the first degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>that is a class B felony and the felony is a crime against a person in which the minor is alleged to have used a deadly weapon in the commission of the offense and the minor was previously adjudicated as a delinquent or convicted as an adult, in this or another jurisdiction, as a result of an offense that involved use of a deadly weapon in the commission of a crime against a person or an offense in another jurisdiction having elements substantially identical to those of a crime against a person, and the previous offense was punishable as a felony; in this paragraph, deadly weapon has the meaning given in
+AS 11.81.900</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>that is misconduct involving weapons in the first degree under
+(A)
+AS 11.61.190</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When a minor is accused of violating a statute specified in this subsection, other than a statute the violation of which is a felony, this chapter and the Alaska Delinquency Rules do not apply and the minor accused of the offense shall be charged, prosecuted, and sentenced in the district court in the same manner as an adult; if a minor is charged, prosecuted, and sentenced for an offense under this subsection, the minor's parent, guardian, or legal custodian shall be present at all proceedings; the provisions of this subsection apply when a minor is accused of violating</p>
+              </content>
+              <paragraph eId="47-12-030__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a traffic statute or regulation, or a traffic ordinance or regulation of a municipality;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-030__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>AS 11.76.105
+, relating to the possession of tobacco by a person under 19 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-030__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a fish and game statute or regulation under
+AS 16
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-030__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a parks and recreational facilities statute or regulation under
+AS 41.21
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-030__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>[Repealed, § 23 ch 16 SLA 2021.]</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-030__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a municipal curfew ordinance, whether adopted under
+AS 29.35.085
+or otherwise, unless the municipality provides for enforcement of its ordinance under
+AS 29.25.070</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>by the municipality; in place of any fine imposed for the violation of a municipal curfew ordinance, the court shall allow a defendant the option of performing community work; the value of the community work, which may not be lower than the amount of the fine, shall be determined under
+AS 12.55.055
+(c); in this paragraph, community work includes the work described in
+AS 12.55.055</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or work that, on the recommendation of the municipal or borough assembly, city council, or traditional village council of the defendant's place of residence, would benefit persons within the municipality or village who are elderly or disabled;</p>
+              </content>
+              <paragraph eId="47-12-030__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>AS 04.16.050
+, relating to consumption, possession, or control of alcohol by a person under 21 years of age.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The provisions of
+AS 47.12.010
+ 47.12.260 and the Alaska Delinquency Rules do not apply to driver's license proceedings under
+AS 28.15.185
+; the court shall impose a driver's license revocation under
+AS 28.15.185
+in the same manner as adult driver's license revocations, except that a parent or legal guardian shall be present at all proceedings.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-040">
+            <num>47.12.040</num>
+            <heading>Investigation and petition.</heading>
+            <subsection eId="47-12-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Whenever circumstances subject a minor to the jurisdiction of this chapter, the court shall</p>
+              </content>
+              <paragraph eId="47-12-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>require in conformance with this section, that, for a minor who is alleged to be a delinquent minor under
+AS 47.12.020
+, the department or an entity selected by it shall make a preliminary inquiry to determine if any action is appropriate and may take appropriate action to adjust the matter without a court hearing; the department or an entity selected by it may arrange to interview the minor, the minor's parents or guardian, and any other person having relevant information; at or before the interview, the minor and the minor's parents or guardian, if present, must be advised that any statement may be used against the minor and of the following rights of the minor: to have a parent or guardian present at the interview; to remain silent; to have retained or appointed counsel at all stages of the proceedings, including the initial interview; if a petition is filed, to have an adjudication hearing before a judge or jury with compulsory process to compel the attendance of witnesses; and the opportunity to confront and cross-examine witnesses; if, under this paragraph,
+(A) the department or an entity selected by it makes a preliminary inquiry and takes appropriate action to adjust the matter without a court hearing, the minor may not be detained or taken into custody as a condition of the adjustment and, subject to
+AS 47.12.060
+, the matter shall be closed by the department or an entity selected by it if the minor successfully completes all that is required of the minor by the department or an entity selected by it in the adjustment; in a municipality or municipalities in which a youth court has been established under
+AS 47.12.400
+, adjustment of the matter under this paragraph may include referral to the youth court; if a community dispute resolution center has been established under
+AS 47.12.450</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and has obtained recognition under
+AS 47.12.450
+(b), adjustment of the matter under this paragraph may include use of the services of the community dispute resolution center;
+(B) the department or an entity selected by it concludes that the matter may not be adjusted without a court hearing, the department may file a petition, amended petition, or supplemental petition under (2) of this subsection setting out the facts; or</p>
+              </content>
+              <paragraph eId="47-12-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>appoint a competent person or agency to make a preliminary inquiry and report for the information of the court to determine whether the interests of the public or of the minor require that further action be taken; if, under this paragraph, the court appoints a person or agency to make a preliminary inquiry and to report to it, then upon the receipt of the report, the court may informally adjust the matter without a hearing, or it may authorize the person having knowledge of the facts of the case to file with the court a petition setting out the facts; if, following the filing of a petition, additional facts are determined, the court may authorize a person having knowledge of the facts to file an amended petition or supplemental petition; if the court informally adjusts the matter, the minor may not be detained or taken into the custody of the court as a condition of the adjustment, and the matter shall be closed by the court upon adjustment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The petition and all subsequent pleadings shall be styled as follows: In the matter of ........................, a minor under 18 years of age. The petition may be executed upon the petitioner's information and belief, and must be verified. It must include the following information:</p>
+              </content>
+              <paragraph eId="47-12-040__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name, address, and occupation of the petitioner, together with the petitioner's relationship to the minor, and the petitioner's interest in the matter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-040__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the name, age, and address of the minor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-040__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a brief statement of the facts that bring the minor within this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-040__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the names and addresses of the minor's parents;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-040__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the name and address of the minor's guardian, or of the person having control or custody of the minor.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the petitioner does not know a fact required in this section, the petitioner shall so state in the petition.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-050">
+            <num>47.12.050</num>
+            <heading>Notice to and involvement of parent or guardian.</heading>
+            <subsection eId="47-12-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as may be otherwise specifically provided, in all cases under this chapter, the minor, each parent of the minor, the foster parent of the minor, and the guardian of the minor are entitled to notice adequate to give actual notice of the proceedings, taking into account education and language differences that are known or reasonably ascertainable by the party giving the notice. The notice must contain all names by which the minor has been identified.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notice shall be given in the manner appropriate under the Alaska Rules of Civil Procedure for the service of process in a civil action under state law or in any manner the court by order directs. Proof of giving of the notice shall be filed with the court before the petition is heard or other proceeding commenced.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The court may subpoena the parent or guardian of the minor, or any other person whose testimony may be necessary at the hearing. A subpoena or other process may be served by a person authorized by law to make the service. If personal service cannot be made, the court may direct that service of process be in the manner appropriate under the Alaska Rules of Civil Procedure for the service of process in a civil action under state law or in any manner the court directs.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In any proceeding under this chapter, the presence of the minor's parent or guardian is preferred.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-060">
+            <num>47.12.060</num>
+            <heading>Informal action to adjust matter.</heading>
+            <subsection eId="47-12-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provisions of this section apply to a minor who is alleged to be a delinquent minor under
+AS 47.12.020
+and for whom the department or an entity selected by it has made a preliminary inquiry as required by
+AS 47.12.040
+(a)(1). Following the preliminary inquiry,</p>
+              </content>
+              <paragraph eId="47-12-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department or the entity selected by it may dismiss the matter with or without prejudice; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the department or the entity selected by it may take informal action to adjust the matter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When the department or the entity selected by it decides to make an informal adjustment of a matter under (a)(2) of this section, that informal adjustment</p>
+              </content>
+              <paragraph eId="47-12-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>must be made with the agreement or consent of the minor and the minor's parents or guardian to the terms and conditions of the adjustment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>must give the minor's foster parent an opportunity to be heard before the informal adjustment is made;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-060__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>must include notice that informal action to adjust a matter is not successfully completed unless, among other factors that the department or the entity selected by it considers, as to the victim of the act of the minor that is the basis of the delinquency allegation, the minor pays restitution in the amount set by the department or the entity selected by it or agrees as a term or condition set by the department or the entity selected by it to pay the restitution.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-060__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>[Repealed, § 22 ch 32 SLA 2016.]</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-060__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>[Repealed, § 56 ch 16 SLA 2021.]</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-065">
+            <num>47.12.065</num>
+            <heading>Dual sentencing provisions.</heading>
+            <subsection eId="47-12-065__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department or the entity selected by it may refer to the appropriate district attorney the circumstances involving a minor who is subject to the provisions of this section because the minor is alleged to have violated a criminal law of the state. Except as provided in (d) of this section, the department or the entity selected by it may make the referral if the minor was 16 years of age or older at the time of the offense, and the offense is</p>
+              </content>
+              <paragraph eId="47-12-065__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a felony that is a crime against a person and the minor has previously been adjudicated a delinquent under the laws of this state or substantially similar laws of another jurisdiction for a felony offense that is a crime against a person; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-065__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>sexual abuse of a minor in the second degree.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-065__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a referral is made under (a) of this section, the district attorney may elect to seek imposition of a dual sentence in the case to further the goal and purposes of this chapter as set out in
+AS 47.12.010
+. If the district attorney seeks imposition of a dual sentence, the district attorney shall present the case to the grand jury for indictment. If the grand jury returns an indictment, the district attorney shall file with the court under
+AS 47.12.040</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-065__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>a petition seeking the minor's adjudication as a delinquent.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-065__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the district attorney decides not to seek imposition of a dual sentence under (b) of this section or if the grand jury does not return an indictment, the case shall proceed under the remaining provisions of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-065__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department or the entity selected by it may refer to the appropriate district attorney a person who is subject to the jurisdiction of this chapter under
+AS 47.12.020</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-065__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and who is alleged to have committed a felony or other offense. If the district attorney elects to seek imposition of a dual sentence in the matter, the district attorney shall file notice of that election. If the alleged crime is a misdemeanor, the district attorney shall file a delinquency petition. If the alleged crime is a felony, the district attorney shall follow the procedure set out in (b) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-070">
+            <num>47.12.070</num>
+            <heading>Summons and custody of minor.</heading>
+            <content>
+              <p>Sec. 47.12.070.   Summons and custody of minor.
+After a petition is filed and after further investigation that the court directs, if the minor has not appeared voluntarily, the court shall issue a summons that
+(1) recites briefly the substance of the petition;
+(2) directs the person having custody or control of the minor to appear personally in court with the minor at the place and at the time set forth in the summons.</p>
+            </content>
+          </section>
+          <section eId="sec_47-12-080">
+            <num>47.12.080</num>
+            <heading>Release of minor.</heading>
+            <content>
+              <p>Sec. 47.12.080.   Release of minor.
+A minor who is taken into custody may, in the discretion of the court and upon the written promise of the parent, guardian, or custodian to bring the minor before the court at a time specified by the court, be released to the care and custody of the parent, guardian, or custodian. The minor, if not released, shall be detained as provided by
+AS 47.12.240
+. The court may determine whether the father or mother or another person shall have the custody and control of the minor for the duration of the proceedings. If the minor is of sufficient age and intelligence to state desires, the court shall give consideration to the minor's desires.</p>
+            </content>
+          </section>
+          <section eId="sec_47-12-090">
+            <num>47.12.090</num>
+            <heading>Appointment of attorney or guardian ad litem.</heading>
+            <subsection eId="47-12-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In all proceedings initiated under a petition for delinquency, a minor shall have the right to be represented by counsel and, if indigent, have counsel appointed by the court. The court shall appoint counsel in such cases unless it makes a finding on the record that the minor has made a voluntary, knowing, and intelligent waiver of the right to counsel and a parent or guardian with whom the minor resides or resided before the filing of the petition concurs with the waiver. In cases in which it has been alleged that the minor has committed an act that would be a felony if committed by an adult, waiver of counsel may not be accepted unless the court is satisfied that the minor has consulted with an attorney before the waiver of counsel.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Whenever in the course of proceedings instituted under this chapter it appears to the court that the welfare of a minor will be promoted by the appointment of an attorney to represent the minor or an attorney or other person to serve as guardian ad litem, the court may make the appointment. Appointment of a guardian ad litem or attorney shall be made under the terms of
+AS 25.24.310
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-100">
+            <num>47.12.100</num>
+            <heading>Waiver of jurisdiction.</heading>
+            <subsection eId="47-12-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the court finds at a hearing on a petition that there is probable cause for believing that a minor is delinquent and finds that the minor is not amenable to treatment under this chapter, it shall order the case closed. Subject to the provisions of
+AS 47.12.105
+, after a case is closed under this subsection, the minor may be charged, held, transported, released on bail, prosecuted, sentenced, and incarcerated in the same manner as an adult.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A minor is unamenable to treatment under this chapter if the minor probably cannot be rehabilitated by treatment under this chapter before reaching 20 years of age. In determining whether a minor is unamenable to treatment, the court may consider the seriousness of the offense the minor is alleged to have committed, the minor's history of delinquency, the probable cause of the minor's delinquent behavior, and the facilities available to the department for treating the minor.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of making a determination under this section,</p>
+              </content>
+              <paragraph eId="47-12-100__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the standard of proof is by a preponderance of the evidence; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-100__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the burden of proof that a minor is not amenable to treatment under this chapter is on the state; however, if the petition filed under
+AS 47.12.040
+seeking to have the court declare a minor a delinquent is based on the minor's alleged commission of an offense that is an unclassified felony or class A felony and that is a crime against a person, the minor
+(A) is rebuttably presumed not to be amenable to treatment under this chapter; and
+(B) has the burden of proof of showing that the minor is amenable to treatment under this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-105">
+            <num>47.12.105</num>
+            <heading>Detention of minors waived into adult court.</heading>
+            <subsection eId="47-12-105__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 47.12.240
+, the department, by agreement with the Department of Corrections, shall detain and care for waived minors. The department shall transfer a waived minor to a facility operated by the Department of Corrections when the waived minor reaches 18 years of age.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-105__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in (c) of this section, a waived minor held in an adult correctional facility for more than four hours to attend court proceedings must be separated by sight and sound from adult offenders.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-105__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If there is not an available juvenile detention facility in a community where a trial is being held or if a juvenile facility is inappropriate for a waived minor, the department may request that the court order, in the interest of justice, that a waived minor be held in an adult correctional facility with or without sight and sound separation from adult offenders. In making this decision, the court shall consider</p>
+              </content>
+              <paragraph eId="47-12-105__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the age of the waived minor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-105__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the physical and mental maturity of the waived minor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-105__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the present mental state of the waived minor, including whether the waived minor presents an imminent risk of harm to self;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-105__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the nature and circumstances of the alleged offense;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-105__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the waived minor's history of prior delinquent acts;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-105__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the relative ability of an available adult or juvenile detention facility to meet the specific needs of the waived minor and protect the safety of the public and other detained minors; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-105__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>other relevant factors.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-105__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a court determines under (c) of this section that it is in the interest of justice to permit a waived minor to be held in an adult correctional facility,</p>
+              </content>
+              <paragraph eId="47-12-105__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department shall request a hearing not less than once every 30 days to review the determination that the waived minor may be held under the ordered circumstances;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-105__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the waived minor may not be held in an adult correctional facility, or permitted to have sight or sound contact with adult offenders, for more than 180 days, unless the court determines in writing that there is good cause for an extension or the waived minor expressly waives this limitation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-105__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A waived minor detained under (a) of this section shall be detained in a secure juvenile facility and receive credit, including a good time deduction under
+AS 33.20.010
+, for time spent in a department facility pending trial, sentencing, or appeal, if the detention is in connection with an offense for which a sentence is imposed.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-105__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A waived minor who is detained in an adult correctional facility under (c) of this section is entitled to counsel at a review hearing held under (d) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-105__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In this section, waived minor means an individual who commits an offense while under the age of 18 and is waived into adult court under
+AS 47.12.030
+or 47.12.100.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-110">
+            <num>47.12.110</num>
+            <heading>Hearings.</heading>
+            <subsection eId="47-12-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The court shall conduct a hearing on the petition. The court shall give notice of the hearing to the department, and the department shall send a representative to the hearing. The representative of the department may also be heard at the hearing. The department shall give notice of the hearing and a copy of the petition to the minor's foster parent, and the court shall give the foster parent an opportunity to be heard at the hearing. The public shall be excluded from the hearing, but the court, in its discretion, may permit individuals to attend a hearing if their attendance is compatible with the best interests of the minor. Nothing in this section may be applied in such a way as to deny a minor's rights to confront adverse witnesses, to a public trial, and to a trial by jury.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a) of this section or an order prohibiting or limiting the public made under (e) of this section, the victim of an offense that a minor is alleged to have committed, or the designee of the victim, has a right to be present at all hearings or proceedings held under this section at which the minor has a right to be present. If the minor is found to have committed the offense, the victim may at the disposition hearing give sworn testimony or make an unsworn oral presentation concerning the offense and its effect on the victim. If there are numerous victims of a minor's offense, the court may limit the number of victims who may give sworn testimony or make an unsworn oral presentation, but the court may not limit the right of a victim to attend a hearing even if the victim is likely to be a witness in a hearing concerning the minor's alleged offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 54 ch 107 SLA 1998.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-110__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a court hearing on a petition seeking the adjudication of a minor as a delinquent shall be open to the public, except as prohibited or limited by order of the court, if</p>
+              </content>
+              <paragraph eId="47-12-110__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department files with the court a motion asking the court to open the hearing to the public, and the petition seeking adjudication of the minor as a delinquent is based on
+(A) the minor's alleged commission of an offense, and the minor has knowingly failed to comply with all the terms and conditions required of the minor by the department or imposed on the minor in a court order entered under
+AS 47.12.040</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-110__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a crime against a person that is punishable as a felony;
+(ii) a crime in which the minor employed a deadly weapon, as that term is defined in
+AS 11.81.900
+(b), in committing the crime;
+(iii) arson under
+AS 11.46.400
+ 11.46.410;
+(iv) burglary under
+AS 11.46.300
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-110__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>distribution of child sexual abuse material under
+AS 11.61.125
+;
+(vi) sex trafficking in the first degree under
+AS 11.66.110
+; or
+(vii) misconduct involving a controlled substance under
+AS 11.71
+involving the delivery of a controlled substance or the possession of a controlled substance with intent to deliver, other than an offense under
+AS 11.71.040
+or 11.71.050; or
+(C) the minor's alleged commission of a felony and the minor was 16 years of age or older at the time of commission of the offense when the minor has previously been convicted or adjudicated a delinquent minor based on the minor's commission of an offense that is a felony; or</p>
+              </content>
+              <paragraph eId="47-12-110__subsec_v__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the minor agrees to a public hearing on the petition seeking adjudication of the minor as a delinquent.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-110__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a court proceeding shall be open to the public, except as prohibited or limited by order of the court, when the district attorney has elected to seek imposition of a dual sentence and a petition has been filed under
+AS 47.12.065
+, or when a minor agrees as part of a plea agreement to be subject to dual sentencing.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-110__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>During jury selection or as part of an opening statement at the hearing, the attorney representing the department may introduce the victim to the jury, and the attorney for the minor may introduce the minor to the jury.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-120">
+            <num>47.12.120</num>
+            <heading>Judgments and orders.</heading>
+            <subsection eId="47-12-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The court, at the conclusion of the hearing, or thereafter as the circumstances of the case may require, shall find and enter a judgment that the minor is or is not delinquent.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the minor is not subject to (j) of this section and the court finds that the minor is delinquent, it shall</p>
+              </content>
+              <paragraph eId="47-12-120__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>order the minor committed to the department for a period of time not to exceed two years or in any event extend past the day the minor becomes 19 years of age, except that the department may petition for and the court may grant in a hearing (A) two-year extensions of commitment that do not extend beyond the minor's 19th birthday if the extension is in the best interests of the minor and the public; and (B) an additional one-year period of supervision past age 19 if continued supervision is in the best interests of the person and the person consents to it; the department shall place the minor in the juvenile facility that the department considers appropriate and that may include a juvenile treatment facility, juvenile detention facility, or secure residential psychiatric treatment center; the minor may be released from placement or detention and placed on probation on order of the court and may also be released by the department, in its discretion, under
+AS 47.12.260
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-120__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>order the minor placed on probation, to be supervised by the department, and released to the minor's parents, guardian, or a suitable person; if the court orders the minor placed on probation, it may specify the terms and conditions of probation; the probation may be for a period of time not to exceed two years and in no event to extend past the day the minor becomes 19 years of age, except that the department may petition for and the court may grant in a hearing
+(A) two-year extensions of supervision that do not extend beyond the minor's 19th birthday if the extension is in the best interests of the minor and the public; and
+(B) an additional one-year period of supervision past age 19 if the continued supervision is in the best interests of the person and the person consents to it;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-120__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>order the minor committed to the custody of the department and placed on probation, to be supervised by the department and released to the minor's parents, guardian, other suitable person, or suitable nondetention setting such as with a relative or in a foster home or residential child care facility, whichever the department considers appropriate to implement the treatment plan of the predisposition report; if the court orders the minor placed on probation, it may specify the terms and conditions of probation; the department may transfer the minor, in the minor's best interests, from one of the probationary placement settings listed in this paragraph to another, and the minor, the minor's parents or guardian, the minor's foster parent, and the minor's attorney are entitled to reasonable notice of the transfer; the probation may be for a period of time not to exceed two years and in no event to extend past the day the minor becomes 19 years of age, except that the department may petition for and the court may grant in a hearing
+(A) two-year extensions of commitment that do not extend beyond the minor's 19th birthday if the extension is in the best interests of the minor and the public; and
+(B) an additional one-year period of supervision past age 19 if the continued supervision is in the best interests of the person and the person consents to it;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-120__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>order the minor and the minor's parent to make suitable restitution in lieu of or in addition to the court's order under (1), (2), or (3) of this subsection; under this paragraph,
+(A) except as provided in (B) of this paragraph, the court may not refuse to make an order of restitution to benefit the victim of the act of the minor that is the basis of the delinquency adjudication; under this subparagraph, the court may require the minor to use the services of a community dispute resolution center that has been recognized by the commissioner under
+AS 47.12.450</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to resolve any dispute between the minor and the victim of the minor's offense as to the amount of or manner of payment of the restitution;
+(B) the court may not order payment of restitution by the parent of a minor who is a runaway or missing minor for an act of the minor that was committed by the minor after the parent has made a report to a law enforcement agency, as authorized by
+AS 47.10.141
+(a), that the minor has run away or is missing; for purposes of this subparagraph, runaway or missing minor means a minor who a parent reasonably believes is absent from the minor's residence for the purpose of evading the parent or who is otherwise missing from the minor's usual place of abode without the consent of the parent; and
+(C) at the request of the department, the Department of Law, the victims' advocate, or on its own motion, the court shall, at any time, order the minor and the minor's parent, if applicable, to submit financial information on a form approved by the Alaska Court System to the court, the department, and the Department of Law for the purpose of establishing the amount of restitution or enforcing an order of restitution under
+AS 47.12.170
+; the form must include a warning that submission of incomplete or inaccurate information is punishable as unsworn falsification in the second degree under
+AS 11.56.210
+;</p>
+              </content>
+              <paragraph eId="47-12-120__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>order the minor committed to the department for placement in an adventure-based education program established under
+AS 47.21.020
+with conditions the court considers appropriate concerning release upon satisfactory completion of the program or commitment under (1) of this subsection if the program is not satisfactorily completed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-120__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>in addition to an order under (1)  (5) of this subsection, order the minor to perform community service; for purposes of this paragraph, community service includes work
+(A) on a project identified in
+AS 33.30.901
+; or
+(B) that, on the recommendation of the city council or traditional village council, would benefit persons within the city or village who are elderly or disabled; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-120__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>in addition to an order under (1)  (6) of this subsection, order the minor's parent or guardian to comply with orders made under
+AS 47.12.155
+, including participation in treatment under
+AS 47.12.155</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the court finds that the minor is not delinquent, it shall immediately order the minor released from the department's custody and returned to the minor's parents, guardian, or custodian, and dismiss the case.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A minor found to be delinquent is a ward of the state while committed to the department or while the department has the power to supervise the minor's actions. The court shall review an order made under (b) of this section annually and may review the order more frequently to determine if continued placement, probation, or supervision, as it is being provided, is in the best interest of the minor and the public. The department, the minor, and the minor's parents, guardian, or custodian are entitled, when good cause is shown, to a review on application. If the application is granted, the court shall afford these parties and their counsel and the minor's foster parent reasonable notice in advance of the review and hold a hearing where these parties and their counsel and the minor's foster parent shall be afforded an opportunity to be heard. The minor shall be afforded the opportunity to be present at the review.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-120__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall pay all court costs incurred in all proceedings in connection with the adjudication of delinquency under this chapter, including hearings that result in the release of the minor.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-120__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A minor, the minor's parents or guardian acting on the minor's behalf, or the department may appeal a judgment or order, or the stay, modification, setting aside, revocation, or enlargement of a judgment or order issued by the court under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-120__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>[Repealed, § 54 ch 107 SLA 1998.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-120__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>[Repealed, § 74 ch 35 SLA 2003.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-120__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>When, under (a) of this section, the court enters judgment finding that a minor is delinquent, the court may order the minor temporarily detained pending entry of its dispositional order if the court finds that detention is necessary</p>
+              </content>
+              <paragraph eId="47-12-120__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to protect the minor or the community; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-120__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to ensure the minor's appearance at a subsequent court hearing.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-120__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>If, in a case in which a district attorney has elected to seek imposition of a dual sentence under
+AS 47.12.065
+, the court finds that the minor is delinquent for committing an offense in the circumstances set out in
+AS 47.12.065
+, or if the minor agrees as part of a plea agreement to be subject to dual sentencing, the court shall</p>
+              </content>
+              <paragraph eId="47-12-120__subsec_j__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>enter one or more orders under (b) of this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-120__subsec_j__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>pronounce a sentence for the offense in accordance with the provisions of
+AS 12.55
+; however, the sentence pronounced under this paragraph must include some period of imprisonment that is not suspended by the court.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-120__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>[Repealed, § 22 ch 32 SLA 2016.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-130">
+            <num>47.12.130</num>
+            <heading>Predisposition hearing reports.</heading>
+            <subsection eId="47-12-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before the disposition hearing of a delinquent minor, the department shall submit a predisposition report with a recommended plan of treatment to aid the court in its selection of a disposition, a victim impact statement reporting the information set out in
+AS 12.55.022
+, and any further information that the court may request. In preparing the predisposition report, the department shall contact the victim of the minor's offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The court shall inform the minor, the minor's parents, and the attorneys representing the parties and the guardian ad litem that the predisposition report will be available to them not less than 10 days before the disposition hearing.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 6 ch 23 SLA 2002.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, parents means the natural or adoptive parents, and any legal guardian, relative, or other adult person with whom the minor has resided and who has acted as a parent in providing for the minor for a continuous period of time before this action.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-140">
+            <num>47.12.140</num>
+            <heading>Court dispositional order.</heading>
+            <content>
+              <p>Sec. 47.12.140.   Court dispositional order.
+In making its dispositional order under
+AS 47.12.120
+(b)(1)  (3) and (5) and (j), the court shall
+(1) consider both the best interests of the minor and the interests of the public, and, in doing so, the court shall take into account
+(A) the seriousness of the minor's delinquent act and the attitude of the minor and the minor's parents toward that act;
+(B) the minor's culpability as indicated by the circumstances of the particular case;
+(C) the age of the minor;
+(D) the minor's prior criminal or juvenile record and the success or failure of any previous orders, dispositions, or placements imposed on the minor;
+(E) the effect of the dispositional order to be imposed in deterring the minor from committing other delinquent acts;
+(F) the need to commit the minor to the department's custody or to detain the minor in a juvenile treatment facility, juvenile detention facility, secure residential psychiatric treatment center, or other suitable place in order to prevent further harm to the public;
+(G) the interest of the public in securing the minor's rehabilitation; and
+(H) the ability of the state to take custody of and to care for the minor; and
+(2) order the least restrictive alternative disposition for the minor; for purposes of this paragraph, the least restrictive alternative disposition means that disposition that is no more restrictive than is, in the judgment of the court, most conducive to the minor's rehabilitation taking into consideration the interests of the public.</p>
+            </content>
+          </section>
+          <section eId="sec_47-12-150">
+            <num>47.12.150</num>
+            <heading>Legal custody, guardianship, and residual parental rights and responsibilities.</heading>
+            <subsection eId="47-12-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a minor is committed to the department under
+AS 47.12.120
+(b)(1) or (3) or 47.12.240, detained by the department on behalf of the Department of Corrections under
+AS 33.30.011
+and
+AS 47.12.105
+, or released under
+AS 47.12.120
+(b)(2) to the minor's parents, guardian, or other suitable person, a relationship of legal custody exists. This relationship imposes on the state and its authorized agents or the parents, guardian, or other suitable person the responsibility of physical care and control of the minor, the determination of where and with whom the minor shall live, the right and duty to protect, train, and discipline the minor, and the duty of providing the minor with food, shelter, education, and medical care. These obligations are subject to any residual parental rights and responsibilities and rights and responsibilities of a guardian if one has been appointed. When a minor is committed to the department and the department places the minor with the minor's parent, the parent has the responsibility to provide and pay for food, shelter, education, and medical care for the minor. When parental rights have been terminated, or there are no living parents and a guardian has not been appointed, the responsibilities of legal custody include those in (b) and (c) of this section. The department or person having legal custody of the minor may delegate any of the responsibilities under this section, except authority to consent to marriage, adoption, and military enlistment may not be delegated. For purposes of this chapter, a person in charge of a placement setting is an agent of the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When a guardian is appointed for the minor, the court shall specify in its order the rights and responsibilities of the guardian. The guardian may be removed only by court order. The rights and responsibilities may include, but are not limited to, having the right and responsibility of reasonable visitation, consenting to marriage, consenting to military enlistment, consenting to major medical treatment, obtaining representation for the minor in legal actions, and making decisions of legal or financial significance concerning the minor.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When there has been transfer of legal custody or appointment of a guardian and parental rights have not been terminated by court decree, the parents shall have residual rights and responsibilities. These residual rights and responsibilities of the parent include the right and responsibility of reasonable visitation, consent to adoption, consent to marriage, consent to military enlistment, consent to major medical treatment except in cases of emergency or cases falling under
+AS 25.20.025
+, and the responsibility for support, except if by court order any residual right and responsibility has been delegated to a guardian under (b) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-155">
+            <num>47.12.155</num>
+            <heading>Parental or guardian accountability and participation.</heading>
+            <subsection eId="47-12-155__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The parent or guardian of a minor who is alleged to be a delinquent under
+AS 47.12.020
+or found to be a delinquent under
+AS 47.12.120
+shall attend each hearing held during the delinquency proceedings unless the court excuses the parent or guardian from attendance for good cause.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-155__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a minor is found to be a delinquent under
+AS 47.12.120
+, the court may order that the minor's parent or guardian</p>
+              </content>
+              <paragraph eId="47-12-155__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>personally participate in treatment reasonably available in the parent's or guardian's location as specified in a plan set out in the court order;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-155__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>notify the department if the minor violates a term or condition of the court order; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-155__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>comply with any other conditions set out in the court order, including a condition in an order requiring a parent to pay restitution ordered on behalf of a victim of a delinquent act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-155__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a court orders a minor's parent or guardian to participate in treatment under (b) of this section, the court also shall order the parent or guardian to use any available insurance or another resource to cover the treatment, or to pay for the treatment if other coverage is unavailable. If the court determines that the parent or guardian is unable to pay for the treatment due to indigence and the department pays for the treatment, the department may seek reimbursement only from the indigent parent's or guardian's permanent fund dividend.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-155__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The permanent fund dividend of an indigent parent or guardian participating in treatment ordered under (b) of this section may be taken under
+AS 43.23.140
+(b)(6) and 43.23.150 to satisfy the balance due on a reimbursement claim by the department under (c) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-155__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a parent or guardian fails to attend a hearing as required in (a) of this section, the court shall hold the hearing without the attendance of the parent or guardian.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-160">
+            <num>47.12.160</num>
+            <heading>Retention of jurisdiction over minor.</heading>
+            <subsection eId="47-12-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (g) of this section, the court retains jurisdiction over the case and may at any time stay execution, modify, set aside, revoke, or enlarge a judgment or order, or grant a new hearing, in the exercise of its power of protection over the minor and for the minor's best interest, for a period of time not to exceed the maximum period otherwise permitted by law or in any event extend past the day the minor becomes 19, unless sooner discharged by the court, except that the department may apply for and the court may grant an additional one-year period of supervision past age 19 if continued supervision is in the best interests of the person and the person consents to it. An application for any of these purposes may be made by the parent, guardian, or custodian acting in behalf of the minor, or the court may, on its own motion, and after reasonable notice to interested parties and the appropriate department, take action that it considers appropriate.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the court determines at a hearing authorized by (a) of this section that it is in the best interests of the minor to be released to the care or custody of the minor's parent, guardian, or custodian, it may enter an order to that effect and the minor is discharged from the control of the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-160__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a minor is adjudicated a delinquent before the minor's 18th birthday, the court may retain jurisdiction over the minor after the minor's 18th birthday for the purpose of supervising the minor's rehabilitation, but the court's jurisdiction over the minor under this chapter never extends beyond the minor's 19th birthday, except that the department may apply for and the court may grant an additional one-year period of supervision past age 19 if continued supervision is in the best interests of the person and the person consents to it. The department may retain jurisdiction over the person between the person's 18th and 19th birthdays for the purpose of supervising the person's rehabilitation, if the person has been placed under the supervision of the department before the person's 18th birthday, except that the department may apply for and the court may grant an additional one-year period of supervision past age 19 if continued supervision is in the best interests of the person and the person consents to it.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-160__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department, or the district attorney in a matter subject to the jurisdiction of this chapter under
+AS 47.12.020
+(b), may petition the court for imposition of sentence pronounced under
+AS 47.12.120
+(j)(2) if the offender is still subject to the jurisdiction of the court and if the offender, after pronouncement of sentence under
+AS 47.12.120
+(j)(2),</p>
+              </content>
+              <paragraph eId="47-12-160__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>commits a subsequent felony offense;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-160__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>commits a subsequent offense against a person that is a misdemeanor and involves injury to a person or the use of a deadly weapon;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-160__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>fails to comply with the terms of a restitution order;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-160__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>fails to engage in or satisfactorily complete a rehabilitation program ordered by a court or required by a facility or juvenile probation officer; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-160__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>escapes from a juvenile or other correctional facility.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-160__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a petition is filed under (d) of this section and if the court finds by a preponderance of the evidence that the minor has committed a subsequent felony offense that is a crime against a person or is the crime of arson, the court shall impose the adult sentence previously pronounced under
+AS 47.12.120</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-160__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>and, subject to
+AS 47.12.105
+, transfer custody of the minor to the Department of Corrections. If the court finds by a preponderance of the evidence that any of the other circumstances set out in (d)(1)  (5) of this section exist, the court shall impose the adult sentence previously pronounced and, subject to
+AS 47.12.105
+, transfer custody of the minor to the Department of Corrections unless the minor proves by preponderance of the evidence that mitigating circumstances exist that justify a continuance in the stay of the adult sentence and the minor is amenable to further treatment under this chapter. The court shall make written findings to support its order.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-160__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding another provision of law, the court shall accept</p>
+              </content>
+              <paragraph eId="47-12-160__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>payments of restitution from a minor and the minor's parent at any time; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-160__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>prepayments of restitution or payments in anticipation of an order of restitution.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-160__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If the department has filed a delinquency petition under
+AS 47.12.020
+and 47.12.040 regarding a minor who is 18 years of age or older, the court has jurisdiction to adjudicate and dispose of the matter as provided in this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-170">
+            <num>47.12.170</num>
+            <heading>Enforcement of restitution.</heading>
+            <subsection eId="47-12-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An order by the court under
+AS 47.12.120
+that a minor or the minor's parent pay restitution is a civil judgment that remains enforceable after the expiration of the court's jurisdiction over the minor under
+AS 47.12.160
+. A recipient of a restitution order, or the state on behalf of the restitution recipient, may enforce a restitution order against the minor and the minor's parent by any procedure authorized by law for enforcement of a civil judgment. If the restitution recipient enforces or collects restitution through civil process, collection costs and full reasonable attorney fees shall be awarded. If the state on the restitution recipient's behalf enforces or collects restitution through civil process, collection costs and full reasonable attorney fees shall be awarded, up to a maximum of twice the amount of restitution owing at the time the civil process was initiated. This section does not limit the authority of the court to otherwise enforce orders of payment for restitution. An order of restitution enforced under this section does not limit under other law the civil liability of the minor or the minor's parent as a result of the delinquent conduct.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Law is authorized to collect restitution on behalf of the recipient unless</p>
+              </content>
+              <paragraph eId="47-12-170__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the recipient elects as provided in (c) of this section to enforce the order of restitution without the assistance of the Department of Law; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-170__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the order requires restitution to be made in a form other than payment of a specific dollar amount.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The court shall forward a copy of the restitution order to the department and the office of victims' rights when the order is entered. Upon receipt of the order, the department shall send a notice to the recipient regarding the recipient's rights under this section, including the right to elect to enforce the order of restitution without the assistance of the Department of Law and of the possibility of, and procedure for, receiving payment from the restorative justice account. When 90 days have passed since the recipient received the notice, or when the department receives the recipient's response to the notice, whichever is earlier, the department shall send to the Department of Law a copy of the order of restitution; the name, date of birth, social security number, and current address of the recipient, the minor, and the minor's parent; the notice sent to the recipient under this subsection; and the recipient's response, if any. If a response from the recipient reaches the department after the department has sent the order of restitution and other information to the Department of Law under this subsection, the department shall immediately send the response to the Department of Law. The information provided to the Department of Law and the office of victims' rights under this subsection is confidential and is not open to inspection as a public record under
+AS 40.25.110
+. The Department of Law, the office of victims' rights, or agents for the Department of Law or office of victims' rights may not disclose the information except as necessary to collect on the restitution.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-170__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Department of Law may not begin collection procedures on the order of restitution until the recipient has been given notice under (c) of this section and has been given 90 days after receipt of notice to elect to collect the restitution without the assistance of the Department of Law. If the Department of Law receives a response to the notice before the 90-day period, the Department of Law may begin collection on the restitution. A recipient may inform the Department of Law at a later time of the recipient's election to collect the restitution without the assistance of the Department of Law; upon receipt of the information, the Department of Law may no longer proceed with collection efforts on behalf of the recipient. A recipient who has elected under this section to collect restitution without the assistance of the Department of Law may not later request the services of that department to collect the restitution.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-170__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the Department of Law or its agents proceed to collect restitution on behalf of a recipient under (c) of this section, the actions of the Department of Law or an agent of the Department of Law on behalf of the recipient do not create an attorney-client relationship between the Department of Law and the recipient. The Department of Law or its agent may not settle a judgment for restitution without the consent of the recipient of the restitution.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-170__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An action for damages may not be brought against the state or any of its agents, officers, or employees based on an action or omission under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-170__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The Department of Law may enter into contracts on behalf of the state to carry out the collection procedures of this section. The Department of Law may adopt regulations necessary to carry out the collection procedures of this section, including the reimbursement of attorney fees and costs in appropriate cases.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-180">
+            <num>47.12.180</num>
+            <heading>Effect of adjudication.</heading>
+            <subsection eId="47-12-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided by
+AS 47.12.160</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-180__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>and (e) and
+AS 47.12.170
+, an adjudication under this chapter upon the status of a minor</p>
+              </content>
+              <paragraph eId="47-12-180__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may not operate to impose any of the civil disabilities ordinarily imposed by conviction upon a criminal charge;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-180__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>does not operate to permit a minor afterward to be considered a criminal by the adjudication; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-180__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>does not operate to permit the adjudication to be afterward considered a conviction, nor may a minor be charged with or convicted of a crime in a court except as provided in this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commitment and placement of a minor and evidence given in the court are not admissible as evidence against the minor in a subsequent case or proceedings in any other court, nor does the commitment and placement or evidence operate to disqualify a minor in a future civil service examination or appointment in the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-200">
+            <num>47.12.200</num>
+            <heading>Arrest of a minor.</heading>
+            <content>
+              <p>Sec. 47.12.200.   Arrest of a minor.
+The arrest of a minor other than for a traffic offense is not considered an arrest for any purpose except for the purpose of the disposition of a proceeding arising out of that arrest.</p>
+            </content>
+          </section>
+          <section eId="sec_47-12-210">
+            <num>47.12.210</num>
+            <heading>Fingerprinting of minors.</heading>
+            <subsection eId="47-12-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A peace officer may fingerprint a minor under the same circumstances as an adult may be fingerprinted.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided by
+AS 47.12.310
+(b)(1), fingerprint records taken under this section are not subject to
+AS 47.12.310
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-220">
+            <num>47.12.220</num>
+            <heading>Appointment of guardian or custodian.</heading>
+            <content>
+              <p>Sec. 47.12.220.   Appointment of guardian or custodian.
+When, in the course of a proceeding under this chapter, it appears to the court that the welfare of a minor will be promoted by the appointment of a guardian or custodian of the minor's person or property, the court may make the appointment. The court shall have a summons issued and served upon the parents of the minor, if they can be found, in a manner and within a time before the hearing that the court considers reasonable. The court may determine whether the father, mother, or the department shall have the custody and control of the minor. If the minor is of sufficient age and intelligence to state desires, the court shall consider them. The court may order either or both parents to pay support for the minor's care to the guardian, custodian, or department.</p>
+            </content>
+          </section>
+          <section eId="sec_47-12-230">
+            <num>47.12.230</num>
+            <heading>Support of minor.</heading>
+            <subsection eId="47-12-230__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a delinquent minor is committed under this chapter, the court or the child support services agency created in
+AS 25.27.010
+shall, after giving the parent a reasonable opportunity to be heard, require that the parent pay to the department in a manner that the court or the child support services agency directs a sum to cover in full or in part the maintenance and care of the minor. The support obligation shall be calculated under Rule 90.3(i) of the Alaska Rules of Civil Procedure.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-230__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a parent wilfully fails or refuses to pay the sum fixed, the parent may be proceeded against as provided by law in cases of family desertion and nonsupport.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-230__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The sum collected from a parent under this section shall be directly credited to the general fund of the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-240">
+            <num>47.12.240</num>
+            <heading>Detention of minors.</heading>
+            <subsection eId="47-12-240__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the court commits a minor to the custody of the department, the department shall arrange to place the minor in a juvenile detention facility or another suitable place that the department designates for that purpose. Except under the conditions described in
+AS 47.12.105
+or (c) of this section, the minor may not be incarcerated in a correctional facility that houses adult prisoners.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-240__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When a minor is detained under this chapter, the person having responsibility for the facility in which the minor is detained shall immediately make reasonable attempts to notify the minor's parent, guardian, or custodian of the minor's detention.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-240__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a minor may be detained in an adult correctional facility, an adult jail, or a temporary secure juvenile holding area if the minor is arrested for criminal charges under
+AS 47.12.030
+(a), if the minor is the subject of a petition filed with the court under this chapter seeking adjudication of the minor as a delinquent minor, or if the minor is in official detention pending the filing of that petition; however, detention in an adult correctional facility, an adult jail, or a temporary secure juvenile holding area under this subsection may not exceed the lesser of</p>
+              </content>
+              <paragraph eId="47-12-240__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>six hours, except under the criteria listed in (e) of this section; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-240__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the time necessary to arrange the minor's transportation to a juvenile detention facility or comparable facility for the detention of minors.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-240__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>When a minor is detained under (c) of this section, the minor shall be</p>
+              </content>
+              <paragraph eId="47-12-240__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>assigned to quarters in a correctional facility or an adult jail that are separate from quarters used to house adult prisoners so that the minor cannot communicate with or view adults who are in official detention;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-240__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provided admission, health care, hygiene, and food services and recreation and visitation opportunities separate from services and opportunities provided to adults who are in official detention.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-240__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding the limitation on detention set out in (c) of this section, a minor whose detention is authorized by (c) of this section may be detained in a correctional facility for up to 24 hours when the authority having jurisdiction over the minor under this chapter is outside a metropolitan statistical area under the current designation of the United States Bureau of the Census and the authority has no existing acceptable alternative placement available for the minor. The minor may be held in secure custody beyond the 24-hour period if the criteria set out in this subsection are met and if the correctional facility is located where conditions of</p>
+              </content>
+              <paragraph eId="47-12-240__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>distance to be traveled or the lack of highway, road, or other ground transportation do not allow for court appearances within 24 hours, in which case the minor may be held for up to an additional 48 hours at the correctional facility; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-240__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>lack of safety exist, such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel, in which case the time for an appearance may be delayed until 24 hours after the time that the conditions become safe.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-240__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A detention authorized by (e) of this section may not exceed the time necessary to satisfy the requirement of (c)(2) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-240__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>[Repealed, § 42 ch 12 SLA 2006.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-240__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="47-12-240__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>correctional facility has the meaning given in
+AS 33.30.901
+whether the facility is operated by the state, a municipality, a village, or another entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-240__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>official detention has the meaning given in
+AS 11.81.900
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-245">
+            <num>47.12.245</num>
+            <heading>Arrest.</heading>
+            <subsection eId="47-12-245__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A peace officer may</p>
+              </content>
+              <paragraph eId="47-12-245__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>arrest a minor
+(A) for the commission of an act that subjects the minor to the provisions of this chapter under the same circumstances and in the same manner as would apply to the arrest of an adult for violation of a criminal law of the state or a municipality of the state;
+(B) if the peace officer reasonably believes the minor is a fugitive from justice;
+(C) if the peace officer has probable cause to believe that the minor has violated a condition of the minor's release or probation; or
+(D) if the peace officer reasonably believes that the minor has been adjudicated a delinquent and has escaped from an institution or absconded from probation, parole, or the jurisdiction of a court;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-245__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>continue the lawful arrest of a minor that is made by a citizen.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-245__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A juvenile probation officer may arrest a minor if the juvenile probation officer has probable cause to believe that the minor has violated the minor's conditions of conduct or probation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-250">
+            <num>47.12.250</num>
+            <heading>Temporary detention and detention hearing.</heading>
+            <subsection eId="47-12-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A peace officer or a juvenile probation officer who has arrested, or a peace officer who has continued the arrest of, a minor under
+AS 47.12.245
+or a minor for criminal charges under
+AS 47.12.030
+may</p>
+              </content>
+              <paragraph eId="47-12-250__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>have the minor detained in a juvenile detention facility or temporary secure juvenile holding area if, in the opinion of the officer making or continuing the arrest, it is necessary to do so to protect the minor or the community; however, the department may direct that a minor subject to delinquency proceedings who was arrested or whose arrest was continued be released from detention before the hearing required by (c) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-250__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>before taking the minor to a juvenile detention facility or temporary secure juvenile holding area, release the minor to the minor's parents or guardian if detention is not necessary to
+(A) protect the minor or the community; or
+(B) ensure the minor's attendance at subsequent court hearings.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A peace officer who has a minor detained under (a) of this section shall immediately, and in no event more than 12 hours later, notify the court and make reasonable efforts to notify the minor's parents or guardian, the minor's foster parent, and the department of the officer's action. The department may file with the court a petition alleging delinquency before the detention hearing.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-250__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The court shall immediately, and in no event more than 48 hours later, hold a hearing at which the minor and the minor's parents or guardian if they can be found shall be present. For those minors held securely in correctional facilities that house adult prisoners, the court shall immediately, and in no event more than 24 hours after the custody begins, hold a hearing at which the minor and the minor's parents or guardian if they can be found shall be present. The court shall determine whether probable cause exists for believing the minor to be delinquent. The court shall inform the minor of the reasons alleged to constitute probable cause and the reasons alleged to authorize the minor's detention. The minor is entitled to counsel. The court shall give the minor's foster parent the opportunity to be heard at the hearing.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-250__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the court finds that probable cause exists, it shall determine whether the minor should be detained pending the hearing on the petition or released. It may either order the minor held in detention or released to the custody of a suitable person pending the hearing on the petition. If the court finds no probable cause, it shall order the minor released and close the case.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-250__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Except for temporary detention pending a detention hearing, a minor may be detained only by court order.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-250__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A minor arrested for criminal charges under
+AS 47.12.030
+is subject to adult court proceedings and shall be held in a juvenile detention facility under
+AS 47.12.105
+. A minor arrested under this section may be temporarily held in an adult correctional facility or temporary secure juvenile holding area under the conditions set out in
+AS 47.12.240
+(c).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-255">
+            <num>47.12.255</num>
+            <heading>Placement in secure residential psychiatric treatment centers.</heading>
+            <subsection eId="47-12-255__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The court may authorize the department to place a minor who is in the custody of the department under
+AS 47.12.120
+(b)(1) or (3) or 47.12.140 in a secure residential psychiatric treatment center if the court finds, based on the testimony of a mental health professional, that</p>
+              </content>
+              <paragraph eId="47-12-255__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the minor is gravely disabled or is suffering from mental illness and, as a result, is likely to cause serious harm to the minor or to another person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-255__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>there is no reasonably available, appropriate, and less restrictive alternative for the minor's treatment or that less restrictive alternatives have been tried and have failed; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-255__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>there is reason to believe that the minor's mental condition could be improved by the course of treatment or would deteriorate if untreated.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-255__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A court shall review a placement made under this section at least once every 90 days. The court may authorize the department to continue the placement of the minor in a secure residential psychiatric treatment center if the court finds, based on the testimony of a mental health professional, that the conditions or symptoms that resulted in the initial order have not ameliorated to such an extent that the minor's needs can be met in a less restrictive setting and that the minor's mental condition could be improved by the course of treatment or would deteriorate if untreated.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-255__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall transfer a minor from a secure residential psychiatric treatment center to another appropriate placement if the mental health professional responsible for the minor's treatment determines that the minor would no longer benefit from the course of treatment or that the minor's treatment needs could be met in a less restrictive setting. The department shall notify the minor, the minor's parents or guardian, and the minor's guardian ad litem of a determination and transfer made under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-255__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, likely to cause serious harm has the meaning given in
+AS 47.30.915
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-260">
+            <num>47.12.260</num>
+            <heading>Releasing minors after commitment.</heading>
+            <content>
+              <p>Sec. 47.12.260.   Releasing minors after commitment.
+A minor found to be a juvenile delinquent who by conduct gives sufficient evidence of having reformed may be released at any time under the conditions and regulations that the department considers proper, if it appears to the satisfaction of the department that there is a reasonable probability that the minor will remain at liberty without violating the law.</p>
+            </content>
+          </section>
+          <section eId="sec_47-12-270">
+            <num>47.12.270</num>
+            <heading>Juvenile probation officers.</heading>
+            <subsection eId="47-12-270__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall employ juvenile probation officers. A juvenile probation officer shall exercise the duties of a probation officer and shall prepare preliminary investigations and assist and advise the court in the furtherance of the welfare and control of a minor under the court's jurisdiction. A juvenile probation officer shall also carry out other duties in the care and treatment of minors that are consistent with the intent of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-270__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A juvenile probation officer has the powers of a peace officer with respect to the service of process and arresting a minor when</p>
+              </content>
+              <paragraph eId="47-12-270__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a court has issued an arrest warrant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-270__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>there is probable cause to believe the minor has violated conditions of conduct or probation; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-270__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>probable cause exists for believing that the minor has escaped from or unlawfully evaded a placement made under
+AS 47.12.120</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-300">
+            <num>47.12.300</num>
+            <heading>Court records.</heading>
+            <subsection eId="47-12-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The court shall make and keep records of all cases brought before it.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The court shall forward a record of adjudication of a violation of an offense listed in
+AS 28.15.185</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to the Department of Administration if the court imposes a license revocation under
+AS 28.15.185
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except when disclosure of the name of a minor is authorized or required by this chapter and except as provided in (g) of this section, the name or picture of a minor under the jurisdiction of the court may not be made public in connection with the minor's status as a delinquent unless authorized by order of the court.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-300__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in (f) of this section, within 30 days of the date of a minor's 18th birthday or, if the court retains jurisdiction of a minor past the minor's 18th birthday, within 30 days of the date on which the court releases jurisdiction over the minor, the court shall order all the court's official records pertaining to that minor in a proceeding under this chapter sealed, as well as records of all driver's license proceedings under
+AS 28.15.185
+, criminal proceedings against the minor, and punishments assessed against the minor. A person may not use these sealed records for any purpose except that the court may order their use for good cause shown or may order their use by an officer of the court in making a presentencing report for the court. The provisions of this subsection relating to the sealing of records do not apply to records of traffic offenses.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-300__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The court's official records prepared under this chapter and not made public under this section are confidential and may be inspected only with the court's permission and only by persons having a legitimate interest in them. A foster parent is considered to have a legitimate interest in those portions of the court's official records relating to a child who is already placed with the foster parent or who is recommended for placement with the foster parent. A person with a legitimate interest in the inspection of a confidential record maintained by the court also includes a victim who suffered physical injury or whose real or personal property was damaged as a result of an offense that was the basis of an adjudication or modification of disposition. If the victim knows the identity of the minor, identifies the minor or the offense to the court, and certifies that the information is being sought to consider or support a civil action against the minor or against the minor's parents or guardian under
+AS 09.65.255
+, the court shall, subject to
+AS 12.61.110
+and 12.61.140, allow the victim to inspect and use the following records and information in connection with the civil action:</p>
+              </content>
+              <paragraph eId="47-12-300__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a petition filed under
+AS 47.12.040</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>seeking to have the court declare the minor a delinquent;</p>
+              </content>
+              <paragraph eId="47-12-300__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a petition filed under
+AS 47.12.120
+seeking to have the court modify or revoke the minor's probation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-300__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a petition filed under
+AS 47.12.100
+requesting the court to find that a minor is not amenable to treatment under this chapter and that results in closure of a case under
+AS 47.12.100</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-300__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a court judgment or order entered under this chapter that disposes of a petition identified in (1)  (3) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-300__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A person who has been tried as an adult under
+AS 47.12.100</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or a person whose records have been made public under (g) of this section, or the department on the person's behalf, may petition the superior court to seal the records of all criminal proceedings, except traffic offenses, initiated against the person, and all punishments assessed against the person, while the person was a minor. A petition under this subsection may not be filed until five years after the completion of the sentence imposed for the offense for which the person was tried as an adult or five years after a disposition was entered for an offense for which the records were made public under (g) of this section. If the superior court finds that its order has had its intended rehabilitative effect and further finds that the person has fulfilled all orders of the court entered under
+AS 47.12.120
+, the superior court shall order the record of proceedings and the record of punishments sealed. Sealing the records restores civil rights removed because of a conviction. A person may not use these sealed records for any purpose except that the court may order their use for good cause shown or may order their use by an officer of the court in making a presentencing report for the court. The court may not, under this subsection, seal records of a criminal proceeding</p>
+              </content>
+              <paragraph eId="47-12-300__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>initiated against a person if the court finds that the person has not complied with a court order made under
+AS 47.12.120
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-300__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>commenced under
+AS 47.12.030</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>unless the minor has been acquitted of all offenses with which the minor was charged or unless the most serious offense of which the minor was convicted was not an offense specified in
+AS 47.12.030
+(a).</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-300__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>When a district attorney has elected to seek imposition of a dual sentence and a petition has been filed under
+AS 47.12.065
+, or when a minor agrees as part of a plea agreement to be subject to dual sentencing, all court records shall be open to the public except for predisposition reports, psychiatric and psychological reports, and other documents that the court orders to be kept confidential because the release of the documents could be harmful to the minor or could violate the constitutional rights of the victim or other persons.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-300__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Except as provided in (f) of this section, this section does not apply to the records of a minor who is waived into adult court under
+AS 47.12.030
+or 47.12.100 and is subject to this chapter only to the extent that
+AS 47.12.105
+applies to the minor.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-300__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A person who discloses confidential information in violation of this section is guilty of a class B misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-310">
+            <num>47.12.310</num>
+            <heading>Agency records.</heading>
+            <subsection eId="47-12-310__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as specified in
+AS 47.12.315
+, 47.12.320, and (b)  (g) and (i) of this section, all information and social records pertaining to a minor who is subject to this chapter or
+AS 47.17
+prepared by or in the possession of a federal, state, or municipal agency or employee in the discharge of the agency's or employee's official duty, including driver's license actions under
+AS 28.15.185
+, are privileged and may not be disclosed directly or indirectly to anyone without a court order.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-310__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A state or municipal agency or employee shall disclose</p>
+              </content>
+              <paragraph eId="47-12-310__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>information regarding a case to a federal, state, or municipal law enforcement agency for a specific investigation being conducted by that agency;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-310__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>appropriate information regarding a case to
+(A) a guardian ad litem appointed by the court;
+(B) a person or an agency requested by the department or the minor's legal custodian to provide consultation or services for a minor who is subject to the jurisdiction of the court under this chapter as necessary to enable the provision of the consultation or services;
+(C) school officials as may be necessary to protect the safety of the minor who is the subject of the case and the safety of school students and staff or to enable the school to provide appropriate counseling and supportive services to meet the needs of a minor about whom information is disclosed;
+(D) a governmental agency as may be necessary to obtain that agency's assistance for the department in its investigation or to obtain physical custody of a minor;
+(E) a law enforcement or corrections agency of this state or another jurisdiction as may be necessary for the protection, rehabilitation, care, or supervision of any minor or for actions by that agency to protect the public safety;
+(F) a victim or to the victim's insurance company as may be necessary to inform the victim or the insurance company about the arrest of the minor, including the minor's name and the names of the minor's parents, copies of reports, or the disposition or resolution of a case involving a minor;
+(G) the state medical examiner under
+AS 12.65
+as may be necessary to perform the duties of the state medical examiner;
+(H) foster parents or relatives with whom the child is placed by the department as may be necessary to enable the foster parents or relatives to provide appropriate care for the child who is the subject of the case, to protect the safety of the child who is the subject of the case, and to protect the safety and property of family members and visitors of the foster parents or relatives;
+(I) the Department of Law or its agent for use and subsequent release if necessary for collection of an order of restitution on behalf of the r</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-310__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to the University of Alaska under the Alaska education savings program for children established under
+AS 47.14.400
+information that is necessary to support the program, but only if the information released is maintained as a confidential record by the University of Alaska.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-310__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A state or municipal law enforcement agency</p>
+              </content>
+              <paragraph eId="47-12-310__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>shall disclose information regarding a case that is needed by the person or agency charged with making a preliminary investigation for the information of the court under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-310__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may disclose to the public information regarding a criminal offense in which a minor is a suspect, victim, or witness if the minor is not identified by the disclosure;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-310__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>may disclose to school officials information regarding a case as may be necessary to protect the safety of school students and staff or to enable the school to provide appropriate counseling and supportive services to meet the needs of a minor about whom information is disclosed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-310__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>may disclose to the public information regarding a case as may be necessary to protect the safety of the public; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-310__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>may disclose to a victim or to the victim's insurance company information, including copies of reports, as necessary for civil litigation or insurance claims pursued by or against the victim.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-310__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Upon request of a victim, the department shall make every reasonable effort to notify the victim as soon as practicable, by telephone or in writing, when a delinquent minor is to be released from placement under
+AS 47.12.120
+(b)(1). The notice under this subsection must include the expected date of the delinquent minor's release, the geographic area in which the delinquent minor is required to reside, and other pertinent information concerning the delinquent minor's conditions of conduct or probation that may affect the victim.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-310__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person may authorize the department to release information to the military or to a prospective employer about the existence of a delinquency adjudication against that person under this chapter and the offense on which it was based.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-310__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department may release to a person with a legitimate interest information relating to a minor subject to the jurisdiction of the department under this chapter. The department shall adopt regulations under
+AS 44.62
+to implement this subsection, including regulations governing the release of information and standards for identifying a legitimate interest in the information.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-310__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The department and affected law enforcement agencies shall work with school districts and private schools to develop procedures for the disclosure of information to school officials under (b)(2)(C) and (c)(3) of this section. The procedures must provide a method for informing the principal or the principal's designee of the school the student attends as soon as it is reasonably practicable.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-310__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Notwithstanding (c)(3) of this section, a state or municipal law enforcement agency is not required to notify the appropriate school official of a school district or school under (c) of this section if the agency determines that notice would jeopardize an ongoing investigation.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-310__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A state or municipal agency, other than a state or municipal law enforcement agency, or authorized employee may disclose to the public information regarding a case as may be necessary to protect the safety of the public provided the disclosure is authorized by regulations adopted by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-310__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>In this section, school means a public or private elementary or secondary school.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-310__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>A person who discloses confidential information in violation of this section is guilty of a class B misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-315">
+            <num>47.12.315</num>
+            <heading>Public disclosure of information in department records relating to certain minors.</heading>
+            <subsection eId="47-12-315__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding
+AS 47.12.310
+and except as otherwise provided in this section, the department shall disclose information to the public, on request, concerning a minor subject to this chapter who was at least 13 years of age at the time of commission of</p>
+              </content>
+              <paragraph eId="47-12-315__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a felony offense against a person under
+AS 11.41
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-315__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>arson in the first or second degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-315__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>burglary in the first degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-315__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>distribution of child sexual abuse material;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-315__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>sex trafficking in the first degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-315__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>misconduct involving a controlled substance in the first, second, or third degrees involving distribution or possession with intent to deliver; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-315__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>misconduct involving weapons in the first through fourth degrees.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-315__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may disclose the information authorized in (a) of this section only if a court has adjudicated the minor as delinquent.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-315__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When required by this section to disclose information, the department may disclose only the name of the minor, the name of each legal parent or guardian, the specific offense for which the minor was adjudicated delinquent, and the final outcome of the court proceedings relating to the offense. Before the disclosure, the department shall delete the information that identifies the victim of the offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-315__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department may not disclose the name of an out-of-home care provider with whom the minor was living at the time the minor was alleged to have committed the offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-315__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the department or other state or municipal agency maintains the information to be disclosed by electronic means that can be recovered from a computer database, the department or agency may disclose the information in that medium.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-315__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department may not release information under this section after five years from the date the department or other agency is first required or authorized to make the disclosure under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-315__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>When disclosure is required under this section, the department may petition the court for an order prohibiting the disclosure. The court may grant the petition if, based on information presented in the petition or at an in camera hearing held on the petition, the court finds that</p>
+              </content>
+              <paragraph eId="47-12-315__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the crime was an isolated incident and the minor does not present any further danger to the public; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-315__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the victim agrees that disclosure is inappropriate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-315__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section, unless the context otherwise requires, out-of-home care provider means a person, other than the child's legal parents, with whom a child who is in the custody of the state under
+AS 47.10
+,
+AS 47.12
+, or
+AS 47.14
+is currently placed, including a foster parent, a relative other than a parent, and a person who has petitioned for adoption or guardianship of the child.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-320">
+            <num>47.12.320</num>
+            <heading>Disclosure of information to public officials.</heading>
+            <subsection eId="47-12-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding
+AS 47.12.300
+and 47.12.310,</p>
+              </content>
+              <paragraph eId="47-12-320__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a parent or legal guardian of a minor subject to a proceeding under this chapter may disclose confidential or privileged information about the minor, including information that has been lawfully obtained from agency or court files, to the governor, the lieutenant governor, a legislator, the ombudsman appointed under
+AS 24.55
+, the attorney general, and the commissioners of family and community services, administration, or public safety, or an employee of these persons, for review or use in their official capacities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-320__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the department may disclose confidential or privileged information about the minor and make available for inspection documents about the minor to the state officials or employees identified in (1) of this subsection for review or use in their official capacities; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-320__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a person to whom disclosure is made under (1) or (2) of this subsection may not disclose confidential or privileged information about the minor to a person not authorized to receive it.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The disclosure right under (a)(1) of this section is in addition to, and not in derogation of, the rights of a parent or legal guardian of a minor.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-320__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who violates a provision of this section is guilty of a misdemeanor and upon conviction is punishable for the violation in the manner authorized under
+AS 12.55
+for a class B misdemeanor.
+Article 3. Youth Courts.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-400">
+            <num>47.12.400</num>
+            <heading>Youth courts.</heading>
+            <subsection eId="47-12-400__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may use youth courts to hear, determine, and dispose of cases involving a minor whose alleged act that brings the minor within the jurisdiction of
+AS 47.12.010
+ 47.12.260 constitutes a violation of a state law that is a misdemeanor or a violation or constitutes a violation of a municipal ordinance that prescribes a penalty not exceeding the penalties for a class A misdemeanor under state law.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless otherwise directed by the commissioner, the jurisdiction of a youth court is coextensive with the boundaries of the municipality in which the youth court is located. Only one youth court may be established within the boundaries of a municipality. Nothing in this subsection prohibits two or more municipalities from operating a single youth court for the municipalities by agreement between them.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-400__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A nonprofit corporation may obtain recognition from the commissioner to serve as a youth court. The corporation may exercise only the powers that are delegated to a youth court by the commissioner, and shall exercise those powers as authorized by the corporation's articles of incorporation and bylaws. The bylaws of the corporation must set out standards and procedures by which the corporation, in its capacity as a youth court,</p>
+              </content>
+              <paragraph eId="47-12-400__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>establishes a system by which the minor may be held accountable for the conduct that brings the minor within the jurisdiction of the youth court by being tried, represented, and adjudicated by the minor's peers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-400__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>guarantees the constitutional rights of the minor that are guaranteed by the state and federal constitutions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-400__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>may secure jurisdiction over a minor; the youth court may secure jurisdiction over the minor only with the consent of the minor and the agreement of the minor's legal custodian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-400__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>sets out the process for disposing of matters referred to it for resolution;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-400__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>provides a process for appeal of a verdict or sentence, and defines the basis for appeals;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-400__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>reserves the right to refer to the department, under
+AS 47.12.060</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-400__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>prepares and delivers a report of the disposition of the matter referred to it for resolution to the commissioner.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-400__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Subject to the privileges that witnesses have in the courts of this state, the commissioner may compel by subpoena, at a specified time and place, the</p>
+              </content>
+              <paragraph eId="47-12-400__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>appearance and sworn testimony of a person who the commissioner reasonably believes may be able to give information relating to a matter before a youth court; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-400__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>production by a person of a record or object that the commissioner reasonably believes may relate to a matter before a youth court.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-400__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a person refuses to comply with a subpoena issued under (d) of this section, the superior court may, upon application of the commissioner, compel obedience by proceedings for contempt in the same manner as in the case of disobedience to the requirements of a subpoena issued by the court or refusal to testify in the court.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-400__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The commissioner shall make and keep records of all cases referred to a youth court. The records of a youth court proceeding</p>
+              </content>
+              <paragraph eId="47-12-400__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>relating to a minor who complies with all requirements ordered by the youth court as a part of sentence imposed on the minor shall be sealed by the commissioner and may not be used for any purpose; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-400__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>except as to a record described in (1) of this subsection, shall be afforded at least the same protection and are subject to at least the same procedural safeguards in matters relating to access, use, and security as they would be under
+AS 47.12.310
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-400__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>An individual who is a member or an agent of the board of directors of a nonprofit corporation that has obtained recognition from the commissioner to serve as a youth court under this section is immune from suit in a civil action based upon the exercise or performance of or the failure to exercise or perform a discretionary function or a discretionary duty as a member of the board of directors or that has been properly delegated by the board of directors. An individual who tries, represents, or adjudicates a minor in a youth court is immune from suit in a civil action based upon the exercise or performance of or the failure to exercise or perform a discretionary function or a discretionary duty within the individual's quasi-judicial capacity with the youth court. A nonprofit corporation that has obtained recognition from the commissioner to serve as a youth court is immune from suit in a civil action based upon an act or failure to act for which an individual is granted immunity under this subsection.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-410">
+            <num>47.12.410</num>
+            <heading>Funding for youth courts.</heading>
+            <content>
+              <p>Sec. 47.12.410.   Funding for youth courts.
+The legislature may appropriate 25 percent of the fines imposed under
+AS 12.55.035
+and collected and separately accounted for by the state under
+AS 37.05.142
+to the department for distribution to youth courts established and operating under
+AS 47.12.400
+. Nothing in this section creates a dedicated fund.</p>
+            </content>
+          </section>
+          <section eId="sec_47-12-450">
+            <num>47.12.450</num>
+            <heading>Community dispute resolution centers for matters involving minors.</heading>
+            <subsection eId="47-12-450__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An entity organized for the purpose of providing community mediation services may establish and operate a community dispute resolution center to resolve disputes between minors who are alleged to have committed offenses and the victims of those offenses.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-450__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner may recognize an entity organized for the purpose of providing community mediation services as a community dispute resolution center to serve as a center to resolve disputes between minors and victims. Before extending recognition under this subsection, the commissioner shall determine that the bylaws of the entity set out standards and procedures</p>
+              </content>
+              <paragraph eId="47-12-450__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for filing requests for dispute resolution services with the center and for scheduling mediation sessions participated in by the parties to the dispute;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-450__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to ensure that each dispute mediated meets the criteria for appropriateness for mediation and for rejecting disputes that do not meet the criteria;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-450__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for giving notice of time, place, and nature of the mediation session to the parties, and for conducting mediation sessions that comply with the provisions of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-450__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to ensure that participation by all parties is voluntary;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-450__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>for obtaining referrals from public and private bodies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-450__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>for providing mediators who, during the dispute resolution process, may not make decisions or determinations of the issues involved, but who shall facilitate negotiations by the participants themselves to achieve a voluntary resolution of the issues;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-450__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>for communicating to the agency making a referral under
+AS 47.12.040</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-450__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>for informing and educating the community about the community dispute resolution center and encouraging the use of the center's services in appropriate cases.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-450__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A center established under this section shall provide dispute resolution services between a minor who has committed an offense and who, because of the commission of the offense, may be alleged to be a delinquent minor under
+AS 47.12.020
+, and a person who was a victim of that offense. The center shall provide dispute resolution services either without charge to a participant or for a fee that is based on the participant's ability to pay.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-450__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In conducting a dispute resolution process under this section, a center shall require that</p>
+              </content>
+              <paragraph eId="47-12-450__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the minor and the victim enter into a written agreement that expresses the method by which they shall attempt to resolve the issues in dispute; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-12-450__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>at the conclusion of the dispute resolution process, the minor and the victim enter into a written agreement that sets out the settlement of the issues and the future responsibilities, if any, of each party.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-12-450__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Except for a notice or a communication described in (b)(7) of this section, all memoranda, work notes or products, or case files of centers established under this section are confidential and privileged and are not subject to disclosure in any judicial or administrative proceeding unless the court or administrative tribunal determines that the materials were submitted by a participant to the center for the purpose of avoiding discovery of the material in a subsequent proceeding. Any communication relating to the subject matter of the resolution made during the resolution process by a participant, mediator, or another person is a privileged communication and is not subject to disclosure in a judicial or administrative proceeding unless all parties to the communication waive the privilege. However, privilege and limitation on evidentiary use set out in this subsection do not apply to a communication of a threat that injury or damage may be inflicted on a person or on the property of a party to the dispute to the extent the communication may be relevant evidence in a criminal matter.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-450__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A minor or a victim who enters a dispute resolution process at a center established under this section may revoke consent, withdraw from dispute resolution, and seek judicial or administrative redress before reaching a written resolution agreement. The withdrawal must be in writing. If a minor or a victim withdraws from dispute resolution, a legal penalty, sanction, or restraint may not be imposed upon the person for that withdrawal.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-450__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A center established under this section may seek and accept contributions and any other available money and may expend the money to carry out the purposes of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-450__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>An individual who is a member or an agent of the board of directors of or a mediator at a community dispute resolution center is immune from suit in a civil action based upon the exercise or performance of or the failure to exercise or perform a discretionary function or a discretionary duty within the official capacity of the individual. A community dispute resolution center is immune from suit in a civil action based upon an act or failure to act for which an individual is granted immunity under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-12-450__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>In this section, center means a community dispute resolution center.
+Article 5. General Provisions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-12-980">
+            <num>47.12.980</num>
+            <heading>Grants-in-aid.</heading>
+            <content>
+              <p>Sec. 47.12.980.   Grants-in-aid.
+The department may accept grants-in-aid from the federal government or private foundations and may accept other gifts consistent with the purposes of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_47-12-988">
+            <num>47.12.988</num>
+            <heading>Implementation of provisions by an entity selected by department.</heading>
+            <content>
+              <p>Sec. 47.12.988.   Implementation of provisions by an entity selected by department.
+In this chapter, when authority exercised by the department may also be exercised by an entity selected by the department, the entity that the department may select in order to exercise authority is limited to
+(1) a municipality;
+(2) a corporation; or
+(3) two or more persons recognized by the community and operating under contract or license from the department.</p>
+            </content>
+          </section>
+          <section eId="sec_47-12-990">
+            <num>47.12.990</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 47.12.990.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) commissioner means the commissioner of family and community services;
+(2) court means the superior court of the state;
+(3) crime against a person means an offense set out in
+AS 11.41
+;
+(4) delinquent minor means a minor found to be within the jurisdiction of the court under
+AS 47.12.020
+;
+(5) department means the Department of Family and Community Services;
+(6) gravely disabled has the meaning given in
+AS 47.30.915
+;
+(7) juvenile detention facility means a secure facility for the detention of delinquent minors in the custody of the department under
+AS 47.12.240
+or 47.12.250;
+(8) juvenile probation officer means an officer described in
+AS 47.12.270
+;
+(9) juvenile treatment facility means a secure facility for treatment of minors adjudicated delinquent and committed by a court to the care and custody of the department under
+AS 47.12.120
+(b)(1);
+(10) mental health professional has the meaning given in
+AS 47.30.915
+, except that, if the minor is placed in another state by the department, mental health professional also includes a professional listed in the definition of mental health professional in
+AS 47.30.915
+who is not licensed to practice by a board of this state but is licensed by a corresponding licensing authority to practice in the state in which the minor is placed;
+(11) mental illness has the meaning given in
+AS 47.30.915
+;
+(12) minor means a person who is
+(A) under 18 years of age at the time the person commits an offense; and
+(B)  subject to the jurisdiction of the court under this chapter;
+(13) peace officer has the meaning given in
+AS 11.81.900
+;
+(14) residential child care facility has the meaning given in
+AS 47.32.900
+;
+(15) secure residential psychiatric treatment center has the meaning given residential psychiatric treatment center in
+AS 47.32.900
+;
+(16) temporary secure juvenile holding area means separate quarters that are used for the temporary detention of delinquent minors pending a court order or transportation to a juvenile detention facility and that are not within sight or sound of any adult prisoners;
+(17) victim has the meaning given in
+AS 12.55.185
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

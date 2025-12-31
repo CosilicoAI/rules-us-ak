@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-79"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-79"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.79"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-79/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-79/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-79/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-79/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_79">
+          <num>79</num>
+          <heading>Alaska Life and Health Insurance Guaranty Association Act</heading>
+          <section eId="sec_21-79-010">
+            <num>21.79.010</num>
+            <heading>Purpose.</heading>
+            <subsection eId="21-79-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>against failure in the performance of contractual obligations under life, health, and annuity policies, plans, or contracts specified in
+AS 21.79.020</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>because of the impairment or insolvency of the member insurer that issued the policies, plans, or contracts. To provide this protection, an association of member insurers is created under
+AS 21.79.040
+to pay benefits and continue coverages as limited by this chapter, and members of the association are subject to assessment to provide funds to carry out the purpose of this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-020">
+            <num>21.79.020</num>
+            <heading>Scope.</heading>
+            <subsection eId="21-79-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This chapter applies to a policy and contract specified in (b) of this section and to a person who</p>
+              </content>
+              <paragraph eId="21-79-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>except for a nonresident certificate holder under a group policy or contract, is the beneficiary, assignee, or payee, including health care providers rendering services covered under health insurance policies or certificates, of a person described in (2) of this subsection; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>except in the case of an unallocated annuity contract or a structured settlement annuity, is the owner of, or a certificate holder or enrollee under, the policy or contract, and who
+(A) is a resident; or
+(B) is not a resident, if the following conditions are satisfied:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the member insurer that issued the policy or contract is domiciled in this state;
+(ii) the state in which the person resides has an association similar to the association created by this chapter; and
+(iii) the person is not eligible for coverage by an association in any other state due to the fact that the insurer, hospital or medical service corporation, or health maintenance organization was not licensed at the time specified in the guaranty association law of that state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This chapter applies to a person specified in (a) of this section for a policy or contract of direct, nongroup life insurance, health insurance, annuity, and supplemental policy or contract, to a certificate under a direct group life, health, annuity, or supplemental policy or contract, to a subscriber's contract issued by a hospital or medical service corporation under
+AS 21.87
+, to a subscriber's contract issued by a health maintenance organization under
+AS 21.86
+, and to an unallocated annuity contract issued by a member insurer, except as otherwise limited by this chapter. In this subsection, annuity policy or contract or certificate under a direct group life, health, annuity, or supplemental policy or contract includes a guaranteed investment contract, a deposit administration contract, an unallocated funding agreement, an allocated funding agreement, a structured settlement annuity, an annuity issued to or in connection with a government lottery, and an immediate or deferred annuity contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This chapter does not apply to</p>
+              </content>
+              <paragraph eId="21-79-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>that part of a policy or contract that is not guaranteed by the member insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>that part of the risk borne by the policy or contract owner;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a policy or contract of reinsurance, unless an assumption certificate has been issued;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>that part of a policy or contract, except for part of a policy or contract, including a rider, that provides long-term care or other health insurance benefits, to the extent that the rate of interest on which it is based, or the interest rate, crediting rate, or similar factor determined by use of an index or other external reference stated in the policy or contract employed in calculating returns or changes in value,
+(A) averaged over the period of four years before the date on which the member insurer becomes an impaired or insolvent insurer under this chapter, whichever occurs first, exceeds the rate of interest determined by subtracting two percentage points from the published monthly average for that same four-year period or for a lesser period if the policy or contract was issued less than four years before the member insurer becomes an impaired or insolvent insurer under this chapter, whichever occurs first; and
+(B) on and after the date on which the member insurer becomes an impaired or insolvent insurer under this chapter, whichever occurs first, exceeds the rate of interest determined by subtracting three percentage points from the most recent published monthly average;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a portion of a policy or contract issued to a plan or program of an employer, association, or similar entity to provide life, health, or an annuity benefit to an employee, member, or other person, to the extent that the plan or program is self-funded or uninsured, including a benefit payable by the employer, association, or similar entity under
+(A) a multiple employer welfare arrangement as defined in 29 U.S.C. 1002 (Employee Retirement Income Security Act of 1974);
+(B) a minimum premium group insurance plan;
+(C) a stop-loss group insurance plan; or
+(D) an administrative services only contract;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>that part of a policy or contract that provides a dividend or experience rating credit or voting rights, or provides that a fee or allowance be paid to a person, including the policy or contract owner, in connection with the service to or administration of the policy or contract;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>a policy or contract issued in this state by a member insurer at a time when it was not licensed or did not have a certificate of authority to issue the policy or contract in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>a person who is a payee or beneficiary of a contract owner who is a resident of this state if the payee or beneficiary is provided coverage by the association of another state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>a person covered under (d) of this section if any coverage is provided by the association of another state to that person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>an unallocated annuity contract issued to or in connection with a benefit plan protected under the United States Pension Benefit Guaranty Corporation, regardless of whether the United States Pension Benefit Guaranty Corporation has become liable to make any payments with respect to the benefit plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>that part of an unallocated annuity contract that is not issued to or in connection with a specific employee, union, or association of natural persons benefit plan or a government lottery;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>that part of a policy or contract to the extent that assessments required by
+AS 21.79.070
+with respect to the policy or contract are preempted by law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>an obligation that does not arise under the express written terms of the policy or contract issued by the member insurer to the enrollee, certificate holder, contract owner, or policy owner, including, without limitation,
+(A) a claim based on marketing materials;
+(B) a claim based on a side letter or other document that was issued by the member insurer without meeting applicable policy or contract form filing or approval requirements;
+(C) a misrepresentation of or regarding policy or contract benefits;
+(D) an extra contractual claim; or
+(E) a claim for penalties or consequential or incidental damages;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>a contractual agreement that establishes the member insurer's obligations to provide a book value accounting guaranty for defined contribution benefit plan participants by reference to a portfolio of assets that is owned by the benefit plan or its trustee, which, in each case, is not an affiliate of the member insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>that part of a policy or contract to the extent the part of the policy or contract provides for interest or other changes in value to be determined by the use of an index or other external reference stated in the policy or contract, but that have not been credited to the policy or contract, or as to which the policy or contract owner's rights are subject to forfeiture, as of the date the member insurer becomes an impaired or insolvent insurer under this chapter, whichever is earlier; if a policy's or contract's interest or changes in value are credited less frequently than annually, then, for purposes of determining the values that have been credited and are not subject to forfeiture under this paragraph, the interest or change in value determined by using the procedures defined in the policy or contract shall be credited as if the contractual date of crediting interest or changing values was the date of impairment or insolvency, whichever is earlier, and will not be subject to forfeiture;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>a policy or contract providing a hospital, medical, prescription drug, or other health care benefit in accordance with 42 U.S.C. 1395w-21  1395w-154 or federal regulations adopted under those sections;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>a person who acquires rights to receive payments through a structured settlement factoring transaction as defined in 26 U.S.C. 5891(c)(3)(A), regardless of whether the transaction occurred before, on, or after 26 U.S.C. 5891(c)(3)(A) became effective; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_c__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>structured settlement annuity benefits to which a payee or beneficiary has transferred the payee's or beneficiary's rights in a structured settlement factoring transaction as defined in 26 U.S.C. 5891(c)(3)(A), regardless of whether the transaction occurred before, on, or after 26 U.S.C. 5891(c)(3)(A) became effective.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This chapter, except for (a) of this section, applies to an unallocated annuity contract and shall provide coverage to a person who is the owner of</p>
+              </content>
+              <paragraph eId="21-79-020__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the unallocated annuity contract if the contract is issued to or in connection with a specific benefit plan whose plan sponsor has its principal place of business in this state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an unallocated annuity contract issued to or in connection with a government lottery if the owner is a resident.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>This chapter, except for (a) of this section, applies to a structured settlement annuity and shall provide coverage to a person who is a payee under a structured settlement annuity, or the beneficiary of a payee if the payee is deceased, if the payee is</p>
+              </content>
+              <paragraph eId="21-79-020__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a resident, regardless of where the contract owner resides; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-020__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>not a resident, but only if both of the following conditions exist:
+(A) the contract owner of the structured settlement annuity is</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a resident; or
+(ii) not a resident, but the insurer that issued the structured settlement annuity is domiciled in this state, and the state in which the contract owner resides has an association similar to the association created by this chapter; and
+(B) the payee, or the payee's beneficiary, and the contract owner are not eligible for coverage by the association of the state in which the payee or contract owner resides.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>[Repealed, § 58 ch 47 SLA 2018.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-025">
+            <num>21.79.025</num>
+            <heading>Liability limits.</heading>
+            <subsection eId="21-79-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The benefits for which the association may become liable may not exceed the lesser of</p>
+              </content>
+              <paragraph eId="21-79-025__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the contractual obligations for which the member insurer is liable or would have been liable if it were not an impaired or insolvent insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-025__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>with respect to any one life, regardless of the number of policies or contracts,
+(A) $300,000 in life insurance death benefits, but not more than $100,000 in net cash surrender and net cash withdrawal values for life insurance;
+(B) for health insurance benefits,</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-025__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>$100,000 for coverage not defined as disability income insurance, health benefit plans, or long-term care insurance, including any net cash surrender and net cash withdrawal values;
+(ii) $300,000 for disability income insurance as defined in
+AS 21.12.052
+and $300,000 for long-term care insurance as defined in
+AS 21.53.200
+;
+(iii) $500,000 for health benefit plans;
+(C) $250,000 in the present value of annuity benefits, including net cash surrender and net cash withdrawal values;</p>
+              </content>
+              <paragraph eId="21-79-025__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>with respect to either one contract owner provided coverage under
+AS 21.79.020</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-025__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>with respect to an individual participating in a governmental retirement benefit plan established under 26 U.S.C. 401, 26 U.S.C. 403(b), or 26 U.S.C. 457 and covered by an unallocated annuity contract, or to a beneficiary of the individual if the individual is deceased, in the aggregate, $250,000 in present-value annuity benefits, including net cash surrender and net cash withdrawal values; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-025__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>with respect to each payee of a structured settlement annuity, or beneficiary of the payee if the payee is deceased, $250,000 in present-value annuity benefits in the aggregate, including net cash surrender and net cash withdrawal values, if any.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The limitations imposed under this section are limitations on the benefits for which the association is obligated before taking into account either its subrogation and assignment rights or the extent to which those benefits could be provided out of the assets of an impaired or insolvent insurer attributable to covered policies. The costs of the association's obligations under this chapter may be met by the use of assets attributable to covered policies or reimbursed to the association under its subrogation and assignment rights.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In providing coverage required under
+AS 21.79.060
+, the association may not be required to guarantee, assume, reissue, reinsure, or perform, or cause to be guaranteed, assumed, reissued, reinsured, or performed, the contractual obligations of an insolvent or impaired insurer under a covered policy or contract when the obligations do not materially affect the economic values or economic benefits of the covered policy or contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-025__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The association may not be required to cover more than</p>
+              </content>
+              <paragraph eId="21-79-025__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an aggregate of $300,000 in benefits with respect to any one life under (a)(2), (4), and (5) of this section, except that, with respect to benefits for health benefit plans under (a)(2)(B) of this section, the aggregate liability of the association may not exceed $500,000 for any one individual; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-025__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>$5,000,000 in benefits with respect to one owner of multiple nongroup policies of life insurance, whether the policy or contract owner is an individual, firm, corporation, or other person, and whether the persons insured are officers, managers, employees, or other persons, regardless of the number of policies and contracts held by the owner.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-025__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For purposes of this chapter, benefits provided by a long-term care rider to a life insurance policy or annuity contract will be considered the same type of benefits as the base life insurance policy or annuity contract to which the rider relates.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-030">
+            <num>21.79.030</num>
+            <heading>Construction.</heading>
+            <subsection eId="21-79-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This chapter shall be construed to achieve the purposes set out in
+AS 21.79.010
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This chapter is intended to provide coverage to a person who is a resident of this state and, in special circumstances, to a nonresident. In order to avoid duplicate coverage, if a person who would otherwise receive coverage under this chapter is provided coverage under the law of any other state, the person may not be provided coverage under this chapter. In determining the application of the provisions of this subsection, in situations where a person could be covered by the association of more than one state, whether as an owner, payee, beneficiary, or assignee, this chapter shall be construed in conjunction with other state laws to result in coverage by only one association.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-040">
+            <num>21.79.040</num>
+            <heading>Association established.</heading>
+            <subsection eId="21-79-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is established as a nonprofit legal entity the Alaska Life and Health Insurance Guaranty Association. Each member insurer shall be a member of the association as a condition of the insurer's authority to transact insurance, a hospital or medical service corporation business, or a health maintenance organization business in this state. The association shall perform its functions under a plan of operation established and approved under
+AS 21.79.080
+and shall exercise its powers through the Board of Governors established under
+AS 21.79.050
+. For purposes of administration and assessment, the association shall maintain the following accounts:</p>
+              </content>
+              <paragraph eId="21-79-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the health account; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the life insurance and annuity account, including the following subaccounts:
+(A) life insurance account;
+(B) annuity account that must include annuity contracts owned by a governmental retirement benefit plan, or its trustee, qualified under 26 U.S.C. 401, 26 U.S.C. 403(b), or 26 U.S.C. 457 (Internal Revenue Code), but that otherwise excludes unallocated annuities; and
+(C) unallocated annuity account that must exclude contracts owned by a governmental retirement benefit plan, or its trustee, qualified under 26 U.S.C. 401, 26 U.S.C. 403(b), or 26 U.S.C. 457 (Internal Revenue Code).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The association is under the supervision of the director and is subject to the insurance laws of the state.  Except as provided in
+AS 21.79.110
+(b), meetings or records of the association may be open to the public upon majority vote of the Board of Governors of the association.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-050">
+            <num>21.79.050</num>
+            <heading>Board of governors.</heading>
+            <subsection eId="21-79-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Board of Governors of the association consists of not less than seven nor more than 11 representatives of member insurers. The director may appoint two individuals as members of the board to represent the public. Terms of office for board members shall be established in the plan of operation submitted under
+AS 21.79.080
+. Member insurers shall select the insurer board members, subject to the approval of the director. A vacancy in a board membership held by an insurer member shall be filled for the unexpired term by a majority vote of the remaining board members, subject to the approval of the director. A vacancy in a board membership held by a representative of the public shall be filled by the director. A board member who represents the public may not be an officer, director, or employee of an insurer, hospital or medical service corporation, or health maintenance organization and may not be engaged in the business of insurance.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before the director approves the selection of an insurer board member, the director shall consider whether all member insurers are fairly represented on the board.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A board member is not entitled to compensation by the association. However, a board member may be reimbursed from the assets of the association for expenses incurred while performing duties as a member of the board.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-060">
+            <num>21.79.060</num>
+            <heading>Powers and duties of the association.</heading>
+            <subsection eId="21-79-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a member insurer becomes impaired, the association may, with the approval of the director and subject to any conditions imposed by the association that do not impair the contractual obligations of the impaired insurer,</p>
+              </content>
+              <paragraph eId="21-79-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>guarantee, assume, reissue, reinsure, or provide for the guarantee, assumption, reissuance, or reinsurance of the policies or contracts of the impaired insurer; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provide money, pledges, loans, notes, guarantees, or other means that are necessary to act under (1) of this subsection and to assure payment of the contractual obligations of the impaired insurer until those obligations are guaranteed, reinsured, or assumed.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a member insurer becomes insolvent, the association shall, in its discretion and with the approval of the director,</p>
+              </content>
+              <paragraph eId="21-79-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>guarantee, assume, reissue, reinsure, or provide for the guarantee, assumption, reissuance, or reinsurance of the covered policies or contracts of the insolvent insurer, or otherwise assure payment of the contractual obligations of the insolvent insurer; and provide money, pledges, loans, notes, guarantees, or other means that are necessary to discharge the association's duties under this section; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provide benefits and coverage in accordance with the following provisions:
+(A)  with respect to policies and contracts, assure payment of benefits that would have been payable under a policy or contract of the insolvent insurer for claims incurred with respect to</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-060__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a group policy or contract, not later than the earlier of the next renewal date under the policy or contract or 45 days, but in no event less than 30 days, after the date on which the association becomes obligated with respect to the policy or contract;
+(ii)  an individual policy, contract, or annuity, not later than the earlier of the next renewal date, if any, under the policy or contract or one year, but in no event less than 30 days, after the date on which the association becomes obligated with respect to the policy or contract;
+(B)  with respect to an individual or group policy or contract, make a diligent effort to provide a known insured, an enrollee, an annuitant, or a group policy owner or group contract owner 30 days' notice of the termination of the benefits provided;
+(C)  with respect to an individual policy or contract, make available to each known insured, enrollee, or annuitant, or owner if other than an insured, enrollee, or annuitant, and with respect to an individual who was formerly an insured, enrollee, or annuitant under a group policy or contract who is not eligible for replacement group coverage, make available substitute coverage on an individual basis under (D) of this paragraph, if the insured, enrollee, or annuitant had a right under law or under the terminated policy or contract to convert coverage to individual coverage or to continue an individual policy or contract in force until a specified age, or for a specific time during which the insurer, hospital or medical service corporation, or health maintenance organization did not have the unilateral right to make changes in any provision of the policy or contract or had a right only to make changes in premium by class;
+(D)  in providing the substitute coverage under (C) of this paragraph, the association</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>shall offer either to reissue the terminated coverage or to issue an alternate policy or contract at actuarially justified rates;
+(ii)  shall offer an alternative or reissued policy or contract without requiring evidence of insurability and may not provide for a waiting period or exclusion that would not have applied under the terminated policy or contract; and
+(iii)  may reinsure an alternative or reissued policy or contract;
+(E)  an alternative policy or contract must</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>if adopted by the association, be subject to the approval of the director; the association may adopt alternative policies or contracts of various types for future issuance without regard to a particular impairment or insolvency;
+(ii)  contain at least the minimum statutory provisions required in the state and provide benefits that may not be unreasonable in relation to the premium charged; the association shall set the premium under a table of rates that it shall adopt; the premium must reflect the amount of insurance to be provided and the age and class of risk of each insured, but may not reflect changes in the health of the insured after the original policy or contract was last underwritten;
+(iii)  if issued by the association, provide coverage of a type similar to that of the policy or contract issued by the impaired or insolvent insurer, as determined by the association;
+(F)  if the association elects to reissue terminated coverage at a premium rate different from that charged under the terminated policy or contract, the premium shall be actuarially justified and set by the association according to the amount of insurance or coverage provided and the age and class of risk;
+(G)  the association's obligations with respect to coverage under a policy or contract of an impaired or insolvent insurer or under a reissued or alternative policy or contract stop on the date the coverage, policy, or contract is replaced by another similar policy or contract by the policy or contract owner, the insured, the enrollee, or the association;
+(H)  when proceeding under this subsection with respect to a policy or contract carrying guaranteed minimum interest rates, the association shall assure the payment or crediting of a rate of interest consistent with
+AS 21.79.020
+(c)(4).</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nonpayment of a premium within 31 days after the date required under the terms of a guaranteed, assumed, alternative or reissued policy or contract or substitute coverage terminates the obligations of the association under the policy, contract, or coverage except with respect to the claims incurred or the net cash surrender value that may be due under the provisions of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A premium due for coverage after entry of an order of liquidation of an insolvent insurer belongs to and is payable at the direction of the association. Upon request of a liquidator of an insolvent insurer, the association shall provide a report to the liquidator regarding the premium collected by the association. The association is liable for unearned premiums due to a policy or contract owner arising after the entry of the order.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The protection provided by this chapter does not apply if guaranty protection is provided to residents of this state by the laws of another state or jurisdiction that is the domicile of the impaired or insolvent insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In carrying out its duties under (b) of this section, the association may impose a permanent policy or contract lien under a guarantee, assumption, or reinsurance agreement if the policy or contract lien is approved by a court and the association finds that</p>
+              </content>
+              <paragraph eId="21-79-060__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount that may be assessed under this chapter is less than the amount needed to assure full and prompt performance of the association's duties under this chapter; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the economic or financial condition that affects member insurers is sufficiently adverse that the imposition of a policy or contract lien is in the public interest.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-060__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In carrying out its duties under (b) of this section, the association may request the superior court to impose an injunction against the payment of a cash value and policy loan, or the exercise of another right to withdraw funds held in connection with a policy or contract, in addition to a contractual provision for deferral of a cash or policy loan value. In addition, if the receivership court imposes an injunction on payment of cash values or policy loans or on any other right to withdraw funds of an impaired or insolvent insurer held in conjunction with a policy or contract, the association may defer payment of cash values, policy loans, or other rights for the period of the injunction, except for claims covered by the association to be paid as required by a hardship procedure established by the liquidator or rehabilitator and approved by the receivership court.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>If the association fails to take action under (b) of this section within a reasonable period of time after a member insurer becomes insolvent, the director shall assume the powers of the association under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>If requested by the director, the association may assist and advise the director concerning rehabilitation, payment of claims, continuance of coverage, or the performance of other contractual obligations of an impaired or insolvent insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The association is entitled to appear or intervene in a court or agency proceeding in this state involving an impaired or insolvent insurer that the association is or may be obligated to or involving a person or property against which the association may have rights. The standing conferred by this subsection extends to all matters germane to the powers and duties of the association, including proposals to reinsure or guarantee a covered policy of the impaired or insolvent insurer and the determination of a covered policy and a contractual obligation. The association also has the right to appear or intervene before a court or agency in another state in a proceeding involving an impaired or insolvent insurer that the association is or may be obligated to or involving a person or property against which the association may have rights.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>A person who receives benefits under this chapter is considered to have assigned the rights under, and any cause of action against a person for losses arising under, resulting from, or otherwise relating to, the covered policy to the association to the extent of the benefits received under this chapter, whether the benefits are payment of or on account of contractual obligations, continuations of coverage, or provisions of substitute or alternative policies, contracts, or coverages. The association may require an assignment to the association of those rights by the enrollee, payee, policy or contract owner, beneficiary, insured, or annuitant before a person receives the rights or benefits conferred by this chapter. The priority of the association's subrogation right to the assets of the insolvent insurer is the same as the priority of the person entitled to benefits under this chapter. In addition to the rights described in this subsection, the association has common law rights of subrogation and any other equitable or legal remedy that would have been available to the impaired or insolvent insurer or owner, beneficiary, enrollee, or payee of a policy or contract with respect to the policy or contract. These rights include, in the case of a structured settlement annuity, the rights of the enrollee, owner, beneficiary, or payee of the annuity, to the extent of benefits received under this chapter, against a person originally or by succession responsible for the losses arising from the personal injury relating to the annuity or annuity payment, except for a person responsible solely by reason of being an assignee in respect to a qualified assignment under 26 U.S.C. 130 (Internal Revenue Code). If the provisions of this subsection are invalid with respect to a person or claim, the amount payable by the association with respect to the related coverage obligation shall be reduced by the amount realized by another person from the person or claim covered by the association</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>In addition to the rights and powers otherwise established in this chapter, the association may</p>
+              </content>
+              <paragraph eId="21-79-060__subsec_l__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>enter into contracts that are necessary or proper to carry out the provisions of this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>sue or be sued, and take legal action necessary or proper for recovery of an unpaid assessment under
+AS 21.79.070
+or settlement of a claim or potential claim;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>borrow money to carry out the purposes of this chapter; notes or other evidence of indebtedness of the association not in default are legal investments for domestic member insurers and may be carried as admitted assets;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>employ or retain those persons necessary to handle the financial transactions of the association and other functions under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>negotiate and contract with a liquidator, rehabilitator, conservator, or ancillary receiver to carry out the powers and duties of the association;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>exercise, for the purposes of this chapter and to the extent approved by the director, the powers of a domestic life insurer, health insurer, hospital or medical service corporation, or health maintenance organization; however, the association may not issue policies or contracts other than those issued to perform its obligations under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>take legal action to prevent or recover the payment of improper claims;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>join an organization of one or more other state associations with similar purposes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>determine, using reasonable business judgment, the means by which the association is to provide the benefits of this chapter in an economical and efficient manner;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>request information from a person seeking coverage from the association in order to determine the obligations of the association under this chapter; a person receiving a request under this paragraph shall promptly comply with the request;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>request information from a member insurer in order to aid in the exercise of a power under this section; a member insurer receiving a request under this paragraph shall promptly comply with the request;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>unless prohibited by law, in accordance with the terms of the policy or contract, file for actuarially justified rates or premium increases for a policy or contract for which it provides coverage under this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_l__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>perform all other acts necessary or proper to implement this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-060__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>When the association has arranged or offered to provide the benefits of this chapter to a covered person under a plan or arrangement that fulfills the association's obligations under this chapter, the covered person is not entitled to benefits from the association in addition to or other than those provided under the plan or arrangement.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-060__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>In carrying out its duties in connection with guaranteeing, assuming, or reinsuring a policy or contract, the association may, subject to approval of the receivership court, issue substitute coverage for a policy or contract that provides an interest rate, crediting rate, or similar factor determined by use of an index or other external reference stated in the policy or contract employed in calculating returns or changes in value by issuing an alternative policy or contract under the following provisions:</p>
+              </content>
+              <paragraph eId="21-79-060__subsec_n__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in place of the index or other external reference provided for in the original policy or contract, the alternative policy or contract provides for
+(A) a fixed interest rate;
+(B) payment of dividends with minimum guarantees; or
+(C) a different method for calculating interest or changes in value;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_n__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>there is no requirement for evidence of insurability, waiting period, or other exclusion that would not have applied under the replaced policy or contract; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_n__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the alternative policy or contract is substantially similar to the replaced policy or contract in all other material terms.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-060__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>The rights and obligations of the association, reinsurers of an insolvent insurer, and the receiver of an insolvent insurer are governed by the following provisions:</p>
+              </content>
+              <paragraph eId="21-79-060__subsec_o__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>not later than 180 days after the date of the order of liquidation, the association may elect to succeed to the rights and obligations of the ceding member insurer that relate to policies, contracts, or annuities covered, in whole or in part, by the association, in each case under any one or more reinsurance contracts entered into by the insolvent insurer and its reinsurers and selected by the association; an assumption is effective as of the date of the order of liquidation; the election shall be effected by the association or the National Organization of Life and Health Insurance Guaranty Associations on the association's behalf by written notice, return receipt requested, to the affected reinsurers; to facilitate the earliest practicable decision about whether to assume any of the contracts of reinsurance and to protect the financial position of the estate, as soon as possible after commencement of formal delinquency proceedings, the receiver and each reinsurer of the ceding member insurer shall make available, upon request, to the association or the National Organization of Life and Health Insurance Guaranty Associations on the association's behalf
+(A) copies of in-force contracts of reinsurance and all related files and records relevant to the determination of whether those contracts should be assumed; and
+(B) notices of any defaults under the reinsurance contracts or any known event or condition that, with the passage of time, could become a default under the reinsurance contracts;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_o__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>as to reinsurance contracts assumed by the association under this subsection,
+(A) the association is responsible for all unpaid premiums due under the reinsurance contracts for periods before, on, and after the date of the order of liquidation and is responsible for the performance of all other obligations to be performed on and after the date of the order of liquidation in each case that relates to policies, contracts, or annuities covered, in whole or in part, by the association; the association may charge policies, contracts, or annuities covered in part by the association, through reasonable allocation methods, the costs for reinsurance in excess of the obligations of the association and shall provide notice and an accounting of those charges to the liquidator;
+(B) the association is entitled to any amounts payable by the reinsurer under the reinsurance contracts with respect to losses or events that occur in periods on and after the date of the order of liquidation and that relate to policies, contracts, or annuities covered, in whole or in part, by the association, if, upon receiving those amounts, the association is obliged to pay to the beneficiary, under the policy, contract, or annuity for which the amounts were paid, a portion of the amount equal to the lesser of the amount</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-060__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>received by the association; and
+(ii) by which the amount received by the association exceeds the amount equal to the benefits paid by the association under the policy, contract, or annuity, less the amount retained by the insurer applicable to the loss or event;
+(C) not later than 30 days after the association's election, the association and each reinsurer under contracts assumed by the association shall calculate the net balance due to or from the association under each reinsurance contract as of the election date with respect to policies, contracts, or annuities covered, in whole or in part, by the association; in making the calculation, the association and reinsurer shall give full credit to all items paid by either the member insurer or its receiver or the reinsurer before the election date; the reinsurer shall pay the receiver any amounts due for losses or events before the date of the order of liquidation, subject to any set-off for premiums unpaid for periods before the date, and the association or reinsurer shall pay any remaining balance due the other, in each case, not later than five days after the completion of the calculation; a dispute over the amount due to the association or reinsurer shall be resolved by arbitration under the terms of the affected reinsurance contract or, if the contract does not contain an arbitration clause, as otherwise provided by law; if the receiver has received an amount due to the association under (B) of this paragraph, the receiver shall remit the amount to the association as promptly as practicable;
+(D) if the association or receiver on the association's behalf, not later than 60 days after the election date, pays the unpaid premiums due for periods both before and after the election date that relate to policies, contracts, or annuities covered, in whole or in part, by the association, the reinsurer may not terminate the reinsurance contracts for failure to pay premium insofar as the reinsurance contracts relate to polic</p>
+              </content>
+              <paragraph eId="21-79-060__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>during the period from the date of the order of liquidation until the election date, or, if the election date does not occur, until 180 days after the date of the order of liquidation,
+(A) neither the association nor the reinsurer shall have any rights or obligations under reinsurance contracts that the association has the right to assume, whether for periods before, on, or after the date of the order of liquidation; and
+(B) the reinsurer, the receiver, and the association shall, to the extent practicable, provide to each other data and records reasonably requested, if, once the association has elected to assume a reinsurance contract, the parties' rights and obligations are governed by this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>if the association does not elect to assume a reinsurance contract by the election date, the association does not have rights or obligations, in each case for periods before, on, and after the date of the order of liquidation, with respect to the reinsurance contract;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>when policies, contracts, annuities, or covered obligations with respect to policies or annuities are transferred to an assuming insurer, the association may also transfer reinsurance on the policies, contracts, or annuities, in the case of contracts assumed by the association, subject to the following:
+(A) unless the reinsurer and the assuming insurer agree otherwise, the reinsurance contract transferred may not cover any new policies or insurance, contracts, or annuities in addition to those transferred;
+(B) the obligations described in (1) of this subsection do not apply with respect to matters arising on and after the effective date of the transfer; and
+(C) notice shall be given in writing, return receipt requested, by the transferring party to the affected reinsurer not less than 30 days before the effective date of the transfer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the provisions of this subsection supersede the provisions of any state law or of any affected reinsurance contract that provides for or requires any payment of reinsurance proceeds, on account of losses or events that occur in periods on and after the date of the order of liquidation, to the receiver of the insolvent insurer or another person; the receiver shall remain entitled to any amounts payable by the reinsurer under the reinsurance contracts with respect to losses or events that occur in periods before the date of the liquidation, subject to applicable set-off provisions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-060__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>except as otherwise provided in this section, nothing in this subsection
+(A) alters or modifies the terms and conditions of a reinsurance contract;
+(B) abrogates or limits the right of a reinsurer to claim that the reinsurer is entitled to rescind a reinsurance contract;
+(C) gives a policy or contract owner, enrollee, certificate holder, or beneficiary an independent cause of action against a reinsurer that is not otherwise set out in the reinsurance contract;
+(D) limits or affects the association's rights as a creditor of the estate against the assets of the estate; and
+(E) applies to a reinsurance agreement covering property or casualty risks.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-070">
+            <num>21.79.070</num>
+            <heading>Assessments.</heading>
+            <subsection eId="21-79-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the purpose of providing funds necessary to carry out the powers and duties of the association, the Board of Governors shall by resolution assess the member insurers, separately for each account, at a time and for an amount that the board finds necessary. Assessments are authorized when a resolution is passed and are due not less than 30 days after prior written notice to the member insurers and accrue interest at 10 percent a year from the date payment is due. Authorized assessments become called when notice is mailed by the association to member insurers.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>There shall be two assessments as follows:</p>
+              </content>
+              <paragraph eId="21-79-070__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>class A assessments shall be authorized and called for the purpose of meeting administrative and legal costs and other expenses and examinations conducted under the authority of
+AS 21.79.060
+; class A assessments may be authorized and called whether or not related to a particular impaired or insolvent insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-070__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>class B assessments shall be authorized and called only as necessary to carry out the powers and duties of the association with regard to an impaired or an insolvent insurer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The amount of a class A assessment shall be determined by the board and may be made on a pro rata or non pro rata basis. If a pro rata assessment is made, the board may provide that it be credited against future class B assessments. The amount of a class B assessment, except for assessments related to long-term care insurance, shall be allocated for assessment purposes between the accounts and among the subaccounts of the life insurance and annuity account under an allocation formula that may be based on the premiums or reserves of the impaired or insolvent insurer or by another standard determined by the board in its sole discretion as being fair and reasonable under the circumstances. The amount of the class B assessment for long-term care insurance written by the impaired or insolvent insurer shall be allocated according to a methodology included in the association's plan of operation approved by the director. The methodology must provide for 50 percent of the assessment to be allocated to accident and health member insurers and 50 percent to be allocated to life and annuity member insurers.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Class B assessments shall be based on the premiums received on business in this state by each assessed member insurer on policies or contracts covered by each account in proportion to the premiums received on business in this state by all assessed member insurers during the three calendar years preceding the year in which the insolvency or impairment occurred.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-070__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The association may abate or defer, in whole or in part, the assessment of a member insurer if, in the opinion of the board, a payment of the assessment would endanger the ability of the member insurer to fulfill its contractual obligations. The amount by which an assessment against a member insurer is abated or deferred may be assessed against the other member insurers in a manner consistent with the basis for assessments set forth in (c) of this section. Once the conditions that caused a deferral are removed or rectified, the member insurer shall pay all assessments that were deferred under a repayment plan approved by the association.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-070__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Except as provided in this subsection, the total of all assessments on a member insurer for each subaccount of the life and annuity account and for the health account may not in any one calendar year exceed two percent of the member insurer's average annual premiums received in this state on policies or contracts covered by the account or subaccount during the three calendar years preceding the year in which the member insurer became an impaired or insolvent insurer. If two or more assessments are authorized in one calendar year with respect to member insurers that become impaired or insolvent in different calendar years, the average annual premiums for purposes of the aggregate assessment percentage limitation imposed under this subsection shall be limited to the highest of the average annual premiums during the preceding three calendar years for the applicable subaccount or account as calculated under this section. If the maximum assessment, together with the other assets of the association in an account, does not provide in any one year in either account an amount sufficient to carry out the responsibilities of the association, the necessary additional funds shall be assessed as soon as permitted by this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-070__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The board may provide in the plan of operation a method of allocating funds among claims, whether relating to one or more impaired or insolvent insurers, when the maximum assessment will be insufficient to cover anticipated claims.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-070__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>If the maximum assessment for a subaccount of the life and annuity account in any one year does not provide an amount sufficient to carry out the responsibilities of the association, the board shall, as provided under (d) of this section, access all subaccounts of the life and annuity account for the necessary additional amount, subject to the assessment limit provided in (f) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-070__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Assessments for funds to meet the requirements of the association with respect to an impaired or insolvent insurer may not be authorized or called until necessary to implement the purposes of this chapter. Classification of assessments under (b) of this section and computation of assessments under this section shall be made with a reasonable degree of accuracy, recognizing that exact determinations may not always be possible. The association shall notify each member insurer of its anticipated pro rata share of an authorized assessment not yet called within 180 days after the assessment is authorized.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-070__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The board may, by an equitable method as established in the plan of operation, refund to member insurers, in proportion to the contribution of each member insurer to that account, the amount by which the assets of the account exceed the amount the board finds is necessary to carry out during the coming year the obligations of the association with regard to that account, including assets accruing from assignment, subrogation, net realized gains, and income from investments. A reasonable amount may be retained in any account to provide funds for the continuing expenses of the association and for future losses claims.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-070__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>A member insurer may, in determining its premium rates and policy owner dividends as to any kind of insurance, hospital or medical service corporation business, or health maintenance organization business within the scope of this chapter, consider the amount reasonably necessary to meet its assessment obligations under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-070__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>A member insurer that wishes to protest all or part of an assessment shall pay when due the full amount of the assessment as set out in the notice provided by the association. The payment shall be available to meet association obligations during the pendency of the protest or any subsequent appeal. If a payment is made under protest, payment must be accompanied by a statement in writing that the payment is made under protest and setting out a brief statement of the grounds for the protest. Within 60 days following the payment of an assessment under protest by a member insurer, the association shall notify the member insurer in writing of its determination with respect to the protest unless the association notifies the member insurer that additional time is required to resolve the issues raised by the protest. Within 30 days after a final decision has been made, the association shall notify the protesting member insurer in writing of that final decision. Within 60 days after receipt of notice of the final decision, the protesting member insurer may appeal that final action to the director. In the alternative to rendering a final decision with respect to a protest based on a question regarding the assessment base, the association may refer protests to the director for a final decision with or without recommendation from the association. If a protest or appeal on an assessment is upheld, the amount paid in error or excess shall be returned to the member insurer. Interest on a refund due a protesting member insurer shall be paid at the rate actually earned by the association.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-080">
+            <num>21.79.080</num>
+            <heading>Plan of operation.</heading>
+            <subsection eId="21-79-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The association shall submit to the director a plan of operation and any amendments to assure the fair, reasonable, and equitable administration of the association. The plan of operation and any amendments take effect on the written approval of the plan by the director or 30 days after receipt by the director if not disapproved by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the association fails to submit suitable amendments to the plan, the director shall, after notice and hearing, adopt regulations to implement this chapter. These regulations remain in effect until amended or repealed by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A member insurer shall comply with the plan of operation. The plan of operation must</p>
+              </content>
+              <paragraph eId="21-79-080__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>establish procedures for handling assets of the association;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-080__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>establish the amount and method of reimbursing members of the board under
+AS 21.79.050</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-080__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>establish regular places and times for meetings of the board in the state; the board may conduct meetings telephonically;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-080__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>establish procedures for keeping records of all financial transactions of the association, its agents, and the board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-080__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>establish terms of office for members of the board, and establish procedures for the selection of the members of the board and for the director's approval of the members selected;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-080__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>establish additional procedures for assessments under
+AS 21.79.070
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-080__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>establish procedures for removing a member of the board for cause, including procedures for removing a member of the board who becomes an impaired or insolvent insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-080__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>establish policy and procedures for addressing conflicts of interest; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-080__subsec_c__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>contain additional provisions necessary or proper for the association to exercise its powers and duties.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The plan of operation may delegate the powers and duties of the association, other than those under
+AS 21.79.060
+(l)(3) and 21.79.070, to a corporation or other organization performing functions similar to those of the association, or its equivalent, in two or more states.  The association shall reimburse the corporation or organization for a payment made for the association and for performing a function of the association.  A delegation under this subsection takes effect only with the approval of the board and the director.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-090">
+            <num>21.79.090</num>
+            <heading>Powers and duties of the director.</heading>
+            <subsection eId="21-79-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon request of the board, the director shall provide the association with a statement of the premiums in the appropriate states for each member insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may</p>
+              </content>
+              <paragraph eId="21-79-090__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>after notice and hearing as provided in
+AS 21.06.180
+ 21.06.230, suspend or revoke the certificate of authority to transact business in this state of a member insurer that fails to pay an assessment when due or fails to comply with the plan of operation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-090__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>levy a penalty on a member insurer that fails to comply with the plan of operation; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-090__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>levy a penalty on a member insurer that fails to pay an assessment when due; if the unpaid assessment is more than $2,000, the penalty may not exceed five percent of the unpaid assessment a month or be less than $100 a month; if the unpaid assessment is $2,000 or less, the penalty is $100 a month.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A final action of the board or the association may be appealed to the director by a member insurer if the appeal is taken not later than 60 days after the date the notice of the action is mailed. Final action or order of the director may be reviewed by the superior court.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-090__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The liquidator, rehabilitator, or conservator of an impaired or insolvent insurer may notify all interested persons of the effect of this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-100">
+            <num>21.79.100</num>
+            <heading>Prevention of insolvencies.</heading>
+            <subsection eId="21-79-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director shall notify, by mail, the commissioner, director, or superintendent of insurance of the other states, territories of the United States, and the District of Columbia within 30 days after the date on which the following actions are taken against a member insurer:</p>
+              </content>
+              <paragraph eId="21-79-100__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>revocation of a license;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-100__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>suspension of a license; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-100__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a formal order that a member insurer restrict its premium writing, obtain additional contributions to surplus, withdraw from the state, reinsure all or any part of its business, or increase capital, surplus, or any other account for the security of policyholders, contract owners, certificate holders, or creditors.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director shall report to the board if an action set out in (a) of this section is taken or a report is received from a state insurance regulator that similar action has been taken in another state.  The report to the board must contain all significant details of the action taken or the report received from another insurance regulator.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director shall report to the board if there is reasonable cause to believe, during or after an examination of a member insurer, that the company may be impaired or insolvent.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director shall furnish the board with the NAIC Insurance Regulatory Information System (IRIS) ratios and a listing of companies not included in the ratios developed by the NAIC, and the board may use that information to carry out its duties and responsibilities under this section. The information shall be kept confidential by the board until it is made public by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-100__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The director may seek the board's advice and recommendations concerning the financial condition of member insurers, insurers, hospital and medical service corporations, and health maintenance organizations who apply for admission to transact insurance business in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-100__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The board may</p>
+              </content>
+              <paragraph eId="21-79-100__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>make reports and recommendations to the director relating to the solvency, liquidation, rehabilitation, or conservation of a member insurer or the solvency of an insurer, hospital or medical service corporation, or health maintenance organization that applies to transact insurance business in the state; the director and the board shall keep the reports and recommendations confidential;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-100__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>notify the director of any information that indicates that a member insurer may be impaired or insolvent.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-100__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>[Repealed, § 46 ch 119 SLA 2000.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-100__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The board may make recommendations to the director for detecting and preventing member insurer insolvencies.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>[Repealed, § 46 ch 119 SLA 2000.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-110">
+            <num>21.79.110</num>
+            <heading>Miscellaneous provisions.</heading>
+            <subsection eId="21-79-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This chapter does not reduce the liability for unpaid assessments of an insured of an impaired or insolvent insurer operating under an insurance policy with assessment liability.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The association shall keep records of meetings relating to its activities. Records of meetings may only be made public under
+AS 21.79.040</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>(1) after the termination of a liquidation, rehabilitation, or conservation proceeding that involves the impaired or insolvent insurer;</p>
+              </content>
+              <paragraph eId="21-79-110__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>[Repealed, § 58 ch 47 SLA 2018.]</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-110__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>upon the order of a court of competent jurisdiction.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The association is considered to be a creditor of the impaired or insolvent insurer to the extent of assets attributable to covered policies that are reduced by an amount to which the association is entitled under
+AS 21.79.060
+(k). Assets of the impaired or insolvent insurer that are attributable to covered policies shall be used to continue all covered policies and pay all contractual obligations of the impaired or insolvent insurer as required by this chapter. Assets attributable to covered policies or contracts include those assets that should have been established as reserves for the covered policies or contracts. These assets are determined by multiplying the total assets of the impaired or insolvent insurer by a fraction, the numerator of which is the amount that should have been established as reserves for the covered policies or contracts of the impaired or insolvent insurer, and the denominator of which is the amount that should have been established as reserves for all policies or contracts of insurance issued in all states by that insurer. As a creditor of the impaired or insolvent insurer, the association and other similar entities in other states are entitled to receive a disbursement of assets out of the marshaled assets as a credit against contractual obligations under this chapter from time to time as the assets become available. If the liquidator has not, within 120 days after the date of a final determination of insolvency of a member insurer by the court, made an application to the court for the approval of a proposal to disburse assets, the association may make application to the court for the approval of the association's proposal to disburse assets.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-110__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Before the termination of a liquidation, rehabilitation, or conservation proceeding, the court may consider the contributions of the respective parties, including the association, shareholders, contract owners, certificate holders, enrollees, and policyholders of the impaired or insolvent insurer, and any other party with a bona fide interest, in distributing the ownership rights of the impaired or insolvent insurer. The court shall consider the welfare of policyholders, contract owners, certificate holders, and enrollees of the continuing or successor member insurer. A distribution to stockholders of an impaired or insolvent insurer may not be made until the total amount of valid claims of the association for money spent in carrying out its powers and duties under
+AS 21.79.060
+, with respect to the impaired or insolvent insurer, has been fully recovered by the association.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-110__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 58 ch 47 SLA 2018.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-110__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A deposit in this state, held by law or required by the director for the benefit of creditors, including policy or contract owners, not turned over to the domiciliary liquidator upon the entry of a final order of liquidation or order approving a rehabilitation plan of a member insurer domiciled in this state or in a reciprocal state shall be promptly paid to the association. The association</p>
+              </content>
+              <paragraph eId="21-79-110__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is entitled to retain a portion of any amount paid to it equal to the percentage determined by dividing the aggregate amount of policy or contract owners' claims related to that insolvency for which the association has provided statutory benefits by the aggregate amount of all policy or contract owners' claims in this state related to that insolvency; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-110__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>shall remit to the domiciliary receiver the amount paid to the association and retained under (1) of this subsection; any amount paid to the association not retained by it under (1) of this subsection shall be treated as a distribution of state assets under
+AS 21.78.294
+or a similar provision of the state of domicile of the impaired or insolvent insurer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-110__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The association may not be required to give an appeal bond in an appeal of a civil action arising under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-120">
+            <num>21.79.120</num>
+            <heading>Examination of the association, annual report.</heading>
+            <subsection eId="21-79-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>limits the duty of the association to report under this section. Upon request, the association shall provide a copy of the report to a member insurer.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-130">
+            <num>21.79.130</num>
+            <heading>Tax exemption.</heading>
+            <content>
+              <p>Sec. 21.79.130.   Tax exemption.
+The association is exempt from payment of all fees and taxes levied by the state or its political subdivisions, other than real property taxes.</p>
+            </content>
+          </section>
+          <section eId="sec_21-79-140">
+            <num>21.79.140</num>
+            <heading>Civil immunity.</heading>
+            <content>
+              <p>Sec. 21.79.140.   Civil immunity.
+The association and its agents and employees, members of the Board of Governors, member insurers, and agents and employees of member insurers, and the director and the director's representatives are not civilly liable, and a cause of action of any nature may not arise, for an action or omission in performing duties under this chapter. The immunity extends to the participation in an organization of one or more other state associations of similar purposes and to that organization and its agents or employees.</p>
+            </content>
+          </section>
+          <section eId="sec_21-79-150">
+            <num>21.79.150</num>
+            <heading>Stay of proceedings; default judgment.</heading>
+            <content>
+              <p>Sec. 21.79.150.   Stay of proceedings; default judgment.
+Proceedings involving an insolvent insurer shall be stayed at least 180 days after the date of a final order of liquidation, rehabilitation, or conservation in order to allow the association to exercise a power or duty authorized under this chapter. If a default judgment is entered against an insolvent insurer, the association may apply to have the judgment set aside or may defend against the action on its merits.</p>
+            </content>
+          </section>
+          <section eId="sec_21-79-160">
+            <num>21.79.160</num>
+            <heading>Prohibited advertisement of insurance sales; required notice.</heading>
+            <subsection eId="21-79-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person, including a member insurer, agent, or affiliate of a member insurer, may not make, publish, disseminate, circulate, or place before the public, or cause, directly or indirectly, to be made, published, disseminated, circulated, or placed before the public, in any newspaper, magazine, or other publication, or in the form of a notice, circular, pamphlet, letter, or poster, or over any radio station or television station, or in any other way, an advertisement, announcement, or statement, written or oral, that uses the existence of the association for the purpose of sales, solicitation, or inducement to purchase any form of insurance or other coverage covered by the association. However, this section does not apply to the association or any other entity that does not sell or solicit insurance, coverage by a hospital or medical service corporation, or coverage by a health maintenance organization.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The association shall prepare a summary document describing the general purposes and current limitations of this chapter and complying with (c) of this section. This document shall be submitted to the director for approval. Beginning 60 days after the date on which the director approves the document, a member insurer may not deliver a policy or contract to a policy or contract owner, certificate holder, or enrollee unless the summary document is delivered to the policy or contract owner, certificate holder, or enrollee at the time of delivery of the policy or contract. The document shall also be available upon request by a policy or contract owner, certificate holder, or enrollee. The distribution, delivery, contents, or interpretation of this document does not guarantee that either the policy or the contract, or the policy or contract owner, certificate holder, or enrollee is covered in the event of the impairment or insolvency of a member insurer. The description document shall be revised by the association as amendments to this chapter may require. Failure to receive this document does not give the policy or contract owner, certificate holder, enrollee, or insured any greater rights than those stated in this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-79-160__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The document prepared under (b) of this section must contain a clear and conspicuous disclaimer on its face. The director shall establish the form and content of the disclaimer. The disclaimer must</p>
+              </content>
+              <paragraph eId="21-79-160__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>state the name and address of the association and the division of insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-160__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>prominently warn the policy or contract owner, certificate holder, or enrollee that the association may not cover the policy or, if coverage is available, that the policy will be subject to substantial limitations and exclusions and conditioned on continued residence in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-160__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>state the types of policies or contracts for which guaranty funds will provide coverage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-160__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>state that the member insurer and its agents are prohibited by law from using the existence of the association for the purpose of sales, solicitation, or inducement to purchase any form of insurance, hospital or medical service corporation coverage, or health maintenance organization coverage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-160__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>state that the policy or contract owner, certificate holder, or enrollee should not rely on coverage under the association when selecting an insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-160__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>explain rights available and procedures for filing a complaint to allege a violation of a provision of this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-160__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>provide other information as required by the director, including sources for information about the financial condition of insurers if the information is not proprietary and is subject by law to disclosure.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-79-160__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A member insurer shall retain evidence of compliance with (b) of this section for so long as the policy or contract for which the notice is given remains in effect.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-170">
+            <num>21.79.170</num>
+            <heading>Determination of principal place of business.</heading>
+            <content>
+              <p>Sec. 21.79.170.   Determination of principal place of business.
+The principal place of business of a plan sponsor consisting of
+(1) a single employer or an employee organization is that state in which the plan sponsor exercises the direction, control, and coordination of the operations of the entity, as determined by the association in its reasonable judgment by considering the following factors: (A) the state in which the primary executive and administrative headquarters of the entity are located; (B) the state in which the principal office of the chief executive officer of the entity is located; (C) the state in which the board of directors or a similar governing body of the entity conducts the majority of its meetings; (D) the state in which the executive or management committee of the board of directors or a similar governing body of the entity conducts the majority of its meetings; (E) the state from which the management of the overall operations of the entity is directed; and (F) in the case of a benefit plan sponsored by affiliated companies making up a consolidated corporation, the state in which the holding company or controlling affiliate has its principal place of business as determined using the factors described in (A)  (E) of this paragraph; however, if more than 50 percent of the participants in the benefit plan are employed in a single state, that state is considered to be the principal place of business of a plan sponsor that is a single employer or an employee organization;
+(2) two or more employers or employee organizations is that state in which the employers or employee organizations have the largest investment in the benefit plan.</p>
+            </content>
+          </section>
+          <section eId="sec_21-79-180">
+            <num>21.79.180</num>
+            <heading>Determination of residency of certain individuals.</heading>
+            <content>
+              <p>Sec. 21.79.180.   Determination of residency of certain individuals.
+A citizen of the United States that is either a (1) resident of a foreign country, or (2) resident of a United States possession, territory, or protectorate that does not have an association similar to the association created by this chapter is, for purposes of this chapter, a resident of the state of domicile of the insurer that issued the policy or contract.</p>
+            </content>
+          </section>
+          <section eId="sec_21-79-900">
+            <num>21.79.900</num>
+            <heading>Definitions.</heading>
+            <subsection eId="21-79-900__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and (c), except that assessable premium may not be reduced on account of
+AS 21.79.020
+(c)(4) relating to interest limitations and
+AS 21.79.025
+(a)(2)  (5), (b), and (d) relating to limitations with respect to one individual, one participant, and one policy or contract owner;
+(B)  premiums in excess of $5,000,000 on an unallocated annuity contract not issued under a governmental retirement benefit plan or its trustee established under 26 U.S.C. 401, 26 U.S.C. 403(b), or 26 U.S.C. 457; or
+(C)  with respect to multiple nongroup policies of life insurance owned by one owner, whether the policy or contract owner is an individual, firm, corporation, or other person, and whether the persons insured are officers, managers, employees, or other persons, premiums in excess of $5,000,000 with respect to those policies or contracts, regardless of the number of policies or contracts held by the owner;</p>
+              </content>
+              <paragraph eId="21-79-900__subsec_b__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>published monthly average means the monthly average of corporate bond yields, as published by Moody's Investors Service, Inc., or its successor or, if Moody's average of corporate bond yields is not published, a substantially similar average established by regulation adopted by the director;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-900__subsec_b__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>receivership court means the court in the insolvent or impaired insurer's state having jurisdiction over the conservation, rehabilitation, or liquidation of the member insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-900__subsec_b__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>resident means a person to whom a contractual obligation is owed under this chapter and who resides in this state on the date of entry of a court order that determines a member insurer to be an impaired or insolvent insurer; a person may be a resident of only one state, which, in the case of a person other than a natural person, shall be the principal place of business;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-900__subsec_b__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>state means a state of the United States, the District of Columbia, Puerto Rico, or a United States possession, territory, or protectorate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-900__subsec_b__subsec_23">
+                <num>(23)</num>
+                <content>
+                  <p>structured settlement annuity means an annuity purchased in order to fund periodic payments for a plaintiff or other claimant in payment for or with respect to personal injury suffered by the plaintiff or other claimant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-900__subsec_b__subsec_24">
+                <num>(24)</num>
+                <content>
+                  <p>supplemental contract means a written agreement entered into for the distribution of proceeds under life, health, or annuity policy or contract benefits;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-79-900__subsec_b__subsec_25">
+                <num>(25)</num>
+                <content>
+                  <p>unallocated annuity contract means an annuity contract or group annuity certificate that is not issued to and owned by an individual, except to the extent of annuity benefits guaranteed to an individual by an insurer under the contract or certificate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-79-990">
+            <num>21.79.990</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 21.79.990.   Short title.
+This chapter may be cited as the Alaska Life and Health Insurance Guaranty Association Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

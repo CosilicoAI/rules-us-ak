@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-60"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-60"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.60"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-60/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-60/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-60/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-60/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_60">
+          <num>60</num>
+          <heading>Multipurpose Senior Centers</heading>
+          <section eId="sec_47-60-010">
+            <num>47.60.010</num>
+            <heading>Legislative findings.</heading>
+            <content>
+              <p>Sec. 47.60.010.   Legislative findings.
+The legislature finds that there is a need for multipurpose senior centers in certain areas of the state to provide certain services for elderly persons, that this need can be at least partially met utilizing nonprofit corporations which would undertake the establishment of multipurpose senior center projects, and that the establishment of these projects constitutes a public purpose worthy of the cooperation of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_47-60-020">
+            <num>47.60.020</num>
+            <heading>Authorization of nonprofit corporations for establishment of multipurpose senior centers.</heading>
+            <content>
+              <p>Sec. 47.60.020.   Authorization of nonprofit corporations for establishment of multipurpose senior centers.
+Private nonprofit corporations incorporated under state law may undertake or may be incorporated for the purpose of undertaking the development and operation of multipurpose senior centers.</p>
+            </content>
+          </section>
+          <section eId="sec_47-60-030">
+            <num>47.60.030</num>
+            <heading>Purposes of multipurpose senior centers.</heading>
+            <content>
+              <p>Sec. 47.60.030.   Purposes of multipurpose senior centers.
+A multipurpose senior center is a facility where persons 60 years of age or older are provided with services and activities suited to their particular needs.  The services and activities may include, but are not limited to, health examinations, legal assistance, recreation programs, general social activities, telephone reassurance programs, nutrition classes, meals at minimum cost, counseling, protective services, programs for shut-ins, and education programs.</p>
+            </content>
+          </section>
+          <section eId="sec_47-60-040">
+            <num>47.60.040</num>
+            <heading>Powers of corporations.</heading>
+            <content>
+              <p>Sec. 47.60.040.   Powers of corporations.
+A nonprofit corporation that undertakes the development and operation of multipurpose senior centers may
+(1) operate in one or more municipality;
+(2) issue notes, bonds, or other obligations for the purpose of developing and operating multipurpose senior centers;
+(3) perform other functions necessary to carry out the purposes of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_47-60-050">
+            <num>47.60.050</num>
+            <heading>Acceptance and use of assistance, cooperation, and contributions.</heading>
+            <content>
+              <p>Sec. 47.60.050.   Acceptance and use of assistance, cooperation, and contributions.
+A nonprofit corporation may accept and use the assistance, cooperation, and contributions of private persons, charitable organizations, and public agencies for the purpose of establishing and operating a multipurpose senior center.</p>
+            </content>
+          </section>
+          <section eId="sec_47-60-060">
+            <num>47.60.060</num>
+            <heading>Lease of property from state.</heading>
+            <content>
+              <p>Sec. 47.60.060.   Lease of property from state.
+The Department of Health may lease property under its jurisdiction, suitable for use as a multipurpose senior center, to a nonprofit corporation that undertakes the development and operation of a multipurpose senior center.</p>
+            </content>
+          </section>
+          <section eId="sec_47-60-070">
+            <num>47.60.070</num>
+            <heading>Municipal contributions.</heading>
+            <content>
+              <p>Sec. 47.60.070.   Municipal contributions.
+The governing body of a municipality may give financial assistance to a nonprofit corporation that undertakes the development and operation of a multipurpose senior center.</p>
+            </content>
+          </section>
+          <section eId="sec_47-60-080">
+            <num>47.60.080</num>
+            <heading>Exemption from taxation.</heading>
+            <content>
+              <p>Sec. 47.60.080.   Exemption from taxation.
+A multipurpose senior center developed and operated by a nonprofit corporation under this chapter is not subject to real or personal property taxation by a municipality.  The exemption granted under this section continues in force only while the multipurpose senior center is owned and operated by a nonprofit corporation under the provisions of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_47-60-090">
+            <num>47.60.090</num>
+            <heading>Federal regulation.</heading>
+            <content>
+              <p>Sec. 47.60.090.   Federal regulation.
+Nothing in this chapter may be construed as a limitation on the power of the federal government to regulate the development and operation of multipurpose senior centers.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

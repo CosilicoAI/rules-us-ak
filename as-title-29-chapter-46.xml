@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-46"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-46"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="29.46"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-46/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-46/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-46/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-46/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_29">
+        <num>29</num>
+        <heading>Municipal Government</heading>
+        <chapter eId="title_29__chp_46">
+          <num>46</num>
+          <heading>Special Assessments</heading>
+          <section eId="sec_29-46-010">
+            <num>29.46.010</num>
+            <heading>Assessment and proposal.</heading>
+            <subsection eId="29-46-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A municipality may assess against the property of a state or federal governmental unit and private real property to be benefited by an improvement all or a portion of the cost of acquiring, installing, or constructing capital improvements. The state shall pay an assessment levied, except as otherwise provided by law and subject to its right of protest under
+AS 29.46.020
+(b). If a governmental unit other than the state benefited by an improvement refuses to pay the assessment, it shall be denied the benefit of the improvement.  An improvement proposal may be initiated by</p>
+              </content>
+              <paragraph eId="29-46-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>petition to the governing body of the owners of one-half in value of the property to be benefited; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the governing body.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-46-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a party to a contract approved by the legislature as a result of submission of a proposed contract developed under
+AS 43.82
+or as a result of acts by the legislature in implementing the purposes of
+AS 43.82
+, is exempt, as specified in the contract, from assessment under this chapter against real property associated with the approved qualified project that is subject to the contract. This subsection applies to home rule municipalities.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-46-020">
+            <num>29.46.020</num>
+            <heading>Procedure.</heading>
+            <subsection eId="29-46-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A municipality may prescribe by ordinance the procedures relating to creating special assessment districts, making local improvements, levying and collecting assessments, and financing improvements, including the following:</p>
+              </content>
+              <paragraph eId="29-46-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a procedure for filing petitions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a survey and report by the mayor concerning the need for, desirable extent of, and estimated cost of each proposed local improvement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a public hearing on the necessity for the proposed local improvement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a resolution or ordinance determining to proceed or not to proceed with the proposed local improvement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a public hearing by the governing body on the special assessment roll for the proposed local improvement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>published notice of each public hearing required by this section and mailing notice to each record owner of real property in the special assessment district;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-020__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>a resolution or ordinance confirming the special assessment roll for the proposed local improvement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-46-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If protests as to the necessity of a proposed local improvement are made by owners of property that will bear 50 percent or more of the estimated cost of the improvement, the governing body may not proceed with the improvement until the objections have been reduced to less than 50 percent, except on approval of not fewer than three-fourths of the governing body.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To the extent that a municipality does not prescribe a procedure for special assessments as permitted by this section, the municipality shall comply with the special assessment procedures set out in
+AS 29.46.030
+ 29.46.100.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A municipality may by ordinance provide for deferral of payment of all or part of the assessments on real property owned and occupied as the primary residence and permanent place of abode by a resident who is economically disadvantaged as determined under criteria established in the ordinance. The assessment becomes due when the property ceases to be owned by the resident who qualified for the deferral.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-46-030">
+            <num>29.46.030</num>
+            <heading>Consideration of improvement proposals for special assessment district.</heading>
+            <subsection eId="29-46-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When an improvement proposal is filed with the municipal clerk and presented to the governing body, the municipality shall find by resolution or ordinance whether (1) the improvement requested is necessary and should be made, and (2) if by petition, the request has sufficient and proper petitioners. The findings under this subsection are conclusive.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the municipality approves an improvement proposal, it shall develop a proposed improvement plan including the total cost estimate and the percentage of the cost to be assessed against the benefited property.  The improvement plan shall be filed with the municipal clerk.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The governing body shall set a time for public hearing on the improvement plan and the period for filing objections to the plan.  The governing body shall publish a notice of the hearing and of the period during which objections may be filed at least once a week for four consecutive weeks in a newspaper of general circulation if distributed in the municipality and shall send notice by mail to every record owner of property in the special assessment district.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-46-040">
+            <num>29.46.040</num>
+            <heading>Record owner.</heading>
+            <content>
+              <p>Sec. 29.46.040.   Record owner.
+The person in whose name property is listed on the municipal property tax roll as owner is conclusively presumed to be the legal owner of record.  If the owner is unknown, the assessment roll may designate unknown owner.</p>
+            </content>
+          </section>
+          <section eId="sec_29-46-050">
+            <num>29.46.050</num>
+            <heading>Objections and revision.</heading>
+            <subsection eId="29-46-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Objections to an improvement plan may be filed during a period of 60 days after publication of notice.  The municipality may by resolution or ordinance approve the plan and order the improvement subject to the limitation of (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If objections are made in writing during the period set for objections by the owners of property bearing 50 percent or more of the estimated total cost of the improvement, the governing body may not proceed with the improvement unless it revises the plan to meet the objections and the objections are reduced to less than 50 percent.  A revised plan shall be approved and adopted as an original plan in accordance with
+AS 29.46.030
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-46-060">
+            <num>29.46.060</num>
+            <heading>Assessment roll.</heading>
+            <subsection eId="29-46-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At any time after approval of an improvement plan, the governing body shall assess the authorized percentage of the cost against property in the district included in the plan in proportion to the benefit received.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The special assessment roll shall contain property descriptions, names of record owners, and assessment amounts.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The governing body shall fix a time to hear objections to the roll.  The municipal clerk shall send an assessment and hearing notice by mail to each record owner of an assessed property not less than 15 days before the hearing.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-46-070">
+            <num>29.46.070</num>
+            <heading>Hearing and settlement.</heading>
+            <content>
+              <p>Sec. 29.46.070.   Hearing and settlement.
+After the public hearing, the governing body shall correct errors and inequalities in the roll.  If an assessment is increased, a new hearing shall be set and notice published, except that a new hearing and notice is not required if all record owners of property subject to the increased assessment consent in writing to the increase. Objections to the increased assessment shall be limited to record owners of property on which the assessment was increased.  When the roll is corrected, it shall be confirmed by resolution or ordinance.</p>
+            </content>
+          </section>
+          <section eId="sec_29-46-080">
+            <num>29.46.080</num>
+            <heading>Payment.</heading>
+            <subsection eId="29-46-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governing body shall fix times of payment, penalties on delinquent payments, and the rate of interest on the unpaid balance of the assessment.  Payment may be in one sum or by installments. If payment is to be in one sum, payment may not be required sooner than 60 days after mailing of the assessment statement.  The entire assessment may be prepaid without interest or penalty within 30 days after mailing of the assessment statement, and thereafter the assessment may be prepaid in whole or in part with interest to the payment date.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Within 30 days after fixing the time of payment the municipal clerk shall mail a statement to the record owner of each property assessed.  The statement designates the property, the assessment amount, method of payment, rate of interest on the unpaid balance of the assessment, the time of delinquency, and penalties on delinquent payments.  Within five days after the statements are mailed, the clerk shall have notice published that the statements have been mailed.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Assessments are liens on the property assessed and are prior and paramount to all liens except municipal tax liens. They may be enforced as provided in
+AS 29.45.320
+  29.45.470 for enforcement of property tax liens.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-46-100">
+            <num>29.46.100</num>
+            <heading>Reassessment.</heading>
+            <subsection eId="29-46-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governing body shall, within one year, correct any deficiency in a special assessment found by a court. Notice and hearing must conform to the initial assessment procedures.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Payments on the initial assessment are credited to the property upon reassessment.  The reassessment becomes a charge upon the property notwithstanding failure to comply with any provision of the assessment procedure.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-46-110">
+            <num>29.46.110</num>
+            <heading>Allowable costs.</heading>
+            <subsection eId="29-46-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a special assessment district is created, there may be included in the assessments</p>
+              </content>
+              <paragraph eId="29-46-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>all of the cost of acquiring, installing, making, or constructing the local improvement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the costs of all engineering and surveying to be done in connection with creating the district or improvement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the cost of mailing and publishing notices;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-110__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>interest on interim financing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-110__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the cost of legal services and other expenses incurred in the formation of the special assessment district;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-110__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the cost of completing the improvement and financing the improvement, including the issuance of bonds.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-46-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The total amount of the assessment roll may not exceed actual costs, but actual costs may include reasonable estimates of the costs to be incurred in connection with issuance of bonds.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-46-120">
+            <num>29.46.120</num>
+            <heading>Objection and appeal.</heading>
+            <subsection eId="29-46-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The validity of an assessment may not be contested by a person who did not file with the municipal clerk a written objection to the assessment roll before its confirmation.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The decision of the governing body on an objection may be appealed to the superior court within 30 days after the date of confirmation of the assessment roll.  If no objection is filed or appeal taken within that time, the assessment procedure is considered valid in all respects.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-46-130">
+            <num>29.46.130</num>
+            <heading>Interim financing.</heading>
+            <subsection eId="29-46-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A municipality may provide by resolution or ordinance for the issuance of notes in payment of the costs of a local improvement project, payable out of special assessments for the improvement. The notes shall bear interest at a rate or rates authorized by the resolution or ordinance, and shall be redeemed either in cash or bonds for the improvement project.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notes issued against assessments shall be claims against the assessments that are prior and superior to a right, lien or claim of a surety on the bond given to the municipality to secure the performance of its contract for a local improvement project, or to secure the payment of persons who have performed work or furnished materials under the contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The municipal treasurer may accept notes against special assessments on conditions prescribed by the governing body in payment of</p>
+              </content>
+              <paragraph eId="29-46-130__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>assessments against which the notes were issued in order of priority;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-130__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>judgments rendered against property owners who have become delinquent in the payment of assessments; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-46-130__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>certificates of purchase when property has been sold under execution or at tax sale for failure to pay the assessments.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_29-46-140">
+            <num>29.46.140</num>
+            <heading>Special assessment bonds.</heading>
+            <subsection eId="29-46-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A municipality may by ordinance authorize the issuance and sale of special assessment bonds to pay all or part of the cost of an improvement in a special assessment district.  The principal and interest of bonds issued shall be payable solely from the levy of special assessments against the property to be benefited.  The assessments shall constitute a sinking fund for the payment of principal and interest on the bonds.  The benefited property may be pledged by the governing body to secure a payment.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>On default in a payment due on a special assessment bond, a bondholder may enforce payment of principal, interest, and costs of collection in a civil action in the same manner and with the same effect as actions for the foreclosure of mortgages on real property. Foreclosure shall be against all property on which assessments are in default.  The period for redemption is the same as for a mortgage foreclosure on real property.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-46-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Before the governing body may issue special assessment bonds, it shall establish a guarantee fund and appropriate to the fund annually a sum adequate to cover a deficiency in meeting payments of principal and interest on bonds if the reason for the deficiency is nonpayment of assessments when due.  Money received from actions taken against property for nonpayment of assessments shall be credited to the guarantee fund.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

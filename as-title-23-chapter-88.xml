@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-23/chapter-88"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-23/chapter-88"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="23.88"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-23/chapter-88/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-23/chapter-88/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-23/chapter-88/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-23/chapter-88/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_23">
+        <num>23</num>
+        <heading>Labor and Workers' Compensation</heading>
+        <chapter eId="title_23__chp_88">
+          <num>88</num>
+          <heading>Employment of Members of the National Guard and Veterans</heading>
+          <section eId="sec_23-88-010">
+            <num>23.88.010</num>
+            <heading>Active military, veteran, and family hiring preference allowed.</heading>
+            <subsection eId="23-88-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When hiring an employee, a private employer may grant an employment preference to</p>
+              </content>
+              <paragraph eId="23-88-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person in active service, on furlough from active service, or discharged under honorable conditions from service in
+(A) the armed forces of the United States;
+(B) a reserve unit of the armed forces of the United States;
+(C) the Alaska Territorial Guard;
+(D) the Alaska Army National Guard;
+(E) the Alaska Air National Guard; or
+(F) the Alaska Naval Militia;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-88-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the spouse or dependent child of a person described in (1) of this subsection; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-88-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the surviving spouse or a dependent child of a person who, at the time of death, was a person in active service or on furlough from active service as described in (1) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="23-88-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, dependent child means a natural child, stepchild, or adopted child who is</p>
+              </content>
+              <paragraph eId="23-88-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>permanently disabled; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="23-88-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>under
+(A) 19 years of age; or
+(B) 23 years of age and registered at and attending on a full-time basis an accredited educational or technical institution recognized by the Department of Education and Early Development.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-10"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.10"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_10">
+          <num>10</num>
+          <heading>Limitations of Actions</heading>
+          <section eId="sec_12-10-010">
+            <num>12.10.010</num>
+            <heading>General time limitations.</heading>
+            <subsection eId="12-10-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prosecution for the following offenses may be commenced at any time:</p>
+              </content>
+              <paragraph eId="12-10-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>murder;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-10-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>attempt, solicitation, or conspiracy to commit murder or hindering the prosecution of murder;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-10-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>felony sexual abuse of a minor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-10-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>sexual assault that is an unclassified, class A, or class B felony or a violation of
+AS 11.41.425</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-10-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a violation of
+AS 11.41.425
+, 11.41.427, 11.41.450  11.41.458,
+AS 11.66.110
+ 11.66.130, or former
+AS 11.41.430
+, when committed against a person who, at the time of the offense, was under 18 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-10-010__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>kidnapping;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-10-010__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>distribution of child sexual abuse material in violation of
+AS 11.61.125
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-10-010__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>sex trafficking in violation of
+AS 11.66.110
+ 11.66.130 that is an unclassified, class A, or class B felony or that is committed against a person who, at the time of the offense, was under 20 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-10-010__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>human trafficking in violation of
+AS 11.41.360
+or 11.41.365.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-10-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided by law or in (a) of this section, a person may not be prosecuted, tried, or punished for an offense unless the indictment is found or the information or complaint is instituted not later than</p>
+              </content>
+              <paragraph eId="12-10-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>10 years after the commission of a felony offense in violation of
+AS 11.41.120
+ 11.41.330, 11.41.425(a)(1), 11.41.425(a)(5), 11.41.425(a)(6), or 11.41.450  11.41.458; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-10-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>five years after the commission of any other offense.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-10-020">
+            <num>12.10.020</num>
+            <heading>Specific time limitation.</heading>
+            <subsection eId="12-10-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Even if the general time limitation has expired, a prosecution for any offense that includes a material element of fraud or breach of fiduciary obligation may be commenced within one year after the discovery of the offense by an aggrieved party or by a person who has legal capacity to represent an aggrieved party or a legal duty to report the offense and who is not a party to the offense, but in no case shall this provision extend the period of limitation otherwise applicable by more than three years.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-10-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Even if the general time limitation has expired, a prosecution for any offense based upon misconduct in office by a public officer or employee may be commenced within one year after discovery of the offense by a person having a duty to report such offense, but in no case shall this provision extend the period of limitation otherwise applicable by more than three years.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-10-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 3 ch 86 SLA 2001.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-10-030">
+            <num>12.10.030</num>
+            <heading>When period of limitation runs.</heading>
+            <subsection eId="12-10-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An offense is committed either when every element occurs, or, if a legislative purpose to prohibit a continuing course of conduct plainly appears, at the time when the course of conduct or the defendant's complicity therein is terminated. Time starts to run on the day after the offense is committed.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-10-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A prosecution is commenced either when an indictment is found or when a warrant is issued, provided that such warrant is executed without unreasonable delay.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-10-040">
+            <num>12.10.040</num>
+            <heading>When period of limitation does not run.</heading>
+            <subsection eId="12-10-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The period of limitation does not run during any time when the accused, with a purpose to avoid detection, apprehension, or prosecution, is outside the state or is absent from the accused's usual place of abode within the state, but in no case shall this provision extend the period of limitation otherwise applicable by more than three years.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-10-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The period of limitation does not run during any time when a prosecution against the accused for the same conduct is pending in this state.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-31/chapter-15"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-31/chapter-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="31.15"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-31/chapter-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-31/chapter-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-31/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-31/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_31">
+        <num>31</num>
+        <heading>Oil and Gas</heading>
+        <chapter eId="title_31__chp_15">
+          <num>15</num>
+          <heading>Common Purchasers of Oil</heading>
+          <section eId="sec_31-15-010">
+            <num>31.15.010</num>
+            <heading>Hearing on question of discrimination.</heading>
+            <subsection eId="31-15-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon the complaint of a person having an interest in the production of oil from a field, the commission shall hold a hearing or hearings, or, at the commission's own discretion, the commission may hold a hearing or hearings to determine if there has been unjust and unreasonable discrimination in purchases of oil offered for purchase within the state,</p>
+              </content>
+              <paragraph eId="31-15-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in favor of one or more owners of oil produced as against another owner in the same field; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="31-15-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in favor of one or more fields in reasonably close proximity to each other.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="31-15-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In determining whether there has been unjust and unreasonable discrimination in favor of one or more owners of oil produced from a field, the commission shall consider the kind and quality of the oil, the sales prices of the oil, and other related matters.</p>
+              </content>
+            </subsection>
+            <subsection eId="31-15-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In determining whether there has been unjust and unreasonable discrimination in favor of one or more fields in reasonably close proximity to each other, the commission shall consider the kind and quality of the oil, the sales prices of the oil, the size and location of the fields, the maximum efficient rate of production from the pools, the cost and mode of transporting the oil from the fields, the term of the offerings, and other related matters.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_31-15-020">
+            <num>31.15.020</num>
+            <heading>Determination of common purchaser.</heading>
+            <subsection eId="31-15-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where a purchaser is purchasing from a field and the commission finds that the purchaser has unjustly and unreasonably discriminated in purchases with regard to oil offered for sale in favor of one or more owners of oil produced in the field, the commission shall order the purchaser to be a common purchaser with respect to oil offered for sale from the field.</p>
+              </content>
+            </subsection>
+            <subsection eId="31-15-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Where a purchaser is purchasing from fields in reasonably close proximity to each other and the commission finds that the purchaser has unjustly and unreasonably discriminated in purchases with regard to oil offered for sale in favor of one or more of the fields, the commission shall order the purchaser to be a common purchaser with respect to oil offered for sale from each field involved.</p>
+              </content>
+            </subsection>
+            <subsection eId="31-15-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A purchaser cannot be ordered to be a common purchaser on the basis of purchases of oil taken in kind by the United States or the state, or on the basis of the payment of royalties, overriding royalties, net profits, carried interests or similar interests, whether in kind or in value or on the basis of a producer taking its own production.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_31-15-030">
+            <num>31.15.030</num>
+            <heading>Responsibility of common purchaser.</heading>
+            <subsection eId="31-15-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A common purchaser purchasing in this state shall purchase ratably without unjust and unreasonable discrimination in favor of any owner or producer over any other owner or producer offering to sell oil produced from a field where it is a common purchaser or from fields in reasonably close proximity to each other where it is a common purchaser.</p>
+              </content>
+            </subsection>
+            <subsection eId="31-15-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a purchaser is a common purchaser in more than one field in reasonably close proximity to each other, the commission may order the purchaser to purchase ratably from the fields involved in proportions that will prevent unjust and unreasonable discrimination among the fields.</p>
+              </content>
+            </subsection>
+            <subsection eId="31-15-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commission may make inquiry in each field concerning the connections of the various producers and when unjust and unreasonable discrimination is found to be practiced by any common purchaser as defined in this chapter the commission shall issue an order to the common purchaser to make reasonable extensions of their lines and reasonable connections as will prevent the discrimination.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_31-15-040">
+            <num>31.15.040</num>
+            <heading>Penalty.</heading>
+            <content>
+              <p>Sec. 31.15.040.   Penalty.
+A person violating an order issued under this chapter shall be assessed by the commission a civil penalty of not less than $1,000 nor more than $10,000.  Each day a violation continues constitutes a separate offense.</p>
+            </content>
+          </section>
+          <section eId="sec_31-15-050">
+            <num>31.15.050</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 31.15.050.   Definitions.
+In this chapter,
+(1) commission means the Regulatory Commission of Alaska;
+(2) field means a general area which is underlain or appears to be underlain by at least one pool, and includes the underground reservoir containing oil or gas; and the words pool and field mean the same thing when only one underground reservoir is involved, but field unlike pool may relate to two or more pools;
+(3) oil includes crude petroleum oil and other hydrocarbons regardless of gravity which are produced at the wellhead in liquid form and the liquid hydrocarbons known as distillate or condensate recovered or extracted from gas, other than gas produced in association with oil and commonly known as casinghead gas;
+(4) pool means an underground reservoir containing oil; each zone of a general structure which is completely separated from any other zone in the structure is covered by the term pool;
+(5) purchaser means a person who purchases oil in the state.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

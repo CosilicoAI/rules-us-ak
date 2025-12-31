@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-59"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-59"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.59"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-59/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-59/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-59/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-59/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_59">
+          <num>59</num>
+          <heading>Motor Vehicle Service Corporations and Contracts</heading>
+          <section eId="sec_21-59-010">
+            <num>21.59.010</num>
+            <heading>Applicability.</heading>
+            <subsection eId="21-59-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>AS 21.59.010
+  21.59.090 applies to a person, firm, corporation, or organization providing or intending to provide automobile service corporation services for subscribers in exchange for periodic prepayments by a subscriber.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>AS 21.59.010
+  21.59.090 does not apply to a person issued a certificate of authority under
+AS 21.09
+or to a person issued a provider license under
+AS 21.59.110
+  21.59.290, but only to the extent the person is offering a motor vehicle service contract in this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Other provisions of this title do not apply to an automobile service corporation except as expressly provided in
+AS 21.59.010
+  21.59.090.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-020">
+            <num>21.59.020</num>
+            <heading>Incorporation and certificate of authority required.</heading>
+            <subsection eId="21-59-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person providing or intending to provide automobile service corporation services shall be a corporation currently authorized as an automobile service corporation under a certificate of authority issued by the director under
+AS 21.59.010
+ 21.59.090.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the corporation is to be formed under the laws of this state, the articles of incorporation of the proposed corporation or amendments to existing articles of incorporation shall be submitted to the director before they are filed with the commissioner of commerce, community, and economic development.  The commissioner of commerce, community, and economic development may not file the articles or amendments unless the director's approval is endorsed.  The director shall approve the articles or amendments unless the director finds that the articles or amendments do not comply with law.  If not approved, the director shall return the proposed articles of incorporation to the incorporators or amendments to the corporation, together with a written, detailed statement of the reasons for nonapproval.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-030">
+            <num>21.59.030</num>
+            <heading>Qualifications for certificate of authority.</heading>
+            <content>
+              <p>Sec. 21.59.030.   Qualifications for certificate of authority.
+The director may not issue a certificate of authority to be or act as an automobile service corporation and shall revoke an existing certificate of authority unless the corporation
+(1) if a newly formed corporation, possesses sufficient available working funds to pay all reasonably anticipated costs of acquisition of new business and operating expenses, other than losses, for a period of not less than six months following the date of issuance of the certificate of authority;
+(2) posts with the director a bond in the amount of $50,000, issued by a corporate surety authorized under this title to act as surety and conditioned upon the organization's faithful fulfillment of its contracts; and
+(3) fulfills all other applicable requirements of
+AS 21.59.010
+ 21.59.090.</p>
+            </content>
+          </section>
+          <section eId="sec_21-59-040">
+            <num>21.59.040</num>
+            <heading>Certificate of authority.</heading>
+            <subsection eId="21-59-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Application for a certificate of authority to transact business as an automobile service corporation shall be made to the director, on forms furnished by the director and requiring the information about the applicant, its directors, officers, and affairs as the director may reasonably require consistent with
+AS 21.59.010
+ 21.59.090.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The applicant shall file the following documents with the application:</p>
+              </content>
+              <paragraph eId="21-59-040__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a copy of the applicant's articles of incorporation and all amendments, certified by the appropriate official of the state of incorporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-040__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a copy of the applicant's bylaws, certified by its corporate secretary;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-040__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a copy of each subscriber's contract proposed to be offered;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-040__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>either
+(A) audited financial statements for the three fiscal years immediately preceding the application; or
+(B) a financial statement of the applicant prepared by a certified public accountant and dated not more than 30 days before the filing of the application, showing the amount of working funds available to the applicant, a reconciliation of the net worth or capital account, the source and application of the funds, and any data pertinent to the financial statement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-040__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the bond required under
+AS 21.59.030</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-040__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>or 21.59.050(c); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-040__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a copy of any other relevant document reasonably requested by the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-050">
+            <num>21.59.050</num>
+            <heading>Reserves.</heading>
+            <subsection eId="21-59-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An automobile service corporation shall establish and maintain unimpaired reserves as follows:</p>
+              </content>
+              <paragraph eId="21-59-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a reserve in an amount not less than all legal obligations of the corporation, other than claims originating under subscriber's contracts, due but unpaid;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a reserve equal to not less than the amount necessary by reasonable estimate to pay all claims incurred under subscriber's contracts but currently unpaid, and including a reasonable additional amount to cover claims incurred but not reported to the corporation at the time of determination of the corporation's financial condition; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-050__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a reserve equal to 50 percent of all sums charged and received by the corporation during the calendar period covered by the financial statement, on account of indemnity benefits provided in subscriber's contracts for terms for which premium was last paid and unexpired at the date of the financial statement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-59-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The reserves required under (a) of this section constitute a liability of the corporation in a determination of its financial condition.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Instead of the reserves required by (a) of this section and the bond required by
+AS 21.59.030</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-060">
+            <num>21.59.060</num>
+            <heading>Records and accounts.</heading>
+            <subsection eId="21-59-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An automobile service corporation shall establish and maintain complete and accurate records and accounts covering its transactions and affairs in accordance with generally accepted accounting principles as applied to the business of the corporation.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may accept an audited financial statement instead of the examination required under
+AS 21.06.120
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-070">
+            <num>21.59.070</num>
+            <heading>Other provisions applicable.</heading>
+            <content>
+              <p>Sec. 21.59.070.   Other provisions applicable.
+In addition to the provisions of
+AS 21.59.010
+ 21.59.090, the following provisions of this title shall apply to automobile service corporations, to the extent applicable and not in conflict with the express provisions of
+AS 21.59.010
+ 21.59.090 and the reasonable implications of the express provisions, and, for the purposes of the application, the corporations shall be considered to be stock insurers:
+(1)
+AS 21.03
+;
+(2)
+AS 21.06
+;
+(3)
+AS 21.09.050
+;
+(4)
+AS 21.09.100
+;
+(5)
+AS 21.09.120
+ 21.09.210;
+(6)
+AS 21.09.245
+;
+(7)
+AS 21.09.247
+;
+(8)
+AS 21.12
+;
+(9)
+AS 21.36
+;
+(10)
+AS 21.69
+;
+(11)
+AS 21.78
+;
+(12)
+AS 21.97
+.</p>
+            </content>
+          </section>
+          <section eId="sec_21-59-090">
+            <num>21.59.090</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 21.59.090.   Definitions.
+In
+AS 21.59.010
+ 21.59.090,
+(1) automobile service corporation means a corporation providing all or part of one or more automobile service corporation services for subscribers in exchange for periodic prepayment in identifiable amount by or as to the subscribers;
+(2) automobile service corporation services means any professional service, technical service, replacement of goods that the corporation may become obligated to provide upon a contingent event or a certain event that may occur at an uncertain time and for which a specified single or periodic prepayment is charged or collected, including (A) emergency road service; (B) reimbursement of legal fees for representation on traffic offenses; and (C) providing bail bonds for traffic offenses; an automobile service corporation may provide other services or benefits that do not fall within the definition of automobile service corporation services;
+(3) subscriber's contract means the contract between the automobile service corporation and its subscriber under which all or a part of one or more services is to be rendered to or on behalf of the subscriber by an automobile service corporation or by a provider that has entered into a service agreement with the automobile service corporation.
+Article 2. Motor Vehicle Service Contracts.</p>
+            </content>
+          </section>
+          <section eId="sec_21-59-110">
+            <num>21.59.110</num>
+            <heading>Motor vehicle service contract.</heading>
+            <subsection eId="21-59-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A provider may, for separate or additional consideration, enter into a motor vehicle service contract for a specific duration to</p>
+              </content>
+              <paragraph eId="21-59-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>maintain, service, or repair a motor vehicle for an operational or structural failure due to a defect in materials or workmanship or due to normal wear and tear;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>indemnify for repair, replacement, or maintenance for an operational or structural failure due to a defect in materials or workmanship or normal wear and tear, with or without additional provisions for incidental payment of indemnity for towing, rental, emergency road service, and road hazard protection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>repair or replace tires or wheels on a motor vehicle damaged as a result of coming into contact with road hazards;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>remove dents, dings, or creases on a motor vehicle that can be repaired using the process of paintless dent removal without affecting the existing paint or finish and without replacing vehicle body panels or requiring sanding, bonding, or painting;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>repair chips or cracks in or replace motor vehicle windshields as a result of damage caused by road hazards; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>replace a motor vehicle key or key fob if the key or key fob becomes inoperable or is lost or stolen.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-59-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A motor vehicle service contract may not include coverage for the repair of damage to or replacement of the interior surfaces of a vehicle or for the repair or replacement of the exterior paint or finish of a vehicle.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A motor vehicle service contract marketed, offered for sale, sold, issued, made, or administered in this state must be written, printed, or typed in clear, understandable language, in eight point or larger type, and must include the following:</p>
+              </content>
+              <paragraph eId="21-59-110__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and address of the provider and an administrator if different from the provider, the service contract seller, and the service contract holder to the extent that the name of the service contract holder has been furnished by the service contract holder; names and addresses of the parties are not required to be preprinted on the motor vehicle service contract and may be added to the motor vehicle service contract at the time of sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the provider fee and the terms of the motor vehicle service contract; the provider fee is not required to be preprinted on the service contract and may be negotiated at the time of sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the applicable deductible amount, if any;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a description of the materials and services to be provided and applicable limitations, exceptions, or exclusions, including whether the service contract provides for or excludes consequential damages or preexisting conditions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a description of the obligations and duties of the service contract holder;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>whether the use of nonoriginal manufacturer's parts is allowed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>restrictions on the transferability of the service contract, if applicable; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-110__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the terms for return and cancellation of the service contract.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-120">
+            <num>21.59.120</num>
+            <heading>Exemptions.</heading>
+            <subsection eId="21-59-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The following are exempt from
+AS 21.59.110
+ 21.59.290:</p>
+              </content>
+              <paragraph eId="21-59-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a motor vehicle warranty or a product warranty under 15 U.S.C. 2301  2312 (Magnuson-Moss WarrantyFederal Trade Commission Improvement Act), as amended;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a motor vehicle maintenance agreement; in this paragraph, motor vehicle maintenance agreement means a contract of limited duration that provides only for regular maintenance to a motor vehicle;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a motor vehicle service contract sold or offered for sale to a person other than a consumer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-120__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a subscriber's contract, as defined by
+AS 21.59.090
+, between an automobile service corporation holding a certificate of authority under
+AS 21.59
+and its subscribers that provides for towing, rental car benefits, or emergency road service.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-59-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A motor vehicle manufacturer's motor vehicle service contract that applies to the motor vehicle manufacturer's product is exempt from
+AS 21.59.120
+ 21.59.160 and
+AS 21.59.180
+ 21.59.200.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A motor vehicle manufacturer is exempt from
+AS 21.59.180
+and the license requirement in this title.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-130">
+            <num>21.59.130</num>
+            <heading>Motor vehicle service contract provider; duties.</heading>
+            <subsection eId="21-59-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A provider may not market, offer for sale, sell, issue, or make a motor vehicle service contract in this state unless the provider provides to the motor vehicle service contract holder</p>
+              </content>
+              <paragraph eId="21-59-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a receipt for, or other written evidence of, the purchase of the motor vehicle service contract; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a copy of the motor vehicle service contract within a reasonable time after the date of purchase.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-59-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A provider shall, on request, provide a prospective purchaser with a sample copy of the provider's motor vehicle service contract showing terms and conditions. A provider may comply with this subsection by providing the prospective purchaser with a sample copy of the terms and conditions or by directing the prospective purchaser to an Internet website containing a complete sample of the terms and conditions of the proposed motor vehicle service contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A motor vehicle service contract provider may not use in the provider's name the word insurance, casualty, surety, mutual, or another word that describes insurance, casualty, or surety business activity, or use a name deceptively similar to the name or description of an insurance or surety corporation or another provider; however, the name of a provider may include the word guaranty.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A provider or the provider's representative may not make, or permit or cause to be made, a false or misleading statement or deliberately omit a material statement that would be misleading if omitted in a motor vehicle service contract or literature associated with the contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-130__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person may not require the purchase of a motor vehicle service contract as a condition of a loan or a condition for the sale of a motor vehicle.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-130__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A provider may appoint an administrator or other designee to administer all or a part of a motor vehicle service contract if the provider and administrator have a written agreement that specifically sets out the duties, functions, powers, authority, and compensation of all parties to the agreement. A provider is liable for the acts of an administrator appointed by the provider to assist with the administration of the provider's motor vehicle service contracts to the extent the acts relate to the provider's motor vehicle service contracts offered in or from this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-130__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A provider or a third party acting on the provider's behalf may not make a false, deceptive, or misleading statement in a solicitation, during telemarketing, or in other advertising, including a statement regarding</p>
+              </content>
+              <paragraph eId="21-59-130__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the provider's affiliation with a motor vehicle manufacturer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-130__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>information in the provider's possession regarding a motor vehicle owner's current motor vehicle manufacturer's original equipment warranty;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-130__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the expiration of a motor vehicle owner's current motor vehicle manufacturer's original equipment warranty; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-130__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a requirement that a motor vehicle owner register for a new motor vehicle service contract with the provider to maintain coverage under the motor vehicle owner's current motor vehicle service contract or manufacturer's original equipment warranty.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-140">
+            <num>21.59.140</num>
+            <heading>Provider license; notice to licensee.</heading>
+            <subsection eId="21-59-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A provider of a motor vehicle service contract sold in this state shall file an application for a license with the director on a form prescribed by the director and pay a licensing fee to the director in an amount determined by the director. The application shall include the applicant's name, full address, telephone number, a designated compliance officer, the designation of a person in this state for service of process, and a list of all officers and directors of the applicant. Additionally, an applicant shall file a copy of its basic organizational documents, such as articles of incorporation, articles of organization, articles of association, or a partnership agreement. An applicant shall also provide information required by the director to demonstrate compliance with the requirements of
+AS 21.59.180
+. The applicant shall declare, subject to penalty of denial, nonrenewal, suspension, or revocation of a license issued by the director, that the statements made in or in connection with the application are true, correct, and complete to the best of the applicant's knowledge and belief. The director may not issue a license except in compliance with
+AS 21.59.110
+ 21.59.290 and may not issue a license to a person, or to be exercised by a person, found by the director to be untrustworthy, incompetent, or financially irresponsible, or who has not established to the satisfaction of the director that the person is qualified under
+AS 21.59.110
+ 21.59.290. If the director denies an application for a license, the applicant has the right to request a hearing under
+AS 21.06.170
+ 21.06.240.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a change occurs in the information submitted to the director in an application, a provider shall update the information in the application by sending the changes to the director in writing within 30 days after the change.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A licensee shall report to the director in writing any administrative action taken against the licensee by a governmental agency of another state or by a governmental agency of another jurisdiction within 30 days after the final disposition of the action. A licensee shall submit to the director the final order and other relevant legal documents in the action. A licensee shall report to the director any criminal prosecution of the licensee within 30 days after the date of filing of the criminal complaint, indictment, or citation in the prosecution. The licensee shall submit to the director a copy of the criminal complaint, calendaring order, and other relevant legal documents in the prosecution.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-140__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In addition to any other penalty provided by law, a failure to notify the director as required by this section is cause for denial, nonrenewal, suspension, or revocation of a license.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-150">
+            <num>21.59.150</num>
+            <heading>Provider license renewal, expiration, reinstatement.</heading>
+            <subsection eId="21-59-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A provider may renew a license issued under
+AS 21.59.110
+ 21.59.290 biennially on a date set by the director if the licensee continues to be qualified under
+AS 21.59.110
+ 21.59.290 and, on or before the close of business of the renewal date, meets all renewal requirements established by regulation, and pays the renewal license fees set by the director. A licensee is responsible for knowing the date that a license will expire and for renewing a license on or before that date. The director shall notify the licensee of the impending expiration 30 days before the expiration date. The director may not renew a license except in compliance with
+AS 21.59.110
+ 21.59.290 and may not renew the license of a person, or to be exercised by a person, found by the director to be untrustworthy, incompetent, or financially irresponsible, or who has not established to the satisfaction of the director that the person is qualified under
+AS 21.59.110
+ 21.59.290.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a provider's license is not renewed on or before the expiration date set by the director, the license expires. A licensee may not act as or represent to be a provider during the time a license has expired. The director may reinstate an expired license if the person continues to qualify for the license and pays license renewal fees and a delayed renewal penalty. Reinstatement does not exempt a person from a penalty provided by law for transacting business while unlicensed. A license that has expired for two years or longer may not be renewed.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-160">
+            <num>21.59.160</num>
+            <heading>Administrator registration.</heading>
+            <subsection eId="21-59-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not act as an administrator of motor vehicle service contracts sold in this state unless the person registers with the director by providing the following information:</p>
+              </content>
+              <paragraph eId="21-59-160__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the administrator's name, business address, and other information required by the director; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-160__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the names of the providers for whom the person acts as an administrator.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-59-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A provider that is licensed under
+AS 21.59.110
+ 21.59.290 may administer its own motor vehicle service contract program without registering separately as an administrator. However, if a provider administers another provider's motor vehicle service contract program, the provider shall register as an administrator under this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-170">
+            <num>21.59.170</num>
+            <heading>Return and cancellation.</heading>
+            <subsection eId="21-59-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A motor vehicle service contract must allow the service contract holder to cancel the motor vehicle service contract not later than 30 days after the date that the motor vehicle service contract was delivered to the service contract holder, not later than 10 days after the date of delivery if the motor vehicle service contract is delivered to the service contract holder at the time of sale, or within a longer period, as set out in the motor vehicle service contract. If the service contract holder returns the motor vehicle service contract to the provider within the applicable time period and a claim has not been made under the motor vehicle service contract before the contract is returned to the provider, the motor vehicle service contract is void, and the provider shall refund the full amount of the provider fee to the service contract holder or credit the account of the service contract holder not later than 45 days after the return of the contract to the provider. If the provider does not pay or credit a refund owed under this subsection not later than 45 days after a service contract holder returns a motor vehicle service contract, a penalty in the amount of 10 percent of the provider fee paid by the service contract holder for each month the refund remains unpaid shall be added to the refund. The right to void the motor vehicle service contract provided in this subsection is not transferable and applies only to the original service contract holder for a contract under which a claim is not made before the contract is returned to the provider.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>After the time specified in (a) of this section, or if a claim has been made under the motor vehicle service contract within that time, a service contract holder may cancel the motor vehicle service contract, and the provider shall refund to or credit the account of the contract holder the prorated amount of the unearned provider fee, less any claims paid, not later than 45 days after the return of the service contract to the provider. If the provider does not pay or credit a refund owed under this subsection not later than 45 days after a service contract holder returns a motor vehicle service contract, a penalty in the amount of 10 percent of the unearned provider fee paid by the service contract holder for each month the refund remains unpaid shall be added to the refund. A provider may charge a reasonable cancellation fee not to exceed 7.5 percent of the unearned provider fee paid by the service contract holder.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A motor vehicle service contract shall state the terms, restrictions or conditions governing cancellation of the service contract by the provider. A provider may only cancel a service contract for</p>
+              </content>
+              <paragraph eId="21-59-170__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>nonpayment of the provider fee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-170__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>conviction of the service contract holder of a crime having as one of its necessary elements an act increasing a hazard covered by the service contract;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-170__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>discovery of fraud or material misrepresentation made by the service contract holder or a representative of the service contract holder in obtaining the service contract or by the service contract holder in pursuing a claim under the service contract;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-170__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>discovery of a grossly negligent act or omission by the service contract holder that substantially increases the hazards covered by the service contract;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-170__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>physical changes in the property covered by the service contract that result in the property becoming ineligible for coverage under the contract; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-170__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a substantial breach of duties by the service contract holder related to the covered motor vehicle.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-59-170__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The provider of the service contract shall mail a written notice to the service contract holder at the last known address of the service contract holder contained in the records of the provider at least five days before cancellation by the provider. The notice shall state the effective date of the cancellation and the reason for the cancellation. Prior notice is not required if the reason for cancellation is nonpayment of the provider fee or fraud or a material misrepresentation by the service contract holder in obtaining the service contract or by the service contract holder in pursuing a claim under the service contract. If the provider cancels the service contract, the provider shall refund or credit to the account of the contract holder the prorated amount of the unearned provider fee, less any claims paid, within 45 days after the return of the service contract to the provider. If the provider does not pay or credit a refund owed under this subsection within 45 days after the provider cancels the motor vehicle service contract, a penalty in the amount of 10 percent of the unearned provider fee paid by the service contract holder for each month the refund remains unpaid shall be added to the refund.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-180">
+            <num>21.59.180</num>
+            <heading>Provider's financial responsibility.</heading>
+            <subsection eId="21-59-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To ensure the faithful performance of a provider's obligations to its service contract holders, a provider shall either</p>
+              </content>
+              <paragraph eId="21-59-180__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>obtain from an insurer or risk retention group authorized to transact the business of insurance in the state insurance that either reimburses the provider for obligations arising from a provider's motor vehicle service contract issued in the state or, if the provider fails to perform its obligations under a motor vehicle service contract issued in the state, pays to the service contract holder the provider's covered contractual obligations under the terms of the service contract on behalf of the provider; an insurer issuing a policy under this paragraph must satisfy one of the following:
+(A) maintain surplus as to policyholders and paid-in capital of at least $15,000,000 and annually file with the director copies of the provider's financial statements, its annual statement to the National Association of Insurance Commissioners, and the statement of actuarial opinion and opinion summary required by and filed in the provider's state of domicile; or
+(B) maintain surplus as to policyholders and paid-in capital at least equal to $10,000,000, but not more than $15,000,000, and demonstrate to the satisfaction of the director that the company maintains a ratio of net written premiums, wherever written, to surplus as to policyholders and paid-in capital of not greater than 3 to 1 and annually files with the director copies of the provider's audited financial statements, its annual statement to the National Association of Insurance Commissioners, and the statement of actuarial opinion and opinion summary required by and filed in the provider's state of domicile; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-180__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>maintain, solely or together with the parent company, a net worth or stockholders' equity of $100,000,000 and, upon request by the director, provide the director with a copy of the provider's or the parent company's most recent annual report filed with the United States Securities and Exchange Commission within the last calendar year or, if the company does not file with the United States Securities and Exchange Commission, a copy of the company's audited financial statements, which show a net worth of the provider or its parent company of at least $100,000,000; if the parent company's annual report or financial statements are filed to meet the provider's financial stability requirement, then the parent company shall agree to guarantee the obligations of the provider relating to motor vehicle service contracts sold by the provider in this state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-59-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A motor vehicle service contract provider that has obtained insurance under this section shall state the name and address of the provider and include a statement in substantially the following form: Performance or payment of the obligations of the provider under this service contract are insured. If the provider has not obtained insurance under this section, the service contract shall contain a statement in substantially the following form: Obligations of the provider under this service contract are not insured and are guaranteed only by the assets of the provider.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the provider fails to provide a covered service under the terms of the motor vehicle service contract within 30 days after the service contract holder notifies the provider of the claim, the service contract holder is entitled to apply directly to the insurer for payment of the provider's obligation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-190">
+            <num>21.59.190</num>
+            <heading>Records.</heading>
+            <subsection eId="21-59-190__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provider shall keep accurate accounts, books, and records related to the sale of motor vehicle service contracts, including</p>
+              </content>
+              <paragraph eId="21-59-190__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>copies of each type of motor vehicle service contract sold;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-190__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the name and address of each service contract holder to the extent that the name and address have been furnished by the service contract holder;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-190__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the locations where motor vehicle service contracts are marketed, sold, or offered for sale; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-190__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>claim files describing claims related to the motor vehicle service contracts.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-59-190__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The provider shall retain all records required by this section for at least five years after a motor vehicle service contract has expired.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-190__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Records required to be maintained under this section may be maintained electronically.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-190__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A provider shall reply in writing within 10 working days to a records inquiry of the director. The director may inspect or request summary or detailed copies of records for examination by the division. Accounting and financial records inspected or examined under this section are confidential when in the possession of the division, but may be used by the director in a proceeding against the licensee.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-190__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A provider discontinuing business in this state shall maintain records as required by this section until the provider's obligations to all service contract holders in this state have been discharged.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-200">
+            <num>21.59.200</num>
+            <heading>Examination, investigations, enforcement, and penalties.</heading>
+            <subsection eId="21-59-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director may conduct investigations or examinations of a provider, administrator, insurer, or other person to enforce the provisions of
+AS 21.59.110
+ 21.59.290 and to protect service contract holders in this state in accordance with
+AS 21.06
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may take necessary or appropriate action to enforce this title, to the extent applicable, and protect service contract holders in this state, including the issuance of a cease and desist order, if the director determines that a person has violated a provision of this title, to the extent applicable to the person. A person aggrieved by the cease and desist order may request a hearing under
+AS 21.06.170
+ 21.06.240.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Without prior hearing, the director may order summary suspension of the license of a provider if the director finds that protection of the public requires emergency action and incorporates this finding in an order. The suspension is effective on the date specified in the order or upon mailing by first class mail to the provider's business address on record with the division, whichever is later. If the provider requests a hearing, the director shall conduct a hearing on the suspension within a reasonable time but not later than 20 days after the effective date of the summary suspension unless the person whose license is suspended requests a later date. At the hearing, the director shall determine whether the suspension should be continued or withdrawn, and, if proper notice is given, may determine whether the license should be revoked. The director shall issue a decision within 30 days after the conclusion of the hearing. A suspension or revocation under this section must be based on one or more grounds in
+AS 21.27.410
+or a finding that one or more of the circumstances in (d) of this section continue to exist. The summary suspension continues until the decision is issued.
+AS 21.06.190
+and
+AS 44.64.030
+do not apply to this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-200__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director shall order summary suspension of the license of a provider if one or more of the following circumstances exist:</p>
+              </content>
+              <paragraph eId="21-59-200__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the provider is insolvent or impaired;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-200__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a proceeding for bankruptcy, receivership, conservatorship, or rehabilitation, or another delinquency proceeding regarding the provider has been commenced in any state or by a governmental agency of another jurisdiction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-200__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the provider is in an unsound condition, or is in a condition or using methods or practices that render its further sale of service contracts in the state injurious to service contract holders or the public.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-59-200__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person found to have violated
+AS 21.59.110
+ 21.59.290 may be assessed a civil penalty in an amount determined by the director not to exceed $2,500 for each violation or, if the director determines that the person knowingly violated the provisions of
+AS 21.59.110
+ 21.59.290, $5,000 for each violation. Penalties for violations may not exceed $50,000 in the aggregate for violations of a similar nature, except where the person knowingly violated the provisions of
+AS 21.59.110
+ 21.59.290. In this subsection,</p>
+              </content>
+              <paragraph eId="21-59-200__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>knowingly has the meaning given in
+AS 11.81.900
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-59-200__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>violation of a similar nature means a violation consisting of the same or a similar course of conduct, action, or practice as another violation, notwithstanding the number of times the act, conduct, or practice occurred.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-59-200__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A service contract holder may bring an action in a court of competent jurisdiction for damages, injunctive relief, restitution, or other appropriate relief for a threatened or existing violation relating to the motor vehicle service contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-59-200__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The director may adopt regulations necessary for the implementation and enforcement of
+AS 21.59.110
+ 21.59.290.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-59-290">
+            <num>21.59.290</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 21.59.290.   Definitions.
+In
+AS 21.59.110
+ 21.59.290,
+(1) administrator means a person who is responsible for the administration of a motor vehicle service contract or the motor vehicle service contract plan;
+(2) motor vehicle means a motor vehicle subject to registration under
+AS 28.10.011
+;
+(3) motor vehicle manufacturer means a person that
+(A) manufactures or produces motor vehicles and sells motor vehicles under the person's own name or label;
+(B) is a subsidiary of a person who manufactures or produces motor vehicles;
+(C) is a corporation that owns 100 percent of the person that manufactures motor vehicles;
+(D) sells motor vehicles under the trade name or label of a person that manufactures or produces motor vehicles;
+(E) manufactures and sells motor vehicles under the trade name or label of another person that manufactures or produces motor vehicles; or
+(F) under a written contract, licenses the use of its trade name or label to another person that manufactures motor vehicles and sells motor vehicles under the licensor's trade name or label;
+(4) nonoriginal manufacturer's parts means replacement parts or after market parts not made for or by the original manufacturer of the motor vehicle;
+(5) provider means a person that is contractually obligated to provide motor vehicle services to a service contract holder under the terms of a motor vehicle service contract;
+(6) provider fee means the consideration paid for a motor vehicle service contract;
+(7) road hazard means obstacles in the road, including potholes, rocks, wood debris, metal parts, glass, plastic, curbs, or composite scraps;
+(8) service contract holder means a person who is the purchaser or holder of a motor vehicle service contract;
+(9) warranty means a warranty made solely by the manufacturer, importer, or seller of a motor vehicle without consideration, that is not negotiated or separated from the sale of the motor vehicle and is incidental to the sale of the motor vehicle, and that guarantees indemnity for defective parts, mechanical or electrical breakdown, and labor or other remedial measures, such as repair or replacement of the motor vehicle or repetition of services.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

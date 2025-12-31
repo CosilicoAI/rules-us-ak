@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-50"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-50"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="34.50"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-50/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-50/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_34">
+        <num>34</num>
+        <heading>Property</heading>
+        <chapter eId="title_34__chp_50">
+          <num>50</num>
+          <heading>Actions for Injuries to Property Interests</heading>
+          <section eId="sec_34-50-010">
+            <num>34.50.010</num>
+            <heading>Action for injury to the inheritance.</heading>
+            <content>
+              <p>Sec. 34.50.010.   Action for injury to the inheritance.
+A person seized of an estate in remainder or reversion may maintain a civil action for an injury done to the inheritance, notwithstanding an intervening estate for life or years.</p>
+            </content>
+          </section>
+          <section eId="sec_34-50-020">
+            <num>34.50.020</num>
+            <heading>Renumbered asAS 09.65.255.</heading>
+            <content>
+              <p>Sec. 34.50.020.   Renumbered as
+AS 09.65.255
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-30"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="22.30"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_22">
+        <num>22</num>
+        <heading>Judiciary</heading>
+        <chapter eId="title_22__chp_30">
+          <num>30</num>
+          <heading>Judicial Conduct</heading>
+          <section eId="sec_22-30-010">
+            <num>22.30.010</num>
+            <heading>Commission on Judicial Conduct.</heading>
+            <content>
+              <p>Sec. 22.30.010.   Commission on Judicial Conduct.
+The Commission on Judicial Conduct shall consist of nine members as follows: three persons who are justices or judges of state courts, elected by the justices and judges of the state courts; three members who have practiced law in this state for 10 years, appointed by the governor from nominations made by the governing body of the organized bar and subject to confirmation by a majority of the members of the legislature in joint session; and three citizens who are not judges, retired judges, or members of the state bar, appointed by the governor and subject to confirmation by a majority of the members of the legislature in joint session. Commission membership terminates if a member ceases to hold the position that qualified that person for appointment. A person may not serve on the commission and on the judicial council simultaneously. A quorum of the commission must include at least one person who is a justice or judge, at least one person appointed by the governor who has practiced law in the state for 10 years, and at least one citizen member who is not a justice, judge, or member of the state bar. The commission shall elect one of its members to serve as chairman for a term prescribed by the commission. A vacancy shall be filled by the appointing power for the remainder of the term.</p>
+            </content>
+          </section>
+          <section eId="sec_22-30-011">
+            <num>22.30.011</num>
+            <heading>Powers and duties of the commission.</heading>
+            <subsection eId="22-30-011__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall on its own motion or on receipt of a written complaint inquire into an allegation that a judge</p>
+              </content>
+              <paragraph eId="22-30-011__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has been convicted of a crime punishable as a felony under state or federal law or convicted of a crime that involves moral turpitude under state or federal law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-30-011__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>suffers from a disability that seriously interferes with the performance of judicial duties and that is or may become permanent;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-30-011__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>within a period of not more than six years before the filing of the complaint or before the beginning of the commission's inquiry based on its own motion, committed an act or acts that constitute
+(A) wilful misconduct in office;
+(B) wilful and persistent failure to perform judicial duties;
+(C) conduct prejudicial to the administration of justice;
+(D) conduct that brings the judicial office into disrepute; or
+(E) conduct in violation of the code of judicial conduct; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-30-011__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is habitually intemperate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-30-011__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>After preliminary informal consideration of an allegation, the commission may exonerate the judge, informally and privately admonish the judge, or recommend counseling. Upon a finding of probable cause, the commission shall hold a formal hearing on the allegation. A hearing under this subsection is public. Proceedings and records pertaining to proceedings that occur before the commission holds a public hearing on an allegation are confidential, subject to the provisions of
+AS 22.30.060
+(b).</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-011__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A judge appearing before the commission at the hearing is entitled to counsel, may present evidence, and may cross-examine witnesses.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-011__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commission shall, after a hearing held under (b) of this section,</p>
+              </content>
+              <paragraph eId="22-30-011__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>exonerate the judge of the charges; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-30-011__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>refer the matter to the supreme court with a recommendation that the judge be reprimanded, suspended, removed, or retired from office or publicly or privately censured by the supreme court.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-30-011__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 3 ch 135 SLA 1990.]</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-011__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>[Repealed, § 3 ch 135 SLA 1990.]</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-011__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If the commission exonerates a judge, a copy of the proceedings and report of the commission may be made public on the request of the judge.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-011__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>If a judge has been publicly reprimanded, suspended, or publicly censured under this section and the judge has filed a declaration of candidacy for retention in office, the commission shall report to the judicial council for inclusion in the statement filed by the judicial council under
+AS 15.58.050
+each public reprimand, suspension, or public censure received by the judge</p>
+              </content>
+              <paragraph eId="22-30-011__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>since appointment; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-30-011__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the judge has been retained by election, since the last retention election of the judge.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_22-30-015">
+            <num>22.30.015</num>
+            <heading>Term of office.</heading>
+            <content>
+              <p>Sec. 22.30.015.   Term of office.
+The term of office for a commission member is four years.</p>
+            </content>
+          </section>
+          <section eId="sec_22-30-020">
+            <num>22.30.020</num>
+            <heading>Employment and compensation generally.</heading>
+            <content>
+              <p>Sec. 22.30.020.   Employment and compensation generally.
+The commission may employ officers, assistants, and other employees that it considers necessary for the performance of the duties and exercise of the powers conferred upon the commission; it may arrange for and compensate medical and other experts and reporters, may arrange for the attendance of witnesses, including witnesses not subject to subpoena, and may pay from funds available to it all expenses reasonably necessary for effectuating the purposes of § 10, art. IV, Constitution of the State of Alaska.  The attorney general shall, if requested by the commission, act as its counsel generally or in any particular investigation or proceeding. The commission may employ special counsel from time to time when it considers it necessary.</p>
+            </content>
+          </section>
+          <section eId="sec_22-30-030">
+            <num>22.30.030</num>
+            <heading>Travel expenses and per diem.</heading>
+            <content>
+              <p>Sec. 22.30.030.   Travel expenses and per diem.
+Each member of the commission shall be allowed travel expenses and per diem as provided by
+AS 39.20.180
+, but may not receive compensation for services.</p>
+            </content>
+          </section>
+          <section eId="sec_22-30-040">
+            <num>22.30.040</num>
+            <heading>Preparation of budget.</heading>
+            <content>
+              <p>Sec. 22.30.040.   Preparation of budget.
+The commission shall be responsible for preparing and presenting to the legislature its proposed annual budgets.</p>
+            </content>
+          </section>
+          <section eId="sec_22-30-050">
+            <num>22.30.050</num>
+            <heading>Validity of acts of the commission.</heading>
+            <content>
+              <p>Sec. 22.30.050.   Validity of acts of the commission.
+An act of the commission is not valid unless concurred in by a majority of the members serving on the commission at the time the act is taken.</p>
+            </content>
+          </section>
+          <section eId="sec_22-30-060">
+            <num>22.30.060</num>
+            <heading>Rules and confidentiality.</heading>
+            <subsection eId="22-30-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall adopt rules implementing this chapter and providing for confidentiality of proceedings.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All proceedings, records, files, and reports of the commission are confidential and disclosure may not be made except</p>
+              </content>
+              <paragraph eId="22-30-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>upon waiver in writing by the judge at any stage of the proceedings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-30-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the subject matter or the fact of the filing of charges has become public, in which case the commission may issue a statement in order to confirm the pendency of the investigation, to clarify the procedural aspects of the proceedings, to explain the right of the judge to a fair hearing, or to state that the judge denies the allegations; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-30-060__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>upon filing of formal charges, in which case only the charges, the subsequent formal hearing, and the commission's ultimate decision and minority report, if any, are public; even after formal charges are filed, the deliberations of the commission concerning the case are confidential.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_22-30-066">
+            <num>22.30.066</num>
+            <heading>Inquiry.</heading>
+            <subsection eId="22-30-066__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission may subpoena witnesses, administer oaths, take the testimony of any person under oath, and require the production for examination of documents or records relating to its inquiry under
+AS 22.30.011
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-066__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In the course of an inquiry under
+AS 22.30.011
+into judicial misconduct or the disability of a judge, the commission may request the judge to submit to a physical or mental examination.  If the judge refuses to submit to the examination, the commission shall determine the issue for which the examination was required adversely to the judge.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-30-068">
+            <num>22.30.068</num>
+            <heading>Minority reports.</heading>
+            <subsection eId="22-30-068__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>may submit a report recommending a different disciplinary measure. The report shall accompany the majority report and may be submitted by the member to the chief justice of the supreme court, the attorney general, and the chair of the senate and house judiciary committees.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-30-070">
+            <num>22.30.070</num>
+            <heading>Disqualification, suspension, removal, retirement, and censure of judges.</heading>
+            <subsection eId="22-30-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A judge is disqualified from acting as a judge, without loss of salary, while there is pending (1) an indictment or an information charging the judge in the United States with a crime punishable as a felony under Alaska or federal law, or (2) a recommendation to the supreme court by the commission for the removal or retirement of the judge.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>On recommendation of the commission, the supreme court may reprimand, publicly or privately censure, or suspend a judge from office without salary when in the United States the judge pleads guilty or no contest or is found guilty of a crime punishable as a felony under state or federal law or of a crime that involves moral turpitude under state or federal law. If the conviction is reversed, suspension terminates, and the judge shall be paid the judge's salary for the period of suspension. If the judge is suspended and the conviction becomes final, the supreme court shall remove the judge from office.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>On recommendation of the commission, the supreme court may (1) retire a judge for disability that seriously interferes with the performance of duties and that is or may become permanent, and (2) reprimand, publicly or privately censure, or remove a judge for action occurring not more than six years before the commencement of the judge's current term which constitutes wilful misconduct in the office, wilful and persistent failure to perform duties, habitual intemperance, conduct prejudicial to the administration of justice, or conduct that brings the judicial office into disrepute. The effective date of retirement under (1) of this subsection is the first day of the month coinciding with or after the date that the supreme court files written notice with the commissioner of administration that the judge was retired for disability. A duplicate copy of the notice shall be filed with the judicial council.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A judge retired by the supreme court shall be considered to have retired voluntarily.  A judge removed by the supreme court is ineligible for judicial office for a period of three years.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-30-070__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A supreme court justice who has participated in proceedings involving a judge or justice of any court may not participate in an appeal involving that judge or justice in that particular matter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-30-080">
+            <num>22.30.080</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 22.30.080.   Definitions.
+In this chapter,
+(1) commission means the Commission on Judicial Conduct provided for in § 10, art. IV, Constitution of the State of Alaska and this chapter;
+(2) judge means a justice of the supreme court, a judge of the court of appeals, a judge of the superior court, or a judge of the district court who is the subject of an investigation or proceeding under § 10, art. IV, Constitution of the State of Alaska and this chapter, including a justice or judge who is serving in a full-time, part-time, permanent, or temporary position.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

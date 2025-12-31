@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-41"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-41"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.41"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-41/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-41/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-41/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-41/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_41">
+          <num>41</num>
+          <heading>Department of Public Safety</heading>
+          <section eId="sec_44-41-010">
+            <num>44.41.010</num>
+            <heading>Commissioner of public safety.</heading>
+            <content>
+              <p>Sec. 44.41.010.   Commissioner of public safety.
+The principal executive officer of the Department of Public Safety is the commissioner of public safety.</p>
+            </content>
+          </section>
+          <section eId="sec_44-41-020">
+            <num>44.41.020</num>
+            <heading>Powers and duties of department.</heading>
+            <subsection eId="44-41-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Public Safety shall administer functions relative to the protection of life and property, including functions relating to transfer of a firearm. The department may enter into agreements with nonprofit organizations and federal and local government agencies to train personnel of those agencies in the protection of life and property. The department may charge a reasonable fee for services provided under a training agreement or for services relating to transfer of a firearm.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may enter into agreements with federal and local government agencies to provide a statewide criminal justice information system. Reasonable fees may be charged by the department to cover the costs of providing services under these agreements, including maintenance of terminal hardware and network connect charges.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall establish, and may require state and local law enforcement agencies to use, standardized methods of collecting and recording law enforcement and crime statistics.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Department of Public Safety may operate state housing in support of the department's statutory responsibilities and charge rent consistent with applicable collective bargaining agreements, or, if no collective bargaining agreement is applicable, competitive with market conditions.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 8 ch 55 SLA 2012]</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The Department of Public Safety shall establish by regulation standardized forms for citations issued by law enforcement officers and other persons authorized by law to issue citations in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-020__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The Department of Public Safety shall manage and administer the peace officer and firefighter survivors fund established in
+AS 39.60.010
+in cooperation with the Department of Administration. The Department of Public Safety shall establish standardized procedures and forms for use in administering the peace officer and firefighter survivors fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-020__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The Department of Public Safety shall provide administrative services to the Violent Crimes Compensation Board.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The Department of Public Safety shall publish on the department's Internet website the department's current policies and procedures related to the conduct of peace officers employed by the deprtment and village public safety officers.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-020__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The Department of Public Safety is not required to publish policies and procedures under (i) of this section if publishing the policies and procedures</p>
+              </content>
+              <paragraph eId="44-41-020__subsec_j__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>would disclose confidential techniques and procedures for law enforcement investigations or prosecutions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-020__subsec_j__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>would disclose guidelines for law enforcement investigations or prosecutions and the disclosure could reasonably be expected to risk circumvention of the law; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-020__subsec_j__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>could reasonably be expected to endanger the life or physical safety of an individual.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-020__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Within 60 days after the first report concerning a missing person is filed with a local or state law enforcement agency, if the person's location has not been determined, the Department of Public Safety shall submit a missing person report to the National Missing and Unidentified Persons System database.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-41-021">
+            <num>44.41.021</num>
+            <heading>Grant authority.</heading>
+            <content>
+              <p>Sec. 44.41.021.   Grant authority.
+The Department of Public Safety may award grants necessary or incidental to the performance of the duties and execution of the powers of the division of fire prevention.</p>
+            </content>
+          </section>
+          <section eId="sec_44-41-023">
+            <num>44.41.023</num>
+            <heading>Investigators for missing and murdered indigenous persons.</heading>
+            <content>
+              <p>Sec. 44.41.023.   Investigators for missing and murdered indigenous persons.
+The Department of Public Safety shall employ at least two persons in the department to investigate cases involving missing and murdered indigenous persons and act as liaisons between law enforcement agencies, communities in the state, and federally recognized tribes.</p>
+            </content>
+          </section>
+          <section eId="sec_44-41-025">
+            <num>44.41.025</num>
+            <heading>Fingerprints.</heading>
+            <subsection eId="44-41-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Public Safety may maintain an automated fingerprint system.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner of public safety may establish by regulation and the Department of Public Safety may charge a reasonable fee to be paid by a person requesting information from the Alaska automated fingerprint system and by a person submitting fingerprints under (d) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may enter into the Alaska automated fingerprint identification system the fingerprints of a minor whose fingerprints are taken under
+AS 47.12.210
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-025__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Each of the following may submit a complete set of fingerprints of the person designated for inclusion in the Alaska automated fingerprint system:</p>
+              </content>
+              <paragraph eId="44-41-025__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person may submit the person's own fingerprints;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-025__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the parent or guardian of a minor who is two years of age or older may submit the minor's fingerprints; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-025__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the guardian or conservator of a person under
+AS 13.26
+may submit the fingerprints of the person protected by the guardian or conservator.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-025__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The commissioner may maintain the fingerprint sets of minors who are under 14 years of age submitted under (d)(2) of this section in a file separate from the general file for all other fingerprints maintained under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-025__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Upon request by a person who is 18 years of age or older, the commissioner shall remove from the records of the Alaska automated fingerprint system the complete set of the person's fingerprints submitted by the parent or guardian of the person under (d)(2) of this section. The regulations must establish a procedure for the submission of a request under this subsection and for notification that the fingerprint set has been removed from the records in response to the request.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-41-035">
+            <num>44.41.035</num>
+            <heading>DNA identification system.</heading>
+            <subsection eId="44-41-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To support criminal justice services in this state, the Department of Public Safety shall establish a deoxyribonucleic acid (DNA) identification registration system.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Public Safety shall collect for inclusion into the DNA identification registration system a blood sample, oral sample, or both, from (1) a person convicted in this state of a crime against a person or a felony under
+AS 11
+,
+AS 26.05
+, or
+AS 28.35
+, or a law or ordinance with elements similar to a crime against a person or a felony under
+AS 11
+,
+AS 26.05
+, or
+AS 28.35
+, (2) a minor adjudicated as a delinquent in this state for an act committed when the minor was 16 years of age or older that would be a crime against a person or a felony under
+AS 11
+,
+AS 26.05
+, or
+AS 28.35
+if committed by an adult, or for an act that would violate a law or ordinance with elements similar to a crime against a person or a felony under
+AS 11
+,
+AS 26.05
+, or
+AS 28.35
+if committed by an adult, (3) a voluntary donor, (4) an anonymous DNA donor for use in forensic validation, forensic protocol development, quality control, or population or statistical data bases, (5) a person required to register as a sex offender or child kidnapper under
+AS 12.63
+, and (6) a person arrested for a crime against a person or a felony under
+AS 11
+,
+AS 26.05
+, or
+AS 28.35
+, or a law or ordinance with elements similar to a crime against a person or a felony under
+AS 11
+,
+AS 26.05
+, or
+AS 28.35
+. The department also may collect for inclusion into the DNA identification registration system a blood sample, oral sample, or tissue sample from crime scene evidence or from unidentified human remains. The DNA identification registration system consists of the blood, oral, or tissue samples drawn under this section, any DNA or other blood grouping tests done on those samples, and the identification data related to the samples or tests. Blood samples, oral samples, and tissue samples not subject to testing under this section, and test or identification data related to those samples, may not be entered into, or made a part of, the DNA identification registration system.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department of Public Safety may</p>
+              </content>
+              <paragraph eId="44-41-035__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>analyze DNA for law enforcement agencies; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>assist law enforcement officials and prosecutors in the preparation and use of DNA evidence for presentation in court.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-035__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in (e) of this section, a local law enforcement agency may not establish or operate a DNA identification registration system unless</p>
+              </content>
+              <paragraph eId="44-41-035__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the equipment and the DNA typing method of the local system are compatible with that of the state system under (a) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the local system is equipped to receive and answer inquiries from the department's DNA identification registration system and transmit data to the department's DNA identification registration system; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>procedure and rules for the collection, analysis, storage, expungement, and use of DNA identification data do not conflict with this section and procedures and rules applicable to the department's DNA identification registration system.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-035__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Nothing in (d) of this section prohibits a local law enforcement agency from performing DNA identification analysis in individual cases to assist law enforcement officials and prosecutors in the preparation and use of DNA evidence for presentation in court.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The DNA identification registration system is confidential, is not a public record under
+AS 40.25.110
+ 40.25.140, and may be used only for</p>
+              </content>
+              <paragraph eId="44-41-035__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>providing DNA or other blood grouping tests for identification analysis;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>criminal investigations, prosecutions, and identification of human remains;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>statistical blind analysis;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_f__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>improving the operation of the system; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_f__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>exoneration of the innocent.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-035__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A person or minor from whom a sample has been collected under this section</p>
+              </content>
+              <paragraph eId="44-41-035__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may inspect and obtain a copy of the identification data regarding the person or minor contained within the DNA identification registration system; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may request the Department of Public Safety to destroy the material in the system regarding the person or minor under the provisions described in (i) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-035__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The Department of Public Safety shall adopt reasonable procedures</p>
+              </content>
+              <paragraph eId="44-41-035__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for the collection, analysis, storage, expungement, and use of the DNA identification registration system; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to protect the DNA identification registration system established under this section from unauthorized access and from accidental or deliberate damage by theft, sabotage, fire, flood, wind, or power failure.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-035__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The Department of Public Safety shall destroy the material in the system relating to a person or minor on the written request of the person or minor, if the request is accompanied by a certified copy of a court order making the written findings required by this subsection. The court shall issue an order under this subsection if the person's or minor's DNA was included in the system under</p>
+              </content>
+              <paragraph eId="44-41-035__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>(b)(1) or (2) of this section, and the court order establishes that
+(A) the conviction or adjudication that subjected the person to having a sample taken under this section was reversed; and
+(B) the person</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-035__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>was not retried, readjudicated, or convicted or adjudicated for another crime that requires having a sample taken under this section; or
+(ii) after retrial, was acquitted of the crime or, after readjudication for the crime, was not found to be a delinquent, and was not convicted or adjudicated for another crime that requires a sample under this section;</p>
+              </content>
+              <paragraph eId="44-41-035__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>(b)(6) of this section, and the court order establishes that
+(A) the person arrested was released without being charged;
+(B) the criminal complaint, indictment, presentment, or information for the offense for which the person was arrested was dismissed, and a criminal complaint, indictment, presentment, or information for an offense requiring submission of a DNA sample was not refiled; or
+(C) the person was found by the trier of fact to be not guilty of the offense for which the person was arrested and was not convicted of another offense requiring submission of a DNA sample under (b)(1) or (2) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-035__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The Department of Public Safety may adopt regulations to carry out the purposes of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The provisions of this section apply to a person or a minor from another state that this state has accepted under any interstate corrections or probation agreement or compact, regardless of whether the person or minor is confined or released, if the person was convicted of or the minor was adjudicated for an offense that is similar to an offense described in (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>The Department of Public Safety may not include in the DNA identification registration system a blood sample, oral sample, or tissue sample of the victim of a crime, unless that person would otherwise be included under (b)(1)  (6) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>The commissioner of public safety shall notify the president of the senate and the speaker of the house of representatives if, at any time after July 1, 2003, the federal government fails to pay the costs of the DNA identification registration system.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>A juvenile or adult correctional, probation, or parole officer or a peace officer may use reasonable force to collect an oral sample for inclusion into the DNA identification registration system from a person required to submit to collection of a sample under this section,
+AS 12.55.015
+(h), 12.55.100(d),
+AS 33.16.150
+(a), or another law.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>A person or minor may not bring a civil action against the state or a municipality, or their employees or agents, for actions arising out of DNA collection in conformity with this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>The department shall make every reasonable effort to process each sample collected from a person under (b)(1), (b)(2), (b)(5), and (b)(6) of this section and include the identification data resulting from the testing of the sample in the DNA identification registration system within 90 days after receiving the sample.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>A DNA sample collected or placed in the DNA identification registration system that was taken or retained in good faith may be used as provided by law in a criminal investigation. Evidence obtained from a match from a data collection system may be used in a criminal prosecution or juvenile adjudication if the DNA sample was taken or retained in good faith, even if the DNA sample is later removed from the DNA identification registration system.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_r">
+              <num>(r)</num>
+              <content>
+                <p>If a sample collected under (b) of this section does not contain sufficient material necessary to obtain an accurate DNA identification authorized under this section, the Department of Public Safety or other agency authorized by the Department of Public Safety may collect another sample.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-035__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="44-41-035__subsec_s__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>convicted means that an adult, or a juvenile charged as an adult under
+AS 47.12
+or a similar procedure in another jurisdiction, has entered a plea of guilty, guilty but mentally ill, or nolo contendere, or has been found guilty, or guilty but mentally ill, by a court or jury, regardless of whether the judgment was set aside under
+AS 12.55.085
+or a similar procedure in another jurisdiction or was the subject of a pardon or other executive clemency; a person is not convicted if the judgment against the person was reversed or vacated by a court;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_s__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>crime against a person means an offense, or an attempt or solicitation to commit an offense, under
+AS 11.41
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-035__subsec_s__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>oral sample means a sample taken from the mouth of a person that consists of saliva or tissue, or both, as is determined by the Department of Public Safety to be necessary to obtain an accurate DNA identification and to otherwise achieve the purposes of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_44-41-045">
+            <num>44.41.045</num>
+            <heading>Reports and records concerning involuntary commitment and adjudication of mental illness or mental incompetence.</heading>
+            <subsection eId="44-41-045__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon receiving information under
+AS 47.30.907
+, the Department of Public Safety shall transmit the information to the United States Department of Justice for inclusion in the National Instant Criminal Background Check System established under P.L. 103-159, 107 Stat. 1536 (Brady Handgun Violence Prevention Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In transmitting information to the National Instant Criminal Background Check System under (a) of this section, the Department of Public Safety may not disclose diagnostic or treatment information regarding the person.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-045__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department of Public Safety may not use or permit the use of the information obtained or retained under this section for a purpose not specified in this section, except that the department may use the information to determine whether a person is qualified to receive and hold a permit to carry a concealed handgun under
+AS 18.65.705
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-045__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Information obtained or retained under this section is confidential and is not a public record.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-41-050">
+            <num>44.41.050</num>
+            <heading>Uniform homicide reporting.</heading>
+            <subsection eId="44-41-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A law enforcement agency shall report each homicide or suspected homicide committed within the jurisdiction of the agency to the Department of Public Safety within 25 days of the homicide's discovery. The report shall be on a form approved by the commissioner of public safety and must contain information as determined by the commissioner to be necessary to aid law enforcement personnel in comparing homicides and suspected homicides and discovering those that exhibit similar characteristics. If the Department of Public Safety determines that a homicide or suspected homicide meets the Violent Criminals Apprehension Program criteria, the department shall notify the law enforcement agency that submitted the report, and the agency shall complete and forward to the department within 30 days a Federal Bureau of Investigation Violent Criminals Apprehension Program form.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Public Safety shall enter the information submitted under (a) of this section into a file and shall compare the information to information on other homicides or suspected homicides for the purpose of discovering similarities in criminal methods and suspect descriptions. If the Department of Public Safety finds homicides exhibiting similar criminal methods or suspect descriptions, the department shall notify the concerned law enforcement agencies of the discoveries.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a law enforcement agency terminates active investigation of a homicide or suspected homicide due to the arrest of a suspect, death of the primary suspect, or other reason, the agency shall notify the Department of Public Safety of the termination and the reason for the termination within 30 days following the termination.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Department of Public Safety shall participate in the Federal Bureau of Investigation, Violent Criminals Apprehension Program. The Department of Public Safety shall transmit each Violent Criminals Apprehension Program report received under (a) of this section concerning homicides or suspected homicides, discoveries under (b) of this section of homicides exhibiting similar criminal methods or suspect descriptions, and notices of and reasons for termination of investigations of homicides received under (c) of this section to the Federal Bureau of Investigation, Violent Criminals Apprehension Program manager, at least on a quarterly basis.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-41-060">
+            <num>44.41.060</num>
+            <heading>Missing vulnerable adult prompt response and notification plans.</heading>
+            <subsection eId="44-41-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Public Safety, in cooperation with the Department of Military and Veterans' Affairs, shall, using statewide and local radio and television broadcasts, newspapers, and other communications media,</p>
+              </content>
+              <paragraph eId="44-41-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>develop and implement missing vulnerable adult prompt response and notification plans for use by law enforcement agencies, groups, and persons to locate a vulnerable adult who is missing; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>coordinate the use of those plans.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The plans required by (a) of this section must at least include standards for</p>
+              </content>
+              <paragraph eId="44-41-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>determining when and where to implement a plan; standards developed under this paragraph must at least address
+(A) when a vulnerable adult will be considered missing; and
+(B) the format, contents, and distribution of reports prepared by participating law enforcement agencies and others searching for a missing vulnerable adult; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>voluntary participation in the plan by radio and television broadcasters, newspaper publishers, and owners and operators of other communications media.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding another provision of law,</p>
+              </content>
+              <paragraph eId="44-41-060__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a law enforcement agency, an officer or employee of the law enforcement agency, a person, or a group is not civilly liable for
+(A) failing to participate in a missing vulnerable adult prompt response and notification plan;
+(B) failing to implement a missing vulnerable adult prompt response and notification plan; or
+(C) activating a missing vulnerable adult prompt response and notification plan if implementation is undertaken in good faith;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-060__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a radio or television broadcaster, a newspaper publisher, or an owner or operator of other communications media is not civilly liable for participating in a missing vulnerable adult prompt response and notification plan or for participating in the actual implementation of a plan if the broadcaster, publisher, or owner or operator has verified the authenticity of the plan's implementation with the law enforcement agency.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, vulnerable adult means a person 18 years of age or older who, because of physical or mental impairment, is unable to meet the person's own needs or to seek help without assistance.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-41-065">
+            <num>44.41.065</num>
+            <heading>Sexual assault examination kits.</heading>
+            <subsection eId="44-41-065__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a law enforcement agency collects a sexual assault examination kit under
+AS 18.68.010
+, the agency shall</p>
+              </content>
+              <paragraph eId="44-41-065__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>within 30 days after the agency collects the sexual assault examination kit, send the sexual assault examination kit to an accredited laboratory in coordination with the Department of Public Safety or a laboratory operated by the Department of Public Safety;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-065__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>ensure that the laboratory to which the sexual assault examination kit is sent under (1) of this subsection conducts a serological or DNA test on the sexual assault examination kit within six months after the laboratory receives the sexual assault examination kit; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-065__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>within two weeks after the laboratory that receives the sexual assault examination kit under (1) of this subsection completes serological or DNA testing, make a reasonable effort to notify the victim from whom the sexual assault examination kit was collected that the sexual assault examination kit has been tested.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-065__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A criminal action may not be dismissed nor the evidence deemed nonadmissible for failure to be tested within the times established in (a)(1) and (2) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-065__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a case is resolved before a sexual assault examination kit is tested, a law enforcement agency is not required to meet the time limits established in (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-065__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="44-41-065__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>law enforcement agency and agency have the meaning given to law enforcement agency in
+AS 12.36.090
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-065__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>victim has the meaning given in
+AS 11.41.470
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_44-41-070">
+            <num>44.41.070</num>
+            <heading>Report on untested sexual assault examination kits.</heading>
+            <subsection eId="44-41-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>By September 1 of each year, each law enforcement agency and state department charged with the maintenance, storage, and preservation of sexual assault examination kits shall conduct an inventory of untested sexual assault examination kits and report, in writing, to the Department of Public Safety the number of untested sexual assault examination kits in the possession of the agency or department, the number of sexual assault examination kits that the law enforcement agency or state department has determined are ineligible for testing under (e) of this section, with the reason or reasons the untested sexual assault examination kits were determined to be ineligible for testing, and the date on which each untested sexual assault examination kit was collected.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>By November 1 of each year, the Department of Public Safety shall prepare and transmit a report to the president of the senate and the speaker of the house of representatives that contains</p>
+              </content>
+              <paragraph eId="44-41-070__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the number of untested sexual assault examination kits stored by each law enforcement agency or department and the number of sexual assault examination kits that the law enforcement agency or state department has determined are ineligible for testing under (e) of this section, with the reason or reasons the untested sexual assault examination kits were determined to be ineligible for testing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-070__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the date each untested sexual assault examination kit was collected; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-070__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a plan for addressing the backlog and prevention of a backlog of untested sexual assault examination kits.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department of Public Safety shall deliver a copy of the report prepared under (b) of this section to the senate secretary and the chief clerk of the house of representatives and notify the legislature that the report is available.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, untested sexual assault examination kit means a sexual assault examination kit with evidence that</p>
+              </content>
+              <paragraph eId="44-41-070__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has been collected but that has not been submitted to a laboratory operated or approved by the Department of Public Safety for either a serological or DNA test; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-070__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has been collected and submitted to a laboratory operated or approved by the Department of Public Safety but that has not had a serological or DNA test conducted on the evidence.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-070__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A sexual assault examination kit is ineligible for testing if the law enforcement agency or state department finds that the sexual assault examination kit</p>
+              </content>
+              <paragraph eId="44-41-070__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is scientifically unviable;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-070__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>does not meet eligibility requirements for inclusion in the Combined DNA Index System database; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-070__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>was collected from a person who reported a sexual assault anonymously.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_44-41-140">
+            <num>44.41.140</num>
+            <heading>Missing and Murdered Indigenous Persons Review Commission.</heading>
+            <subsection eId="44-41-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Missing and Murdered Indigenous Persons Review Commission is established in the Department of Public Safety.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission consists of nine members, including</p>
+              </content>
+              <paragraph eId="44-41-140__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the commissioner of public safety, or the commissioner's designee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-140__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the commissioner of family and community services, or the commissioner's designee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-140__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>one member from a municipal police department, appointed by the governor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-140__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>one member who is a village public safety officer, village public officer, or tribal police officer, appointed by the governor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-140__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>one member from a victim advocacy organization or similar service provider, appointed by the governor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-140__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>one member from an Alaska Native tribal organization or entity, appointed by the governor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-140__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>two members from the legislature, serving as ex officio nonvoting members, one of whom shall be appointed by the president of the senate and one of whom shall be appointed by the speaker of the house of representatives; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-140__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>one member who is a prosecutor with prosecutorial experience in homicide cases, appointed by the attorney general.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Public members of the commission appointed under (a)(3)  (6) and (8) of this section serve for three years and may not serve more than two consecutive terms on the commission.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Vacancies on the commission shall be filled in the same manner as original appointment.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The commissioner of public safety or the commissioner's designee is the chair of the commission.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Members of the commission receive no compensation but are entitled to per diem and travel expenses authorized for boards and commissions under
+AS 39.20.180
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The commission shall review unresolved cases involving missing and murdered indigenous persons from different state regions that are identified by the Department of Public Safety to</p>
+              </content>
+              <paragraph eId="44-41-140__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>examine the trends and patterns related to missing and murdered indigenous persons; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-41-140__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>make policy, practice, and service recommendations to the Department of Public Safety to encourage collaboration and reduce cases involving indigenous persons.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-41-140__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A person attending a meeting of the commission or a member or staff of the commission may not disclose information obtained during the review of a case by the commission.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Documents, materials, and reports obtained or compiled by the commission or a designated representative of the commission in the course of reviewing a case involving a missing or murdered indigenous person under this section are confidential and are not public records under
+AS 40.25.110
+ 40.25.125 or subject to discovery or subpoena in connection with a criminal or civil proceeding. A person may not be compelled to disclose information relating to the documents, materials, and reports through subpoena, discovery, or testimony in a criminal or civil proceeding. Nothing in this subsection prohibits a member of the commission from prosecuting a criminal case or otherwise participating in a civil or criminal proceeding as part of, or relating to, the member's normal course of employment if the criminal case or civil or criminal proceeding involves a case reviewed by the commission. The confidential status of documents, materials, or reports obtained by the commission does not preclude the discoverability or subpoena of those documents, materials, or reports from other agencies or sources. This section does not affect whether a document, material, or report obtained or compiled by the commission is otherwise publicly available.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>A member of the commission who knowingly uses documents, materials, reports, or information for a purpose not authorized under (g) or (n) of this section or discloses information in violation of this section is subject to a civil penalty of not more than $500 for each instance of unauthorized use or disclosure.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Meetings of the commission are closed to the public and not subject to the provisions of
+AS 44.62.310
+ 44.62.319 (Open Meetings Act). Meetings shall take place not less than four times each calendar year, at least one of which shall take place in person.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>The Department of Public Safety shall confer with the commission to establish standardized methods for investigating missing person reports, including for investigating missing persons reports and data collection for cases involving missing indigenous persons.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>The Department of Public Safety may collaborate with the commission for public outreach purposes.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>The commission shall prepare a report of the commission's findings and recommendations. Not later than January 1 every three years, the commission shall submit the report to the senate secretary and chief clerk of the house of representatives and notify the legislature that the report is available. The commission shall make the report publicly available through the Department of Public Safety.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-41-140__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>In this section, commission means the Missing and Murdered Indigenous Persons Review Commission.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

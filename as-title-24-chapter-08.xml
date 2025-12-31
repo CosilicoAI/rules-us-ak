@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-08"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-08"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="24.08"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-08/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-08/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-08/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-08/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_24">
+        <num>24</num>
+        <heading>Legislature and Lobbying</heading>
+        <chapter eId="title_24__chp_08">
+          <num>08</num>
+          <heading>Enactments</heading>
+          <section eId="sec_24-08-010">
+            <num>24.08.010</num>
+            <heading>General procedure.</heading>
+            <content>
+              <p>Sec. 24.08.010.   General procedure.
+The procedure for handling bills from the time of their prefiling or introduction until they become law is provided in this chapter subject to implementing rules adopted by the legislature.  Resolutions shall be handled in accordance with the provisions of the uniform rules of the legislature.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-020">
+            <num>24.08.020</num>
+            <heading>Subject of bills.</heading>
+            <content>
+              <p>Sec. 24.08.020.   Subject of bills.
+The subject of each bill shall be expressed in its title and every bill shall be confined to one subject unless it is an appropriation bill or one codifying, revising, or rearranging existing laws.  The limitation to one subject shall be liberally construed to permit the subject to include all matters that reasonably can be considered germane to the subject in accomplishing the legal objective of the bill.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-030">
+            <num>24.08.030</num>
+            <heading>Appropriation bills.</heading>
+            <content>
+              <p>Sec. 24.08.030.   Appropriation bills.
+Bills for appropriation shall be confined to appropriations and shall include the amount involved and the purpose, method, manner, and other related conditions of payment.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-035">
+            <num>24.08.035</num>
+            <heading>Fiscal notes on bills.</heading>
+            <subsection eId="24-08-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before a bill or resolution, except an appropriation bill, is reported from the committee of first referral, there shall be attached to the bill a fiscal note containing an estimate of the amount of the appropriation increase or decrease that would result from enactment of the bill for the current fiscal year and five succeeding fiscal years or, if the bill has no fiscal impact, a statement to that effect shall be attached. The fiscal note or statement shall be prepared in conformity with the requirements of this section by the department or departments affected and may be reviewed by the office of management and budget. The fiscal note or statement shall be delivered to the committee requesting it within three days of the request. If the bill is presented by the governor for introduction in accordance with
+AS 24.08.060</p>
+              </content>
+            </subsection>
+            <subsection eId="24-08-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and the uniform rules of the legislature, the fiscal note or statement shall be attached to the bill before the bill is introduced. An amendment or a substitute bill proposed by a committee of referral that changes the fiscal impact of a bill shall be explained in a revised fiscal note or statement attached to the bill.</p>
+              </content>
+            </subsection>
+            <subsection eId="24-08-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to the fiscal note required by this section, the sponsor of a bill or resolution may prepare a fiscal note in conformity with the requirements of this section and submit it to the committee of first referral or the finance committee. A committee may prepare an additional fiscal note in conformity with the requirements of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="24-08-035__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A fiscal note for a bill or resolution must contain the following information:</p>
+              </content>
+              <paragraph eId="24-08-035__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the fiscal impact on existing programs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-08-035__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the fiscal impact of new programs or activities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-08-035__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a line item detail of the fiscal impact;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-08-035__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the source of funds expected to be utilized by general fund source, federal fund source, or other identified source;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-08-035__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the number of new positions that may be required, identified as full-time, part-time, or temporary;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-08-035__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>an analysis of how the figures in the fiscal note were derived;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-08-035__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>additional information necessary to explain the fiscal note;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-08-035__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>a fiscal impact projection for the current fiscal year and for the succeeding five fiscal years; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-08-035__subsec_c__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>formal information consisting of
+(A) the bill or resolution number,
+(B) the name of the prime sponsors,
+(C) the date the fiscal note was prepared,
+(D) the name of the committee requesting the fiscal note,
+(E) the name and phone number of the person who prepared the fiscal note, and
+(F) the budget request unit, program, or subprogram affected.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="24-08-035__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The original of a fiscal note shall be submitted to the Division of Legislative Finance and copies shall be sent to the prime sponsor, the committee requesting the fiscal note, and the office of management and budget.</p>
+              </content>
+            </subsection>
+            <subsection eId="24-08-035__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 2 ch 64 SLA 1992.]</p>
+              </content>
+            </subsection>
+            <subsection eId="24-08-035__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In addition to the other requirements of this section, if a bill directs an agency in the executive branch of state government to adopt, amend, or repeal a regulation or will result in an agency's adopting, amending, or repealing a regulation, the department affected shall include in the fiscal note for the bill a specific time by which the agency shall adopt, amend, or repeal the regulation. If the agency is not able to meet the deadline set in the fiscal note, the agency shall set a new deadline.</p>
+              </content>
+            </subsection>
+            <subsection eId="24-08-035__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In (f) of this section, agency includes the Alaska Housing Finance Corporation, the Alaska Industrial Development and Export Authority, the Alaska Energy Authority, the Alaska Public Offices Commission, and the Alaska Oil and Gas Conservation Commission, but does not include other boards or commissions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_24-08-036">
+            <num>24.08.036</num>
+            <heading>Fiscal notes on bills affecting state retirement systems.</heading>
+            <content>
+              <p>Sec. 24.08.036.   Fiscal notes on bills affecting state retirement systems.
+Before a bill which would have an effect on the retirement systems of the state is reported to the rules committee, there shall be attached to the bill an analysis of the long-term and short-term costs to the state if the bill is adopted, as well as the impact of the bill on the actuarial soundness of the fund.  The analysis is in addition to the fiscal note requirements of
+AS 24.08.035
+.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-037">
+            <num>24.08.037</num>
+            <heading>General obligation bond bills.</heading>
+            <content>
+              <p>Sec. 24.08.037.   General obligation bond bills.
+A bill authorizing the issuance of general obligation bonds creating a state debt for capital improvements shall contain a statement of the scope of each project included in the proposed bond issue. The statement shall include a brief description of each capital improvement project, its location, and, in dollars, that portion of the total bond issue to be allocated to the project.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-040">
+            <num>24.08.040</num>
+            <heading>Enacting clause.</heading>
+            <content>
+              <p>Sec. 24.08.040.   Enacting clause.
+The enacting clause for each bill shall be: Be it enacted by the Legislature of the State of Alaska.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-050">
+            <num>24.08.050</num>
+            <heading>Prefiling of bills and resolutions.</heading>
+            <content>
+              <p>Sec. 24.08.050.   Prefiling of bills and resolutions.
+Any member of the legislature whose term extends into a forthcoming session or legislature, or a member-elect may file a bill or resolution or a proposal for a bill or resolution with the Legislative Affairs Agency at any time before January 1.  The agency shall place a prefiled bill or resolution, which is approved by the sponsor, in proper form and deliver it to the chief clerk of the appropriate house on the day on which the next session convenes or is organized for business. Prefiled bills or resolutions shall be considered as introduced on the day of their delivery to each house.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-060">
+            <num>24.08.060</num>
+            <heading>Introduction of bills and resolutions.</heading>
+            <subsection eId="24-08-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A member of the legislature or a committee chairman, with the concurrence of a majority of the active members of the committee and on behalf of the committee, may introduce a bill or resolution.  Bills and resolutions shall be prepared and introduced in the manner and form prescribed in the uniform rules and the legislative style manual.</p>
+              </content>
+            </subsection>
+            <subsection eId="24-08-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Bills introduced by the legislative council shall be delivered with a letter of explanation to the rules committee of either house and bear the inscription Rules Committee by Request of the Legislative Council; bills introduced by the Legislative Budget and Audit Committee shall be delivered with a letter of explanation to the rules committee of either house and bear the inscription Rules Committee by Request of the Legislative Budget and Audit Committee; bills presented by the governor shall be delivered with a letter to the rules committee of either house and bear the inscription Rules Committee by Request of the Governor; bills so presented and inscribed shall be received as bills carrying the approval of the governor as to policy and budget impact. The governor may submit a statement of purpose and effect with each bill and appear personally or through a representative before any committee considering legislation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_24-08-070">
+            <num>24.08.070</num>
+            <heading>Numbering of bills.</heading>
+            <content>
+              <p>Sec. 24.08.070.   Numbering of bills.
+The chief clerk of the house in which the bill is introduced shall number it in the order of its introduction and thereafter the bill shall be designated by the number given to it.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-080">
+            <num>24.08.080</num>
+            <heading>Readings.</heading>
+            <content>
+              <p>Sec. 24.08.080.   Readings.
+A bill may not become law unless it has passed three readings in each house on three separate days, except that a bill may be advanced from second to third reading on the same day by concurrence of three-fourths of the house considering it.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-090">
+            <num>24.08.090</num>
+            <heading>Vote on passage.</heading>
+            <content>
+              <p>Sec. 24.08.090.   Vote on passage.
+A bill may not become law without the affirmative vote of a majority of the membership of each house.  The yeas and the nays on final passage shall be recorded in the journal.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-100">
+            <num>24.08.100</num>
+            <heading>Action upon veto.</heading>
+            <content>
+              <p>Sec. 24.08.100.   Action upon veto.
+When the governor vetoes a bill or by veto strikes or reduces an item in an appropriation bill, during a regular session of the legislature, the legislature shall proceed to act in accordance with art. II, sec. 16, Constitution of the State of Alaska, as it is implemented by the rules of the legislature. A bill vetoed after adjournment of the first regular session shall be reconsidered by the legislature sitting as one body no later than the fifth day of the next regular or special session convened during that legislature.  Bills vetoed after adjournment of the second regular session shall be reconsidered by the legislature sitting as one body no later than the fifth day of a special session of that legislature, if one is called.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-105">
+            <num>24.08.105</num>
+            <heading>Record of votes.</heading>
+            <content>
+              <p>Sec. 24.08.105.   Record of votes.
+The voting record for each legislator shall be made available to any person on request. The Legislative Affairs Agency shall keep voting records compiled annually under this section on the agency data system and shall distribute copies to all legislative information offices for a fee established under
+AS 40.25.115
+.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-110">
+            <num>24.08.110</num>
+            <heading>Bills carry over.</heading>
+            <content>
+              <p>Sec. 24.08.110.   Bills carry over.
+A bill introduced but not receiving final action in the first regular session of a legislature carries over in the same reading or status into the second regular session of the same legislature.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-200">
+            <num>24.08.200</num>
+            <heading>Constitutional amendments.</heading>
+            <content>
+              <p>Sec. 24.08.200.   Constitutional amendments.
+The legislature may propose amendments to the state constitution through the adoption of a joint resolution by an affirmative vote of two-thirds of the membership of each house.  Resolutions proposing constitutional amendments shall be treated as bills.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-210">
+            <num>24.08.210</num>
+            <heading>Executive orders.</heading>
+            <content>
+              <p>Sec. 24.08.210.   Executive orders.
+An executive order proposing a change in the executive branch and requiring the force of law under art. III, sec. 23, Constitution of the State of Alaska shall be submitted to the presiding officer of each house on the day the house organizes.  The legislature has 60 days of a regular session, or a full session if of shorter duration to disapprove the order.  Unless disapproved by a special concurrent resolution introduced in either house, concurred in by a majority of the members in joint session, the order becomes effective at a date thereafter to be designated by the governor.  An order submitted to but not disapproved by the legislature shall be published in the bound session laws and any codification of state law.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-300">
+            <num>24.08.300</num>
+            <heading>Delivery by governor.</heading>
+            <content>
+              <p>Sec. 24.08.300.   Delivery by governor.
+When the governor has signed a bill or allowed it to become law without the governor's signature, and when the governor has signed or noted resolutions, the governor's office is to deliver the original enrolled copy of each law or resolution to the executive director of the Legislative Affairs Agency. The director shall sign for each bill and resolution, and when it has been photographed for duplication it shall be returned on receipt to the office of the governor.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-310">
+            <num>24.08.310</num>
+            <heading>Filing and effect.</heading>
+            <content>
+              <p>Sec. 24.08.310.   Filing and effect.
+The lieutenant governor shall file the original enrolled copies of all acts and resolutions and all executive orders having the effect of law that were submitted by the governor to the legislature and that were not rejected by it.  These documents shall be kept on file for at least two years.  All laws and executive orders having the force of law in the cumulative supplements to or replacement pamphlets for the Alaska Statutes are prima facie a part of the Alaska Statutes.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-320">
+            <num>24.08.320</num>
+            <heading>Session laws.</heading>
+            <content>
+              <p>Sec. 24.08.320.   Session laws.
+The Legislative Affairs Agency is responsible for arranging for the production, editing, publishing, and distribution of the laws of each session.  The executive director shall have the slip law copies of the enrolled acts produced in sufficient quantity for one complete set to be provided each legislator pending the publication of supplements to the Alaska Statutes.  The commissioner of education and early development is to receive sufficient copies of the slip laws for official state distribution and the commissioner may charge for other distribution on the basis of production and handling costs.</p>
+            </content>
+          </section>
+          <section eId="sec_24-08-330">
+            <num>24.08.330</num>
+            <heading>Distribution of Alaska Statutes.</heading>
+            <subsection eId="24-08-330__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Education and Early Development is responsible for making official distribution of the Alaska Statutes to state executive branch agencies. The administrative director of the Alaska Court System is responsible for distribution to the court system. Distribution shall be made on the basis of written lists submitted by the department and the court system to the Legislative Affairs Agency within 90 days after the last day of each regular session of the legislature. A legislator is entitled to receive one set of the statutes for the member's personal use, and this entitlement is restricted to the one set issued during a member's entire legislative service. The commissioner of education and early development may deposit one set of the statutes in each free public library within the state. The right of sale to persons and organizations remains exclusively with the publisher.</p>
+              </content>
+            </subsection>
+            <subsection eId="24-08-330__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Agencies receiving sets of the Alaska Statutes shall mark each volume or binder received Property of the State of Alaska.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

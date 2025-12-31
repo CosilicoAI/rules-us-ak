@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-70"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-70"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.70"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-70/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-70/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-70/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-70/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_70">
+          <num>70</num>
+          <heading>Sureties</heading>
+          <section eId="sec_45-70-010">
+            <num>45.70.010</num>
+            <heading>Release and substitution of sureties.</heading>
+            <content>
+              <p>Sec. 45.70.010.   Release and substitution of sureties.
+A surety on an undertaking, bond, or stipulation, executed or given in a judicial proceeding or filed in a court in the state or given on behalf of or by a public officer, employee, or agent in connection with the duties or performance of the duties of office shall be released and discharged from liability on the undertaking, bond, or stipulation and new surety or sureties substituted when the principal, surety, or obligee files in the court or presents to a person authorized by law to approve or accept on behalf of the obligee the undertaking, stipulation, or bond, a written application for discharge from the undertaking, stipulation, or bond, together with a new undertaking, stipulation, or bond, executed by a competent surety, qualified to act as a surety under the laws of the state, and conditioned as in the former undertaking, stipulation, or bond and providing that the surety accepts all liability theretofore or thereafter accruing under the former as well as the new undertaking, stipulation, or bond and stand in the place of and substitute for the surety on the former undertaking, stipulation, or bond.</p>
+            </content>
+          </section>
+          <section eId="sec_45-70-020">
+            <num>45.70.020</num>
+            <heading>Discharge from liability.</heading>
+            <content>
+              <p>Sec. 45.70.020.   Discharge from liability.
+Upon filing the new undertaking, stipulation, or bond, and the approval of it as to form, penalty, and surety, the former undertaking, stipulation, or bond, and the surety on it is immediately discharged from all liability in any manner or at any time arising or accruing.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

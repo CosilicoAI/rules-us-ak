@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-60"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-60"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="9.60"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-60/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-60/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-60/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-60/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_9">
+        <num>9</num>
+        <heading>Code of Civil Procedure</heading>
+        <chapter eId="title_9__chp_60">
+          <num>60</num>
+          <heading>Costs and Attorney Fees; Settlements</heading>
+          <section eId="sec_09-60-010">
+            <num>09.60.010</num>
+            <heading>Costs and attorney fees allowed prevailing party.</heading>
+            <subsection eId="09-60-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The supreme court shall determine by rule or order the costs, if any, that may be allowed a prevailing party in a civil action.  Unless specifically authorized by statute or by agreement between the parties, attorney fees may not be awarded to a party in a civil action for personal injury, death, or property damage related to or arising out of fault, as defined in
+AS 09.17.900
+, unless the civil action is contested without trial, or fully contested as determined by the court.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-60-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided by statute, a court in this state may not discriminate in the award of attorney fees and costs to or against a party in a civil action or appeal based on the nature of the policy or interest advocated by the party, the number of persons affected by the outcome of the case, whether a governmental entity could be expected to bring or participate in the case, the extent of the party's economic incentive to bring the case, or any combination of these factors.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-60-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In a civil action or appeal concerning the establishment, protection, or enforcement of a right under the United States Constitution or the Constitution of the State of Alaska, the court</p>
+              </content>
+              <paragraph eId="09-60-010__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>shall award, subject to (d) and (e) of this section, full reasonable attorney fees and costs to a claimant, who, as plaintiff, counterclaimant, cross claimant, or third-party plaintiff in the action or on appeal, has prevailed in asserting the right;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-010__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may not order a claimant to pay the attorney fees of the opposing party devoted to claims concerning constitutional rights if the claimant as plaintiff, counterclaimant, cross claimant, or third-party plaintiff in the action or appeal did not prevail in asserting the right, the action or appeal asserting the right was not frivolous, and the claimant did not have sufficient economic incentive to bring the action or appeal regardless of the constitutional claims involved.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-60-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In calculating an award of attorney fees and costs under (c)(1) of this section,</p>
+              </content>
+              <paragraph eId="09-60-010__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the court shall include in the award only that portion of the services of claimant's attorney fees and associated costs that were devoted to claims concerning rights under the United States Constitution or the Constitution of the State of Alaska upon which the claimant ultimately prevailed; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-010__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the court shall make an award only if the claimant did not have sufficient economic incentive to bring the suit, regardless of the constitutional claims involved.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-60-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The court, in its discretion, may abate, in full or in part, an award of attorney fees and costs otherwise payable under (c) and (d) of this section if the court finds, based upon sworn affidavits or testimony, that the full imposition of the award would inflict a substantial and undue hardship upon the party ordered to pay the fees and costs or, if the party is a public entity, upon the taxpaying constituents of the public entity.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-60-015">
+            <num>09.60.015</num>
+            <heading>Attorney fees in certain small claims actions.</heading>
+            <subsection eId="09-60-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In any action for damages where the amount pleaded is $1,000 or less, and the plaintiff, when represented by counsel, prevails in the action, the plaintiff shall be allowed a reasonable amount to be fixed by the court as attorney fees for the prosecution of the action as a part of the costs of the action if the court finds that written demand for the payment of the claim was made on the defendant 20 days or more before the commencement of the action. However, attorney fees may not be allowed to the plaintiff if the court finds that the defendant tendered to the plaintiff before the commencement of the action, an amount not less than the damages awarded to the plaintiff.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-60-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the defendant, when represented by counsel, pleads a counterclaim that does not exceed $1,000, and the defendant prevails in the action, the defendant shall be allowed a reasonable amount to be fixed by the court as attorney fees for the prosecution of the counterclaim as part of the costs of the action.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-60-015__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section is subject to
+AS 45.50.537
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-60-020">
+            <num>09.60.020</num>
+            <heading>Liability of guardian ad litem for costs.</heading>
+            <content>
+              <p>Sec. 09.60.020.   Liability of guardian ad litem for costs.
+A person appointed guardian ad litem by a court for an infant or incompetent defendant is not liable for the costs of the action.</p>
+            </content>
+          </section>
+          <section eId="sec_09-60-030">
+            <num>09.60.030</num>
+            <heading>Guardian's responsibility for allowance against infant plaintiff.</heading>
+            <content>
+              <p>Sec. 09.60.030.   Guardian's responsibility for allowance against infant plaintiff.
+When costs or disbursements are adjudged against an infant plaintiff or incompetent, the guardian by whom the plaintiff appeared in the action is responsible for the payment, and payment may be enforced against the guardian as if the guardian were the actual plaintiff.</p>
+            </content>
+          </section>
+          <section eId="sec_09-60-040">
+            <num>09.60.040</num>
+            <heading>Costs where party is a representative.</heading>
+            <content>
+              <p>Sec. 09.60.040.   Costs where party is a representative.
+In actions in which an executor, administrator, trustee of an express trust, or a person authorized to represent a party is a party, costs may be allowed as in other cases.  However, when costs are allowed against that party, they are chargeable solely upon the estate, fund, or party represented unless the court orders the costs to be paid by that party personally for mismanagement or bad faith in the conduct of the action.</p>
+            </content>
+          </section>
+          <section eId="sec_09-60-050">
+            <num>09.60.050</num>
+            <heading>Costs awarded against state, borough, city, or other public agencies.</heading>
+            <content>
+              <p>Sec. 09.60.050.   Costs awarded against state, borough, city, or other public agencies.
+When the state or a borough, city, or other public agency or entity or an officer thereof in an official capacity is a party, costs shall be awarded against it on the same basis as against any other natural person or party. However, when the action is brought upon the information of a natural person, that person shall be liable for costs awarded against the state.  The costs may not be recovered from the state until after execution has issued for the costs against that person and has been returned unsatisfied in whole or in part.</p>
+            </content>
+          </section>
+          <section eId="sec_09-60-060">
+            <num>09.60.060</num>
+            <heading>Security for costs where plaintiff a nonresident or foreign corporation.</heading>
+            <content>
+              <p>Sec. 09.60.060.   Security for costs where plaintiff a nonresident or foreign corporation.
+When the plaintiff in an action resides out of the state or is a foreign corporation, security for the costs and attorney fees, which may be awarded against the plaintiff, may be required by the defendant, if timely demand is made within 30 days after the defendant discovers that the plaintiff is a nonresident.  When required, all proceedings in the action shall be stayed until an undertaking executed by one or more sufficient sureties is filed with the court to the effect that they will pay the costs and attorney fees which are awarded against the plaintiff, for not less than $200.  A new or an additional undertaking may be ordered by the court upon proof that the original undertaking is insufficient in amount or security.</p>
+            </content>
+          </section>
+          <section eId="sec_09-60-070">
+            <num>09.60.070</num>
+            <heading>Attorney fees for victims of serious criminal offenses.</heading>
+            <subsection eId="09-60-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who has been injured or damaged, or the estate of a person who has died, may recover from the offender full reasonable attorney fees in a civil action or a wrongful death action if the injury, damage, or death resulted from</p>
+              </content>
+              <paragraph eId="09-60-070__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an attempt on the part of the person to prevent the commission of a serious criminal offense or to apprehend an offender who has committed a serious criminal offense, or aiding or attempting to aid a police officer to do so, or aiding a victim of a serious criminal offense; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the commission or attempt on the part of the offender to commit a serious criminal offense.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-60-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a judgment for attorney fees is entered against an offender in a civil action brought under this section, and a contract of insurance requires an insurer to pay the attorney fees, the insurer shall be liable only for the attorney fees that would be awarded to the plaintiff under Rule 82(b)(1), Alaska Rules of Civil Procedure.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-60-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, serious criminal offense means the following offenses:</p>
+              </content>
+              <paragraph eId="09-60-070__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>murder in any degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>manslaughter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>criminally negligent homicide;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>assault in any degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>kidnapping;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>sexual assault in any degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>sexual abuse of a minor in any degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>robbery in any degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>coercion;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>extortion;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>arson in any degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>burglary in any degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>criminal mischief in the first, second, third, or fourth degree;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>driving while under the influence of an alcoholic beverage, inhalant, or controlled substance or another crime resulting from the operation of a motor vehicle, boat, or airplane when the offender is under the influence of an alcoholic beverage, inhalant, or controlled substance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-070__subsec_c__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>a crime involving domestic violence, as defined in
+AS 18.66.990
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_09-60-080">
+            <num>09.60.080</num>
+            <heading>Contingent fee agreements.</heading>
+            <subsection eId="09-60-080__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>has been deducted from the total award of damages.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-60-200">
+            <num>09.60.200</num>
+            <heading>Conditions to transfers of structured settlement payment rights and structured settlement agreements.</heading>
+            <subsection eId="09-60-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A transfer of structured settlement payment rights is not effective and a structured settlement obligor or annuity issuer is not required to make a payment directly or indirectly to a transferee of structured settlement payment rights unless the transfer has been approved by a superior court based on the court's written express findings that</p>
+              </content>
+              <paragraph eId="09-60-200__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the structured settlement arose from an action filed in the state or that could have been filed in the state, or the payee of the structured settlement is domiciled in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-200__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the transfer complies with the requirements of
+AS 09.60.200
+ 09.60.230, other applicable state and federal law, and the orders of any court;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-200__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>not less than 10 days before the date on which the payee first incurred an obligation with respect to the transfer, the payee has received by certified mail, return receipt requested, or other means that provide a comparable record of delivery, a disclosure statement in bold type, no smaller than 14 points, specifying
+(A) the amounts and due dates of the structured settlement payments to be transferred;
+(B) the aggregate amount of the payments;
+(C) the discounted present value of the payments, together with the discount rate used in determining the discounted present value;
+(D) the gross amount payable to the payee in exchange for the payments;
+(E) an itemized listing of all broker's commissions, service charges, application fees, processing fees, closing costs, filing fees, referral fees, administrative fees, legal fees, notary fees, and other commissions, fees, costs, expenses, and charges payable by the payee or deductible from the gross amount otherwise payable to the payee;
+(F) the net amount payable to the payee after deduction of all commissions, fees, costs, expenses, and charges described in (E) of this paragraph;
+(G) the quotient, expressed as a percentage, obtained by dividing the net payment amount by the discounted present value of the payments; and
+(H) the amount of any penalty and the aggregate amount of any liquidated damages, including penalties, payable by the payee in the event of a breach of the transfer agreement by the payee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-200__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the payee has established that the transfer is in the best interests of the payee and the payee's dependents;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-200__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the payee has received independent professional advice regarding the legal, tax, and financial implications of the transfer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-200__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the transferee has given written notice of the transferee's name, address, and taxpayer identification number to the annuity issuer and the structured settlement obligor and has filed a copy of the notice with the court; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-200__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the transfer agreement provides that any disputes between the parties will be governed, interpreted, construed, and enforced in accordance with the laws of this state and that the domicile state of the payee is the proper venue to bring any cause of action arising out of a breach of the agreement; the transfer agreement must also provide that the parties agree to the jurisdiction of any court of competent jurisdiction located in this state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-60-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the transfer would contravene the terms of the structured settlement, upon the filing of a written objection by any interested party and after considering the objection and any response to it, the court may grant, deny, or impose conditions upon the proposed transfer as the court considers just and proper under the facts and circumstances in accordance with established principles of law. Any order approving a transfer must require that the transferee indemnify the annuity issuer and the structured settlement obligor for any liability including reasonable costs and attorney fees arising from compliance by the issuer or obligor with the order of the court.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-60-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A provision in a transfer agreement giving a transferee power to confess judgment against a payee is unenforceable to the extent the amount of the judgment would exceed the amount paid by the transferee to the payee, less any payments received from the structured settlement obligor or the payee.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-60-210">
+            <num>09.60.210</num>
+            <heading>Jurisdiction; procedure for approval of transfers.</heading>
+            <subsection eId="09-60-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The superior court where the action giving rise to the structured settlement was maintained or could have been maintained or where the payee is domiciled has jurisdiction over an application for approval under
+AS 09.60.200
+of a transfer of structured settlement payment rights.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-60-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Not less than 30 days before the scheduled hearing on an application for authorization of a transfer of structured settlement payment rights under
+AS 09.60.200
+, the transferee shall file with the court and serve on any other government authority that previously approved the structured settlement and all interested parties a notice of the proposed transfer and the application for its authorization. The notice must include</p>
+              </content>
+              <paragraph eId="09-60-210__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a copy of the transferee's application to the court;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-210__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a copy of the transfer agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-210__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a copy of the disclosure statement required under
+AS 09.60.200
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-210__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>notification that an interested party is entitled to support, oppose, or otherwise respond to the transferee's application, either in person or by counsel, by submitting written comments to the court or by participating in the hearing; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-60-210__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>notification of the time and place of the hearing and notification of the manner in which and the time by which written responses to the application must be filed in order to be considered by the court.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-60-210__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Written responses to the application must be filed within 15 days after service of the transferee's notice.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-60-220">
+            <num>09.60.220</num>
+            <heading>No waiver and no penalty.</heading>
+            <subsection eId="09-60-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provisions of
+AS 09.60.200
+ 09.60.230 may not be waived.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-60-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A payee who proposes to make a transfer of structured settlement payment rights may not incur a penalty, forfeit an application fee or other payment, or otherwise incur any liability to the proposed transferee based on the failure of the transfer to satisfy the conditions of
+AS 09.60.200
+ 09.60.230.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-60-230">
+            <num>09.60.230</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 09.60.230.   Definitions.
+In
+AS 09.60.200
+ 09.60.230,
+(1) annuity issuer means an insurer that has issued an annuity contract to be used to fund periodic payments under a structured settlement;
+(2) dependents means a payee's spouse and minor children and all other family members and other persons for whom the payee is legally obligated to provide support, including spousal maintenance;
+(3) discounted present value means, with respect to a proposed transfer of structured settlement payment rights, the fair present value of future payments, as determined by discounting the payments to the present using the most recently published applicable federal rate for determining the present value of an annuity, as issued by the United States Internal Revenue Service;
+(4) independent professional advice means advice of an attorney, certified public accountant, actuary, or other professional adviser
+(A) who is engaged by a payee to render advice concerning the legal, tax, and financial implications of a transfer of structured settlement payment rights;
+(B) who is not in any manner affiliated with or compensated by the transferee of the transfer; and
+(C) whose compensation for providing the advice is not affected by whether a transfer occurs or does not occur;
+(5) interested parties means the payee, a beneficiary designated under the annuity contract to receive payments following the payee's death or, if the designated beneficiary is a minor, the designated beneficiary's parent or guardian, the annuity issuer, the structured settlement obligor, and any other party that has continuing rights or obligations under the structured settlement;
+(6) payee means an individual who is receiving tax-free damage payments under a structured settlement and proposes to make a transfer of payment rights under the structured settlement;
+(7) qualified assignment agreement means an agreement providing for a qualified assignment as provided by 26 U.S.C. 130 (United States Internal Revenue Code), as amended through December 31, 1998;
+(8) settled claim means the original tort claim or workers' compensation claim resolved by a structured settlement;
+(9) structured settlement means an arrangement for periodic payment of damages for personal injuries established by settlement or judgment in resolution of a tort claim or for periodic payments in settlement of a workers' compensation claim;
+(10) structured settlement agreement means the agreement, judgment, stipulation, or release embodying the terms of a structured settlement, including the rights of the payee to receive periodic payments;
+(11) structured settlement obligor means the party that has the continuing periodic payment obligation to the payee under a structured settlement agreement or a qualified assignment agreement;
+(12) structured settlement payment rights means rights to receive periodic payments, including lump-sum payments, under a structured settlement, whether from the settlement obligor or the annuity issuer, where
+(A) the payee or any other interested party is domiciled in the state;
+(B) the structured settlement agreement was approved by a court in the state; or
+(C) the settled claim was pending before the courts of this state when the parties entered into the structured settlement agreement;
+(13) terms of the structured settlement means the terms of the structured settlement agreement, the annuity contract, a qualified assignment agreement, and an order or approval of a court, responsible administrative authority, or other government authority authorizing or approving the structured settlement;
+(14) transfer means a sale, assignment, pledge, hypothecation, or other form of alienation or encumbrance made by a payee for consideration;
+(15) transfer agreement means the agreement providing for transfer of structured settlement payment rights from a payee to a transferee;
+(16) transferee means a person who is receiving or will receive structured settlement payment rights resulting from a transfer.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

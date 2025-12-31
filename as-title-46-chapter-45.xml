@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-45"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-45"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="46.45"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-45/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-45/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_46">
+        <num>46</num>
+        <heading>Water, Air, Energy, and Environmental Conservation</heading>
+        <chapter eId="title_46__chp_45">
+          <num>45</num>
+          <heading>Northwest Interstate Compact on Low-level Radioactive Waste Management</heading>
+          <section eId="sec_46-45-010">
+            <num>46.45.010</num>
+            <heading>Compact enacted.</heading>
+            <content>
+              <p>Sec. 46.45.010.   Compact enacted.
+The Northwest Interstate Compact on Low-Level Radioactive Waste Management, as contained in this section, is enacted into law and entered into on behalf of the State of Alaska with any and all other states legally joining it in a form substantially as follows:</p>
+            </content>
+          </section>
+          <section eId="sec_46-45-020">
+            <num>46.45.020</num>
+            <heading>Implementation.</heading>
+            <content>
+              <p>Sec. 46.45.020.   Implementation.
+The commissioner of environmental conservation may adopt regulations and do all things necessary or incidental to the carrying out of the Northwest Interstate Compact on Low-Level Radioactive Waste Management.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-26/chapter-25"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-26/chapter-25"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="26.25"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-26/chapter-25/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-26/chapter-25/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-26/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-26/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_26">
+        <num>26</num>
+        <heading>Military Affairs, Veterans, Disasters, and Aerospace</heading>
+        <chapter eId="title_26__chp_25">
+          <num>25</num>
+          <heading>National Guard Mutual Assistance Compact</heading>
+          <section eId="sec_26-25-010">
+            <num>26.25.010</num>
+            <heading>Entry into compact.</heading>
+            <content>
+              <p>Sec. 26.25.010.   Entry into compact.
+The National Guard Mutual Assistance Compact is enacted into law and entered into on behalf of the State of Alaska with all other states and jurisdictions legally joining in it in a form substantially as contained in
+AS 26.25.020
+.</p>
+            </content>
+          </section>
+          <section eId="sec_26-25-020">
+            <num>26.25.020</num>
+            <heading>Terms and provisions of compact.</heading>
+            <content>
+              <p>Sec. 26.25.020.   Terms and provisions of compact.
+The terms and provisions of the compact referred to in
+AS 26.25.010
+are as follows:</p>
+            </content>
+          </section>
+          <section eId="sec_26-25-030">
+            <num>26.25.030</num>
+            <heading>Rights and benefits.</heading>
+            <content>
+              <p>Sec. 26.25.030.   Rights and benefits.
+In accordance with Article III(h) of the National Guard Mutual Assistance Compact, members of the National Guard forces of this state shall be considered to be in state service at all times when engaged under this Compact, and shall be entitled to all rights and benefits provided under
+AS 26.05.260
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

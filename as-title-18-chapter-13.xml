@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-13"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-13"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.13"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-13/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-13/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-13/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-13/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_13">
+          <num>13</num>
+          <heading>Genetic Privacy</heading>
+          <section eId="sec_18-13-010">
+            <num>18.13.010</num>
+            <heading>Genetic testing.</heading>
+            <subsection eId="18-13-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section,</p>
+              </content>
+              <paragraph eId="18-13-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person may not collect a DNA sample from a person, perform a DNA analysis on a sample, retain a DNA sample or the results of a DNA analysis, or disclose the results of a DNA analysis unless the person has first obtained the informed and written consent of the person, or the person's legal guardian or authorized representative, for the collection, analysis, retention, or disclosure;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-13-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a DNA sample and the results of a DNA analysis performed on the sample are the exclusive property of the person sampled or analyzed.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-13-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The prohibitions of (a) of this section do not apply to DNA samples collected and analyses conducted</p>
+              </content>
+              <paragraph eId="18-13-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>under
+AS 44.41.035
+or comparable provisions of another jurisdiction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-13-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for a law enforcement purpose, including the identification of perpetrators and the investigation of crimes and the identification of missing or unidentified persons or deceased individuals;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-13-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for determining paternity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-13-010__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to screen newborns as required by state or federal law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-13-010__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>for the purpose of emergency medical treatment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-13-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A general authorization for the release of medical records or medical information may not be construed as the informed and written consent required by this section. The Department of Health may by regulation adopt a uniform informed and written consent form to assist persons in meeting the requirements of this section. A person using that uniform informed and written consent is exempt from civil or criminal liability for actions taken under the consent form. A person may revoke or amend their informed and written consent at any time.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-13-020">
+            <num>18.13.020</num>
+            <heading>Private right of action.</heading>
+            <content>
+              <p>Sec. 18.13.020.   Private right of action.
+A person may bring a civil action against a person who collects a DNA sample from the person, performs a DNA analysis on a sample, retains a DNA sample or the results of a DNA analysis, or discloses the results of a DNA analysis in violation of this chapter. In addition to the actual damages suffered by the person, a person violating this chapter shall be liable to the person for damages in the amount of $5,000 or, if the violation resulted in profit or monetary gain to the violator, $100,000.</p>
+            </content>
+          </section>
+          <section eId="sec_18-13-030">
+            <num>18.13.030</num>
+            <heading>Criminal penalty.</heading>
+            <subsection eId="18-13-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of unlawful DNA collection, analysis, retention, or disclosure if the person knowingly collects a DNA sample from a person, performs a DNA analysis on a sample, retains a DNA sample or the results of a DNA analysis, or discloses the results of a DNA analysis in violation of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-13-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, knowingly has the meaning given in
+AS 11.81.900
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-13-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unlawful DNA collection, analysis, retention, or disclosure is a class A misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-13-100">
+            <num>18.13.100</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.13.100.   Definitions.
+In this chapter,
+(1) DNA means deoxyribonucleic acid, including mitochondrial DNA, complementary DNA, and DNA derived from ribonucleic acid;
+(2) DNA analysis means DNA or genetic typing and testing to determine the presence or absence of genetic characteristics in an individual, including tests of nucleic acids or chromosomes in order to diagnose or identify a genetic characteristic; DNA analysis does not include a routine physical measurement, a test for drugs, alcohol, cholesterol, or the human immunodeficiency virus, a chemical, blood, or urine analysis, or any other diagnostic test that is widely accepted and in use in clinical practice;
+(3) genetic characteristic includes a gene, chromosome, or alteration of a gene or chromosome that may be tested to determine the existence or risk of a disease, disorder, trait, propensity, or syndrome, or to identify an individual or a blood relative; genetic characteristic does not include family history or a genetically transmitted characteristic whose existence or identity is determined other than through a genetic test.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

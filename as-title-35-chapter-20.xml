@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-35/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-35/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="35.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-35/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-35/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-35/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-35/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_35">
+        <num>35</num>
+        <heading>Public Buildings, Works, and Improvements</heading>
+        <chapter eId="title_35__chp_20">
+          <num>20</num>
+          <heading>Acquisition and Disposition of Property</heading>
+          <section eId="sec_35-20-010">
+            <num>35.20.010</num>
+            <heading>Acquisition of land, rights-of-way, and materials by purchase or eminent domain.</heading>
+            <content>
+              <p>Sec. 35.20.010.   Acquisition of land, rights-of-way, and materials by purchase or eminent domain.
+The department, on behalf of the state and as part of the cost of constructing or maintaining a public work, may purchase in the open market, acquire, take over, or condemn under the right and power of eminent domain land in fee simple or easements that it considers necessary for present public use, either temporary or permanent, or that it considers necessary and reasonable for the public use.  By the same means, the department may obtain material including clay, gravel, sand, or rock, or the land necessary to obtain the material, and the necessary land or easements to provide access to it.  The department may acquire the land or material notwithstanding the fact that the title to it is in the state or a department, agency, commission, or institution of the state. Acquisition of material in the open market under this section is governed by
+AS 36.30
+(State Procurement Code).</p>
+            </content>
+          </section>
+          <section eId="sec_35-20-020">
+            <num>35.20.020</num>
+            <heading>Declaration of taking.</heading>
+            <content>
+              <p>Sec. 35.20.020.   Declaration of taking.
+A declaration of taking, in the form of an order signed by the commissioner, declaring that the real property, or an interest in it, or any easement is necessary for the public use of the state is sufficient to vest title in the state. However, a declaration of taking is not effective until eminent domain proceedings have been instituted in the proper court and a copy of the declaration of taking is recorded in the office of the recorder located in the recording district where the land is located. The department may pay or have paid, from the appropriate fund, into court the amount it considers represents a reasonable valuation for the land, easement, or materials taken.</p>
+            </content>
+          </section>
+          <section eId="sec_35-20-030">
+            <num>35.20.030</num>
+            <heading>Acquisition and disposal of excess land.</heading>
+            <content>
+              <p>Sec. 35.20.030.   Acquisition and disposal of excess land.
+When a part of a parcel of land is taken and the remainder is in such shape or condition as to be of little value to its owner, or gives rise to claims or litigation concerning severance or other damage, the department may acquire the whole parcel and may sell the remainder or exchange it for other property needed for public works.</p>
+            </content>
+          </section>
+          <section eId="sec_35-20-040">
+            <num>35.20.040</num>
+            <heading>Authority to condemn or acquire publicly owned property for the purpose of exchange.</heading>
+            <content>
+              <p>Sec. 35.20.040.   Authority to condemn or acquire publicly owned property for the purpose of exchange.
+When property that is devoted to or held for another public use for which the power of eminent domain may be exercised is taken for purposes set out in this title, the department may, with the consent of the person or agency in charge of the other public use, condemn the real property to be exchanged for the real property so taken.  This section does not limit the authorization of the department to acquire, other than by condemnation, property for those purposes in any other manner.</p>
+            </content>
+          </section>
+          <section eId="sec_35-20-050">
+            <num>35.20.050</num>
+            <heading>Authority to purchase property for the purpose of exchange.</heading>
+            <content>
+              <p>Sec. 35.20.050.   Authority to purchase property for the purpose of exchange.
+When the commissioner formally declares that it is in the best public interest of the state to do so, the department may acquire by purchase or otherwise privately or publicly owned land or an interest in it for the purpose of exchanging it for privately or publicly owned land that the department is authorized by law to acquire.</p>
+            </content>
+          </section>
+          <section eId="sec_35-20-060">
+            <num>35.20.060</num>
+            <heading>Sale of obsolete equipment and material.</heading>
+            <content>
+              <p>Sec. 35.20.060.   Sale of obsolete equipment and material.
+The department may sell, exchange, or otherwise dispose of obsolete machinery, equipment, and material no longer needed, required, or useful for construction or maintenance purposes. Money derived from the sale of the property shall be credited to the fund from which the purchase was originally made.</p>
+            </content>
+          </section>
+          <section eId="sec_35-20-070">
+            <num>35.20.070</num>
+            <heading>Vacating of land or rights in land.</heading>
+            <content>
+              <p>Sec. 35.20.070.   Vacating of land or rights in land.
+The department may vacate land, or part of it, or rights in land acquired for public work purposes by executing and recording a deed in the appropriate recording district.  Upon vacating, title reverts to the persons, heirs, successors, or assigns in whom it was vested at the time of the taking.  The department may transfer land considered no longer necessary for public works purposes to the Department of Natural Resources for disposal. The proceeds of disposal by the Department of Natural Resources shall be credited to the funds from which the purchase was originally made.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

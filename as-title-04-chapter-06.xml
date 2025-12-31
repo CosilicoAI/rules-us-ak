@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-4/chapter-06"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-4/chapter-06"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="4.06"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-4/chapter-06/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-4/chapter-06/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-4/chapter-06/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-4/chapter-06/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_4">
+        <num>4</num>
+        <heading>Alcoholic Beverages</heading>
+        <chapter eId="title_4__chp_06">
+          <num>06</num>
+          <heading>Alcoholic Beverage Control Board</heading>
+          <section eId="sec_04-06-005">
+            <num>04.06.005</num>
+            <heading>Declaration of policy; purpose; finding.</heading>
+            <content>
+              <p>Sec. 04.06.005.   Declaration of policy; purpose; finding.
+It is the policy of the state that controlling the manufacture, distribution, barter, possession, and sale of alcoholic beverages in the state is necessary to promote the health and safety of the people of the state. It is the purpose of this title to carry out the state's policy in the public interest. The legislature finds that observance of this title, regulations adopted by the board, and other applicable laws, local ordinances, and regulations is in the interest of the public, people holding licenses or permits under this title, and the alcoholic beverage industry in general</p>
+            </content>
+          </section>
+          <section eId="sec_04-06-010">
+            <num>04.06.010</num>
+            <heading>Establishment of board.</heading>
+            <content>
+              <p>Sec. 04.06.010.   Establishment of board.
+There is established in the Department of Commerce, Community, and Economic Development the Alcoholic Beverage Control Board as a regulatory and quasi-judicial agency. The Board is in the Department of Commerce, Community, and Economic Development, but for administrative purposes only.</p>
+            </content>
+          </section>
+          <section eId="sec_04-06-020">
+            <num>04.06.020</num>
+            <heading>Appointment and qualifications.</heading>
+            <subsection eId="04-06-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board consists of five members appointed by the governor and confirmed by a majority of the members of the legislature in joint session. A member of the board may not hold any other state or federal office, either elective or appointive.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in (c) of this section, at the time of appointment or reappointment, one member of the board shall be from the public safety sector, one member of the board shall represent the general public, one member of the board shall have resided in a rural area within the previous five years, and two members of the board shall be actively engaged in the alcoholic beverage industry.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A member of the board may not hold a wholesale alcoholic beverage license or be an officer, agent, or employee of a wholesale alcoholic beverage enterprise. Not more than two members of the board may be engaged in the same business, occupation, or profession. A board member from the public safety sector, from a rural area, or representing the general public may not have, or have an immediate family member who has, a financial interest in a business for which a license is issued. A board member representing the general public may not be affiliated with the public safety sector or the public health sector.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="04-06-020__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>immediate family member means a spouse, child, or parent;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-020__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>public health sector means a profession that primarily has the responsibility to protect the safety and improve the health of communities through education, policy making, and research for disease and injury prevention;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-020__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>public safety sector means a current or former peace officer, a current or former municipal or state prosecutor, a former judicial officer, or a current member of a profession that primarily has the authority to provide for the welfare and protection of the general public through the enforcement of municipal, state, or federal laws;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-020__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>rural area means a community with a population of 7,000 or less that is not connected by road or rail to Anchorage or Fairbanks or with a population of 2,000 or less that is connected by road or rail to Anchorage or Fairbanks; in this paragraph,
+(A) community means a city as that term is defined in
+AS 29.71.800
+, and an established village that is located in a borough or the unorganized borough;
+(B) population means the population of a community as determined under
+AS 29.60.860</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_04-06-030">
+            <num>04.06.030</num>
+            <heading>Terms of office; chair.</heading>
+            <subsection eId="04-06-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Members of the board shall be appointed for overlapping terms of three years.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A vacancy occurring in the membership of the board shall be filled within 30 days by appointment of the governor for the unexpired portion of the vacated term.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The board shall select a chair from among its members.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A member who has served all or part of three successive terms on the board may not be reappointed to the board unless three years have elapsed since the person has last served on the board.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_04-06-040">
+            <num>04.06.040</num>
+            <heading>Per diem and expenses.</heading>
+            <content>
+              <p>Sec. 04.06.040.   Per diem and expenses.
+Members of the board do not receive a salary, but are entitled to per diem and travel expenses authorized by law for other boards and commissions.</p>
+            </content>
+          </section>
+          <section eId="sec_04-06-050">
+            <num>04.06.050</num>
+            <heading>Meetings.</heading>
+            <content>
+              <p>Sec. 04.06.050.   Meetings.
+The board shall meet at the call of the chair. The board shall also meet at least once each year in each judicial district of the state to study this title and to modify existing board regulations in light of statewide and local problems.</p>
+            </content>
+          </section>
+          <section eId="sec_04-06-060">
+            <num>04.06.060</num>
+            <heading>Quorum and majority.</heading>
+            <content>
+              <p>Sec. 04.06.060.   Quorum and majority.
+Three members of the board constitute a quorum for the conduct of business, except that a majority of the whole membership of the board must approve all applications for new licenses, and all renewals, transfers, suspensions, and revocations of existing licenses.</p>
+            </content>
+          </section>
+          <section eId="sec_04-06-070">
+            <num>04.06.070</num>
+            <heading>Appointment and removal of director.</heading>
+            <content>
+              <p>Sec. 04.06.070.   Appointment and removal of director.
+The governor shall appoint a director to serve as the executive officer of the board and the Marijuana Control Board created under
+AS 17.38.080
+. The director may be removed by a majority vote of the full membership of the board and a majority vote of the full membership of the Marijuana Control Board. The governor may remove the director for misconduct, misfeasance, or malfeasance in office. The governor may not remove the director unless the director is given a copy of the charges and afforded an opportunity to be publicly heard, in person or by counsel, in defense against the charges upon at least 10 days' notice. If the director is removed for cause, the governor shall file with the lieutenant governor a complete statement of all charges made against the director and the findings based on the charges, together with a complete record of any hearing.</p>
+            </content>
+          </section>
+          <section eId="sec_04-06-075">
+            <num>04.06.075</num>
+            <heading>Authority of director; annual budget.</heading>
+            <subsection eId="04-06-075__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director shall enforce this title and regulations adopted by the board.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-075__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director is not a member of the board and may not vote on a matter before the board.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-075__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director shall prepare and submit to the board an annual budget for the board that includes funding for administration, enforcement, education, training, and prevention activities under this title.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_04-06-080">
+            <num>04.06.080</num>
+            <heading>Delegation of authority.</heading>
+            <content>
+              <p>Sec. 04.06.080.   Delegation of authority.
+The director shall issue, renew, transfer, suspend, or revoke all licenses, endorsements, and permits at the direction of the board. However, notwithstanding
+AS 04.06.090
+(b), the board may delegate authority to the director to temporarily grant or deny the issuance, renewal, or transfer of licenses, endorsements, and permits. The director's temporary grant or denial of the issuance, renewal, or transfer of a license, endorsement, or permit is not binding on the board. The board may delegate to the director any other duty imposed by this title except its power to propose and adopt regulations.</p>
+            </content>
+          </section>
+          <section eId="sec_04-06-090">
+            <num>04.06.090</num>
+            <heading>Powers and duties.</heading>
+            <subsection eId="04-06-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board shall control the manufacture, barter, possession, and sale of alcoholic beverages in the state.  The board is vested with the powers, duties, and responsibilities necessary for the control of alcoholic beverages, including the power to propose and adopt regulations and to hear appeals from actions of the director, and from actions of officers and employees charged with enforcing the alcoholic beverage control laws and the regulations of the board.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Only the board may issue, renew, transfer, relocate, suspend, or revoke a license or endorsement under this title. The board shall review all applications for licenses and endorsements made under this title and may order the director to issue, renew, revoke, transfer, or suspend licenses, endorsements, and permits authorized under this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When considering an application, the board may reduce the area to be designated the licensed premises below the area applied for when, in the judgment of the board, a reduction in area is necessary to ensure control over the sale and consumption of alcoholic beverages on the premises or is otherwise in the best interests of the public.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-090__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The board may employ, directly or through contracts with other departments and agencies of the state, enforcement agents and staff it considers necessary to carry out the purposes of this title.  The salaries of personnel of the board in the exempt service shall be set by the Department of Administration.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-090__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The board shall promptly notify all licensees and municipalities of major changes to this title and to regulations adopted under this title. However, if changes only affect specific classifications of licenses, endorsements, and permits, the board need only notify those licensees and municipalities directly affected by the changes. Current copies of this title and current copies of the regulations adopted under it shall be made available at all offices in the state of the Department of Commerce, Community, and Economic Development and the detachment headquarters and posts maintained by the division of Alaska state troopers in the Department of Public Safety.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-090__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The board is responsible for education on relevant state statutes, regulations, and policies. The board shall coordinate with agencies and nonprofit organizations that provide alcohol awareness education to develop a plan to educate public safety professionals, the alcoholic beverage industry, individuals under 21 years of age, local governments, established villages, and the general public on the responsible use of alcoholic beverages. The board shall update and revise the plan annually.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-090__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The board shall review the fees specified in this title and regulations adopted under this title at least every five years.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-090__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The board may, within 30 days after the introduction of a bill amending a provision of this title or adding a new provision to this title, prepare an advisory opinion regarding the changes proposed in the bill.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-090__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The board shall, within 30 business days after receiving notice of a conviction or violation under this title, provide a copy of the conviction or violation to the holder of a license if an offense or violation occurred on the holder's licensed premises and the holder is not the subject of the conviction or violation.</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-090__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The board shall post information on the board's Internet website about fetal alcohol syndrome and fetal alcohol effects resulting from a woman consuming alcohol during pregnancy.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_04-06-095">
+            <num>04.06.095</num>
+            <heading>Statewide database.</heading>
+            <subsection eId="04-06-095__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board, after consulting with package store licensees, shall create and maintain a statewide database that contains a monthly record of the alcohol purchased by, and shipped to, a person who resides in a municipality or established village that has restricted the sale of alcoholic beverages under
+AS 04.11.491
+(a)(1), (2), or (3) or (b)(1) or (2).</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-095__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise specifically provided in this section, the information contained in the database is confidential and is not subject to inspection or copying under
+AS 40.25.110
+ 40.25.220. Personally identifiable information, including business names and addresses, in the database shall be purged one year after entry unless it is needed for criminal investigation or prosecution. All other information in the database shall be retained in aggregate form and purged 10 years after entry. Information in the database is available only to</p>
+              </content>
+              <paragraph eId="04-06-095__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a package store licensee, agent, or employee to consult before shipping alcohol to a purchaser in a restricted area under a package store shipping endorsement as provided in
+AS 04.09.460
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-095__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a law enforcement officer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-095__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a probation or parole officer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-095__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the board; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-095__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the person who is the subject of the information; the board shall adopt regulations concerning access by a person to information contained in the database of the purchases by, and shipments to, that person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="04-06-095__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The board shall produce an annual report of the aggregate regional and statewide data from the database, excluding personally identifiable information and the names and addresses of businesses, and shall make the report available for public inspection and copying under
+AS 40.25.110
+ 40.25.220. The report must include information about the total volume of alcohol received in each municipality or established village.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_04-06-100">
+            <num>04.06.100</num>
+            <heading>Regulations.</heading>
+            <subsection eId="04-06-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board shall adopt regulations governing the manufacture, barter, sale, consumption, and possession of alcoholic beverages in the state that are consistent with this title and necessary to carry out the purpose of this title in a manner that will protect the public health, safety, and welfare.  The regulations shall be adopted in accordance with
+AS 44.62
+(Administrative Procedure Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="04-06-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The subjects covered by regulations adopted under (a) of this section may include the following matters:</p>
+              </content>
+              <paragraph eId="04-06-100__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>employment, conduct, and duties of the director and of regular and contractual employees of the board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>procedures for the issuance, denial, renewal, transfer, revocation, and suspension of licenses, endorsements, and permits;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>terms and conditions of licenses, endorsements, and permits issued;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>fees for licenses, endorsements, and permits issued for which fees are not prescribed by statute;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>conduct of regular and special meetings of the board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>delegation to the director of routine administrative functions and powers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the temporary granting or denial of issuance, transfer, and renewal of licenses and endorsements;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>manner of giving any notice required by law or regulation when not provided for by statute;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>requirements relating to the qualifications of licensees, the conditions upon which a license may be issued, the accommodations of licensed premises, and board inspection of those premises;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>making of reports by wholesalers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>purchase of fidelity bonds by the state for the director and the employees of the board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>prohibition of possession of alcoholic beverages by drunken persons and by minors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>required reports from corporations licensed under this title, including reports of stock ownership and transfers and changes of officers and directors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>establishment and collection of fees to be paid on application for a license, endorsement, or permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>required reports from partnerships and limited partnerships licensed under this title, including reports of transferred interests of 10 percent or more;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>required reports from limited liability organizations licensed under this title, including reports of the transfer of a member's interest if the transfer equals 10 percent or more of the ownership of the limited liability organization and any change of managers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="04-06-100__subsec_b__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>restrictions on the manufacture, packaging, sale, and distribution of products containing alcohol that are intended for human consumption.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_04-06-110">
+            <num>04.06.110</num>
+            <heading>Peace officer powers.</heading>
+            <content>
+              <p>Sec. 04.06.110.   Peace officer powers.
+The director and the persons employed for the administration and enforcement of this title may, with the concurrence of the commissioner of public safety, exercise the powers of peace officers when those powers are specifically granted by the board. Powers granted by the board under this section may be exercised only when necessary for the enforcement of the criminally punishable provisions of this title, regulations of the board, and other criminally punishable laws and regulations, including investigation of violations of laws against prostitution and sex trafficking described in
+AS 11.66.100
+ 11.66.137 and laws against gambling, promoting gambling, and related offenses described in
+AS 11.66.200
+ 11.66.280. Unless authorized by a search warrant described in
+AS 12.35
+, nothing in this section authorizes the use of metal keys, magnetic card keys, or identification cards to access private clubs.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-31/chapter-30"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-31/chapter-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="31.30"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-31/chapter-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-31/chapter-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-31/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-31/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_31">
+        <num>31</num>
+        <heading>Oil and Gas</heading>
+        <chapter eId="title_31__chp_30">
+          <num>30</num>
+          <heading>Miscellaneous Provisions</heading>
+          <section eId="sec_31-30-010">
+            <num>31.30.010</num>
+            <heading>Damages for wrongful extraction of oil or gas.</heading>
+            <subsection eId="31-30-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If oil or gas has been or is extracted from any existing or subsequently drilled well by any person without right but who asserts a claim of right in good faith or who is acting under an honest belief as to the law or the facts, the measure of damages, if there is any right of recovery under existing law, shall be the value of the oil or gas at the time of extraction, without interest, after deducting all costs of development, operation, and production.  The costs shall include taxes and interest on all expenditures from the date of the expenditures.</p>
+              </content>
+            </subsection>
+            <subsection eId="31-30-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section oil or gas includes all hydrocarbon minerals.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

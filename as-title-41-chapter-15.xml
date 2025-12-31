@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-41/chapter-15"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-41/chapter-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="41.15"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-41/chapter-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-41/chapter-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-41/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-41/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_41">
+        <num>41</num>
+        <heading>Public Resources</heading>
+        <chapter eId="title_41__chp_15">
+          <num>15</num>
+          <heading>Forests</heading>
+          <section eId="sec_41-15-010">
+            <num>41.15.010</num>
+            <heading>Intent.</heading>
+            <content>
+              <p>Sec. 41.15.010.   Intent.
+It is the intent of
+AS 41.15.010
+ 41.15.170 to provide protection from wildland fire and other destructive agents, commensurate with the values at risk, on forested land that is owned privately, by the state, or by a municipality.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-020">
+            <num>41.15.020</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 41.15.020.   Regulations.
+The commissioner shall, by regulation, make provision for the protection of forested land in the state from fire and other destructive agents.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-025">
+            <num>41.15.025</num>
+            <heading>Fire protection on mental health trust land.</heading>
+            <content>
+              <p>Sec. 41.15.025.   Fire protection on mental health trust land.
+Land that is in the mental health trust is, for the purpose of wild fire suppression, land owned by the state.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-030">
+            <num>41.15.030</num>
+            <heading>Contracts for forest protection; emergency firefighters.</heading>
+            <subsection eId="41-15-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner may enter into necessary protection contracts.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner may hire emergency firefighting personnel, and shall establish classifications and rates of pay for the emergency firefighting personnel consistent with the compensation paid by other firefighting agencies. The commissioner may adjust the classifications and rates based on findings of the federal Bureau of Land Management for Alaska. The commissioner may assign emergency firefighting personnel to conduct fire suppression, hazard reduction, fire prevention, habitat restoration or improvement, and other related activities in emergency and nonemergency circumstances. The assignment of emergency firefighting personnel to nonemergency activities may not be used to replace permanent or seasonal state employees.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-040">
+            <num>41.15.040</num>
+            <heading>Right of entry to control and suppress fires.</heading>
+            <subsection eId="41-15-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon approval by the commissioner or an authorized agent, an employee of the division of  forestry and fire protection, or of any organization authorized to prevent, control, or suppress a fire or a destructive agent, and others assisting in the control or suppression of a fire upon request of an officer or employee of the United States or the state may, when responding to a wildland fire or suspected wildland fire or administering the provisions of this chapter, enter upon any land, whether publicly or privately owned, for the purpose of preventing,  investigating, suppressing, or controlling a wildland fire or a destructive agent.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not interfere with or prohibit the access authorized under (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-045">
+            <num>41.15.045</num>
+            <heading>Civil immunity.</heading>
+            <subsection eId="41-15-045__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding other provisions of law, a person may not bring a civil action for damages for death, personal injury, or property damage that results from an act or omission in performing or failing to perform activities or duties arising out of prevention, monitoring, control, or suppression of fires authorized to be performed under
+AS 41.15.010
+ 41.15.170 against</p>
+              </content>
+              <paragraph eId="41-15-045__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the state or its officers, agents, and employees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-045__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a political subdivision of the state or its officers, agents, and employees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-045__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>any organization authorized to prevent, control, or suppress fires; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-045__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>others assisting in the control or suppression of fires at the request of an officer or employee of the United States or the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="41-15-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not apply to a civil action for damages as a result of intentional misconduct within the course and scope of employment or agency and with complete disregard for the safety and property of others.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-050">
+            <num>41.15.050</num>
+            <heading>Fire season.</heading>
+            <content>
+              <p>Sec. 41.15.050.   Fire season.
+The period from April 1 to August 31, inclusive, of each year is designated the fire season. The commissioner may, at any time, proclaim an additional period for all or any portion of the state when weather or other conditions require action for the protection of forested land. The commissioner may also, at any time, prohibit, or allow only by permit, the setting of fires, smoking, entry, or other use on the land, when, in the judgment of the commissioner, the activities would unduly increase the fire danger.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-060">
+            <num>41.15.060</num>
+            <heading>Permits.</heading>
+            <subsection eId="41-15-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner shall, by regulation, prescribe the conditions of and the manner for obtaining a permit  for the setting of fires, use of burning devices, and other activities and uses of land that increase fire danger.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not set fires, use burning devices, or conduct other activities or use land that increases fire danger without a permit as prescribed by the commissioner in regulation under (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-070">
+            <num>41.15.070</num>
+            <heading>Disposal of burning materials.</heading>
+            <content>
+              <p>Sec. 41.15.070.   Disposal of burning materials.
+During the fire season, a burn closure, or restriction established under
+AS 41.15.050
+, a person may not discard any lighted tobacco, cigar, cigarette, match, firecracker, or other burning material on forested land.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-080">
+            <num>41.15.080</num>
+            <heading>Equipment and notice required.</heading>
+            <content>
+              <p>Sec. 41.15.080.   Equipment and notice required.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-080">
+            <num>41.15.080</num>
+            <heading>Equipment and notice required.</heading>
+            <content>
+              <p>Sec. 41.15.080.   Equipment and notice required.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-090">
+            <num>41.15.090</num>
+            <heading>Building or leaving fires.</heading>
+            <subsection eId="41-15-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not start a fire in or near forested land without first clearing the ground immediately around it free from materials that will carry fire.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who starts a fire in or near forested land may not leave the fire before totally extinguishing the fire.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-100">
+            <num>41.15.100</num>
+            <heading>Setting fires without consent.</heading>
+            <content>
+              <p>Sec. 41.15.100.   Setting fires without consent.
+A person may not set on fire forested land or other inflammable material located or growing on land that is not owned, possessed, or controlled by the person, without the consent of the owner or lawful occupant of the land.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-110">
+            <num>41.15.110</num>
+            <heading>Uncontrolled spread of fire; leaving fire unattended.</heading>
+            <subsection eId="41-15-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who knows of a fire or sets a fire on forested land owned, possessed, or controlled by the person, shall exercise due care to prevent the uncontrolled spread of the fire.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person shall make every effort possible to extinguish a fire the person knowingly sets on forested land and may not leave a fire unattended.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In a criminal action brought under this section, the escape of the fire may be considered by a court as evidence that the person responsible for starting the fire acted knowingly.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-120">
+            <num>41.15.120</num>
+            <heading>Requirement to assist in preventing or suppressing fires.</heading>
+            <content>
+              <p>Sec. 41.15.120.   Requirement to assist in preventing or suppressing fires.
+If an officer or employee of the United States or the state who is authorized to prevent, investigate, or suppress fires requests a person to assist in the prevention or suppression of a fire and informs the person of the officer or employee's official status, the person shall assist the officer or employee.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-130">
+            <num>41.15.130</num>
+            <heading>Backfires and burnouts excluded.</heading>
+            <content>
+              <p>Sec. 41.15.130.   Backfires and burnouts excluded.
+AS 41.15.010
+ 41.15.040 and 41.15.050  41.15.170 do not apply to the setting of backfires, burnouts, and other burning or clearing of land under the direction of an officer or employee of the United States or the state who is authorized to prevent or suppress fires.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-140">
+            <num>41.15.140</num>
+            <heading>Penalty.</heading>
+            <content>
+              <p>Sec. 41.15.140.   Penalty.
+Except as provided in
+AS 41.15.150
+, a person who
+(1) knowingly violates a provision of
+AS 41.15.040
+ 41.15.130 is guilty of a class A misdemeanor punishable as provided in
+AS 12.55
+;
+(2) without any culpable mental state, violates a provision of
+AS 41.15.040
+ 41.15.130 or a regulation adopted under
+AS 41.15.040
+ 41.15.130 is guilty of a violation and upon conviction is punishable by a fine under
+AS 12.55
+.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-150">
+            <num>41.15.150</num>
+            <heading>Criminal burning of forested land in the first degree.</heading>
+            <subsection eId="41-15-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of criminal burning of forested land in the first degree if</p>
+              </content>
+              <paragraph eId="41-15-150__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the person violates
+AS 41.15.155
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-150__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the person's actions or conduct violate a provision of
+AS 41.15.010
+ 41.15.130 or a regulation adopted under
+AS 41.15.010
+ 41.15.130.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="41-15-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Criminal burning of forested land in the first degree is a class B felony punishable as provided in
+AS 12.55
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-155">
+            <num>41.15.155</num>
+            <heading>Criminal burning of forested land in the second degree.</heading>
+            <subsection eId="41-15-155__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the crime of criminal burning of forested land in the second degree if</p>
+              </content>
+              <paragraph eId="41-15-155__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the person knowingly sets a fire;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-155__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>with criminal negligence, the person
+(A) permits the fire to spread beyond the person's control; or
+(B) fails to prevent the fire from spreading to forested land or other flammable material; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-155__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>as a result, the fire burns forested land or other flammable material located or growing on land that is not owned, possessed, or controlled by the person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="41-15-155__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Criminal burning of forested land in the second degree is a class C felony punishable as provided in
+AS 12.55
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-160">
+            <num>41.15.160</num>
+            <heading>Double damages in civil actions.</heading>
+            <content>
+              <p>Sec. 41.15.160.   Double damages in civil actions.
+In addition to the criminal punishment provided for by
+AS 11.46.400
+ 11.46.450,
+AS 41.15.140
+, 41.15.150, and 41.15.155, the United States, the state, a municipality, or any person may recover in a civil action double the amount of damages sustained as a consequence of a violation of
+AS 11.46.400
+ 11.46.450,
+AS 41.15.010
+ 41.15.155. In a civil action brought under
+AS 41.15.010
+ 41.15.170 or any other law relating to the subject matter of
+AS 41.15.010
+ 41.15.170, the escape of a fire is presumptive evidence of negligence by the person responsible for starting the fire and unless rebutted is sufficient to sustain the recovery.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-170">
+            <num>41.15.170</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 41.15.170.   Definitions.
+In
+AS 41.15.010
+ 41.15.170,
+(1) criminal negligence has the meaning given in
+AS 11.81.900
+;
+(2) damages includes costs incurred in suppressing, controlling, or extinguishing a fire;
+(3) destructive agent means an insect, pathogen, or other environmental agent that causes damage to a forest resource;
+(4) forested land includes all land on which grass, brush, timber, and other natural vegetative material grows;
+(5) knowingly has the meaning given in
+AS 11.81.900
+;
+(6) wildland fire includes the uncontrolled burning of grass, brush, timber, and other natural vegetative material.
+Article 2. Forest Reserve Fund.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-180">
+            <num>41.15.180</num>
+            <heading>National forest income.</heading>
+            <subsection eId="41-15-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the commissioner of commerce, community, and economic development receives national forest income under 16 U.S.C. 500, the commissioner shall immediately pay to each organized borough in which national forest land is located a share of the income from that forest; an organized borough's share of income from a national forest shall be proportional to the area of the national forest located within its boundaries.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>There is created as a separate account in the general fund the unorganized borough national forest receipts fund. The fund consists of national forest income received by the Department of Commerce, Community, and Economic Development under 16 U.S.C. 500 for the percentage of a national forest located within the unorganized borough. Seventy-five percent of the fund shall be allocated for public schools and 25 percent for public roads.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>From the percentage of the unorganized borough national forest receipts fund allocated to the public schools under (b) of this section, the commissioner shall pay to each home rule or first class city located within the unorganized borough and within a national forest or within 20 miles of a national forest, or regional educational attendance area that has a school located within the unorganized borough and within a national forest or within 20 miles of a national forest, a share of the income from the public schools allocation of the fund. A home rule city, first class city, or regional educational attendance area's share shall be calculated as the proportion of the number of children in average daily membership of the city school district or regional educational attendance area compared to the total number of children in average daily membership in city school districts located within the unorganized borough and within the national forest or within 20 miles of the national forest and in regional educational attendance areas that have a school located within the unorganized borough and within the national forest or within 20 miles of the national forest.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>From the percentage of the unorganized borough national forest receipts fund allocated to public roads under (b) of this section, the commissioner shall pay to each</p>
+              </content>
+              <paragraph eId="41-15-180__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>home rule city, first class city, or second class city that exercises road powers, that is located within the unorganized borough and within a national forest or within 20 miles of a national forest, a share of the income from the roads allocation of the fund; a home rule city, first class city, or second class city's share shall be calculated as the proportion of the number of road miles within municipal boundaries over which the community exercises road powers plus the number of state road miles maintained by the municipality under agreement with the state compared to the total number of road miles maintained by state or local governments in the unorganized borough and within the national forest or within 20 miles of the national forest;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-180__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>municipality organized under federal law as an Indian reserve that existed before the enactment of 43 U.S.C. 1618(a) and is continued in existence under that subsection and that has formed a community development corporation under (m) of this section, that exercises road powers and that is located within the unorganized borough and within the national forest or within 20 miles of the national forest a share of the income from the roads allocation of the fund; the share due a municipality organized under federal law that exercises road powers shall be calculated as the proportion of the number of road miles within municipal boundaries over which the community exercises road powers plus the number of state road miles maintained by the municipality under agreement with the state compared to the total number of road miles maintained by state or local governments in the unorganized borough and within the national forest or within 20 miles of the national forest; however, the commissioner may pay income from national forest receipts under this paragraph only after the corporation has delivered a written waiver of sovereign immunity from legal action by the state to recover all or a portion of the money distributed under this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="41-15-180__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A distribution made under (a) of this section shall be expended for public schools and public roads. A distribution made under (c) of this section shall be expended for public schools. A distribution made under (d) of this section shall be expended for public roads.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>For the purpose of making distributions from the fund, the commissioner of commerce, community, and economic development shall consult with the commissioner of education and early development, for purposes of determining the number of children in average daily membership in the public schools affected by this section, and the commissioner of transportation and public facilities, to determine the total number of road miles in the unorganized borough affected by this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>An organized borough, home rule city, first class city, second class city, regional educational attendance area, or a municipality organized under federal law that receives a national forest income payment or distribution under 16 U.S.C. 500 or this section shall annually report and account to the commissioner of commerce, community, and economic development its use of the payment or distribution for the purposes provided in (a)  (e) of this section. The commissioner of commerce, community, and economic development may not distribute national forest income under this section to an entity in the unorganized borough that has previously failed to report and account as required under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>For purposes of this section, if a portion of a home rule city, first class city, or second class city, or municipality organized under federal law in the unorganized borough is located within the national forest or within 20 miles of a national forest or if a regional educational attendance area has a school located within the national forest or within 20 miles of the national forest, the entire home rule city, first class city, or second class city, regional educational attendance area, or municipality organized under federal law is considered to be within the national forest.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A payment or distribution made under this section shall be made under an appropriation for the purpose.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>That portion of the unorganized borough national forest receipts fund remaining in the account unobligated and unexpended on June 30 of a fiscal year shall be deposited into the unrestricted portion of the general fund and shall be used to offset expenses of the general fund for school and road maintenance in the affected areas of the unorganized borough for which direct distribution of funds has not been made.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The department may adopt regulations necessary to implement this section that are consistent with federal law.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>If any provision of this section is determined by the department to be in conflict with federal requirements regarding the allocation of money received by the state from the federal government under (a) of this section, the provision that is in conflict is inoperative to the extent of the conflict. The determination does not affect the operation of any other provision of this section. Upon a determination that a provision of this section is in conflict with federal requirements regarding the allocation of money received from the federal government, the department may adopt regulations that modify the requirements of that provision to the extent necessary to comply with the federal requirements.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>To qualify to receive money under (d)(2) of this section, a municipality organized under federal law as an Indian reserve shall form a community development corporation with authority to determine how the money will be used. The charter must require that the governing board of the corporation shall be elected at an annual election open to all residents of the municipality organized under federal law who are registered and qualified to vote in state elections. The department may distribute money for the municipality organized under federal law only to a corporation organized in accordance with this subsection and only after the corporation has delivered a written waiver of sovereign immunity from legal action by the state to recover all or a portion of the money distributed under (d)(2) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-180__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>In this section, number of children in average daily membership means the number of full-time equivalent students enrolled in the city school district or regional educational attendance area, excluding correspondence students residing outside the school district's or regional educational attendance area's boundaries, that receives a share of the income from the public schools allocation of the fund created in (b) of this section.
+Article 3. Fire Suppression Fund.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-200">
+            <num>41.15.200</num>
+            <heading>Statement of purpose.</heading>
+            <content>
+              <p>Sec. 41.15.200.   Statement of purpose.
+The purpose of
+AS 41.15.200
+ 41.15.230 is to provide a readily available fund for the payment of expenses incurred by the department in suppressing fires.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-210">
+            <num>41.15.210</num>
+            <heading>Fire suppression fund.</heading>
+            <content>
+              <p>Sec. 41.15.210.   Fire suppression fund.
+A fire suppression fund is established in the state treasury for the use of the department. The fund shall be used for actual expenses incurred in the suppression of fires. The fund may not be used
+(1) for capital expenditures; or
+(2) to fund nonemergency activities of emergency firefighting personnel under
+AS 41.15.030
+.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-220">
+            <num>41.15.220</num>
+            <heading>Composition of fund.</heading>
+            <content>
+              <p>Sec. 41.15.220.   Composition of fund.
+The legislature may appropriate from the following sources to the fire suppression fund:
+(1) money received in settlement of a claim or loss caused by damage as a consequence of a violation of
+AS 41.15.010
+ 41.15.170;
+(2) money received from federal, state, or other governmental unit, or from a private donor for actual fire suppression work;
+(3) money received from other sources as the legislature may consider appropriate and necessary to satisfy the purpose of the fund.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-230">
+            <num>41.15.230</num>
+            <heading>Disbursement.</heading>
+            <content>
+              <p>Sec. 41.15.230.   Disbursement.
+Upon authorization of the governor, disbursements from the fire suppression fund shall be paid by the proper state officer on presentation of vouchers signed by the governor or the governor's authorized representative.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-240">
+            <num>41.15.240</num>
+            <heading>Records of fire suppression fund.</heading>
+            <content>
+              <p>Sec. 41.15.240.   Records of fire suppression fund.
+The department shall maintain accounting records showing the income and expenses of the fire suppression fund.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-300">
+            <num>41.15.300</num>
+            <heading>Haines State Forest Resource Management Area.</heading>
+            <subsection eId="41-15-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The purpose of
+AS 41.15.300
+ 41.15.330 is to establish the land and water presently owned by the state and all land and water acquired in the future by the state lying within the boundaries described in
+AS 41.15.305</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>as the Haines State Forest Resource Management Area.  The primary purposes for the establishment of the Haines State Forest Resource Management Area are the utilization, perpetuation, conservation, and production of the land and water including but not limited to the use of renewable and nonrenewable resources through multiple-use management and the continuation of other beneficial uses including traditional uses and other recreational activities.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The responsibility for the management, control, development, and maintenance of the Haines State Forest Resource Management Area established under
+AS 41.15.300
+ 41.15.330 is assigned to the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The state land and water designated within the Haines State Forest Resource Management Area under
+AS 41.15.305</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>may be used for a carbon offset project under
+AS 38.95.400
+ 38.95.499.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-305">
+            <num>41.15.305</num>
+            <heading>Establishment and boundaries.</heading>
+            <subsection eId="41-15-305__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to valid existing rights, the land and water presently owned by the state and all land and water acquired in the future by the state lying within the following described parcels are designated as the Haines State Forest Resource Management Area:</p>
+              </content>
+              <paragraph eId="41-15-305__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>all land encompassed by U.S.  Survey 3708, Tracts A, B and C but excluding U.S.M.S. 2206;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>that mental health land (MH-153) approved in the state selection letter from the United States Bureau of Land Management dated August 26, 1974, described as follows: Beginning at corner No. 1 of this tract which is common to angle point No. 5 of U.S. Survey 3708, then north 02°13´51" west 52.639 chains along the survey line to corner No. 2 of this tract which is common to angle point No. 6 of U.S. Survey 3708, then north 12°01´18" west 13.346 chains to corner No. 3 of this tract which is common to angle point No. 7 of U.S. Survey 3708, then north 53°57´42" west 537.070 chains to corner No. 4 of this tract which is common to angle point No. 7-A of U.S.  Survey 3708, then south 0°0´30" east 63.06 chains to corner No. 5 of this tract, then south 53°57´42" east 542.00 chains to corner No. 1 of this tract and angle point No. 5, U.S.  Survey 3708, the point of beginning;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Township 28 South, Range 56 East, Copper River Meridian
+Section 29: that portion of the N1/2 lying east of U.S.S. 3708
+Section 34: NW1/4, SE1/4;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Township 28 South, Range 57 East, Copper River Meridian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Township 28 South, Range 58 East, Copper River Meridian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Township 29 South, Range 57 East, Copper River Meridian
+Section 36: that portion of Lots 1, 5, 6, and 10 lying east of U.S.S. 3708;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Township 29 South, Range 58 East, Copper River Meridian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Township 29 South, Range 59 East, Copper River Meridian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Township 29 South, Range 60 East, Copper River Meridian
+Sections 19  36;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>Township 29 South, Range 61 East, Copper River Meridian
+Sections 19  36;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>Township 29 South, Range 62 East, Copper River Meridian
+Sections 19 and 20
+Sections 29  32;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>Township 30 South, Range 57 East, Copper River Meridian
+Section 1: that portion of Lot 1 lying east of U.S.S. 3708;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>Township 30 South, Range 58 East, Copper River Meridian
+That portion lying east and south of U.S.S. 3708;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>Township 30 South, Range 59 East, Copper River Meridian
+Sections 1  10
+Section 12
+Sections 14  23
+Section 27: that portion lying west of the Haines Corporation boundary
+Sections 28  31
+Section 33;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>Township 30 South, Range 60 East, Copper River Meridian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>Township 30 South, Range 61 East, Copper River Meridian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>Township 30 South, Range 62 East, Copper River Meridian
+Sections 5  8
+Sections 17  20
+Sections 29  32;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>Township 31 South, Range 58 East, Copper River Meridian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>Township 31 South, Range 59 East, Copper River Meridian
+Sections 6  8
+Sections 16  22
+Sections 27  34;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>Township 31 South, Range 60 East, Copper River Meridian
+Sections 1  4
+Sections 9  15
+Sections 22  24
+Sections 35 and 36;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>Township 31 South, Range 61 East, Copper River Meridian
+Sections 1  30;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>Township 31 South, Range 62 East, Copper River Meridian
+Sections 5  8
+Sections 17  20
+Sections 31 and 32;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-305__subsec_a__subsec_23">
+                <num>(23)</num>
+                <content>
+                  <p>Township 32 South, Range 59 East, Copper River Meridian
+Sections 3  33
+Sections 34  36: that portion lying north of the Tongass National Forest boundary.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="41-15-305__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Private land, University of Alaska grant land, existing transportation corridors, and borough selections within the Haines State Forest Resource Management Area are excluded from the Haines State Forest Resource Management Area.  The commissioner may not acquire private land or University of Alaska grant land located within the Haines State Forest Resource Management Area by eminent domain for any purpose.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-305__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Approved or pending Native allotment applications located partially or completely within the Haines State Forest Resource Management Area are not adversely affected by the establishment of the Haines State Forest Resource Management Area and all approved allotments and all pending allotments shall be treated as private land.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-310">
+            <num>41.15.310</num>
+            <heading>Coordinated management.</heading>
+            <subsection eId="41-15-310__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The division of forestry and fire protection shall consult with the division of parks, the Department of Fish and Game, including each local fish and game advisory committee with jurisdiction in the area, and the Alaska Chilkat Bald Eagle Preserve Advisory Council to promote effective, efficient, and coordinated administration of the Haines State Forest Resource Management Area and the Alaska Chilkat Bald Eagle Preserve for the values for which each is established.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-310__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Resource studies undertaken by the department shall be designed to benefit the management and administration of the Haines State Forest Resource Management Area and the Alaska Chilkat Bald Eagle Preserve.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-315">
+            <num>41.15.315</num>
+            <heading>Multiple-use management.</heading>
+            <subsection eId="41-15-315__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Haines State Forest Resource Management Area shall be managed under the principles of multiple use and sustained yield and under
+AS 41.17
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-315__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Fish and Game is responsible for the management of fish and game resources in the Haines State Forest Resource Management Area under applicable law and in a manner consistent with
+AS 41.15.300
+ 41.15.330 except that an opportunity for continued traditional use of the Haines State Forest Resource Management Area at levels and by traditional methods and means is guaranteed.  The traditionally compatible uses include but are not limited to fishing, hunting, trapping, berry picking, subsistence, and recreational uses, operation of motorized vehicles, and the harvest of personal-use firewood.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-315__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The control of highway access within the Haines State Forest Resource Management Area is the responsibility of the department except that the Department of Transportation and Public Facilities is responsible for the repair and maintenance of public roads in the Haines State Forest Resource Management Area.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-315__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The state land and water described in
+AS 41.15.305</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-315__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>are closed to sale under state land disposal laws. The commissioner may lease the land described in
+AS 41.15.305</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-315__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>under
+AS 38.05.070
+ 38.05.105 for a purpose consistent with
+AS 41.15.300</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-315__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and a municipality may select land in the Haines State Forest Resource Management Area under law. The commissioner may manage the land and water described in
+AS 41.15.305</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-315__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>for purposes consistent with
+AS 38.95.400
+ 38.95.499.</p>
+              </content>
+            </subsection>
+            <subsection eId="41-15-315__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A carbon offset project under
+AS 38.95.400
+ 38.95.499 undertaken on land identified in
+AS 41.15.305
+must be consistent with the applicable management plan under
+AS 41.15.320
+, and the management plan must identify the land appropriate for the carbon offset project. The department may amend a management plan under
+AS 41.15.320
+to allow for a carbon offset project.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-320">
+            <num>41.15.320</num>
+            <heading>Management plan and regulations.</heading>
+            <content>
+              <p>Sec. 41.15.320.   Management plan and regulations.
+In adopting a forest management plan for the Haines State Forest Resource Management Area under
+AS 41.17.230
+, the department shall consult with the Department of Fish and Game and the governing bodies of each municipality in the general area. The Department of Fish and Game shall consult with the department and local fish and game advisory committees, if any, before adopting regulations governing fish and wildlife management in the Haines State Forest Resource Management Area. Regulations may not be adopted by either department without prior review at a public hearing in Haines and Klukwan.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-325">
+            <num>41.15.325</num>
+            <heading>Cooperative management agreements.</heading>
+            <content>
+              <p>Sec. 41.15.325.   Cooperative management agreements.
+The department may enter into cooperative management agreements with a person who holds title to or has a valid entry on land within or adjoining the boundaries of the Haines State Forest Resource Management Area.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-330">
+            <num>41.15.330</num>
+            <heading>Existing rights.</heading>
+            <content>
+              <p>Sec. 41.15.330.   Existing rights.
+The establishment of the Haines State Forest Resource Management Area does not affect the terms and conditions of an existing permit or contract involving use of the land, water, or other resources of the Haines State Forest Resource Management Area.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-900">
+            <num>41.15.900</num>
+            <heading>Observance of Arbor Day.</heading>
+            <content>
+              <p>Sec. 41.15.900.   Observance of Arbor Day.
+To increase public awareness of the vital importance of the conservation and propagation of trees and forests to the everyday life of the citizens of Alaska, the third Monday in May of each year is designated Arbor Day.  It shall be observed by appropriate school assemblies and programs and shall be the occasion for other suitable observances and exercises by civic groups and the public in general.</p>
+            </content>
+          </section>
+          <section eId="sec_41-15-950">
+            <num>41.15.950</num>
+            <heading>Enforcement authority.</heading>
+            <subsection eId="41-15-950__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The following persons are peace officers of the state and they shall enforce the provisions of this chapter and the regulations adopted under this chapter:</p>
+              </content>
+              <paragraph eId="41-15-950__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>solely for the purpose of enforcing this chapter, an employee of the department, or other person, authorized by the commissioner;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-950__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a police officer in the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="41-15-950__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person designated in (a) of this section may, when enforcing the provisions of this chapter or a regulation adopted under this chapter,</p>
+              </content>
+              <paragraph eId="41-15-950__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>execute a warrant or other process issued by an officer or court of competent jurisdiction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-950__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>administer or take an oath, affirmation, or affidavit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-950__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>arrest a person who violates a provision of this chapter or a regulation adopted under this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="41-15-950__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>issue a citation to a person who violates a provision of
+AS 41.15.010
+ 41.15.170 or a regulation adopted under this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="41-15-950__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person is not required under this section to disclose a deadly weapon under
+AS 11.61.220
+(a)(1)(A) to a peace officer described under (a)(1) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_41-15-960">
+            <num>41.15.960</num>
+            <heading>Bail schedules.</heading>
+            <content>
+              <p>Sec. 41.15.960.   Bail schedules.
+The supreme court shall establish by rule or order a schedule of bail amounts for offenses under this chapter or under regulations adopted under this chapter that allow the disposition of a citation without a court appearance. The bail amount may not exceed the maximum fine authorized by law for that offense.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-15"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="22.15"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_22">
+        <num>22</num>
+        <heading>Judiciary</heading>
+        <chapter eId="title_22__chp_15">
+          <num>15</num>
+          <heading>District Courts and Magistrates</heading>
+          <section eId="sec_22-15-010">
+            <num>22.15.010</num>
+            <heading>Establishment of the district court of the State of Alaska.</heading>
+            <content>
+              <p>Sec. 22.15.010.   Establishment of the district court of the State of Alaska.
+There is established a district court of the State of Alaska for each of the four judicial districts of the superior court of this state.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-020">
+            <num>22.15.020</num>
+            <heading>Number of district judges and magistrates.</heading>
+            <subsection eId="22-15-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as hereinafter provided, each district court of the state shall have the number of district judges set out below opposite the name of the judicial district over which the court has jurisdiction:
+First Judicial District 3
+Second Judicial District 1
+Third Judicial District 12
+Fourth Judicial District 3</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as hereinafter provided, each district court of the State of Alaska shall have the number of magistrates set out below opposite the name of the judicial district over which the court has jurisdiction:
+First Judicial District 10
+Second Judicial District 7
+Third Judicial District 19
+Fourth Judicial District 17.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The number of district judges or magistrates within each judicial district may be increased or decreased by rule of the supreme court.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-030">
+            <num>22.15.030</num>
+            <heading>Civil jurisdiction.</heading>
+            <subsection eId="22-15-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The district court has jurisdiction of civil cases, including foreign judgments filed under
+AS 09.30.200
+and arbitration proceedings under
+AS 09.43.170
+or 09.43.530 to the extent permitted by
+AS 09.43.010
+and 09.43.300, as follows:</p>
+              </content>
+              <paragraph eId="22-15-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for the recovery of money or damages when the amount claimed exclusive of costs, interest, and attorney fees does not exceed $100,000 for each defendant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for the recovery of specific personal property, when the value of the property claimed and the damages for the detention do not exceed $100,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for the recovery of a penalty or forfeiture, whether given by statute or arising out of contract, not exceeding $100,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to give judgment without action upon the confession of the defendant for any of the cases specified in this section, except for a penalty or forfeiture imposed by statute;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>for establishing the fact of death or cause and manner of death of any person in the manner prescribed in
+AS 09.55.020
+ 09.55.069;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-030__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>for the recovery of the possession of premises in the manner provided under
+AS 09.45.070
+ 09.45.160 when the value of the arrears and damage to the property does not exceed $100,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-030__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>for the foreclosure of a lien when the amount in controversy does not exceed $100,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-030__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>for the recovery of money or damages in motor vehicle tort cases when the amount claimed exclusive of costs, interest, and attorney fees does not exceed $100,000 for each defendant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-030__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>over civil actions for taking utility service and for damages to or interference with a utility line filed under
+AS 42.20.030
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-030__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>over cases involving protective orders for domestic violence under
+AS 18.66.100
+ 18.66.180;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-030__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>over cases involving cruelty to or seizure, destruction, adoption, or cost of care of animals under
+AS 03.55.100
+ 03.55.190.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-15-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Insofar as the civil jurisdiction of the district courts and the superior court is the same, the jurisdiction is concurrent. Except for a petition for a protective order under
+AS 18.66.100
+ 18.66.180, an action that falls within the concurrent jurisdiction of the superior court and the district court may not be filed in the superior court, except as provided by rules of the supreme court.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-040">
+            <num>22.15.040</num>
+            <heading>Small claims.</heading>
+            <subsection eId="22-15-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in this subsection, when a claim for relief does not exceed $10,000, exclusive of costs, interest, and attorney fees, and request is so made, the district judge or magistrate shall hear the action as a small claim unless important or unusual points of law are involved or the state is a defendant. The Department of Labor and Workforce Development may bring an action as a small claim under this subsection for the payment of wages under
+AS 23.05.220
+in an amount not to exceed $20,000, exclusive of costs, interest, and attorney fees. The supreme court shall prescribe the procedural rules and standard forms to assure simplicity and the expeditious handling of small claims.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All potential small claim litigants shall be informed if mediation, conciliation, and arbitration services are available as an alternative to litigation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-050">
+            <num>22.15.050</num>
+            <heading>Actions not within civil jurisdiction.</heading>
+            <content>
+              <p>Sec. 22.15.050.   Actions not within civil jurisdiction.
+The jurisdiction of the district courts does not extend to
+(1) an action in which the title to real property is in question;
+(2) an action of an equitable nature, except as otherwise provided by law.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-060">
+            <num>22.15.060</num>
+            <heading>Criminal jurisdiction.</heading>
+            <subsection eId="22-15-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The district court has jurisdiction</p>
+              </content>
+              <paragraph eId="22-15-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of the following crimes:
+(A) a misdemeanor, unless otherwise provided in this chapter;
+(B) a violation of an ordinance of a political subdivision;
+(C) a violation of
+AS 04.16.050
+or
+AS 11.76.105
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to provide post-conviction relief under the Alaska Rules of Criminal Procedure, if the conviction occurred in the district court.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-15-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Insofar as the criminal jurisdiction of the district courts and the superior court is the same, such jurisdiction is concurrent.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-070">
+            <num>22.15.070</num>
+            <heading>Extent of jurisdiction.</heading>
+            <content>
+              <p>Sec. 22.15.070.   Extent of jurisdiction.
+The civil jurisdiction and the criminal jurisdiction of the district court of the State of Alaska extend over the entire state.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-080">
+            <num>22.15.080</num>
+            <heading>Change of venue.</heading>
+            <content>
+              <p>Sec. 22.15.080.   Change of venue.
+The court in which an action is pending shall change the place of trial of the action from one place to another place in the same judicial district or to a designated place in another judicial district when the court finds any of the following:
+(1) there is reason to believe that an impartial trial cannot be had;
+(2) the convenience of witnesses and the ends of justice would be promoted by the change;
+(3) the judge or magistrate is disqualified from acting, but if another judge or magistrate is assigned to try the action, no change of place of trial need be made;
+(4) the defendant will be put to unnecessary expense and inconvenience, and if the court finds that the expense and inconvenience were intentionally caused, the court may assess costs against the plaintiff.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-090">
+            <num>22.15.090</num>
+            <heading>Sessions and general powers of district court.</heading>
+            <subsection eId="22-15-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The district court shall always be open for the transaction of business, except on judicial holidays as determined by rule of the supreme court.  However, the court may at any time</p>
+              </content>
+              <paragraph eId="22-15-090__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>exercise its powers in a criminal action, or in a proceeding of a criminal nature, including the issuance of orders pertaining to bail;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-090__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>receive a verdict or discharge a jury;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-090__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>issue writs of habeas corpus;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-090__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>issue warrants of arrest and summons and search warrants.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-15-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The court shall meet in its district at times and places that may be designated by rule or order of the supreme court. The district court has all power and authority necessary to carry into complete execution all its judgments, decrees, and determinations in all matters within its jurisdiction according to the constitution, the laws of the state, and the common law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-100">
+            <num>22.15.100</num>
+            <heading>Functions and powers of district judge and magistrate.</heading>
+            <content>
+              <p>Sec. 22.15.100.   Functions and powers of district judge and magistrate.
+Each district judge and magistrate has the power
+(1) to issue writs of habeas corpus for the purpose of inquiring into the cause of restraint of liberty, returnable before a judge of the superior court, and the same proceedings shall be had on the writ as if it had been granted by the superior court judge under the laws of the state in those cases;
+(2) of a notary public;
+(3) to solemnize marriages;
+(4) to issue warrants of arrest, summons, and search warrants according to manner and procedure prescribed by law and the supreme court;
+(5) to act as an examining judge or magistrate in preliminary examinations in criminal proceedings; to set, receive, and forfeit bail and to order the release of defendants under bail;
+(6) to act as a referee in matters and actions referred to the judge or magistrate by the superior court, with all powers conferred upon referees by laws;
+(7) of the superior court in all respects including contempts, attendance of witnesses, and bench warrants;
+(8) to order the temporary detention of a minor, or take other action authorized by law or rules of procedure, in cases arising under
+AS 47.10
+or
+AS 47.12
+, when the minor is in a condition or surrounding dangerous or injurious to the welfare of the minor or others that requires immediate action; the action may be continued in effect until reviewed by the superior court in accordance with rules of procedure governing these cases;
+(9) to issue a protective order in cases involving
+(A) domestic violence as provided in
+AS 18.66.100
+ 18.66.180; or
+(B) stalking or sexual assault as provided in
+AS 18.65.850
+ 18.65.870;
+(10) to review an administrative revocation of a person's driver's license or nonresident privilege to drive, and an administrative refusal to issue an original license, when designated as a hearing officer by the commissioner of administration and with the consent of the administrative director of the Alaska Court System;
+(11) to establish the fact of death or inquire into the death of a person in the manner prescribed under
+AS 09.55.020
+ 09.55.069;
+(12) to issue an ex parte testing, examination, or screening order according to the manner and procedure prescribed by
+AS 18.15.375
+.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-110">
+            <num>22.15.110</num>
+            <heading>Additional duties of district judge and magistrate.</heading>
+            <subsection eId="22-15-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each district judge and magistrate shall</p>
+              </content>
+              <paragraph eId="22-15-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>record birth, death, and marriage certificates presented to them for record in the manner prescribed by law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>authorize the burial or disposition of bodies under
+AS 12.65.100
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>upon application by an appropriate person, appoint the person to assume temporary custody of and preserve the property and estate of deceased persons until disposition of the property is made under
+AS 13.16
+or further order is made by the court.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-15-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A district judge may establish a controlled livestock district in accordance with
+AS 03.35.010
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-120">
+            <num>22.15.120</num>
+            <heading>Limitations on proceedings which magistrate may hear.</heading>
+            <subsection eId="22-15-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A magistrate shall preside only in cases and proceedings under
+AS 22.15.040
+, 22.15.100, and 22.15.110, and as follows:</p>
+              </content>
+              <paragraph eId="22-15-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for the recovery of money or damages only when the amount claimed, exclusive of costs, interest, and attorney fees, does not exceed $10,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for the recovery of specific personal property when the value of the property claimed and the damages for the detention do not exceed $10,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for the recovery of a penalty or forfeiture, whether given by statute or arising out of contract, not exceeding $10,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to give judgment without action upon the confession of the defendant for any of the cases specified in this section, except for a penalty or forfeiture imposed by statute;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>to give judgment of conviction upon a plea of guilty or no contest by the defendant in a criminal proceeding within the jurisdiction of the district court;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>to hear, try, and enter judgments in all cases involving misdemeanors that are not minor offenses if the defendant consents in writing that the magistrate may try the case;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>to hear, try, and enter judgments in all cases involving minor offenses and violations of ordinances of political subdivisions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>for the extradition of fugitives as authorized under
+AS 12.70
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>to provide post-conviction relief under the Alaska Rules of Criminal Procedure for any of the cases specified in (5), (6), or (7) of this subsection if the conviction occurred in the district court; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>to hear, try, and enter judgments in actions for the payment of wages brought by the Department of Labor and Workforce Development as provided in
+AS 22.15.040</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-15-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A magistrate may not preside in small claims cases under
+AS 22.15.040
+when service is made on a defendant outside the state under Rule 11(a)(4)(C), District Court Rules of Civil Procedure.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, minor offense means</p>
+              </content>
+              <paragraph eId="22-15-120__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an offense classified by statute as an infraction or a violation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an offense for which a bail forfeiture amount has been authorized by statute and established by supreme court order; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-15-120__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a statutory offense for which a conviction cannot result in incarceration, a fine greater than $300, or the loss of a valuable license.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-140">
+            <num>22.15.140</num>
+            <heading>Process.</heading>
+            <content>
+              <p>Sec. 22.15.140.   Process.
+Process of the district court shall be in the name of the State of Alaska, signed by the district judge, magistrate, clerk, or deputy clerk of the district court in the judicial district where the process is issued, dated when issued, sealed with the seal of the court, and made returnable according to rule prescribed by the supreme court and shall run throughout the state.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-150">
+            <num>22.15.150</num>
+            <heading>Jury trials.</heading>
+            <content>
+              <p>Sec. 22.15.150.   Jury trials.
+The trial jury in the district courts consists of a body of six persons in number.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-160">
+            <num>22.15.160</num>
+            <heading>Qualifications of district judges and magistrates.</heading>
+            <subsection eId="22-15-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A district judge shall be a citizen of the United States and of the state, at least 21 years of age, a resident of the state for at least five years immediately preceding appointment, and (1) have been engaged in the active practice of law for not less than three years immediately preceding appointment and at the time of appointment licensed to practice law in the State of Alaska; or (2) have served for at least seven years as a magistrate in the state.  The supreme court may prescribe additional qualifications.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A magistrate shall be a citizen of the United States and of the state, at least 21 years of age, and a resident of the state for at least six months immediately preceding appointment. The supreme court may prescribe additional qualifications.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-170">
+            <num>22.15.170</num>
+            <heading>Selection of district judges and magistrates.</heading>
+            <subsection eId="22-15-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governor shall fill a vacancy or appoint a successor to fill an impending vacancy in an office of district judge within 45 days after receiving nominations from the judicial council by appointing one of two or more persons nominated by the council for each actual or impending vacancy. The appointment to fill an impending vacancy becomes effective upon the actual occurrence of the vacancy.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The presiding judge of the superior court in each judicial district may appoint acting district judges as needed to serve at the pleasure of the presiding judge for a term of no longer than 12 months or until succeeded by an appointment made under (a) of this section, whichever first occurs.  An acting district judge shall be a citizen of the United States and of the state, at least 21 years of age, but need not be licensed to practice law in any of the United States and need not have established Alaska residence before appointment.  Service as an acting district judge is not considered a judicial service for the purposes of
+AS 22.25
+unless the judge is subsequently appointed under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The presiding judge of the superior court in each judicial district shall appoint the magistrates for the district court for the judicial district.  Each magistrate serves at the pleasure of the presiding judge of the superior court in the judicial district for which appointed.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-170__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Vacancies for magistrates shall be filled in the same manner as appointments.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-170__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The office of a district court judge becomes vacant 90 days after the election at which the judge is rejected by a majority of those voting on the question or for which the judge fails to file a declaration of candidacy.  Upon the occurrence of (1) an actual vacancy; (2) the certification of rejection following an election; or (3) the election following failure of a judge to file a declaration of candidacy, the judicial council shall meet within 90 days and submit to the governor the names of two or more persons qualified for the judicial office; except that this 90-day period may be extended by the council with the concurrence of the supreme court.  In the event of an impending vacancy other than by reason of rejection or failure to file a declaration of candidacy, the council may meet at any time within the 90-day period immediately preceding the effective date of the vacancy and submit to the governor the names of two or more persons qualified for the judicial office.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-180">
+            <num>22.15.180</num>
+            <heading>Oath of office.</heading>
+            <content>
+              <p>Sec. 22.15.180.   Oath of office.
+Each district judge and magistrate, upon entering office, shall take and subscribe to an oath of office required of all officers under the constitution and any further oath or affirmation that may be prescribed by law.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-190">
+            <num>22.15.190</num>
+            <heading>Assignment of district judges and magistrates.</heading>
+            <content>
+              <p>Sec. 22.15.190.   Assignment of district judges and magistrates.
+Each district judge and each magistrate shall hold court at times and places that are assigned by the presiding judge of the superior court of the district. The presiding judge in any judicial district may assign any district judge or magistrate within the district to serve temporarily in any other judicial districts.  Rules and procedures for temporary assignment including the emergency situation where a superior court judge is not readily available to assign a district judge or magistrate shall be as prescribed by the supreme court.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-195">
+            <num>22.15.195</num>
+            <heading>Approval or rejection.</heading>
+            <content>
+              <p>Sec. 22.15.195.   Approval or rejection.
+Each district court judge is subject to approval or rejection as provided in
+AS 15
+(Alaska Election Code).  The judicial council shall conduct an evaluation of each judge before the retention election and shall provide to the public information about the judge and may provide a recommendation regarding retention or rejection.  The information and the recommendation shall be made public at least 60 days before the election.  The judicial council shall also provide the information and any recommendation to the office of the lieutenant governor in time for publication in the election pamphlet under
+AS 15.58.050
+.  If a majority of those voting on the question rejects the candidacy of a judge, the rejected judge may not for a period of four years thereafter be appointed to fill any vacancy in the supreme court, court of appeals, superior court, or district courts of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-205">
+            <num>22.15.205</num>
+            <heading>Impeachment.</heading>
+            <content>
+              <p>Sec. 22.15.205.   Impeachment.
+A district judge is subject to impeachment by the legislature for malfeasance or misfeasance in the performance of official duties.  Impeachment must originate in the senate and must be approved by two-thirds vote of its members.  The motion for impeachment must list fully the basis for the proceeding. Trial on impeachment shall be conducted by the house of representatives.  A supreme court justice designated by the court shall preside at the trial.  Concurrence of two-thirds of the members of the house is required for a judgment of impeachment.  The judgment may not extend beyond removal from office, but does not prevent proceedings in the courts on the same or related charges.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-210">
+            <num>22.15.210</num>
+            <heading>Restrictions.</heading>
+            <subsection eId="22-15-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A district judge while holding office may not practice law, nor engage in the conduct of any other profession, vocation, or business for profit or compensation, which conduct would interfere with the performance of the judicial duties of the judge, nor may a judge hold office in a political party, or hold any other office or position of profit under the United States, the state or its political subdivisions, except that, with the approval of the chief justice of the Alaska Supreme Court, a district judge may be appointed deputy clerk of the superior court and may hold the office of United States magistrate.  A district judge who files for another elective public office other than delegate to a constitutional convention of this state or the United States forfeits the judicial position.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A magistrate, while holding office, may not hold office in a political party. A magistrate may hold any other office or position of profit under the United States, the state or its political subdivisions, or engage in the conduct of any profession or business that does not interfere with the performance of the judicial duties of the magistrate or require that the magistrate is repeatedly disqualified, on the magistrate's own motion, from judicial service because of a conflict of interest caused thereby.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-220">
+            <num>22.15.220</num>
+            <heading>Compensation.</heading>
+            <subsection eId="22-15-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (e) of this section, the monthly base salary for each district court judge is $10,793.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each magistrate shall receive annual compensation including geographic differential pay to be determined by the supreme court. Salary increases shall be determined on the basis of percentage of pay increase the legislature provides for state employees in the classified service. A magistrate's annual compensation may be payable, at the option of the magistrate, either monthly in 12 equal installments or semi-monthly in 24 equal installments.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-220__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A salary disbursement may not be issued to a district judge or magistrate until the judge or magistrate has filed with the state officer designated to issue salary disbursements an affidavit that no matter referred to the judge or magistrate for opinion or decision has been uncompleted or undecided by the judge or magistrate for a period of more than six months.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-220__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In addition to the monthly salary, each district court judge is entitled to receive a geographic cost-of-living adjustment each year on $100,000 of the judge's annual base salary for that year, based on the location of the primary office assignment. The commissioner of administration shall calculate the geographic cost-of-living adjustment based on the geographic pay differentials established under
+AS 39.27.020
+(a). Retirement contributions and benefits shall be computed only on the monthly base salary not including the geographic cost-of-living adjustment.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-220__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Beginning July 1, 2006, if the monthly basic salary for Step E, Range 28, of the salary schedule set out in
+AS 39.27.011
+increases, the monthly base salary of the judges of the district court shall increase by the same percentage. The increase takes effect when the salary increase under
+AS 39.27.011
+takes effect and may be retroactive if consistent with the change to
+AS 39.27.011
+. The commissioner of administration shall, by regulation, establish the percentage at which the salary is increased and the increased salary amount.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-230">
+            <num>22.15.230</num>
+            <heading>Additional compensation.</heading>
+            <content>
+              <p>Sec. 22.15.230.   Additional compensation.
+Subject to rule of the supreme court, a district judge or magistrate shall receive a per diem allowance and a transportation allowance commensurate with that authorized for other state employees.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-240">
+            <num>22.15.240</num>
+            <heading>Appeal.</heading>
+            <subsection eId="22-15-240__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Either party may appeal a judgment of the district court in a civil action to the superior court.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-240__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The defendant may appeal a judgment of conviction given in the district court in a criminal action to the superior court. When the judgment is given on a plea of guilty, an appeal may not be taken by the defendant except on the ground that a sentence of imprisonment of 90 days or more was excessive. The state's right of appeal in criminal cases is limited by the prohibition against double jeopardy contained in the United States Constitution and the Alaska Constitution. The state may also appeal a sentence on the ground that it is too lenient. When a sentence is appealed on the ground that it is too lenient, the court may not increase the sentence but may express its approval or disapproval of the sentence and its reasons in a written opinion.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-240__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 47 ch 14 SLA 1987.]</p>
+              </content>
+            </subsection>
+            <subsection eId="22-15-240__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 47 ch 14 SLA 1987.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-15-250">
+            <num>22.15.250</num>
+            <heading>Disposition of fines.</heading>
+            <content>
+              <p>Sec. 22.15.250.   Disposition of fines.
+When by law any fees, fines, forfeitures, or penalties are levied and collected by the district judge or magistrate, the proceeds and all other money collected shall be accounted for and transmitted to the administrative director of the Alaska Court System for transfer to the general fund of the state except as provided in
+AS 22.15.270
+.</p>
+            </content>
+          </section>
+          <section eId="sec_22-15-270">
+            <num>22.15.270</num>
+            <heading>Retention of fines, etc., by political subdivisions.</heading>
+            <content>
+              <p>Sec. 22.15.270.   Retention of fines, etc., by political subdivisions.
+All fines, penalties, and forfeitures resulting from violations of ordinances of political subdivisions shall be returned to the political subdivision whose ordinance is involved in the manner provided by rule of the supreme court. Fines, penalties, and forfeitures imposed after appeals accrue to the state, unless the appeal is prosecuted by the political subdivision.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

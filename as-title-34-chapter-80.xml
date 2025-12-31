@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-80"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-80"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="34.80"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-80/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-80/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-80/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-80/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_34">
+        <num>34</num>
+        <heading>Property</heading>
+        <chapter eId="title_34__chp_80">
+          <num>80</num>
+          <heading>Escrow Transactions for Residential Real Property</heading>
+          <section eId="sec_34-80-010">
+            <num>34.80.010</num>
+            <heading>Characterization of escrow money.</heading>
+            <content>
+              <p>Sec. 34.80.010.   Characterization of escrow money.
+The money that is received by a settlement agent for an escrow transaction is not the property of the settlement agent and is not subject to execution, attachment, or other form of collection for a claim against the settlement agent. Escrow money may not be used for a purpose other than to fulfill the terms of the escrow transaction agreement.</p>
+            </content>
+          </section>
+          <section eId="sec_34-80-020">
+            <num>34.80.020</num>
+            <heading>Segregation and deposit of escrow money.</heading>
+            <subsection eId="34-80-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A settlement agent shall segregate on the records of the settlement agent the escrow money from one escrow transaction from all other money, including the escrow money of other escrow transactions. Escrow money from more than one escrow transaction may be deposited into a single depository escrow account.</p>
+              </content>
+            </subsection>
+            <subsection eId="34-80-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A settlement agent shall deposit escrow money in a depository escrow account of a financial institution located in this state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_34-80-030">
+            <num>34.80.030</num>
+            <heading>Interest on escrow money.</heading>
+            <content>
+              <p>Sec. 34.80.030.   Interest on escrow money.
+Notwithstanding any other provision of law, interest may not be collected or paid by a settlement agent on money held for an escrow transaction unless authorized in writing by the parties to the escrow transaction, including the settlement agent.</p>
+            </content>
+          </section>
+          <section eId="sec_34-80-040">
+            <num>34.80.040</num>
+            <heading>Disbursement of escrow money.</heading>
+            <subsection eId="34-80-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A settlement agent may not disburse escrow money unless items that are at least equal in value to the proposed disbursements have been received by the settlement agent for the escrow transaction, have been deposited as required by
+AS 34.80.020
+(b), and are available for withdrawal as a matter of right from the depository escrow account.</p>
+              </content>
+            </subsection>
+            <subsection eId="34-80-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A settlement agent may not disburse escrow money on the same business day as the items are deposited under
+AS 34.80.020</p>
+              </content>
+            </subsection>
+            <subsection eId="34-80-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>unless the deposit is made in cash, by interbank electronic transfer, or in a form that permits conversion of the deposit to cash on the same day the deposit is made.</p>
+              </content>
+            </subsection>
+            <subsection eId="34-80-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A settlement agent may not disburse escrow money on the business day after the business day on which the items are deposited under (a) of this section unless the deposit is made by</p>
+              </content>
+              <paragraph eId="34-80-040__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a cashier's check or a certified check and the cashier's check or certified check is payable in the state and drawn on a financial institution located in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-80-040__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a cashier's check, a negotiable order of withdrawal, a money order, or another item and the check, order of withdrawal, money order, or other item has been finally paid before the disbursement; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-80-040__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a depository check, including a cashier's, certified, or teller's check, that is governed by 12 U.S.C. 4001  4010 (Expedited Funds Availability Act).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="34-80-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In (a) of this section, available for withdrawal as a matter of right means</p>
+              </content>
+              <paragraph eId="34-80-040__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>when the item has been submitted for collection and payment for the item has been received;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-80-040__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>when the financial institution where an item has been deposited considers the money represented by the item available for withdrawal; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-80-040__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>unless written notification has been received from the financial institution where the item was deposited establishing a longer period for an item drawn on an out-of-state financial institution, after a reasonable time has passed for prohibiting customers from drawing on the item.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_34-80-050">
+            <num>34.80.050</num>
+            <heading>Recording, filing, or delivery of escrow transaction documents.</heading>
+            <content>
+              <p>Sec. 34.80.050.   Recording, filing, or delivery of escrow transaction documents.
+A settlement agent may not record in the office of the recorder in this state or record in an office in another state that is equivalent to the office of the recorder, file under
+AS 45.29
+in this state or file under an equivalent statute in another state, or deliver a conveyance of property, loan documents, documents establishing a security interest in property, or other documents from an escrow transaction until the money required by the escrow transaction agreement to be disbursed at the same time is available for disbursement under
+AS 34.80.040
+.</p>
+            </content>
+          </section>
+          <section eId="sec_34-80-090">
+            <num>34.80.090</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 34.80.090.   Definitions.
+In this chapter,
+(1) depository escrow account means an account that holds escrow money pending completion of an escrow transaction and that is in a financial institution;
+(2) escrow money means the money that is received by a settlement agent for an escrow transaction;
+(3) escrow transaction means a transaction where, for the purpose of effecting and closing the sale, purchase, exchange, transfer, encumbrance, leasing, or other disposition of an interest in a single piece of residential real property, persons agree that
+(A) money, written documents, evidence of title to real or personal property, or other things of value will be delivered to a person for retention until the happening of a specific event or the performance of a prescribed condition; and
+(B) upon the happening of the event or performance of the condition, the person holding the things of value will deliver them to the persons entitled to them under the escrow transaction agreement;
+(4) financial institution means a financial institution
+(A) whose accounts are insured by an agency of the federal government;
+(B) that is located in this state and does not meet the requirements of (A) of this paragraph, but is subject to regulation by the Department of Commerce, Community, and Economic Development; or
+(C) that is located in another state and does not meet the requirements of (A) of this paragraph, but is subject to regulation in the other state by an agency comparable to the Department of Commerce, Community, and Economic Development;
+(5) item means cash, a check, a negotiable order of withdrawal, a share draft, a traveler's check, a money order, or an interbank electronic transfer; in this paragraph, check includes a cashier's check;
+(6) residential real property means real property on which there are one to four attached or detached dwelling units, or any number of apartments if the apartments are in a horizontal property regime formed under
+AS 34.07
+or any number of units if the units are in a common interest community created under
+AS 34.08
+; residential real property includes a manufactured home that has become real property under
+AS 34.85.010
+; in this paragraph, manufactured home has the meaning given in
+AS 45.29.102
+;
+(7) settlement agent means a person who handles an escrow transaction for compensation, but does not mean a financial institution or other person when the financial institution or other person collects money for the sole purpose of applying the money to the payment of an indebtedness; settlement agent includes an employee of a person who handles an escrow transaction for compensation when the employee is carrying out employment duties related to the escrow transaction.</p>
+            </content>
+          </section>
+          <section eId="sec_34-80-095">
+            <num>34.80.095</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 34.80.095.   Short title.
+This chapter may be cited as the Good Funds Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

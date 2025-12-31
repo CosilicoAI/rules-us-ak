@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-54"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-54"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.54"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-54/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-54/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-54/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-54/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_54">
+          <num>54</num>
+          <heading>Health Insurance</heading>
+          <section eId="sec_21-54-010">
+            <num>21.54.010</num>
+            <heading>Required provisions of group policies.</heading>
+            <content>
+              <p>Sec. 21.54.010.   Required provisions of group policies.
+Each group health insurance policy must contain in substance the following provisions:
+(1) a provision that, in the absence of fraud, all statements made by applicants or the policyholder or by an insured person shall be considered representations and not warranties, and that a statement made for the purpose of effecting insurance may not void the insurance or reduce benefits unless contained in a written instrument signed by the policyholder or the insured person, a copy of which has been furnished to the policyholder or to the insured person or the beneficiary of the insured person;
+(2) a provision that the insurer will furnish to the policyholder for delivery to each employee or member of the insured group, a statement in summary form of the essential features of the insurance coverage of the employee or member and to whom benefits are payable; if dependents are included in the coverage, only one certificate need be issued for each family unit;
+(3) a provision that to the group originally insured may be added from time to time eligible new employees or members or dependents, as the case may be, in accordance with the terms of the policy.</p>
+            </content>
+          </section>
+          <section eId="sec_21-54-015">
+            <num>21.54.015</num>
+            <heading>Rate requirements; filings; regulations; health care insurance restrictions.</heading>
+            <subsection eId="21-54-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Rates charged for a group health insurance policy may not be excessive, inadequate, or unfairly discriminatory.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A health care insurer may decline to cover or may restrict the coverage offered to a self-employed individual under an association plan authorized under
+AS 21.54.060
+(a)(6).</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-015__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except for large employer health care insurance plan premium rates exempted by the director by regulation under (d) of this section, an insurer shall file with the director the premium rates charged for each health care insurance plan before using them. A premium rate or premium rate change must be on file with the director for a waiting period of at least 45 days before the effective date of the premium rate. That period may be extended by the director or the insurer for an additional 15 days if, during the initial 45-day waiting period, notice is given stating that additional time for consideration of the filing is needed. A filing may become effective at the end of the waiting period unless disapproved by the director during the waiting period. If an insurer fails to provide information requested by the director during the waiting period, the filing is considered withdrawn by the insurer, and the premium rate does not become effective.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-015__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director shall adopt regulations</p>
+              </content>
+              <paragraph eId="21-54-015__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>establishing procedures for the filing and use of rates; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-015__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>specifying information that must be submitted in a filing required under (c) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-54-020">
+            <num>21.54.020</num>
+            <heading>Direct payment to providers.</heading>
+            <subsection eId="21-54-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On the written request of a covered person, a health care insurer shall pay amounts due under a health insurance policy directly to the provider of medical care services. A health insurance policy may not contain a provision that requires services be provided by a particular hospital or person, except as applicable to a health maintenance organization under
+AS 21.86
+. If a health care insurer makes a claim payment to the covered person after the covered person has given written notice electing direct payment to the provider of the service, the health care insurer shall also pay that amount to the provider of the service.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A covered person may revoke an election of direct claim payment made under (a) of this section by giving written notice of the revocation to the health care insurer and to the provider of the service. The written notice of revocation to the health care insurer must certify that the covered person has given written notice of revocation to the provider of the service. Revocation of direct claim payment is not effective until the later of the date the health care insurer received the notice of revocation or the date the provider of the service received the revocation.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The right of the covered person to request payment of indemnities under a blanket health insurance policy directly to the provider of the services or to another person may be transferred by a qualified domestic relations order to a person who is not the covered person. Rights under the qualified domestic relations order do not take effect until the order is received by the health care insurer. In this subsection, qualified domestic relations order means an order or judgment in a divorce or dissolution action under
+AS 25.24
+that designates a person to determine to whom indemnities for a covered person should be paid under a health insurance policy.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not prohibit a health care insurer from recovering an amount mistakenly paid to a provider or a covered person.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-54-030">
+            <num>21.54.030</num>
+            <heading>Required provisions of blanket policies.</heading>
+            <content>
+              <p>Sec. 21.54.030.   Required provisions of blanket policies.
+An insurer authorized to write health insurance in this state shall have the power to issue blanket health insurance. A blanket policy may not be issued or delivered in this state unless a copy of the form of the policy has been filed in accordance with
+AS 21.42.120
+. Each blanket policy must contain provisions that in the opinion of the director are at least as favorable to the policyholder and the individual insured as the following:
+(1) a provision that the policy, including endorsements and a copy of the application, if any, of the policyholder and the persons insured shall constitute the entire contract between the parties, and that any statement made by the policyholder or by a person insured shall in the absence of fraud be considered a representation and not a warranty, and that a statement may not be used in defense to a claim under the policy, unless contained in a written application; the person, a beneficiary, or assignee, shall have the right to make written request to the insurer for a copy of the application and the insurer shall, within 15 days after the receipt of the request at its home office or a branch office of the insurer, deliver or mail to the person making the request a copy of the application;
+(2) a provision that written notice of sickness or of injury must be given to the insurer within 20 days after the date when the sickness or injury occurred; failure to give notice within that time may not invalidate or reduce a claim if it is shown that it was not reasonably possible to give the notice and that notice was given as soon as was reasonably possible;
+(3) a provision that the insurer will furnish to the policyholder the forms that are usually furnished by it for filing proof of loss; if the forms are not furnished before the expiration of 15 days after the giving of the notice, the claimant shall be considered to have complied with the requirements of the policy as to proof of loss upon submitting, within the time fixed in the policy for filing proof of loss, written proof covering the occurrence, character, and extent of the loss for which claim is made;
+(4) a provision that in the case of claim for loss of time for disability, written proof of the loss must be furnished to the insurer within 90 days after the beginning of the period for which the insurer is liable, and that subsequent written proofs of the continuance of the disability must be furnished to the insurer at the intervals that the insurer may reasonably require, and that in the case of claim for any other loss, written proof of the loss must be furnished to the insurer within 90 days after the date of the loss; failure to furnish the proof within that time does not invalidate or reduce a claim if it is shown that it was not reasonably possible to furnish the proof and that the proof was furnished as soon as was reasonably possible;
+(5) a provision that all benefits payable under the policy other than benefits for loss of time will be payable immediately upon receipt of written proof of the loss, and that, subject to proof of loss, all accrued benefits payable under the policy for loss of time will be paid not later than at the expiration of each period of 30 days during the continuance of the period for which the insurer is liable, and that any balance remaining unpaid at the termination of the period will be paid immediately upon receipt of the proof;
+(6) a provision that the insurer at its own expense shall have the right and opportunity to examine the person of the insured when and so often as it may reasonably require during the pendency of claim under the policy and also the right and opportunity to make an autopsy in case of death if it is not prohibited by law;
+(7) a provision that a civil action may not be brought to recover under the policy before the expiration of 60 days after written proof of loss has been furnished in accordance with the requirements of the policy and that an action may not be brought after the expiration of three years after the time written proof of loss is required to be furnished.</p>
+            </content>
+          </section>
+          <section eId="sec_21-54-040">
+            <num>21.54.040</num>
+            <heading>Application and certificates not required.</heading>
+            <content>
+              <p>Sec. 21.54.040.   Application and certificates not required.
+An individual application may not be required from a person covered under a blanket health insurance policy or contract, nor is it necessary for the insurer to furnish each person a certificate.</p>
+            </content>
+          </section>
+          <section eId="sec_21-54-050">
+            <num>21.54.050</num>
+            <heading>Payment of blanket health policy benefits.</heading>
+            <subsection eId="21-54-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All benefits under a blanket health insurance policy shall be paid to (1) the person insured; (2) the designated beneficiary or beneficiaries of the person insured; (3) the estate of the person insured; (4) the parent, guardian, or other person actually supporting the person insured, if the person insured is a minor or otherwise not competent to give a valid release; or (5) the employer, if the entire cost of the insurance has been paid by the employer. An insurer may, and upon written request of the covered person shall, within 30 working days after receiving a proof of loss statement, pay benefits directly to the provider of the hospital, nursing, medical, dental, or surgical services. The policy may not contain a provision requiring that services be provided by a particular hospital or person, except as applicable to a health maintenance organization under
+AS 21.86
+. If the insurer pays indemnities to the insured after the covered person has given the insurer written notice in the proof of loss statement of an election of direct payment of indemnities to the provider of the service, the insurer shall also pay those indemnities to the provider of the service.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A covered person may revoke an election of direct payment of benefits made under (a) of this section by giving written notice of the revocation to the insurer and to the provider of the services. The written notice of revocation given to the insurer must certify that the covered person has given written notice of revocation to the provider of the services. Revocation of an election of direct payment is not effective until the notice of revocation is received by the insurer and the provider of the services.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The right of the covered person to request payment of indemnities under a group health insurance policy directly to the provider of the services or to another person may be transferred to a person who is not the covered person by a qualified domestic relations order. Rights under the qualified domestic relations order do not take effect until the order is received by the insurer. In this subsection, qualified domestic relations order means an order or judgment in a divorce or dissolution action under
+AS 25.24
+that designates a person to determine to whom indemnities for a covered person should be paid under a health insurance policy.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not prohibit an insurer from recovering an indemnity mistakenly paid to a provider or a covered person.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-54-060">
+            <num>21.54.060</num>
+            <heading>Group health insurance defined.</heading>
+            <subsection eId="21-54-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Group health insurance is that form of health insurance covering groups of persons as defined below, with or without one or more members of their families or one or more of their dependents, or covering one or more members of the families or one or more dependents of the groups of persons and issued on the following basis:</p>
+              </content>
+              <paragraph eId="21-54-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>under a policy issued to an employer or trustees of a fund established by an employer, who shall be considered the policyholder, insuring employees of the employer for the benefit of persons other than the employer; in this paragraph the term employees includes the officers, managers, and employees of the employer, the individual proprietor or partner if the employer is an individual proprietor or partnership, the officers, managers, and employees of subsidiary or affiliated corporations, the individual proprietors, partners, and employees of individuals and firms if the business of the employer and the individual or firm is under common control through stock ownership, contract, or otherwise; in this paragraph, employees may include retired employees; a policy issued to insure employees of a public body may provide that the term employees includes elected or appointed officials; the policy may provide that the term employees includes the trustees or their employees, or both, if their duties are principally connected with the trusteeship; a policy issued to insure employees of a corporation may provide that the term employees includes directors of the corporation, whether or not the directors receive compensation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>under a policy issued to an association, including a labor union, that is a bona fide association that has a constitution and bylaws and that insures members, employees, or employees of members of the association for the benefit of persons other than the association or its officers or trustees; in this paragraph, the term employees may include retired employees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-060__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>under a policy issued to the trustees of a fund established, adopted, or participated in by two or more employers or by one or more labor unions or by one or more employers and one or more labor unions or by an association as defined in (2) of this section, which trustees shall be considered the policyholder, to insure employees of the employers or members of the unions or of the association, or employees of members of the association, for the benefit of persons other than the employers or the unions or the association; in this paragraph, the term employees may include the officers, managers, and employees of the employer, and the individual proprietor or partners if the employer is an individual proprietor or partnership; in this paragraph, the term employees may include retired employees; the policy may provide that the term employees includes the trustees or their employees, or both, if their duties are principally connected with the trusteeship;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-060__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>under a policy issued to a person or organization to which a policy of group life insurance may be issued or delivered in this state to insure a class or classes of individuals that could be insured under the group life policy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-060__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a group health insurance policy that contains provisions for the payment by the insurer of benefits for expenses incurred on account of hospital, nursing, medical, or surgical services for members of the family or dependents of a person in the insured group may provide for the continuation of the benefit provisions, or a part or parts of them, after the death of the person in the insured group;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-060__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>under a policy issued to an association of employers covering the employees and dependents of the employees, or issued to an association of self- employed individuals covering self-employed individuals and dependents of the self- employed individuals, or issued to an association that includes a combination of employers and self-employed individuals; for purposes of this paragraph,
+(A) an association described under this paragraph shall comply with the following requirements:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-54-060__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the association shall have a constitution and bylaws;
+(ii) the association shall be maintained in good faith for the benefit of persons other than the association or its officers or trustees;
+(iii) membership in the association shall be restricted to large or small employers, or self-employed individuals, who are residents of the state; however, an employer domiciled in another state may become a member of the association for purposes of obtaining coverage through the association only for the employees and dependents of the employees of that employer who are residents of this state;
+(iv) except as provided under
+AS 21.54.015
+, the association may not condition membership in the association or coverage under a health insurance policy issued to the association on any of the factors listed under
+AS 21.54.100
+(a);
+(B) self-employed individual means an individual who derives a substantial portion of the individual's income from a trade or business through which the individual has attempted to earn taxable income and for which the individual has filed the appropriate Internal Revenue Service form and schedule for the previous taxable year.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An insurer may issue a group health insurance policy to a group that does not meet one or more of the requirements under (a)(1)  (4) and (6) of this section on a finding by the director that issuance of a group policy to the group</p>
+              </content>
+              <paragraph eId="21-54-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is in the best interests of the public;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>results in economies of acquisition or administration; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-060__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>meets other requirements adopted by the director by regulation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-54-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An insurer must submit to the director information satisfactory to the director that the group meets the requirements of (b) of this section and the director must affirmatively approve of the group before an insurer may issue a group health insurance policy under (b) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-54-070">
+            <num>21.54.070</num>
+            <heading>Blanket health insurance defined.</heading>
+            <content>
+              <p>Sec. 21.54.070.   Blanket health insurance defined.
+Blanket health insurance is declared to be that form of health insurance covering groups of persons as enumerated in one of the following subdivisions:
+(1) under a policy or contract issued to a common carrier or to an operator, owner, or lessee of a means of transportation, who or which shall be considered the policyholder, covering a group of persons who may become passengers defined by reference to their travel status on the common carrier or the means of transportation;
+(2) under a policy or contract issued to an employer, who shall be considered the policyholder, covering a group of employees, dependents, or guests, defined by reference to specified hazards incident to an activity or activities or operations of the policyholder;
+(3) under a policy or contract issued to a college, school, or other institution of learning, a school district or districts, or school jurisdictional unit, or to the head, principal, or governing board of an educational unit, who or which shall be considered the policyholder covering students, teachers, or employees;
+(4) under a policy or contract issued to a religious, charitable, recreational, educational, or civic organization, or branch of them, which shall be considered the policyholder, covering a group of members or participants defined by reference to specified hazards incident to an activity or activities or operations sponsored or supervised by the policyholder;
+(5) under a policy or contract issued to a sports team, camp, or sponsor of them, which shall be considered the policyholder, covering members, campers, employees, officials, or supervisors;
+(6) under a policy or contract issued to a volunteer fire department, first aid, civil defense, or other volunteer organization, which shall be considered the policyholder, covering a group of members or participants defined by reference to specified hazards incident to an activity or activities or operations sponsored or supervised by the policyholder;
+(7) under a policy or contract issued to a newspaper or other publisher, which shall be considered the policyholder, covering its carriers;
+(8) under a policy or contract issued to an association, including a labor union, that has a constitution and bylaws and that has been organized and is maintained in good faith for purposes other than that of obtaining insurance, which shall be considered the policyholder, covering a group of members or participants defined by reference to specified hazards incident to an activity or activities or operations sponsored or supervised by the policyholder;
+(9) under a policy or contract issued to cover any other risk or class of risks that, in the discretion of the director, may be properly eligible for blanket accident and sickness insurance; the discretion of the director may be exercised on an individual risk basis or class of risks, or both.
+Article 2. Health Care Insurance Provisions, Requirements, and Restrictions.</p>
+            </content>
+          </section>
+          <section eId="sec_21-54-100">
+            <num>21.54.100</num>
+            <heading>Unfair discrimination.</heading>
+            <subsection eId="21-54-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurer that offers, issues for delivery, delivers, or renews a health care insurance plan in the group market may not establish rules for eligibility, including continued eligibility and waiting periods under the plan, for an individual or dependent of an individual based on</p>
+              </content>
+              <paragraph eId="21-54-100__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>health status;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-100__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>medical condition, including physical and mental illnesses;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-100__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>claims experience;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-100__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>receipt of health care;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-100__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>medical history;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-100__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>genetic information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-100__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>evidence of insurability, including conditions arising from acts of domestic violence; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-100__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>disability.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-54-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A health care insurer may not require an individual, as a condition of enrollment or continued enrollment under a health care insurance plan offered in the group market, to pay a premium, contribution, or policy fee greater than a premium, contribution, or policy fee for a similarly situated individual already enrolled in the plan on the basis of a health status factor for the individual or a dependent of the individual.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-54-105">
+            <num>21.54.105</num>
+            <heading>Special enrollment requirements related to Medicaid and state child health plan coverage.</heading>
+            <content>
+              <p>Sec. 21.54.105.   Special enrollment requirements related to Medicaid and state child health plan coverage.
+A health care insurer that offers, issues, delivers, or renews a health care insurance plan in the group market shall allow an eligible employee or dependent of an employee to enroll for coverage under the terms of the plan if the employee or dependent
+(1) is covered by Medicaid under 42 U.S.C. 1396  1396u (Title XIX of the Social Security Act) or under a state child health plan under 42 U.S.C. 1397aa  1397mm (Title XXI of the Social Security Act), coverage is terminated because of loss of eligibility, and the employee requests coverage under the health care insurance plan not later than 60 days after the date of termination; or
+(2) becomes eligible for assistance under Medicaid under 42 U.S.C. 1396  1396u (Title XIX of the Social Security Act) or under a state child health plan under 42 U.S.C. 1397aa  1397mm (Title XXI of the Social Security Act), with respect to coverage under a health care insurance plan, including under any waiver or demonstration project conducted under or in relation to the Medicaid or state child health plan, and the employee requests coverage under the health care insurance plan not later than 60 days after the date the employee or dependent is determined to be eligible for assistance.</p>
+            </content>
+          </section>
+          <section eId="sec_21-54-110">
+            <num>21.54.110</num>
+            <heading>Preexisting condition exclusion.</heading>
+            <subsection eId="21-54-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurance plan offered, issued for delivery, delivered, or renewed in the group market may not contain a preexisting condition exclusion that</p>
+              </content>
+              <paragraph eId="21-54-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>relates to a condition, regardless of cause, for which medical advice, diagnosis, care, or treatment was recommended or received more than six months before the enrollment date;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>considers genetic information as a condition for which a preexisting condition exclusion may be imposed in absence of a diagnosis of the condition related to the information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>extends for more than 12 months after the enrollment date of a covered individual; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-110__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>excludes a condition relating to pregnancy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-54-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A period of a preexisting condition exclusion permissible under (a) of this section must be reduced by the aggregate of periods of creditable coverage, if any, as determined in
+AS 21.54.120
+, applicable to the participant or beneficiary as of the enrollment date. The aggregate of periods of creditable coverage is determined by adding together all periods of creditable coverage before the enrollment date, excluding periods of creditable coverage before a continuous break in coverage of more than 90 days. A waiting period or affiliation period may not be considered in determining the 90-day period. This subsection does not apply if an individual's most recent period of creditable coverage ended on a date more than 90 days before the enrollment date. This subsection does not preclude application of a waiting period to all new enrollees under a health care insurance plan.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A health care insurance plan offered, issued for delivery, delivered, or renewed in this state in the group market may not apply a preexisting condition exclusion to an individual who is (1) a newborn covered under creditable coverage as of the last day of the 30-day period beginning with the date of birth; or (2) adopted or placed for adoption before attaining 18 years of age and who is covered under creditable coverage as of the last day of the 30-day period beginning with the date of adoption or placement for adoption. This subsection does not apply to an individual after the end of the first continuous 90-day period during all of which the individual was not covered under creditable coverage.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-110__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A health care insurance plan offered, issued for delivery, delivered, or renewed in this state in the group market may exclude coverage for late enrollees for the greater of 18 months or an 18-month preexisting condition exclusion. If both a waiting period and a preexisting condition exclusion under (a) of this section are applicable to a late enrollee, the combined period may not exceed 18 months from the date the individual enrolls for coverage under a health care insurance plan.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-54-120">
+            <num>21.54.120</num>
+            <heading>Creditable coverage.</heading>
+            <subsection eId="21-54-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan in the group market shall count a period of creditable coverage based on</p>
+              </content>
+              <paragraph eId="21-54-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the standard method authorized by 42 U.S.C. 300gg (Health Insurance Portability and Accountability Act of 1996) for determining creditable coverage without regard to the specific benefits covered during the period; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an alternative method based on coverage of benefits within each of several classes or categories of benefits specified in federal regulation if
+(A) made on a uniform basis for all participants and beneficiaries; and
+(B) the insurer counts a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within the class or category.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-54-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan in the group market shall provide a certification of coverage</p>
+              </content>
+              <paragraph eId="21-54-120__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>at the time an individual ceases to be covered under a health care insurance plan or becomes covered under a federal continuation provision;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-120__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>at the time an individual ceases to be covered under a federal continuation provision; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-120__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>upon request by an individual or on behalf of an individual within 24 months after the date coverage under the health care insurance plan or a federal continuation provision ceases.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-54-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan in the group market shall establish periods of creditable coverage with respect to an individual through certification under (b) of this section or as specified in federal regulation.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan in the group market shall prominently state and describe the effect of the health care insurer's election to count a period of creditable coverage using a permissible alternative method</p>
+              </content>
+              <paragraph eId="21-54-120__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in any disclosure statement concerning the health care insurance plan or coverage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-120__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to each enrollee at the time of enrollment; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-120__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to each employer at the time of offer or sale of coverage.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-54-120__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A health care insurer issuing a certification under (b) of this section shall disclose information regarding coverage of classes and categories of health benefits available under the health care insurer's plan at the request of an entity that</p>
+              </content>
+              <paragraph eId="21-54-120__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>enrolls an individual who has provided the certification of coverage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-120__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>elects to count a period of creditable coverage according to a permissible alternative method under (a)(2) of this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-120__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>pays the health care insurer for the reasonable cost, if any, of disclosing the information described in this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-54-130">
+            <num>21.54.130</num>
+            <heading>Renewability, termination, and modification of coverage.</heading>
+            <subsection eId="21-54-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a multiple employer welfare arrangement, a health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan in the group market shall renew or continue in force the coverage under the plan at the option of the plan sponsor unless</p>
+              </content>
+              <paragraph eId="21-54-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the plan sponsor has failed to pay premiums or contributions in accordance with the terms of the health care insurance plan or the health care insurer has not received timely premium payments;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the plan sponsor has performed an act or practice that constitutes fraud or made an intentional misrepresentation of material fact under the terms of the coverage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-130__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the plan sponsor has failed to comply with a material plan provision relating to minimum participation or employer contribution requirements;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-130__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the health care insurer ceases to offer coverage in accordance with (b) and (c) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-130__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the health care insurer offers the plan only through a network plan and there is no longer an enrollee in connection with the plan who lives, resides, or works in the service area of the insurer or in the area for which the insurer is authorized to transact business; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-130__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>in the case of a plan that is made available only through a bona fide association, the employer's membership in the association ceases and coverage is terminated uniformly without regard to a health status factor of a covered individual.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-54-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A health care insurer may discontinue offering a particular type of health care insurance plan in the group market as permitted by this title if the insurer</p>
+              </content>
+              <paragraph eId="21-54-130__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provides written notice of the decision to discontinue coverage to all affected plan sponsors, participants, and beneficiaries and to the insurance regulatory official in each state in which an affected covered employee or dependent is known to reside; notice required under this paragraph must be given at least 180 days before the insurer fails to renew the health care insurance plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-130__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provides written notice of the decision to discontinue coverage to the director and to the insurance regulatory official in each state in which the insurer is licensed at least 30 days before notice is given to the affected plan sponsors, participants, and beneficiaries as described under (1) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-130__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>offers to each plan sponsor who is provided the particular type of health care insurance plan the option to purchase another health care insurance plan currently being offered by the insurer to plan sponsors in the same market in the state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-130__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>acts uniformly without regard to the claims experience of those plan sponsors or to any health status factor of a covered participant or beneficiary or a new participant or beneficiary who may become eligible for coverage.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-54-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A health care insurer may discontinue offering and renewing all health care insurance plans in the small group market, large group market, or both, as permitted by this title if the insurer</p>
+              </content>
+              <paragraph eId="21-54-130__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provides written notice of the decision to discontinue coverage to all affected plan sponsors, participants, and beneficiaries and to the insurance regulatory official in each state in which an affected covered employee or dependent is known to reside; notice required under this paragraph must be given at least 180 days before discontinuation of the plans;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-130__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provides written notice of the decision to discontinue coverage to the director and to the insurance regulatory official in each state in which the insurer is licensed at least 30 days before the notice is given to the affected plan sponsors, participants, and beneficiaries as described under (1) of this subsection; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-130__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>does not issue a health care insurance plan in the group market in this state for five years from the date the last group health care insurance plan was discontinued.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-54-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A health care insurer may modify a large employer's health care insurance plan at the time of plan renewal.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-130__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Except for coverage available only through a bona fide association, a health care insurer may modify a small employer's health care insurance plan consistent with this title at the time of plan renewal only if the modification is uniform for all small employers with the same health care insurance plan.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-130__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If a covered employee or dependent has committed a fraudulent act or made an intentional misrepresentation of a material fact in regard to a health care insurance plan, a health care insurer may terminate the coverage of the employee or the dependent under the plan.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-54-130__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>For purposes of this section, a plan sponsor includes an employer member of a bona fide association for a health care insurance plan made available by the health care insurer only through a bona fide association.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-54-140">
+            <num>21.54.140</num>
+            <heading>Renewability of coverage for a multiple employer welfare arrangement.</heading>
+            <content>
+              <p>Sec. 21.54.140.   Renewability of coverage for a multiple employer welfare arrangement.
+A health benefit plan that is a multiple employer welfare arrangement subject to this title may not deny an employer whose employees are covered under the plan continued access to the same or a different plan according to the terms of the plan, except
+(1) for nonpayment of contributions;
+(2) for fraud or other intentional misrepresentation of material fact by the employer;
+(3) for noncompliance with material plan provisions;
+(4) where the plan is ceasing to offer any coverage in a geographic area;
+(5) for a health benefit plan that offers benefits through a network plan if
+(A) there is no longer an individual enrolled through the employer who lives, resides, or works in the service area of the network plan; and
+(B) the multiple employer welfare arrangement applies this paragraph without regard to the claims experience of the employer or a health status factor in relation to an individual or an individual's dependent; and
+(6) for failure to meet the terms of an applicable collective bargaining agreement to renew a collective bargaining or other agreement requiring or authorizing contributions to the plan or to employ employees covered by a collective bargaining agreement.</p>
+            </content>
+          </section>
+          <section eId="sec_21-54-151">
+            <num>21.54.151</num>
+            <heading>Mental health or substance use disorder benefits.</heading>
+            <content>
+              <p>Sec. 21.54.151.   Mental health or substance use disorder benefits.
+A health care insurer that offers a health care insurance plan in the group market shall comply with the mental health or substance use disorder benefit requirements established under 42 U.S.C. 300gg-26.</p>
+            </content>
+          </section>
+          <section eId="sec_21-54-160">
+            <num>21.54.160</num>
+            <heading>Excepted benefits defined.</heading>
+            <content>
+              <p>Sec. 21.54.160.   Excepted benefits defined.
+Excepted benefits means benefits under one or more or any combination of the following:
+(1) benefits under
+(A) coverage only for accident, disability income insurance, or both;
+(B) coverage issued as a supplement to liability insurance;
+(C) liability insurance, including general liability insurance and automobile liability insurance;
+(D) workers' compensation or substantially similar insurance;
+(E) automobile medical payment insurance;
+(F) credit-only insurance;
+(G) coverage for on-site medical clinics; or
+(H) other similar insurance coverage, as specified in federal law, under which benefits for medical care are secondary or incidental to other insurance benefits;
+(2) if offered as a separate insurance policy and otherwise not an integral part of a health care insurance plan, benefits under
+(A) limited scope dental or vision coverage;
+(B) coverage for long-term care, nursing home care, home health care, community-based care, or any combination; or
+(C) other similar limited benefits as specified in federal law;
+(3) if offered as independent noncoordinated benefits, benefits under coverage only for a specified disease or illness, or hospital indemnity or other fixed indemnity insurance; as used in this paragraph, independent, noncoordinated benefits means benefits that are provided under a separate policy if
+(A) there is no coordination between the provision of the benefits and an exclusion of benefits under a health care insurance plan maintained by the same plan sponsor; and
+(B) the benefits are paid with respect to an event without regard to whether benefits are provided for the event under a health care insurance plan maintained by the same plan sponsor;
+(4) if offered as a separate insurance policy, benefits under
+(A) Medicare supplemental policy as defined in 42 U.S.C. 1395ss(g)(1) (Social Security Act);
+(B) coverage supplemental to the coverage provided under 10 U.S.C. 1071  1090; or
+(C) similar supplemental coverage provided to coverage under a health benefit plan.</p>
+            </content>
+          </section>
+          <section eId="sec_21-54-170">
+            <num>21.54.170</num>
+            <heading>Determination of size of employer.</heading>
+            <content>
+              <p>Sec. 21.54.170.   Determination of size of employer.
+The determination of whether an employer is a large or small employer is subject to the following:
+(1) the size of an employer that was not in existence throughout the preceding calendar year must be based on the average number of employees that the employer is reasonably expected to employ on the business days in the current calendar year;
+(2) all persons treated as a single employer under 26 U.S.C. 414(b), (c), (m), or (o) must be treated as one employer; and
+(3) a reference to a large or small employer includes by reference any predecessor of that employer.</p>
+            </content>
+          </section>
+          <section eId="sec_21-54-500">
+            <num>21.54.500</num>
+            <heading>Definitions.</heading>
+            <subsection eId="21-54-500__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>has lost creditable coverage as a result of the termination of employer contributions toward coverage or the termination of eligibility, including death, divorce, dissolution of marriage, legal separation, or a reduction in number of hours of employment; or
+(ii) had coverage under a federal continuation provision and the coverage under that provision was exhausted;
+(B) the individual is employed by an employer who offers multiple health care insurance plans and the individual elects a different health care insurance plan during an open enrollment period; or
+(C) a court has ordered coverage to be provided for a spouse or minor child under a covered employee's plan and request for enrollment is made within 30 days after issuance of the court order;</p>
+              </content>
+              <paragraph eId="21-54-500__subsec_i__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>medical and surgical benefits means benefits provided for medical or surgical services, but does not include mental health benefits;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-500__subsec_i__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>mental health benefits means benefits provided for mental health services as defined under the terms of the health care insurance plan, but does not include benefits for treatment of substance abuse or chemical dependency;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-500__subsec_i__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>network plan means a health care insurance plan offered in the group market or by an insurer under which the financing and delivery of medical care, including items and services paid for as medical care, are provided in whole or in part through a defined set of providers under contract with the insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-500__subsec_i__subsec_23">
+                <num>(23)</num>
+                <content>
+                  <p>participant has the meaning given under 29 U.S.C. 1002(7) (Employee Retirement Income Security Act of 1974); participant includes a
+(A) partner in relation to a partnership; or
+(B) self-employed individual if the individual or the individual's beneficiaries are or may become eligible to receive benefits under a health benefit plan maintained by the self-employed individual;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-500__subsec_i__subsec_24">
+                <num>(24)</num>
+                <content>
+                  <p>placed for adoption means the assumption and retention by an individual of a legal obligation for total or partial support of a child in anticipation of adopting the child;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-500__subsec_i__subsec_25">
+                <num>(25)</num>
+                <content>
+                  <p>plan sponsor has the meaning given under 29 U.S.C. 1002(16)(B) (Employee Retirement Income Security Act of 1974);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-500__subsec_i__subsec_26">
+                <num>(26)</num>
+                <content>
+                  <p>preexisting condition exclusion means a limitation or exclusion of benefits relating to a physical or mental condition that was present before the enrollment date, regardless of whether medical advice, diagnosis, care, or treatment was recommended or received before the enrollment date;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-500__subsec_i__subsec_27">
+                <num>(27)</num>
+                <content>
+                  <p>small employer means an employer that employed an average of at least two but not more than 50 employees on the business days during the preceding calendar year and that employs at least two employees on the first day of a health benefit plan year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-54-500__subsec_i__subsec_28">
+                <num>(28)</num>
+                <content>
+                  <p>waiting period means the period that must pass before an individual who is a potential participant or beneficiary in a health care insurance plan offered in the group market is eligible to be covered for benefits under the terms of the plan.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

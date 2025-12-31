@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-61"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-61"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.61"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-61/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-61/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-61/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-61/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_61">
+          <num>61</num>
+          <heading>Air Ambulance Membership Agreements</heading>
+          <section eId="sec_21-61-100">
+            <num>21.61.100</num>
+            <heading>Air ambulance membership agreement.</heading>
+            <subsection eId="21-61-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An air ambulance service provider that meets the requirements of
+AS 21.61.105
+may offer an air ambulance membership agreement.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-61-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The term of an air ambulance membership agreement may not exceed one year, but may be renewed annually.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-61-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An air ambulance membership agreement may not include a provision that requires an air ambulance service provider to pay for or indemnify a person for services provided by a third party, including a third party that is another air ambulance service provider.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-61-105">
+            <num>21.61.105</num>
+            <heading>Registration of air ambulance service providers.</heading>
+            <subsection eId="21-61-105__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An air ambulance service provider that offers an air ambulance membership agreement shall register biennially with the director on a form prescribed by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-61-105__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At the time of registration, an air ambulance service provider shall supply the director with evidence that the air ambulance service provider</p>
+              </content>
+              <paragraph eId="21-61-105__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has been certified as meeting the minimum standards prescribed by the Department of Health under
+AS 18.08.082</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-61-105__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has been in operation in the state for at least two years, or meets solvency requirements established by the director in regulation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-61-106">
+            <num>21.61.106</num>
+            <heading>Other provisions applicable.</heading>
+            <subsection eId="21-61-106__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to the provisions of this chapter, the following provisions of this title apply to air ambulance service providers and air ambulance membership agreements to the extent applicable and not in conflict with the express provisions of this chapter and the reasonable implications of the express provisions:</p>
+              </content>
+              <paragraph eId="21-61-106__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>AS 21.36
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-61-106__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>AS 21.42
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-61-106__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When applying the provisions listed in (a) of this section, the director shall treat an air ambulance service provider as an insurer and an air ambulance membership agreement as an excepted benefits insurance policy under
+AS 21.54.160
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-61-106__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in this section, an air ambulance service provider or an air ambulance membership agreement that complies with this chapter is not otherwise subject to this title.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-61-109">
+            <num>21.61.109</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 21.61.109.   Regulations.
+The director may adopt regulations to implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_21-61-110">
+            <num>21.61.110</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 21.61.110.   Definitions.
+In
+AS 21.61.100
+ 21.61.110,
+(1) air ambulance means a publicly or privately owned aircraft intended to be used and maintained or operated to provide critical care ambulance services, air medevacs, and medevac services for the transportation of individuals who are sick, injured, wounded, or otherwise helpless;
+(2) air ambulance membership agreement means an agreement in exchange for consideration, to pay for, indemnify, or provide an amount or benefit to a person for the cost of air ambulance services;
+(3) air ambulance service provider means a person that owns or operates an air ambulance;
+(4) consideration means a membership fee, receipt of insurance proceeds, performance of a service, waiver of a right, or anything of value.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

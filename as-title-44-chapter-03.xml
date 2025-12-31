@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-03"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-03"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.03"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-03/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-03/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-03/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-03/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_03">
+          <num>03</num>
+          <heading>Sovereignty of State</heading>
+          <section eId="sec_44-03-010">
+            <num>44.03.010</num>
+            <heading>Offshore water and land.</heading>
+            <content>
+              <p>Sec. 44.03.010.   Offshore water and land.
+The jurisdiction of the state extends to water offshore from the coast of the state as follows:
+(1) the marginal sea to its outermost limits as those limits are from time to time defined or recognized by the United States of America by international treaty or otherwise;
+(2) the high seas to the extent that jurisdiction is claimed by the United States of America, or to the extent recognized by the usages and customs of international law or by agreement to which the United States of America or the state is a party;
+(3) submerged land including the subsurface of submerged land, lying under the water mentioned in this section.</p>
+            </content>
+          </section>
+          <section eId="sec_44-03-020">
+            <num>44.03.020</num>
+            <heading>Ownership of water and submerged land.</heading>
+            <content>
+              <p>Sec. 44.03.020.   Ownership of water and submerged land.
+The ownership of the water and submerged land described in
+AS 44.03.010
+is in the state unless ownership of a parcel or area is held by a person or entity by a valid and effective instrument of conveyance or by operation of law.</p>
+            </content>
+          </section>
+          <section eId="sec_44-03-030">
+            <num>44.03.030</num>
+            <heading>Construction of chapter.</heading>
+            <content>
+              <p>Sec. 44.03.030.   Construction of chapter.
+This chapter does not limit or restrict
+(1) the jurisdiction of the state over a person or subject inside or outside the state that is exercisable by reason of citizenship, residence, or another reason recognized by law;
+(2) jurisdiction over or ownership of other water or land under other water inside or forming part of the boundaries of the state;
+(3) legislative jurisdiction of the United States over an area to which legislative jurisdiction is ceded by the state and which remains in the ownership of the United States.</p>
+            </content>
+          </section>
+          <section eId="sec_44-03-040">
+            <num>44.03.040</num>
+            <heading>Reconciliation with other statutes.</heading>
+            <content>
+              <p>Sec. 44.03.040.   Reconciliation with other statutes.
+This chapter does not alter the geographic area to which a statute of the state applies if the statute specifies the area precisely in miles or by another numerical designation of distance or position.  Nothing in the statute or in this chapter is a waiver or relinquishment of jurisdiction over or ownership by the state of an area to which jurisdiction or ownership extends under another provision or rule of law.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

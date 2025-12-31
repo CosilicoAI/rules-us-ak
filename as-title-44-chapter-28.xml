@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-28"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-28"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.28"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-28/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-28/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-28/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-28/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_28">
+          <num>28</num>
+          <heading>Department of Corrections</heading>
+          <section eId="sec_44-28-010">
+            <num>44.28.010</num>
+            <heading>Commissioner of corrections.</heading>
+            <content>
+              <p>Sec. 44.28.010.   Commissioner of corrections.
+The principal executive officer of the Department of Corrections is the commissioner of corrections.</p>
+            </content>
+          </section>
+          <section eId="sec_44-28-020">
+            <num>44.28.020</num>
+            <heading>Duties of department.</heading>
+            <subsection eId="44-28-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Corrections shall administer the state programs of corrections, including</p>
+              </content>
+              <paragraph eId="44-28-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>state adult penal institutions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-28-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>probation and parole supervision; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-28-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>extraditions and detainers.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-28-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall, with the approval of the Council on Domestic Violence and Sexual Assault, adopt standards, by regulation, for rehabilitation programs for perpetrators of domestic violence as defined in
+AS 18.66.990
+and for the approval of those programs. For purposes of
+AS 12.55.101
+,
+AS 18.66.100
+(c), and
+AS 33.16.150
+(f), the department shall approve a program if the department determines that the program meets the standards. Upon application of a program, the department may waive one or more standards and approve the program if the department determines</p>
+              </content>
+              <paragraph eId="44-28-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>there is good cause for the waiver;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-28-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the safety of victims and children is not compromised by the waiver;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-28-020__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an acceptable alternative is provided by the program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-28-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall establish an automated inmate information system to allow persons to place surcharge telephone calls to obtain information concerning inmates and where they are incarcerated, bail and bond information, and information concerning visiting hours at institutions. A system established under this subsection shall be designed so that</p>
+              </content>
+              <paragraph eId="44-28-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>all the costs of the system are, at a minimum, met by the revenues received from calls to the system; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-28-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the revenues received satisfy or defray the costs of establishing and maintaining an automated victim notification system established under
+AS 12.61.050
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_44-28-030">
+            <num>44.28.030</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 44.28.030.   Regulations.
+The commissioner may adopt regulations to carry out or assist in carrying out the powers and duties of the department.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

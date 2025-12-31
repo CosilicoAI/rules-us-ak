@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-19/chapter-59"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-19/chapter-59"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="19.59"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-19/chapter-59/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-19/chapter-59/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-19/chapter-59/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-19/chapter-59/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_19">
+        <num>19</num>
+        <heading>Highways and Ferries</heading>
+        <chapter eId="title_19__chp_59">
+          <num>59</num>
+          <heading>General Provisions for</heading>
+          <section eId="sec_19-59-001">
+            <num>19.59.001</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 19.59.001.   Definitions.
+In
+AS 19.05
+
+AS 19.59
+,
+(1) commissioner means the commissioner of transportation and public facilities;
+(2) construction or any derivation means construction, reconstruction, alteration, improvement, or major repair;
+(3) controlled-access facility means a highway especially designed for through traffic, and over, from, or to which owners or occupants of abutting land or other persons have either no right or easement or only a controlled right or easement of access, light, air, or view;
+(4) cost of change, relocation, or removal means the entire cost incurred by the utility properly attributed to the change, relocation, or removal of a facility, less any costs for improvements or upgrading over and above the cost of a functionally equal facility; if a facility is to be relocated and replaced with new equipment, there shall also be subtracted from the entire cost any salvage value derived from the old facility;
+(5) department means the Department of Transportation and Public Facilities;
+(6) encroachment means and includes a tower, pole, pole line, pipe, pipeline, driveway, private road, fence, billboard, stand or building, or a structure or object of any kind which is or has been placed in, on, under, or over a portion of a highway or road;
+(7) federal-aid primary, federal-aid secondary, and interstate system include any highway which is a part of the federal-aid systems as provided in the Federal-Aid Highway Act of 1956, and any laws amending or supplementing it;
+(8) highway includes a highway (whether included in primary or secondary systems), road, street, trail, walk, bridge, tunnel, drainage structure and other similar or related structure or facility, and right-of-way thereof, and further includes a ferry system, whether operated solely inside the state or to connect with a Canadian highway, and any such related facility;
+(9) maintenance means the preservation of each type of highway, roadside structure, and facility as nearly as possible in its original condition as constructed, or as subsequently improved, and the operation of highway facilities and services to provide satisfactory and safe highways;
+(10) municipality means an incorporated city or political subdivision which has jurisdiction over highways in its incorporated area;
+(11) utility includes a corporation, company, individual, or association of individuals, or a lessee, trustee, or court-appointed receiver, that owns, operates, manages, or controls a line, plant, pipeline, or system for furnishing, producing, generating, transmitting, or distributing power, electricity, communications, telecommunications, water, gas, oil, petroleum products, coal or other mineral slurry, steam, heat, light, chemicals, air, sewage, drainage not connected with highway drainage, irrigation, or similar products including publicly owned fire and police signal systems and street lighting systems that directly or indirectly serve the public or a segment of the public; utility also includes a corporation, company, individual, or association of individuals, or a lessee, trustee, or court-appointed receiver that owns, operates, manages, or controls a system for furnishing transportation of goods or persons by means of a railway, tramway, cableway, conveyor, flume, canal, tunnel, pipeline, or a similar means;
+(12) utility facility includes poles, plants, lines, trenches, bridges, utilidors, tunnels, pipelines, and any other system for furnishing, producing, generating, transmitting, or distributing power, electricity, communications, telecommunications, water, gas, oil, petroleum products, coal or other mineral slurry, steam, heat, light, chemicals, air, sewage, drainage not connected with a highway drainage system, irrigation, or another substance; utility facility also includes a system for furnishing transportation of goods or persons by means of railway, tramway, cableway, conveyor, flume, canal, tunnel, pipeline, or a similar means.</p>
+            </content>
+          </section>
+          <section eId="sec_19-59-002">
+            <num>19.59.002</num>
+            <heading>Penalties forAS 19.05 19.25.</heading>
+            <content>
+              <p>Sec. 19.59.002.   Penalties for
+AS 19.05
+ 19.25.
+A person who violates a provision of
+AS 19.05
+
+AS 19.25
+, other than a provision of
+AS 19.25.080
+ 19.25.180, is guilty of a misdemeanor and upon conviction is punishable by a fine of not less than $10 nor more than $500, or by imprisonment in jail for a period not to exceed one year, or by both.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

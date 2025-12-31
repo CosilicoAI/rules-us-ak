@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-88"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-88"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.88"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-88/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-88/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-88/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-88/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_88">
+          <num>88</num>
+          <heading>Health Care Providers Insurance</heading>
+          <section eId="sec_21-88-030">
+            <num>21.88.030</num>
+            <heading>Liability of a governor, officer, or employee.</heading>
+            <content>
+              <p>Sec. 21.88.030.   Liability of a governor, officer, or employee.
+A governor, officer, or employee or former governor, officer, or employee of the corporation is not liable for civil damages or a criminal fine by reason of the person's act or omission as a governor, officer, or employee of the corporation, or by reason of the act or omission of the corporation, the board of governors, officers, or employees unless (1) the person acts with actual knowledge that the person was acting outside the scope of the person's authority, (2) at the time of the act or omission the person was acting or failing to act for a purpose which the person knew was not in the best interests of the corporation, or (3) with respect to a criminal act, the person had actual knowledge or should have known the person's act was unlawful. If a claim or action is brought against a person entitled to the protection of this section, the claim or action will be defended by the state, except that the person shall reimburse the state for the cost to the state of the person's defense if the provisions of (1), (2), or (3) of this section apply to the person.</p>
+            </content>
+          </section>
+          <section eId="sec_21-88-095">
+            <num>21.88.095</num>
+            <heading>Premium tax offset.</heading>
+            <content>
+              <p>Sec. 21.88.095.   Premium tax offset.
+If the company to which the assets and liabilities of the corporation are transferred does not write premiums for two consecutive years that total less than 35 percent of all premiums written in the state for physicians' medical malpractice insurance or does not write premiums for one calendar year that total less than 20 percent of all premiums written in the state for physicians' medical malpractice insurance, the company may carry forward and offset against the company's premium tax liability to the state the amount by which the aggregate claims paid on reinsurance assumed under the transfer exceeds aggregate reserves on the same business established at the date of the transfer of the assets and liabilities of the corporation.</p>
+            </content>
+          </section>
+          <section eId="sec_21-88-900">
+            <num>21.88.900</num>
+            <heading>Definition.</heading>
+            <content>
+              <p>Sec. 21.88.900.   Definition.
+In this chapter, corporation means the Medical Indemnity Corporation of Alaska.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

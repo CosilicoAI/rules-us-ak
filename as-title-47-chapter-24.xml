@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-24"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-24"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.24"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-24/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-24/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-24/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-24/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_24">
+          <num>24</num>
+          <heading>Protection of Vulnerable Adults</heading>
+          <section eId="sec_47-24-010">
+            <num>47.24.010</num>
+            <heading>Persons required to report; reports of harm.</heading>
+            <subsection eId="47-24-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (e) of this section, the following persons who, in the performance of their professional duties, have reasonable cause to believe that a vulnerable adult suffers from undue influence, abandonment, exploitation, abuse, neglect, or self-neglect shall, not later than 24 hours after first having cause for the belief, report the belief to the department's vulnerable adult centralized intake office:</p>
+              </content>
+              <paragraph eId="47-24-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a physician or other licensed health care provider;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a mental health professional as defined in
+AS 47.30.915
+and including a marital and family therapist licensed under
+AS 08.63
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a pharmacist;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>an administrator or employee of a nursing home, residential care, or health care facility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a guardian or conservator;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a police officer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>a village public safety officer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>a village health aide;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>a social worker;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>a member of the clergy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>a staff employee of a project funded by the Department of Administration for the provision of services to older Alaskans, the Department of Health, or the Council on Domestic Violence and Sexual Assault;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>an employee of a personal care or home health aide program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>an emergency medical technician or a mobile intensive care paramedic;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>a caregiver of the vulnerable adult;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>a certified nurse aide;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>an educator or administrative staff member of a public or private educational institution.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-24-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A report made under this section may include the name and address of the reporting person and must include</p>
+              </content>
+              <paragraph eId="47-24-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and contact information of the vulnerable adult;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>information relating to the nature and extent of the undue influence, abandonment, exploitation, abuse, neglect, or self-neglect;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>other information that the reporting person believes might be helpful in an investigation of the case or in providing protection for the vulnerable adult.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-24-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department or its designees shall report to the Department of Law any person required by (a) of this section to report who fails to comply with this section. A person listed in (a) of this section who, because of the circumstances, should have had reasonable cause to believe that a vulnerable adult suffers from undue influence, abandonment, exploitation, abuse, neglect, or self-neglect but who knowingly fails to comply with this section is guilty of a class B misdemeanor. If a person convicted under this section is a member of a profession or occupation that is licensed, certified, or regulated by the state, the court shall notify the appropriate licensing, certifying, or regulating entity of the conviction.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not prohibit a person listed in (a) of this section, or any other person, from reporting cases of undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of a vulnerable adult that have come to the person's attention in the person's nonoccupational capacity. This section does not prohibit any other person from reporting a harm under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a person making a report under this section believes that immediate action is necessary to protect the vulnerable adult from imminent risk of serious physical harm due to undue influence, abandonment, exploitation, abuse, neglect, or self-neglect and the reporting person cannot immediately contact the department's vulnerable adult centralized intake office, the reporting person shall make the report to a police officer or a village public safety officer. The police officer or village public safety officer shall take immediate action to protect the vulnerable adult and shall, within 24 hours after receiving the report of harm, notify the department. A person may not bring an action for damages against a police officer, a village public safety officer, the state, or a political subdivision of the state based on a decision under this subsection to take or not to take immediate action to protect a vulnerable adult. If a decision is made under this subsection to take immediate action to protect a vulnerable adult, a person may not bring an action for damages based on the protective actions taken unless the protective actions were performed with gross negligence or intentional misconduct; damages awarded in the action may include only direct economic compensatory damages for personal injury.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>[Repealed, § 15, ch. 19, SLA 2017]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-010__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>[Repealed, § 14 ch 129 SLA 1994.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-010__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>[Repealed, § 14 ch 129 SLA 1994.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-010__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A person required to report under this section who makes the report to the person's job supervisor or to another individual working for the entity that employs the person is not relieved of the obligation to make the report to the department as required under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-010__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>A person who recklessly makes a false report under this section is civilly liable for actual damages suffered by the person who is the subject of the report.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-24-011">
+            <num>47.24.011</num>
+            <heading>Duties of the department regarding services and protection for vulnerable adults.</heading>
+            <content>
+              <p>Sec. 47.24.011.   Duties of the department regarding services and protection for vulnerable adults.
+In order to facilitate the provision of supportive and protective services for vulnerable adults, the department shall
+(1) compile information on available supportive and protective services for vulnerable adults in the state;
+(2) establish, publicize, and maintain a vulnerable adult centralized intake office;
+(3) develop and coordinate a statewide system to serve vulnerable adults who are in need of protective services;
+(4) establish criteria and procedures for the authorization and supervision of other state agencies or community-based service providers to serve as designees of the department under this chapter;
+(5) in accordance with this chapter, designate other state agencies or community-based service providers to deliver supportive and protective services to vulnerable adults who are in need of protective services;
+(6) develop within the vulnerable adult centralized intake office a central registry for reports of vulnerable adults in need of protective services;
+(7) maintain confidentiality of records as provided for in
+AS 47.24.050
+; and
+(8) adopt regulations to carry out the purposes of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_47-24-013">
+            <num>47.24.013</num>
+            <heading>Reports of undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of vulnerable adults in out-of-home care facilities.</heading>
+            <subsection eId="47-24-013__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a report received under
+AS 47.24.010
+pertains to the undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of a vulnerable adult that is alleged to have been committed by or to have resulted from the negligence of the staff or a volunteer of an out-of-home care facility, including a facility licensed under
+AS 47.32
+, in which the vulnerable adult resides, the department may forward the report to the long term care ombudsman for investigation under
+AS 44.25.310
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-013__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall investigate a report received under
+AS 47.24.010
+regarding the undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of a vulnerable adult that is alleged to have been committed by or to have resulted from the negligence of the staff or a volunteer of an out-of-home care facility in which the vulnerable adult resides.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-013__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon receipt of a report under (a) or (b) of this section, the long term care ombudsman and the department shall</p>
+              </content>
+              <paragraph eId="47-24-013__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>conduct an investigation as appropriate under
+AS 44.25.310
+or this title, respectively;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-013__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>coordinate and cooperate in their responses to and investigations of the report if their jurisdictions overlap.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-24-013__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the long term care ombudsman directly receives a report regarding the undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of a vulnerable adult in an out-of-home care facility, the ombudsman may provide the report, and the results of the ombudsman's actions or investigations regarding the report, to the department's vulnerable adult centralized intake office. The ombudsman shall obtain the informed consent of the vulnerable adult or the vulnerable adult's resident representative before providing the report to the department. The department may investigate the report as described in
+AS 47.24.015
+if the department determines that action is appropriate. In this subsection, resident representative has the meaning given in
+AS 44.25.390
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-013__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 15 ch 19 SLA 2017.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-013__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If an investigation conducted by an agency under this section shows reasonable cause to believe that a certified nurse aide has committed abuse, neglect, or misappropriation of property, the agency shall report the matter to the Board of Nursing.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-24-015">
+            <num>47.24.015</num>
+            <heading>Action on reports.</heading>
+            <subsection eId="47-24-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon the department's receipt of a report under
+AS 47.24.010
+, the department, or its designee, shall promptly initiate an investigation to determine whether the vulnerable adult who is the subject of the report suffers from undue influence, abandonment, exploitation, abuse, neglect, or self-neglect. The department, or its designee, shall conduct a face-to-face interview with the vulnerable adult unless that person is unconscious or the department, or its designee, has determined that a face-to-face interview could further endanger the vulnerable adult. In this subsection, face-to-face interview means an in-person interview or an interview conducted through the use of technology that allows participants who are physically separated from each other to interact visually and orally.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>After the department conducts an investigation under (a) of this section, the department shall prepare a written report of the investigation, including findings, recommendations, and a determination of whether and what kind of supportive or protective services are needed by and are to be offered to the vulnerable adult. After the department's designee conducts an investigation under (a) of this section, the designee shall prepare a written report of the investigation, including findings, recommendations, and a proposed determination of whether and what kind of supportive or protective services are to be offered to the vulnerable adult. The department shall prepare, and attach to the designee's report, a final determination regarding services to be offered to the vulnerable adult.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department or its designee shall immediately terminate an investigation under this section upon the request of the vulnerable adult who is the subject of the report made under
+AS 47.24.010
+. However, the department or its designee may not terminate the investigation if the investigation to that point has resulted in probable cause to believe that the vulnerable adult is in need of protective services and the request is made personally by the vulnerable adult and the vulnerable adult is not competent to make the request on the adult's own behalf, or the request is made by the vulnerable adult's guardian, attorney-in-fact, or surrogate decision maker and that person is the alleged perpetrator of the undue influence, abandonment, exploitation, abuse, or neglect of the vulnerable adult and is being investigated under this chapter. If the department has probable cause to believe that the vulnerable adult is in need of protective services,</p>
+              </content>
+              <paragraph eId="47-24-015__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department may petition the court as set out in
+AS 47.24.019
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-015__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the department or its designee may refer the report made to the department under
+AS 47.24.010
+to a police officer for criminal investigation; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-015__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>in cases involving fraud, the department or its designee may refer the report made to the department under
+AS 47.24.010
+to the office of public advocacy for investigation; in this paragraph, fraud has the meaning given in
+AS 13.26.595
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-24-015__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Upon request, a person who made a report to the department under
+AS 47.24.010
+regarding a vulnerable adult shall be notified of the status of the investigation conducted under (a) of this section regarding that vulnerable adult.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person may not bring an action for damages based on a decision under this section to offer or not to offer protective services to a vulnerable adult.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A person may not bring an action for damages based on the provision of protective services under this section unless the action is based on gross negligence or intentional misconduct. The damages awarded in an action under this section may include only direct economic compensatory damages for personal injury.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If an investigation under this section shows reasonable cause to believe that a certified nurse aide has committed abuse, neglect, or misappropriation of property, the department shall report the matter to the Board of Nursing.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In conducting an investigation under this section, the department may issue subpoenas, conduct interviews, and examine any health care or financial records related to a vulnerable adult. The department may seek a court order to enforce a subpoena.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A person may not interfere with the department in the performance of its investigation under this section, including interfering with the department's access to the vulnerable adult.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Notwithstanding any other provision of law, the office of the department that handles adult protective services shall have access to any information compiled or retained by other divisions in the department, regardless of the nature of the information or whether the information is considered confidential, to assist in administering the provisions of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The department may audiotape or videotape an interview of a vulnerable adult if the adult has the capacity to consent and gives that consent. The department shall document the consent in its investigative file. The department may not audiotape or videotape an interview of a vulnerable adult who lacks the capacity to consent.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>The department shall provide for the training of investigators who investigate reports of harm under this section. Training must include instruction in federal, state, and local laws and policies of the department related to vulnerable adults, and in investigative techniques. The department may require other appropriate training.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-015__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>In this section, financial records includes financial records related to the vulnerable adult that are maintained by any person.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-24-016">
+            <num>47.24.016</num>
+            <heading>Surrogate decision makers for vulnerable adults.</heading>
+            <subsection eId="47-24-016__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the department determines under
+AS 47.24.015
+that a vulnerable adult is in need of protective services, but the department cannot obtain the vulnerable adult's consent to receive the services because the vulnerable adult is unable to consent or lacks decision making capacity, and has no guardian, conservator, attorney-in-fact, trustee, or surrogate for health care decisions under
+AS 13.52.030
+to serve as the vulnerable adult's surrogate decision maker, the department may select from the following list, in the order of priority listed, an individual who is willing to be the vulnerable adult's surrogate decision maker for the purpose of deciding whether to consent to the vulnerable adult's receipt of protective services:</p>
+              </content>
+              <paragraph eId="47-24-016__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the vulnerable adult's spouse, unless the vulnerable adult or the spouse have initiated divorce, dissolution, or legal separation proceedings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-016__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an individual who lives with the vulnerable adult in a spousal relationship or as a domestic partner and who is 18 years of age or older;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-016__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a son or daughter of the vulnerable adult who is 18 years of age or older;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-016__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a parent of the vulnerable adult;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-016__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a brother or sister of the vulnerable adult who is 18 years of age or older; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-016__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a close friend or relative of the vulnerable adult who is 18 years of age or older.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-24-016__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An individual from the list in (a) of this section may not be selected as a surrogate decision maker if</p>
+              </content>
+              <paragraph eId="47-24-016__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department determines that individual does not possess decision making capacity; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-016__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>there are allegations that individual is a perpetrator of the undue influence, abandonment, exploitation, abuse, or neglect of the vulnerable adult.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-24-016__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the department intends to select a surrogate decision maker from a priority level in the list in (a) of this section and there is more than one individual at that priority level who is willing to be the surrogate decision maker, those individuals</p>
+              </content>
+              <paragraph eId="47-24-016__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may select from amongst themselves, by majority vote, an individual to serve as the surrogate decision maker; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-24-016__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>as a group may serve as the surrogate decision maker and reach decisions by consensus.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-24-016__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department may not continue to provide protective services to a vulnerable adult based on the consent of a surrogate decision maker serving under this section or
+AS 13.52.030
+if the department determines that the vulnerable adult has become able to consent or has regained decision making capacity since the surrogate's consent was given. The department may continue protective services to a vulnerable adult who has become able to consent or has regained decision making capacity only if the vulnerable adult consents.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-24-017">
+            <num>47.24.017</num>
+            <heading>Delivery of protective services for vulnerable adults.</heading>
+            <subsection eId="47-24-017__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the department determines under
+AS 47.24.015
+that a vulnerable adult is in need of protective services and the vulnerable adult, the vulnerable adult's guardian, conservator, attorney-in-fact, trustee, a surrogate decision maker selected under
+AS 47.24.016
+, or a surrogate for health care decisions under
+AS 13.52.030
+consents to receipt of the protective services, and to the extent that resources are available, the department shall ensure that the protective services for the vulnerable adult are provided by the department or its designee within 10 working days after the department received the report under
+AS 47.24.010
+regarding the undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of the vulnerable adult. However, if circumstances beyond the control of the department or the department's designee make it impossible to provide the protective services within the 10 working days, the department shall ensure that the services are provided as soon as possible after that time.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-017__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, if the department determines that an emergency situation exists that necessitates provision of protective services to a vulnerable adult, the department may provide the necessary protective services in a manner determined by the department to be the most appropriate in light of the emergency situation, regardless of whether the vulnerable adult or any other person has consented to receipt of the services.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-017__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To the extent practicable, protective services provided under this section shall be delivered in a culturally relevant manner that protects the vulnerable adult's right to the least restrictive environment and maximizes that person's own decision making capabilities.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-017__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the protective services under this section include the placement of a vulnerable adult in an assisted living home at the state's expense, the minimum daily reimbursement rate to the assisted living home for the vulnerable adult is $70. The department may, under its regulations, provide for a daily rate higher than $70 if the additional care provided to the vulnerable adult in the assisted living home justifies the additional reimbursement. In this subsection, assisted living home means an assisted living home licensed under
+AS 47.32
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-24-019">
+            <num>47.24.019</num>
+            <heading>Petitioning court for certain protective services.</heading>
+            <subsection eId="47-24-019__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If, after investigation under
+AS 47.24.015
+, the department has reasonable cause to believe that a vulnerable adult is in need of protective services and is an incapacitated person, the department may petition the court under
+AS 13.26
+for appointment of a guardian or temporary guardian, or for a change of guardian, for the vulnerable adult for the purpose of deciding whether to consent to the receipt of protective services for the vulnerable adult.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-019__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If, after an investigation under
+AS 47.24.015
+, the department has reasonable cause to believe that a vulnerable adult is mentally ill and as a result either is likely to cause serious harm to self or others or is gravely disabled, the department may petition the court under
+AS 47.30.700
+to initiate an involuntary commitment proceeding.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-019__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a vulnerable adult who has consented to receive protective services, or on whose behalf consent to receive protective services has been given, is prevented by any person from receiving those services, the department may petition the superior court for an injunction restraining the person from interfering with the provision of protective services to the vulnerable adult.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-24-040">
+            <num>47.24.040</num>
+            <heading>Monitoring.</heading>
+            <content>
+              <p>Sec. 47.24.040.   Monitoring.
+If ongoing protective services are provided to a vulnerable adult under
+AS 47.24.017
+, the department shall monitor the adult's situation, as the department considers appropriate, until the department determines that the protective services are no longer needed.</p>
+            </content>
+          </section>
+          <section eId="sec_47-24-050">
+            <num>47.24.050</num>
+            <heading>Confidentiality of reports.</heading>
+            <subsection eId="47-24-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Investigation reports and reports of the undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of a vulnerable adult filed under this chapter are confidential and are not subject to public inspection and copying under
+AS 40.25.110
+ 40.25.125. However, under this chapter and regulations adopted under this chapter, investigation reports may be used by appropriate agencies or individuals inside and outside the state, in connection with investigations or judicial proceedings involving the undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of a vulnerable adult.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall disclose a report of the undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of a vulnerable adult if the vulnerable adult who is the subject of the report or the vulnerable adult's guardian, conservator, attorney-in-fact, trustee, or surrogate decision maker consents in writing. The department may not disclose a report of the undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of a vulnerable adult to the vulnerable adult's guardian, conservator, attorney-in-fact, trustee, or surrogate decision maker if that person is an alleged perpetrator of the undue influence, abandonment, exploitation, abuse, or neglect of the vulnerable adult and is being investigated under this chapter. The department shall, upon request, disclose the number of verified reports of undue influence, abandonment, exploitation, abuse, neglect, or self-neglect of a vulnerable adult that occurred at an institution that provides care for vulnerable adults or that were the result of actions or inactions of a public home care provider.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-24-070">
+            <num>47.24.070</num>
+            <heading>Required review of proposed regulations.</heading>
+            <content>
+              <p>Sec. 47.24.070.   Required review of proposed regulations.
+Before adoption by the department, regulations to implement this chapter shall be provided to the Alaska Commission on Aging established under
+AS 44.29.750
+for review.</p>
+            </content>
+          </section>
+          <section eId="sec_47-24-120">
+            <num>47.24.120</num>
+            <heading>Immunity from liability; retaliation prohibited.</heading>
+            <subsection eId="47-24-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who in good faith makes a report under
+AS 47.24.010
+, regardless of whether the person is required to do so, is immune from civil or criminal liability that might otherwise be incurred or imposed for making the report.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-24-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An employer or supervisor of a person who in good faith makes a report under
+AS 47.24.010
+may not discharge, demote, transfer, reduce pay or benefits or work privileges of, prepare a negative work performance evaluation of, or take other detrimental action against the person because the person made the report. The person making the report may bring a civil action for compensatory and punitive damages against an employer or supervisor who violates this subsection. In the civil action there is a rebuttable presumption that the detrimental action by the employer or supervisor was retaliatory if it was taken within 90 days after the report was made.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-24-130">
+            <num>47.24.130</num>
+            <heading>Treatment through spiritual means.</heading>
+            <content>
+              <p>Sec. 47.24.130.   Treatment through spiritual means.
+This chapter may not be construed to mean that a person is unduly influenced, abused, neglected, self-neglected, vulnerable, unable to consent, abandoned, exploited, or in need of emergency or protective services for the sole reason that the person relies on or is being furnished treatment by spiritual means through prayer alone under the tenets and practices of a church or religious denomination of which the person is a member or adherent, if the person consents to the treatment through spiritual means only and the treatment is administered by an accredited practitioner of the church or religious denomination. In this section, church or religious denomination has the meaning given to religious organization in
+AS 05.15.690
+.</p>
+            </content>
+          </section>
+          <section eId="sec_47-24-900">
+            <num>47.24.900</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 47.24.900.   Definitions.
+In this chapter,
+(1) abandonment means desertion of a vulnerable adult by a caregiver;
+(2) abuse means
+(A) the intentional, knowing, or reckless nonaccidental and nontherapeutic infliction of physical pain, injury, mental or emotional distress, or fear, including coercion and intimidation; or
+(B) sexual assault under
+AS 11.41.410
+or 11.41.420;
+(3) caregiver means
+(A) a person who is providing care to a vulnerable adult as a result of a family relationship, or who has assumed some or all responsibility for the care of a vulnerable adult voluntarily, by contract, as an employee of a business that provides care in an adult's home, or by court order; or
+(B) an employee of an out-of-home care facility who provides care to one or more vulnerable adults;
+(4) deception means creating, reinforcing, or failing to correct a false impression or preventing another person from acquiring information that would affect the person's judgment regarding a transaction;
+(5) decision making capacity means the ability to understand and appreciate the nature and consequences of a decision and the ability to reach and communicate an informed decision; in this paragraph, informed decision includes a decision made by the vulnerable adult that is free from undue influence;
+(6) department means the Department of Health;
+(7) designee means another state agency or a community-based program, individual, or provider of supportive services that has been licensed, or authorized by agreement with the department, to provide one or more services to vulnerable adults;
+(8) exploitation
+(A) means unjust or improper use of another person or another person's resources for one's own profit or advantage, with or without the person's consent; and
+(B) includes acts by a person who stands in a position of trust or confidence with a vulnerable adult or who knows or should know that the vulnerable adult lacks the capacity to consent that involve obtaining profit or advantage through undue influence, deception, fraud, intimidation, or breach of fiduciary duty; in this subparagraph, fraud has the meaning given in
+AS 13.26.595
+(1) and (2);
+(9) fiduciary duty means the duty of a third party who stands in a position of trust or confidence with another person, including a vulnerable adult, to act with due regard for the benefit and interest of that person;
+(10) financial institution means an institution subject to state or federal banking or financial regulations, including
+(A) a broker-dealer;
+(B) a commercial bank;
+(C) a savings bank;
+(D) a credit union;
+(E) a premium finance company;
+(F) a small loan company;
+(G) a bank holding company;
+(H) a financial holding company;
+(I) a trust company;
+(J) a savings and loan association;
+(K) a deferred deposit advance licensee;
+(L) an investment bank;
+(M) an insurance company subject to regulation by
+AS 21
+;
+(N) a licensee subject to regulation by
+AS 21
+; and
+(O) an investment adviser;
+(11) incapacitated person means a person whose ability to receive and evaluate information or to communicate decisions is impaired to the extent that the person lacks the ability to provide or arrange for the essential requirements for the person's physical health or safety without court-ordered assistance;
+(12) neglect means the intentional, knowing, or reckless failure by a caregiver to provide essential care or services or access to essential care or services or to carry out a prescribed treatment plan necessary to maintain the physical and mental health of the vulnerable adult when the vulnerable adult is unable to provide or obtain the essential care or services or to carry out the prescribed treatment plan on the vulnerable adult's own behalf; in this paragraph, essential care or services includes food, clothing, shelter, medical care, and supervision;
+(13) person who stands in a position of trust or confidence means a person who
+(A) is a relative by blood or marriage;
+(B) is a joint tenant or tenant in common;
+(C) has a legal or fiduciary relationship; or
+(D) is a person who has been entrusted with or has assumed responsibility for the use or management of the vulnerable adult's assets or income;
+(14) police officer has the meaning given in
+AS 18.65.290
+;
+(15) protective services means services that are intended to prevent or alleviate harm resulting from undue influence, abandonment, exploitation, abuse, neglect, or self-neglect and that are provided to a vulnerable adult in need of protection; in this paragraph, services includes
+(A) protective placement;
+(B) applying for or obtaining public benefits;
+(C) obtaining health care services and supplies;
+(D) staying financial transactions;
+(E) petitioning for a protective order under
+AS 13.26.401
+ 13.26.460;
+(F) assisting with personal hygiene;
+(G) obtaining food and clothing;
+(H) protection from physical and emotional abuse;
+(I) obtaining representative payee services; and
+(J) coordinating protective services;
+(16) public home care provider has the meaning given in
+AS 47.05.017
+(c);
+(17) self-neglect means an act or omission by a vulnerable adult that results, or could result in the deprivation of essential services necessary to maintain minimal mental, emotional, or physical health and safety;
+(18) supportive services means the range of services delivered by public and private organizations and individuals that assist the elderly and vulnerable adults with their social, health, educational, recreational, transportation, housing, nutritional, financial, legal, or other needs;
+(19) unable to consent means refusal to, or inability to, accept services because
+(A) the person is an incapacitated person or apparently is an incapacitated person;
+(B) of coercion by or fear of reprisal from the perpetrator of undue influence, abandonment, exploitation, abuse, or neglect;
+(C) of dependency on the perpetrator of undue influence, abandonment, exploitation, abuse, or neglect for services, care, or support; or
+(D) of an inability to perceive that refusal to consent results in an imminent and substantial danger of loss, waste, or dissipation of income or assets, eviction, physical or mental harm to self or others, or death;
+(20) undue influence means the use by a person who stands in a position of trust or confidence of the person's role, relationship, or authority to wrongfully exploit the trust, dependency, or fear of a vulnerable adult to gain control over the decision making of the vulnerable adult, including decision making related to finances, property, residence, and health care;
+(21) vulnerable adult means a person 18 years of age or older who, because of incapacity, mental illness, mental deficiency, physical illness or disability, advanced age, chronic use of drugs, chronic intoxication, fraud, confinement, or disappearance, is unable to meet the person's own needs or to seek help without assistance.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

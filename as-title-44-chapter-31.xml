@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-31"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.31"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-31/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-31/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-31/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-31/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_31">
+          <num>31</num>
+          <heading>Department of Labor and Workforce Development</heading>
+          <section eId="sec_44-31-010">
+            <num>44.31.010</num>
+            <heading>Commissioner of labor and workforce development.</heading>
+            <content>
+              <p>Sec. 44.31.010.   Commissioner of labor and workforce development.
+The principal executive officer of the Department of Labor and Workforce Development is the commissioner of labor and workforce development.</p>
+            </content>
+          </section>
+          <section eId="sec_44-31-020">
+            <num>44.31.020</num>
+            <heading>Duties of department.</heading>
+            <content>
+              <p>Sec. 44.31.020.   Duties of department.
+The Department of Labor and Workforce Development shall
+(1) enforce the laws and adopt regulations under them concerning employer-employee relationships, including the safety, hours of work, wages, and conditions of workers, including children;
+(2) accumulate, analyze, and report labor statistics;
+(3) operate systems of workers' compensation and unemployment insurance;
+(4) gather data reflecting the cost of living in various locations of the state upon request of the director of personnel under
+AS 39.27.030
+;
+(5) operate the federally funded employment and training programs under 29 U.S.C. 2801  2945 (Workforce Investment Act of 1998);
+(6) administer the state's program of adult basic education and adopt regulations to administer the program; and
+(7) administer the programs of the Alaska Vocational Technical Center and adopt regulations to administer the programs, including regulations that set rates for student tuition and room and board and fees for the programs and services provided by the department regarding the Alaska Vocational Technical Center.</p>
+            </content>
+          </section>
+          <section eId="sec_44-31-025">
+            <num>44.31.025</num>
+            <heading>Building safety account.</heading>
+            <content>
+              <p>Sec. 44.31.025.   Building safety account.
+The building safety account is created in the state treasury. The legislature may appropriate money from the account for necessary costs incurred by the Department of Labor and Workforce Development in the administration of
+AS 05.20
+,
+AS 18.60.180
+ 18.60.395, 18.60.800  18.60.820, and
+AS 18.62
+. Nothing in this section creates a dedicated fund or dedicates the money in the account for a specific purpose.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

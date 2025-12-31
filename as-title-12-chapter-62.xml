@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-62"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-62"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.62"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-62/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-62/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-62/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-62/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_62">
+          <num>62</num>
+          <heading>Criminal Justice Information and Records Checks</heading>
+          <section eId="sec_12-62-005">
+            <num>12.62.005</num>
+            <heading>Intent.</heading>
+            <content>
+              <p>Sec. 12.62.005.   Intent.
+It is the intent of the legislature that the department administer the provisions of this chapter in a manner that protects victims of crime, allows the proper administration of justice, and avoids vigilantism.</p>
+            </content>
+          </section>
+          <section eId="sec_12-62-100">
+            <num>12.62.100</num>
+            <heading>Criminal justice information advisory board; functions and duties.</heading>
+            <content>
+              <p>Sec. 12.62.100.   Criminal justice information advisory board; functions and duties.</p>
+            </content>
+          </section>
+          <section eId="sec_12-62-100">
+            <num>12.62.100</num>
+            <heading>Criminal justice information advisory board; functions and duties.</heading>
+            <content>
+              <p>Sec. 12.62.100.   Criminal justice information advisory board; functions and duties.</p>
+            </content>
+          </section>
+          <section eId="sec_12-62-105">
+            <num>12.62.105</num>
+            <heading>Duties of the department regarding criminal justice information.</heading>
+            <content>
+              <p>Sec. 12.62.105.   Duties of the department regarding criminal justice information.
+The department shall advise criminal justice agencies on matters pertaining to the development and operation of the central repository described in
+AS 12.62.110
+(1) and other criminal justice information systems, including providing advice about regulations and procedures, and estimating the resources and costs of those resources, needed to carry out the provisions of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_12-62-110">
+            <num>12.62.110</num>
+            <heading>Duties of the commissioner regarding information systems.</heading>
+            <content>
+              <p>Sec. 12.62.110.   Duties of the commissioner regarding information systems.
+The commissioner shall
+(1) develop and operate a criminal justice information system to serve as the state's central repository of criminal history record information, and to collect, store, and release criminal justice information as provided in this chapter;
+(2) provide a uniform crime reporting system for the periodic collection, analysis, and reporting of crimes, and compile and publish statistics and other information on the nature and extent of crime in the state;
+(3) cooperate with other agencies of the state, the criminal record repositories of other states, the Interstate Identification Index, the National Law Enforcement Telecommunications System, the National Crime Information Center, and other appropriate agencies or systems, in the development and operation of an effective interstate, national, and international system of criminal identification, records, and statistics; and
+(4) in accordance with
+AS 44.62
+(Administrative Procedure Act), adopt regulations necessary to implement the provisions of this chapter; in adopting the regulations, the commissioner may consult with affected law enforcement agencies regarding the fiscal implications of the regulations; regulations may not be adopted under this section that affect procedures of the court system.</p>
+            </content>
+          </section>
+          <section eId="sec_12-62-120">
+            <num>12.62.120</num>
+            <heading>Reporting of criminal justice information.</heading>
+            <subsection eId="12-62-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner, by regulation and after consultation with affected agencies, may designate which criminal justice agencies are responsible for reporting the events described in (b) of this section. An agency designated under this subsection shall report the events described in (b) of this section to the department, at the time, in the manner, and in the form specified by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An agency designated under (a) of this section shall report the following events to the department if they occur in connection with an arrestable offense:</p>
+              </content>
+              <paragraph eId="12-62-120__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the issuance, receipt, withdrawal, quashing, or execution of a judicial arrest warrant, a governor's warrant of arrest for extradition, or a parole arrest warrant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an arrest, with or without a warrant, or an escape after arrest;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the release of a person after arrest without charges being filed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the admittance to, release or escape from, or unlawful evasion of, official detention in a correctional facility, either pretrial or post-trial;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a decision by a prosecutor or a grand jury not to commence criminal proceedings, to defer or indefinitely postpone prosecution, or to decline to prosecute charges;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the filing of a charging document, including an indictment, criminal complaint, criminal information, or a petition or other document showing a violation of bail, probation, or parole, or the amendment of a charging document;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>an acquittal, dismissal, conviction, or other disposition of charges set out in a charging document described in (6) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the imposition of a sentence or the granting of a suspended imposition of sentence under
+AS 12.55.085
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>the commencement or expiration of parole or probation supervision and the conditions of that parole or probation supervision;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>the commitment to or release from a facility, designated by the Department of Family and Community Services, of a person who was previously accused of a crime but who has been found to be incompetent to stand trial or found not criminally responsible;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>the filing of an action in an appellate court or a federal court relating to a conviction or sentence;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>a judgment of a court that reverses, remands, vacates, or reinstates a criminal charge, conviction, or sentence;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>a pardon, reprieve, executive clemency, commutation of sentence, or other change in the length or terms of a sentence by executive or judicial action;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>the release of a person on bail and the conditions of that release; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-120__subsec_b__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>any other event required to be reported under regulations adopted under this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-62-130">
+            <num>12.62.130</num>
+            <heading>Reporting of uniform crime information.</heading>
+            <content>
+              <p>Sec. 12.62.130.   Reporting of uniform crime information.
+A criminal justice agency shall submit to the department, at the time, in the manner, and in the form specified by the department, data regarding crimes committed within that agency's jurisdiction. At a minimum, the department shall require a criminal justice agency to report each felony sex offense committed in the agency's jurisdiction. The department may withhold grant funding to a criminal justice agency that fails to report data as required by this section. The department shall compile, and provide to the governor and the attorney general, an annual report concerning the number and nature of criminal offenses committed, the disposition of the offenses, and any other data the commissioner finds appropriate relating to the method, frequency, cause, and prevention of crime. In this section, sex offense has the meaning given in
+AS 12.63.100
+.</p>
+            </content>
+          </section>
+          <section eId="sec_12-62-140">
+            <num>12.62.140</num>
+            <heading>Reporting of information regarding wanted persons and stolen property.</heading>
+            <subsection eId="12-62-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A criminal justice agency shall report to the department, at the time, in the manner, and in the form specified by the department, data regarding</p>
+              </content>
+              <paragraph eId="12-62-140__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person the agency is trying to locate, whether that person is wanted in connection with the commission of a crime, and the discovery, if any, of that person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-140__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the theft, and recovery if any, of an identifiable motor vehicle; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-140__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the theft, and recovery if any, of identifiable property.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-62-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A criminal justice agency, annually and at other times if requested by the department, shall confirm whether information already reported under (a) of this section continues to be valid, and shall cooperate with the department in periodic audits to validate the information reported.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-62-150">
+            <num>12.62.150</num>
+            <heading>Completeness, accuracy, and security of criminal justice information.</heading>
+            <subsection eId="12-62-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A criminal justice agency shall</p>
+              </content>
+              <paragraph eId="12-62-150__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>adopt reasonable procedures to ensure that criminal justice information that the agency maintains is accurate and complete;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-150__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>notify a criminal justice agency known to have received information of a material nature that is inaccurate or incomplete;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-150__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>provide adequate procedures and facilities to protect criminal justice information from unauthorized access and from accidental or deliberate damage by theft, sabotage, fire, flood, wind, or power failure;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-150__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>provide procedures for screening, supervising, and disciplining agency personnel in order to minimize the risk of security violations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-150__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>provide training for employees working with or having access to criminal justice information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-150__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>if maintaining criminal justice information within an automated information system operated by a noncriminal justice agency, develop or approve system operating procedures to comply with this chapter or regulations adopted under this chapter, and monitor the implementation of those procedures to ensure that they are effective; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-150__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>maintain, for at least three years, and make available for audit purposes,
+(A) records showing the accuracy and completeness of information maintained by the agency in a criminal justice information system; and
+(B) records required to be maintained under
+AS 12.62.160</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-62-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall adopt reasonable procedures designed to ensure that information about arrests and criminal charges that is stored in a criminal justice information system can be linked with information about the disposition of those arrests and charges.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Every two years the department shall undertake an audit, and every four years shall obtain an independent audit, of the department's criminal justice information system that serves as the central repository and of a sample of other state and local criminal justice information systems, to verify adherence to the requirements of this chapter and other applicable laws.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-62-160">
+            <num>12.62.160</num>
+            <heading>Release and use of criminal justice information; fees.</heading>
+            <subsection eId="12-62-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Criminal justice information and the identity of recipients of criminal justice information are confidential and exempt from disclosure under
+AS 40.25
+. The existence or nonexistence of criminal justice information may not be released to or confirmed to any person except as provided in this section and
+AS 12.62.180
+(d).</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Subject to the requirements of this section, and except as otherwise limited or prohibited by other provision of law or court rule, criminal justice information</p>
+              </content>
+              <paragraph eId="12-62-160__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may be provided to a person when, and only to the extent, necessary to avoid imminent danger to life or extensive damage to property;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may be provided to a person to the extent required by applicable court rules or under an order of a court of this state, another state, or the United States;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>may be provided to a person if the information is commonly or traditionally provided by criminal justice agencies in order to identify, locate, or apprehend fugitives or wanted persons or to recover stolen property, or for public reporting of recent arrests, charges, and other criminal justice activity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>may be provided to a criminal justice agency for a criminal justice activity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>may be provided to a government agency when necessary for enforcement of or for a purpose specifically authorized by state or federal law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>may be provided to a person specifically authorized by a state or federal law to receive that information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>in aggregate form may be released to a qualified person, as determined by the agency, for criminal justice research, subject to written conditions that assure the security of the information and the privacy of individuals to whom the information relates;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>may be provided to a person for any purpose, except that information may not be released if the information is nonconviction information or correctional treatment information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>including information relating to a serious offense, may be provided to an interested person if the information is requested for the purpose of determining whether to grant a person supervisory or disciplinary power over a minor or dependent adult; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>may be provided to the person who is the subject of the information.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-62-160__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless otherwise provided for in regulations adopted by the commissioner, if access to criminal justice information is permitted under (b) of this section</p>
+              </content>
+              <paragraph eId="12-62-160__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the information may be released only by the agency maintaining that information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the information may not be released under this section without first determining that the information is the most current information available within that criminal justice information system, unless the system is incapable of providing the most current information available within the necessary time period;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the information may not be released under this section until the person requesting the information establishes the identity of the subject of the information by fingerprint comparison or another reliable means of identification approved by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the information may not be released under this section unless the criminal justice agency releasing the information records, and maintains for at least three years, the name of the person or agency that is to receive the information, the date the information was released, the nature of the information, and the statutory authority that permits the release; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-160__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>information released under this section may be used only for the purpose or activity for which the information was released.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-62-160__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding
+AS 40.25
+, a criminal justice agency may charge fees, established by regulation or municipal ordinance, for processing requests for records under this chapter, unless the request is from a criminal justice agency or is required for purposes of discovery in a criminal case. In addition to fees charged under
+AS 44.41.025
+for processing fingerprints through the Alaska automated fingerprint system, the department may charge fees for other services in connection with the processing of information requests, including fees for contacting other jurisdictions to determine the disposition of an out-of-state arrest or to clarify the nature of an out-of-state conviction. The department may also collect and account for fees charged by the Federal Bureau of Investigation for processing fingerprints forwarded to the bureau by the department. The annual estimated balance in the account maintained by the commissioner of administration under
+AS 37.05.142
+may be used by the legislature to make appropriations to the department to carry out the purposes of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-160__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>When an interested person requests information under (b)(9) of this section, the department may also obtain a national criminal history record check under
+AS 12.62.400
+if the person submits the fingerprints and fees required for that check under (d) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-62-170">
+            <num>12.62.170</num>
+            <heading>Correction of criminal justice information.</heading>
+            <subsection eId="12-62-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A criminal justice agency shall correct, modify, or add an explanatory notation to criminal history records that the agency is responsible for maintaining if the revision is necessary to achieve accuracy or completeness.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may submit a written request to the head of the agency responsible for maintaining criminal justice information asking the agency to correct, modify, or add any information or explanatory notation to criminal justice information about the person that the person believes is inaccurate or incomplete. The decision of the head of the agency is the final administrative decision on the request.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The person requesting revision of criminal justice information may appeal an adverse decision of the agency to the court under applicable rules of procedure for appealing the decision of an administrative agency. The appellant bears the burden on appeal of showing that the agency decision was in error. An appeal filed under this subsection may not collaterally attack a court judgment or a decision by prison, probation, or parole authorities, or any other action that is or could have been subject to appeal, post-conviction relief, or other administrative remedy.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-62-180">
+            <num>12.62.180</num>
+            <heading>Sealing of criminal justice information.</heading>
+            <subsection eId="12-62-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Under this section, a criminal justice agency may seal only the information that the agency is responsible for maintaining.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may submit a written request to the head of the agency responsible for maintaining past conviction or current offender information, asking the agency to seal such information about the person that, beyond a reasonable doubt, resulted from mistaken identity or false accusation. The decision of the head of the agency is the final administrative decision on the request.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The person requesting that the information be sealed may appeal an adverse decision of the agency to the court under applicable rules of procedure for appealing the decision of an administrative agency. The appellant bears the burden on appeal of showing that the agency decision was clearly mistaken. An appeal filed under this subsection may not collaterally attack a court judgment or a decision by prison, probation, or parole authorities, or any other action that is or could have been subject to appeal, post-conviction relief, or other administrative remedy.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-180__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person about whom information is sealed under this section may deny the existence of the information and of an arrest, charge, conviction, or sentence shown in the information. Information that is sealed under this section may be provided to another person or agency only</p>
+              </content>
+              <paragraph eId="12-62-180__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for record management purposes, including auditing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-180__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for criminal justice employment purposes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-180__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for review by the subject of the record;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-180__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>for research and statistical purposes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-180__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>when necessary to prevent imminent harm to a person; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-180__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>for a use authorized by statute or court order.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-62-190">
+            <num>12.62.190</num>
+            <heading>Purging of criminal justice information.</heading>
+            <subsection eId="12-62-190__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A criminal justice agency may purge only the criminal justice information that the agency is responsible for maintaining. An agency may determine when and what information will be purged, under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-190__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Criminal justice information may be purged if the agency determines that the information is devoid of usefulness to a criminal justice agency due to the</p>
+              </content>
+              <paragraph eId="12-62-190__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>death of the subject of the information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-190__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>age of the information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-190__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>nature of the offense or of the information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-190__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>volume of the agency's records or other record management considerations.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-62-200">
+            <num>12.62.200</num>
+            <heading>Civil action and defense.</heading>
+            <subsection eId="12-62-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Failure to comply with a requirement of this chapter or a regulation adopted under this chapter is not a basis for civil liability, but may be the basis for employee discipline or administrative action to restrict a person's or agency's access to information. However, a person whose criminal justice information has been released or used in knowing violation of this chapter or a regulation adopted under this chapter may bring an action for damages in the superior court.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is a defense to a civil or criminal action based on a violation of this chapter, or regulations adopted under this chapter, if a person relied in good faith upon the provisions of this chapter or of other laws or regulations governing maintenance, release, or use of criminal justice information, or upon policies or procedures established by a criminal justice agency.
+Article 2. National Criminal History Record Check.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-62-400">
+            <num>12.62.400</num>
+            <heading>National criminal history record checks for employment, licensing, and other noncriminal justice purposes.</heading>
+            <subsection eId="12-62-400__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To obtain a national criminal history record check for determining a person's qualifications for a license, permit, registration, employment, or position, a person shall submit the person's fingerprints to the department with the fee established by
+AS 12.62.160
+. The department may submit the fingerprints to the Federal Bureau of Investigation to obtain a national criminal history record check of the person for the purpose of evaluating a person's qualifications for</p>
+              </content>
+              <paragraph eId="12-62-400__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a license or conditional contractor's permit to manufacture, sell, offer for sale, possess for sale or barter, traffic in, or barter an alcoholic beverage under
+AS 04.09
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>licensure as a mortgage lender, a mortgage broker, or a mortgage loan originator under
+AS 06.60
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>admission to the Alaska Bar Association under
+AS 08.08
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>licensure to practice audiology or speech-language pathology under
+AS 08.11
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>licensure as a collection agency operator under
+AS 08.24
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a certificate of fitness to handle explosives under
+AS 08.52
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>licensure as a massage therapist under
+AS 08.61
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>licensure to practice nursing or certification as a nurse aide under
+AS 08.68
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>licensure as a pharmacist or pharmacy technician under
+AS 08.80
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>licensure as a physical therapist, physical therapist assistant, occupational therapist, or occupational therapy assistant under
+AS 08.84
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>certification as a real estate appraiser under
+AS 08.87
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>a position involving supervisory or disciplinary power over a minor or dependent adult for which criminal justice information may be released under
+AS 12.62.160</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>a teacher certificate under
+AS 14.20
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>a registration or license to operate a marijuana establishment under
+AS 17.38
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>admittance to a police training program under
+AS 18.65.230
+or for certification as a police officer under
+AS 18.65.240
+if that person's prospective employer does not have access to a criminal justice information system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>licensure as a security guard under
+AS 18.65.400
+ 18.65.490;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>employment as a village public safety officer under
+AS 18.65.672
+or certification as a village public safety officer under
+AS 18.65.682
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>a concealed handgun permit under
+AS 18.65.700
+ 18.65.790;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>licensure as an insurance producer, managing general agent, reinsurance intermediary broker, reinsurance intermediary manager, surplus lines broker, or independent adjuster under
+AS 21.27
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>serving and executing process issued by a court by a person designated under
+AS 22.20.130
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>a school bus driver license under
+AS 28.15.046
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>licensure as an operator or an instructor for a commercial driver training school under
+AS 28.17
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_23">
+                <num>(23)</num>
+                <content>
+                  <p>registration as a broker-dealer, agent, investment adviser representative, or investment adviser under
+AS 45.56.300
+ 45.56.350;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_a__subsec_24">
+                <num>(24)</num>
+                <content>
+                  <p>licensure, license renewal, certification, certification renewal, or payment from the Department of Health of an individual and an entity subject to the requirements for a criminal history check under
+AS 47.05.310
+, including
+(A) a public home care provider described in
+AS 47.05.017
+;
+(B) a provider of home and community-based waiver services financed under
+AS 47.07.030</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-62-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and (c), including an owner, officer, director, member, partner, employee, volunteer, or contractor of an entity; or
+(E) an individual or entity not described in (A)  (D) of this paragraph that is required by statute or regulation to be licensed or certified by the Department of Health or that is eligible to receive payments, in whole or in part, from the Department of Health to provide for the health, safety, and welfare of persons who are served by the programs administered by the Department of Health;</p>
+              </content>
+              <paragraph eId="12-62-400__subsec_b__subsec_25">
+                <num>(25)</num>
+                <content>
+                  <p>licensure, license renewal, certification, or certification renewal by the Department of Family and Community Services of an individual or entity, or payment from the Department of Family and Community Services to an individual or entity, subject to the requirements for a criminal history check under
+AS 47.05.310
+for a foster home, child placement agency, and runaway shelter listed in
+AS 47.32.010</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-62-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, an applicant for a license under
+AS 06.60
+may submit the applicant's fingerprints to the Nationwide Mortgage Licensing System and Registry. In this subsection, Nationwide Mortgage Licensing System and Registry has the meaning given in  12 U.S.C. 5102.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-400__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To obtain a national criminal history record check for determining a current or prospective employee's qualifications under
+AS 39.90.210
+or a contractor's qualifications under
+AS 36.30.960
+, the agency or the procurement officer shall submit the current or prospective employee's or contractor's fingerprints to the department with the fee established by
+AS 12.62.160
+. The department shall submit the fingerprints to the Federal Bureau of Investigation to obtain a national criminal history record check of the current or prospective employee or contractor for the purpose of evaluating a person's qualifications under
+AS 36.30.960
+and
+AS 39.90.210
+. In this subsection, unless the context otherwise requires,</p>
+              </content>
+              <paragraph eId="12-62-400__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>agency has the meaning given in
+AS 39.90.290
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>contractor has the meaning given in
+AS 36.30.960
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-400__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>employee has the meaning given in
+AS 39.90.290
+.
+Article 3. General Provisions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-62-900">
+            <num>12.62.900</num>
+            <heading>Definitions.</heading>
+            <subsection eId="12-62-900__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>prosecution is under review or has been deferred by written or oral agreement;
+(ii) a warrant exists for the person's arrest; or
+(iii) less than a year has elapsed since the date of the arrest or filing of the charges, whichever is latest;
+(B) is currently released on bail or on other conditions imposed by a court in a criminal case, either pretrial or post-trial, including the conditions of the release;
+(C) is currently serving a criminal sentence or is under the custody of the commissioner of corrections for supervision purposes; current offender information under this subparagraph includes</p>
+              </content>
+            </subsection>
+            <subsection eId="12-62-900__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the terms and conditions of any sentence, probation, suspended imposition of sentence, discretionary or mandatory parole, furlough, executive clemency, or other release; and
+(ii) the location of any place of incarceration, halfway house, restitution center, or other correctional placement to which the person is assigned; or
+(D) has had a criminal conviction or sentence reversed, vacated, set aside, or has been the subject of executive clemency;</p>
+              </content>
+              <paragraph eId="12-62-900__subsec_i__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>department means the Department of Public Safety;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-900__subsec_i__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>dependent adult means an adult with a physical or mental disability who requires assistance or supervision with the activities of daily living;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-900__subsec_i__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>information means, unless the context clearly indicates otherwise, data compiled within a criminal justice information system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-900__subsec_i__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>interested person means a person as defined in
+AS 01.10.060
+that employs, appoints, or permits a person to serve with or without compensation in a position in which the employed, appointed, or permitted person has or would have supervisory or disciplinary power over a minor or dependent adult;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-900__subsec_i__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>nonconviction information means information that an identifiable person was arrested or that criminal charges were filed or considered against the person and
+(A) a prosecutor or grand jury has elected not to begin criminal proceedings against the person and at least a year has elapsed since that decision;
+(B) criminal charges against the person have been dismissed or the person has been acquitted and at least a year has elapsed since that action; or
+(C) there is no indication of the disposition of the criminal charges or the arrest and at least a year has elapsed since the arrest, filing of the charges, or referral of the matter for review by a prosecutor, whichever is latest;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-900__subsec_i__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>past conviction information means information showing that an identifiable person who has been unconditionally discharged has previously been convicted of a crime; past conviction information includes
+(A) the terms of any sentence, probation, suspended imposition of sentence, or discretionary or mandatory parole; and
+(B) information that a criminal conviction or sentence has been reversed, vacated, set aside, or been the subject of executive clemency;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-900__subsec_i__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>purge means to delete or destroy information in a criminal justice information system so that there can be no access to the information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-900__subsec_i__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>seal means to retain information in a criminal justice information system subject to special restrictions on access or dissemination;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-62-900__subsec_i__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>serious offense means a conviction for a violation or for an attempt, solicitation, or conspiracy to commit a violation of any of the following laws, or of the laws of another jurisdiction with substantially similar elements:
+(A) a felony offense;
+(B) a crime involving domestic violence;
+(C)
+AS 11.41.410
+ 11.41.470;
+(D)
+AS 11.51.130
+or 11.51.200  11.56.210;
+(E)
+AS 11.61.110</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

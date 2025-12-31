@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-60"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-60"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="14.60"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-60/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-60/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-60/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-60/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_14">
+        <num>14</num>
+        <heading>Education, Libraries, and Museums</heading>
+        <chapter eId="title_14__chp_60">
+          <num>60</num>
+          <heading>General Provisions</heading>
+          <section eId="sec_14-60-010">
+            <num>14.60.010</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 14.60.010.   Definitions.
+In this title, unless the context otherwise requires,
+(1) attendance area means the geographic area designated by the department to be served by a school;
+(2) board means the state Board of Education and Early Development;
+(3) commissioner means the commissioner of education and early development;
+(4) culturally responsive means showing respect for and recognition of the traditions, beliefs, languages, values, and practices of the local culture that has historically been present in the geographic area being served;
+(5) department means the Department of Education and Early Development;
+(6) governing body means the school board of a borough or city school district or a regional educational attendance area;
+(7) parent or guardian includes a natural, adoptive, and foster parent, stepparent, legal guardian, relative, and other adult person with whom a student has resided and who has acted as a parent in providing for the student or has been responsible for the student's welfare for a continuous period.
+(8) public schools include elementary schools, high schools, citizenship night schools for adults, and other public educational institutions that may be established;
+(9) regional educational attendance area means an educational service area in the unorganized borough which may or may not include a military reservation, and that contains one or more public schools of grade levels K-12 or any portion of those grade levels that are to be operated under the management and control of a single regional school board;
+(10) school board means the school board of a borough or city school district or a regional educational attendance area.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

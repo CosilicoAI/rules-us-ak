@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-50"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-50"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="24.50"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-50/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-50/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_24">
+        <num>24</num>
+        <heading>Legislature and Lobbying</heading>
+        <chapter eId="title_24__chp_50">
+          <num>50</num>
+          <heading>Student Guests of Legislature</heading>
+          <section eId="sec_24-50-010">
+            <num>24.50.010</num>
+            <heading>Annual student guests.</heading>
+            <content>
+              <p>Sec. 24.50.010.   Annual student guests.
+The legislature may each year while in session serve as host to one member of each high school in the state for a stay of one week in the capital to observe and learn the legislative process.</p>
+            </content>
+          </section>
+          <section eId="sec_24-50-020">
+            <num>24.50.020</num>
+            <heading>Selection by schools.</heading>
+            <content>
+              <p>Sec. 24.50.020.   Selection by schools.
+Each high school of the state may annually and before the end of the calendar year select one member of its student body as a legislative guest.</p>
+            </content>
+          </section>
+          <section eId="sec_24-50-030">
+            <num>24.50.030</num>
+            <heading>Arrangements.</heading>
+            <content>
+              <p>Sec. 24.50.030.   Arrangements.
+When the representative has been selected under
+AS 24.50.020
+, the principal of the school shall certify the selection to the legislative council.  The legislative council is responsible for making all necessary administrative and fiscal arrangements for the transportation and housing of the selected students in coordination with the principals.  Funds for the transportation, housing, and meals of the students shall be included in the general appropriation for legislative expenses as budgeted for by the legislative council.</p>
+            </content>
+          </section>
+          <section eId="sec_24-50-040">
+            <num>24.50.040</num>
+            <heading>Essay contest.</heading>
+            <content>
+              <p>Sec. 24.50.040.   Essay contest.
+Before leaving the state capital, each legislative guest shall prepare and submit to the director of the Legislative Affairs Agency a paper of not less than 1,000 words entitled The Legislature Should ........... Each paper shall be examined and judged as to content by the governor, the president of the senate, the speaker of the house of representatives, the minority leader of the senate, and the minority leader of the house. The author of the paper determined best by majority vote shall receive a one-year scholarship to the University of Alaska.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

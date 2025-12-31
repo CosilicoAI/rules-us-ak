@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-29"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-29"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.29"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-29/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-29/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-29/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-29/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_29">
+          <num>29</num>
+          <heading>Health Care Professionals Workforce Enhancement Program</heading>
+          <section eId="sec_18-29-100">
+            <num>18.29.100</num>
+            <heading>Legislative intent.</heading>
+            <content>
+              <p>Sec. 18.29.100.   Legislative intent.
+Student loan repayments and direct incentive payments provided under this chapter are intended to increase the availability of health care services throughout the state, especially to underserved individuals or in health care professional shortage or rural areas.</p>
+            </content>
+          </section>
+          <section eId="sec_18-29-105">
+            <num>18.29.105</num>
+            <heading>Program established; administration; advisory council.</heading>
+            <subsection eId="18-29-105__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The health care professionals workforce enhancement program is established in the department for the purpose of addressing the increasing shortage of certain health care professionals in the state by expanding the distribution of health care professionals.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-29-105__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The program established under this section must include</p>
+              </content>
+              <paragraph eId="18-29-105__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>employer payments, as described in
+AS 18.29.110
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>direct incentives, as described in
+AS 18.29.120
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>student loan repayments, as described in
+AS 18.29.125
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>procedures for the commissioner's designation and prioritization of sites eligible for participation in the program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>an application process for participation in the program as
+(A) an eligible site; or
+(B) a tier I, tier II, or tier III health care professional;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>provision of public information and notices relating to the program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>a 12-year lifetime maximum for participation in the program by a tier I, tier II, or tier III health care professional.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-29-105__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner shall appoint an advisory council to advise the department on the program. The advisory council consists of members with health care expertise, including expertise in economic issues affecting the hiring and retention of health care professionals in the state. An employee of the department may serve only as a nonvoting member. Members of the advisory council serve at the pleasure of the commissioner and without compensation but are entitled to per diem and travel allowances authorized for boards and commissions under
+AS 39.20.180
+. The advisory council shall provide oversight and evaluation of the program and make recommendations, including recommendations relating to</p>
+              </content>
+              <paragraph eId="18-29-105__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>identification and monitoring of underserved and health care professional shortage areas;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>eligible sites;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an employer's ability to pay;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>prioritization of sites and health care professionals eligible for participation in the program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>contract award priorities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>program capacities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>strategic plans; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>program data management.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-29-105__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commissioner shall, in consultation with the advisory council established under (c) of this section,</p>
+              </content>
+              <paragraph eId="18-29-105__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>administer and implement the program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>classify each eligible site as having either regular or very hard-to-fill positions, or both;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>establish
+(A) procedures for allowable leaves of absence;
+(B) a civil penalty, not to exceed $1,000, for each violation by a health care professional or employer of a provision of this chapter, a regulation made under authority of this chapter, or a provision of a contract entered into under this chapter; and
+(C) a priority for participation in the program based on the availability of funding.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-29-105__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall, on or before July 1 of each year, prepare and submit to the advisory council a report that describes the participation rates, costs, and effect of the program on the availability of health care services to underserved individuals or in health care professional shortage or rural areas for the previous calendar year.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-29-105__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department may</p>
+              </content>
+              <paragraph eId="18-29-105__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>contract for payments under the program and for the services of a consultant, expert, financial advisor, or other person the department considers necessary for the exercise of its powers and functions and to perform its duties under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-105__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>adopt regulations necessary to implement the program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-29-110">
+            <num>18.29.110</num>
+            <heading>Employer payments.</heading>
+            <content>
+              <p>Sec. 18.29.110.   Employer payments.
+An employer approved for participation in the program shall make a nonrefundable quarterly payment to the department for the benefit of the employer's health care professional employee. The employer payment may come from any available source, including a philanthropic institution, health foundation, government agency, community organization, or private individual. The payment amount
+(1) must be equal to the health care professional's program payment amount established by the commissioner;
+(2) may be adjusted based on the employer's ability to pay, as determined by the commissioner and in consultation with the advisory council; and
+(3) must include the fee established under
+AS 44.29.022
+or
+AS 44.30.030
+for services provided under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-29-115">
+            <num>18.29.115</num>
+            <heading>Initial and renewal payments.</heading>
+            <subsection eId="18-29-115__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may approve student loan repayment and direct incentive payments for a qualified applicant for an initial period of three years and may approve a maximum of three renewal periods of three years each if the applicant</p>
+              </content>
+              <paragraph eId="18-29-115__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>submits an application on a form approved by the department for
+(A) student loan repayments and, for student loan repayment renewal, demonstrates that the applicant has</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-29-115__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a continuing student loan obligation on the same student loan that was subject to repayment under the program during the initial three-year period; or
+(ii) incurred additional student loan debt that qualifies for repayment;
+(B) direct incentive payments; or
+(C) payments under both (A) and (B) of this paragraph;</p>
+              </content>
+              <paragraph eId="18-29-115__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is otherwise eligible under the program; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-115__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>does not exceed the 12-year lifetime maximum for participation in the program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-29-115__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall combine an eligible health care professional's direct incentives and pay the total amount to the eligible health care professional in the form of one quarterly cash payment. The department shall combine an eligible health care professional's student loan repayments and pay the total amount to the lending institution or to the eligible health care professional in the form of one quarterly payment.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-29-115__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in (d) of this section, the combined total amount of an eligible health care professional's direct incentives and student loan repayments may not exceed,</p>
+              </content>
+              <paragraph eId="18-29-115__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for a tier I health care professional employed in a regular position, $35,000 annually;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-115__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for a tier I health care professional employed in a very hard-to-fill position, $47,250 annually;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-115__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for a tier II health care professional employed in a regular position, $20,000 annually;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-115__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>for a tier II health care professional employed in a very hard-to-fill position, $27,000 annually;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-115__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>for a tier III health care professional employed in a regular position, $15,000 annually;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-115__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>for a tier III health care professional employed in a very hard-to-fill position, $20,250 annually.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-29-115__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department may annually increase the annual maximum program payment amounts in (c) of this section by the average percentage increase in the Consumer Price Index for urban wage earners and clerical workers for Urban Alaska during the previous five calendar years, as determined by the United States Department of Labor, Bureau of Labor Statistics.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-29-115__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall prorate student loan repayments and direct incentive payments based on the number of qualified employment hours the health care professional worked in a calendar quarter. The department may not pay a student loan repayment or direct incentive before the completion of a calendar quarter in which the student loan repayment or incentive payment was earned.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-29-115__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department shall deposit employer payments received and civil penalties collected under this chapter in the general fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-29-115__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The department shall pay student loan repayments and direct incentives with funds appropriated by the legislature for that purpose. The department may limit the number of program participants based on available funding. If insufficient money is appropriated to fully fund the program in a fiscal year, the department shall prorate payments based on the number of approved participants in the program.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-29-120">
+            <num>18.29.120</num>
+            <heading>Direct incentives.</heading>
+            <content>
+              <p>Sec. 18.29.120.   Direct incentives.
+The department shall provide a direct incentive in the form of quarterly cash payments to an eligible tier I, tier II, or tier III health care professional engaged in qualified employment in an amount established by the commissioner and that is provided by employers approved under the program.</p>
+            </content>
+          </section>
+          <section eId="sec_18-29-125">
+            <num>18.29.125</num>
+            <heading>Student loan repayment.</heading>
+            <subsection eId="18-29-125__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall repay a portion of eligible student loans held by or made to an eligible tier I, tier II, or tier III health care professional.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-29-125__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A student loan is eligible for repayment if the student loan</p>
+              </content>
+              <paragraph eId="18-29-125__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>was issued to an eligible individual under
+AS 18.29.130
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-125__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is a student loan as described in 26 U.S.C. 108(f)(2); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-125__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>was used by the individual for a program for which the individual received a certificate, license, or degree.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-29-125__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A student loan repayment under this section may not exceed 33.3 percent of the unpaid student loan balance existing in the first year of program participation multiplied by the percentage of full-time equivalent employment for each year of qualified employment, not to exceed three years.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-29-125__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A student loan or interest on a student loan is not eligible for repayment under this section if the student loan or interest is</p>
+              </content>
+              <paragraph eId="18-29-125__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to be repaid by another source, including another loan repayment or forgiveness program or an employer-sponsored loan repayment program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-125__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>consolidated with a loan that is not eligible for repayment; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-125__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>refinanced as a loan that is not eligible for repayment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-29-130">
+            <num>18.29.130</num>
+            <heading>Eligibility.</heading>
+            <subsection eId="18-29-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To be eligible for a direct incentive payment, an individual must</p>
+              </content>
+              <paragraph eId="18-29-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>submit an application that is approved by the commissioner;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>be engaged in qualified employment at an eligible site with a participating employer or entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-130__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for a tier I or tier II health care professional, be licensed or exempt from licensure as a tier I or tier II health care professional in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-130__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>meet a participation priority established by the commissioner; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-130__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>satisfy other criteria established by the commissioner.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-29-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To be eligible for student loan repayment, an individual must</p>
+              </content>
+              <paragraph eId="18-29-130__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>satisfy the requirements of (a) of this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-29-130__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>have an unpaid balance on one or more eligible student loans verified by the Alaska Commission on Postsecondary Education or the department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-29-190">
+            <num>18.29.190</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.29.190.   Definitions.
+In
+AS 18.29.100
+ 18.29.190,
+(1) commissioner means the commissioner of health;
+(2) department means the Department of Health;
+(3) eligible site means a service area or health care facility that provides health care services to underserved individuals or in health care professional shortage or rural areas and that satisfies the criteria for eligibility established by the commissioner;
+(4) employer payment means the payment an employer makes to the department for participation in the program;
+(5) program means the health care professionals workforce enhancement program;
+(6) qualified employment means employment of a tier I, tier II, or tier III health care professional at an eligible site at which the health care professional is hired or contracted and paid to work
+(A) in a full-time or not less than half-time position;
+(B) for a term that is not less than three years;
+(7) rural means a community with a population of 5,500 or less that is not connected by road or rail to Anchorage or Fairbanks or with a population of 1,500 or less that is connected by road or rail to Anchorage or Fairbanks;
+(8) tier I health care professional means a person who spends not less than 50 percent of the person's time on direct patient health care services and who is licensed or exempt from licensure in the state as a dentist, pharmacist, physician, doctor of nursing practice, clinical psychologist, counseling psychologist, or other health care professional as determined by the commissioner;
+(9) [See delayed amendment note.]  tier II health care professional means a person who spends not less than 50 percent of the person's time on direct patient health care services and who is licensed or exempt from licensure in the state as a dental hygienist, advanced practice registered nurse, registered nurse, physician assistant, physical therapist, professional counselor, board certified behavior analyst, marital and family therapist, clinical social worker, or other health care professional as determined by the commissioner;
+(10) tier III health care professional means a person who is employed at an eligible site who is not otherwise eligible as a tier I or tier II health care professional;
+(11) underserved individual means an individual who
+(A) is uninsured;
+(B) receives or is eligible to receive medical assistance; or
+(C) receives or is eligible to receive health care benefits directly, through insurance, or through other means, from a plan or program funded directly, in whole or in part, by the federal government, except for the federal employee health benefits program under 5 U.S.C. 8903.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

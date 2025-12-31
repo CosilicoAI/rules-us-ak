@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-22"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-22"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="28.22"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-22/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-22/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-22/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-22/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_28">
+        <num>28</num>
+        <heading>Motor Vehicles</heading>
+        <chapter eId="title_28__chp_22">
+          <num>22</num>
+          <heading>Mandatory Motor Vehicle Insurance</heading>
+          <section eId="sec_28-22-011">
+            <num>28.22.011</num>
+            <heading>Motor vehicle liability insurance required; exemptions.</heading>
+            <subsection eId="28-22-011__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The operator or owner of a motor vehicle subject to registration under
+AS 28.10.011
+when driven on a highway, vehicular way or area, or on other public property in the state, shall be insured under a motor vehicle liability policy that complies with this chapter or a certificate of self-insurance that complies with
+AS 28.20.400
+unless</p>
+              </content>
+              <paragraph eId="28-22-011__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the motor vehicle is being driven or moved on a highway, vehicular way, or a public parking place in the state that is not connected by a land highway or vehicular way to
+(A) the land-connected state highway system, or
+(B) a highway or vehicular way with an average daily traffic volume greater than 499; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-011__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the operator has not been cited within the preceding five years for a traffic law violation with a demerit point value of six or more on the point schedule determined under regulations adopted by the department under
+AS 28.15.221
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-22-011__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall annually publish a list of areas that meet the requirements of (a)(1) of this section. This list shall be available for public inspection at each office of the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-011__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, operator does not include</p>
+              </content>
+              <paragraph eId="28-22-011__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an employee who operates, during the course and within the scope of employment, a motor vehicle that is owned or leased by the operator's employer; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-011__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an emergency service volunteer who operates, during the course and within the scope of responding to an emergency, a motor vehicle not owned by the volunteer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_28-22-019">
+            <num>28.22.019</num>
+            <heading>Proof of insurance to be exhibited on demand; penalty.</heading>
+            <subsection eId="28-22-019__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person shall have proof of motor vehicle liability insurance in the person's immediate possession at all times when driving a motor vehicle, and shall present the proof for inspection upon the demand of a peace officer or other authorized representative of the Department of Public Safety. A person may display the proof on a mobile electronic device. However, a person charged with violating this section may not be convicted if the person produces in court or in the office of the arresting or citing officer proof of motor vehicle liability insurance previously issued to the person that was valid at the time of the person's arrest or citation.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-019__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A municipality may adopt an ordinance</p>
+              </content>
+              <paragraph eId="28-22-019__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>requiring a person to display a decal on the person's motor vehicle indicating compliance with (a) of this section; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-019__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>that is substantially similar to (a) of this section and may impose a penalty for violating the ordinance as provided under
+AS 29.25.070
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-22-019__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person convicted under this section is guilty of an infraction and shall be sentenced to pay a mandatory fine of $500.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-019__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Displaying proof of motor vehicle liability insurance on a mobile electronic device under this section does not constitute consent for a peace officer or other authorized representative of the Department of Public Safety to access other contents of the mobile electronic device.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-019__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section, proof means</p>
+              </content>
+              <paragraph eId="28-22-019__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a copy of the insurance policy or certificate of self-insurance that is in effect;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-019__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a printed card or electronic certification from an insurance company, insurance agent, insurance broker, or surplus lines broker that a policy that complies with
+AS 28.22.011
+is in effect; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-019__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the display on a mobile electronic device of verification from an insurance company, insurance agent, insurance broker, or surplus lines broker that a policy that complies with
+AS 28.22.011
+is in effect.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_28-22-021">
+            <num>28.22.021</num>
+            <heading>Requirement of proof of motor vehicle liability insurance.</heading>
+            <content>
+              <p>Sec. 28.22.021.   Requirement of proof of motor vehicle liability insurance.
+The owner or operator of a motor vehicle required to have motor vehicle liability insurance that complies with this chapter or a certificate of self-insurance that complies with
+AS 28.20.400
+, shall show proof of this insurance when that person is involved in an accident that results in bodily injury to or death of a person, or damage to the property of a person exceeding $501.</p>
+            </content>
+          </section>
+          <section eId="sec_28-22-031">
+            <num>28.22.031</num>
+            <heading>Method of proof of motor vehicle liability insurance.</heading>
+            <subsection eId="28-22-031__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person involved in an accident who is required under
+AS 28.22.021
+to prove that a motor vehicle liability policy or a certificate of self-insurance was in effect shall, within 15 days after the accident,</p>
+              </content>
+              <paragraph eId="28-22-031__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>present a copy of the insurance policy, certificate, bond, or insurance binder that was in effect at the time of the accident to the department for inspection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-031__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provide the department with written certification from an insurance company, insurance agent, insurance broker or surplus lines broker confirming that a valid motor vehicle liability policy issued in conformity with this chapter was in effect at the time of the accident; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-031__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>advise the department in writing that a certificate of self-insurance was in effect at the time of the accident.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-22-031__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall develop and implement a program to check the veracity of the documents filed for proof under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-031__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall review all accident reports and shall request proof of insurance from a vehicle owner or operator in each case in which evidence of motor vehicle liability insurance that complies with this chapter is not present.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-22-041">
+            <num>28.22.041</num>
+            <heading>Administrative suspension of drivers' licenses.</heading>
+            <subsection eId="28-22-041__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (h) of this section, if a person fails to provide proof required under
+AS 28.22.021
+and 28.22.031, the department shall suspend the driver's license of that person for the following periods:</p>
+              </content>
+              <paragraph eId="28-22-041__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>not less than 90 days if, within the preceding 10 years, the person has not had a driver's license suspended for violation of
+AS 28.22.011
+or former
+AS 28.22.200
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-041__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>not less than one year if, within the preceding 10 years, the person has had a driver's license suspended one or more times for violation of
+AS 28.22.011
+or former
+AS 28.22.200
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-22-041__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The suspension shall be consecutive to any other suspension required by law or imposed by a court.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-041__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may grant limited license privileges only for medical care or for work purposes to a person whose license has been suspended under this section if</p>
+              </content>
+              <paragraph eId="28-22-041__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the person has filed proof of financial responsibility for the future as required by
+AS 28.22.061
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-041__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the person's license has not been suspended two or more times under this section or former
+AS 28.22.240
+in the preceding 10 years;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-041__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the department determines that the person's or the person's dependent's medical care needs cannot be met without severe hardship or the person's ability to earn a livelihood would be severely impaired unless a limited license privilege is granted; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-041__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the department determines that a limitation can be placed on the license that will enable the person or the person's dependent to receive medical care or the person to earn a livelihood without excessive danger to the public.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-22-041__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>When imposing a limitation under this section the department shall</p>
+              </content>
+              <paragraph eId="28-22-041__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>require the surrender of the driver's license; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-041__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>issue to the licensee a certificate valid for the duration of the limitation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-22-041__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>After the termination of a limitation as shown on the certificate issued under (d) of this section, the license of a person on whom a limitation was imposed is suspended until the person receives a new license under
+AS 28.15.211
+(c).</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-041__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department shall notify the licensee that the suspension becomes effective 30 days from the date of the notice and that the licensee has the right, within the 30-day period, to make an oral or written answer controverting any point or issue, or to present evidence and arguments for the consideration of the department. Notwithstanding
+AS 28.05.121
+, the department shall provide this notice to the address that appears to be the most recently provided from among the following:</p>
+              </content>
+              <paragraph eId="28-22-041__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the address the department has for the person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-041__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the address shown on the report of the accident.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-22-041__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Upon receipt of an oral or written answer from the licensee the department shall make findings on the matter under consideration within 15 days and shall notify the person involved of its decision in writing by certified or registered mail. If the department's decision is to sustain an action against the licensee's driver's license, the department shall notify the licensee of the opportunity for a hearing under
+AS 28.05.121
+ 28.05.141. Suspension of a person's license is stayed until final disposition of the hearing under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-041__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Subsection (a) does not apply to a person who is required to provide proof under
+AS 28.22.021
+if the person</p>
+              </content>
+              <paragraph eId="28-22-041__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is involved in an accident that results in property damage of less than $2,000 and the damage occurs only to the property of the person required to show proof of insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-041__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>not later than 15 days after the accident, provides proof of motor vehicle liability insurance that complies with this chapter or a certificate of self-insurance that complies with
+AS 28.20.400
+to the department; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-041__subsec_h__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>establishes by a preponderance of the evidence that the failure to have in effect motor vehicle liability insurance or to self-insure as required by this chapter at the time of the accident was due to circumstances beyond the control of the person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_28-22-051">
+            <num>28.22.051</num>
+            <heading>Falsification of information.</heading>
+            <content>
+              <p>Sec. 28.22.051.   Falsification of information.
+A person who, with criminal negligence as defined in
+AS 11.81.900
+, provides false information required under
+AS 28.22.021
+ 28.22.041 is guilty of a class A misdemeanor.</p>
+            </content>
+          </section>
+          <section eId="sec_28-22-061">
+            <num>28.22.061</num>
+            <heading>Proof for the future.</heading>
+            <subsection eId="28-22-061__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person whose license is suspended under
+AS 28.22.041
+shall file proof of financial responsibility for the future under
+AS 28.20
+before full driving privileges may be restored or limited license privileges are granted under
+AS 28.22.041
+(c).</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-061__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A filing of proof of financial responsibility under
+AS 28.20
+shall be required for a period of three years following expiration of the suspension of license under
+AS 28.22.041
+.
+Article 2. General Policy Provisions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-22-101">
+            <num>28.22.101</num>
+            <heading>General coverage requirements; policy limits.</heading>
+            <subsection eId="28-22-101__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An owner's motor vehicle liability policy must designate by description or appropriate reference the motor vehicles that it covers and insure the person named against loss from the liability imposed by law for damages that arise from the ownership, maintenance, or use of a designated motor vehicle.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-101__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An operator's motor vehicle liability policy must insure the person named as insured against loss from the liability imposed by law for damages that arise from the use by the operator of a motor vehicle not owned by the operator.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-101__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A personal motor vehicle liability policy must insure the person named as insured against loss from liability imposed by law for damages that arise from the ownership, maintenance, or use by the named person of a motor vehicle whether owned or not owned by the person.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-101__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A motor vehicle liability policy must provide coverage in the United States or Canada, subject to limits exclusive of interest and costs, with respect to each vehicle, as follows:</p>
+              </content>
+              <paragraph eId="28-22-101__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>$50,000 because of bodily injury to or death of one person in one accident, and, subject to the same limit for one person, $100,000 because of bodily injury to or death of two or more persons in one accident; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-101__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>$25,000 because of injury to or destruction of property of others in one accident.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-22-101__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A motor vehicle liability policy must provide coverage under
+AS 28.22.201
+ 28.22.231 in the amounts set out in (d) of this section for the protection of the persons insured under the policy who are legally entitled to recover damages from the owner or operator of an uninsured or underinsured motor vehicle because of bodily injury or death, or damage to or destruction of property arising out of the ownership, maintenance, or use of the uninsured or underinsured motor vehicle. This subsection does not require coverage for punitive damages that might otherwise be recoverable from an uninsured or underinsured person.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-101__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A motor vehicle liability policy must state the name and address of the named insured and meet the requirements of
+AS 21.42.160
+ 21.42.170. In the absence of specific contract language or endorsement, the motor vehicle liability policy issued for a person in this state is presumed to meet the minimum requirements of (d) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-22-111">
+            <num>28.22.111</num>
+            <heading>Policy provisions that are implied.</heading>
+            <content>
+              <p>Sec. 28.22.111.   Policy provisions that are implied.
+A motor vehicle liability policy is subject to the following provisions which do not need to be set out in the policy:
+(1) satisfaction by the insured of a judgment for injury or damages is not a condition precedent to the right or duty of the insurance carrier to make payment on account of injury or damage;
+(2) the insurance carrier may settle a claim covered by the policy, and if settlement is made in good faith, the amount of settlement is deductible from the limits of liability specified in
+AS 28.22.101
+;
+(3) the policy, the written application for the policy, if any, and every rider or endorsement that does not conflict with the provisions of this chapter constitute the entire contract between the parties.</p>
+            </content>
+          </section>
+          <section eId="sec_28-22-121">
+            <num>28.22.121</num>
+            <heading>Excess of additional coverage.</heading>
+            <subsection eId="28-22-121__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A policy that grants the coverage required for a motor vehicle liability policy may also grant lawful coverage in excess of or in addition to the coverage specified for a policy and the excess or additional coverage is not subject to the provisions of this chapter. With respect to a policy that grants excess or additional coverage, the term motor vehicle liability policy applies only to that part of the coverage that is required by this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-121__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A policy is excluded from the application of this chapter if the automobile or motor vehicle liability coverage is provided only on an excess or umbrella basis.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-22-131">
+            <num>28.22.131</num>
+            <heading>Proration.</heading>
+            <content>
+              <p>Sec. 28.22.131.   Proration.
+A motor vehicle liability policy may provide for proration of the insurance with other valid and collectible insurance.</p>
+            </content>
+          </section>
+          <section eId="sec_28-22-141">
+            <num>28.22.141</num>
+            <heading>Other requirements of policy.</heading>
+            <subsection eId="28-22-141__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A policy is not effective under
+AS 28.22.101
+unless it is issued by an insurance company or surety company authorized to do business in this state, except as provided in (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-141__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A policy is not effective under
+AS 28.22.101
+with respect to a vehicle not registered in the state or a vehicle that was registered in another jurisdiction on the effective date of the policy or the most recent renewal of it, unless the insurance or surety company issuing the policy is authorized to do business in the state, or if the company is not authorized to do business in the state, unless it executes a power of attorney authorizing the director of the division of insurance to accept service of process on its behalf in an action upon the policy arising out of the accident.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-141__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The requirements for a motor vehicle liability policy may be fulfilled by the policies of one or more insurance carriers that together meet the requirements.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-141__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A binder issued pending the issuance of a motor vehicle liability policy fulfills the requirements for a policy.
+Article 3. Uninsured and Underinsured Motorists Coverage.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-22-201">
+            <num>28.22.201</num>
+            <heading>Uninsured and underinsured motorists coverage.</heading>
+            <subsection eId="28-22-201__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The uninsured and underinsured motorists coverage required under this chapter</p>
+              </content>
+              <paragraph eId="28-22-201__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>does not apply to bodily injury, sickness, disease, or death of an insured or damage to or destruction of property of an insured until the limits of liability bonds and policies that apply have been used up by payments or judgments or settlements;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-201__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>must be a single combined coverage; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-22-201__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>may be rejected by the insured in writing; if the insured has rejected uninsured or underinsured coverage, the coverage may not be included in a supplemental, renewal, or replacement policy unless the insured subsequently requests uninsured or underinsured coverage in writing.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-22-201__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If both the owner and operator of a vehicle are unknown, payment under the uninsured and underinsured motorists coverage may be made only where direct contact between the motor vehicles has occurred. A vehicle and operator that have left the scene of an accident with another vehicle are presumed to be uninsured if the insured person reports the accident to the appropriate authorities within 24 hours.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-22-201__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The uninsured and underinsured motorists coverage for damage to or destruction of property is subject to a deductible of $250 in any one accident, but the insurer may offer a deductible other than $250. This coverage shall be limited to damage to or destruction of the covered motor vehicle. It may not include loss of use of such vehicle.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-22-221">
+            <num>28.22.221</num>
+            <heading>Uninsured and underinsured motorists policy coverage and priorities.</heading>
+            <content>
+              <p>Sec. 28.22.221.   Uninsured and underinsured motorists policy coverage and priorities.
+If a person is entitled to uninsured or underinsured motorists coverage under more than one coverage when two or more vehicles are insured under one policy, the maximum amount payable may not exceed the highest limit of any one coverage under the policy. If a person is entitled to uninsured or underinsured motorists coverage under more than one motor vehicle policy issued by the same insurer in the same household, the maximum amount payable may be limited to the highest limit of any one coverage under the policies. If a person is entitled to uninsured or underinsured motorists coverage under more than one policy providing motor vehicle liability coverage, payments will be made in the following order of priority, subject to the limit of liability of each applicable policy or coverage:
+(1) a policy or coverage covering a motor vehicle occupied by the injured person or a policy or coverage covering a pedestrian as a named insured;
+(2) a policy or coverage covering a motor vehicle occupied by the injured person as an insured other than as a named insured;
+(3) a policy or coverage not covering a motor vehicle occupied by the injured person but covering the injured person as a named insured;
+(4) a policy or coverage not covering a motor vehicle occupied by the injured person but covering the injured person as an insured other than as a named insured;
+(5) a policy or coverage covering, as excess, umbrella, or similar insurance, a motor vehicle occupied by the injured person or a policy or coverage covering, as excess, umbrella, or similar insurance, a pedestrian as a named insured;
+(6) a policy or coverage covering, as excess, umbrella, or similar insurance, a motor vehicle occupied by the injured person or a policy or coverage covering, as excess, umbrella, or similar insurance, a pedestrian as an insured other than as a named insured;
+(7) a policy or coverage not covering a motor vehicle occupied by the injured person but covering, as excess, umbrella, or similar insurance, the injured person as a named insured;
+(8) a policy or coverage not covering a motor vehicle occupied by the injured person but covering, as excess, umbrella, or similar insurance, the injured person as an insured other than as a named insured.</p>
+            </content>
+          </section>
+          <section eId="sec_28-22-231">
+            <num>28.22.231</num>
+            <heading>Policy coverage exclusions.</heading>
+            <content>
+              <p>Sec. 28.22.231.   Policy coverage exclusions.
+The uninsured and underinsured motorists coverage required under this chapter does not apply to bodily injury or death or damage to or destruction of property of an insured
+(1) while occupying a motor vehicle owned by, but not insured by, the named insured or the insured's spouse or relative residing in the same household; or
+(2) through being struck by a vehicle owned by the named insured or the insured's spouse or relative residing in the same household.</p>
+            </content>
+          </section>
+          <section eId="sec_28-22-301">
+            <num>28.22.301</num>
+            <heading>Policy interpretation.</heading>
+            <content>
+              <p>Sec. 28.22.301.   Policy interpretation.
+A provision in this chapter may not be interpreted to prohibit a motor vehicle liability policy from including limitations, conditions, exceptions, exclusions, or other provisions that do not violate the requirements of this chapter or other applicable laws.</p>
+            </content>
+          </section>
+          <section eId="sec_28-22-311">
+            <num>28.22.311</num>
+            <heading>Definition.</heading>
+            <content>
+              <p>Sec. 28.22.311.   Definition.
+In this chapter, motor vehicle liability policy means an owner's policy, an operator's policy, or a personal policy that
+(1) meets the requirements of
+AS 28.22.101
+; and
+(2) is issued by an insurance carrier authorized to transact business in the state to or for the benefit of the person named as insured.</p>
+            </content>
+          </section>
+          <section eId="sec_28-22-321">
+            <num>28.22.321</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 28.22.321.   Short title.
+This chapter may be cited as the Alaska Mandatory Automobile Insurance Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

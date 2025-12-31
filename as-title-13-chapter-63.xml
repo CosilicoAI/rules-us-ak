@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-63"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-63"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="13.63"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-63/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-63/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-63/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-63/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_13">
+        <num>13</num>
+        <heading>Decedents' Estates, Guardianships, Transfers, Trusts, and Health Care Decisions</heading>
+        <chapter eId="title_13__chp_63">
+          <num>63</num>
+          <heading>Revised Uniform Fiduciary Access to Digital Assets Act</heading>
+          <section eId="sec_13-63-010">
+            <num>13.63.010</num>
+            <heading>User direction for disclosure of digital assets.</heading>
+            <subsection eId="13-63-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A user may use an online tool to direct the custodian to disclose to a designated recipient, or not to disclose, some or all of the user's digital assets, including the content of electronic communications. If the online tool allows the user to modify or delete a direction at all times, a direction regarding disclosure using an online tool overrides a contrary direction by the user in a will, trust, power of attorney, or other record.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a user has not used an online tool to give direction under (a) of this section or if the custodian has not provided an online tool, the user may allow or prohibit in a will, trust, power of attorney, or other record, disclosure to a fiduciary of some or all of the user's digital assets, including the content of electronic communications sent or received by the user.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A user's direction under (a) or (b) of this section overrides a contrary provision in a terms-of-service agreement that does not require the user to act affirmatively and distinctly from the user's assent to the terms of service.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-63-020">
+            <num>13.63.020</num>
+            <heading>Terms-of-service agreement.</heading>
+            <subsection eId="13-63-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This chapter does not change or impair a right of a custodian or a user under a terms-of-service agreement to access and use digital assets of the user.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This chapter does not give a fiduciary or designated recipient any new or expanded rights other than those held by the user for whom, or for whose estate, the fiduciary or designated recipient acts or represents.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A fiduciary's or designated recipient's access to digital assets may be modified or eliminated by a user, by federal law, or by a terms-of-service agreement if the user has not provided direction under
+AS 13.63.010
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-63-030">
+            <num>13.63.030</num>
+            <heading>Procedures for disclosing digital assets.</heading>
+            <subsection eId="13-63-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When disclosing digital assets of a user under this chapter, the custodian may, in its sole discretion,</p>
+              </content>
+              <paragraph eId="13-63-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>grant a fiduciary or designated recipient full access to the user's account;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>grant a fiduciary or designated recipient partial access to the user's account sufficient to perform the tasks with which the fiduciary or designated recipient is charged; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>provide a fiduciary or designated recipient a copy in a record of any digital asset that, on the date the custodian received the request for disclosure, the user could have accessed if the user were alive and had full capacity and access to the account.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-63-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A custodian may assess a reasonable administrative charge for the cost of disclosing digital assets under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A custodian is not required to disclose under this chapter a digital asset deleted by a user.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a user directs or a fiduciary requests a custodian to disclose under this chapter some, but not all, of the user's digital assets, the custodian is not required to disclose the assets if segregation of the assets would impose an undue burden on the custodian. If the custodian believes the direction or request imposes an undue burden, the custodian or fiduciary may seek an order from the superior court to disclose</p>
+              </content>
+              <paragraph eId="13-63-030__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a subset limited by date of the user's digital assets;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-030__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>all of the user's digital assets to the fiduciary or designated recipient;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-030__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>none of the user's digital assets; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-030__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>all of the user's digital assets to the superior court for review in camera.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_13-63-040">
+            <num>13.63.040</num>
+            <heading>Disclosure of content of electronic communications of deceased user.</heading>
+            <subsection eId="13-63-040__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the user had a specific account with the custodian, identifiable by the information specified in (A) of this paragraph;
+(ii) disclosure of the content of electronic communications of the user would not violate 18 U.S.C. 2701  2712, 47 U.S.C. 222, or other applicable law;
+(iii) unless the user provided direction using an online tool, the user consented to disclosure of the content of electronic communications; or
+(iv) disclosure of the content of electronic communications of the user is reasonably necessary for administration of the estate.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-63-050">
+            <num>13.63.050</num>
+            <heading>Disclosure of other digital assets of deceased user.</heading>
+            <subsection eId="13-63-050__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the user had a specific account with the custodian, identifiable by the information specified in (A) of this paragraph; or
+(ii) disclosure of the user's digital assets is reasonably necessary for administration of the estate.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-63-060">
+            <num>13.63.060</num>
+            <heading>Disclosure of content of electronic communications of principal.</heading>
+            <content>
+              <p>Sec. 13.63.060.   Disclosure of content of electronic communications of principal.
+To the extent a power of attorney expressly grants an agent authority over the content of electronic communications sent or received by the principal and unless directed otherwise by the principal or the superior court, a custodian shall disclose to the agent the content if the agent gives the custodian
+(1) a written request for disclosure in physical or electronic form;
+(2) an original or copy of the power of attorney expressly granting the agent authority over the content of electronic communications of the principal;
+(3) a certification by the agent, under penalty of perjury, that the power of attorney is in effect; and
+(4) if requested by the custodian,
+(A) a number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the principal's account; or
+(B) evidence linking the account to the principal.</p>
+            </content>
+          </section>
+          <section eId="sec_13-63-070">
+            <num>13.63.070</num>
+            <heading>Disclosure of other digital assets of principal.</heading>
+            <content>
+              <p>Sec. 13.63.070.   Disclosure of other digital assets of principal.
+Unless otherwise ordered by the superior court, directed by the principal, or provided by a power of attorney, a custodian shall disclose to an agent with specific authority over digital assets or general authority to act on behalf of a principal a catalog of electronic communications sent or received by the principal and digital assets, other than the content of electronic communications, of the principal if the agent gives the custodian
+(1) a written request for disclosure in physical or electronic form;
+(2) an original or a copy of the power of attorney that gives the agent specific authority over digital assets or general authority to act on behalf of the principal;
+(3) a certification by the agent, under penalty of perjury, that the power of attorney is in effect; and
+(4) if requested by the custodian,
+(A) a number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the principal's account; or
+(B) evidence linking the account to the principal.</p>
+            </content>
+          </section>
+          <section eId="sec_13-63-080">
+            <num>13.63.080</num>
+            <heading>Disclosure of digital assets held in trust when trustee is original user.</heading>
+            <content>
+              <p>Sec. 13.63.080.   Disclosure of digital assets held in trust when trustee is original user.
+Unless otherwise ordered by the superior court or provided in a trust, a custodian shall disclose to a trustee that is an original user of an account any digital asset of the account held in trust, including a catalog of electronic communications of the trustee and the content of electronic communications.</p>
+            </content>
+          </section>
+          <section eId="sec_13-63-090">
+            <num>13.63.090</num>
+            <heading>Disclosure of contents of electronic communications held in trust when trustee not original user.</heading>
+            <content>
+              <p>Sec. 13.63.090.   Disclosure of contents of electronic communications held in trust when trustee not original user.
+Unless otherwise ordered by the superior court, directed by the user, or provided in a trust, a custodian shall disclose to a trustee that is not an original user of an account the content of an electronic communication sent or received by an original or successor user and carried, maintained, processed, received, or stored by the custodian in the account of the trust if the trustee gives the custodian
+(1) a written request for disclosure in physical or electronic form;
+(2) a certified copy of the trust instrument or a certification of the trust under
+AS 13.36.079
+that includes consent to disclosure of the content of electronic communications to the trustee;
+(3) a certification by the trustee, under penalty of perjury, that the trust exists and the trustee is a currently acting trustee of the trust; and
+(4) if requested by the custodian,
+(A) a number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the trust's account; or
+(B) evidence linking the account to the trust.</p>
+            </content>
+          </section>
+          <section eId="sec_13-63-100">
+            <num>13.63.100</num>
+            <heading>Disclosure of other digital assets held in trust when trustee not original user.</heading>
+            <content>
+              <p>Sec. 13.63.100.   Disclosure of other digital assets held in trust when trustee not original user.
+Unless otherwise ordered by the superior court, directed by the user, or provided in a trust, a custodian shall disclose to a trustee that is not an original user of an account a catalog of electronic communications sent or received by an original or successor user and stored, carried, or maintained by the custodian in an account of the trust and any digital assets, other than the content of electronic communications, in which the trust has a right or interest if the trustee gives the custodian
+(1) a written request for disclosure in physical or electronic form;
+(2) a certified copy of the trust instrument or a certification of the trust under
+AS 13.36.079
+;
+(3) a certification by the trustee, under penalty of perjury, that the trust exists and the trustee is a currently acting trustee of the trust; and
+(4) if requested by the custodian,
+(A) a number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the trust's account; or
+(B) evidence linking the account to the trust.</p>
+            </content>
+          </section>
+          <section eId="sec_13-63-110">
+            <num>13.63.110</num>
+            <heading>Disclosure of digital assets to conservator of protected person.</heading>
+            <subsection eId="13-63-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>After an opportunity for a hearing under
+AS 13.26.401
+ 13.26.595, the superior court may grant a conservator access to the digital assets of a protected person except that, if the conservator is a guardian with the powers and duties of a conservator under
+AS 13.26.316
+(c), the superior court may grant the conservator access to the digital assets of a protected person after an opportunity for a hearing under
+AS 13.26.201
+ 13.26.316.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless otherwise ordered by the superior court or directed by the user, a custodian shall disclose to a conservator the catalog of electronic communications sent or received by a protected person and any digital assets, other than the content of electronic communications, in which the protected person has a right or interest if the conservator gives the custodian</p>
+              </content>
+              <paragraph eId="13-63-110__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a written request for disclosure in physical or electronic form;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-110__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a certified copy of the superior court order that gives the conservator authority over the digital assets of the protected person; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-110__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if requested by the custodian,
+(A) a number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the account of the protected person; or
+(B) evidence linking the account to the protected person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-63-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A conservator with general authority to manage the assets of a protected person may request a custodian of the digital assets of the protected person to suspend or terminate an account of the protected person for good cause. A request made under this subsection must be accompanied by a certified copy of the superior court order giving the conservator authority over the protected person's property.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-63-120">
+            <num>13.63.120</num>
+            <heading>Fiduciary duty and authority.</heading>
+            <subsection eId="13-63-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The legal duties imposed on a fiduciary charged with managing tangible property apply to the management of digital assets, including</p>
+              </content>
+              <paragraph eId="13-63-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the duty of care;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the duty of loyalty; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the duty of confidentiality.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-63-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A fiduciary's or designated recipient's authority with respect to a digital asset of a user</p>
+              </content>
+              <paragraph eId="13-63-120__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>except as otherwise provided in
+AS 13.63.010
+, is subject to the applicable terms of service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-120__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is subject to other applicable law, including copyright law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-120__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>in the case of a fiduciary, is limited by the scope of the fiduciary's duties; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-120__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>may not be used to impersonate the user.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-63-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A fiduciary with authority over the property of a decedent, protected person, principal, or settlor has the right to access any digital asset in which the decedent, protected person, principal, or settlor had a right or interest and that is not held by a custodian or subject to a terms-of-service agreement.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A fiduciary acting within the scope of the fiduciary's duties is an authorized user of the property of the decedent, protected person, principal, or settlor for the purpose of applicable computer-fraud and unauthorized-computer-access laws, including
+AS 11.46.200
+, 11.46.484(a)(3), and 11.46.740.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-120__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A fiduciary with authority over the tangible personal property of a decedent, protected person, principal, or settlor</p>
+              </content>
+              <paragraph eId="13-63-120__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has the right to access the property and any digital asset stored in it; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-120__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is an authorized user for the purpose of computer-fraud and unauthorized-computer-access laws, including
+AS 11.46.200
+, 11.46.484(a)(3), and 11.46.740.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-63-120__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A custodian may disclose information in an account to a fiduciary of the user when the information is required to terminate an account used to access digital assets licensed to the user.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-120__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A fiduciary of a user may request a custodian to terminate the user's account. A request for termination must be in writing, in either physical or electronic form, and accompanied by</p>
+              </content>
+              <paragraph eId="13-63-120__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if the user is deceased, a certified copy of the death certificate of the user;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-120__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a certified copy of the letters testamentary of the personal representative, the superior court order, the power of attorney, or the trust instrument giving the fiduciary authority over the account; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-120__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if requested by the custodian,
+(A) a number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the user's account;
+(B) evidence linking the account to the user; or
+(C) a finding by the superior court that the user had a specific account with the custodian, identifiable by the information specified in (A) of this paragraph.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_13-63-130">
+            <num>13.63.130</num>
+            <heading>Custodian compliance and immunity.</heading>
+            <subsection eId="13-63-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Not later than 60 days after receipt of the information required under
+AS 13.63.040
+ 13.63.120, a custodian shall comply with a request under this chapter from a fiduciary or designated recipient to disclose digital assets or terminate an account. If the custodian fails to comply, the fiduciary or designated recipient may apply to the superior court for an order directing compliance.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An order under (a) of this section directing compliance must contain a finding that compliance is not in violation of 18 U.S.C. 2702.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A custodian may notify the user that a request for disclosure or to terminate an account was made under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A custodian may deny a request under this chapter from a fiduciary or designated recipient for disclosure of digital assets or to terminate an account if the custodian is aware of any lawful access to the account following the receipt of the fiduciary's request.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-63-130__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>This chapter does not limit a custodian's ability to obtain or to require a fiduciary or designated recipient requesting disclosure or termination under this chapter to obtain a superior court order that</p>
+              </content>
+              <paragraph eId="13-63-130__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>specifies that an account belongs to the protected person or principal;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-130__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>specifies that there is sufficient consent from the protected person or principal to support the requested disclosure; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-130__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>contains a finding required by law other than this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-63-130__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A custodian and its officers, employees, and agents are immune from liability for an act or omission done in good faith in compliance with this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-63-140">
+            <num>13.63.140</num>
+            <heading>Uniformity of application and construction.</heading>
+            <content>
+              <p>Sec. 13.63.140.   Uniformity of application and construction.
+In applying and construing this chapter, consideration shall be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.</p>
+            </content>
+          </section>
+          <section eId="sec_13-63-150">
+            <num>13.63.150</num>
+            <heading>Relation to Electronic Signatures in Global and National Commerce Act.</heading>
+            <content>
+              <p>Sec. 13.63.150.   Relation to Electronic Signatures in Global and National Commerce Act.
+This chapter modifies, limits, or supersedes 15 U.S.C. 7001  7031 (Electronic Signatures in Global and National Commerce Act), but does not modify, limit, or supersede 15 U.S.C. 7001(c), or authorize electronic delivery of any of the notices described in 15 U.S.C. 7003(b).</p>
+            </content>
+          </section>
+          <section eId="sec_13-63-160">
+            <num>13.63.160</num>
+            <heading>Digital assets coverage.</heading>
+            <content>
+              <p>Sec. 13.63.160.   Digital assets coverage.
+In this chapter, a digital asset does not apply to an underlying asset or liability unless the asset or liability is itself an electronic record. This chapter does not apply to a digital asset of an employer used by an employee in the ordinary course of the employer's business.</p>
+            </content>
+          </section>
+          <section eId="sec_13-63-170">
+            <num>13.63.170</num>
+            <heading>Application to custodians.</heading>
+            <content>
+              <p>Sec. 13.63.170.   Application to custodians.
+This chapter applies to a custodian if the user resides in this state or resided in this state at the time of the user's death.</p>
+            </content>
+          </section>
+          <section eId="sec_13-63-190">
+            <num>13.63.190</num>
+            <heading>Definitions.</heading>
+            <subsection eId="13-63-190__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>electronic-communication service means the ability to send or receive an electronic communication;
+(ii) remote-computing service means computer- processing services or the storage of digital assets by means of an electronic communications system; in this sub-subparagraph, electronic communications system has the meaning given in 18 U.S.C. 2510; and
+(C) is not readily accessible to the public;</p>
+              </content>
+              <paragraph eId="13-63-190__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>custodian means a person that carries, maintains, processes, receives, or stores a digital asset of a user;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>designated recipient means a person chosen by a user using an online tool to administer digital assets of the user;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>digital asset means an electronic record in which an individual has a right or interest, but does not include an underlying asset or liability unless the asset or liability is itself an electronic record;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>electronic means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>electronic communication has the meaning given in 18 U.S.C. 2510;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>fiduciary means an original, additional, or successor personal representative, conservator, agent, or trustee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>information means data, text, images, videos, sounds, codes, computer programs, software, databases, or similar items;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>online tool means an electronic service provided by a custodian that allows the user, in an agreement distinct from the terms-of-service agreement between the custodian and user, to provide directions for disclosure or nondisclosure of digital assets to a third person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>person means an individual, estate, business or nonprofit entity, public corporation, government or governmental subdivision, agency, or instrumentality, or another legal entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>personal representative means an executor, administrator, special administrator, or person that performs substantially the same function under law of this state other than this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>power of attorney means a record that grants an agent authority to act in the place of a principal;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>principal means an individual who grants authority to an agent in a power of attorney;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>protected person means an individual for whom a conservator has been appointed or an individual for whom an application for the appointment of a conservator is pending;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>record means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>terms-of-service agreement means an agreement that controls the relationship between a user and a custodian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>trustee means a fiduciary, whether the original fiduciary or a successor fiduciary, with legal title to property under an agreement or declaration that creates a beneficial interest in another person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_23">
+                <num>(23)</num>
+                <content>
+                  <p>user means a person that has an account with a custodian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-63-190__subsec_i__subsec_24">
+                <num>(24)</num>
+                <content>
+                  <p>will includes a codicil, a testamentary instrument that only appoints an executor, and an instrument that revokes or revises a testamentary instrument.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_13-63-195">
+            <num>13.63.195</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 13.63.195.   Short title.
+This chapter may be cited as the Revised Uniform Fiduciary Access to Digital Assets Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

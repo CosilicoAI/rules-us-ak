@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-70"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-70"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.70"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-70/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-70/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-70/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-70/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_70">
+          <num>70</num>
+          <heading>Uniform Criminal Extradition Act</heading>
+          <section eId="sec_12-70-010">
+            <num>12.70.010</num>
+            <heading>Fugitives from other states and duty of governor.</heading>
+            <content>
+              <p>Sec. 12.70.010.   Fugitives from other states and duty of governor.
+Subject to the provisions of this chapter, the provisions of the Constitution of the United States controlling, and any and all acts of Congress enacted in pursuance thereof, it is the duty of the governor of this state to have arrested and delivered up to the executive authority of another state a person charged in that state with treason, felony, or other crime, who has fled from justice and is found in this state.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-020">
+            <num>12.70.020</num>
+            <heading>Form of demand.</heading>
+            <subsection eId="12-70-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>No demand for the extradition of a person accused but not yet convicted of a crime in another state shall be recognized by the governor of this state unless made in writing and containing the following:</p>
+              </content>
+              <paragraph eId="12-70-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an allegation that the accused was present in the demanding state at the time of the commission of the alleged crime and that thereafter the accused fled the demanding state; except that this allegation may not be required in a proceeding based on
+AS 12.70.050
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-70-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a copy of an indictment found or an information supported by affidavit in the state having jurisdiction of the crime or by a copy of a complaint, affidavit, or other equivalent accusation made before a magistrate there; the indictment, information, or complaint, affidavit, or other equivalent accusation must substantially charge the person demanded with having committed a crime under the law of that state, and the copy must be authenticated by the executive authority making the demand.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-70-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>No demand for the extradition of a person convicted of a crime in another state shall be recognized by the governor of this state unless made in writing and containing the following:</p>
+              </content>
+              <paragraph eId="12-70-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a statement by the executive authority of the demanding state that the person claimed has escaped from confinement or has broken the terms of bail, probation, or parole;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-70-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a copy of the judgment of conviction or of a sentence imposed in execution thereof; the copy must be authenticated by the executive authority making the demand.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-70-030">
+            <num>12.70.030</num>
+            <heading>Investigation of demand and report.</heading>
+            <content>
+              <p>Sec. 12.70.030.   Investigation of demand and report.
+When a demand is made upon the governor of this state by the executive authority of another state for a surrender of a person charged with crime, the governor shall investigate the demand.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-040">
+            <num>12.70.040</num>
+            <heading>Extradition of persons imprisoned or awaiting trial in another state or who have left the demanding state under compulsion.</heading>
+            <subsection eId="12-70-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When it is desired to have returned to this state a person charged in this state with a crime, and that person is imprisoned or is held under criminal proceedings then pending against that person in another state, the governor of this state may agree with the executive authority of the other state for the extradition of that person before the conclusion of the proceedings or the term of sentence in the other state, upon condition that the person be returned to the other state at the expense of this state as soon as the prosecution in this state is terminated.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-70-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The governor of this state may also surrender on demand of the executive authority of another state a person in this state who is charged in the manner provided in
+AS 12.70.220
+with having violated the laws of the state whose executive authority is making the demand, even though that person left the demanding state involuntarily.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-70-050">
+            <num>12.70.050</num>
+            <heading>Extradition of person not present in demanding state at time of commission of crime.</heading>
+            <content>
+              <p>Sec. 12.70.050.   Extradition of person not present in demanding state at time of commission of crime.
+The governor of this state may also surrender, on demand of the executive authority of another state, a person in this state charged in the other state in the manner provided in
+AS 12.70.020
+with committing an act in this state, or a third state, intentionally resulting in a crime in the state whose executive authority is making the demand, and the provisions of this chapter not otherwise inconsistent shall apply to those cases, even though the accused was not in that state at the time of the commission of the crime and has not fled from that state.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-060">
+            <num>12.70.060</num>
+            <heading>Issue of governor's warrant of arrest.</heading>
+            <content>
+              <p>Sec. 12.70.060.   Issue of governor's warrant of arrest.
+If the governor decides that the demand should be complied with, the governor shall sign a warrant of arrest, which shall be sealed with the state seal, and be directed to a peace officer or other person whom the governor may think fit to entrust with the execution of the warrant.  The warrant must substantially recite the facts necessary to the validity of its issuance.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-070">
+            <num>12.70.070</num>
+            <heading>Manner and place of execution of the warrant of arrest.</heading>
+            <content>
+              <p>Sec. 12.70.070.   Manner and place of execution of the warrant of arrest.
+The warrant shall authorize the peace officer or other person to whom directed to arrest the accused at any time and any place where the accused may be found within the state and to command the aid of all peace officers or other persons in the execution of the warrant, and to deliver the accused, subject to the provisions of this chapter, to the duly authorized agent of the demanding state.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-080">
+            <num>12.70.080</num>
+            <heading>Authority of arresting officer to command assistance.</heading>
+            <content>
+              <p>Sec. 12.70.080.   Authority of arresting officer to command assistance.
+Every officer or other person empowered to make the arrest has the same authority in arresting the accused to command assistance therein as peace officers have by law in the execution of a criminal process directed to them, with like penalties against those who refuse their assistance.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-090">
+            <num>12.70.090</num>
+            <heading>Rights of accused person and application for writ of habeas corpus.</heading>
+            <content>
+              <p>Sec. 12.70.090.   Rights of accused person and application for writ of habeas corpus.
+A person arrested on a warrant may not be delivered over to the agent who the executive authority demanding the person has appointed to receive the person unless the person is first taken immediately before a judge or magistrate of this state, who shall inform the person of the demand made for the person's surrender, and of the crime with which the person is charged, and that the person has the right to demand and procure legal counsel.  If the prisoner or the prisoner's counsel states a desire to test the legality of the arrest, the judge or magistrate shall fix a reasonable time to be allowed the prisoner within which to apply for a writ of habeas corpus.  When that writ is applied for, notice of the application and of the time and place of hearing on it shall be given to the prosecuting attorney of the judicial district in which the arrest is made and in which the accused is in custody, and to the agent of the demanding state.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-100">
+            <num>12.70.100</num>
+            <heading>Penalty for noncompliance withAS 12.70.090.</heading>
+            <content>
+              <p>Sec. 12.70.100.   Penalty for noncompliance with
+AS 12.70.090
+.
+An officer or other person who delivers to the agent for extradition of the demanding state a person in custody under the governor's warrant, in wilful disobedience to
+AS 12.70.090
+, is guilty of a misdemeanor and, on conviction, is punishable by a fine of not more than $1,000, or by imprisonment for not more than six months, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-110">
+            <num>12.70.110</num>
+            <heading>Confinement in jail when necessary.</heading>
+            <subsection eId="12-70-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The officer or persons executing the governor's warrant of arrest, or the agent of the demanding state to whom the prisoner may have been delivered may, when necessary, confine the prisoner in a jail in a political subdivision, judicial district, or city of this state through which the officer or person may pass.  The keeper of the jail shall receive and safely keep the prisoner until the officer or person having charge of the prisoner is ready to proceed.  The officer or person is chargeable with the expense of keeping.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-70-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The officer or agent of a demanding state to whom a prisoner may have been delivered following extradition proceedings in another state, or to whom a prisoner may have been delivered after waiving extradition in the other state, and who is passing through this state with a prisoner for the purpose of immediately returning that prisoner to the demanding state may, when necessary, confine the prisoner in a jail in a political subdivision, judicial district, or city of this state through which the officer or agent may pass.  The keeper of the jail shall receive and safely keep the prisoner until the officer or agent having charge of the prisoner is ready to proceed.  The officer or agent is chargeable with the expense of keeping.  The officer or agent shall produce and show to the keeper of the jail satisfactory written evidence of the fact that the officer or agent is actually transporting the prisoner to the demanding state after a requisition by the executive authority of the demanding state.  The prisoner shall not be entitled to demand a new requisition while in this state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-70-120">
+            <num>12.70.120</num>
+            <heading>Arrest prior to requisition.</heading>
+            <content>
+              <p>Sec. 12.70.120.   Arrest prior to requisition.
+When a person within this state is charged on the oath of a credible person before a judge or magistrate of this state with the commission of a crime in another state and, except in cases arising under
+AS 12.70.050
+, with having fled from justice, or with having been convicted of a crime in that state and having escaped from confinement, or having broken the terms of bail, probation, or parole; or whenever complaint is made before a judge or magistrate in this state setting out on the affidavit of a credible person in another state that a crime has been committed in the other state and that the accused has been charged in that state with the commission of the crime and, except in cases arising under
+AS 12.70.050
+, has fled from justice, or with having been convicted of a crime in that state and having escaped from confinement, or having broken the terms of bail, probation, or parole and is believed to be in this state, the judge or magistrate shall issue a warrant directed to a peace officer commanding the officer to apprehend the person named in the warrant, wherever that person may be found in this state, and to bring that person before the same or another judge or magistrate who is available in or convenient of access to the place where the arrest may be made, to answer the charge or complaint and affidavit.  A certified copy of the sworn charge or complaint or affidavit upon which the warrant is issued shall be attached to the warrant.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-130">
+            <num>12.70.130</num>
+            <heading>Arrest without warrant.</heading>
+            <content>
+              <p>Sec. 12.70.130.   Arrest without warrant.
+The arrest of a person may also be lawfully made by a peace officer or a private person without a warrant upon reasonable information that the accused stands charged in the courts of another state with a crime punishable by death or imprisonment for a term exceeding one year, but when arrested the accused must be taken before a judge or magistrate without unnecessary delay and, in any event, within 24 hours after arrest, absent compelling circumstances, including Sundays and holidays, and complaint shall be made against the accused under oath setting out the ground for the arrest as in
+AS 12.70.120
+. Thereafter the answer of the accused shall be heard as if the accused had been arrested on a warrant.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-140">
+            <num>12.70.140</num>
+            <heading>Commitment to await requisition.</heading>
+            <content>
+              <p>Sec. 12.70.140.   Commitment to await requisition.
+If at the examination before the judge or magistrate it appears that the person held is the person charged with having committed the crime alleged and, except in cases arising under
+AS 12.70.050
+, that the person has fled from justice, the judge or magistrate shall commit the person to jail for not more than 30 days, as will enable the arrest of the accused to be made under a warrant of the governor on a requisition of the executive authority of the state having jurisdiction of the offense, unless the accused gives bail as provided in
+AS 12.70.150
+, or until legally discharged. The commitment by the judge or magistrate shall be by a warrant that shall recite the following:
+(1) the accusation against the accused;
+(2) the fact that the commitment is for a time as will enable the arrest of the accused to be made under a warrant of the governor of this state; and
+(3) that in any event the commitment shall be for not more than 30 days.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-150">
+            <num>12.70.150</num>
+            <heading>Bail.</heading>
+            <content>
+              <p>Sec. 12.70.150.   Bail.
+Unless the offense with which the prisoner is charged is shown to be an offense punishable by death under the laws of the state in which it was committed, a judge or magistrate in this state shall admit the prisoner to bail by bond or undertaking, with sufficient sureties, and in a sum the judge or magistrate considers proper, conditioned upon the prisoner's appearance before the judge or magistrate at a time specified in the bond or undertaking and for the prisoner's surrender, to be arrested on the warrant of the governor of this state.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-160">
+            <num>12.70.160</num>
+            <heading>Extension of time of commitment.</heading>
+            <content>
+              <p>Sec. 12.70.160.   Extension of time of commitment.
+If the accused is not arrested under warrant of the governor by the expiration of the time specified in the warrant, bond, or undertaking, a judge or magistrate may discharge the accused or may recommit the accused for a further period of not more than 60 days, or a judge or magistrate may again take bail for the appearance and surrender of the accused, as provided in
+AS 12.70.150
+, but within a period of not more than 60 days after the date of the new bond or undertaking.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-170">
+            <num>12.70.170</num>
+            <heading>Forfeiture of bail.</heading>
+            <content>
+              <p>Sec. 12.70.170.   Forfeiture of bail.
+If the prisoner is admitted to bail and fails to appear and surrender according to the conditions of the bond or undertaking, the judge or magistrate, by proper order, shall declare the bond or undertaking forfeited, and order the immediate arrest of the prisoner if the prisoner is within this state.  Recovery may be had on the bond or undertaking in the name of the state as in the case of other bonds or undertakings given by the accused in criminal proceedings within this state.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-180">
+            <num>12.70.180</num>
+            <heading>Persons under criminal prosecution in this state at time of requisition.</heading>
+            <content>
+              <p>Sec. 12.70.180.   Persons under criminal prosecution in this state at time of requisition.
+If a criminal prosecution has been instituted against the person under the laws of this state and is still pending, the governor has discretion to surrender that person on demand of the executive authority of another state or hold that person until tried and discharged, or convicted and punished in this state.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-190">
+            <num>12.70.190</num>
+            <heading>Inquiry into guilt or innocence of accused.</heading>
+            <content>
+              <p>Sec. 12.70.190.   Inquiry into guilt or innocence of accused.
+The guilt or innocence of the accused as to the crime of which the accused is charged may not be inquired into by the governor in any proceeding after the demand for extradition, accompanied by a charge of crime in legal form as provided in this chapter, has been presented to the governor, except as it may be involved in identifying the person held as the person charged with the crime.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-200">
+            <num>12.70.200</num>
+            <heading>Governor's warrant.</heading>
+            <content>
+              <p>Sec. 12.70.200.   Governor's warrant.
+The governor may recall the warrant of arrest or may issue another warrant whenever the governor deems proper.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-210">
+            <num>12.70.210</num>
+            <heading>Fugitives from this state.</heading>
+            <content>
+              <p>Sec. 12.70.210.   Fugitives from this state.
+When the governor of this state demands a person charged with crime or with escaping from confinement or breaking the terms of bail, probation, or parole in this state from the executive authority of any other state, or from a judge of the District Court of the United States for the District of Columbia authorized to receive the demand under the laws of the United States, the governor shall issue a warrant under the seal of this state to an agent, commanding the agent to receive the person so charged if delivered to the agent and convey that person to the proper officer of the judicial district in this state in which the offense was committed.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-220">
+            <num>12.70.220</num>
+            <heading>Application for issuance of requisition.</heading>
+            <subsection eId="12-70-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the return to this state of a person charged with a crime in this state is required, the prosecuting attorney of the judicial district in which the offense is committed, or the attorney general, shall present to the governor a written application for a requisition for the return of the person charged.  In the application there shall be stated the name of the person so charged, the crime charged, the approximate time, place, and circumstances of its commission, the state in which the accused is believed to be, including the location of the accused therein at the time the application is made, and certifying that in the opinion of the said prosecuting attorney or the attorney general, the ends of justice require the arrest and return of the accused to this state for trial, and that the proceeding is not instituted to enforce a private claim.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-70-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When the return to this state is required of a person who has been convicted of a crime in this state and has escaped from confinement or broken the terms of the person's bail, probation, or parole, the prosecuting attorney of the judicial district in which the offense was committed, or the attorney general, the parole or probation authority having jurisdiction over the person, or the commissioner of corrections shall present to the governor a written application for a requisition for the return of that person.  In the application there shall be stated the name of the person, the crime for which the person was convicted, the circumstances of the escape from confinement or of the breach of the terms of bail, probation, or parole, and the state in which the person is believed to be, including the location of the person therein at the time the application is made.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-70-220__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The application shall be verified by affidavit, shall be executed in duplicate and shall be accompanied by two certified copies of the indictment returned, or information and affidavit filed, or the complaint made to the judge or magistrate, stating the offense with which the accused is charged, or of the judgment of conviction or of the sentence. The attorney general or the prosecuting attorney, the parole or probation authority, or the commissioner of corrections may also attach further affidavits and other documents in duplicate to be submitted with the application. One copy of the application, with the action of the governor indicated by endorsement on the application, and one of the certified copies of the indictment, complaint, information and affidavits, or judgment or conviction or sentence shall be filed in the office of the governor to remain of record in that office. The other copies of all papers shall be forwarded with the governor's requisition.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-70-230">
+            <num>12.70.230</num>
+            <heading>Immunity from service of process in certain civil actions.</heading>
+            <content>
+              <p>Sec. 12.70.230.   Immunity from service of process in certain civil actions.
+A person brought into this state by or after waiver of extradition based on a criminal charge shall not be subject to service of personal process in civil actions arising out of the same facts as the criminal proceeding for which the person is being or has been returned, until the person has been convicted in the criminal proceedings, or, if acquitted, until the person has reasonable opportunity to return to the state from which extradited.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-240">
+            <num>12.70.240</num>
+            <heading>Written waiver of extradition proceedings.</heading>
+            <subsection eId="12-70-240__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person arrested in this state charged with having committed a crime in another state or alleged to have escaped from confinement, or broken the terms of bail, probation, or parole may waive the issuance and service of the warrant provided for in
+AS 12.70.060
+and 12.70.070 and all other procedure incidental to extradition proceedings, by executing or subscribing in the presence of a judge or magistrate within this state a writing that states that the person consents to return to the demanding state; however, before the waiver is executed or subscribed by that person, the judge or magistrate shall inform that person of the right to the issuance and service of a warrant of extradition and of the right to apply for a writ of habeas corpus as provided for in
+AS 12.70.090
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-70-240__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If and when that consent is executed, it shall immediately be forwarded to the office of the governor of this state and filed therein.  The judge or magistrate shall direct the officer having the person in custody to deliver immediately that person to the duly accredited agent of the demanding state, and shall deliver or cause to be delivered to the agent a copy of the consent.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-70-240__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing in this section is considered to limit the rights of the accused person to return voluntarily and without formality to the demanding state, nor shall this waiver procedure be considered to be an exclusive procedure or to limit the powers, rights, or duties of the officers of the demanding state or of this state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-70-250">
+            <num>12.70.250</num>
+            <heading>Nonwaiver by this state.</heading>
+            <content>
+              <p>Sec. 12.70.250.   Nonwaiver by this state.
+Nothing in this chapter is considered to constitute a waiver by this state of its right, power, or privilege to try the demanded person for crime committed within this state, or of its right, power, or privilege to regain custody of that person by extradition proceedings or otherwise for the purpose of trial, sentence, or punishment for a crime committed within this state, nor shall a proceeding had under these sections which results in, or fails to result in, extradition be deemed a waiver by this state of any of its rights, privileges, or jurisdiction in any way whatsoever.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-260">
+            <num>12.70.260</num>
+            <heading>No immunity from other criminal prosecutions while in this state.</heading>
+            <content>
+              <p>Sec. 12.70.260.   No immunity from other criminal prosecutions while in this state.
+After a person has been brought back to this state through extradition proceedings, or after waiver of extradition proceedings by that person, that person may be tried in this state for other crimes which the person may be charged with having committed here as well as that specified in the requisition for extradition.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-270">
+            <num>12.70.270</num>
+            <heading>Interpretation.</heading>
+            <content>
+              <p>Sec. 12.70.270.   Interpretation.
+The provisions of this chapter shall be so interpreted and construed as to effectuate the general purposes to make uniform the law of those states that enact it.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-280">
+            <num>12.70.280</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 12.70.280.   Definitions.
+In this chapter,
+(1) executive authority includes the governor and a person performing the functions of governor in a state other than this state;
+(2) governor includes
+(A) a person performing the functions of governor by authority of the law of this state; and
+(B) the lieutenant governor or the head of a principal department in the executive branch appointed by the governor to act on behalf of the governor in performing extradition duties under this chapter; the appointment shall be in writing and filed with the lieutenant governor;
+(3) state, referring to a state other than this state, includes another state or possession of the United States.</p>
+            </content>
+          </section>
+          <section eId="sec_12-70-290">
+            <num>12.70.290</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 12.70.290.   Short title.
+This chapter may be cited as the Uniform Criminal Extradition Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

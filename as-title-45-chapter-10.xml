@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-10"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.10"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_10">
+          <num>10</num>
+          <heading>Alaska Retail Installment Sales Act</heading>
+          <section eId="sec_45-10-010">
+            <num>45.10.010</num>
+            <heading>The contract document.</heading>
+            <subsection eId="45-10-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A retail installment contract must be contained in a single document.  The document must contain the entire agreement of the parties including promissory notes and other evidences of indebtedness between the parties relating to the transaction, except as provided in
+AS 45.10.040
+, 45.10.050, and 45.10.100.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the buyer's obligation to pay the time balance is represented by a promissory note secured by a chattel mortgage, a provision of the mortgage by which the buyer undertakes to do something besides pay a sum certain in money is considered to be contained in a separate document for the purpose of determining the negotiability of the note unless the provision is expressly incorporated in the note by reference to the provision of the mortgage.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The contract must be dated, signed by the retail buyer, and completed as to all essential provisions, except as otherwise provided in
+AS 45.10.050
+and 45.10.060.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-020">
+            <num>45.10.020</num>
+            <heading>Buyer's copy.</heading>
+            <content>
+              <p>Sec. 45.10.020.   Buyer's copy.
+The retail seller shall deliver to the retail buyer, or mail to the buyer at the address shown on the retail installment contract, a copy of the contract as accepted by the seller. Until the seller does so, the buyer is obligated to pay only the cash sale price.  An acknowledgment by the buyer of delivery of a copy of the contract must appear directly above the buyer's signature.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-030">
+            <num>45.10.030</num>
+            <heading>Contents of contract.</heading>
+            <subsection eId="45-10-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The retail installment contract must contain the names of the seller and the buyer, the place of business of the seller, the residence or other address of the buyer as named by the buyer, and a description or identification of the goods sold or to be sold or services furnished or rendered or to be furnished or rendered. The contract must also contain the following items:</p>
+              </content>
+              <paragraph eId="45-10-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the cash sale price of each item of goods or services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount of the buyer's down payment, identifying the amounts paid in money and allowed for goods traded in;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the difference between items (1) and (2);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the aggregate amount included for insurance, if a separate identified charge is made for insurance, specifying the types of insurance and the terms of coverage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the aggregate amount of official fees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-030__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the principal balance, which is the sum of items (3), (4), (5), and (11);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-030__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the amount or rate of the service charge;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-030__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>any other charges;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-030__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>the amount of the time balance owed by the buyer to the seller, which is the sum of items (6), (7), if (7) is stated in a dollar amount, (8), and (11);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-030__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>except as provided in (c) of this section, the maximum number of installment payments required and the amount of each installment and the due date of each payment necessary to pay the balance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-030__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>if the retail installment contract is for the sale of a motor vehicle, the amount, if any, that the seller agrees to pay to discharge an outstanding obligation of the buyer under an existing motor vehicle agreement, loan, installment sales contract, or lease.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-10-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Additional items may be included to explain the calculations involved in determining the balance to be paid by the buyer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the installment payments other than the final payment are stated as a series of equal scheduled amounts and if the amount of the final installment payment does not substantially exceed the scheduled amount of each preceding installment payment, the maximum number of payments and the amount and due date of each payment need not be separately stated, and the amount of the scheduled final installment payment may be stated as the remaining unpaid balance. The due date of the first installment payment may be fixed by a day or date or may be fixed by reference to the date of the contract or to the time of delivery or installation.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The contract is not required to state the items in (a) of this section in the order stated in (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-040">
+            <num>45.10.040</num>
+            <heading>Other documents.</heading>
+            <subsection eId="45-10-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A retail installment contract may be contained in more than one document, if one is an original document signed by the retail buyer stated to be applicable to purchase of goods or services to be made by the retail buyer from time to time.  In this case the document, together with the sales slip, account book, or other written statement relating to each purchase, must set out all of the information required by
+AS 45.10.030
+and constitute the retail installment contract for each purchase.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>On each succeeding purchase under the original document, the sales slip, account book, or other written statement may at the option of the seller constitute the memorandum required by
+AS 45.10.100
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-050">
+            <num>45.10.050</num>
+            <heading>Catalog or printed solicitation.</heading>
+            <subsection eId="45-10-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A retail installment contract, or retail charge agreement, negotiated and entered into by mail or telephone without personal solicitation by a salesman or representative of the seller and based upon a catalog of the seller or other printed solicitation of business, if the catalog or other printed solicitation clearly sets out the cash sale prices and other terms of sales to be made through this medium, shall be made as provided in this section.  The provisions of this chapter with respect to retail installment contracts and retail charge agreements are applicable to these sales, except that the retail installment contract when completed by the buyer need not contain the items required by
+AS 45.10.030
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When the retail installment contract is received from the retail buyer, the seller shall prepare a written memorandum containing all of the information required by
+AS 45.10.030
+to be included in a retail installment contract. Instead of delivering a copy of the contract to the retail buyer as provided in
+AS 45.10.020
+, the seller shall deliver to the buyer a copy of the memorandum before the due date of the first installment payable under the contract.  If the catalog or other printed solicitation does not set out all of the other terms of sales in addition to the cash sales prices, the memorandum shall be delivered to the buyer before or at the time of delivery of the goods or services.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-060">
+            <num>45.10.060</num>
+            <heading>Signing of incomplete contracts.</heading>
+            <content>
+              <p>Sec. 45.10.060.   Signing of incomplete contracts.
+The seller may not obtain the signature of the buyer to a contract if it contains blank spaces of items that are essential provisions of the transaction, except as provided in
+AS 45.10.050
+. However, if delivery of the goods is not made at the time of the execution of the contract, the identifying numbers or marks of the goods or similar information and the due date of the first installment may be inserted by the seller in the seller's counterpart of the contract after it has been signed by the buyer.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-070">
+            <num>45.10.070</num>
+            <heading>Prepayment.</heading>
+            <subsection eId="45-10-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A retail installment contract must contain a statement that the buyer may pay the total unpaid balance on the contract at any time.  A buyer who prepays in full the unpaid balance at any time before its final due date shall, if the contract is not in default more than two months, receive a refund credit of the unearned portion of the service charge for the prepayment.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except when the service charge is computed on an add-on or simple interest basis, the amount of the refund credit shall be computed according to the rule of 78ths; that is, it shall represent at least as great a proportion of the original service charge over $25 in case of a retail installment sale of a motor vehicle, or $10 in case of a retail installment sales of goods other than a motor vehicle, as (1) the sum of the monthly or other periodic unpaid balances under the schedule of payments in the contract beginning as of the date after the prepayment that is the next succeeding monthly or other periodic anniversary date of the due date of the first installment under the contract, or, if the prepayment is before the due date of the first installment under the contract, then as of the date after the prepayment that is the next succeeding monthly or other periodic anniversary date of the date of the contract bears to (2) the sum of all the monthly or other periodic unpaid balances under the schedule of installment payments in the contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the amount of refund credit is less than $1, no refund credit need be made.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-080">
+            <num>45.10.080</num>
+            <heading>Delinquency, collection, and other charges; other contract provisions.</heading>
+            <subsection eId="45-10-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If authority to do so is contained in the contract or agreement, the holder of a retail installment contract or retail charge agreement may collect any delinquency, collection or dishonored check charges, attorney fees, court costs, and disbursements. In this case, the charge must be reasonable, and no attorney fee may be recovered unless the contract is referred for collection to an attorney not a salaried employee of the holder.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The contract may contain other provisions not inconsistent with the purposes of this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-090">
+            <num>45.10.090</num>
+            <heading>Receipts and requests for statements.</heading>
+            <subsection eId="45-10-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A buyer shall be given a written receipt for any payment when made in cash.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon written request of the buyer, the holder of a retail installment contract shall give or forward to the buyer a written statement of the dates and amounts of payments and the total amount unpaid under the contract.  This statement shall be given the buyer once without charge; if an additional statement is requested by the buyer, it shall be supplied by the holder at a charge not in excess of $1 for each additional statement supplied.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-100">
+            <num>45.10.100</num>
+            <heading>Consolidation of contracts.</heading>
+            <subsection eId="45-10-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If, in a retail installment transaction, a retail buyer makes a purchase of goods or services from a retail seller from whom the buyer has previously purchased goods or services under a retail installment contract, and the amount under the previous contract has not been fully paid, the subsequent purchase may, at the seller's option, be included in and consolidated with the previous contract.  This chapter, with respect to a retail installment contract, is applicable to the subsequent purchase.  In the event of consolidation, the seller shall furnish to the buyer, before the due date of the first installment of the consolidated contract, the items of information under
+AS 45.10.030
+or 45.10.040 and a memorandum setting out</p>
+              </content>
+              <paragraph eId="45-10-100__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the outstanding balance of the previous contract or contracts;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-100__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount of the time balance owed by the buyer to the seller for the subsequent purchase;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-100__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the consolidated time balance; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-100__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the revised installments applicable to the consolidated time balance.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-10-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The seller shall deliver a copy of the memorandum to the buyer before the due date of the first installment of the consolidated contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When the subsequent purchase is made, if the seller has retained title or taken a lien or other security interest in any of the goods purchased under one of the contracts included in the consolidation,</p>
+              </content>
+              <paragraph eId="45-10-100__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the entire amount of all payments made before the subsequent purchase is considered to have been applied on the previous purchase;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-100__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the amount of each installment payment is not increased in connection with the subsequent purchase, the subsequent payments are considered to be allocated first to the previous purchase;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-100__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the amount of each installment payment is increased in connection with the subsequent purchase, an amount equal to the original periodic payment is allocated first to the previous purchase, and the amount of the increase may, at the seller's option, be considered to be allocated to the subsequent purchase;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-10-100__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the amount of a down payment on the subsequent purchase is allocated in its entirety to the subsequent purchase.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-10-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The provisions of (c) of this section do not apply to a case where the previous and subsequent purchases involve equipment, parts, or other goods attached or affixed to goods previously purchased and not fully paid, or to services in connection with goods previously purchased and not fully paid, rendered by the seller at the buyer's request.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-110">
+            <num>45.10.110</num>
+            <heading>Notice of service charge and monthly statement.</heading>
+            <subsection eId="45-10-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At or before the time a retail charge agreement is made, the seller shall advise the buyer in writing on the application form or otherwise, or orally that a service charge will be computed on the outstanding balance for each month, which need not be a calendar month, or other regular period agreed upon, the schedule or rate by which the service charge will be computed, and that the buyer may pay the total unpaid balance at any time.  If this information is given orally, the seller shall, upon approval of the buyer's credit, deliver to the buyer or mail to the buyer at the buyer's address a memorandum setting out this information.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The seller or holder of a retail charge agreement shall promptly supply the buyer with a statement as of the end of each monthly period, which need not be a calendar month, or other regular period agreed upon in which there is an unpaid balance. The statement must include the unpaid balance under the retail charge agreement and the amount of a service charge for the period.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-120">
+            <num>45.10.120</num>
+            <heading>Extent of service charge.</heading>
+            <subsection eId="45-10-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding any other law, the service charge included in a retail installment contract, retail charge agreement, revolving charge agreement, or other retail charge agreement must be at the rate agreed upon by the retail seller and the buyer.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not limit or restrict the method of computing the service charge, whether by way of add-on, simple interest, or otherwise, so long as that method is disclosed in the contract and agreed upon by the retail seller and the buyer.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-130">
+            <num>45.10.130</num>
+            <heading>Insurance.</heading>
+            <content>
+              <p>Sec. 45.10.130.   Insurance.
+If the cost of insurance is included in the retail installment contract or retail charge agreement and a separate charge is made to the buyer for the insurance,
+(1) the contract or agreement must state the nature, purpose, and amount of the insurance, and in connection with the sale of a motor vehicle, the contract must state that the insurance coverage ordered under the terms of this contract does or does not include bodily injury liability, public liability, and property damage liability coverage, as applicable;
+(2) the contract or agreement must state whether the insurance is to be procured by the buyer or the seller;
+(3) the amount included for the insurance may not exceed the premiums chargeable in accordance with the rate fixed for the insurance by the insurer except where the amount is less than $1; and if the insurance is cancelled or terminated for any reason, the refund for unearned insurance premiums received by the seller or an assignee of the seller, together with the unearned portion of the service charge applicable to the insurance, shall be credited to the final maturing installments of the retail installment contract or retail charge agreement, and the remaining balance of the unearned insurance premiums shall be refunded to the buyer; however, no cash refund is required if the amount is less than $1;
+(4) if the insurance is to be procured by the seller or holder, the seller or holder shall, within 45 days after delivery of the goods or furnishing of the services under the contract, deliver, mail, or cause to be mailed to the buyer at the address as specified in the contract a notice that the insurance is procured, a copy of the policy or policies of insurance, or a certificate of the insurance so procured.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-140">
+            <num>45.10.140</num>
+            <heading>Agreement not to assert claim or defense.</heading>
+            <content>
+              <p>Sec. 45.10.140.   Agreement not to assert claim or defense.
+A provision of a retail installment contract or retail charge agreement by which the buyer agrees not to assert a claim or defense arising out of the sale against the seller or an assignee is invalid.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-150">
+            <num>45.10.150</num>
+            <heading>Nonwaiver of chapter.</heading>
+            <content>
+              <p>Sec. 45.10.150.   Nonwaiver of chapter.
+No act or agreement of the retail buyer before or at the time of the making of a retail installment contract, retail charge agreement, or purchases under the contract or agreement constitutes a valid waiver of any of the provisions of this chapter or of any remedies granted to the buyer by law.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-160">
+            <num>45.10.160</num>
+            <heading>Contracts and agreements executed before 1963.</heading>
+            <content>
+              <p>Sec. 45.10.160.   Contracts and agreements executed before 1963.
+This chapter does not invalidate or make unlawful a retail installment contract or retail charge agreement executed before January 1, 1963.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-170">
+            <num>45.10.170</num>
+            <heading>Action by attorney general.</heading>
+            <content>
+              <p>Sec. 45.10.170.   Action by attorney general.
+The attorney general may bring an action in the name of the state against a person to restrain and prevent a violation of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-180">
+            <num>45.10.180</num>
+            <heading>Assurance of discontinuance.</heading>
+            <subsection eId="45-10-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In the enforcement of this chapter, the attorney general may accept an assurance of discontinuance of an act or practice considered in violation of this chapter from a person engaging in or who has engaged in the act or practice.  The assurance shall be in writing and be filed with and subject to the approval of the superior court of the district in which the alleged violator resides or in which the principal place of business of the alleged violator is located.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-10-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Failure to perform the terms of the assurance is prima facie proof of a violation of this chapter for the purpose of securing an injunction as provided in
+AS 45.10.170
+, and for the purposes of
+AS 45.10.190
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-10-190">
+            <num>45.10.190</num>
+            <heading>Barring recovery for noncompliance.</heading>
+            <content>
+              <p>Sec. 45.10.190.   Barring recovery for noncompliance.
+A seller who enters into a contract or agreement that does not comply with the provisions of this chapter or who violates a provision of this chapter except as a result of an accident or bona fide error may not recover a service charge, official fee, or a delinquency or collection charge under or in connection with the related retail installment contract or purchases under a retail charge agreement. The seller or holder may nevertheless recover from the buyer an amount equal to the cash price of the goods or services and the cost to the seller or holder of insurance included in the transaction.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-200">
+            <num>45.10.200</num>
+            <heading>Penalty for violation of order or injunction.</heading>
+            <content>
+              <p>Sec. 45.10.200.   Penalty for violation of order or injunction.
+A person who violates an order or injunction issued under this chapter is punishable by a fine of not more than $1,000, or by imprisonment for not more than six months, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-210">
+            <num>45.10.210</num>
+            <heading>Penalty for violation of chapter.</heading>
+            <content>
+              <p>Sec. 45.10.210.   Penalty for violation of chapter.
+A person who wilfully and intentionally violates a provision of this chapter is guilty of a misdemeanor and, upon conviction, is punishable by a fine of not more than $1,000, or by imprisonment for not more than six months, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-215">
+            <num>45.10.215</num>
+            <heading>Applicability of chapter.</heading>
+            <content>
+              <p>Sec. 45.10.215.   Applicability of chapter.
+For the purposes of this chapter, a retail installment contract or retail charge agreement is entered into in this state, and is therefore subject to the provisions of this chapter, if either the seller offers or agrees to sell to a resident buyer in this state or if a resident buyer in this state accepts the offer to sell or makes the offer to buy in this state, regardless of any specification in the contract as to its situs.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-220">
+            <num>45.10.220</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 45.10.220.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) cash sale price means the price for which the seller would have sold or furnished to the buyer and the buyer would have bought or obtained from the seller the goods or services that are the subject matter of a retail installment transaction if the sale had been a sale for cash; the cash sale price may include taxes and charges for transferring vehicle titles, delivery, installation, servicing, repairs, alterations, or improvements;
+(2) goods means personal chattels purchased primarily for personal, family, or household use and not for commercial or business use, but does not include money or, except as provided in the next phrase, chose in action; goods includes merchandise certificates or coupons issued by a retail seller to be used in their face amount instead of cash in exchange for goods or services sold by the seller and goods, including a manufactured home, that, at the time of sale or subsequently, are to be so affixed to real property as to become a part of it, whether or not severable from it; in this paragraph, manufactured home has the meaning given in
+AS 45.29.102
+;
+(3) official fees means the amount of the fees set by law for filing, recording, or otherwise perfecting and releasing or satisfying a retained title, lien, or other security interest created by a retail installment transaction or premiums payable for insurance in lieu of perfecting a security interest if the premiums do not exceed the fees that would otherwise normally be incurred for perfecting, filing, recording, or otherwise perfecting and releasing or satisfying a retained title, lien, or other security interest;
+(4) person means an individual, partnership, joint venture, corporation, association, or any other group, however organized;
+(5) principal balance means the cash sale price of the goods or services that are the subject matter of a retail installment contract less the amount of the buyer's down payment in money or goods or both, plus
+(A) the amounts for insurance and official fees included in the contract if a separate identified charge is made and stated in the contract for insurance and official fees; and
+(B) if the retail installment contract is for the sale of a motor vehicle, the amount, if any, that the seller agrees to pay to discharge an outstanding obligation of the buyer under an existing motor vehicle agreement, loan, installment sales contract, or lease;
+(6) rate means the percentage that, when multiplied by the outstanding balance for each month or other installment period, yields the amount of the service charge for the month or period;
+(7) retail buyer or buyer means a person who buys or agrees to buy goods or obtain services or agrees to have services rendered or furnished from a retail seller;
+(8) retail charge agreement, revolving charge agreement, or charge agreement means an instrument
+(A) entered into or performed in the state that sets out the terms of retail installment transactions that may be made under the agreement from time to time; and
+(B) under the terms of which a service charge is to be computed from time to time in relation to the buyer's unpaid balance;
+(9) retail installment contract or contract means a contract, other than a retail charge agreement or an instrument reflecting a sale price made under a retail charge agreement, entered into or performed in the state for a retail installment transaction; retail installment contract includes
+(A) a chattel mortgage;
+(B) a conditional sale contract; and
+(C) a contract in the form of a bailment or a lease if the bailee or lessee contracts to pay a sum substantially equivalent to or in excess of the value of the goods sold as compensation for their use and if it is agreed that the bailee or lessee is bound to become, or for no other or a merely nominal consideration, has the option of becoming the owner of the goods upon full compliance with the provisions of the bailment or lease;
+(10) retail installment transaction means a transaction in which a retail buyer purchases goods or services from a retail seller under a retail installment contract or a retail charge agreement that provides for a service charge under which the buyer agrees to pay the unpaid balance in one or more installments;
+(11) retail seller or seller means a person engaged in the business of selling goods or services to retail buyers;
+(12) service charge, however denominated or expressed, means the amount that is paid or payable for the privilege of purchasing goods or services to be paid for by the buyer in installments over a period of time; service charge does not include the amount charged for insurance premiums, delinquency charges, attorney fees, court costs, or official fees;
+(13) services means work, labor, or services of any kind purchased primarily for personal, family, or household use and not for commercial or business use, whether or not furnished in connection with the delivery, installation, servicing, repair, or improvement of goods; services includes repairs, alterations, or improvements upon or in connection with real property, but does not include the services of a professional person licensed by the state, or services for which the price charged is required by law to be determined or approved by or to be filed, subject to approval or disapproval, with the United States or a state or a department, division, agency, officer, or official of either as in the case of transportation services;
+(14) time balance means the principal balance plus the service charge.</p>
+            </content>
+          </section>
+          <section eId="sec_45-10-230">
+            <num>45.10.230</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 45.10.230.   Short title.
+This chapter may be cited as the Alaska Retail Installment Sales Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

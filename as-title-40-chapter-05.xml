@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-40/chapter-05"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-40/chapter-05"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="40.05"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-40/chapter-05/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-40/chapter-05/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-40/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-40/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_40">
+        <num>40</num>
+        <heading>Public Records and Recorders</heading>
+        <chapter eId="title_40__chp_05">
+          <num>05</num>
+          <heading>Records Affecting Mining Claims</heading>
+          <section eId="sec_40-05-010">
+            <num>40.05.010</num>
+            <heading>Purpose.</heading>
+            <content>
+              <p>Sec. 40.05.010.   Purpose.
+The purpose of this chapter is to enable the Department of Natural Resources to accumulate and disseminate information on the status of mining ground in the performance of its prescribed duties.</p>
+            </content>
+          </section>
+          <section eId="sec_40-05-020">
+            <num>40.05.020</num>
+            <heading>Reports of instruments affecting mining properties.</heading>
+            <content>
+              <p>Sec. 40.05.020.   Reports of instruments affecting mining properties.
+The recorder of each recording district shall prepare and forward to the Department of Natural Resources, by the 10th day of each month, a copy of each new mining claim, mining leasehold, prospecting site location certificate, or other document indexed by the recorder as a mining document recorded during the preceding month.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

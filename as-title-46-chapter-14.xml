@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-14"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-14"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="46.14"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-14/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-14/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-14/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-14/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_46">
+        <num>46</num>
+        <heading>Water, Air, Energy, and Environmental Conservation</heading>
+        <chapter eId="title_46__chp_14">
+          <num>14</num>
+          <heading>Air Quality Control</heading>
+          <section eId="sec_46-14-010">
+            <num>46.14.010</num>
+            <heading>Emission control regulations.</heading>
+            <subsection eId="46-14-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>After public hearing, the department may adopt regulations under this chapter establishing ambient air quality standards, emission standards, or exemptions to implement a state air quality control program required under 42 U.S.C. 7401  7671q (Clean Air Act), as amended, and regulations adopted under those sections. The standards established under this section may be for the state as a whole or may vary in recognition of local conditions.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless the governor has determined that an emergency exists that requires emergency regulations under
+AS 44.62.250
+, the department may adopt the following types of regulations only after the procedures established in (a), (c), and (d) of this section and compliance with
+AS 46.14.015
+:</p>
+              </content>
+              <paragraph eId="46-14-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a regulation that establishes an ambient air quality standard for an air pollutant for which there is no corresponding federal standard;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a regulation that establishes an ambient air quality standard or emission standard that is more stringent than a corresponding federal standard;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a regulation that establishes an equivalent emission limitation for a hazardous air pollutant for which the federal administrator has not adopted a corresponding maximum achievable control technology standard; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-010__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a regulation that regulates emissions from an emissions unit or stationary source or establishes an emission standard under the authority of
+AS 46.14.120</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>or 46.14.130(c)(2).</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In preparation for peer review under
+AS 46.14.015
+and before adopting a regulation described under (b) of this section, the department shall</p>
+              </content>
+              <paragraph eId="46-14-010__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>find in writing that exposure profiles and either meteorological conditions or emissions unit characteristics in the state or in an area of the state reasonably require the ambient air quality standard, or emission standard to protect human health and welfare or the environment; this paragraph does not apply to a regulation under (b)(3) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-010__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>find in writing that the proposed standard or emission limitation is technologically feasible; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-010__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>prepare a written analysis of the economic feasibility of the proposal.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Before adopting a regulation described in (b)(2) of this section, the department shall find in writing that exposure profiles and either meteorological conditions or emissions unit characteristics are significantly different in the state or in an area of the state from those upon which the corresponding federal regulation is based.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>When incorporated into more than one permit, emission standards and limitations, emissions monitoring and reporting requirements, and compliance verification requirements that are generally applicable statewide or are generally applicable to individual emissions unit or stationary source types shall be adopted in regulation unless they have been requested by the owner and operator to whom the permit is issued. The department shall, by regulation, adopt a standard, limitation, or requirement described in this subsection as soon as its general applicability is reasonably foreseeable.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An emission standard adopted by the department may be applicable to individual emissions units within a stationary source or to all emissions units within a stationary source. For purposes of determining compliance with applicable regulations and with permit limitations, the department may allow numerical averaging of the emissions of each air pollutant from several emissions units within a stationary source if</p>
+              </content>
+              <paragraph eId="46-14-010__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>requested by the owner and operator; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-010__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>allowed under 42 U.S.C. 7401  7671q (Clean Air Act), as amended, and regulations adopted under those sections.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-015">
+            <num>46.14.015</num>
+            <heading>Special procedure for more stringent regulations.</heading>
+            <subsection eId="46-14-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before the department adopts a regulation described under
+AS 46.14.010
+(b), written findings under
+AS 46.14.010</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-015__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>and (d) shall be made available by the department to the public at locations throughout the state that the department considers appropriate.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before the department adopts a regulation described in
+AS 46.14.010
+(b), the department shall submit the findings described under (a) of this section, the studies on which the findings are based, and other related data for peer review to a minimum of three separate parties who are not employees of the department and who are determined by the commissioner to be technically qualified in the subject matter under review. The commissioner shall ensure that the peer review includes an analysis of the factors considered by the commissioner to support the standards proposed to be adopted and recommendations, if any, for additional research or investigation considered appropriate. Peer review reports shall be submitted to the commissioner within 45 days after the department submits a matter for peer review unless the commissioner determines that additional time is required.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-015__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall make available to the public at least 30 days before the public hearing required under
+AS 46.14.010
+(a), at convenient locations, copies of the department's proposed regulation, the findings of the department describing the basis for adoption of the regulation, and the peer review reports, submitted under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-015__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department shall contract with persons to perform peer review under (b) of this section. All persons selected shall be selected on the basis of competitive sealed proposals under
+AS 36.30.200
+ 36.30.270 (State Procurement Code). The commissioner may not contract with a person to perform peer review under this section if the person has a significant financial interest or other significant interest that could bias evaluation of the proposed regulation. An interest is not considered significant under this subsection if it is an interest possessed generally by the public or a large class of persons or if the effect of the interest on the person's ability to be impartial is only conjectural.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-020">
+            <num>46.14.020</num>
+            <heading>Classification of stationary sources or emissions units; reporting.</heading>
+            <subsection eId="46-14-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department, by regulation, may classify stationary sources or emissions units that, in the department's determination, are likely to cause or contribute to air pollution, according to the levels and types of emissions and other characteristics that relate to air quality. The department may make a classification under this subsection applicable to the state as a whole or to a designated area of the state. The department shall base the classifications on consideration of health, economic, and social factors, sensitivity of the receiving environment, and physical effects on property.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department or a local air quality control program authorized under
+AS 46.14.400
+may require an owner and operator of a stationary source or emissions unit classified under this section to report information to the department or the authorized local program concerning location, size, and height of stacks or area emissions units, processes employed, fuels used, the nature and time periods or duration of emissions, and other information relevant to air quality that is available or reasonably capable of being calculated and compiled.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-030">
+            <num>46.14.030</num>
+            <heading>State air quality plan.</heading>
+            <content>
+              <p>Sec. 46.14.030.   State air quality plan.
+The department shall act for the state in any negotiations relative to the state air quality control plan developed under 42 U.S.C. 7401  7671q (Clean Air Act), as amended. The department may adopt regulations necessary to implement the state plan.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-120">
+            <num>46.14.120</num>
+            <heading>Permits for construction, installation, modification, or operation.</heading>
+            <subsection eId="46-14-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before constructing, installing, modifying, or establishing a stationary source subject to
+AS 46.14.130
+(a), the owner and operator shall obtain a construction permit under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except when considered to be in compliance with this chapter under
+AS 46.14.275
+or under a regulation adopted under
+AS 46.14.140
+(a)(12), the owner and operator shall obtain an operating permit under this chapter before operating a stationary source subject to
+AS 46.14.130
+(b).</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A permittee shall comply with the terms and conditions of a permit or a modifying compliance order issued by the department under this chapter or a court order. A person operating under the application shield available under
+AS 46.14.140
+(a)(12) and 46.14.275, shall comply with the terms and conditions of the pending application and applicable regulations.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department shall ensure that permits issued, modified, amended, renewed, or revoked and reissued under this chapter comply with all applicable federal, state, and local requirements.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-120__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the federal administrator exempts a stationary source from the requirements of 42 U.S.C. 7661a(a) (Clean Air Act, sec. 502(a)), the commissioner shall consider the factors used by the administrator in reaching that determination and, by regulation, shall issue a similar determination unless public health or air quality effects provide a reasonable basis to regulate the stationary source.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-120__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department may exempt or defer a stationary source from the requirement of
+AS 46.14.130</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to the extent allowed under 40 C.F.R. 70.3(b).</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-120__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Before constructing, installing, modifying, operating, or establishing a stationary source subject to
+AS 46.14.130
+(c), the owner or operator shall obtain a minor permit under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-130">
+            <num>46.14.130</num>
+            <heading>Stationary sources requiring permits.</heading>
+            <subsection eId="46-14-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The owner and operator shall obtain a construction permit from the department before beginning actual construction of any one of the following:</p>
+              </content>
+              <paragraph eId="46-14-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a new major stationary source;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a major modification;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-130__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a project subject to the construction permitting requirements of 42 U.S.C. 7412(i) (Clean Air Act, sec. 112(i)).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except for the owner and operator of a stationary source exempted under
+AS 46.14.120</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-130__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>or (f), the owner and operator of a stationary source shall obtain an operating permit from the department for</p>
+              </content>
+              <paragraph eId="46-14-130__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a major source;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-130__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a stationary source that contains an emissions unit subject to federal new source performance standards under 42 U.S.C. 7411 (Clean Air Act, sec. 111) or national emission standards for hazardous air pollutants issued under 42 U.S.C. 7412 (Clean Air Act, sec. 112); or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-130__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>another stationary source designated by the federal administrator by regulation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless the owner and operator of a stationary source are required to obtain a construction permit under (a) of this section, before constructing, installing, modifying, operating, or establishing a stationary source, the owner and operator shall obtain a minor permit from the department if the stationary source is of a type classified under
+AS 46.14.020</p>
+              </content>
+              <paragraph eId="46-14-130__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>as having the potential to violate the ambient air quality standards; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-130__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>under a finding by the department that public health or air quality effects provide a reasonable basis to regulate the stationary source.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, major source has the meaning given in 42 U.S.C. 7661(2).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-140">
+            <num>46.14.140</num>
+            <heading>Emission control permit program regulations.</heading>
+            <subsection eId="46-14-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall adopt regulations to address substantive and procedural elements of the emission control permit program established under this chapter that are not addressed in statute, except elements that relate only to the internal management of the department and do not affect the public or govern the way the department deals with the public. The regulations must be reasonable and adequate, and provide flexibility in the operation of a stationary source consistent with 42 U.S.C. 7401  7671q (Clean Air Act), as amended, and applicable federal regulations. Except for regulations concerning minor permits required under
+AS 46.14.130
+(c), the regulations must include</p>
+              </content>
+              <paragraph eId="46-14-140__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a standard permit application form that meets the requirements of federal regulations adopted under 42 U.S.C. 7661a(b) (Clean Air Act, sec. 502(b));</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>monitoring, record keeping, and reporting requirements for facilities that are subject to
+AS 46.14.130</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>procedures for preparation and submission of a monitoring, reporting, and quality assurance plan and, if required, a compliance schedule describing how a permitted stationary source will comply with the applicable requirements of this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>procedures for
+(A) specifying when permit applications and renewal requests are to be submitted;
+(B) specifying the time duration for department review of permit applications;
+(C) processing and reviewing an application;
+(D) providing public notice, including opportunity for public comment and hearing; and
+(E) issuing permits, including procedures for issuing permits for temporary operations or open burn activities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>reasonable standard permit conditions, including conditions for
+(A) emission standards and limitations;
+(B) monitoring, record keeping, and reporting for facilities subject to
+AS 46.14.130
+;
+(C) inspection and entry;
+(D) certification of corporate or other business organization reports;
+(E) annual certification of compliance;
+(F) excess emission or process deviation reporting; and
+(G) equipment malfunctions and emergencies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>fees and procedures for collecting fees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>provisions addressing late payment or nonpayment of fees, which may include assessment of penalties and interest or refusal to issue, amend, modify, or renew an air quality control permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the duration of permits;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>procedures for modifying or amending a permit that provide flexibility in the operation of the stationary source, including procedures to allow changes to a permitted stationary source without requiring a permit modification, consistent with the purposes of this chapter and with 42 U.S.C. 7401  7671q (Clean Air Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>reasonable provisions for renewing, reopening, revoking and reissuing, and terminating a permit consistent with the purposes of this chapter and 42 U.S.C. 7401  7671q (Clean Air Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>provisions allowing for physical or operational limitations that will reduce a stationary source's emissions to levels below those that would make the stationary source subject to part or all of
+AS 46.14.120
+and 46.14.130;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>provisions authorizing stationary source operation while a permit application is pending, consistent with 42 U.S.C. 7661b(d) (Clean Air Act, sec. 503(d));</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>provisions for ensuring that compliance with an operating permit issued under this chapter will be considered to be compliance with 42 U.S.C. 7661a (Clean Air Act, sec. 502) and other provisions of state or federal law specifically provided for by the department consistent with 42 U.S.C. 7401  7671q (Clean Air Act) and regulations adopted under state and federal law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>provisions allowing for certification of inspectors who evaluate compliance with the terms and conditions of a permit, order, regulation, or other provision of law authorized under this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>definitions of terms incorporating applicable definitions in 42 U.S.C. 7401  7671q (Clean Air Act), as amended, and applicable federal regulations, to the extent that those definitions are not inconsistent with this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A permit issued under this chapter may not require a person to use</p>
+              </content>
+              <paragraph eId="46-14-140__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>machinery, devices, or equipment of a particular type, from a particular supplier, or produced by a particular manufacturer; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-140__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>specific methods, processes, procedures, or designs for the management and operation of a stationary source regulated under this chapter except to the extent that the federal administrator has
+(A) adopted a design, equipment work practice, or operational standard under 42 U.S.C. 7412(h), as amended, for the control of a hazardous air pollutant; or
+(B) approved an alternative hazardous air pollutant standard under 42 U.S.C. 7412(h)(3), as amended.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The absence of, or the department's failure to adopt, a regulation under this section does not relieve a person from compliance with a permit issued under this chapter and with other provisions of law, including emission control requirements.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-150">
+            <num>46.14.150</num>
+            <heading>Time for submission of operating permit applications.</heading>
+            <subsection eId="46-14-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The owner and operator of a stationary source required to have an operating permit under this chapter shall submit the required application and other information required by the department by regulation no later than 12 months after the date on which the stationary source becomes subject to
+AS 46.14.120
+(b).</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may accept and begin processing applications filed earlier than the submission date. Applications filed earlier may be given priority for permit issuance.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-160">
+            <num>46.14.160</num>
+            <heading>Completeness determination.</heading>
+            <subsection eId="46-14-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall review every application submitted under this chapter for completeness. To be determined complete, an application must provide the information identified by the department in regulations adopted under
+AS 46.14.140
+and in standard application forms provided by the department under
+AS 46.14.140
+(a)(1) and must be certified true and correct by the owner and operator.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall notify the applicant in writing whether the application is complete. Unless the department notifies the applicant within 60 days of receipt of an application that the application is incomplete, the application is considered to be complete.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-160__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If, during the processing of an application after it has been determined or considered to be complete, the department finds that additional information is necessary to evaluate or take action on that application, the information may be requested in writing from the owner and operator. A request for information under this subsection does not render the application incomplete. However, notwithstanding
+AS 46.14.275
+, an owner and operator may be found in violation of this chapter for operating without a valid permit if they fail to provide timely additional information.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-170">
+            <num>46.14.170</num>
+            <heading>Administrative actions regarding permits.</heading>
+            <subsection eId="46-14-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 46.14.220
+or in regulations adopted under
+AS 46.14.140
+(a)(7), after receipt of a complete application, and after notice and opportunity for public comment and hearing, the department shall issue or deny</p>
+              </content>
+              <paragraph eId="46-14-170__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a construction permit within 30 days after the close of the public comment period;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-170__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an operating permit, other than a general operating permit or temporary operating permit, within 12 months after receipt of the complete application by the department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 82 ch 41 SLA 2009.]</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Failure by the department to act within the time limits established in or under (a) or (d) of this section is considered to be a final agency action, but only for the purpose of judicial review to determine whether the court will require that action be taken by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-170__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department shall issue or deny a minor permit under
+AS 46.14.130</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>within 30 days after the close of the public comment period or within 30 days after receipt of the complete application by the department if a public comment period is not required under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-180">
+            <num>46.14.180</num>
+            <heading>Monitoring.</heading>
+            <content>
+              <p>Sec. 46.14.180.   Monitoring.
+Monitoring by the owner and operator of stack emissions or ambient air quality shall be required by the department only for purposes of demonstrating compliance with applicable permit program requirements. Monitoring requirements must be reasonable and based on test methods, analytical procedures, and statistical conventions approved by the federal administrator or the department or otherwise generally accepted as scientifically competent. Unless otherwise agreed to by the owner and operator and the department,
+(1) the department may not require an owner and operator of an emissions unit to monitor emissions or ambient air quality solely for the purpose of scientific investigation or research; and
+(2) monitoring activities must be consistent with the applicable emission standards and their permit or permit application requirements.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-190">
+            <num>46.14.190</num>
+            <heading>Single permit.</heading>
+            <subsection eId="46-14-190__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section, the department shall issue only a single operating permit to a stationary source, regardless of whether the stationary source contains a single emissions unit or multiple emissions units.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-190__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may, upon request of a stationary source owner or operator, issue more than one permit for the stationary source. Substantive and procedural requirements otherwise applicable to a stationary source remain applicable regardless of whether the stationary source owner and operator apply for one or more permits.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-200">
+            <num>46.14.200</num>
+            <heading>Review of permit action.</heading>
+            <content>
+              <p>Sec. 46.14.200.   Review of permit action.
+A person who has a private, substantive, legally protected interest under state law that may be adversely affected by the permit action, the owner and operator, or, if a public comment process is required or solicited, a person who participated in the public comment process may request an adjudicatory hearing under the department's adjudicatory hearing procedures. After the issuance of an adjudicatory hearing decision, a party to the hearing may obtain judicial review of that decision as provided in the Alaska Rules of Appellate Procedure.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-210">
+            <num>46.14.210</num>
+            <heading>General operating permits.</heading>
+            <content>
+              <p>Sec. 46.14.210.   General operating permits.
+After notice and opportunity for public comment and hearing, the department may, unless the permit is disapproved by the federal administrator, establish a general operating permit that would be applicable to more than one stationary source determined by the department to be similar in emissions unit structure. A general operating permit must contain provisions that meet the requirements of this chapter that are applicable to operating permits. A general operating permit issued to a particular person takes effect when the person's application is determined to be complete unless the department notifies the applicant that the general permit is not applicable to the person's stationary source.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-211">
+            <num>46.14.211</num>
+            <heading>General minor permits.</heading>
+            <content>
+              <p>Sec. 46.14.211.   General minor permits.
+After notice and opportunity for public comment and hearing, the department may establish a general minor permit that would be applicable to more than one stationary source determined by the department to be similar in structure. If authorized by the department, a permit issued under this section may be valid for multiple locations in this state. A general minor permit must contain provisions that meet the requirements of this chapter that are applicable to a minor permit.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-215">
+            <num>46.14.215</num>
+            <heading>Temporary operations.</heading>
+            <content>
+              <p>Sec. 46.14.215.   Temporary operations.
+For purposes of
+AS 46.14.130
+(b), the department may issue a single operating permit under
+AS 46.14.170
+, authorizing a stationary source to operate at specific multiple locations in the state for temporary periods of time. A permit described in this section is valid only for the specific locations identified in the application and authorized by the department. The department may not issue a permit under this section unless the permit contains conditions that will ensure compliance with this chapter at each authorized location, including compliance with ambient air quality standards and applicable increment or visibility requirements adopted under this chapter. A permit under this section must require the owner and operator to notify the department at least 10 days before a change in location of a stationary source permitted under this section.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-220">
+            <num>46.14.220</num>
+            <heading>Objection by federal administrator.</heading>
+            <subsection eId="46-14-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An operating permit may not be issued under this chapter until the federal administrator approves the permit, or until 45 days after a copy of the final draft permit has been provided by the department to the federal administrator, whichever is earlier. If, during the 45-day period, the federal administrator files an objection with the department, the department shall notify the applicant of the objection. The department may not issue the permit until the objection is resolved or the permit is revised to meet the objection of the federal administrator. Upon request of an applicant, the department shall assist the applicant in an effort to resolve promptly an objection by the federal administrator.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Within 60 days after the close of the 45-day period under (a) of this section and in accordance with procedures established in federal regulations adopted under 42 U.S.C. 7661d(b)(2) (Clean Air Act, sec. 505(b)(2)), a person may petition the federal administrator to file an objection to the permit.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-230">
+            <num>46.14.230</num>
+            <heading>Duration of operating permits.</heading>
+            <subsection eId="46-14-230__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An operating permit under this chapter, including an operating permit that contains a compliance schedule, shall be issued for a fixed term of five years after the date of issue, except as provided for temporary operations under
+AS 46.14.215
+or unless a shorter term is requested by the permit applicant.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-230__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a timely and complete application for renewal of an operating permit is submitted to the department, the existing permit issued under this chapter does not expire until the renewal permit has been issued or denied.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-235">
+            <num>46.14.235</num>
+            <heading>Federal termination, modification, or revocation and reissuance of permits.</heading>
+            <content>
+              <p>Sec. 46.14.235.   Federal termination, modification, or revocation and reissuance of permits.
+The department shall take measures practicable and otherwise lawful to avoid termination, modification, or revocation and reissuance by the federal administrator of permits issued by the department under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-240">
+            <num>46.14.240</num>
+            <heading>Permit administration fees.</heading>
+            <subsection eId="46-14-240__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The owner or operator of a stationary source who is required to apply for a permit under
+AS 46.14.130
+shall pay to the department all assessed permit administration fees established under (b) of this section except that the person named in a permit issued under
+AS 46.14.170
+shall pay assessed permit administration fees incurred after the date the permit is issued.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-240__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall establish by regulation permit administration fees in accordance with
+AS 37.10.050
+ 37.10.058.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-240__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, §§ 60(b), 65 ch 46 SLA 2003.]</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-240__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Costs incurred by the department and other state or local governmental agencies that are assessed against small business facilities that qualify for assistance under
+AS 46.14.300
+ 46.14.310 shall be recovered from emission fees under
+AS 46.14.250
+(h)(2) for the following services:</p>
+              </content>
+              <paragraph eId="46-14-240__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>providing preapplication consultation, assistance, and completeness review of applications for a permit, an amendment, a permit modification, or a renewal of a permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-240__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>reviewing or assisting in the preparation of specific documents to support a permit for a stationary source; the documents described in this paragraph include on-site evaluations.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-250">
+            <num>46.14.250</num>
+            <heading>Emission fees.</heading>
+            <subsection eId="46-14-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person named as permittee in a permit issued under this chapter shall pay to the department all assessed emission fees established under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall establish by regulation an emission fee rate. The rate shall be set on the basis of dollars per ton of air pollutant emitted. The department shall assess emission fees annually on or before July 1 based on a stationary source's estimated assessable emissions for the subsequent fiscal year. The department may allow installment payments of assessed emission fees.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-250__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For a stationary source that begins operation during a fiscal year, the department shall prorate the first year's fee to cover the time period occurring before the next annual payment date. The owner or operator shall pay the initial emission fee upon commencement of lawful stationary source operation unless authorized to pay by installments under (b) of this section. The first year's emission fee may not duplicate a fee paid by a permittee under
+AS 44.46.025
+for the same emissions units for the same time period. If the fees would otherwise be duplicative, the department shall provide a credit toward the emission fee in the amount of the unused balance of the fee collected under
+AS 44.46.025
+. The unused balance to be credited shall be based on prorating the total original fee under
+AS 44.46.025
+for the time period for which an emission fee applies.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-250__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department shall design the emission fee rate to distribute the total annual incurred costs described under (h) of this section in a manner so that each permittee is assessed an annual emission fee that reflects an equitable apportionment of the fees paid by each stationary source type, size, or category. In making an apportionment under (f)(6) of this section, the department shall consider factors such as exemptions or reduced rates for small amounts of emissions, limits upon assessable emissions, exempting small business facilities from the costs of the small business assistance program established under
+AS 46.14.300
+, air pollution prevention efforts, and other factors that may ensure fair distribution of the costs described under (h) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-250__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 88 ch 56 SLA 2005.]</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-250__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department shall set the emission fee rate in regulation to implement the policy established in (d) of this section. The department shall base the regulation on the findings of a report, which the department shall make available to the public with proper notice before adoption of the regulation, that examines</p>
+              </content>
+              <paragraph eId="46-14-250__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>fees assessed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-250__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>alternative fee rates or formulas;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-250__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>types, sizes, or categories of stationary sources, their respective emission quantities, and their previous or proposed fee burden;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-250__subsec_f__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>apparent inequities encountered in the initial fee rate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-250__subsec_f__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>total costs incurred or anticipated to be incurred under (h) of this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-250__subsec_f__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>other factors that ensure fair distribution of the costs described in (h) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-250__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The department shall periodically, and at least every four years, evaluate the fee rate set under this section to determine if it is responsive to the policy established in (d) of this section and shall provide its findings in a report.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-250__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="46-14-250__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>assessable emission means the quantity of each air pollutant for which emission fees are assessed and is the lesser of
+(A) the stationary source's potential to emit, in tons per year, each air pollutant; or
+(B) the projected annual rate of emissions, in tons per year, of each air pollutant by the stationary source based upon previous actual annual emissions if the permittee can demonstrate to the department its previous actual annual rate of emissions through monitoring, modeling, calculations, or other method acceptable to the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-250__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>emission fees mean fees assessed to recover costs incurred by the department and other state or local governmental agencies for the implementation of minor permits, for the implementation of construction permits, and for operating permits to the extent required under 42 U.S.C. 7661a(b)(3)(A) and federal regulations implementing that provision, for execution of the permit program established under this chapter that are generally not associated with service provided to a specific facility, including the costs incurred by the department or a local air quality program to comply with
+AS 46.14.010
+and 46.14.015; the costs may include rent, utilities, permit program management, administrative and accounting services, and other costs as identified by the department in regulations; the fees shall also be sufficient to recover the cost of the small business assistance program under
+AS 46.14.300
+and 46.14.310.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-255">
+            <num>46.14.255</num>
+            <heading>Interest and sanctions for nonpayment.</heading>
+            <subsection eId="46-14-255__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may assess interest against the owner and operator after a fee is due under this chapter and is unpaid. Interest assessed under this subsection shall be computed at two percentage points higher than the prime rate, as defined in
+AS 44.88.599
+, for the day the fee was due.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-255__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a permittee has failed to pay a fee imposed under
+AS 46.14.240
+ 46.14.250, a penalty, assessment, or damage award imposed under
+AS 46.03.760</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-255__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>or 46.03.790 for a violation of this chapter, or interest imposed under (a) of this section, the department may, after 30 days' written notice to the permittee, revoke a minor permit, refuse to issue or renew permits requested by the permittee, or refuse to amend or modify a permit when the amendment or modification is requested by the permittee.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-260">
+            <num>46.14.260</num>
+            <heading>Clean air protection fund.</heading>
+            <subsection eId="46-14-260__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The clean air protection fund is established. The fund consists of fees collected by the department under
+AS 46.14.240
+and 46.14.250 and under regulations authorized by
+AS 46.14.140
+, as required by 42 U.S.C. 7661a(b)(3)(C)(iii) (Clean Air Act, sec. 502(b)(3)(C)(iii)) for state participation in the federal emission control permit program.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-260__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The money deposited into the clean air protection fund may only be used to cover the reasonable direct and indirect costs required to support the permit program under this chapter and the activities of the small business assistance program that are directed at stationary sources subject to this chapter, not including court costs or other costs associated with an enforcement action.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-265">
+            <num>46.14.265</num>
+            <heading>Emission control permit receipts account.</heading>
+            <subsection eId="46-14-265__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The emission control permit receipts account is established in the state treasury. Under
+AS 37.05.146
+(c), money received by the department in payment of fees under
+AS 46.14.240
+and 46.14.250 and under regulations adopted under
+AS 46.14.140
+, other than fees described in
+AS 46.14.260
+(a), shall be deposited in the account. Appropriations from the account are not made from the unrestricted general fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-265__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this section creates a dedicated fund.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-270">
+            <num>46.14.270</num>
+            <heading>Clean air protection account.</heading>
+            <content>
+              <p>Sec. 46.14.270.   Clean air protection account.
+Civil or criminal penalties, fines, assessments, or damages, and interest, attorney fees, and costs collected as a result of a violation relating to this chapter and interest collected under
+AS 46.14.255
+shall be deposited in the general fund and credited to a special account called the clean air protection account.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-275">
+            <num>46.14.275</num>
+            <heading>Timely and complete application as shield.</heading>
+            <content>
+              <p>Sec. 46.14.275.   Timely and complete application as shield.
+If an owner and operator have submitted a timely and complete application for a permit or a permit renewal, as applicable, but final action has not been taken on the application, the owner's and operator's failure to have an operating permit is not a violation of this chapter unless the delay in final action was due to the failure of the owner and operator to submit, in a timely manner, additional information required or requested to process the application. An owner and operator required to have an operating permit under this chapter are not in violation of the operating permit program established under this chapter before the date on which the owner and operator are required to submit an application under
+AS 46.14.150
+.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-280">
+            <num>46.14.280</num>
+            <heading>Termination, modification, reopening, or revocation and reissuance of permits by the department.</heading>
+            <subsection eId="46-14-280__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>After 30 days' written notice to the permittee, the department</p>
+              </content>
+              <paragraph eId="46-14-280__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may terminate, modify, or revoke and reissue a construction, operating, or minor permit if the department finds that
+(A) the permit was obtained by misrepresentation of material fact or by failure of the owner and operator to disclose fully the facts relating to issuance of the permit;
+(B) the permittee has violated this chapter, a regulation, a judicial or administrative order, or a material term or condition of a permit, approval, or acceptance issued under this chapter; or
+(C) the permittee has failed to construct or modify a stationary source within the time period specified in a construction permit, if any, required under
+AS 46.14.130</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-280__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may modify, or revoke and reissue a construction, operating, or minor permit if the department finds that
+(A) the permit contains a material mistake; or
+(B) there has been a material change in the quantity or type of air pollutant emitted from the stationary source; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-280__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>shall reopen a permit issued under this chapter
+(A) based on a determination of the federal administrator or the department that the permit must be revised to comply with 42 U.S.C. 7401  7671q (Clean Air Act) and regulations adopted under 42 U.S.C. 7401  7671q; or
+(B) to incorporate changes in law, or to impose equivalent emission limitations, that become applicable after the permit is issued if the permit is issued to a major source and has a remaining duration of three or more years; the department shall make revisions allowed under this subparagraph as soon as practicable, but, regarding a change in law, not later than 18 months after the change in law takes effect; the department may not reopen the permit of a major source under this subparagraph if the change in law is not effective until after the date that the permit expires.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-280__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Reopening of a permit under (a)(3) of this section shall be treated as a permit renewal by the department if the procedural requirements for permit renewal have been met.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-280__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Proceedings to reopen a permit under this section shall follow the same procedure as for initial permit issuance and shall affect only those parts of the permit for which the department had cause to reopen under this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-285">
+            <num>46.14.285</num>
+            <heading>Amendment and modification of permit upon request of permittee.</heading>
+            <subsection eId="46-14-285__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A permittee may request</p>
+              </content>
+              <paragraph eId="46-14-285__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a permit amendment that provides for administrative changes to a permit that do not result in material changes in permit terms or conditions, such as changes in the name of the owner or operator, mailing address, registered agent, or assessable emissions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-285__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an expedited authorization for minor changes in permit terms and conditions that provide for flexibility in the operation of a stationary source consistent with 42 U.S.C. 7661a(b)(10) (Clean Air Act, sec. 502(b)(10)), and regulations adopted under that paragraph; the department may adopt regulations that include procedures under which the public may participate when an expedited authorization is requested under this paragraph; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-285__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a modification of a permit to authorize significant changes in permit terms and conditions consistent with this chapter and regulations adopted under
+AS 46.14.140
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-285__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall review all requests submitted under (a) of this section and issue or deny the permit amendment or modification or otherwise authorize or deny the request consistent with this chapter and regulations adopted under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-290">
+            <num>46.14.290</num>
+            <heading>Permit as shield.</heading>
+            <subsection eId="46-14-290__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To the extent allowed under 42 U.S.C. 7661c(f) (Clean Air Act, sec. 504(f)), a permittee is considered in compliance with applicable requirements of this chapter, regulations adopted under this chapter and 42 U.S.C. 7401  7671q (Clean Air Act) and regulations adopted under it, if</p>
+              </content>
+              <paragraph eId="46-14-290__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the applicable requirements are included and specifically identified in the owner or operator's permit; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-290__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the requirements are determined in writing not to be applicable to the permitted stationary source; a determination made under this paragraph shall be included in the permit.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-290__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not alter or affect</p>
+              </content>
+              <paragraph eId="46-14-290__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the owner's and operator's obligation to comply with an emergency order issued under
+AS 46.03.820
+or 42 U.S.C. 7603 (Clean Air Act, sec. 303);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-290__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the liability of an owner and operator for a violation of applicable requirements of law before or at the time of permit issuance; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-290__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the ability of the department to obtain information from an owner or operator of a stationary source under
+AS 46.14.020</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-300">
+            <num>46.14.300</num>
+            <heading>Small business assistance program.</heading>
+            <subsection eId="46-14-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A small business assistance program is established in the department. The department shall include the program in the state air quality control plan developed under 42 U.S.C. 7401  7671q (Clean Air Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The small business assistance program shall, by regulation, meet the requirements of 42 U.S.C. 7661f(a) (Clean Air Act, sec. 507(a)), including the requirement that a small business advocate be designated.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in
+AS 46.14.310
+(b), the department shall provide assistance as described in (b) of this section to a requesting stationary source that is not a small business concern as defined in 15 U.S.C. 632 but that is subject to the requirements of this chapter if the legislature appropriates money from the general fund for this purpose.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-310">
+            <num>46.14.310</num>
+            <heading>Power to limit small business assistance program.</heading>
+            <subsection eId="46-14-310__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>After consultation with the federal administrator and the administrator of the United States Small Business Administration and after providing notice and opportunity for public hearing, the department may exclude from the scope of the small business assistance program established in
+AS 46.14.300
+a category or subcategory of small business facilities that the department finds to have sufficient technical and financial capabilities to meet the requirements of this chapter and federal law without the assistance provided under
+AS 46.14.300
+ 46.14.320.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-310__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in
+AS 46.14.300</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-310__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>precludes the department from excluding a business facility or category of business facilities that the department finds to have sufficient technical and financial capabilities to meet the requirements of this chapter without assistance from the department.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-320">
+            <num>46.14.320</num>
+            <heading>Compliance advisory panel.</heading>
+            <subsection eId="46-14-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is established in the department a compliance advisory panel whose members shall serve staggered three-year terms. A member may not serve more than two three-year terms consecutively.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The panel consists of</p>
+              </content>
+              <paragraph eId="46-14-320__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>two members who are not owners or representatives of owners of small business facilities, selected by the governor to represent the general public;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-320__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>one member selected by the commissioner to represent the department; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-320__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>four members who are owners or representatives of owners of small business facilities, selected as follows:
+(A) one shall be selected by the president of the senate and one shall be selected by the speaker of the house;
+(B) if there are members of the senate who are not part of the majority caucus of the senate, the leader of the largest nonmajority group shall select a panel member; if all members of the senate are in the majority caucus, then the president of the senate shall select a second panel member in addition to the selection authorized under (A) of this paragraph;
+(C) if there are members of the house who are not part of the majority caucus of the house, the leader of the largest nonmajority group shall select a panel member; if all members of the house are in the majority caucus, then the speaker of the house shall select a second panel member in addition to the selection authorized under (A) of this paragraph.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-320__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The panel members shall serve without compensation but are entitled to transportation expenses and per diem as authorized for members of boards and commissions under
+AS 39.20.180
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-320__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The compliance advisory panel shall</p>
+              </content>
+              <paragraph eId="46-14-320__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>elect a chair and agree upon procedures by which the panel will function;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-320__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>meet annually and at the call of the chair and give public notice of panel meetings as required under
+AS 44.62.310
+ 44.62.319 (Open Meetings Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-320__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>prepare advisory opinions concerning the effectiveness of the small business assistance program, difficulties encountered in making the program efficient and effective, and degree of enforcement and severity of air pollution offenses;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-320__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>make periodic reports to the administrator concerning the compliance of the small business assistance program with requirements of 44 U.S.C. 3501 (Paperwork Reduction Act), 5 U.S.C. 601 (Regulatory Flexibility Act), and 5 U.S.C. 504 (Equal Access to Justice Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-320__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>review information designed to assist small business facilities in complying with this chapter to ensure that the information is understandable by the public; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-320__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>use the assistance of the small business advocate designated under
+AS 46.14.300</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>in the development and dissemination of panel reports and advisory opinions.
+Article 4. Local Programs.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-400">
+            <num>46.14.400</num>
+            <heading>Local air quality control programs.</heading>
+            <subsection eId="46-14-400__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>With the approval of the department, a municipality may establish and administer within its jurisdiction a local air quality control program that operates in lieu of and is consistent with all or part of the department's air quality program as established under this chapter. A first or second class borough may administer an air quality control program approved by the department under this subsection on an areawide basis and is not subject to the restrictions for acquiring additional areawide powers specified in
+AS 29.35.300
+ 29.35.350. A third class borough may administer a local air quality control program approved by the department under this subsection only in a service area formed under
+AS 29.35.490</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c).</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>With the approval of the department, two or more municipalities or other entities may create a local air quality district for the purpose of jointly administering a local air quality control program within the boundaries of the air quality district.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-400__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the department finds that the location, character, or extent of particular concentrations of population, air pollutant emissions units, the geographic, topographic, or meteorological considerations, or a combination of these factors make impracticable the maintenance of appropriate levels of air quality without an areawide air pollution control program, the department may determine the boundaries within which a local air quality control program is necessary and direct that a local air quality control program spanning those boundaries is the only acceptable alternative to direct state administration.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-400__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A municipality or a local air quality district seeking department approval for a local air quality control program shall enter into a cooperative agreement with the department that is designed to avoid unnecessary duplication of responsibilities. The cooperative agreement must include provisions specifying</p>
+              </content>
+              <paragraph eId="46-14-400__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the respective duties and authority of the department and the municipality or local air quality district in the administration of the local air quality control program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-400__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the authority of the municipality or the local air quality district to employ staff to administer the local air quality control program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-400__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>duties of staff employed under (2) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-400__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the procedures that must be followed by the municipality or local air quality district when requesting money from the clean air protection fund to cover the costs of implementing the municipality's or district's air quality program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-400__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the procedures that will be used by the department in approving a request under (4) of this subsection and submitting it to the legislature for funding;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-400__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>respective enforcement responsibilities of the department and the municipality or the local air quality district;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-400__subsec_d__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>that if the municipality or local air quality control district seeks authority to take action under (f) of this section, the municipality or local air quality control district will use procedures that are substantially equivalent to those required under
+AS 46.14.010
+and 46.14.015.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-400__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A local air quality control program shall provide for the exemption of a locally registered motor vehicle from motor vehicle emission requirements adopted under
+AS 46.14.510
+if the motor vehicle is not used within the program's jurisdiction.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-400__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A municipality or a local air quality district administering a program under this section shall administer its local air quality control program according to this chapter, regulations adopted under those sections, and its cooperative agreement under (d) of this section. A municipality or local air quality district's program may, upon a finding by the local agency and an affirmative agreement by the department, establish a more stringent requirement than the stationary emissions unit permit program authorized under this chapter if public health or air quality effects provide a reasonable basis to regulate the emissions unit with the additional or more stringent requirement and the municipality or district has used procedures substantially equivalent to those required under
+AS 46.14.010
+and 46.14.015 before establishing the more stringent requirement. This subsection does not prohibit a municipality or local air quality control district from establishing a mobile source emissions program more stringent than the state program without making findings of public health or air quality effects or using procedures substantially equivalent to those required under
+AS 46.14.010
+and 46.14.015. In this subsection, mobile source does not include tank vessels or other watercraft.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-400__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A determination, order, permit, or permit action issued under a local air quality control program is considered to be a determination, order, permit, or permit action of the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-400__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Notwithstanding any other law or rule of law, the department may not delegate or enable another department or government entity to establish fee rates or collect fees under
+AS 46.14.240
+or 46.14.250.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-400__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>If a municipality or a local air quality district administering a program under this section requires emissions inspection for a motor vehicle, emission inspection may not be required more than once every two years.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-400__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>A person who operates a motor vehicle in violation of emissions requirements imposed under this section is guilty of a violation and, upon conviction, shall be fined an amount not to exceed $500. It is the intent of the legislature that money collected under this subsection be appropriated to promote air quality control programs in municipalities.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-410">
+            <num>46.14.410</num>
+            <heading>Inadequacy of local program.</heading>
+            <subsection eId="46-14-410__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a municipality or a local air quality district has an approved local air quality control program and the department determines that the program is being implemented in a manner that fails to meet the terms of the cooperative agreement or is otherwise being inappropriately administered, the department shall give written notice setting out its determination to the municipality or local air quality district. Within 45 days after giving written notice, the department shall conduct a public hearing on the matter. The hearing shall be recorded by any means that ensures an accurate record.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-410__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If, after the hearing, the department upholds the determination made in the written notice, the department shall provide the municipality or local air quality district with a written finding setting out the nature of the deficiencies and a description of the necessary action to be taken to ensure that the local air quality control program prevents or controls air pollution. The department shall provide its finding to the municipality or district within 45 days after closure of the public hearing record. The department shall set a reasonable period of time for the municipality or local air quality district to take corrective action in response to the department's finding.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-410__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the municipality or local air quality district fails to take corrective action within the time period set by the department under (b) of this section, the department shall terminate the cooperative agreement and resume management of air quality control in the affected jurisdiction. If the municipality or the local air quality district partially remedies, to the department's satisfaction, the deficiencies found in the determination, the department shall amend the cooperative agreement to reflect a modified allocation of responsibilities between the department and municipality or the local air quality district.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-410__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A municipality or local air quality district that has had its cooperative agreement terminated may, with the department's approval, resume a local air quality control program if the municipality or district agrees to comply with
+AS 46.14.400
+and with any corrective action plan required by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-410__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the department finds that control of a particular class of stationary source or emissions unit, because of its complexity or magnitude, is beyond the reasonable capability of the municipality or the local air quality district or may be more efficiently and economically controlled at the state level, the department may assume and retain jurisdiction over the class of stationary source or emissions unit. Classifications under this subsection may be based on the nature of stationary sources or emissions units involved, their size relative to the size of the communities in which they are located, or another basis established by the department.
+Article 5. Miscellaneous Provisions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-500">
+            <num>46.14.500</num>
+            <heading>Air pollution from outer continental shelf activities.</heading>
+            <subsection eId="46-14-500__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall seek delegation of authority from the federal administrator to implement and enforce the terms and provisions of 42 U.S.C. 7627 (Clean Air Act, sec. 328) for the Pacific and Arctic Ocean areas offshore of the state. The department may adopt regulations that are necessary to acquire this delegated authority.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-500__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In adopting regulations under this section, the department shall ensure that stationary sources located within 25 miles of the seaward boundary of the state are subject to the same air quality control requirements that would be applicable if the stationary source were located in the corresponding onshore area. For purposes of this subsection, stationary sources located within 25 miles of the seaward boundary of the state include a vessel servicing or associated with the stationary source while at the stationary source or en route to or from the stationary source and within 25 miles of the stationary source.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-500__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, corresponding onshore area means, with respect to a stationary source located within 25 miles of the seaward boundary of the state, the onshore attainment or nonattainment area that is closest to the stationary source, unless the commissioner determines that another area with more stringent requirements relating to control and abatement of air pollution may reasonably be expected to be affected by emissions from the offshore stationary source; this determination shall be based on the potential for air pollutants from the stationary source to reach the other onshore area and the potential of the air pollutants to affect the efforts of the other onshore area to attain or maintain a federal ambient air quality standard set under 42 U.S.C. 7470  7492 (Clean Air Act, secs. 160  169b) or a state equivalent.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-510">
+            <num>46.14.510</num>
+            <heading>Motor vehicle pollution.</heading>
+            <subsection eId="46-14-510__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the department determines that the state of knowledge and technology may allow or make appropriate the control of emissions from motor vehicles to further air quality control, the department may provide, by regulation, for the control of the emissions from motor vehicles. The regulations may prescribe requirements for the installation and use of equipment designed to reduce or eliminate emissions and for the proper maintenance of this equipment.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-510__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless otherwise exempted by law, a person shall maintain in operating condition any element of the air pollution control system or mechanism of a motor vehicle that the department, by regulation, requires to be maintained in or on the motor vehicle.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-510__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall consult with the Department of Administration regarding implementation of the motor vehicle pollution control program. The Department of Administration shall cooperate with the department in implementing the program. As a part of a motor vehicle pollution control program, the department or a municipality that enforces a motor vehicle pollution control program may determine if a vehicle is properly registered as required by law.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-510__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the department adopts regulations requiring the maintenance of air pollution control systems or mechanisms in motor vehicles to control emissions from the vehicle, a motor vehicle subject to those regulations may not be issued a certificate of inspection unless the required air pollution control system or mechanism has been inspected in accordance with the standards, testing techniques, and instructions furnished by the department and the motor vehicle has been found to meet those standards. A valid certificate of inspection for the emission control system, if required by the department, must be presented to the Department of Administration before that department may register a motor vehicle.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-510__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the department adopts regulations requiring emissions inspection for a motor vehicle, the department may not require the vehicle be inspected more than once every two years.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-510__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A person who fails to display an emissions inspection decal as required by law is guilty of a violation and, upon conviction, shall be fined an amount not to exceed $500. It is the intent of the legislature that money collected under this subsection be appropriated to control pollution from motor vehicle emissions.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-510__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In addition to the emission control inspection program fee imposed under
+AS 28.10.423
+, the department or a municipality may impose a fee upon a vehicle required to be inspected under a motor vehicle emission control program established under this chapter, but the fee may not exceed the actual costs of the department or the municipality in administering</p>
+              </content>
+              <paragraph eId="46-14-510__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the motor vehicle emission control inspection program; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-510__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the related ambient air monitoring program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-515">
+            <num>46.14.515</num>
+            <heading>Inspection.</heading>
+            <subsection eId="46-14-515__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An officer or employee of the department designated by the commissioner or an inspector authorized by the commissioner and certified under regulations adopted under
+AS 46.14.140
+(a)(14) may, upon presentation of credentials and at reasonable times with the consent of the owner or operator, enter upon or through any premises of a stationary source regulated under this chapter to</p>
+              </content>
+              <paragraph eId="46-14-515__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>inspect and copy any records required to be maintained;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-515__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>inspect any emissions unit, monitoring equipment, or method required to be used; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-14-515__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>sample any emissions that the owner and operator of the stationary source is required to sample.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-14-515__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>During an inspection under this section, the inspector shall comply with applicable health and safety standards.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-520">
+            <num>46.14.520</num>
+            <heading>Confidentiality of trade secrets.</heading>
+            <content>
+              <p>Sec. 46.14.520.   Confidentiality of trade secrets.
+Records, reports, and information, and parts of records, reports, and information, other than emission data, in the department's possession or control are considered confidential records and shall be kept confidential and in separate files if the owner and operator have certified under oath to the department or authorized local program that
+(1) public disclosure would tend to affect adversely the owner's and operator's competitive position; and
+(2) the records, reports, or information, or parts of the records, reports, or information, would divulge production figures, sales figures, processes, production techniques, or financial data of the owner and operator that are entitled to protection as trade secrets under
+AS 45.50.910
+ 45.50.945 (Alaska Uniform Trade Secrets Act).</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-525">
+            <num>46.14.525</num>
+            <heading>Public records.</heading>
+            <content>
+              <p>Sec. 46.14.525.   Public records.
+Except as provided in
+AS 46.14.520
+, permits, permit applications, emissions and monitoring reports, compliance reports, certifications, and monitoring, reporting, and quality assurance plans in the department's possession or control are available to the public for inspection and copying.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-530">
+            <num>46.14.530</num>
+            <heading>State and federal aid.</heading>
+            <subsection eId="46-14-530__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A municipality or local air quality district with a local air quality control program may apply for, receive, administer, and spend state aid for the control of air emissions or the development and administration of the program if an application is first submitted to and approved by the department. Subject to available money appropriated by the legislature for the purpose of this section, the department may approve an application if it is consistent with the terms and conditions of the applicable cooperative agreement and meets the requirements of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-530__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A municipality or local air quality district with a local air quality control program may apply for, receive, administer, and spend federal aid for the control of air emissions or the development and administration of the program.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-540">
+            <num>46.14.540</num>
+            <heading>Authority of department in cases of emergency.</heading>
+            <subsection eId="46-14-540__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the commissioner finds that an act of God, act of war, act of terrorism, or similar catastrophe necessitates emergency use of an unpermitted emissions unit or emergency use of a permitted emissions unit in a manner not authorized by the permit, the commissioner may waive procedural requirements of this chapter and issue an order to authorize emergency use of the emissions unit. When acting under this section, the commissioner shall impose conditions necessary to protect life, human health, welfare, property, and the environment and may impose other conditions the commissioner finds necessary and appropriate.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-540__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An authorization issued under this section automatically terminates within a reasonable time after abatement of the emergency, subject to a maximum of 30 days from the date of issuance. However, the commissioner may reissue an authorization, if warranted, that may remain in effect for up to another 30 days. An authorization may be reissued more than once.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-540__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person acting under an order issued under (a) of this section is considered to be acting in compliance with the operating permit program established in this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-14-540__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commissioner may delegate the commissioner's authority under this section to deputy commissioners and division directors in the department.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_46-14-550">
+            <num>46.14.550</num>
+            <heading>Responsibilities of owner and operator; agent for service.</heading>
+            <content>
+              <p>Sec. 46.14.550.   Responsibilities of owner and operator; agent for service.
+Notwithstanding use of the conjunctive or disjunctive in a provision of this chapter, before issuance of a permit under this chapter both the owner and operator of a stationary source are responsible for compliance with this chapter and regulations adopted under this chapter. If the owner and operator of the stationary source are separate persons, only one person is required to discharge a specific responsibility. After issuance of a permit under this chapter, only the permittee is responsible for permitted operations. The permittee shall have a designated agent for service of process in the state.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-560">
+            <num>46.14.560</num>
+            <heading>Unavoidable malfunctions and emergencies.</heading>
+            <content>
+              <p>Sec. 46.14.560.   Unavoidable malfunctions and emergencies.
+Excess emissions caused by an unavoidable emergency, a malfunction, or nonroutine repairs of an emissions unit including pollution control equipment or process equipment constitute an affirmative defense, when asserted under regulations adopted under
+AS 46.14.140
+, to an action brought for noncompliance with a technology-based emission standard. This section does not limit the department's power to enjoin the emission or require corrective action. This provision is in addition to any emergency or upset provision contained in an applicable requirement.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-900">
+            <num>46.14.900</num>
+            <heading>Limitations.</heading>
+            <content>
+              <p>Sec. 46.14.900.   Limitations.
+This chapter does not
+(1) grant jurisdiction or authority with respect to air contamination existing solely within a residential dwelling or a commercial or industrial plant, workplace, or shop;
+(2) affect the relations between employers and employees with respect to or arising out of a condition of air contamination or air pollution; or
+(3) supersede or limit the applicability of a law or ordinance relating to sanitation, industrial health, or safety.</p>
+            </content>
+          </section>
+          <section eId="sec_46-14-990">
+            <num>46.14.990</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 46.14.990.   Definitions.
+In this chapter,
+(1) air pollutant has the meaning given in 42 U.S.C. 7602 (Clean Air Act, sec. 302);
+(2) ambient air has the meaning given in 40 C.F.R. 50.1;
+(3) ambient air quality standard means a standard, other than an emission standard, adopted under
+AS 46.14.010
+, 46.14.140, 46.14.400(f), or 42 U.S.C. 7409 (Clean Air Act, sec. 109);
+(4) building, structure, facility, or installation has the meaning given in 40 C.F.R. 51.166(b) except that it includes a vessel
+(A) that is anchored or otherwise permanently or temporarily stationed within a locale;
+(B) upon which a stationary source or stationary sources are located; not including stationary sources engaged in propulsion of the vessel; and
+(C) that is used for an industrial process, excluding a tank vessel in the trade of transporting cargo; in this subparagraph, industrial process means the extraction of raw material or the physical or chemical transformation of raw material in either composition or character;
+(5) commissioner means the commissioner of environmental conservation;
+(6) construction has the meaning given in 40 C.F.R. 51.166(b);
+(7) construction permit means a permit under
+AS 46.14.130
+(a), including all relevant exhibits, addendums, transmittal letters, compliance schedules, administrative orders, emergency orders, and court orders;
+(8) department means the Department of Environmental Conservation;
+(9) emission means a release of one or more air pollutants to the atmosphere;
+(10) emission limitation and emission standard have the meanings given in 40 C.F.R. 51.100;
+(11) emissions unit has the meaning given in 40 C.F.R. 51.166(b)(7) or 40 C.F.R. 70.2, depending on the context in which the term is used;
+(12) federal administrator means the administrator of the United States Environmental Protection Agency;
+(13) [Repealed, § 82 ch 41 SLA 2009.]
+(14) hazardous air pollutant means a pollutant listed in or under 42 U.S.C. 7412(b) (Clean Air Act, sec. 112(b));
+(15) local air quality control program means a program authorized under
+AS 46.14.400
+to implement some or all of the provisions of this chapter;
+(16) major modification means a change that meets the definition of major modification under either 40 C.F.R. 51.165 or 40 C.F.R. 51.166;
+(17) major stationary source means a stationary source or physical change that meets the definition of major stationary source under either 40 C.F.R. 51.165 or 40 C.F.R. 51.166;
+(18) operating permit means a permit under
+AS 46.14.130
+(b), including all relevant exhibits, addendums, transmittal letters, compliance schedules, administrative orders, emergency orders, and court orders;
+(19) operator means a person or persons who direct, control, or supervise a stationary source or emissions unit that has the potential to emit an air pollutant to the atmosphere;
+(20) owner means a person or persons with a proprietary or possessory interest in a stationary source or emissions unit that has the potential to emit an air pollutant to the atmosphere;
+(21) person has the meaning given in
+AS 01.10.060
+and also includes an agency of the United States, a municipality, the University of Alaska, the Alaska Railroad Corporation, and other departments, agencies, instrumentalities, units, and corporate authorities of the state;
+(22) potential to emit has the meaning given in 40 C.F.R. 51.166(b);
+(23) regulated air pollutant means an air pollutant subject to regulation under 42 U.S.C. 7401  7671q (Clean Air Act);
+(24) small business facility means a stationary source that
+(A) is owned or operated by a person who employs 100 or fewer individuals;
+(B) is a small business concern as defined in 15 U.S.C. 632; and
+(C) emits less than 100 tons per year of regulated air pollutants;
+(25) stack has the meaning given in 40 C.F.R. 51.100;
+(26) stationary source has the meaning given in 40 C.F.R. 51.166(b) or 40 C.F.R. 70.2, depending on the context in which the term is used;
+(27) tank vessel means a waterborne vessel, ship, or barge, whether or not self-propelled, that is constructed or converted to carry cargo; tank vessel includes a tanker, tank ship, or combination carrier, but does not include a vessel that is loading or unloading
+(A) cargo in sealed drums, barrels, or other packages; or
+(B) petroleum or petroleum products solely as fuel for use on that vessel;
+(28) [Repealed, § 60 ch 3 SLA 2017.]</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

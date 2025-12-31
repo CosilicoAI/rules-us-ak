@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-70"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-70"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.70"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-70/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-70/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-70/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-70/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_70">
+          <num>70</num>
+          <heading>Alaska Business License Act</heading>
+          <section eId="sec_43-70-020">
+            <num>43.70.020</num>
+            <heading>License required; application.</heading>
+            <subsection eId="43-70-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the privilege of engaging in a business in the state, a person shall first apply, on forms prescribed by the commissioner, and obtain a license, and pay the license fee provided for in
+AS 43.70.030
+. A license issued to a firm for a particular line of business covers all its operations in the state regardless of the number of its establishments. A license issued under this subsection must include</p>
+              </content>
+              <paragraph eId="43-70-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and address of the licensee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the primary and secondary line of business to be conducted;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the dates for which the license is issued; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the business name to be used by the licensee.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 10 ch 45 SLA 1988.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 10 ch 45 SLA 1988.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person engaging in a business subject to licensing provisions of a regulatory nature (for example, the requirement of posting a bond before beginning business as a collection agency) must, in addition to filing the regular application required by this section, comply with those regulatory provisions before being entitled to a license under this chapter. The department may establish that a license that is issued under this section expires at the same time as a license, certificate, permit, registration, or similar document issued under
+AS 08
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a person knowingly engages in a business in the state without having a current license issued under (a) of this section, the department may impose a civil fine of up to $300. In this subsection, knowingly has the meaning given in
+AS 11.81.900
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A person may apply for a business license under (a) of this section covering multiple lines of business. The department shall prepare an application form that allows an applicant to list multiple lines of business.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-70-025">
+            <num>43.70.025</num>
+            <heading>Bond or cash deposit required for an oil or gas business.</heading>
+            <subsection eId="43-70-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At the time of applying for a license under this chapter, an applicant engaged in the business of oil or gas exploration, development, or production shall file a surety bond in the amount of $250,000 running to the state, conditioned upon the applicant's promise to pay all</p>
+              </content>
+              <paragraph eId="43-70-025__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>taxes and contributions due the state and political subdivisions; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-025__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>persons furnishing labor or material or renting or supplying equipment to the applicant.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In lieu of the surety bond required under this section, the applicant may file with the commissioner a cash deposit or other negotiable security acceptable to the commissioner in the amount of $250,000.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The bond required by this section remains in effect until cancelled by action of the surety, the principal, or if the commissioner finds that the business is producing oil or gas in commercial quantities, by the commissioner.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-70-028">
+            <num>43.70.028</num>
+            <heading>Claims against an oil or gas business.</heading>
+            <subsection eId="43-70-028__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person having a claim against a person required to file a surety bond under
+AS 43.70.025
+because of the failure to pay a liability described in
+AS 43.70.025</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-028__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>may bring suit upon the bond. A copy of the complaint shall be served by registered or certified mail on the commissioner at the time suit is filed, and the commissioner shall maintain a record, available for public inspection, of all suits commenced. This service on the commissioner shall constitute service on the surety, and the commissioner shall transmit the complaint or a copy of it to the surety within 72 hours after it is received. The surety on the bond is not liable in an aggregate amount in excess of that named in the bond, but if claims pending at any one time exceed the amount of the bond, the claims shall be satisfied from the bond in the following order:</p>
+              </content>
+              <paragraph eId="43-70-028__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>material, equipment, and supplies delivered in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-028__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>labor, including employee benefits;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-028__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>taxes and other amounts due to the city and borough, in that order;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-028__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>repair of public facilities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-028__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>taxes and other amounts due to the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-028__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a judgment is entered against a cash deposit, the commissioner, upon receipt of a certified copy of a final judgment, shall pay the judgment from the amount of the deposit in accordance with the priorities set out in (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-028__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An action described in (a) of this section may not be commenced on the bond more than three years after the cancellation of the bond.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-70-030">
+            <num>43.70.030</num>
+            <heading>Levy and computation of license fee.</heading>
+            <subsection eId="43-70-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The fee for each business license is $50 a year, except that the fee is $25 if the business is a sole proprietorship and the sole proprietor is</p>
+              </content>
+              <paragraph eId="43-70-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>65 years of age or older when the sole proprietor applies for the license or will reach 65 years of age at any time during the year for which the license is issued; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a disabled veteran.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 1 ch 98 SLA 1984.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The license for the privilege of taking orders through use of catalogs and by mail order offices in the state is the same as set out in this chapter for business generally.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 72 ch 14 SLA 1987.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A license holder may request a new business license without payment of an additional license fee</p>
+              </content>
+              <paragraph eId="43-70-030__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>at any time during the period for which the license is valid to correct an error made by the department; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-030__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>within 30 days after the issuance of the license to make a change to the license.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-030__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The expiration date of a license issued under (e) of this section is the same as the expiration date of the original license.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-70-075">
+            <num>43.70.075</num>
+            <heading>License endorsement.</heading>
+            <subsection eId="43-70-075__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless a person has a business license endorsement issued under this section for each location or outlet in a location where the person offers tobacco products, electronic smoking products, or products containing nicotine for sale, a person may not sell or allow a vending machine to sell in its location or outlet cigarettes, cigars, tobacco, products containing tobacco, electronic smoking products, or products containing nicotine as a retailer at that location or outlet. Each endorsement required under this section is in addition to any other license or endorsement required by law. A person may not apply for an endorsement under this section for a location or outlet if an endorsement issued for the same location or outlet is currently suspended or revoked. An endorsement issued for a location or outlet to a person in violation of this subsection is void.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department, upon payment of a fee of $100, shall issue a business license endorsement to a person who applies for a business license under this chapter, and may renew the endorsement issued under this subsection for a fee of $100. The endorsement expires at the same time as the license to which it attaches. Upon issuance of an endorsement, the department shall also issue to the person receiving the endorsement notice of the penalties that may be imposed under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may refuse to issue an endorsement under this section if there is reasonable cause to believe that the information submitted in the application is false or misleading and is not made in good faith.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a person who holds an endorsement issued under this section, or an agent or an employee of a person who holds an endorsement issued under this section acting within the scope of the agency or employment, has been convicted of violating
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109, the department shall impose a civil penalty as set out in this subsection. However, following a hearing under (m) of this section, and based on evidence admitted at that hearing concerning questions specified in (m)(4) and (6) of this section, the department may reduce by not more than 10 days a suspension under (1) of this subsection, or by not more than 20 days a suspension under (2) of this subsection, or increase by not more than 10 days a suspension under (1) of this subsection, or by not more than 20 days a suspension under (2) of this subsection. If a hearing is not requested, or if a hearing is requested and the department determines that the evidence admitted does not support increasing or decreasing the suspension, the department shall suspend the endorsement for a period of</p>
+              </content>
+              <paragraph eId="43-70-075__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>20 days and impose a civil penalty of $500 if the person has not been previously convicted of violating
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109 and is not otherwise subject to the sanctions described in (2)  (4) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>45 days and impose a civil penalty of $2,000 if, within the 24 months before the date of the department's notice under (m) of this section, the person, or an agent or employee of the person while acting within the scope of the agency or employment of the person, was convicted once of violating
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>90 days and impose a civil penalty of $4,000 if, within the 24 months before the date of the department's notice under (m) of this section, the person, or an agent or employee of the person while acting within the scope of the agency or employment of the person, was convicted twice of violating
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109, or a provision of this section or a regulation implementing this section adopted under
+AS 43.70.090
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>one year and impose a civil penalty of $10,000 if, within the 24 months before the date of the department's notice under (m) of this section, the person, or an agent or employee of the person while acting within the scope of the agency or employment of the person, was convicted three or more times of violating
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-075__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a person who receives an endorsement under this section has multiple retail locations or outlets in a location, a suspension or revocation imposed under this section applies only to the retail outlet in the location in which the violation occurs.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A person who holds a license endorsement issued under this section shall post on the licensed premises a warning sign as described in this subsection. A warning sign required by this subsection must be at least 8.5 inches by 11 inches and must read: The sale of electronic smoking products or products containing nicotine without a prescription or tobacco products to persons under age 19 is illegal. A person holding an endorsement issued under this section shall display the warning sign in a manner conspicuous to a person purchasing or consuming tobacco products, electronic smoking products, or products containing nicotine on the licensed premises. The department shall make available the warning signs required under this section to a person who holds an endorsement issued under this section or a person who requests the sign with the intention of displaying it.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A person who is required to hold a business license endorsement under this section, or who is required to be licensed or agrees to be licensed under
+AS 43.50.010
+, or an agent or employee of the person, may not</p>
+              </content>
+              <paragraph eId="43-70-075__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>sell cigarettes to another person unless the cigarettes are sold in groups of at least 20 and the cigarettes are in the manufacturer's original cigarette pack or contained in a cigarette carton or box; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>sell or possess cigarettes if the cigarette package
+(A) differs in any respect from the requirements of 15 U.S.C. 1331  1341 (Federal Cigarette Labeling and Advertising Act) for the placement of warnings or of any other information upon a package of cigarettes that is sold within the United States;
+(B) is labeled For Export Only, U.S. Tax Exempt, For Use Outside U.S., or with similar wording indicating that the manufacturer did not intend that the product be sold in the United States; this subparagraph does not apply to cigarettes sold or intended to be sold as duty-free merchandise by a duty-free sales enterprise under 19 U.S.C. 1555(b); however, this subparagraph does apply to duty-free cigarettes that are brought back into the state for resale in the state;
+(C) has been altered by adding, masking, or deleting wording described in (B) of this paragraph.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-075__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A violation of (g) of this section is an unfair or deceptive act or practice under
+AS 45.50.471
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The commissioner or the commissioner of revenue may seize cigarettes, electronic smoking products, or products containing nicotine that do not comply with this section. After notice and an opportunity for a hearing, the commissioner or the commissioner of revenue shall destroy cigarettes, electronic smoking products, or products containing nicotine seized under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>A person who violates (g) of this section is guilty of a class B misdemeanor.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>If a person, or an agent or employee of the person while acting within the scope of the agency or employment of the person, violates a provision of (a) or (g) of this section, the department may suspend the person's business license endorsement or right to obtain a business license endorsement for a period of not more than</p>
+              </content>
+              <paragraph eId="43-70-075__subsec_k__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>45 days; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_k__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>90 days if, within the 24 months before the date of the department's notice under (m) of this section, the person, or an agent or employee of the person while acting within the scope of the agency or employment of the person, violates a provision of (a) or (g) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-075__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a person owning vending machines that offer tobacco products, electronic smoking products, or products containing nicotine for sale need obtain only one business license endorsement under this section even if the person has vending machines in more than one outlet or location in the state. The person who owns a vending machine that offers tobacco products, electronic smoking products, or products containing nicotine for sale and the person who owns the premises where the vending machine is located are both required to obtain a business license endorsement issued under this section. If the endorsement of the person owning the vending machine is suspended or revoked, the person may not sell cigarettes, cigars, products containing tobacco, electronic smoking products, or products containing nicotine during the period of suspension or revocation through the use of vending machines at the location or outlet where the violation occurred. During the period of suspension or revocation, the person owning that vending machine may not use that machine to sell tobacco products, electronic smoking products, or products containing nicotine at another location or outlet.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>The department may initiate suspension of a business license endorsement or the right to obtain a business license endorsement under this section by sending the person subject to the suspension a notice by certified mail, return receipt requested, or by delivering the notice to the person. The notice must contain information that informs the person of the grounds for suspension, the length of any suspension sought, and the person's right to administrative review. A suspension begins 30 days after receipt of notice described in this subsection unless the person delivers a timely written request for a hearing to the department in the manner provided by regulations of the department. If a hearing is requested under this subsection, an administrative law judge of the office of administrative hearings (
+AS 44.64.010
+) shall determine the issues by using the preponderance of the evidence test and shall, to the extent they do not conflict with regulations adopted under
+AS 44.64.060
+, conduct the hearing in the manner provided by regulations of the department. A hearing under this subsection is limited to the following questions:</p>
+              </content>
+              <paragraph eId="43-70-075__subsec_m__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>was the person holding the business license endorsement, or an agent or employee of the person while acting within the scope of the agency or employment of the person, convicted by plea or judicial finding of violating
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_m__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the department does not allege a conviction of
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109, did the person, or an agent or employee of the person while acting within the scope of the agency or employment of the person, violate a provision of (a) or (g) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_m__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>within the 24 months before the date of the department's notice under this subsection, was the person, or an agent or employee of the person while acting within the scope of the agency or employment of the person, convicted of violating
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109 or adjudicated for violating a provision of (a) or (g) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_m__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>did the person holding the business license endorsement establish that the person holding the business license endorsement had adopted and enforced an education, a compliance, and a disciplinary program for agents and employees of the person as provided in (t) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_m__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>did the person holding the business license endorsement overcome the rebuttable presumption established in (w) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_m__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>within five years before the date of the violation that is the subject of the hearing, did the department establish that the person holding the business license endorsement
+(A) previously violated (a) or (g) of this section;
+(B) previously violated
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109 at a location or outlet in a location for which the person holds a business license endorsement, or had an agent or employee previously violate
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109; this subparagraph does not apply to a prior conviction that served to enhance a suspension period under (d)(2)  (4) of this section; or
+(C) engaged at a location owned by the person in other conduct that was or is likely to result in the sale of tobacco, electronic smoking products, or products containing nicotine to a person under 19 years of age in violation of
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-075__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>The commissioner may</p>
+              </content>
+              <paragraph eId="43-70-075__subsec_n__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>adopt the proposed decision of a hearing officer under this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_n__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>remand the matter for further proceedings; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_n__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>reject the proposed decision, review the record, and issue a decision based on the record.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-075__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>After notice and a hearing, the department may revoke a business license endorsement or increase a period of suspension if the department finds that, during a period of suspension, a person continues the conduct for which the endorsement or the right to obtain an endorsement was suspended. A person whose endorsement or right to obtain an endorsement is revoked or suspended under this subsection may not apply for or obtain an endorsement under this chapter. A period of revocation or suspension imposed under this subsection may not exceed two years.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>If a person who holds an endorsement issued under this section violates (f) of this section, the department may impose a civil penalty not to exceed $250 for each day of the violation, but the department may not suspend or revoke a business license endorsement. The total civil penalty imposed under this subsection for each violation may not exceed $5,000.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>The department may adopt regulations that do not conflict with regulations adopted under
+AS 44.64.010
+to establish an administrative hearing process for actions taken under this section.
+AS 44.62
+(Administrative Procedure Act) does not apply to a hearing under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_r">
+              <num>(r)</num>
+              <content>
+                <p>For purposes of this section, the sale of a product containing tobacco, an electronic smoking product, or a product containing nicotine by an agent or employee of a person who holds or is required to hold a business license endorsement under this section at the location or outlet in a location for which the endorsement was, or was required to be, issued is rebuttably presumed to have been a sale within the person's scope of agency or employment.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>If a person violates (a) of this section, the department may impose a civil penalty not to exceed $250 for each day of the violation. The total civil penalty imposed under this subsection for each violation may not exceed $5,000. The civil penalty described in this subsection may be imposed in addition to a suspension of a business license endorsement or the right to obtain a business license endorsement ordered by the department under (k) or (o) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_t">
+              <num>(t)</num>
+              <content>
+                <p>Based on evidence provided at the hearing under (m)(4)  (6) of this section, the department may reduce the license suspension period under (d) of this section if the person holding the business license endorsement establishes that, before the date of the violation, the person had</p>
+              </content>
+              <paragraph eId="43-70-075__subsec_t__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>adopted and enforced a written policy against selling cigarettes, cigars, tobacco, products containing tobacco, electronic smoking products, or products containing nicotine to a person under 19 years of age in violation of
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_t__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>informed the person's agents and employees of the applicable laws and their requirements and conducted training on complying with the laws and requirements;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_t__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>required each agent and employee of the person to sign a form stating that the agent and employee has been informed of and understands the written policy and the requirements of
+AS 11.76.100
+, 11.76.106, 11.76.107, and 11.76.109;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_t__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>determined that the agents and employees of the person had sufficient experience and ability to comply with the written policy and requirements of
+AS 11.76.100
+, 11.76.106, 11.76.107, and 11.76.109;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_t__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>required the agents and employees of the person to verify the age of purchasers of cigarettes, cigars, tobacco, other products containing tobacco, electronic smoking products, or products containing nicotine by means of a valid government issued photographic identification;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_t__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>established and enforced disciplinary sanctions for noncompliance with the written policy or the requirements of
+AS 11.76.100
+, 11.76.106, 11.76.107, and 11.76.109; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-075__subsec_t__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>monitored the compliance of the agents and employees of the person with the written policy and the requirements of
+AS 11.76.100
+, 11.76.106, 11.76.107, and 11.76.109.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-075__subsec_u">
+              <num>(u)</num>
+              <content>
+                <p>A reduction in the period of suspension under this section may not be granted more than once in a 12-month period for a location or outlet in a location for which the person holds a business license.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>Notwithstanding (d) of this section, in place of a hearing under (m) of this section, the department and the person holding the business license endorsement may enter into a memorandum of agreement regarding the imposition of a suspension and civil penalties based on a violation of
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109. The memorandum of agreement must contain a provision that the person holding the business license endorsement admits or does not contest that a violation of
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109 occurred and accepts the imposition of suspension and civil penalty under this section. Based on the memorandum of agreement, the department may reduce the period of suspension. For violations involving
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109, the department may not reduce the period of suspension by more than 10 days under (d)(1) of this section or by more than 20 days under (d)(2) of this section. The department may not agree to a reduction in the period of suspension more than once in a 12-month time period for a location or outlet in a location for which the person holds a business license endorsement.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_w">
+              <num>(w)</num>
+              <content>
+                <p>For purposes of (m)(5) of this section, a conviction for a violation of
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109 by the agent or employee of the person who holds the business license endorsement is rebuttably presumed to constitute proof of the fact that the agent or employee negligently sold a cigarette, a cigar, or tobacco, a product containing tobacco, an electronic smoking product, or a product containing nicotine to a person under 19 years of age. The person who holds the business license endorsement may overcome the presumption by establishing by clear and convincing evidence that the agent or employee did not negligently sell a cigarette, a cigar, or tobacco, a product containing tobacco, an electronic smoking product, or a product containing nicotine to a person under 19 years of age in violation of
+AS 11.76.100
+, 11.76.106, 11.76.107, or 11.76.109 as alleged in the citation issued to the agent or employee. The presentation of evidence authorized by this subsection does not constitute a collateral attack on the conviction described in this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-70-075__subsec_x">
+              <num>(x)</num>
+              <content>
+                <p>Notwithstanding (d), (t), or (v) of this section, a period of suspension may not be reduced for a violation of
+AS 11.76.100
+(a)(4) or 11.76.109(a)(4).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-70-080">
+            <num>43.70.080</num>
+            <heading>Disposal of money.</heading>
+            <content>
+              <p>Sec. 43.70.080.   Disposal of money.
+All money collected by the department under this chapter shall be deposited in the general fund.</p>
+            </content>
+          </section>
+          <section eId="sec_43-70-090">
+            <num>43.70.090</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 43.70.090.   Regulations.
+The department may adopt regulations necessary to implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_43-70-105">
+            <num>43.70.105</num>
+            <heading>Exemptions.</heading>
+            <subsection eId="43-70-105__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This chapter does not apply to</p>
+              </content>
+              <paragraph eId="43-70-105__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a fisheries business;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the sale of liquor under a license issued under
+AS 04.09
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an insurance business;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a mining business;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>supplying services as an employee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>furnishing goods or services by a person who does not represent to be regularly engaged in furnishing goods or services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the activities of an investment club; in this paragraph,
+(A) investment club means a group of individuals, incorporated or otherwise organized, that engages primarily in investing in securities, that does not sell investment services to another person, that does not advertise, and the primary purpose of which is educational;
+(B) security has the meaning given in
+AS 45.56.900
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>a bank organized under
+AS 06.05
+or the laws of another state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>a national bank chartered by the United States;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>a credit union organized under
+AS 06.45
+or the laws of another state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>a credit union regulated by the National Credit Union Administration;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-70-105__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>a mutual savings bank chartered under
+AS 06.15
+or organized under the laws of another state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-70-105__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding an exemption provided by (a) of this section, a person who sells cigarettes, cigars, tobacco, products containing tobacco, electronic smoking products, or products containing nicotine as a retailer must have a business license under
+AS 43.70.020
+and a business license endorsement required under
+AS 43.70.075
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-70-110">
+            <num>43.70.110</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 43.70.110.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) business means a for profit or nonprofit entity engaging or offering to engage in a trade, a service, a profession, or an activity with the goal of receiving a financial benefit in exchange for the provision of services, or goods or other property;
+(2) commissioner means the commissioner of commerce, community, and economic development;
+(3) department means the Department of Commerce, Community, and Economic Development;
+(4) electronic smoking product has the meaning given in
+AS 11.81.900
+(b);
+(5) line of business means the particular trade, service, profession, or activity engaged in by a for-profit or nonprofit entity with the goal of receiving a financial benefit;
+(6) person includes an individual, firm, partnership, joint venture, association, corporation, estate trust, business trust, receiver, or any group or combination acting as a unit;
+(7) product containing nicotine does not include a cigarette, a cigar, tobacco, or a product containing tobacco.</p>
+            </content>
+          </section>
+          <section eId="sec_43-70-120">
+            <num>43.70.120</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 43.70.120.   Short title.
+This chapter may be cited as the Alaska Business License Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

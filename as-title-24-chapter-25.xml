@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-25"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-25"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="24.25"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-25/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-25/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_24">
+        <num>24</num>
+        <heading>Legislature and Lobbying</heading>
+        <chapter eId="title_24__chp_25">
+          <num>25</num>
+          <heading>Witnesses; Subpoena; Contempt</heading>
+          <section eId="sec_24-25-010">
+            <num>24.25.010</num>
+            <heading>Issuance and form of subpoena.</heading>
+            <subsection eId="24-25-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A subpoena requiring the attendance of a witness before either house of the legislature may be issued by the president or the speaker.</p>
+              </content>
+            </subsection>
+            <subsection eId="24-25-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A subpoena requiring the attendance of a witness before a standing or special committee of the legislature may be issued by the chairman of a committee when authorized to do so by a majority of the membership of the committee and with the concurrence of the president or the speaker, or with the concurrence of the house or the senate.</p>
+              </content>
+            </subsection>
+            <subsection eId="24-25-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A subpoena requiring the attendance of a witness before an interim committee established by either house of the legislature, or by both, may be issued by the chairman of a committee when authorized to do so by a majority of the membership of the committee and with the concurrence of the president or the speaker.</p>
+              </content>
+            </subsection>
+            <subsection eId="24-25-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The subpoena is sufficient if</p>
+              </content>
+              <paragraph eId="24-25-010__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>it states before whom the proceeding is held;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-25-010__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>it is addressed to the witness;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-25-010__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>it requires the attendance of the witness at a time and place certain;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="24-25-010__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>it is signed
+(A) by the president or the speaker under (a) of this section, or
+(B) by the committee chairman with the concurrence of the president or the speaker under (b) and (c) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="24-25-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>This section does not apply to the legislative council or to the Legislative Budget and Audit Committee.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_24-25-020">
+            <num>24.25.020</num>
+            <heading>Service of subpoena.</heading>
+            <content>
+              <p>Sec. 24.25.020.   Service of subpoena.
+A person over the age of 19 years who is competent as a witness in the state courts may serve the subpoena.  The person's affidavit that the person delivered a copy to the witness is evidence of service.</p>
+            </content>
+          </section>
+          <section eId="sec_24-25-030">
+            <num>24.25.030</num>
+            <heading>Disobeying subpoena or refusing to testify.</heading>
+            <content>
+              <p>Sec. 24.25.030.   Disobeying subpoena or refusing to testify.
+If a witness neglects or refuses to obey a subpoena, or neglects or refuses to testify or to produce upon reasonable notice any material and proper books, papers, or documents in the possession or under the control of the witness, the senate or house of representatives may by resolution entered on its journal commit the witness for contempt.  If contempt is committed before a committee, the committee shall report the contempt to the senate or house of representatives, as the case may be, for such action as may be considered necessary.</p>
+            </content>
+          </section>
+          <section eId="sec_24-25-040">
+            <num>24.25.040</num>
+            <heading>Arrest for disobedience to subpoena.</heading>
+            <content>
+              <p>Sec. 24.25.040.   Arrest for disobedience to subpoena.
+A witness who neglects or refuses to attend in obedience to subpoena may be arrested by the sergeant-at-arms and brought before the senate or house of representatives, as the case may be.  The only warrant or authority necessary authorizing arrest is a copy of a resolution of the senate or house of representatives signed by the president of the senate or speaker of the house of representatives, as the case may be, and countersigned by the secretary of the senate or the clerk of the house of representatives, as the case may be.</p>
+            </content>
+          </section>
+          <section eId="sec_24-25-050">
+            <num>24.25.050</num>
+            <heading>Witness fees and mileage.</heading>
+            <content>
+              <p>Sec. 24.25.050.   Witness fees and mileage.
+A person appearing before either house, or both, or a legislative committee in response to a subpoena is entitled to $20 for each day's attendance, and for the time necessary in coming and returning to the person's place of residence and mileage at the rate of 15 cents a mile for the distance traveled in going to and returning from the place of attendance.  The witness fee and mileage fee shall be paid out of the state treasury upon presentation of a certificate of attendance and mileage due, signed by the presiding officer of the house that authorized issuance of subpoena.</p>
+            </content>
+          </section>
+          <section eId="sec_24-25-060">
+            <num>24.25.060</num>
+            <heading>Oath and penalty for violation of oath.</heading>
+            <content>
+              <p>Sec. 24.25.060.   Oath and penalty for violation of oath.
+The president of the senate and speaker of the house of representatives and the chairman of every committee of either body may administer an oath to a witness appearing before the respective bodies. A person who wilfully swears or affirms falsely concerning any matter material to the subject under investigation or inquiry is guilty of perjury and upon conviction is punishable by imprisonment for not less than one year nor more than five years.</p>
+            </content>
+          </section>
+          <section eId="sec_24-25-070">
+            <num>24.25.070</num>
+            <heading>Grant of immunity on claim of privilege of self-incrimination.</heading>
+            <subsection eId="24-25-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person called as a witness before the senate, house of representatives, or a committee of either or both, who refuses to answer any question or to produce any book, paper, or document relating to the matter under inquiry, on the ground that the answer or the production may tend to incriminate the person, may be granted immunity from punishment for the offense to which the question or evidence relates by resolution of the house that is conducting the inquiry.  The resolution shall be entered upon its journal, and the witness may then be compelled to answer the question or produce the evidence.</p>
+              </content>
+            </subsection>
+            <subsection eId="24-25-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a witness is granted immunity and compelled to testify or produce evidence after claiming the privilege of self-incrimination, the witness may not thereafter be prosecuted in any court for the offense to which the question or evidence relates.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_24-25-080">
+            <num>24.25.080</num>
+            <heading>Punishment for disobedience to subpoena or refusal to testify.</heading>
+            <content>
+              <p>Sec. 24.25.080.   Punishment for disobedience to subpoena or refusal to testify.
+A person subpoenaed as provided in this chapter who fails, neglects, or refuses to attend at the time and place where the person's presence is required, or fails, neglects, or refuses to produce the books, papers, or instruments or other evidence designated in the subpoena, or who having attended in response to the subpoena, or having appeared voluntarily, refuses to testify as to any material and proper matter within the power of the senate, house of representatives, or a committee to investigate, upon conviction, is punishable by a fine of not less than $100 nor more than $500, or by imprisonment for not less than 30 days nor more than six months.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-08"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-08"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.08"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-08/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-08/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-08/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-08/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_08">
+          <num>08</num>
+          <heading>Assistance for Catastrophic Illness and Chronic or Acute Medical Conditions</heading>
+          <section eId="sec_47-08-010">
+            <num>47.08.010</num>
+            <heading>Reimbursement of providers.</heading>
+            <subsection eId="47-08-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to (b) of this section, under
+AS 47.08.010
+ 47.08.140, the Department of Health may reimburse providers of medical care for unpaid costs incurred in the treatment of a person suffering an illness or accident that results in financial catastrophe to the person or the person's family.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-08-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At the beginning of each fiscal year, the commissioner of health shall determine whether sufficient appropriations have been made for the anticipated costs of services to needy persons under
+AS 47.08.150
+and the anticipated costs of reimbursements under (a) of this section. The Department of Health may not accept applications for reimbursement under (a) of this section for a fiscal year if, at the beginning of the fiscal year the department determines that</p>
+              </content>
+              <paragraph eId="47-08-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>there are insufficient funds appropriated for the anticipated costs of services for needy persons under
+AS 47.08.150
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>after subtracting anticipated costs under
+AS 47.08.150
+, there are insufficient funds appropriated for anticipated reimbursements under (a) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-08-020">
+            <num>47.08.020</num>
+            <heading>Catastrophic Illness Committee.</heading>
+            <content>
+              <p>Sec. 47.08.020.   Catastrophic Illness Committee.
+There is created the Catastrophic Illness Committee, consisting of a medical review officer from the Department of Health, a member appointed by the governor who has suffered a catastrophic illness, and a representative of the Department of Commerce, Community, and Economic Development appointed by the governor.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-030">
+            <num>47.08.030</num>
+            <heading>Notice.</heading>
+            <content>
+              <p>Sec. 47.08.030.   Notice.
+The committee shall enlist the assistance of medical providers in making the public aware of the catastrophic illness assistance program.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-040">
+            <num>47.08.040</num>
+            <heading>Applications for assistance.</heading>
+            <content>
+              <p>Sec. 47.08.040.   Applications for assistance.
+An application for financial assistance under
+AS 47.08.010
+ 47.08.140 may be filed by a person who has suffered catastrophic illness or by a parent, spouse, or legal guardian of that person, or by any other interested party with the written consent of the person who has suffered the catastrophic illness.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-050">
+            <num>47.08.050</num>
+            <heading>Services excluded from coverage.</heading>
+            <content>
+              <p>Sec. 47.08.050.   Services excluded from coverage.
+Annually, the committee shall determine in light of appropriated funds and expected need the medical expenses reimbursable under
+AS 47.08.010
+ 47.08.140, except that the following are not reimbursable:
+(1) dentistry and optometry unless prescribed by a licensed dentist or physician as medically necessary as the result of the injury or illness;
+(2) elective medical or surgical procedures;
+(3) drugs and medications not prescribed by a licensed physician;
+(4) services received as a result of a pregnancy or birth without unusual complications;
+(5) private psychological or psychiatric treatment or private alcoholism treatment, unless not available from public agencies or programs;
+(6) chiropractic services and services provided by a person who practices naturopathy;
+(7) services not of a medical nature;
+(8) medical services currently provided to persons in the custody of the Department of Corrections;
+(9) costs incurred before July 1976.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-060">
+            <num>47.08.060</num>
+            <heading>Calculation of applicant's share.</heading>
+            <subsection eId="47-08-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As frequently as necessary the committee shall adopt, in light of appropriated funds and expected need, a formula to be used in determining the applicant's share of total medical expenses incurred as a result of a catastrophic illness, based on the applicant's annual gross income, number of dependents, amount of assets, and forthcoming third-party payments, all considered in light of the requirement that the applicant's share will be paid to the provider on a payment schedule covering a period of at least three years.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-08-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purposes of applying the formula to determine the applicant's share, multiple catastrophic illness occurring within a 12-month period to the applicant or other members of the applicant's family shall be treated as one catastrophic illness.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-08-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In applying the formula to determine the applicant's share, the total gross income and the total assets of the family of the applicant may be taken into account, with the following exceptions:</p>
+              </content>
+              <paragraph eId="47-08-060__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the applicant's permanent place of abode;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-060__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>one noncommercial vehicle;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-060__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>tools, equipment, vehicles and other assets required in a trade or business;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-060__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>ordinary household and personal effects;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-060__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>$1,000 of liquid assets;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-060__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>all nonliquid assets unless this exclusion would bring about an inequitable result; however, all income derived from this property shall be taken into consideration in determining the recipient's gross income;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-060__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>inalienable shares in a Native corporation created under 43 U.S.C. 1601 et seq. (Alaska Native Claims Settlement Act), for the period of their inalienability as specified in the Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-060__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Alaska longevity bonus payments;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-060__subsec_c__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>any other assets specifically restricted for the use of the recipient by state or federal law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-08-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Assets received by the applicant as a custodian, guardian, conservator, or trustee for another are not considered assets of the custodian, guardian, conservator, or trustee.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-08-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The applicant's share shall be reduced in the amount of any premiums paid for health insurance or a prepaid medical plan up to $500 if incurred in the 12-month period beginning with the occurrence of the injury or the onset of the illness.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-08-060__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding the provisions of this section, the committee may waive payment of an applicant's share when the catastrophic illness is the proximate result of an immunization required by law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-08-070">
+            <num>47.08.070</num>
+            <heading>Standards for reimbursement to providers.</heading>
+            <content>
+              <p>Sec. 47.08.070.   Standards for reimbursement to providers.
+The amount that the committee reimburses providers for medical services rendered to a person who has suffered catastrophic illness may not be greater than 100 percent of the total unpaid bills related to the catastrophic illness and shall be determined by the following standards:
+(1) only unpaid medical expenses for periods not to exceed 12 months, and related to catastrophic illness, may be considered; the initial 12-month period begins with the date of the first charges incurred because of the illness;
+(2) the committee may not reimburse a provider if the applicant's total medical expenses related to the catastrophic illness are less than $1,000 in any period not exceeding 12 months described in (1) of this section after all sources of third-party payment have been exhausted by the applicant or by someone acting on behalf of the applicant;
+(3) the committee may not reimburse a provider for the applicant's share of the total medical expenses; moreover, a reimbursement to the provider shall be conditioned on the provider's agreement that the provider enter into a payment schedule with the applicant which will result in full liquidation of the applicant's share; payment schedules may not be for a term of less than three years.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-080">
+            <num>47.08.080</num>
+            <heading>Reconsideration of decision by committee.</heading>
+            <content>
+              <p>Sec. 47.08.080.   Reconsideration of decision by committee.
+The committee shall promptly notify an applicant of its decision with written reasons for the amount of the award or denial.  An applicant who is dissatisfied with a decision of the committee may apply to the committee for reconsideration within 30 days of receipt of the decision.  The request for reconsideration must include a written statement of grounds for reconsideration and any supporting documentation which was not available to the committee for its original decision. Within 30 days after receipt of a request for reconsideration, the committee shall affirm, amend, or reverse its original decision. The committee shall promptly notify the applicant of its decision upon reconsideration with written reasons for its action. Information describing hearing rights and procedures must be furnished with the written notification of denial.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-090">
+            <num>47.08.090</num>
+            <heading>Hearing.</heading>
+            <content>
+              <p>Sec. 47.08.090.   Hearing.
+An applicant who is dissatisfied with the committee's decision upon reconsideration may request a hearing in accordance with procedures established under
+AS 47.25.180
+.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-100">
+            <num>47.08.100</num>
+            <heading>Finality of decisions.</heading>
+            <content>
+              <p>Sec. 47.08.100.   Finality of decisions.
+Decisions as to catastrophic illness awards are final
+(1) 30 days after the applicant receives the committee's decision unless a reconsideration is requested during that time;
+(2) 30 days after the applicant receives the committee's decision upon reconsideration unless a hearing is requested during that time;
+(3) 15 days after the applicant receives the hearing authority's decision if that decision is not appealed to the director during that time;
+(4) upon being notified of the decision of the director if an appeal is taken to the director under
+AS 47.25.180
+.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-110">
+            <num>47.08.110</num>
+            <heading>Extension of time limits.</heading>
+            <content>
+              <p>Sec. 47.08.110.   Extension of time limits.
+Time limits for reconsideration or for requesting an appeal may be extended, at the discretion of the committee, upon application or upon the committee's own motion.  A request for reconsideration or for a hearing shall be considered made on the date when the request is dispatched rather than the date when it is received by the committee.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-120">
+            <num>47.08.120</num>
+            <heading>Recovery from a collateral source.</heading>
+            <content>
+              <p>Sec. 47.08.120.   Recovery from a collateral source.
+If the applicant or a provider receives payment from any other source for medical expenses that have been paid by the committee, the applicant or provider is liable to the committee in the amount of that payment.  An application may not be considered by the committee unless the applicant agrees to this provision.  A provider may not be paid by the committee under
+AS 47.08.010
+ 47.08.140 unless the provider agrees to this provision.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-130">
+            <num>47.08.130</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 47.08.130.   Regulations.
+The department may adopt regulations, under
+AS 44.62
+(Administrative Procedure Act) that establish rates of reimbursement to providers for medical expenses incurred, as well as other regulations necessary to carry out the purposes of
+AS 47.08.010
+ 47.08.140.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-140">
+            <num>47.08.140</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 47.08.140.   Definitions.
+In
+AS 47.08.010
+ 47.08.140,
+(1) applicant means a person who has suffered a catastrophic illness and is applying for assistance under
+AS 47.08.010
+ 47.08.140 or is the subject of an application for assistance under
+AS 47.08.010
+ 47.08.140;
+(2) applicant's share means the amount of the total medical expense related to the catastrophic illness that the committee determines the applicant can reasonably be expected to pay based on income, assets, and number of dependents under
+AS 47.08.060
+;
+(3) catastrophic illness means illness or injury that results in medical expenses of over $1,000 during a period not to exceed 12 months, after all other sources of third-party payment have been exhausted;
+(4) committee means the Catastrophic Illness Committee, created under
+AS 47.08.020
+;
+(5) elective medical or surgical procedures means treatment that is not essential to the life or health of a person;
+(6) family means two or more persons related by blood or marriage or adoption living as one economic unit;
+(7) liquid assets means assets that can be readily converted to cash;
+(8) medical expense means any financial obligation incurred in the course of treatment of illness as prescribed by a physician, including bills for ancillary services, patient transportation, transportation of a medical or family escort when reasonably necessary, or living expenses while receiving outpatient treatment in a community to which the applicant is not reasonably able to commute from the applicant's permanent place of abode;
+(9) nonliquid assets means all assets that are not liquid assets;
+(10) permanent place of abode means a dwelling, or a dwelling unit in a multiple dwelling, including lots and outbuildings or an appropriate portion of these, that are necessary to convenient use of the dwelling unit;
+(11) provider means a licensed physician, pharmacist, dentist, or other health service worker or a licensed hospital, clinic, skilled nursing home, intermediate care facility or health maintenance organization that has provided services not excluded by
+AS 47.08.050
+to an applicant as a result of a catastrophic illness;
+(12) third-party payments means payments of medical expenses related to a catastrophic illness by sources other than the applicant or the committee, including but not limited to state and federal medical assistance programs, private health insurance, employment-related health insurance, military health insurance, workers' compensation, violent crimes compensation, Indian Health Service of the United States Department of Health and Human Services, and awards in legal actions.
+Article 2. Assistance for Chronic or Acute Medical Conditions.</p>
+            </content>
+          </section>
+          <section eId="sec_47-08-150">
+            <num>47.08.150</num>
+            <heading>Assistance for chronic or acute medical conditions.</heading>
+            <subsection eId="47-08-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Under the provisions of this section, the Department of Health may pay providers of medical care for services described in (c) of this section that are provided to needy persons suffering from a chronic or acute medical condition who may apply for assistance under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-08-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A needy person suffering from a chronic or an acute medical condition who is eligible for general relief assistance under
+AS 47.25.120
+and is not eligible for the medical assistance program under
+AS 47.07
+may apply for assistance under this section. The department shall make a determination of eligibility based on a general relief assistance application. The requirements of
+AS 47.08.020
+ 47.08.140 do not apply to assistance sought under this section, except that, notwithstanding (c) of this section, neither reimbursement nor assistance may be paid by the department for services that are listed in
+AS 47.08.050
+as those services are defined in
+AS 47.08.140
+. The department shall establish an electronic application for assistance under this section. The department shall allow an applicant to complete and submit a secure electronic application for assistance through the department's Internet website. The electronic application must inform an applicant that a false statement made on the application will be investigated and is punishable under
+AS 11.56.210
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-08-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The services eligible for payment under this section for a needy person with a chronic or acute medical condition are the following:</p>
+              </content>
+              <paragraph eId="47-08-150__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>prescription drugs and medical supplies prescribed to treat a person who has
+(A) a terminal illness;
+(B) cancer and requires chemotherapy; or
+(C) a chronic condition that would normally, in its untreated course, result in the death or disability of the recipient, but that is amenable to outpatient medication; the chronic conditions for which the cost of prescription drugs may be paid include the following diagnoses:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-08-150__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>diabetes and diabetes insipidus;
+(ii) seizure disorders;
+(iii) chronic mental illness;
+(iv) hypertension;</p>
+              </content>
+              <paragraph eId="47-08-150__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>physician services
+(A) related to care under (3) of this subsection;
+(B) provided in a hospital emergency room the same day on which the recipient is admitted for care under (3) of this subsection;
+(C) provided to a recipient residing in a nursing home; or
+(D) provided in either an outpatient or an inpatient setting to a recipient with a diagnosis described in (1) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-150__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>inpatient hospital services that cannot be performed on an outpatient basis and that are certified as necessary by a professional review organization consulted by the Department of Health but not including inpatient psychiatric hospital services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-150__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>outpatient laboratory and x-ray services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-150__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>medical transportation related to care under (3) of this subsection or nursing facility care;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-150__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>outpatient surgical services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-08-150__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>nursing facility care.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-08-150__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The payment rate for facilities under this section shall be the same as that established by regulation for medical services under
+AS 47.25.195
+, and payment rates under this section for other providers may not exceed those established under
+AS 47.07
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-08-150__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The Department of Health may limit the amount, duration, and scope of services covered under this section by regulation. If the Department of Health finds that the cost of assistance for all persons eligible under this section will exceed the amount allocated for that assistance during the fiscal year, the Department of Health may limit coverage for certain medical services by regulation in order to provide the most critical care within the available appropriations.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-08-150__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The Department of Health may adopt regulations to implement this section.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

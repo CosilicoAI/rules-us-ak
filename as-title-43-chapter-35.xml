@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-35"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-35"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.35"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-35/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-35/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_35">
+          <num>35</num>
+          <heading>Gaming and Gambling on Passenger Vessels</heading>
+          <section eId="sec_43-35-200">
+            <num>43.35.200</num>
+            <heading>Gambling activities aboard commercial vessels purportedly authorized by federal law.</heading>
+            <content>
+              <p>Sec. 43.35.200.   Gambling activities aboard commercial vessels purportedly authorized by federal law.
+AS 43.35.200
+ 43.35.220 apply to the use of playing cards, dice, roulette wheels, coin-operated instruments or machines, or other objects or instruments used, designed, or intended for gaming or gambling used in the waters under the jurisdiction of the State of Alaska on a voyage described in 15 U.S.C. 1175(c)(2), and to any other gambling activities taking place aboard large passenger vessels in the state.</p>
+            </content>
+          </section>
+          <section eId="sec_43-35-210">
+            <num>43.35.210</num>
+            <heading>Tax on gambling activities.</heading>
+            <content>
+              <p>Sec. 43.35.210.   Tax on gambling activities.
+There is imposed on the operator of gaming or gambling activities aboard large passenger vessels in the state a tax of 33 percent of the adjusted gross income from those activities. Adjusted gross income means gross income less prizes awarded and federal and municipal taxes paid or owed on the income. The tax shall be collected and is due and payable to the Department of Revenue in the manner and at the times required by the Department of Revenue.</p>
+            </content>
+          </section>
+          <section eId="sec_43-35-220">
+            <num>43.35.220</num>
+            <heading>Disposition of receipts.</heading>
+            <content>
+              <p>Sec. 43.35.220.   Disposition of receipts.
+The proceeds from the tax on gambling operations aboard commercial passenger vessels in the state's marine water shall be deposited in the large passenger vessel gaming and gambling tax account that is established as a subaccount within the commercial vessel passenger tax account (
+AS 43.52.230
+(a)).</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

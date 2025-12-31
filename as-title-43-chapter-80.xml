@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-80"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-80"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.80"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-80/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-80/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-80/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-80/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_80">
+          <num>80</num>
+          <heading>Salmon Price Reports</heading>
+          <section eId="sec_43-80-050">
+            <num>43.80.050</num>
+            <heading>Reporting of wholesale salmon prices.</heading>
+            <subsection eId="43-80-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A fish processor engaged in the business of selling salmon products at wholesale and whose business sells more than 1,000,000 pounds of salmon products at wholesale during a calendar year shall submit to the department during the following calendar year, on a form provided by the department, reports of the prices received for and quantity of salmon products sold at wholesale by the processor or an affiliate of the processor. Not later than May 31 of each reporting year, a processor shall submit a report for the period January 1 through April 30 of the reporting year. Not later than September 30 of each reporting year, a processor shall submit a report for the period May 1 through August 31 of the reporting year. Not later than January 31 of each reporting year, a processor shall submit a report for the period September 1 through December 31 of the reporting year.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-80-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A report submitted by a processor under (a) or (c) of this section must include</p>
+              </content>
+              <paragraph eId="43-80-050__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the requested information for the following salmon product forms:
+(A) thermally processed salmon products;
+(B) fresh headed and gutted salmon products;
+(C) fresh fillet salmon products;
+(D) frozen headed and gutted salmon products;
+(E) frozen fillet salmon products;
+(F) salmon roe products;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-80-050__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the requested information regarding the total quantity of each salmon product form sold by providing the total number of
+(A) each size of container in which thermally processed salmon products were sold by the processor or its affiliate; and
+(B) pounds for each of the other salmon product forms sold by the processor or its affiliate; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-80-050__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for sales to buyers that are not affiliates of the processor, the total quantity of each salmon product form sold by area of production by species, and the wholesale price received.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-80-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A sale to an affiliate of the processor may not be included in a report submitted under this section by a processor. However, the processor shall report sales by an affiliate at wholesale of salmon products that were obtained from the processor. The report must include a description of the products and the total quantity of each salmon product form sold by the affiliate by area of production by species and the wholesale prices received by the affiliate.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-80-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Information shall be reported for each size of the container in which the salmon is sold.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-80-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person excluded from the fisheries business tax under
+AS 43.75.017
+is exempt from the requirements of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-80-050__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Each fish processor who submits a report under (a) of this section during a reporting year shall also submit an annual report of the quantity of salmon products produced by the processor or an affiliate of the processor between January 1 and December 31 of the reporting year. The report shall be submitted to the department not later than January 31 of the following reporting year. The report must include</p>
+              </content>
+              <paragraph eId="43-80-050__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a description of the products and the total quantity of each salmon product form produced by area of production by species for each of the salmon product forms listed in (b)(1) of this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-80-050__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the requested information regarding the total quantity of each salmon product form produced by providing the total number of
+(A) each size of container in which thermally processed salmon products were produced by the processor or its affiliate; and
+(B) pounds for each of the other salmon product forms produced by the processor or its affiliate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_43-80-055">
+            <num>43.80.055</num>
+            <heading>Wholesale price averages; Alaska salmon price report.</heading>
+            <subsection eId="43-80-055__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Based on the information provided in reports submitted under
+AS 43.80.050
+, the department shall determine the average wholesale prices paid to fish processors and their affiliates for the sale of salmon products.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-80-055__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall determine under this section the monthly and annual wholesale price averages for</p>
+              </content>
+              <paragraph eId="43-80-055__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>each species of salmon for each size of the container in which thermally processed salmon products are sold;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-80-055__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>each pound of other salmon products by area of production by species by product form.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-80-055__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall publish the average wholesale prices paid for salmon products in a report entitled the Alaska Salmon Price Report.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-80-060">
+            <num>43.80.060</num>
+            <heading>Report to the legislature.</heading>
+            <content>
+              <p>Sec. 43.80.060.   Report to the legislature.
+Not later than March 15 of each year, the department shall make available to the legislature a report of average wholesale prices paid for salmon products and a report of the quantity of salmon products produced during the preceding calendar year. The department shall notify the legislature that the report is available.</p>
+            </content>
+          </section>
+          <section eId="sec_43-80-065">
+            <num>43.80.065</num>
+            <heading>Confidentiality of reports.</heading>
+            <content>
+              <p>Sec. 43.80.065.   Confidentiality of reports.
+Information in reports submitted under
+AS 43.80.050
+, and price averages calculated by the department from the information in the reports, are public information, except that information that identifies or could be used to identify a particular fish processor is confidential.</p>
+            </content>
+          </section>
+          <section eId="sec_43-80-095">
+            <num>43.80.095</num>
+            <heading>Penalty.</heading>
+            <content>
+              <p>Sec. 43.80.095.   Penalty.
+The department may levy and collect a civil penalty of $50 per day on a fish processor that fails to submit a report as required under
+AS 43.80.050
+.</p>
+            </content>
+          </section>
+          <section eId="sec_43-80-100">
+            <num>43.80.100</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 43.80.100.   Definitions.
+In
+AS 43.80.050
+ 43.80.100,
+(1) affiliate of the processor means a person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, the processor;
+(2) area of production means the area in which a salmon product was processed by a fish processor; in this paragraph, area means one of the following areas:
+(A) Southeastern and Yakutat;
+(B) Prince William Sound;
+(C) Cook Inlet;
+(D) Kodiak;
+(E) Chignik;
+(F) Aleutian Islands, Atka-Amlia Islands, and Alaska Peninsula;
+(G) Bristol Bay; or
+(H) Kuskokwim, Yukon-Northern, Norton Sound-Port Clarence, and Kotzebue;
+(3) container means the can, pouch, or other similar container in which the salmon is thermally processed;
+(4) control means
+(A) owning directly or indirectly, or having the power to vote, not less than 10 percent of any class of voting securities of a corporation; or
+(B) influencing or affecting in any substantive manner the election of a majority of the directors or trustees of a corporation;
+(5) fish processor means a person engaging or attempting to engage in a business for which a license is required under
+AS 43.75.010
+ 43.75.055;
+(6) produce means to process salmon into a salmon product;
+(7) reporting year means the calendar year after the calendar year in which a fish processor's business sells more than 1,000,000 pounds of salmon products at wholesale;
+(8) thermally processed means processed by the application of heat to render the salmon free of microorganisms that are capable of reproducing in the salmon under normal nonrefrigerated conditions of storage or distribution;
+(9) wholesale means the first sale of a salmon product at wholesale after the fishery business tax was paid or became payable on the salmon from which the salmon product was produced;
+(10) wholesale price includes all receipts, whether in the form of money, credits, or other consideration, from the sale of a salmon product at wholesale, without deduction for the costs of property sold, materials used, insurance, labor, services, labeling, transportation, storage, interest, taxes, losses, or any other expense.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

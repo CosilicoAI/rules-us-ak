@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-42"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-42"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.42"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-42/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-42/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-42/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-42/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_42">
+          <num>42</num>
+          <heading>The Insurance Contract</heading>
+          <section eId="sec_21-42-010">
+            <num>21.42.010</num>
+            <heading>Applicability.</heading>
+            <content>
+              <p>Sec. 21.42.010.   Applicability.
+AS 21.42.010
+ 21.42.599 do not apply to
+(1) reinsurance;
+(2) policies or contracts not issued for delivery in this state or delivered in this state, except as provided in
+AS 21.42.120
+;
+(3) wet marine and transportation insurance;
+(4) title insurance, except that
+AS 21.42.080
+, 21.42.120, 21.42.130, 21.42.180, 21.42.190 and 21.42.230 do apply.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-020">
+            <num>21.42.020</num>
+            <heading>Insurable interest: life, annuity, or health.</heading>
+            <subsection eId="21-42-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person of competent legal capacity may procure or effect an insurance contract on the life or body of the person for the benefit of any person.  A person may not procure or cause to be procured an insurance contract upon the life or body of another person unless the benefits under the contract are payable to the individual insured, the personal representatives of the individual insured, or to a person having, at the time the contract was made, an insurable interest in the individual insured.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the beneficiary, assignee, or other payee under a contract made in violation of this section receives from the insurer any benefits from the contract upon the death, disablement, or injury of the person insured, the person insured or the executor or administrator of the person insured may maintain an action to recover the benefits from the person receiving them.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding the other provisions of this section, a charitable organization may obtain, by procurement, assignment, or otherwise, life or health insurance on an insured who consents to the issuance of the insurance. In this subsection, charitable organization means a charity that is exempt from taxation under 26 U.S.C. 501(c)(3) (Internal Revenue Code).</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a trustee, acting in a fiduciary capacity, may procure or cause to be procured an insurance contract that is on the life or body of an individual and under which the proceeds of the insurance contract are payable to the trustee, acting in a fiduciary capacity, if</p>
+              </content>
+              <paragraph eId="21-42-020__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the trustee, acting in a fiduciary capacity, owns the insurance contract or the trust itself owns the insurance contract;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-020__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>on the date the contract is made, a settlor of the trust is the individual insured, has an insurable interest in the individual insured, or would have had an insurable interest in the individual insured if the settlor were living at the time the contract was made; in this paragraph, settlor means a person, including a person for whom a fiduciary or agent is acting, who executes the trust instrument; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-020__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the proceeds of the contract are primarily for the benefit of a trust beneficiary who has an insurable interest in the individual insured, except that, if the determination of the trust beneficiary's insurable interest is based on (e)(1) of this section, the trust beneficiary's relation by blood or law must be within the third degree.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Insurable interest, with reference to life, annuity, or health insurance, includes only the following interests:</p>
+              </content>
+              <paragraph eId="21-42-020__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in the case of persons related closely by blood or by law, a substantial interest engendered by love and affection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-020__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in the case of persons other than those described in (1) of this subsection, a lawful and substantial economic interest in having the life, health, or bodily safety of the person insured continue, as distinguished from an interest that would arise only by, or would be enhanced in value by, the death, disablement, or injury of the individual insured;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-020__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an individual party to a contract or option for the purchase or sale of an interest in a business partnership or firm, or of shares of stock of a closed corporation or of an interest in the shares, has an insurable interest in the life of each individual party to the contract for the purposes of the contract only, in addition to an insurable interest that may otherwise exist as to the life of the individual.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A person who has an insurable interest in the life or body of an individual may form a business firm that is substantially or solely for the purpose of purchasing, holding, or administering an insurance contract on the life or body of the individual. In this subsection, firm has the meaning given in
+AS 21.97.900
+, but also includes a business trust and a joint venture.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-030">
+            <num>21.42.030</num>
+            <heading>Insurable interest: property.</heading>
+            <subsection eId="21-42-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contract of insurance of property or of an interest in property or arising from property may not be enforced as to the insurance except for the benefit of persons having an insurable interest in the things insured at the time of the loss.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The measure of an insurable interest in property is the extent to which the insured might be indemnified by loss, injury, or impairment.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, insurable interest means an actual, lawful, and substantial economic interest in the safety or preservation of the subject of the insurance free from loss, destruction, or pecuniary damage or impairment.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-040">
+            <num>21.42.040</num>
+            <heading>Interest of named insured.</heading>
+            <content>
+              <p>Sec. 21.42.040.   Interest of named insured.
+When the name of the person insured is specified in a policy insuring property the insurance can be applied only to the proper interest of the person insured.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-050">
+            <num>21.42.050</num>
+            <heading>Change of interest on death.</heading>
+            <content>
+              <p>Sec. 21.42.050.   Change of interest on death.
+A change of interest, by will or succession, on the death of the insured does not avoid an insurance of property and the insurance passes to the person taking an interest in the thing insured.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-060">
+            <num>21.42.060</num>
+            <heading>Transfer of interest between joint insureds.</heading>
+            <content>
+              <p>Sec. 21.42.060.   Transfer of interest between joint insureds.
+A transfer of interest by one of the several partners, joint owners, or owners in common, who are jointly insured, to the others, does not avoid an insurance of property even though it has been agreed that the insurance shall cease upon an alienation of the thing insured.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-070">
+            <num>21.42.070</num>
+            <heading>Insurance without interest, or of wager, is void.</heading>
+            <subsection eId="21-42-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A stipulation in a policy of insurance of property for the payment of loss without regard to absence of an insurable interest in the property on the part of the insured, or that the policy shall be received as proof of the interest, is void.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A policy executed by way of gaming or wagering is void.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-075">
+            <num>21.42.075</num>
+            <heading>Reimbursement of losses.</heading>
+            <content>
+              <p>Sec. 21.42.075.   Reimbursement of losses.
+An insurer may make a filing for approval by the director that provides for reimbursement by an insured of losses paid by the insurer under a workers' compensation insurance policy.  A form that alters the obligation of the insurer to an employee under
+AS 23.30.025
+or 23.30.030 may not be approved by the director.  Filing for approval under this section is not a deviation under
+AS 21.39.070
+.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-080">
+            <num>21.42.080</num>
+            <heading>Capacity to contract.</heading>
+            <subsection eId="21-42-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person of competent legal capacity may contract for insurance.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 25 ch 245 SLA 1970.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 25 ch 245 SLA 1970.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 25 ch 245 SLA 1970.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-090">
+            <num>21.42.090</num>
+            <heading>Application required, life and health insurance.</heading>
+            <content>
+              <p>Sec. 21.42.090.   Application required, life and health insurance.
+A life or health insurance contract upon an individual, except a contract of group life insurance or of group or blanket health insurance, may not be made or effectuated unless at the time of the making of the contract the individual insured, being of competent legal capacity to contract, applies for the contract or has consented to it in writing, except in the following cases:
+(1) a spouse may effectuate the insurance upon the other spouse;
+(2) a person having an insurable interest in the life of a minor or a person upon whom a minor is dependent for support and maintenance, may effectuate insurance upon the life of or pertaining to the minor;
+(3) family policies insuring any two or more members of a family may be issued on an application signed by either parent, a stepparent, or by a husband or wife.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-100">
+            <num>21.42.100</num>
+            <heading>Request for copy of application; alteration.</heading>
+            <subsection eId="21-42-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a policy of life or health insurance delivered in this state is reinstated or renewed, and the insured or the beneficiary or assignee of the policy makes written request to the insurer for a copy of the application, if any, for the reinstatement or renewal, the insurer shall, within 30 days after receipt of the request at its home office or at one of its branch offices, deliver, or mail to the person making the request a copy of the application. In the case of a request from a beneficiary, the time within which the insurer is required to furnish a copy of the application does not begin to run until after receipt of evidence satisfactory to the insurer of the beneficiary's vested interest in the policy or contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An alteration of a written application for a life or health insurance policy may not be made by a person other than the applicant without the written consent of the applicant, except that insertions may be made by the insurer, for administrative purposes only, in a manner that indicates clearly that the insertions are not to be ascribed to the applicant.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-110">
+            <num>21.42.110</num>
+            <heading>Representations in applications.</heading>
+            <content>
+              <p>Sec. 21.42.110.   Representations in applications.
+All statements and descriptions in an application for an insurance policy or annuity contract, or in negotiations for the policy or contract, by or in behalf of the insured or annuitant, shall be considered to be representations and not warranties. Misrepresentations, omissions, concealment of facts, and incorrect statements may not prevent a recovery under the policy or contract unless either
+(1) fraudulent;
+(2) material either to the acceptance of the risk, or to the hazard assumed by the insurer; or
+(3) the insurer in good faith would either not have issued the policy or contract, or would not have issued a policy or contract in as large an amount, or at the same premium or rate, or would not have provided coverage with respect to the hazard resulting in the loss, if the true facts had been made known to the insurer as required either by the application for the policy or contract or otherwise.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-120">
+            <num>21.42.120</num>
+            <heading>Filing, approval of forms.</heading>
+            <subsection eId="21-42-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A basic insurance policy or annuity contract form, or application form where written application is required and is to be made a part of the policy or contract, or printed rider or endorsement form or form of renewal certificate, may not be delivered, or issued for delivery in this state, unless the form has been filed with and approved by the director. This provision does not apply to surety bonds or to specially rated inland marine risks, nor to policies, riders, endorsements, or forms of unique character designed for and used with relation to insurance upon a particular subject, or that relate to the manner of distribution of benefits or to the reservation of rights and benefits under life or health insurance policies and are used at the request of the individual policyholder, contract holder, or certificate holder; or to policies of commercial insurance that the director has authorized under (d) of this section to be filed on or before the date of use and that are not subject to the prior approval of the director. The filing required by this section of forms for use in property, marine other than wet marine and transportation coverages, casualty, and surety coverages may be made by a rating organization on behalf of its members and subscribers; but this provision does not prohibit a member or subscriber from filing the forms on its own behalf.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each insurer or rating organization shall submit a filing under one of the following procedures, clearly specifying the filing procedure under which the filing is being made:</p>
+              </content>
+              <paragraph eId="21-42-120__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for prior approval under
+AS 21.42.123
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-120__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for file and use under
+AS 21.42.125
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An order of the director disapproving the form or withdrawing a previous approval shall state the grounds and the particulars in such detail as reasonably to inform the insurer thereof.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director may, by order, require that a form or document be filed for informational purposes or may exempt a form or document from the requirements of this section for a time determined by the director when, in the opinion of the director, this section may not practicably be applied, or the filing or approval of the form or document is, in the opinion of the director, not desirable or necessary for the protection of the public.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-120__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>This section applies to a form used by domestic insurers for delivery in a jurisdiction outside this state, if the insurance supervisory official of that jurisdiction informs the director that the form is not subject to approval or disapproval by the official, and upon the director's order requiring the form to be submitted for review and approval under this section.  The applicable same standards shall apply to these forms as apply to forms for domestic use.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-120__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>This section does not apply to a type of insurance subject to
+AS 21.57
+or to policies issued under
+AS 21.34
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-120__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>An insurer who has submitted an application for a certificate of authority under
+AS 21.09.110
+may file a proposed policy form as described in this section. The director's approval of the policy form is contingent upon the issuance of a certificate of authority under
+AS 21.09.120
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-120__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The director may adopt regulations detailing the format and content of the filing of a policy form under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-120__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The director may by order require an insurance document, form, or type of insurance document or form as specified in the order, to be submitted for prior approval if, in the opinion of the director, the approval of the insurance document, form, or type of insurance document or form is necessary for the protection of the public.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-123">
+            <num>21.42.123</num>
+            <heading>Form filing subject to prior approval.</heading>
+            <subsection eId="21-42-123__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A prior approval filing shall be made not less than 30 days before the effective date. At the end of the 30-day period, the form filed shall be considered approved unless, before the end of the 30-day period, it has been affirmatively disapproved by the director. Approval of the form by the director before the end of the 30-day period constitutes a waiver of the unexpired portion of the waiting period. The director may extend by not more than an additional 30 days the period for approving or disapproving the form, by giving notice of the extension during the initial 30-day period. At the expiration of the extended period, and in the absence of a prior approval or disapproval, the form shall be considered approved. The director may, by order, at any time after the notice, and for cause shown, withdraw the approval.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-123__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may require the insurer or rating organization to revise the filing to comply with this title. Failure of the insurer or rating organization to provide the information within 30 days after the director's request, or an extension of the period by the director for an additional 15 days upon written request of the insurer or rating organization within the response period, is considered to be a request by the insurer or rating organization to withdraw the filing from further consideration.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-123__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The filing must state an effective date. In place of a specific date, the insurer or rating organization may specify a reasonable time period after approval for the filing to be effective.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-123__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A prior approval filing shall be open to public inspection after the filing becomes effective.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-125">
+            <num>21.42.125</num>
+            <heading>Form filing subject to file and use; penalties.</heading>
+            <subsection eId="21-42-125__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A file and use filing shall be filed with the director for a waiting period of not less than 30 days. The period may be extended by the director or the insurer or rating organization for an additional 30 days if notice is given within the initial 30-day period that additional time is needed for the consideration of the filing. The filing may become effective at the end of the waiting period unless disapproved by the director before the expiration of the waiting period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-125__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The filing must state an effective date that must be after the waiting period. Upon written notice by the insurer or rating organization, the director may authorize a filing that has been reviewed to become effective before the expiration of the waiting period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-125__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A file and use form filing must include a signed compliance certificate certifying that the filing complies with this title. An authorized officer or state filings manager of the insurer shall sign the compliance certificate stating that, to the best of the individual's knowledge, the filing complies with this title. The director may issue an order requiring an insurer who submits an incomplete or inaccurate compliance certificate to submit future form filings for prior approval. The order must specify the conditions under which the insurer may again submit filings under this section. In addition to any other penalty provided by law, a person that the director finds has submitted a materially false or misleading compliance certificate may be subject to either a civil penalty of not more than $10,000 for each violation or a civil penalty of not more than $25,000 for each violation if the director finds that the person knowingly violated the provisions of this title. A filing that does not include the signed compliance certificate shall be reviewed under the prior approval procedure under
+AS 21.42.123
+. In this subsection, knowingly has the meaning given in
+AS 11.81.900
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-125__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director may require an insurer or rating organization to provide additional information to demonstrate that a file and use filing meets the requirements of this title or to revise the filing to meet the requirements of this title. If an insurer or rating organization fails to provide the information within the waiting period described in (a) of this section, the director shall consider the failure to be a request to withdraw the filing from further consideration.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-125__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A file and use filing shall be open to public inspection after the filing becomes effective.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-130">
+            <num>21.42.130</num>
+            <heading>Grounds for disapproval.</heading>
+            <content>
+              <p>Sec. 21.42.130.   Grounds for disapproval.
+The director shall disapprove a form filed under
+AS 21.42.120
+or withdraw a previous approval of the form only if the form
+(1) is in any respect in violation of or does not comply with this title;
+(2) contains or incorporates by reference, where incorporation is permissible, an inconsistent, ambiguous, or misleading clause, or exception and condition that deceptively affects the risk purported to be assumed in the general coverage of the contract;
+(3) has a title, heading, or other indication of its provisions that is misleading;
+(4) is printed or otherwise reproduced in a manner that renders a provision of the form substantially illegible;
+(5) provides benefits for Medicare supplement insurance that are unreasonable in relation to the premium charged.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-140">
+            <num>21.42.140</num>
+            <heading>Standard provisions.</heading>
+            <subsection eId="21-42-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Insurance contracts must contain the standard or uniform provisions that are required by the applicable provisions of this title pertaining to contracts of particular kinds of insurance.  The director may waive the required use of a particular provision in a particular insurance policy form on a determination that</p>
+              </content>
+              <paragraph eId="21-42-140__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the provision is unnecessary for the protection of the insured and inconsistent with the purposes of the policy; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-140__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the policy is otherwise approved.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A policy may not contain a provision inconsistent with a standard or uniform provision used or required to be used, but the director may approve a substitute provision that the director determines is not less favorable in any particular to the insured or beneficiary than the provisions otherwise required.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In lieu of the provisions required by this title for contracts for particular kinds of insurance, substantially similar provisions required by the law of the domicile of a foreign or alien insurer may be used when approved by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-140__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A provision required by this title to be contained in a policy cannot be waived by agreement between the insurer and another person.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-145">
+            <num>21.42.145</num>
+            <heading>Stop-loss insurance provisions.</heading>
+            <subsection eId="21-42-145__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An insurance company licensed under
+AS 21.09
+, a hospital or medical service corporation licensed under
+AS 21.87
+, a fraternal benefit society licensed under
+AS 21.84
+, a health maintenance organization licensed under
+AS 21.86
+, or a multiple employer welfare arrangement may not issue a stop-loss insurance policy that</p>
+              </content>
+              <paragraph eId="21-42-145__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has an annual attachment point for claims incurred for each individual that is lower than $10,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-145__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has an annual aggregate attachment point for a small employer that is lower than the greatest of
+(A) $4,000 times the number of individuals covered under the health benefit plan;
+(B) 120 percent of the expected claims for the health benefit plan for the period covered by the stop-loss insurance policy; or
+(C) $20,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-145__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>has an annual aggregate attachment point for a large employer that is lower than 110 percent of expected claims for the health benefit plan for the period covered by the stop-loss insurance policy; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-145__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>provides direct coverage of health care expenses of an individual.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-145__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may, by regulation, change the dollar amounts established under (a) of this section to reflect medical costs in this state, including adjustments to reflect changes in the medical care component of the Consumer Price Index for all urban consumers for the Anchorage Metropolitan Area compiled by the Bureau of Labor Statistics, United States Department of Labor.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-145__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For the purposes of this section,</p>
+              </content>
+              <paragraph eId="21-42-145__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>attachment point means the claim amount incurred by an insured group beyond which the insurer incurs a liability for payment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-145__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>expected claims means the amount of claims that, in absence of a stop-loss insurance policy or other insurance, are projected to be incurred by an insured group through its health benefit plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-145__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>health benefit plan has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-145__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>large employer has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-145__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>small employer has the meaning given in
+AS 21.54.500
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-150">
+            <num>21.42.150</num>
+            <heading>Policy must contain entire contract.</heading>
+            <content>
+              <p>Sec. 21.42.150.   Policy must contain entire contract.
+The policy, when issued, shall contain the entire contract between the parties, and neither the insurer nor its agent or representative, nor a person insured by the policy, may make an agreement as to the insurance that is not expressed in the policy.  This section does not prohibit the modification of a policy, after issuance, by written rider or endorsement issued by the insurer.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-160">
+            <num>21.42.160</num>
+            <heading>Contents of policies in general.</heading>
+            <subsection eId="21-42-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each policy must specify</p>
+              </content>
+              <paragraph eId="21-42-160__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the names of the parties of the contract;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-160__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the subject of the insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-160__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the risks insured against;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-160__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the time when the insurance thereunder takes effect and the period during which the insurance is to continue;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-160__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the premium;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-160__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the conditions pertaining to the insurance.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If under the policy the exact amount of premium is determinable only at stated intervals or termination of the contract, a statement of the basis and rates upon which the premium is to be determined and paid shall be included.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-160__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Subsections (a) and (b) of this section do not apply to surety contracts, or to group insurance policies.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-160__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Each policy and annuity contract issued by an insurer, and the forms thereof filed with the director, must have printed on them an appropriate designating letter or figure, or combination of letters or figures, or terms identifying the respective forms of policies or contracts. When a change is made in the form, the designating letters, figures, or terms must be correspondingly changed.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-170">
+            <num>21.42.170</num>
+            <heading>Additional policy contents.</heading>
+            <content>
+              <p>Sec. 21.42.170.   Additional policy contents.
+A policy may contain additional provisions not inconsistent with this title that are
+(1) required to be inserted by the laws of the insurer's domicile;
+(2) necessary, on account of the manner in which the insurer is constituted or operated, in order to state the rights and obligations of the parties to the contract; or
+(3) desired by the insurer and neither prohibited by law nor in conflict with any provisions required to be included in it.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-175">
+            <num>21.42.175</num>
+            <heading>Non-English translations.</heading>
+            <subsection eId="21-42-175__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director may approve an insurance policy form in a language other than English if the insurance policy form</p>
+              </content>
+              <paragraph eId="21-42-175__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is filed with a copy of the same material in English; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-175__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>discloses, in both English and the language other than English, that the English language version is the official version and the non-English language version is for informational purposes only.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-175__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The English language version of the insurance policy form or associated material shall be the official version for purposes of application and interpretation if the non-English insurance policy form or associated material</p>
+              </content>
+              <paragraph eId="21-42-175__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is provided with a copy of the same material in English; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-175__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>discloses, in both English and the language other than English, that the English language version is the official version and the non-English language version is for informational purposes only.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-175__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An insurer may not misrepresent information in an insurance policy form or associated material translated into a language other than English. For purposes of this subsection, misrepresent information means to include a statement or omit a statement when, taken in the context of the whole presentation, the statement or omission may tend to mislead or deceive the person or persons addressed.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-175__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For purposes of this section, associated material means advertising and marketing information including brochures, pamphlets, or electronic media used to describe or promote the insurance policy form.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-180">
+            <num>21.42.180</num>
+            <heading>Charter, bylaw provisions.</heading>
+            <content>
+              <p>Sec. 21.42.180.   Charter, bylaw provisions.
+A policy may not contain a provision purporting to make a portion of the charter, bylaws, or other constituent document of the insurer, other than the subscribers' agreement or power of attorney of a reciprocal insurer, a part of the contract unless the portion is set forth in full in the policy.  A policy provision in violation of this section is invalid.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-190">
+            <num>21.42.190</num>
+            <heading>Execution of policies.</heading>
+            <subsection eId="21-42-190__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each insurance policy shall be executed in the name of and on behalf of the insurer by its officer, attorney-in-fact, employee, or representative duly authorized by the insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-190__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A facsimile signature of the executing individual may be used in lieu of an original signature.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-190__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An insurance contract that is otherwise valid is not rendered invalid by reason of the apparent execution on behalf of the insurer by the imprinted facsimile signature of an individual who is not authorized to execute as of the date of the policy.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-200">
+            <num>21.42.200</num>
+            <heading>Underwriters' and combination policies.</heading>
+            <subsection eId="21-42-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Two or more authorized insurers may jointly issue, and shall be jointly and severally liable on, an underwriters' policy bearing their names.  Any one insurer may issue policies in the name of an underwriter's department and the policy must plainly show the true name of the insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Two or more insurers may, with the approval of the director, issue a combination policy which shall contain provisions substantially as follows:</p>
+              </content>
+              <paragraph eId="21-42-200__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>that the insurers executing the policy shall be severally liable for the full amount of loss or damage, according to the terms of the policy, or for specified percentages or amounts thereof, aggregating the full amount of insurance under the policy; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-200__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>that service of process, or of notice or proof of loss required by the policy, upon any of the insurers executing the policy, constitutes service upon all the insurers.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section does not apply to cosurety obligations.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-205">
+            <num>21.42.205</num>
+            <heading>Coordination of benefits.</heading>
+            <subsection eId="21-42-205__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless prohibited by federal law, an insurer authorized under
+AS 21.09
+to offer, issue for delivery, deliver, or renew an individual or group health insurance policy for major medical coverage on an expense incurred basis; a health maintenance organization authorized under
+AS 21.86
+to offer a contract to provide major medical health care services on a prepaid basis; or a service corporation authorized under
+AS 21.87
+to offer or renew an individual or group subscriber's contract for major medical coverage shall include a coordination of benefits provision in a major medical policy or contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-205__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may adopt regulations to implement this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-210">
+            <num>21.42.210</num>
+            <heading>Interest in reinsurance.</heading>
+            <content>
+              <p>Sec. 21.42.210.   Interest in reinsurance.
+The original insured has no interest in a contract of reinsurance.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-220">
+            <num>21.42.220</num>
+            <heading>Validity of noncomplying forms.</heading>
+            <content>
+              <p>Sec. 21.42.220.   Validity of noncomplying forms.
+An insurance policy, rider, or endorsement issued and otherwise valid that contains a condition or provision not in compliance with the requirements of this title, is not thereby rendered invalid but shall be construed and applied in accordance with the conditions and provisions as would have applied had the policy, rider, or endorsement been in full compliance with this title.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-230">
+            <num>21.42.230</num>
+            <heading>Construction of policies.</heading>
+            <content>
+              <p>Sec. 21.42.230.   Construction of policies.
+Each insurance contract shall be construed according to the entirety of its terms and conditions as set out in the policy and as amplified, extended, or modified by a rider, endorsement, or application that is a part of the policy.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-240">
+            <num>21.42.240</num>
+            <heading>Binders.</heading>
+            <subsection eId="21-42-240__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A binder or other contract for temporary insurance may be made orally or in writing and shall be considered to include all the usual terms of the policy as to which the binder was given together with the applicable endorsements designated in the binder, except as superseded by the clear and express terms of the binder.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-240__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A binder is not valid after the issuance of the policy with respect to which it was given, or after 90 days from its effective date, whichever period is the shortest.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-240__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the policy has not been issued a binder may be extended or renewed after the 90 days with the written approval of the insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-240__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not apply to life or health insurances.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-250">
+            <num>21.42.250</num>
+            <heading>Delivery or posting of policy; notifications.</heading>
+            <subsection eId="21-42-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An insurer shall provide a policy or endorsement to the insured or to the person entitled to it by mail or delivery or by posting on the insurer's Internet website under (c) of this section within a reasonable period of time after its issuance. The insurer is not required to mail, deliver, or post the policy or endorsement until all conditions required by the insurer have been met by the insured.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the original policy is delivered or is required to be delivered to or for deposit with a vendor, mortgagee, or pledgee of a motor vehicle or aircraft, and in which policy an interest of the vendee, mortgagor, or pledgor in or with reference to the vehicle or aircraft is insured, a duplicate of the policy setting out the name and address of the insurer, insurance classification of vehicle or aircraft, type of coverage, limits of liability, premiums for the respective coverages, and duration of the policy or memorandum thereof containing the same information, shall be delivered by the vendor, mortgagee, or pledgee to each vendee, mortgagor, or pledgor named in the policy or coming within the group of persons designated in the policy to be included.  If the policy does not provide coverage of legal liability for injury to persons or damage to the property of third parties, a statement of the facts shall be printed, written, or stamped conspicuously on the face of the duplicate policy or memorandum.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-250__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An insurer may provide an insurance policy or endorsement by posting the policy or endorsement on the insurer's Internet website and clearly identifying the posted policy or endorsement purchased by the insured in the declaration page provided to the insured. An insurance policy or endorsement posted under this subsection</p>
+              </content>
+              <paragraph eId="21-42-250__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>must contain the standard or uniform provisions required by
+AS 21.42.140
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-250__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>must be in a form approved by the director under
+AS 21.42.120
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-250__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>must be posted in a manner that reasonably allows the insured to retrieve and print or save the policy or endorsement from the website without paying a fee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-250__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>must remain posted on the insurer's Internet website during the time that the policy or endorsement is in effect, be retained by the insurer for not less than three years after the policy or endorsement is no longer in effect, and be made available to the insured on request; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-250__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>may not include personally identifiable information.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-250__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The insurer shall notify the insured at the time of issuance or renewal of the method by which the insured may request and the insurer shall provide a paper or electronic copy of the insured's policy or endorsement without the insured paying a fee.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-250__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the policy or endorsement change or the means of obtaining policy information from the insurer's Internet website changes, the insurer shall notify the insured in the manner the insurer customarily communicates with an insured.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-260">
+            <num>21.42.260</num>
+            <heading>Renewal by certificate.</heading>
+            <content>
+              <p>Sec. 21.42.260.   Renewal by certificate.
+An insurance policy terminating by its terms at a specified expiration date and not otherwise renewable, may be renewed or extended at the option of the insurer upon a currently authorized policy form and at the premium rate then required for the policy, for a specific additional period or periods by certificate or by endorsement of the policy, without requiring the issuance of a new policy.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-265">
+            <num>21.42.265</num>
+            <heading>Effective date of coverage.</heading>
+            <content>
+              <p>Sec. 21.42.265.   Effective date of coverage.
+Unless otherwise provided by law, the effective date of a change relating to coverage under an insurance contract as a result of a change to this title is the issue date for a new policy or the renewal date for a renewal policy.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-270">
+            <num>21.42.270</num>
+            <heading>Assignment of policies.</heading>
+            <content>
+              <p>Sec. 21.42.270.   Assignment of policies.
+A policy may be assignable or nonassignable, depending upon its terms. Subject to its terms relating to its assignability, a life, group life, or health insurance policy, whether issued before or after July 1, 1966, under the terms of which the beneficiary may be changed upon the sole request of the insured, may be assigned either by pledge or transfer of title by an assignment executed by the insured alone and delivered to the insurer, whether or not the pledgee or assignee is the insurer. The assignment entitles the insurer to deal with the assignee as the owner or pledgee of the policy in accordance with the terms of the assignment until the insurer has received at its home office written notice of termination of the assignment or pledge, or written notice by or on behalf of some other person claiming an interest in the policy that is in conflict with the assignment.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-280">
+            <num>21.42.280</num>
+            <heading>Payment discharges insurer.</heading>
+            <content>
+              <p>Sec. 21.42.280.   Payment discharges insurer.
+When the proceeds of or payments under a life or health insurance policy or annuity contract, whether issued before or after July 1, 1966, become payable in accordance with the terms of the policy or contract, or the exercise of a right or privilege under the policy or contract and the insurer makes payment in accordance with the terms of the policy or contract or in accordance with a written assignment, the person then designated under the policy as being entitled to the proceeds or payments shall be entitled to receive the proceeds or payments and to give full acquittance for them. The payments shall fully discharge the insurer from all claims under the policy or contract unless, before payment is made, the insurer has received at its home office written notice by or on behalf of another person that the other person claims to be entitled to the payment or some interest in the policy or contract.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-290">
+            <num>21.42.290</num>
+            <heading>Minor may give acquittance.</heading>
+            <subsection eId="21-42-290__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A minor domiciled in this state who has attained the age of 16 years shall be considered competent to receive and to give full acquittance and discharge for a payment or payments in aggregate amount not exceeding $3,000 in any one year made by a life insurer under the maturity, death, or settlement agreement provisions in effect or elected by the minor under a life insurance policy or annuity contract, if the policy, contract, or agreement provides for the payment or payments to the minor, and if before the payment the insurer has not received written notice of the appointment of a duly qualified guardian of the property of the minor.  A minor is not competent to alienate to the right to or to anticipate the payments.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-290__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not require an insurer to determine whether another insurer is effecting a similar payment to the same minor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-300">
+            <num>21.42.300</num>
+            <heading>Forms for proof of loss to be furnished.</heading>
+            <content>
+              <p>Sec. 21.42.300.   Forms for proof of loss to be furnished.
+An insurer shall furnish, upon written request of the person claiming to have a loss under an insurance contract issued by the insurer, forms of proof of loss for completion by the person, but the insurer is not, by reason of the requirement to furnish forms, responsible for or with reference to the completion of the proof or the manner of the completion or attempted completion.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-310">
+            <num>21.42.310</num>
+            <heading>Claims administration not waiver.</heading>
+            <content>
+              <p>Sec. 21.42.310.   Claims administration not waiver.
+Without limitation of a right or defense of an insurer otherwise, none of the following acts by or on behalf of an insurer constitute a waiver of a provision of a policy or of a defense of the insurer thereunder:
+(1) acknowledgment of the receipt of notice of loss or claim under the policy;
+(2) furnishing forms for reporting a loss or claim, for giving information relative to it, or for making proof of loss, or receiving or acknowledging receipt of forms or proofs completed or uncompleted;
+(3) investigating a loss or claim under a policy or engaging in negotiations for a possible settlement of the loss or claim.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-315">
+            <num>21.42.315</num>
+            <heading>Separate accounts.</heading>
+            <subsection eId="21-42-315__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A domestic life insurance company may establish one or more separate accounts, and may allocate to an account amounts, including proceeds applied under optional methods of settlement or under divided options, to provide for life insurance or annuities and benefits incidental to the account, payable in fixed or variable amounts or both.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-315__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The income, gains, and losses, realized or unrealized, from assets allocated to a separate account shall be credited to or charged against the account, without regard to other income, gains, or losses of the company.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-315__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as may be provided for reserves for guaranteed benefits and funds referred to in (d) of this section, amounts allocated to a separate account and accumulations to it may be invested and reinvested in securities eligible for investment for life insurance companies without regard to quantitative investment limitations prescribed by law for life insurance companies.  The investments from separate accounts may not be considered in applying the investment limitations otherwise applicable to the investments of the company.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-315__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Reserves for benefits guaranteed as to dollar amount and duration and for funds guaranteed as to principal amount or stated rate of interest may not be maintained in a separate account, unless approved by the director and in accordance with conditions as to investments and other matters prescribed by the director.  In imposing conditions, the director shall take into consideration the guaranteed nature of the benefits provided.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-315__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Unless otherwise approved by the director,</p>
+              </content>
+              <paragraph eId="21-42-315__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>assets allocated to a separate account shall be valued at their market value on the date of valuation, or if there is no readily available market, then as provided under the terms of the contract or the rules or other written agreement applicable to a separate account; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-315__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the portion of the assets of a separate account equal to the company's reserve liability for the guaranteed benefits and funds referred to in (d) of this section shall be valued under the rules applicable to the valuation of the company's other assets.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-315__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Amounts allocated to a separate account as provided in this section shall be owned by the company, and the company may not be, nor hold itself out to be, a trustee for those amounts. If the applicable contracts so provide, that portion of the assets of a separate account equal to the reserves and other contract liabilities of that account may not be chargeable with liabilities arising out of any other business the company may conduct.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-315__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A sale, exchange, or other transfer of assets may not be made by a company among its separate accounts or between other investment accounts and one or more of its separate accounts, unless, in the case of a transfer into a separate account, the transfer is made solely to establish the account or to support the operation of the contracts of the separate account to which the transfer is made, and unless the transfer, whether into or from a separate account, is made (1) by a transfer of cash, or (2) by a transfer of securities having a readily determinable market value, unless the transfer of securities is approved by the director.  The director may approve other transfers among these accounts if the transfers would be equitable.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-315__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>To the extent the company considers it necessary in order to comply with applicable federal or state laws, the company may give persons having an interest in a separate account, including a separate account that is a management investment company or a unit investment trust, appropriate voting and other rights and may adopt special procedures for the conduct of the business of the account which include special rights and procedures relating to investment policy, investment advisory services, selection of independent public accountants, and the selection of a committee, the members of which need not be otherwise affiliated with the company, to manage the business of the account.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-315__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A contract providing benefits payable in variable amounts delivered or issued for delivery in this state must contain a statement of the essential features of the procedures to be followed by the insurance company in determining the dollar amount of the variable benefits.  A contract under which the benefits vary to reflect investment experience, including a group contract and certificate in evidence of variable benefits issued under it, must state that the dollar benefit amount will vary and must contain on its first page a statement that the benefits under it are on a variable basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-315__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>A company may not deliver or issue for delivery in this state variable contracts unless it is licensed or organized to undertake a life insurance or annuity business in this state. The director may review the company's financial condition or method of operation for the issuance of contracts payable in variable amounts to determine whether the company's operation is hazardous to the public or its policyholders in this state. During the review the director shall consider (1) the history and financial condition of the company; (2) the character, responsibility, and fitness of the officers and directors of the company; and (3) the laws and regulations under which the company is authorized in the state of domicile to issue variable contracts.  If the company is a subsidiary of an admitted life insurance company, or affiliated with an admitted company through common management or ownership, the director may consider that the company meets the provisions of this subsection if either it or the parent or the affiliated company meets the requirements of this subsection.  If the company fails to meet the requirements contained in this subsection, the director may suspend the certificate of authority of the company until the requirements are met or may prohibit the further issuance of variable contracts.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-315__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The director has sole authority to regulate the issuance and sale of variable contracts, to examine and license agents to sell variable contracts, and to adopt regulations considered appropriate to carry out the purposes and provisions of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-315__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Except for
+AS 21.45.030
+, 21.45.080, 21.45.110, 21.45.180, 21.45.230, 21.45.240, 21.45.290, 21.45.300, and
+AS 21.48.110
+, and except as otherwise provided in this section, the provisions of this title apply to separate accounts and contracts relating to them.  An individual variable life insurance contract delivered or issued for delivery in the state must contain grace reinstatement and nonforfeiture provisions appropriate to that contract.  An individual variable annuity contract delivered or issued for delivery in the state must contain grace and reinstatement provisions appropriate for that contract.  A group variable life insurance contract delivered or issued for delivery in the state must contain a grace provision appropriate for that contract.  The reserve liability for variable contracts shall be established in accordance with actuarial procedures, acceptable to the director, that recognize the variable nature of the benefits provided and any mortality guarantees.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-345">
+            <num>21.42.345</num>
+            <heading>Required provision for coverage of dependents.</heading>
+            <subsection eId="21-42-345__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurance plan providing coverage for a dependent of a covered individual shall, as to the dependent's coverage, also provide that the health care insurance benefits applicable for dependents shall be payable with respect to</p>
+              </content>
+              <paragraph eId="21-42-345__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a newly born child of a covered individual from the moment of birth;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-345__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a child adopted by a covered individual from the date of adoption;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-345__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a child placed with a covered individual for adoption from the date of placement for adoption; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-345__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a spouse from not later than the first day of the first month beginning after the date the request for enrollment is received, but the insurer may require that a request for enrollment be received within 31 days of the date of marriage.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-345__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The coverage for a newly born child under this section shall consist of coverage of injury or sickness, including the necessary care and treatment of medically diagnosed congenital defects and birth abnormalities.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-345__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If payment of a specific charge is required to provide coverage for a child under this section, the policy or contract may require that notification of birth of a newly born child, adopted child, or child placed for adoption and payment of the required premium or fees may be required to be furnished to the health care insurer within 31 days after the date of birth, adoption, or placement for adoption in order to have the coverage continue beyond the 31-day period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-345__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Under (a)  (c) of this section, a health care insurer shall offer coverage for a family member, including a newly born child, adopted child, or child placed for adoption, regardless of the marital status of the covered individual.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-347">
+            <num>21.42.347</num>
+            <heading>Coverage for costs of birth.</heading>
+            <subsection eId="21-42-347__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurer who provides coverage for the costs of childbirth shall also provide coverage for the costs of hospitalization or medical care following childbirth for a period of not less than</p>
+              </content>
+              <paragraph eId="21-42-347__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>48 hours after a vaginal birth; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-347__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>96 hours after a caesarean birth.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-347__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise required to provide coverage specified under (a) of this section, this section does not affect a payment arrangement entered into between a hospital or health care provider and a health care insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-347__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section may not be construed to require hospitalization or medical care as described under (a)(1) or (2) of this section if the mother giving birth and the mother's health care provider agree that the mother and any newborn child of the mother should be discharged earlier than required under (a)(1) or (2) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-347__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-42-347__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>health care insurer has the meaning given in
+AS 21.54.500
+; health care insurer includes the Comprehensive Health Insurance Association as described in
+AS 21.55.010
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-347__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>health care provider means a person licensed in this state to provide health care services.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-349">
+            <num>21.42.349</num>
+            <heading>Coverage for newborn and infant hearing screening.</heading>
+            <subsection eId="21-42-349__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a fraternal benefit society, a health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan shall provide coverage for newborn and infant hearing screening under the schedule described in (b) of this section if the plan covers services provided to women during pregnancy and childbirth and the dependents of a covered individual.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-349__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The minimum coverage required under (a) of this section includes</p>
+              </content>
+              <paragraph eId="21-42-349__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a newborn or infant hearing screening to be performed within 30 days after the child's birth; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-349__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the initial screening under (1) of this subsection determines that the child may have a hearing impairment, a confirmatory hearing diagnostic evaluation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-349__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The coverage required by this section may be subject to standard policy provisions that are applicable to other benefits, such as deductible or copayment provisions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-351">
+            <num>21.42.351</num>
+            <heading>Coverage for well-baby exams.</heading>
+            <subsection eId="21-42-351__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurer that offers health care insurance that covers a dependent of a covered individual shall, initially and at each renewal, offer coverage for the cost of well-baby exams. The coverage required to be offered by this section is subject to standard policy provisions applicable to other benefits, including deductible or copayment provisions.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-351__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-42-351__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>health care insurer has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-351__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>health care professional means a health aide, physician, nurse, and physician assistant, but does not include a practitioner of religious healing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-351__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>well-baby exam means
+(A) a periodic physical examination by a qualified health care professional of a baby during the first 24 months of life in which information is collected on matters including normal development, growth rate, hearing, vision, language skills, motor development, diet, general care, preventative health care, immunizations, and infectious diseases; and
+(B) consultation between the health care professional and a parent.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-353">
+            <num>21.42.353</num>
+            <heading>Coverage for the costs of acupuncture treatment.</heading>
+            <content>
+              <p>Sec. 21.42.353.   Coverage for the costs of acupuncture treatment.
+Except for a fraternal benefit society, a health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan may offer coverage for services of an acupuncturist licensed under
+AS 08.06
+if the plan covers acupuncture treatment by a health care provider who is subject to other provisions of
+AS 08
+.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-355">
+            <num>21.42.355</num>
+            <heading>Coverage for cost of services provided by certified nurse midwives.</heading>
+            <subsection eId="21-42-355__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a health care insurance plan or an excepted benefits policy or contract provides indemnity for the cost of services of a physician provided to women during pregnancy, childbirth, and the period after childbirth, indemnity in a reasonable amount shall also be provided for the cost of an advanced practice registered nurse who provides the same services. Indemnity may be provided under this subsection only if the advanced practice registered nurse is practicing as a certified nurse midwife in accordance with regulations adopted under
+AS 08.68.100
+(a), and the services provided are within the scope of practice of that certification.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-355__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a health care insurance plan or an excepted benefits policy or contract provides for furnishing those services required of a physician in the care of women during pregnancy, childbirth, and the period after childbirth, the contract shall also provide that an advanced practice registered nurse may furnish those same services instead of a physician. Services may be provided under this subsection only if the advanced practice registered nurse is practicing as a certified nurse midwife in accordance with regulations adopted under
+AS 08.68.100
+(a), and the services provided are within the scope of practice of that certification.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-363">
+            <num>21.42.363</num>
+            <heading>Eye care under health insurance.</heading>
+            <content>
+              <p>Sec. 21.42.363.   Eye care under health insurance.
+A policy, contract, or prepaid plan for individual or group health insurance issued or delivered in the state that provides reimbursement for a service within the lawful scope of practice of an optometrist licensed under
+AS 08.72
+must provide for reimbursement to a person covered under the policy, contract, or plan who had the service performed by an optometrist.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-365">
+            <num>21.42.365</num>
+            <heading>Coverage for treatment of alcoholism or drug abuse.</heading>
+            <subsection eId="21-42-365__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a fraternal benefit society, a health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan providing coverage for five or more employees of an employer in the group market shall offer a covered employee or the employee's dependent coverage for the treatment of alcoholism or drug abuse.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-365__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, alcoholism or drug abuse means an illness characterized by</p>
+              </content>
+              <paragraph eId="21-42-365__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a physiological or psychological dependency, or both, on alcoholic beverages or controlled substances as defined in
+AS 11.71.900
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-365__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>habitual lack of self-control in using alcoholic beverages or controlled substances to the extent that the person's health is substantially impaired or the person's social or economic function is substantially disrupted.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-375">
+            <num>21.42.375</num>
+            <heading>Coverage for mammograms.</heading>
+            <subsection eId="21-42-375__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a fraternal benefit society, a health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan shall provide coverage for low-dose mammography screening under the schedule described in (b) of this section if the plan covers mastectomies and prosthetic devices and reconstructive surgery incident to mastectomies.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-375__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The minimum coverage required under (a) of this section includes</p>
+              </content>
+              <paragraph eId="21-42-375__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a baseline mammogram for a covered individual who is at least 35 years of age but less than 40 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-375__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>one mammogram every two years for a covered individual who is at least 40 years of age but less than 50 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-375__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an annual mammogram for a covered individual who is at least 50 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-375__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a mammogram at any age for a covered individual with a history of breast cancer or whose parent or sibling has a history of breast cancer, upon referral by a physician.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-375__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The coverage required by this section</p>
+              </content>
+              <paragraph eId="21-42-375__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>must be included in the health care insurance plan on a basis that is not less favorable than for other radiological examinations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-375__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may be subject to standard policy provisions applicable to other benefits, such as deductible or copayment provisions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-375__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 115 ch 81 SLA 1997.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-375__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-42-375__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>diagnostic breast examination means an examination of the breast using contrast-enhanced mammography, diagnostic mammography, breast magnetic resonance imaging, breast ultrasound, or other equipment dedicated specifically for mammography conducted to evaluate an abnormality
+(A)  detected or suspected in a screening examination for breast cancer; or
+(B)  detected by another means of examination;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-375__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>low-dose mammography screening and mammogram mean the X-ray examination of the breast using equipment dedicated specifically for mammography, including the X-ray tube, filter, compression device, screens, films, and cassettes, with an average radiation exposure delivery of less than one rad mid-breast, with two views for each breast;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-375__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>supplemental breast examination means an examination of the breast using contrast-enhanced mammography, diagnostic mammography, breast magnetic resonance imaging, breast ultrasound, or other equipment dedicated specifically for mammography conducted based on
+(A)  the insured's personal or family medical history of breast cancer; or
+(B)  other factors that may increase the insured's risk of breast cancer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-375__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Except as necessary to qualify a plan as a high deductible health plan eligible for a health savings account tax deduction under 26 U.S.C. 223 (Internal Revenue Code), a health care insurer that offers, issues, delivers, or renews a health care insurance plan in the individual or group market in the state that provides coverage for mammography screening, diagnostic breast examinations, and supplemental breast examinations may not impose cost sharing, a deductible, coinsurance, a copayment obligation, or another similar out-of-pocket expense on an insured for coverage of a low-dose mammography screening, diagnostic breast examination, or supplemental breast examination.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-377">
+            <num>21.42.377</num>
+            <heading>Coverage for colorectal cancer screening.</heading>
+            <subsection eId="21-42-377__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a fraternal benefit society, a health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan shall provide coverage for the costs of colorectal cancer screening examinations and laboratory tests under the schedule described in (b) of this section. The coverage required by this section is subject to standard policy provisions applicable to other benefits, including deductible or copayment provisions.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-377__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The minimum coverage required under (a) of this section for colorectal cancer screening includes coverage for colorectal cancer examinations and laboratory tests specified in American Cancer Society guidelines for colorectal cancer screening of asymptomatic individuals. Coverage shall be provided for all colorectal screening examinations and tests that are administered at a frequency identified in the American Cancer Society guidelines for colorectal cancer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-377__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Coverage provided under this section applies to a covered individual who is</p>
+              </content>
+              <paragraph eId="21-42-377__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>at least 50 years of age; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-377__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>less than 50 years of age and at high risk for colorectal cancer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-377__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>All screening options identified in (b) of this section shall be covered by the insurer, with the choice of option determined by the covered individual in consultation with a health care provider.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-377__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For individuals considered at average risk for colorectal cancer, coverage or benefits shall be provided for the choice of screening, so long as it is conducted in accordance with the specified frequency. For individuals considered at high risk for colorectal cancer, screening shall be provided at a frequency determined necessary by a health care provider.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-377__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An employer that provides a health care insurance plan under this section shall notify each covered individual of the coverage for colorectal cancer screenings unless coverage for colorectal cancer screening previously exists. The notice shall be included in the health benefit handbook or be provided by written or electronic communication between an employer or health plan administrator and a covered individual. However, if the covered individual purchases the health care insurance plan from the insurer issuing the policy, the insurer is responsible for notifying the covered individual of the coverage for colorectal cancer screening under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-377__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In this section, individual considered at high risk for colorectal cancer means an individual who faces a high risk for colorectal cancer because of</p>
+              </content>
+              <paragraph eId="21-42-377__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>family history;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-377__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>prior experience of cancer or precursor neoplastic polyps;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-377__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a history of a chronic digestive disease condition, including inflammatory bowel disease, Crohn's Disease, or ulcerative colitis;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-377__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the presence of any appropriate recognized gene markers for colorectal cancer; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-377__subsec_g__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>other predisposing factors.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-380">
+            <num>21.42.380</num>
+            <heading>Coverage for treatment of phenylketonuria.</heading>
+            <subsection eId="21-42-380__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a fraternal benefit society, a health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan shall provide coverage under the plan for the formulas necessary for the treatment of phenylketonuria. This subsection does not apply to a health care insurance plan that the director has determined by order should be excluded from this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-380__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A health care insurer providing coverage under this section may impose reasonable contract limitations but may not refuse coverage based on a preexisting condition of phenylketonuria or require that an individual covered under the plan pay a higher deductible or copayment for the cost of treating phenylketonuria than for the cost of treating another condition or illness.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-380__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, cost means the lowest of the following:</p>
+              </content>
+              <paragraph eId="21-42-380__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the actual charge for the treatment received for phenylketonuria;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-380__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the usual, customary, and reasonable charge for the treatment as determined by the contract of coverage; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-380__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the charge agreed to by contract between the treatment provider and the health care insurer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-385">
+            <num>21.42.385</num>
+            <heading>Dental, vision, and hearing coverage.</heading>
+            <subsection eId="21-42-385__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a fraternal benefit society, a health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan, including a Medicare supplement policy to the extent not prohibited by 42 U.S.C. 1395 (Social Security Act), shall offer to each plan sponsor or individual minimum dental, vision, and hearing coverage described in (b) of this section. Coverage required under this subsection may be offered as a rider or in a separate policy.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-385__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The minimum coverage required under (a) of this section</p>
+              </content>
+              <paragraph eId="21-42-385__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may be provided under contract with another health care insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-385__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may not be less than the dental, vision, and hearing coverage provided on July 1, 2009, to an individual entitled to medical benefits under
+AS 39.35.535
+(public employees' retirement system of Alaska); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-385__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>shall be adjusted by the director on July 1, 2012, and every three years thereafter to correspond to changes in coverage provided to individuals entitled to medical benefits under
+AS 39.35.535
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-385__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section does not apply to a health care insurer that has written less than $300,000 in premiums in the previous calendar year. A health care insurer exempt under this subsection shall disclose the exemption when offering, issuing for delivery, delivering, or renewing a health care insurance plan or an excepted benefits contract, and shall advise the individual covered under the plan that health care insurers that have written more than $300,000 in premiums in the previous calendar year are required to offer coverage under (a) and (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-385__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not require an insurer who offers only group insurance coverage under
+AS 21.54
+to offer dental, vision, and hearing coverage to an individual.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-390">
+            <num>21.42.390</num>
+            <heading>Coverage for treatment of diabetes.</heading>
+            <subsection eId="21-42-390__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurer that offers in this state a health care insurance plan that includes coverage for pharmacy services shall initially and at each renewal provide coverage for the cost of treating diabetes, including medication, equipment, and supplies. All health care insurance plans must include coverage for outpatient self-management training or education, and medical nutrition therapy, if diabetes treatment is prescribed by a health care provider. The coverage required by this section is subject to standard policy provisions applicable to other benefits, including deductible or copayment provisions. Coverage for the cost of diabetes outpatient self-management training or education and for the cost of medical nutrition therapy is only required if provided by a health care provider with training in the treatment of diabetes.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-390__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 2 ch 23 SLA 2000.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-390__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-42-390__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>diabetes includes insulin-dependent diabetes, insulin-using diabetes, gestational diabetes, and non-insulin-using diabetes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-390__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>health care provider means a person licensed to provide health care services as required by the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-392">
+            <num>21.42.392</num>
+            <heading>Requirements relating to dental care coverage provisions.</heading>
+            <subsection eId="21-42-392__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurer who provides coverage for dental care may not include in the health care insurance plan or contract a provision that</p>
+              </content>
+              <paragraph eId="21-42-392__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>prohibits a covered person from obtaining dental care services from a dentist of the person's choice, including a specialist;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-392__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>restricts a covered person's right to receive full information from the person's dentist regarding the care or treatment options that the dentist believes are in the best interests of the person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-392__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A health care insurance plan or contract that provides coverage for dental services that allows the health care insurer to review a treatment plan or conduct a utilization review must contain a provision that a treatment plan review or utilization review relating to dental care for a covered person receiving treatment in this state must be conducted by a dentist if the claim for reimbursement or payment is denied.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-392__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A health care insurer that provides coverage for dental care</p>
+              </content>
+              <paragraph eId="21-42-392__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may reimburse a covered person at a different rate because of the person's choice of a dentist if the dentist is not a part of the covered person's dental network or preferred provider organization agreement; the covered expense for non-network providers may not be less than that allowed to a network provider, although the covered expense may be reimbursed at a lower percentage or with higher deductibles than if the service had been provided within the network;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-392__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may not limit a fee set by a dentist for a service unless the service is covered under the insurer's plan or contract; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-392__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>may offer a dentist the option of entering into a preferred provider contract with the insurer that provides a fee schedule for covered services only or a fee schedule for both covered and uncovered services; under this paragraph,
+(A) the health care insurer may not</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-392__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>take an action against the dentist based on the dentist's refusal to enter into a contract with an insurer;
+(ii) fail to list a dentist who does not enter into a contract with an insurer in the insurer's marketing materials; or
+(iii) take action against the dentist during the management or administration of a contract based on the dentist's choice of contract;
+(B) the terms or provisions of the contract</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-392__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>may not violate
+AS 45.50.562
+ 45.50.566; and
+(ii) may authorize the insurer to provide information to the insured describing the dentist's choice of contract and fee schedules;
+(C) covered service means a health care service for which a health care insurer pays a benefit for all or part of the service, including a benefit that is available but limited by deductible, coinsurance, or frequency terms under the contract between the insurer and the insured.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-392__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A health care insurer may not deny</p>
+              </content>
+              <paragraph eId="21-42-392__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>dental coverage, cancel a health care insurance plan or contract, or otherwise take action against a covered person or a dentist because the person has asserted a right described in this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-392__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>dental coverage or eligibility for dental coverage because the covered person chooses a dentist outside of a preferred provider organization agreement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-392__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A covered person may bring a civil action against a health care insurer to enforce the person's rights under this section if the covered person has exhausted the administrative appeal process.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-392__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A dentist who treats a covered person may not waive uncovered dental expenses for which the covered person has liability because a covered person chose the dentist outside of a dental network or a preferred provider organization agreement.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-392__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-42-392__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>covered expense means charges that are payable under plan provisions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-392__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>dentist means a person licensed to practice dentistry;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-392__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>preferred provider means a dental provider who has signed an agreement with a dental care plan to provide services to plan participants at a specific rate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-395">
+            <num>21.42.395</num>
+            <heading>Coverage for prostate and cervical cancer detection.</heading>
+            <subsection eId="21-42-395__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a fraternal benefit society, a health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan shall provide coverage for the costs of prostate cancer screening tests as required under the schedule described in (b) of this section and shall provide coverage for the costs of cervical cancer screening tests as required under (c) of this section. The coverage required by this section is subject to standard policy provisions applicable to other benefits, including deductible or copayment provisions. If a physician recommends that a covered individual undergo prostate cancer screening by taking a prostate antigen blood test, coverage may not be denied because the covered individual has already had a digital rectal examination and the examination results were negative.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-395__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The minimum coverage required under (a) of this section includes an annual prostate cancer screening test for a person who is</p>
+              </content>
+              <paragraph eId="21-42-395__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>at least 35 years of age but less than 40 years of age and the person is in a high risk group; in this paragraph, high risk means a person who is an African-American or who has a family history of prostate cancer; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-395__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>40 or more years of age.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-395__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The minimum coverage required under (a) of this section for cervical cancer screening is an annual pap smear cancer screening test for a person who is 18 or more years of age.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-395__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 115 ch 81 SLA 1997.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-395__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section, prostate cancer screening tests includes a prostate antigen blood test or another test that is equivalent or better in cancer detection.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-397">
+            <num>21.42.397</num>
+            <heading>Coverage for autism spectrum disorders.</heading>
+            <subsection eId="21-42-397__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a fraternal benefit society, a health care insurer that offers, issues for delivery, delivers, or renews a health care insurance plan in this state shall provide coverage for the costs of the diagnosis and treatment of autism spectrum disorders. Coverage required by this subsection must include treatment prescribed by a licensed physician, psychologist, or advanced practice registered nurse, provided by or supervised by an autism service provider, and as identified in a treatment plan developed following a comprehensive evaluation. Covered treatment includes medically necessary pharmacy care, psychiatric care, psychological care, habilitative or rehabilitative care, and therapeutic care. In this subsection,</p>
+              </content>
+              <paragraph eId="21-42-397__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>habilitative or rehabilitative care means professional counseling, guidance services, and treatment programs necessary to develop, restore, or maintain the functioning of an individual to the maximum extent practicable, including applied behavior analysis or other structured behavioral therapies; in this paragraph, applied behavior analysis means the design, implementation, and evaluation of environmental modifications, using behavioral stimuli and consequences, including direct observation, measurement, and functional analysis of the relationship between environment and behavior, to produce socially significant improvement in human behavior or to prevent the loss of an attained skill or function;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-397__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>therapeutic care means services provided by or under the supervision of a speech-language pathologist licensed under
+AS 08.11
+or an occupational therapist or physical therapist licensed under
+AS 08.84
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-397__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Coverage under this section</p>
+              </content>
+              <paragraph eId="21-42-397__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is required to be provided only to individuals under 21 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-397__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may not limit the number of visits to an autism service provider for treatment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-397__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>is subject to copayment, deductible, and coinsurance provisions, and other general exclusions or limitations included in a health insurance policy to the same extent as other health care services covered by the policy; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-397__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>must cover medically necessary treatment that is coordinated with an education program, but may not be contingent on the coordination of treatment with an education program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-397__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An insurer providing health care insurance to a small employer in the group market with 20 or fewer employees is not required to provide insurance coverage to the small employer that includes the coverage required under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-397__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director may waive the coverage required in this section for an insurer providing health care insurance to a small employer in the group market with 21  25 employees if the small employer demonstrates to the director by actual claims experience over any consecutive 12-month period that compliance with this section has increased the premium cost of the small employer's health insurance policy by three percent or more during the consecutive 12-month period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-397__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>This section does not limit benefits that are otherwise available to an individual under a health care insurance plan.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-397__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A health care insurer may not refuse to deliver, execute, issue, amend, or renew coverage to an individual or terminate coverage because the individual is diagnosed with or has received treatment for autism spectrum disorders.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-397__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-42-397__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>autism service provider means an individual who is licensed, certified, or registered by the applicable state licensing board or by a nationally recognized certifying organization and who provides direct services to an individual with an autism spectrum disorder;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-397__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>autism spectrum disorders means pervasive developmental disorders, or a group of conditions having substantially the same characteristics as pervasive developmental disorders, as defined in the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders-IV-TR, as amended or reissued from time to time;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-397__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>health care insurance plan has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-397__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>health care insurer has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-397__subsec_g__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>medically necessary means any care, treatment, intervention, service, or item prescribed by a licensed physician, psychologist, or advanced practice registered nurse in accordance with accepted standards of practice that will, or is reasonably expected to,
+(A) prevent the onset of an illness, condition, injury, or disability;
+(B) reduce or ameliorate the physical, mental, or developmental effects of an illness, condition, injury, or disability;
+(C) assist to achieve or maintain maximum functional capacity in performing daily activities, taking into account both the functional capacity of the individual and the functional capacity of other persons of the individual's age.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-400">
+            <num>21.42.400</num>
+            <heading>Coverage for reconstructive surgery following mastectomy.</heading>
+            <content>
+              <p>Sec. 21.42.400.   Coverage for reconstructive surgery following mastectomy.
+A health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan providing medical and surgical benefits for mastectomies shall comply with 42 U.S.C. 300gg-6 and 42 U.S.C. 300gg-52 regarding coverage for reconstructive surgery following mastectomies.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-405">
+            <num>21.42.405</num>
+            <heading>High deductible health plan.</heading>
+            <subsection eId="21-42-405__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurer that offers, issues, delivers, or renews a health care insurance plan in this state may apply deductible or copayment requirements to health care benefits and services that qualify the health care insurance plan as a high deductible health plan.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-405__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, high deductible health plan has the meaning given in 26 U.S.C. 223 (Internal Revenue Code).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-410">
+            <num>21.42.410</num>
+            <heading>Coverage of dependent students on medically necessary leaves of absence.</heading>
+            <content>
+              <p>Sec. 21.42.410.   Coverage of dependent students on medically necessary leaves of absence.
+A health care insurer that offers a health care insurance plan in the individual or group market shall comply with the coverage requirements for dependent students on medically necessary leaves of absence under 42 U.S.C. 300gg-54.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-415">
+            <num>21.42.415</num>
+            <heading>Coverage for clinical trials related to cancer.</heading>
+            <subsection eId="21-42-415__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurer that offers, issues for delivery, delivers, or renews a health care insurance plan in the state shall cover routine patient care costs incurred by a patient enrolled in an approved clinical trial related to cancer, including leukemia, lymphoma, and bone marrow stem cell disorders.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-415__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The health care insurer is required to provide coverage under this section only if the patient's treating physician determines that</p>
+              </content>
+              <paragraph eId="21-42-415__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>there is no clearly superior noninvestigational treatment alternative; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>available clinical or preclinical data provide a reasonable expectation that the treatment provided in the clinical trial will be at least as efficacious as any noninvestigational alternative.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-415__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The coverage to be provided under (a) of this section must include payment for the costs of</p>
+              </content>
+              <paragraph eId="21-42-415__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>prevention, diagnosis, treatment, and palliative care of cancer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>medical care for an approved clinical trial related to cancer that would otherwise be covered under a health care insurance plan if the medical care were not in connection with an approved clinical trial related to cancer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>items or services necessary to provide an investigational item or service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the diagnosis or treatment of complications;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a drug or device approved by the United States Food and Drug Administration without regard to whether the United States Food and Drug Administration approved the drug or device for use in treating a patient's particular condition, but only to the extent that the drug or device is not paid for by the manufacturer, distributor, or provider of the drug or device;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>services necessary to administer a drug or device under evaluation in the clinical trial; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>transportation for the patient that is primarily for and essential to the medical care.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-415__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The coverage to be provided under (a) of this section may not include the cost of</p>
+              </content>
+              <paragraph eId="21-42-415__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a drug or device that is associated with the clinical trial that has not been approved by the United States Food and Drug Administration;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>housing, companion expenses, or other nonclinical expenses associated with the clinical trial;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an item or service provided solely to satisfy data collection and analysis and not used in the clinical management of the patient;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>an item or service excluded from coverage under the patient's health care insurance plan; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>an item or service paid for or customarily paid for through grants or other funding.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-415__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The coverage required by this section is subject to the standard policy provisions applicable to other benefits, including deductible, coinsurance, or copayment provisions.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-415__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>This section does not apply to a fraternal benefit society.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-415__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In this section, approved clinical trial means a scientific study using human subjects designed to test and improve prevention, diagnosis, treatment, or palliative care of cancer, or the safety and effectiveness of a drug, device, or procedure used in the prevention, diagnosis, treatment, or palliative care of a subject, if the study is approved by</p>
+              </content>
+              <paragraph eId="21-42-415__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an institutional review board that complies with 45 C.F.R. Part 46; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-415__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>one or more of the following:
+(A) the United States Department of Health and Human Services, National Institutes of Health, or its institutes or centers;
+(B) the United States Department of Health and Human Services, United States Food and Drug Administration;
+(C) the United States Department of Defense;
+(D) the United States Department of Veterans Affairs; or
+(E) a nongovernmental research entity abiding by current National Institutes of Health guidelines.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-420">
+            <num>21.42.420</num>
+            <heading>Coverage for prescription drugs; specialty drug tiers prohibited.</heading>
+            <content>
+              <p>Sec. 21.42.420.   Coverage for prescription drugs; specialty drug tiers prohibited.
+A health care insurer that offers, issues, delivers, or renews a health care insurance plan in the individual or group market in the state that provides coverage for prescription drugs for which cost sharing, deductibles, or copayment obligations are determined by unique categories or specialty tiers may impose cost sharing, deductibles, or copayment obligations for a unique category or specialty tier prescription drug that exceed the dollar amount of cost sharing, deductibles, or copayment obligations, as applicable, for a nonpreferred brand drug or the drug's equivalent, but only if the insurer notifies the insured of the cost sharing, deductible, or copayment terms applicable to unique categories or specialty tiers at least 90 days before the terms apply.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-422">
+            <num>21.42.422</num>
+            <heading>Coverage for telehealth.</heading>
+            <subsection eId="21-42-422__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurer that offers, issues for delivery, or renews in the state a health care insurance plan in the group or individual market shall provide coverage for benefits provided through telehealth by a health care provider licensed in this state and may not require that prior in-person contact occur between a health care provider and a patient before payment is made for covered services.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-422__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-42-422__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>health care insurer means a person transacting the business of health care insurance, including an insurance company licensed under
+AS 21.09
+, a hospital or medical service corporation licensed under
+AS 21.87
+, a fraternal benefit society licensed under
+AS 21.84
+, a health maintenance organization licensed under
+AS 21.86
+, the Comprehensive Health Insurance Association described in
+AS 21.55.010
+, a multiple employer welfare arrangement, a church plan, and a governmental plan, except for a nonfederal governmental plan that elects to be excluded under 42 U.S.C. 300gg-21(a)(2) (Health Insurance Portability and Accountability Act of 1996);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-422__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>telehealth has the meaning given in
+AS 47.05.270</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-425">
+            <num>21.42.425</num>
+            <heading>Coverage for prescription topical eye medication.</heading>
+            <subsection eId="21-42-425__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurer that offers, issues for delivery, delivers, or renews a health care insurance plan in the group or individual market in the state that provides coverage for prescription topical eye medication shall allow the early refill of a prescription for a topical eye medication to treat a chronic condition before the last day of the prescribed dosage period, without regard to a coverage restriction.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-425__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A covered person may request an early refill under this section</p>
+              </content>
+              <paragraph eId="21-42-425__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>not earlier than 23 days after a prescription for a 30-day supply is dispensed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-425__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>not earlier than 45 days after a prescription for a 60-day supply is dispensed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-425__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>not earlier than 68 days after a prescription for a 90-day supply is dispensed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-425__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>if the prescriber has indicated the number of refills needed; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-425__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>if the prescription topical eye medication being refilled is covered under the covered person's policy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-425__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A covered person may receive an early refill under this section not more than once during the approved dosage period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-425__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A covered person may only receive an early refill under this section if the refill does not exceed the number of refills prescribed.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-430">
+            <num>21.42.430</num>
+            <heading>Coverage for anti-cancer medication.</heading>
+            <subsection eId="21-42-430__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a fraternal benefit society, a health care insurer that offers, issues for delivery, delivers, or renews in this state a health care insurance plan that provides coverage for anti- cancer medications that are injected or intravenously administered by a health care provider and patient-administered anti-cancer medications, including those orally administered or self-injected, may not require a higher copayment, deductible, or coinsurance amount for a patient-administered medication than it requires for an anti- cancer medication injected or intravenously administered by a health care provider, regardless of the formulation or benefit category determination by the policy or plan.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-430__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A health care insurer may not offset the costs of compliance with (a) of this section by</p>
+              </content>
+              <paragraph eId="21-42-430__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>increasing the copayment, deductible, or coinsurance amount required for anti-cancer medications injected or intravenously administered by a health care provider that are covered under the health insurance plan; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-42-430__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>reclassifying benefits with respect to anti-cancer medications.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-42-430__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing in this section prohibits a health care insurance plan from requiring different cost-sharing rates for in-network and out-of-network providers or pharmacies.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-430__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, anti-cancer medication means a drug or biologic used to kill cancerous cells, to slow or prevent the growth of cancerous cells, or to treat related side effects.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-42-440">
+            <num>21.42.440</num>
+            <heading>Coverage for costs of services provided by pharmacists.</heading>
+            <content>
+              <p>Sec. 21.42.440.   Coverage for costs of services provided by pharmacists.
+A policy, contract, or prepaid plan for individual or group health insurance issued or delivered in the state that provides coverage for services within the scope of practice of a pharmacist licensed under
+AS 08.80
+must provide for coverage of and reimbursement for the services if performed by a pharmacist for a person covered under the policy, contract, or plan.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-599">
+            <num>21.42.599</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 21.42.599.   Definitions.
+In
+AS 21.42.345
+ 21.42.599,
+(1) copayment means the portion of medical care expenses in excess of the deductible to be paid by a covered individual;
+(2) deductible means the portion of medical care expenses for which a covered individual must pay before benefits become payable;
+(3) excepted benefits has the meaning given in
+AS 21.54.160
+;
+(4) fraternal benefit society has the meaning given in
+AS 21.84.900
+;
+(5) health care insurance plan has the meaning given in
+AS 21.54.500
+; health care insurance plan does not include short-term limited-duration insurance offered to individuals in the individual market;
+(6) health care insurer has the meaning given in
+AS 21.54.500
+;
+(7) individual market has the meaning given in
+AS 21.51.500
+;
+(8) placed for adoption has the meaning given in
+AS 21.54.500
+.
+Article 3. Compact Concerning Annuity, Life, Disability, and Long-term Care Insurance.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-700">
+            <num>21.42.700</num>
+            <heading>Interstate Insurance Product Regulation Compact.</heading>
+            <content>
+              <p>Sec. 21.42.700.   Interstate Insurance Product Regulation Compact.
+The Interstate Insurance Product Regulation Compact contained in this section is enacted into law and entered into on behalf of the state with other states joining in it in a form substantially as set out in this section. The director of the division of insurance is designated as the representative of this state to the commission created by the compact.</p>
+            </content>
+          </section>
+          <section eId="sec_21-42-705">
+            <num>21.42.705</num>
+            <heading>Opt-out duties, guidelines, remedies.</heading>
+            <subsection eId="21-42-705__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As a participant in the Interstate Insurance Product Regulation Compact, it is the policy of the state to opt out, and the director shall opt out, of any Uniform Standard that provides a materially lower level of protection for or materially diminishes the rights of Alaska policyholders or policy applicants under Alaska law.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-42-705__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the director or a court of competent jurisdiction finds that the policy set out in (a) of this section has been violated, notice of the violation shall be given to the legislature, and reasonable and prompt measures shall be taken to opt out of the Uniform Standard that does not comply with the policy statement set out in (a) of this section to the extent that such action is permissible under the Interstate Insurance Product Regulation Compact.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

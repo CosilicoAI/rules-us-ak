@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-25"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-25"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="22.25"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-25/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-25/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-22/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-22/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_22">
+        <num>22</num>
+        <heading>Judiciary</heading>
+        <chapter eId="title_22__chp_25">
+          <num>25</num>
+          <heading>Retirement and Death Benefits</heading>
+          <section eId="sec_22-25-010">
+            <num>22.25.010</num>
+            <heading>Mandatory and voluntary retirement of justices and judges.</heading>
+            <subsection eId="22-25-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A justice or judge shall be retired on the date that the justice or judge reaches the age of 70. A justice or judge is eligible for retirement pay with five or more years of service at the time of retirement as a justice or judge.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A justice or judge may be retired for incapacity as provided in this section.  A justice or judge is eligible for retirement pay with two or more years of service at the time of retirement for incapacity.  The effective date of retirement under this subsection is the first day of the month coinciding with or after the date that the governor files written notice with the commissioner of administration that a designated justice or judge was retired for incapacity.  A duplicate copy of the notice shall be filed with the judicial council.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A justice or judge who served for a period of five years may file with the governor a written application for retirement which contains a sworn statement of service and a sworn statement of the incapacity of the justice or judge to efficiently perform the judicial duties.  When an application is filed, the governor shall appoint a board of three persons to inquire into the circumstances, and may, upon the board's recommendation, retire the justice or judge.  The effective date of the retirement shall be as provided in (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A justice or judge may voluntarily retire at any time and shall have a vested right to accrued retirement pay if the justice or judge has served five or more years.  Retirement pay may not commence until the justice or judge has reached age 60; except that an actuarially equivalent retirement pay may be commenced after the justice or judge has reached age 55 or upon 20 years' service as a justice or judge. The provisions of (b) of this section are an exception to this rule.  A justice or judge desiring to retire under this subsection shall file with the governor a notice of that desire, together with a sworn statement of the facts establishing eligibility to retire.  The governor shall certify those facts to the commissioner of administration and declare, in writing, the eligibility or ineligibility for retirement of the justice or judge.  If a justice or judge is eligible to receive retirement pay at the time of retirement, the retirement pay shall commence on the first day of the month coinciding with or after the date the written declaration of the governor is filed with the commissioner of administration.  If a justice or judge is not eligible to receive retirement pay at the time of retirement, the retirement pay shall commence on the first day of the month the justice or judge reaches age 60 or the month the justice or judge becomes eligible for an actuarial equivalent if application was made for this option.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 16 ch 83 SLA 1967.]</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In the computation of service for retirement under this chapter, the time served by a justice or judge of any court is added to the time served, if any, on any other court.  All service rendered by a justice or judge, including service as a magistrate or deputy magistrate, before July 1, 1967, shall be included in the computation.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-010__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>[Repealed, § 47 ch 59 SLA 2002.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-011">
+            <num>22.25.011</num>
+            <heading>Contributions of justices and judges.</heading>
+            <content>
+              <p>Sec. 22.25.011.   Contributions of justices and judges.
+Each justice and judge appointed after July 1, 1978, is a member under the judicial retirement system as of the date of the justice's or judge's appointment and shall contribute seven percent of the base annual salary received by the justice or judge to the judicial retirement system. Contributions shall be made for all creditable service under this chapter up to a maximum of 15 years. This contribution is made in the form of a deduction from compensation, at the end of each payroll period, and is made even if the compensation paid in cash to the justice or judge is reduced below the minimum prescribed by law. The contributions shall be deducted from the justice's or judge's compensation before the computation of applicable federal taxes and shall be treated as employer contributions under 26 U.S.C. 414(h)(2). A member may not have the option of making the payroll deduction directly in cash instead of having the contribution picked up by the employer. Each justice and judge is considered to consent to the deduction from compensation. Payment of compensation less the deduction constitutes a full discharge of all claims and demands for the services rendered by the justice or judge during the period covered by the payment, except as to the benefits provided for under this chapter. The contributions shall be credited to the judicial retirement fund established in accordance with
+AS 22.25.048
+.</p>
+            </content>
+          </section>
+          <section eId="sec_22-25-012">
+            <num>22.25.012</num>
+            <heading>Retirement benefits of administrative director.</heading>
+            <subsection eId="22-25-012__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An administrative director of the Alaska Court System appointed under art. IV, sec. 16, Constitution of the State of Alaska, is a member under the judicial retirement system as of the date of the administrative director's appointment and is entitled to retirement benefits under this chapter on the terms and conditions applicable to a superior court judge appointed after July 1, 1978, except that an administrative director may receive retirement benefits only with service as administrative director for 10 or more years.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-012__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An administrative director who vacates the office of administrative director for any reason and who has not at that time accrued 10 years of credited service under this chapter is entitled to a refund of contributions to the judicial retirement system together with interest.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-012__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An administrative director who withdraws from the judicial retirement system under (b) of this section is eligible for membership in the public employees' retirement system (
+AS 39.35
+) and shall receive credited service in that system for service rendered as administrative director.  To be eligible for membership in the public employees' retirement system under this subsection, the administrative director must contribute to the public employees' retirement system</p>
+              </content>
+              <paragraph eId="22-25-012__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount that would have been contributed if the administrative director had been a member during the period of the membership in the judicial retirement system; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-012__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>any contributions for service as administrative director refunded from the public employees' retirement system at the time the administrative director became a member of the judicial retirement system.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-020">
+            <num>22.25.020</num>
+            <heading>Retirement pay.</heading>
+            <content>
+              <p>Sec. 22.25.020.   Retirement pay.
+Except as provided in
+AS 22.25.023
+(b), a retired justice or judge eligible for retirement pay shall receive from the date of eligibility until death monthly retirement pay equal to five percent per year of service, to a maximum of 75 percent, of the monthly salary authorized for justices and judges, respectively, at the time each retirement payment is made. For a justice or judge who was first employed in this retirement system on or after July 1, 1996, base annual salary does not include remuneration in excess of the limitations set out in 26 U.S.C. 401(a)(17) (Internal Revenue Code).</p>
+            </content>
+          </section>
+          <section eId="sec_22-25-021">
+            <num>22.25.021</num>
+            <heading>Distribution requirements.</heading>
+            <subsection eId="22-25-021__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The entire interest of a member must be distributed or must begin to be distributed not later than the member's required beginning date.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-021__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a member dies after the distribution of the member's interest has begun but before the distribution has been completed, the remaining portion of the interest shall continue to be distributed at least as rapidly as under the method of distribution being used before the member's death.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-021__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a member has made a distribution election and dies before the distribution of the member's interest begins, distribution of the member's entire interest shall be completed by December 31 of the calendar year containing the fifth anniversary of the member's death. However, if any portion of the member's interest is payable to a designated beneficiary, distributions may be made over the life of the designated beneficiary or over a period certain not greater than the life expectancy of the designated beneficiary, commencing on or before December 31 of the calendar year immediately following the calendar year in which the member died, and, if the designated beneficiary is the member's surviving spouse, the date distributions are required to begin may not be earlier than the later of December 31 of the calendar year (1) immediately following the calendar year in which the member died, or (2) in which the member would have attained 70 1/2 years of age, whichever is earlier. If the surviving spouse dies after the member but before payments to the spouse have begun, the provisions of this subsection apply as if the surviving spouse were the member. An amount paid to a child of the member will be treated as if it were paid to the surviving spouse if the amount becomes payable to the surviving spouse when the child reaches the age of majority.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-021__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a member has not made a distribution election before the member's death, the member's designated beneficiary must elect the method of distribution not later than December 31 of the calendar year (1) in which distributions would be required to begin under this section, or (2) that contains the fifth anniversary of the date of death of the member, whichever is earlier. If the member does not have a designated beneficiary or if the designated beneficiary does not elect a method of distribution, distribution of the member's entire interest must be completed by December 31 of the calendar year containing the fifth anniversary of the member's death.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-021__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For purposes of (c) of this section, distribution of a member's interest is considered to begin (1) on the member's required beginning date, or (2) if the designated beneficiary is the member's surviving spouse and the surviving spouse dies after the member but before payments to the spouse have begun, on the date distribution is required to begin to the surviving spouse. If distribution in the form of an annuity irrevocably commences to the member before the required beginning date, the date distribution is considered to begin is the date that the distribution actually commences.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-021__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding any contrary provisions of this chapter, the requirements of this section apply to all distributions of a member's interest and take precedence over any inconsistent provisions of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-021__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>All distributions required under this section are determined and made in accordance with 26 U.S.C. 401(a)(9) and regulations adopted under that statute, including any minimum distribution incidental benefit requirement.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-021__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Unless otherwise specified, the provisions of this section apply to calendar years beginning on or after January 1, 1989.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-021__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="22-25-021__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>designated beneficiary means the individual who is designated as the beneficiary under the system in accordance with 26 U.S.C. 401(a)(9) and regulations adopted under that statute;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-021__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>required beginning date means the first day of April of the calendar year following the calendar year in which the member either attains 70 1/2 years of age or actually retires, whichever is later.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-022">
+            <num>22.25.022</num>
+            <heading>Rollover distributions and rollover contributions.</heading>
+            <subsection eId="22-25-022__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A distributee may elect, at the time and in the manner prescribed by the administrator, to have all or part of an eligible rollover distribution paid directly to an eligible retirement plan specified by the distributee in the direct rollover.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-022__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The system does not accept contributions of eligible rollover distributions.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-022__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="22-25-022__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>direct rollover means the payment of an eligible rollover distribution by the system to an eligible retirement plan specified by a distributee who is eligible to elect a direct rollover;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-022__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>distributee means a member or a beneficiary who is the surviving spouse of the member or an alternate payee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-022__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>eligible retirement plan means
+(A) an individual retirement account described in 26 U.S.C. 408(a);
+(B) an individual retirement annuity defined in 26 U.S.C. 408(b);
+(C) an annuity plan described in 26 U.S.C. 403(a);
+(D) a qualified trust described in 26 U.S.C. 401(a);
+(E) on and after January 1, 2002, an annuity plan described in 26 U.S.C. 403(b);
+(F) on or after January 1, 2002, a governmental plan described in 26 U.S.C. 457(b); or
+(G) on or after January 1, 2008, a Roth IRA described in 26 U.S.C. 408A;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-022__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>eligible rollover distribution means a distribution of all or part of a total account to a distributee, except for
+(A) a distribution that is one of a series of substantially equal installments payable not less frequently than annually over the life expectancy of the distributee or the joint and last survivor life expectancy of the distributee and the distributee's designated beneficiary, as defined in 26 U.S.C. 401(a)(9);
+(B) a distribution that is one of a series of substantially equal installments payable not less frequently than annually over a specified period of 10 years or more;
+(C) a distribution that is required under 26 U.S.C. 401(a)(9);
+(D) the portion of any distribution that is not includable in gross income; however, a portion under this subparagraph may be transferred only to an individual retirement account or annuity described in 26 U.S.C. 408(a) or (b), to a qualified plan described in 26 U.S.C. 401(a) or 403(a), or to an annuity contract described in 26 U.S.C. 403(b), that agrees to separately account for amounts transferred, including separately accounting for the portion of the distribution that is includable in gross income and the portion of the distribution that is not includable in gross income; and
+(E) other distributions that are reasonably expected to total less than $200 during a year.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-023">
+            <num>22.25.023</num>
+            <heading>Limitation on benefits; maximum annual compensation.</heading>
+            <subsection eId="22-25-023__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding any other provisions of this chapter, the projected annual benefit provided by this chapter and the benefit from all other defined benefit plans required to be aggregated with the benefits from this system under the provisions of 26 U.S.C. 415 may not increase to an amount in excess of the amount permitted under 26 U.S.C. 415 at any time. In the event that any accrued benefit of a member exceeds the limitation of 26 U.S.C. 415 for a limitation year, the system shall make any necessary remedial action to correct an excess accrued benefit. The provisions of 26 U.S.C. 415, and the regulations adopted under that statute, as applied to qualified defined benefit plans of governmental employers are incorporated as part of the terms and conditions of the system. This subsection shall apply to any member of this system.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-023__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this subsection, for system fiscal years beginning on or after January 1, 1998, and for purposes of 26 U.S.C. 415(b)(3) and the regulations adopted under that statute, salary includes any amount that is contributed by the employer under a salary reduction agreement and that is not includable in the member's gross income under 26 U.S.C. 125, 132(f)(4), 402(e)(3), 402(h), or 403(b) and is limited to compensation that is actually paid to a member during the determination period, which is the fiscal year of the system.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-025">
+            <num>22.25.025</num>
+            <heading>Administration; federal qualification requirements.</heading>
+            <subsection eId="22-25-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of administration is responsible for the administration of the judicial retirement system. The system is intended to qualify as a governmental plan established and maintained by the government of this state for the state's employees, as permitted under 26 U.S.C. 414(d). The commissioner shall publish an information handbook for the system at intervals as the commissioner considers appropriate.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An amendment to this chapter does not provide a person with a vested right to a benefit if the Internal Revenue Service determines that the amendment will result in disqualification of the plan under the Internal Revenue Code.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-027">
+            <num>22.25.027</num>
+            <heading>Regulations.</heading>
+            <subsection eId="22-25-027__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of administration may adopt regulations to implement this chapter. Regulations adopted by the commissioner under this chapter relate to the internal management of state agencies and their adoption is not subject to
+AS 44.62
+(Administrative Procedure Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-027__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a regulation adopted under this chapter shall be published in the Alaska Administrative Register and Code for informational purposes. Each regulation adopted under this chapter must conform to the style and format requirements of the drafting manual for administrative regulations that is published under
+AS 44.62.050
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-027__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At least 30 days before the adoption, amendment, or repeal of a regulation under this chapter, the commissioner of administration shall provide notice of the action that is being considered.  The notice shall be</p>
+              </content>
+              <paragraph eId="22-25-027__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>posted in public buildings throughout the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-027__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>published in one or more newspapers of general circulation in each judicial district of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-027__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>mailed to each person or group that has filed a request for notice of proposed action with the commissioner of administration; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-027__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>furnished to each member of the legislature and to the Legislative Affairs Agency.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-25-027__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Failure to mail notice to a person as required under (c)(3) of this section does not invalidate an action taken by the commissioner of administration.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-027__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The commissioner may hold a public hearing on a proposed regulation.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-027__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A regulation adopted under this chapter takes effect 30 days after adoption by the commissioner of administration.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-027__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding the other provisions of this section, a regulation may be adopted, amended, or repealed, effective immediately, as an emergency regulation by the commissioner of administration.  For an emergency regulation to be effective the commissioner of administration must find that the adoption, amendment, or repeal of the regulation is necessary for the immediate preservation of the orderly operation of the judicial retirement system. The commissioner of administration shall, within 10 days after adoption of an emergency regulation, give notice of the adoption under (c) of this section.  An emergency regulation adopted under this subsection may not remain in effect more than 90 days unless the commissioner of administration complies with the procedures set out in this section and adopts the regulation as a permanent regulation.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-027__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section, regulation has the meaning given in
+AS 44.62.640
+(a).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-030">
+            <num>22.25.030</num>
+            <heading>Survivors' benefits.</heading>
+            <subsection eId="22-25-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon the death of a justice or judge who has served for at least two years, the surviving spouse is entitled to receive survivors' benefits equal to one-half of the monthly retirement pay the justice or judge would thereafter have been entitled to receive if retired at the time of death. If at death the justice or judge was not yet entitled to retirement pay, or was or would have been entitled to less than 60 percent of the monthly salary authorized for the office, the surviving spouse is entitled to monthly survivors' benefits equal to 30 percent of the salary authorized for justices or judges, respectively, at the time each monthly payment is made.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To be eligible for the survivors' benefits, the surviving spouse must have been married to the justice or judge for at least one year immediately preceding the death of the justice or judge.  The benefits continue until the death of the surviving spouse.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If there is no surviving spouse, or if the surviving spouse does not meet the requirements of (b) of this section, or upon the death of the surviving spouse, the surviving dependent child or children of the justice or judge are entitled to receive, in equal shares, 50 percent of the amount of the survivors' benefits specified under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The surviving child or children are entitled to the survivors' benefits under (c) of this section during the period of their dependency.  Dependency exists with respect to any child of a justice or judge who is either (1) a minor under the laws of Alaska, (2) under the age of 23 and is a student attending on a full-time basis an accredited educational or technical institution recognized by the state Department of Education and Early Development, or (3) so mentally or physically incapacitated as to be unable to provide for self care.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If there are both an eligible surviving spouse and surviving dependent children, but who reside in separate households, the surviving spouse and dependent children will share equally in the benefits payable under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-030__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The rights of a surviving spouse or dependent child under this section are subject to the rights of a previous spouse or a dependent under a qualified domestic relations order.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-030__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If there is no surviving spouse or surviving dependent child entitled to benefits under this section or if after payment of all survivors' benefits due under this section, less than the amount of contributions made by the justice or judge to the system under
+AS 22.25.011
+and interest credited has been paid, the difference between the amount of contributions and the amount of benefits paid shall be paid to the designated beneficiary of the justice or judge. If there is no designated beneficiary or if no designated beneficiary survives the justice or judge, the balance of the contributions and interest credited shall be paid to the</p>
+              </content>
+              <paragraph eId="22-25-030__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>surviving spouse; or, if there is none surviving,</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-030__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>surviving children in equal parts; or, if there is none surviving,</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-030__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>surviving parents in equal parts; or, if there is none surviving,</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-030__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>justice's or judge's estate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-033">
+            <num>22.25.033</num>
+            <heading>Claim for survivor's benefits.</heading>
+            <content>
+              <p>Sec. 22.25.033.   Claim for survivor's benefits.
+A person claiming entitlement to benefits payable under this chapter as a consequence of a justice's or judge's death shall provide the commissioner of administration with a marriage certificate, divorce or dissolution judgment, or other evidence of entitlement. Documents establishing entitlement may be filed with the commissioner immediately after a change in the justice's or judge's marital status. If the commissioner does not receive notification of a claim before the date 10 days after the justice's or judge's death, the person claiming entitlement is not entitled to receive from the Department of Administration any benefit already paid by the commissioner under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_22-25-035">
+            <num>22.25.035</num>
+            <heading>Rights under a qualified domestic relations order.</heading>
+            <content>
+              <p>Sec. 22.25.035.   Rights under a qualified domestic relations order.
+A former spouse who was married to a justice or judge for at least one year shall be treated as a spouse or surviving spouse under this chapter to the extent required by a qualified domestic relations order.  Rights under the order do not take effect until the order is filed with the administrator.</p>
+            </content>
+          </section>
+          <section eId="sec_22-25-041">
+            <num>22.25.041</num>
+            <heading>Refund of contributions.</heading>
+            <subsection eId="22-25-041__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (c) of this section, a justice or judge who vacates office for any reason and who has not then accrued five years of creditable service under this chapter is entitled to receive a refund of the total amount of contributions, including principal and interest payments on indebtedness, together with interest credited on the amount. To receive credit for an earlier period of service under
+AS 22.25.010
+(f), a justice or judge who has received a refund of contributions and who returns to active service shall repay in full, before appointment to retirement, the refunded contributions with interest at the prevailing rate.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-041__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A justice or judge whose contributions have been involuntarily refunded because of a levy under
+AS 09.38.065
+or because of a federal tax levy may repay the amount levied together with accrued interest whether or not the justice or judge is on active service. Repayments shall be made under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-041__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A justice or judge whose rights to a refund are subject to a qualified domestic relations order is entitled to receive a refund of the total amount of contributions, together with interest credited on the amount, only if the present spouse of the justice or judge, if any, and each person entitled under the order consent to the refund in writing on a form provided by the administrator. The administrator may waive written consent from the person entitled to benefits under the order if the administrator determines that the person cannot be located or for other reasons established by regulation. The administrator may waive written consent from the spouse if the administrator determines that</p>
+              </content>
+              <paragraph eId="22-25-041__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the justice or judge was not married to the spouse during any period of the justice's or judge's employment under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-041__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the spouse has no right to benefits under this chapter because of the terms of a qualified domestic relations order;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-041__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the spouse cannot be located;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-041__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the justice or judge and spouse have been married for less than two years and the justice or judge establishes that they are not cohabiting; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-041__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>another reason established by regulation exists.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-25-041__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in this subsection and in
+AS 29.45.030
+(a)(1), amounts held in the system on behalf of a justice or judge or other person who is or may become eligible for benefits under the system are exempt from Alaska state and municipal taxes and are not subject to anticipation, alienation, sale, transfer, assignment, pledge, encumbrance, or charge of any kind, either voluntary or involuntary, before they are received by the person entitled to the amount under the terms of the system, and any attempt to anticipate, alienate, sell, transfer, assign, pledge, encumber, charge, or otherwise dispose of any right to amounts accrued in the system is void. However,</p>
+              </content>
+              <paragraph eId="22-25-041__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the right of a justice or judge to receive benefits or the contributions and interest may be assigned
+(A) under a qualified domestic relations order; or
+(B) to a trust or similar legal device that meets the requirements for a Medicaid-qualifying trust under
+AS 47.07.020</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-25-041__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>and 42 U.S.C. 1396p(d)(4);</p>
+              </content>
+              <paragraph eId="22-25-041__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a justice or judge may elect to have the taxable portion of the qualifying distributions transferred directly to another qualified plan or an individual retirement account that accepts the transfer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-046">
+            <num>22.25.046</num>
+            <heading>Employer contributions.</heading>
+            <subsection eId="22-25-046__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The state court system shall contribute to the judicial retirement system at the rate established by the commissioner of administration. The contribution rate shall be based on the results of an actuarial valuation of the judicial retirement system.  The results of the actuarial valuation shall be based on actuarial methods and assumptions adopted by the commissioner of administration.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-046__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The contribution rate shall be a percentage which, when applied to the covered compensation of all active members of the judicial retirement system, will generate sufficient money to support, along with contributions from members, the benefits of the judicial retirement system.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-046__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Employer contributions shall be separately computed for benefits provided by
+AS 22.25.090
+and shall be deposited in the Alaska retiree health care trust established under
+AS 39.30.097
+(a).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-048">
+            <num>22.25.048</num>
+            <heading>Judicial retirement trust fund; accounting and investment.</heading>
+            <subsection eId="22-25-048__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of administration shall establish a judicial retirement trust fund for the judicial retirement system in which the assets of the system are deposited and held. The trust fund is subject to the restrictions of (h) of this section. The commissioner shall maintain accounts and records for the system.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-048__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All income of the judicial retirement fund and all disbursements made from the fund shall be credited or charged, whichever is appropriate, to the following accounts:</p>
+              </content>
+              <paragraph eId="22-25-048__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an individual account that contains the mandatory contributions collected from a person under
+AS 22.25.011
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-048__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an account that is credited with the contributions of the state court system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-048__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a retirement reserve account; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-048__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>an expense account for the judicial retirement system that shall be credited with funds transferred from the account described in (2) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-25-048__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Alaska Retirement Management Board is the fiduciary of the fund and has the same powers and duties under this section in regard to the judicial retirement trust fund as are provided in
+AS 37.10.220
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-048__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Within one year following retirement, an amount actuarially determined as necessary to pay fully for the benefits to be received by a person under this chapter shall be transferred first from the individual account described in (b)(1) of this section and, after the individual contributions have been exhausted, then from the court system account described in (b)(2) of this section, into the retirement reserve account described in (b)(3) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-048__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The contributions of the court system to the retirement reserve account shall contain the actuarially determined amount necessary to fully fund the pension, death benefits, and other benefits paid under the judicial retirement system to a person under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-048__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The investment income of the judicial retirement fund shall be allocated in proportion to the balances of assets first to the retired reserve account described in (b)(3) of this section and then to the account described in (b)(2) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-048__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The account described in (b)(4) of this section is charged with all disbursements representing the administrative expenses incurred by the judicial retirement system. Expenditures from this account shall be included in the budget of the governor for each fiscal year.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-048__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The corpus or income of the assets held in trust as required by the system may not be diverted to or used for other than the exclusive benefit of the members or their beneficiaries.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-048__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>If the judicial retirement system is terminated,</p>
+              </content>
+              <paragraph eId="22-25-048__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a member whose contributions have not been refunded, regardless of the member's employment status at the date of the termination of the system, shall be considered fully vested in the member's adjusted accrued retirement benefits as of the date of the termination of the system; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-048__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if all liabilities are satisfied, any excess assets arising from erroneous actuarial computation shall revert to the employer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-080">
+            <num>22.25.080</num>
+            <heading>Tax exemption.</heading>
+            <content>
+              <p>Sec. 22.25.080.   Tax exemption.
+Benefits paid under this chapter are exempt from state and municipal income taxes.</p>
+            </content>
+          </section>
+          <section eId="sec_22-25-090">
+            <num>22.25.090</num>
+            <heading>Medical benefits.</heading>
+            <subsection eId="22-25-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (c) of this section, the following persons are entitled to major medical insurance coverage:</p>
+              </content>
+              <paragraph eId="22-25-090__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person receiving a monthly benefit under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-090__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the spouse of a person receiving a monthly benefit under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-090__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a natural or adopted child of a person receiving a monthly benefit under this chapter, if the child is a dependent child under (f) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-25-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in (c) of this section, major medical insurance coverage takes effect on the same date as retirement benefits begin and stops when the retired person or survivor is no longer eligible to receive a monthly benefit. The coverage for persons age 65 or older is the same as that available for persons under 65 years of age. The benefits payable to those persons age 65 or older supplement any benefits provided under the federal old age, survivors, and disability insurance program. The medical premium and optional insurance premiums owed by a retired person or survivor shall be deducted from the benefit payable to the retired person or survivor before payment of the benefit.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Receipt under a qualified domestic relations order of a monthly benefit from the system does not entitle a person or the person's spouse or child to insurance coverage under (a) of this section.  However, a member's former spouse who receives a monthly benefit under a qualified domestic relations order is entitled to receive major medical insurance coverage if the former spouse</p>
+              </content>
+              <paragraph eId="22-25-090__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>elects the coverage within 60 days after the first monthly benefit paid under the order is mailed first class or otherwise delivered; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-090__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>pays the premium established by the administrator for the coverage.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="22-25-090__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The administrator shall inform members who have requested appointment to retirement that the health insurance coverage available to retired members may be different from the health insurance coverage provided to employees. The administrator shall also notify those members of time limits for selecting optional health insurance coverage and whether the election is irrevocable. A member who has requested appointment to retirement shall indicate in writing on a form provided by the administrator that the member has received the information required by this subsection and whether the member has chosen to receive optional health insurance coverage.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-090__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>On and after July 1, 2007, benefits under this section shall be provided in part by the Alaska retiree health care trust established under
+AS 39.30.097
+(a).</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-090__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In this section, dependent child means an unmarried child of a justice, judge, or administrative director of the Alaska Court System who is dependent on the justice, judge, or administrative director for support and who is either (1) less than 19 years old, or (2) less than 23 years old and registered at and attending on a full-time basis an accredited educational or technical institution recognized by the Department of Education and Early Development. The age limits set out in this subsection do not apply to a child who is totally and permanently disabled.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-100">
+            <num>22.25.100</num>
+            <heading>Exemption of retirement funds and benefits.</heading>
+            <content>
+              <p>Sec. 22.25.100.   Exemption of retirement funds and benefits.
+Employee contributions and other amounts held in the judicial retirement system and benefits payable under this chapter are exempt from garnishment, execution, and levy as provided in
+AS 09.38
+(Alaska Exemptions Act).</p>
+            </content>
+          </section>
+          <section eId="sec_22-25-110">
+            <num>22.25.110</num>
+            <heading>Special rules for treatment of qualified military service.</heading>
+            <subsection eId="22-25-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding any contrary provisions of this chapter, with respect to qualified military service, contributions shall be made and benefits and service credit shall be provided in accordance with 26 U.S.C. 414(u).</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To the extent required by 26 U.S.C. 401(a)(37), if a member dies while performing qualified military service, as defined in 38 U.S.C. 43, the survivors of the member are entitled to any additional benefits that would have been provided to the survivors under the plan had the member resumed employment and then terminated employment on account of death. For purposes of this subsection, periods of qualified military service are not included in calculations of credited service.</p>
+              </content>
+            </subsection>
+            <subsection eId="22-25-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Consistent with and to the extent required by 26 U.S.C. 414(u)(12), a member receiving differential wage payments from an employer shall be treated as employed by that employer, and the differential wage payment shall be treated as compensation for purposes of applying the limits on annual additions under 26 U.S.C. 415(b). For purposes of this subsection, differential wage payment means any payment that</p>
+              </content>
+              <paragraph eId="22-25-110__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is made by an employer to an individual with respect to any period during which the individual is performing service in the uniformed services, as defined in 38 U.S.C. 43, while on active duty for a period of more than 30 days; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="22-25-110__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>represents all or a portion of the wages the individual would have received from the employer if the individual were performing service for the employer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_22-25-800">
+            <num>22.25.800</num>
+            <heading>Pension forfeiture.</heading>
+            <content>
+              <p>Sec. 22.25.800.   Pension forfeiture.
+The provisions of
+AS 37.10.310
+apply to pension benefits under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_22-25-900">
+            <num>22.25.900</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 22.25.900.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) actuarial equivalent means the adjustment necessary to obtain equality in value of the aggregate expected payments under two different forms of pension payments, considering expected mortality and interest earnings on the basis of assumptions, factors, and methods specified in regulations issued under the system that are formally adopted by the Alaska Retirement Management Board that clearly preclude employer discretion in the determination of the amount of any justice's, judge's, or member's benefit;
+(2) judge means a judge of the court of appeals, a superior court judge, or a district court judge;
+(3) justice means a supreme court justice;
+(4) member means an administrative director of the Alaska Court System who is eligible to participate in the system, a justice, or a judge;
+(5) qualified domestic relations order means a divorce or dissolution judgment under
+AS 25.24
+, including an order approving a property settlement, that
+(A) creates or recognizes the existence of an alternate payee's right to, or assigns to an alternate payee the right to, receive all or a portion of the member contributions and interest or benefits payable with respect to a justice or judge;
+(B) sets out the name and last known mailing address, if any, of the justice or judge and of each alternate payee covered by the order;
+(C) sets out the amount or percentage of the justice's or judge's benefit, or of any survivor's benefit, to be paid to the alternate payee, or sets out the manner in which that amount or percentage is to be determined;
+(D) sets out the number of payments or period to which the order applies;
+(E) sets out the plan to which the order applies;
+(F) does not require any type or form of benefit or any option not otherwise provided by this chapter;
+(G) does not require an increase of benefits in excess of the amount provided by this chapter, determined on the basis of actuarial value;
+(H) does not require the payment, to an alternate payee, of benefits that are required to be paid to another alternate payee under another order previously determined to be a qualified domestic relations order.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

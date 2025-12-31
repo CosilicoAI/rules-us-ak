@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-55"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-55"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="16.55"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-55/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-55/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-55/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-55/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_16">
+        <num>16</num>
+        <heading>Fish and Game</heading>
+        <chapter eId="title_16__chp_55">
+          <num>55</num>
+          <heading>Shooting and Firearm Safety</heading>
+          <section eId="sec_16-55-010">
+            <num>16.55.010</num>
+            <heading>Duties of department.</heading>
+            <content>
+              <p>Sec. 16.55.010.   Duties of department.
+The Department of Fish and Game shall
+(1) assist in developing and coordinating activities involving private organizations relating to shooting and firearms;
+(2) develop a hunting safety program for the people of the state;
+(3) establish a program to assist in the planning, construction, and operation of public shooting ranges.</p>
+            </content>
+          </section>
+          <section eId="sec_16-55-020">
+            <num>16.55.020</num>
+            <heading>Powers of department.</heading>
+            <content>
+              <p>Sec. 16.55.020.   Powers of department.
+In the discharge of its duties under
+AS 16.55.010
+, the Department of Fish and Game may
+(1) provide, through a departmental coordinator, technical assistance to municipalities, communities, and organizations;
+(2) make grants to municipalities and organizations as provided in
+AS 16.55.030
+(A) to develop and operate public shooting ranges and facilities; and
+(B) to operate programs involving education and training in the safe use of firearms.</p>
+            </content>
+          </section>
+          <section eId="sec_16-55-030">
+            <num>16.55.030</num>
+            <heading>Grants.</heading>
+            <content>
+              <p>Sec. 16.55.030.   Grants.
+Subject to legislative appropriation for the purpose, the Department of Fish and Game may make grants to municipalities and private organizations in accordance with
+AS 16.55.020
+(2). The department may impose reasonable restrictions on the use of funds granted under this section.</p>
+            </content>
+          </section>
+          <section eId="sec_16-55-040">
+            <num>16.55.040</num>
+            <heading>Advisory committee.</heading>
+            <subsection eId="16-55-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is established in the Department of Fish and Game an Advisory Committee on Hunting and Firearm Safety.  The committee consists of five members appointed by the commissioner of fish and game and serving at the commissioner's pleasure.  Members of the advisory committee serve without compensation but are entitled to per diem and travel expenses provided by law for members of boards and commissions.</p>
+              </content>
+            </subsection>
+            <subsection eId="16-55-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Advisory Committee on Hunting and Firearm Safety shall select one of its members as chairman.</p>
+              </content>
+            </subsection>
+            <subsection eId="16-55-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Advisory Committee on Hunting and Firearm Safety shall meet at the call of the chairman or at the request of a majority of its members.</p>
+              </content>
+            </subsection>
+            <subsection eId="16-55-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Advisory Committee on Hunting and Firearm Safety shall advise the Department of Fish and Game in fulfilling its responsibilities under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-25"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-25"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="36.25"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-25/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-25/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_36">
+        <num>36</num>
+        <heading>Public Contracts</heading>
+        <chapter eId="title_36__chp_25">
+          <num>25</num>
+          <heading>Contractors' Bonds</heading>
+          <section eId="sec_36-25-010">
+            <num>36.25.010</num>
+            <heading>Bonds of contractors for public buildings or works.</heading>
+            <subsection eId="36-25-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 44.33.300
+, before a contract exceeding $100,000 for the construction, alteration, or repair of a public building or public work of the state or a political subdivision of the state is awarded to a general or specialty contractor, the contractor shall furnish to the state or a political subdivision of the state the following bonds, which become binding upon the award of the contract to that contractor:</p>
+              </content>
+              <paragraph eId="36-25-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a performance bond with a corporate surety qualified to do business in the state, or at least two individual sureties who shall each justify in a sum equal to the amount of the bond; the amount of the performance bond shall be equivalent to the amount of the payment bond;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-25-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a payment bond with a corporate surety qualified to do business in the state, or at least two individual sureties who shall each justify in a sum equal to the amount of the bond for the protection of all persons who supply labor and material in the prosecution of the work provided for in the contract; when the total amount payable by the terms of the contract is not more than $1,000,000, the payment bond shall be in a sum of one-half the total amount payable by the terms of the contract; when the total amount payable by the terms of the contract is more than $1,000,000 and not more than $5,000,000, the payment bond shall be in a sum of 40 percent of the total amount payable by the terms of the contract; when the total amount payable by the terms of the contract is more than $5,000,000, the payment bond shall be in the sum of $2,500,000.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-25-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not limit the authority of a contracting officer to require a performance bond or other security in addition to those, or in cases other than the cases specified in (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-25-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When no payment bond has been furnished, the contracting department may not approve final payments to the contractor until the contractor files a written certification that all persons who supplied labor or material in the prosecution of the work provided for in the contract have been paid.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-25-020">
+            <num>36.25.020</num>
+            <heading>Rights of persons furnishing labor or material.</heading>
+            <subsection eId="36-25-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who furnishes labor or material in the prosecution of the work provided for in the contract for which a payment bond is furnished under
+AS 36.25.010
+and who is not paid in full before the expiration of 90 days after the last day on which the labor is performed or material is furnished for which the claim is made, may sue on the payment bond for the amount unpaid at the time of the suit.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-25-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>However, a person having direct contractual relationships with a subcontractor but no contractual relationship express or implied with the contractor furnishing the payment bond has a right of action on the payment bond upon giving written notice to the contractor within 90 days from the last date on which the person performed labor or furnished material for which the claim is made.  The notice must state with substantial accuracy the amount claimed and the name of the person to whom the material was furnished or for whom the labor was performed.  The notice shall be served by mailing it by registered mail, postage prepaid, in an envelope addressed to the contractor at any place where the contractor maintains an office or conducts business, or the contractor's residence, or in any manner in which a peace officer is authorized to serve summons.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-25-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A suit brought under this section shall be brought in the name of the state or the political subdivision of the state for the use of the person suing in the court with jurisdiction. A suit under this section is subject to
+AS 08.18.151
+. A suit may not be started after the expiration of one year after the date of final settlement of the contract.  The state or political subdivision of the state is not liable for costs or expenses of the suit.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-25-025">
+            <num>36.25.025</num>
+            <heading>Optional municipal exemption.</heading>
+            <subsection eId="36-25-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>if the estimated cost of the project does not exceed $400,000, and</p>
+              </content>
+              <paragraph eId="36-25-025__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the contractor is, and for two years immediately preceding the award of the contract has been, a licensed contractor having its principal office in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-25-025__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the contractor certifies that it has not defaulted on a contract awarded to the contractor during the period of three years preceding the award of a contract for which a bid is submitted;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-25-025__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the contractor submits a financial statement, prepared within a period of nine months preceding the submission of a bid for the contract and certified by a public accountant or a certified public accountant licensed under
+AS 08.04
+, demonstrating that the contractor has a net worth of not less than 20 percent of the amount of the contract for which a bid is submitted; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-25-025__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the total amount of all contracts that the contractor anticipates performing during the term of performance of the contract for which a bid is submitted does not exceed the net worth of the contractor reported in the certified financial statement prepared and submitted under (3) of this section by more than seven times.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

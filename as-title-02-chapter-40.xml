@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-40"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-40"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="2.40"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-40/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-40/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_2">
+        <num>2</num>
+        <heading>Aeronautics</heading>
+        <chapter eId="title_2__chp_40">
+          <num>40</num>
+          <heading>Responsibilities of Air Carriers</heading>
+          <section eId="sec_02-40-010">
+            <num>02.40.010</num>
+            <heading>Air carrier financial responsibility.</heading>
+            <subsection eId="02-40-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who carries passengers or freight for commercial purposes intrastate in an aircraft shall procure and maintain security in the following minimum amounts:</p>
+              </content>
+              <paragraph eId="02-40-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>$150,000 per seat for bodily injury or death in a single occurrence; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="02-40-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>$100,000 for property damage in a single occurrence.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="02-40-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Evidence of security required under (a) of this section shall be filed with the department and must be</p>
+              </content>
+              <paragraph eId="02-40-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a policy or certificate of insurance issued by an insurer acceptable to the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="02-40-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a bond of a surety company licensed to write surety bonds in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="02-40-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>evidence accepted by the department, showing ability to self-insure; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="02-40-010__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>other security approved by the department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="02-40-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may authorize department personnel to enforce this section and may adopt procedural regulations necessary to implement this section. Upon finding a violation the department may issue a stop use order.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-40-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A policy of insurance, surety bond, or other form of security may not be canceled on less than 30 days' written notice to the department. This requirement must be clearly stated in the policy or endorsement for an insurance policy submitted as proof of financial responsibility under
+AS 02.40.020
+(a)(1). The 30-day notice period is measured from the date on which the department receives notice.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-40-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person who violates this section is guilty of a class A misdemeanor and is punishable by a fine of not less than $1,000 or more than $5,000 for each day of violation but not to exceed $10,000 for each violation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_02-40-020">
+            <num>02.40.020</num>
+            <heading>Certification of compliance of air carriers.</heading>
+            <subsection eId="02-40-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not use an aircraft in air commerce before obtaining an annual certificate of compliance for that aircraft from the department. The department may issue a certificate of compliance for one aircraft or a fleet of two or more aircraft. The department shall issue or renew a certificate of compliance upon application and presentation of</p>
+              </content>
+              <paragraph eId="02-40-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>proof of financial responsibility required under
+AS 02.40.010
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="02-40-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>proof of compliance with Federal Aviation Administration requirements, and, where applicable, federal certification for scheduled airline service.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="02-40-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The annual fee for a certificate of compliance for one aircraft and for a fleet of two or more aircraft shall be set by the department by regulation. The certificate is valid for 12 months from the date issued. The certificate shall be visible to boarding passengers.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-40-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may authorize department personnel to enforce this section and may adopt procedural regulations necessary to implement this section. Upon finding a violation the department may issue a stop use order.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-40-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person who violates this section is guilty of a class B misdemeanor and is punishable by a fine of not less than $500 or more than $1,000.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_02-40-030">
+            <num>02.40.030</num>
+            <heading>Unsolicited communication prohibited.</heading>
+            <subsection eId="02-40-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (c) of this section, in the event of an accident involving an air carrier providing intrastate transportation of passengers, an attorney may not initiate a contact with an individual injured in the accident or a relative of an individual injured or killed in the accident for the purpose of offering or discussing potential representation in an action based on the accident for personal injury or wrongful death within 45 days following the accident. In this subsection, attorney includes an attorney for an air carrier and an associate, agent, employee, or other representative of an attorney.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-40-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>During the 45-day period described in (a) of this section, an agent or representative of an air carrier or its insurer may not initiate contact with an individual injured in the accident or a relative of an individual injured or killed in the accident for the purpose of offering a final settlement of a claim.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-40-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The prohibitions in (a) and (b) of this section do not apply to the activities that an air carrier or its insurers may undertake, or the obligations that an air carrier or its insurers may have to</p>
+              </content>
+              <paragraph eId="02-40-030__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provide a passenger or the family of a passenger injured or killed in an aircraft accident with short-term physical or financial assistance; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="02-40-030__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>meet the obligations of the air carrier under 49 U.S.C. 41113 (Aviation Disaster Family Assistance Act of 1996).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="02-40-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The attorney general or an aggrieved person may institute a civil action against a person who violates this section. In addition to injunctive and compensatory relief, a civil penalty not to exceed $10,000 may be imposed for each violation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_02-40-990">
+            <num>02.40.990</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 02.40.990.   Definitions.
+In this chapter,
+(1) air carrier means a person undertaking to engage in air commerce, whether directly or indirectly, or by lease, contract, or any other arrangement, and whether over regular or irregular routes;
+(2) air commerce means carriage by aircraft of persons or freight for commercial purposes or hire in intrastate commerce, including the carriage by aircraft of persons or freight that move partly by aircraft and partly by other forms of transportation;
+(3) aircraft means a propeller, rotor, or jet-powered device used or designed for flight in the air;
+(4) commercial purposes means activities for which the person receives direct monetary compensation and does not include activities incidental to and done in furtherance of the person's primary business;
+(5) department means the Department of Transportation and Public Facilities;
+(6) freight means commodities, articles, and cargo, of whatever nature or value, excluding garbage and trash.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

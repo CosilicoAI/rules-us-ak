@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-77"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-77"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.77"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-77/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-77/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-77/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-77/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_77">
+          <num>77</num>
+          <heading>Fishery Resource Landing Tax</heading>
+          <section eId="sec_43-77-010">
+            <num>43.77.010</num>
+            <heading>Landing tax.</heading>
+            <content>
+              <p>Sec. 43.77.010.   Landing tax.
+A person who engages or attempts to engage in a floating fisheries business in the state and who owns a fishery resource that is not subject to
+AS 43.75
+but that is brought into the jurisdiction of, and first landed in, this state is liable for and shall pay a landing tax on the value of the fishery resource. The amount of the landing tax is
+(1) for a developing commercial fish species, as defined under
+AS 43.75.290
+, one percent of the value of the fishery resource at the place of landing;
+(2) for a fish species other than a developing commercial fish species, three percent of the value of the fishery resource at the place of the landing.</p>
+            </content>
+          </section>
+          <section eId="sec_43-77-015">
+            <num>43.77.015</num>
+            <heading>Obligations and payments under fishery cooperative contracts.</heading>
+            <subsection eId="43-77-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall deposit a payment made to the state under a contract subject to sec. 210(f), American Fisheries Act, P.L. 105-277, into the separate account established under
+AS 43.77.050
+(b).</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An obligation imposed by a contract subject to sec. 210(f), American Fisheries Act, P.L. 105-277, shall be treated as if it were a tax under this chapter for purposes of
+AS 43.77.020
+. A payment made to satisfy the obligation imposed by the contract shall be treated as if it were tax revenue collected under this chapter for purposes of
+AS 43.77.060
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-77-020">
+            <num>43.77.020</num>
+            <heading>Filing return and payment of tax.</heading>
+            <subsection eId="43-77-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person subject to the tax under this chapter shall file a return stating the value of fishery resources landed in the state that are subject to the tax, the point of landing of the fishery resource, and other information the department requires by regulation.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The return shall be made on the basis of the calendar year. The return is due on the last day of the month following the month that the department posts the statewide average fish price calculated by the Department of Fish and Game for the calendar year for which the return is made, and any unpaid tax shall be paid with the return.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may, under regulations it adopts, grant a reasonable extension of time for the filing. A grant of an extension of time for filing does not extend the time for payment of the tax.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person subject to the tax under this chapter shall make quarterly payments of the tax estimated to be due for the year, as required under (e) of this section. A taxpayer will be subject to an estimated tax penalty, determined by applying the interest rate specified in
+AS 43.05.225
+to the underpayment for each quarter, unless the taxpayer makes estimated tax payments as required under (e) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person subject to tax under this chapter shall make estimated quarterly tax payments on or before March 31, June 30, September 30, and December 31 of each year using one of the following methods:</p>
+              </content>
+              <paragraph eId="43-77-020__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>four equal installments the sum of which is at least equal to the taxpayer's tax liability under this chapter for the immediately preceding calendar year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-020__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>four equal installments the sum of which equals at least 90 percent of the taxpayer's tax liability under this chapter for the current calendar year; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-020__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>four installments, calculated in each quarter, equal to 90 percent of the sum of the number of pounds of unprocessed fish of each species landed in the state during the quarter that are subject to tax under this chapter, multiplied by the respective statewide average price for each species posted by the department in the immediately preceding calendar year, multiplied by the applicable tax rate under this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-77-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>By March 31 of each year, a taxpayer electing to use the method under (e)(3) of this section shall notify the department of the election. Once the election is made, the taxpayer may not change the estimated payment method until the following calendar year. If a taxpayer does not notify the department of an election to use the method under (e)(3) of this section, the department shall calculate the taxpayer's estimated liability under (e)(1) and (2) of this section, and apply the estimated payment method that results in the lowest tax liability to determine the taxpayer's underpayment and estimated tax penalty.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-77-030">
+            <num>43.77.030</num>
+            <heading>Credit for other taxes paid.</heading>
+            <content>
+              <p>Sec. 43.77.030.   Credit for other taxes paid.
+The department shall grant a credit, not to exceed the taxpayer's liability for the tax under this chapter on a fishery resource, to a taxpayer for taxes equivalent in nature to those imposed under
+AS 43.75
+and
+AS 43.76
+that are paid to another jurisdiction in which the fishery resource was either caught, processed, or sold.</p>
+            </content>
+          </section>
+          <section eId="sec_43-77-035">
+            <num>43.77.035</num>
+            <heading>Tax credit for scholarship contributions.</heading>
+            <content>
+              <p>Sec. 43.77.035.   Tax credit for scholarship contributions.</p>
+            </content>
+          </section>
+          <section eId="sec_43-77-035">
+            <num>43.77.035</num>
+            <heading>Tax credit for scholarship contributions.</heading>
+            <content>
+              <p>Sec. 43.77.035.   Tax credit for scholarship contributions.</p>
+            </content>
+          </section>
+          <section eId="sec_43-77-040">
+            <num>43.77.040</num>
+            <heading>Credit for approved contributions.</heading>
+            <subsection eId="43-77-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A taxpayer who harvests a fishery resource under the provisions of a community development quota may claim as a credit, against not more than 45.45 percent of the tax under this chapter that is due on the value of the fishery resource harvested under the community development quota, the taxpayer's contributions made during the tax year to a nonprofit corporation incorporated under the laws of the state that are used by the recipient for one or more of the following purposes:</p>
+              </content>
+              <paragraph eId="43-77-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>scholarships for study in the state in the disciplines of fisheries management, fisheries business administration, or another related course or discipline;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>training in the state for employment in the seafood industry;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>making contributions of capital, in the form of loans or grants, to construct or improve
+(A) transportation facilities in the state such as airports and docks that are used for the unloading, transferring, or shipment of fisheries products; or
+(B) facilities in the state at which fisheries products are canned, frozen, or otherwise processed for inventory, including floating facilities that are documented under the laws of the United States as defined in 46 U.S.C. App. 801;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-040__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>awarding grants for research projects relating to Alaska fisheries.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-77-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A taxpayer who makes a contribution that qualifies for the credit authorized by (a) of this section must apply to obtain the credit. The taxpayer shall apply to the department in the manner provided by the department by regulation, and shall provide to the commissioner all information relating to the contribution that may be required by the department. Upon receipt of a complete application, the department, in consultation with the Department of Commerce, Community, and Economic Development, shall approve or disapprove the application for the credit within 60 days.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall revoke a prior approval of a tax credit and may not allow a tax credit under this section if (1) the department determines that the contribution does not qualify under (a) of this section; or (2) the taxpayer claiming the credit is in arrears in the payment of a tax levied in this title. For purposes of this subsection, a taxpayer is not in arrears if the payment is under administrative or judicial appeal.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A contribution allowed as a credit under this section may not be claimed as a credit under another provision of this title.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-77-045">
+            <num>43.77.045</num>
+            <heading>Fisheries resource landing tax education credit. [See delayed repeal note.]</heading>
+            <subsection eId="43-77-045__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person engaged in a floating fisheries business is allowed a credit against the tax due under this chapter for</p>
+              </content>
+              <paragraph eId="43-77-045__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for direct instruction, research, and educational support purposes, including library and museum acquisitions, and contributions to endowment, by an Alaska university foundation, by a nonprofit, public or private, Alaska two-year or four-year college accredited by a national or regional accreditation association, or by a public or private nonprofit elementary or secondary school in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for secondary school level vocational education courses, programs, and facilities by a school district in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for vocational education courses, programs, and facilities by a state-operated vocational technical education and training school;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for a facility by a nonprofit, public or private, Alaska two-year or four-year college accredited by a national or regional accreditation association or by a public or private nonprofit elementary or secondary school in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for Alaska Native cultural or heritage programs and educational support, including mentoring and tutoring, provided by a nonprofit agency for public school staff and for students who are in grades kindergarten through 12 in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for education, research, rehabilitation, and facilities by an institution that is located in the state and that qualifies as a coastal ecosystem learning center under the Coastal America Partnership established by the federal government;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for the Alaska higher education investment fund under
+AS 37.14.750
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for funding a scholarship awarded by a nonprofit organization to a dual-credit student to defray the cost of a dual-credit course, including the cost of
+(A) tuition and textbooks;
+(B) registration, course, and programmatic student fees;
+(C) on-campus room and board at the postsecondary institution in the state that provides the dual-credit course;
+(D) transportation costs to and from a residential school approved by the Department of Education and Early Development under
+AS 14.16.200
+or the postsecondary school in the state that provides the dual- credit course; and
+(E) other related educational and programmatic costs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for constructing, operating, or maintaining a residential housing facility by a residential school approved by the Department of Education and Early Development under
+AS 14.16.200
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for childhood early learning and development programs and educational support to childhood early learning and development programs provided by a nonprofit corporation organized under
+AS 10.20
+, a tribal entity, or a school district in the state, by the Department of Education and Early Development, or through a state grant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for science, technology, engineering, and math programs provided by a nonprofit agency or a school district for school staff and for students in grades kindergarten through 12 in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for the operation of a nonprofit organization dedicated to providing educational opportunities that promote the legacy of public service contributions to the state and perpetuate ongoing educational programs that foster public service leadership for future generations of residents of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted for the operation of a nonprofit educational resource center that supports academic achievement in grades nine through 12 by coordinating curricula and statewide competition in the subject areas of economics, science, social science, literature, music, art, mathematics, writing, speech, and interview skills and by providing student scholarships;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>expenditures made to operate a child care facility in the state for the children of the person's employees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>contributions of cash or equipment accepted by a child care facility in the state operated by a nonprofit corporation and attended by one or more children of the person's employees; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>a payment to an employee of the person's business made by the person for the purpose of offsetting the employee's child care costs incurred in the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-77-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount of the credit is 50 percent of contributions.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-045__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Each public college and university shall include in its annual operating budget request contributions received and how the contributions were used.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-045__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A contribution claimed as a credit under this section may not</p>
+              </content>
+              <paragraph eId="43-77-045__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be the basis for a credit claimed under another provision of this title; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>when combined with contributions that are the basis for credits taken during the taxpayer's tax year under
+AS 21.96.070
+,
+AS 43.20.014
+,
+AS 43.55.019
+,
+AS 43.56.018
+,
+AS 43.65.018
+, or
+AS 43.75.018
+, result in the total amount of the credits exceeding $3,000,000; if the taxpayer is a member of an affiliated group, then the total amount of credits may not exceed $3,000,000 for the affiliated group; in this paragraph, affiliated group has the meaning given in
+AS 43.20.145
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-77-045__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The credit under this section may not reduce a person's tax liability under this chapter to below zero for any tax year. An unused credit or portion of a credit not used under this section for a tax year may not be sold, traded, transferred, or applied in a subsequent tax year.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-045__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>To qualify for a credit under this section, equipment must be appraised consistent with regulations adopted by the department to determine the value of the contribution for purposes of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-045__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Beginning January 1, 2030, and every five years thereafter, the Department of Labor and Workforce Development shall adjust the dollar limit on credits under (d) of this section for inflation, using 100 percent of the change over the preceding five calendar years in the Consumer Price Index for all urban consumers for urban Alaska, compiled by the Bureau of Labor Statistics, United States Department of Labor.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-045__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="43-77-045__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>dual-credit student means a secondary level student in the state who simultaneously earns college and high school credit for a course;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>nonprofit organization means a charitable or educational organization in the state that is exempt from taxation under  26 U.S.C. 501(c)(3) (Internal Revenue Code);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_h__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>school district has the meaning given in
+AS 43.20.014
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-045__subsec_h__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>vocational education has the meaning given in
+AS 43.20.014
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_43-77-050">
+            <num>43.77.050</num>
+            <heading>Separate accounting.</heading>
+            <subsection eId="43-77-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>[Repealed, § 28 ch 81 SLA 1996.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax collected under this chapter shall be paid into a separate account in the general fund. The annual balance in the account may be appropriated by the legislature for revenue sharing under
+AS 43.77.060
+.  The amount of all tax credits approved by the commissioner under
+AS 43.77.040</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>shall be deducted from amounts paid to municipalities under
+AS 43.77.060</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p> (c).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-77-060">
+            <num>43.77.060</num>
+            <heading>Revenue sharing.</heading>
+            <subsection eId="43-77-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to appropriation by the legislature and except as provided in (b) of this section, the commissioner shall pay to each</p>
+              </content>
+              <paragraph eId="43-77-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>unified municipality and to each city located in the unorganized borough, 50 percent of the amount of tax revenue collected from taxes levied under this chapter on the fishery resource landed in the municipality and accounted for under
+AS 43.77.050</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>city located within a borough, 25 percent of the amount of the tax revenue collected from taxes levied under this chapter on fishery resources landed in the city and accounted for under
+AS 43.77.050</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-060__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>borough
+(A) 50 percent of the amount of the tax revenue collected from taxes levied under this chapter on fishery resources landed in the area of the borough outside cities and accounted for under
+AS 43.77.050</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-77-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding the provisions of (a)(2) and (a)(3)(B) of this section, and subject to appropriation by the legislature, the commissioner shall pay to each</p>
+              </content>
+              <paragraph eId="43-77-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>city that is located in a borough incorporated after January 1, 1994, the following percentages of the tax revenue collected from taxes levied under this chapter on fishery resources landed in the city and accounted for under
+AS 43.77.050</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-77-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>borough that is incorporated after January 1, 1994, the following percentages of the tax revenue collected from taxes levied under this chapter on fishery resources landed in the cities located within the borough and accounted for under
+AS 43.77.050</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-77-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding the provisions of (b) of this section, a city may adopt an ordinance to transfer a portion of the funds received under (b)(1) of this section to the borough in which the city is located.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>To the extent that appropriations are available for the purpose, and notwithstanding the requirement of
+AS 37.07.080</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>that approval of the office of management and budget is required, an amount equal to 50 percent of the tax revenue that is collected under this chapter and is not subject to division with a municipality under (a)  (c) of this section shall be transmitted each fiscal year, without the approval of the office of management and budget, by the department to the Department of Commerce, Community, and Economic Development for disbursal to eligible municipalities under
+AS 29.60.450
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-77-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[See delayed repeal note.]   For purposes of this section, tax revenue collected under
+AS 43.77.010
+from a person entitled to a credit under
+AS 43.77.045
+shall be calculated as if the person's tax had been collected without applying the credits.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-77-070">
+            <num>43.77.070</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 43.77.070.   Regulations.
+The department shall adopt regulations to implement and interpret this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_43-77-200">
+            <num>43.77.200</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 43.77.200.   Definitions.
+In this chapter,
+(1) community development quota has the meaning given that term in a regulation adopted by the Office of the Governor, under authority granted by art. III, secs. 1 and 24, Constitution of the State of Alaska, to implement a program of the North Pacific Fishery Management Council to set aside fisheries resources for community development purposes in western Alaska;
+(2) engages or attempts to engage in a floating fishery business in the state means conducting in the state an activity as part of an integrated mobile business involving the harvesting or taking, processing, transportation, or delivery of a fishery resource, including transfer of fishery resources or processed products, taking on and disembarking crew, taking on fuel or supplies, obtaining vessel or gear repairs, discharging wastes, seeking protection in sheltered waters, and any other related activity that makes a claim on the resources of the state;
+(3) fishery resource means finfish, shellfish, and fish by-products, including salmon, halibut, herring, flounder, crab, clams, cod, shrimp, and pollock;
+(4) landing means the act of unloading or transferring a fishery resource;
+(5) process
+(A) means any activity that modifies the physical condition of the resource, including butchering, freezing, salting, cooking, canning, dehydrating, or smoking;
+(B) does not include decapitating shrimp, or gutting, gilling, sliming, washing, or icing a resource solely for the purpose of maintaining the quality of the fresh resource;
+(6) tax means the fishery resource landing tax levied and collected under this chapter;
+(7) value means the unprocessed value of the fishery resource based on the statewide average price paid for the fisheries resource as reported during the year to the Department of Fish and Game under
+AS 16.05.690
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

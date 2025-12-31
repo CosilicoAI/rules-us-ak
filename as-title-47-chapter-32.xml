@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-32"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-32"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.32"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-32/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-32/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-32/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-32/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_32">
+          <num>32</num>
+          <heading>Centralized Licensing and Related Administrative Procedures</heading>
+          <section eId="sec_47-32-010">
+            <num>47.32.010</num>
+            <heading>Purpose and applicability.</heading>
+            <subsection eId="47-32-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The purpose of this chapter is to establish centralized licensing and related administrative procedures for the delivery of services in this state by the entities listed in (b) and (c) of this section. These procedures are intended to promote safe and appropriate services by setting standards for licensure that will reduce predictable risk; improve quality of care; foster individual and patient rights; and otherwise advance public health, safety, and welfare.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The following entities are subject to this chapter and regulations adopted under this chapter by the Department of Health:</p>
+              </content>
+              <paragraph eId="47-32-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>ambulatory surgical centers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>assisted living homes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>child care facilities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>freestanding birth centers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>home health agencies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>hospices, or agencies providing hospice services or operating hospice programs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>hospitals;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>host care homes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>intermediate care facilities for individuals with an intellectual disability or related condition;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>maternity homes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>nursing facilities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>residential child care facilities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>residential psychiatric treatment centers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>rural health clinics;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_b__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>subacute mental health facilities.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The following entities are subject to this chapter and regulations adopted under this chapter by the Department of Family and Community Services:</p>
+              </content>
+              <paragraph eId="47-32-010__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>child placement agencies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>foster homes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-010__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>runaway shelters.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The provisions of
+AS 47.05.300
+ 47.05.390, regarding criminal history, criminal history checks, criminal history use standards, and civil history databases, apply to entities listed in (b) and (c) of this section, as provided in
+AS 47.05.300
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-020">
+            <num>47.32.020</num>
+            <heading>Requirement to obtain a license; exemption.</heading>
+            <subsection eId="47-32-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An entity may not operate a facility described in
+AS 47.32.010</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c) without first obtaining a license under this chapter unless the entity is exempt under regulations adopted under
+AS 47.32.030
+or is exempt under (c) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an entity encompasses more than one type of activity listed in
+AS 47.32.010</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c), the entity shall apply for and receive a separate license under this chapter from either the Department of Health or the Department of Family and Community Services before operating that type of activity unless exempt under regulations adopted by the applicable department under
+AS 47.32.030
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a nonprofit organization operates a program that assists parents to find temporary care for a child, the nonprofit organization is exempt from the licensing and other requirements of this chapter when operating the program.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-030">
+            <num>47.32.030</num>
+            <heading>Powers of the Department of Health and the Department of Family and Community Services; delegation to municipality.</heading>
+            <subsection eId="47-32-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For each entity over which it has licensing authority under
+AS 47.32.010
+, the applicable department may</p>
+              </content>
+              <paragraph eId="47-32-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>administer and enforce the provisions of this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>coordinate and develop policies, programs, and planning related to licensure and operation of entities listed in
+AS 47.32.010</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c) as defined by regulation;</p>
+              </content>
+              <paragraph eId="47-32-030__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>adopt regulations necessary to carry out the purposes of this chapter, including regulations that
+(A) establish fees for licensing of each type of entity listed in
+AS 47.32.010</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c);
+(B) impose requirements for licensure, including standards for license renewal, that are in addition to the requirements of this chapter or of any other applicable state or federal statute or regulation;
+(C) impose requirements and standards on licensed entities that are in addition to those imposed by this chapter or by any other applicable state or federal statute or regulation, including</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-030__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>requirements and standards necessary for an entity or the state to receive money from the applicable department from any source, including federal money;
+(ii) record-keeping requirements;
+(iii) reporting requirements; and
+(iv) requirements and standards regarding health, safety, and sanitation;
+(D) provide for waivers, variances, and exemptions from the requirements of this chapter, including the requirement to obtain a license, if the applicable department finds it necessary for the efficient administration of this chapter; and
+(E) establish requirements for the operation of entities licensed by the applicable department under this chapter;</p>
+              </content>
+              <paragraph eId="47-32-030__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>investigate
+(A) entities described in
+AS 47.32.010</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c);
+(B) applicants for licensure, including individuals named in an application; and
+(C) other persons that the applicable department has reason to believe are operating an entity required to be licensed under this chapter, or are residing or working in an entity for which licensure has been sought under this chapter; this subparagraph does not apply to persons receiving services from an entity for which licensure has been sought under this chapter;</p>
+              </content>
+              <paragraph eId="47-32-030__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>inspect and monitor licensed entities for compliance with this chapter, regulations adopted under this chapter, and any other applicable statutes or regulations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-030__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>enter into contracts and agreements necessary to carry out the functions, powers, and duties of the applicable department under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-030__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>enter into agreements with private entities, municipalities, and individuals to investigate and make recommendations to the applicable department regarding the licensure and monitoring of entities under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-030__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>require an individual who is or will be operating an entity to complete training related to the operation of the entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-030__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>waive the application requirements for an entity seeking licensure if the entity submits documentation to the applicable department verifying that it
+(A) has a license issued by an organization or other agency that has licensing authority under state or federal law if the standards for that licensure are approved by the applicable department under this chapter or regulations adopted under this chapter;
+(B) has accreditation from a nationally recognized organization if the standards for that accreditation are equal to or more stringent than the standards for licensure under this chapter or regulations adopted under this chapter; or
+(C) is an entity that federal law does not require to be licensed.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Health shall delegate the department's authority to regulate child care facilities to a municipality that has adopted an ordinance providing for child care licensing under home rule powers under
+AS 29.10.010
+or as authorized under
+AS 29.35.200
+ 29.35.210. The Department of Health shall make the delegation described in this subsection within 90 days after receiving a written request from the municipality to delegate the authority. A municipality receiving a delegation under this subsection may adopt additional requirements for child care facilities operating within the boundaries of the municipality if the requirements meet or exceed the requirements under state law.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The issuance of a license by the applicable department does not obligate the applicable department to place or maintain an individual in an entity or through an entity, or to provide financial support to an entity.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Department of Health may not require a licensed entity to increase services for the sole purpose of accommodating a physician's practice of prescribing, dispensing, or administering an investigational drug, biological product, or device, or providing related treatment, to a patient. In this subsection, investigational drug, biological product, or device has the meaning given in
+AS 08.64.367
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-032">
+            <num>47.32.032</num>
+            <heading>Foster care license; variance.</heading>
+            <subsection eId="47-32-032__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall streamline the application and licensing paperwork necessary for a person to be approved as a foster parent or relative placement to the extent consistent with federal law.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-032__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall approve a variance of the applicable building code requirements for licensure of a foster care home to the extent permitted by federal law if an applicant does not meet the requirements at the time of inspection and</p>
+              </content>
+              <paragraph eId="47-32-032__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the home design and construction is consistent with homes located in the community; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-032__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the home is otherwise a safe environment for a child.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-032__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To the extent feasible, the department shall approve or deny a foster care home license, including a request for a variance under this section, not more than 45 days after the date the department receives the application for a foster care home license. If it is not feasible to approve or deny a foster care home license not more than 45 days after receiving the application, a supervisory-level employee may authorize a longer period of time for the decision, but the period must be the shortest period feasible.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-033">
+            <num>47.32.033</num>
+            <heading>Host care home license.</heading>
+            <subsection eId="47-32-033__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Health may issue a license to a person under this section and regulations adopted under this section to operate a host care home to provide 24-hour oversight and care on a continuing basis for up to two individuals if each individual is</p>
+              </content>
+              <paragraph eId="47-32-033__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>18 years of age or older; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-033__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>enrolled in Medicaid home and community-based waiver services under
+AS 47.07.045
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-033__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A host care home shall provide care to an individual under this section in accordance with the approved services established in the individual's plan of care, which must identify the specific physical, mental, and social care needs of the individual.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-033__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department of Health may establish standards in regulation that authorize care for up to three individuals based on unusual circumstances, including historical or familial connections of the individuals receiving services.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-040">
+            <num>47.32.040</num>
+            <heading>Application for license.</heading>
+            <content>
+              <p>Sec. 47.32.040.   Application for license.
+A person shall apply to the applicable department for a license under this chapter. The application must be made to the applicable department on a form provided by that department or in a format approved by that department, and must be accompanied by
+(1) any fee established by regulation; and
+(2) documents and information required by regulation.</p>
+            </content>
+          </section>
+          <section eId="sec_47-32-050">
+            <num>47.32.050</num>
+            <heading>Provisional license; biennial license.</heading>
+            <subsection eId="47-32-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>After an entity submits an application under
+AS 47.32.040
+, the department with licensing authority over that entity may issue a provisional license. Before issuing a provisional license, the department must conduct an inspection and investigation to determine that the application and the entity meet the requirements of this chapter, regulations adopted under this chapter, and any other applicable statutes or regulations. A provisional license is valid for a period not to exceed one year, except that the authorizing department may extend a provisional license for one additional period not to exceed one year.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before expiration of a provisional license issued under (a) of this section, the authorizing department shall inspect and investigate the entity to determine whether the entity is operating in compliance with this chapter, regulations adopted under this chapter, and any other applicable statutes or regulations. After inspection and investigation under this subsection and before expiration of a provisional license, the authorizing department shall issue a biennial license for the entity if the department finds that</p>
+              </content>
+              <paragraph eId="47-32-050__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the entity meets the requirements for biennial licensure established in this chapter, regulations adopted under this chapter, and other applicable statutes and regulations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-050__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a ground for nonrenewal of a license does not exist; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-050__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>any applicable fee has been paid.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department issuing a license may place one or more conditions on a provisional or biennial license issued under this section in order to further the purposes of this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-060">
+            <num>47.32.060</num>
+            <heading>License renewal.</heading>
+            <subsection eId="47-32-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At least 90 days before expiration of a biennial license, a licensed entity that intends to remain licensed shall submit an application for renewal of the license on a form provided by the applicable department or in a format approved by the applicable department, accompanied by</p>
+              </content>
+              <paragraph eId="47-32-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>all documents and information identified in regulation as being required for renewal of the license; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>any fee established by regulation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before expiration of a biennial license, the authorizing department or its representative may inspect an entity that is the subject of a renewal application to determine whether the entity is operating in compliance with this chapter, regulations adopted under this chapter, and other applicable statutes or regulations. After any inspection and investigation under this subsection and before expiration of the biennial license, the authorizing department shall renew a biennial license if the department finds that</p>
+              </content>
+              <paragraph eId="47-32-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the licensed entity meets the requirements for renewal;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a ground for nonrenewal of a license does not exist; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-060__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>any applicable fee has been paid.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If an application for renewal of a license is submitted but the authorizing department is unable to complete its review of the application before the expiration of the biennial license, the license is automatically extended for six months or until the department completes its review and either approves or denies the application, whichever occurs earlier.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The authorizing department may place one or more conditions on a renewed license issued under this section to further the purposes of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall adopt regulations establishing the grounds for nonrenewal of a license for each entity that department licenses under
+AS 47.32.010
+for purposes of
+AS 47.32.050
+and this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-070">
+            <num>47.32.070</num>
+            <heading>Notice of denial or conditions; appeal.</heading>
+            <subsection eId="47-32-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the applicable department denies an application for or places conditions on a provisional or biennial license or license renewal, that department shall provide the applicant or entity with a notice of the action by certified mail. The notice must contain a written statement of the reason for the action and information about requesting a hearing under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant or entity that receives a notice of action under (a) of this section may appeal the department's decision by requesting a hearing within 15 days after receipt of the notice. The appeal must be on a form provided by the applicable department or in a format approved by the applicable department.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In considering whether to deny an application for or place a condition on a license, the department reviewing the application shall consider the licensing history of the applicant, including any enforcement action under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-080">
+            <num>47.32.080</num>
+            <heading>Posting; license not transferable.</heading>
+            <subsection eId="47-32-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A license issued under this chapter shall be posted in a conspicuous place on the licensed premises. Any notice of a variance issued by the authorizing department shall be posted near the license.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A license issued under this chapter is not transferable unless authorized by the authorizing department.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-090">
+            <num>47.32.090</num>
+            <heading>Complaints; investigation; retaliation.</heading>
+            <subsection eId="47-32-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who believes that an entity has violated an applicable statute or regulation or a condition of a license issued under this chapter may file a verbal or written complaint with the department that has licensing authority for that type of entity under
+AS 47.32.010
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department with licensing authority under (a) of this section may investigate a complaint filed under this section. The department with licensing authority under (a) of this section may decline to investigate a complaint if that department reasonably concludes and documents that the complaint is without merit based on information available to that department at the time of the complaint. The department with licensing authority under (a) of this section may consolidate complaints if that department concludes that a single investigation would further the efficient administration of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A licensed entity may not take retaliatory action against a person who files a complaint. Except as provided in
+AS 47.05.350
+and
+AS 47.32.160
+, a complainant against whom a retaliatory action has been taken may recover treble damages in a civil action upon a showing that the action was taken in retaliation for the filing of a complaint.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-090__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department with licensing authority under (a) of this section may investigate an employee, contractor, or volunteer of a licensed entity and may substantiate that the individual engaged in conduct that would significantly affect the health, safety, or welfare of an individual who is receiving a service from the entity. If the conduct is substantiated against an employee, contractor, or volunteer, the investigating department shall issue a notice of the finding to the person and include the person in the appropriate civil history database identified under
+AS 47.05.330
+. Before a substantiated finding against an employee, contractor, or volunteer may be included in a civil history database and provided as part of a check under
+AS 47.05.325
+, the department that made the finding shall provide the applicant notice of the finding and an opportunity to appeal the finding. The Department of Health and the Department of Family and Community Services shall adopt regulations to implement this subsection for the entities licensed by that department. In this subsection, volunteer includes an individual placed in a facility for training, educational, or internship purposes.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-100">
+            <num>47.32.100</num>
+            <heading>Cooperation with investigation.</heading>
+            <content>
+              <p>Sec. 47.32.100.   Cooperation with investigation.
+An entity shall cooperate with an investigation initiated by the department with licensing authority for that entity under
+AS 47.32.010
+. An investigated entity shall
+(1) permit representatives of the investigating department to inspect the entity; review records, including files of individuals who received services from the entity; interview staff; and interview individuals receiving services from the entity; and
+(2) upon request, provide the investigating department with information and documentation regarding compliance with applicable statutes and regulations.</p>
+            </content>
+          </section>
+          <section eId="sec_47-32-110">
+            <num>47.32.110</num>
+            <heading>Right of access and inspection.</heading>
+            <subsection eId="47-32-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A designated agent or employee of a department with licensing authority under
+AS 47.32.010
+shall have right of access to an entity within that department's licensing authority</p>
+              </content>
+              <paragraph eId="47-32-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to determine whether an application for licensure or renewal is appropriate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to conduct a complaint investigation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to conduct a standard inspection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-110__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to inspect documents, including personnel records, accounts, the building, or the premises;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-110__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>to interview staff or residents; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-110__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>if the department with licensing authority for that entity has reasonable cause to believe that the entity is operating in violation of this chapter or the regulations adopted under this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an entity denies access to an agent or employee of the department with licensing authority for that entity under
+AS 47.32.010
+, the department may petition the court for an order permitting access, or the department may seek to revoke the entity's license under
+AS 47.32.140
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon petition of the department with licensing authority for the entity under
+AS 47.32.010
+and after a hearing held upon reasonable notice to the entity, the court shall issue an order to an officer or employee of that department authorizing the officer or employee to enter for any of the purposes described in (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-120">
+            <num>47.32.120</num>
+            <heading>Report.</heading>
+            <subsection eId="47-32-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within 10 working days after completing an investigation or inspection under
+AS 47.32.090
+ 47.32.110, the department that conducted the investigation or inspection shall prepare a report of the results of the investigation or inspection and mail a copy of the report to the entity. The report shall include a description of</p>
+              </content>
+              <paragraph eId="47-32-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>any violation, including a citation to each statute or regulation that has been violated; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>any enforcement action the department intends to take under
+AS 47.32.130
+or 47.32.140.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An entity that receives a copy of a report under this section may submit a written response to the report to the department that prepared the report. The applicable department may require an entity to submit a response to a report received under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Within 14 days after the entity receives a copy of the report under this section, upon request of the complainant, the department that prepared the report shall provide a copy of the report to the complainant.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-130">
+            <num>47.32.130</num>
+            <heading>Enforcement action: immediate revocation or suspension.</heading>
+            <subsection eId="47-32-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the applicable department's report of investigation or inspection under
+AS 47.32.120
+concludes that the department with licensing authority for the entity under
+AS 47.32.010
+has reasonable cause to believe that a violation of an applicable statute or regulation has occurred that presents an immediate danger to the health, safety, or welfare of an individual receiving services from the entity, the department with licensing authority, without an administrative hearing and without providing an opportunity to cure or correct the violation, may immediately revoke or suspend the entity's license or, if the entity is not licensed under this chapter, may revoke the entity's ability to become licensed under this chapter or to provide services as an entity exempted under this chapter. A suspension or revocation under this subsection takes effect immediately upon initial notice to the entity from the applicable department, is in addition to any enforcement action under
+AS 47.32.140
+, and continues until a final determination under (c) of this section or
+AS 47.32.150
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notice under this section shall be provided as follows:</p>
+              </content>
+              <paragraph eId="47-32-130__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department with licensing authority shall provide initial notice to the entity at the time the department determines that an immediate suspension or revocation is required; initial notice may be oral, except that, if an entity representative is not present at the entity, the department shall post written notice on the front door of the entity; the initial notice must provide information regarding the entity's appeal rights;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-130__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the department with licensing authority shall provide formal written notice to the entity within 14 working days after the immediate revocation or suspension decision; formal written notice must include
+(A) a copy of the applicable department's report under
+AS 47.32.120
+, a statement of the entity's right to submit a written response to the report, and any regulatory requirement that the entity submit a written response to the report;
+(B) a description of any enforcement action the department with licensing authority intends to take under
+AS 47.32.140</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>or (f); and
+(C) information regarding the entity's appeal rights.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An entity to which a notice has been provided under this section may appeal the applicable department's decision to impose the enforcement action, including an enforcement action the department with licensing authority intends to take under
+AS 47.32.140</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>or (f), by filing a written request for a hearing, on a form provided by the applicable department, within 15 days after receipt of the notice. If a hearing is not timely requested under this subsection, the notice provided under (b) of this section constitutes a final administrative order for which the applicable department may seek the court's assistance in enforcing.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-140">
+            <num>47.32.140</num>
+            <heading>Violations, compliance, and enforcement.</heading>
+            <subsection eId="47-32-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the report of investigation or inspection under
+AS 47.32.120
+concludes that the department with licensing authority has reasonable cause to believe that a violation of an applicable statute or regulation has occurred, that department shall provide notice to the entity of the violation and an opportunity to cure the violation within a reasonable time specified in the notice. The notice also must include a copy of the applicable department's report under
+AS 47.32.120
+, a statement that the entity may submit a written response to the report, any regulatory requirement that the entity submit a written response to the report, a description of any enforcement action that department intends to take under (d) or (f) of this section, and information regarding the entity's appeal rights.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An entity receiving a notice under (a) of this section, or a notice under
+AS 47.32.130
+(b)(2) that contains the information specified in
+AS 47.32.130
+(b)(2)(B), shall submit a plan of correction to the applicable department for approval. Once it has cured its violations, the entity shall submit to that department an allegation of compliance. Upon receipt of the allegation of compliance, the applicable department may conduct a follow-up investigation or inspection to determine compliance. The department that provides notice of a violation may take one or more enforcement actions under (d) and (f) of this section regardless of whether the entity achieves compliance under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the department that provides notice of a violation believes that an entity has not voluntarily corrected the violation or entered into a plan of correction approved under (b) of this section, that department may require that the entity participate in a plan of correction under that department's regulations. Once the entity has cured its violations, it shall submit to the applicable department an allegation of compliance. Upon receipt of the allegation of compliance, the applicable department may conduct a follow-up investigation or inspection to determine compliance. The department that provides notice of a violation may take one or more enforcement actions under (d) and (f) of this section regardless of whether the entity achieves compliance under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-140__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department with licensing authority for an entity may take one or more of the following enforcement actions under this section:</p>
+              </content>
+              <paragraph eId="47-32-140__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>delivery of a warning notice to the licensed entity and to any additional person who was the subject of the investigation or inspection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>modification of the term or scope of the entity's existing license, including changing a biennial license to a provisional license or adding a condition to the license;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>suspension of the entity's operations for a period of time set by the department with licensing authority;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>suspension of or a ban on the entity's provision of services to individuals not already receiving services from the entity for a period of time set by the department with licensing authority;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>nonrenewal of the entity's license;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>revocation of the entity's license or, if the entity is not licensed under this chapter, revocation of the entity's ability to become licensed under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>issuance of an order requiring closure, immediate or otherwise, of the entity regardless of whether the entity is licensed or unlicensed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>denial of payments under
+AS 47.07
+for the entity's provision of services to an individual not already receiving services from the entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>assumption of either temporary or permanent management of the entity or pursuit of a court-ordered receiver for the entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>reduction of the number of individuals receiving services from the entity under the license;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>imposition of a penalty authorized under law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-140__subsec_d__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>inclusion in a civil history database identified under
+AS 47.05.330
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-140__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department with licensing authority may not take action under (d)(9) of this section unless the commissioner of that department has reasonable cause to believe that continued management by the entity while the entity is attempting to cure a violation would be injurious to the health, safety, or welfare of an individual who is receiving a service from the entity.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-140__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In addition to any other enforcement actions the department with licensing authority may take under this section, that department may assess a civil fine against an entity for a violation of an applicable statute or regulation, taking into account the type and size of the entity and the type and severity of the violation. A fine assessed under this subsection may not exceed $2,500 a day for each day of violation for a continuing violation or $25,000 for a single violation.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-140__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>An entity to which a notice has been provided under this section regarding an enforcement action under (d) or (f) of this section may appeal the applicable department's decision to impose the enforcement action by filing a written request for a hearing, on a form provided by the applicable department, not later than 15 days after receipt of the notice of the enforcement action.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-140__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>An enforcement action under (d) or (f) of this section may not be imposed until</p>
+              </content>
+              <paragraph eId="47-32-140__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the time period for requesting a hearing under
+AS 47.32.130</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>or under (g) of this section, as applicable, has passed without a hearing being requested; or</p>
+              </content>
+              <paragraph eId="47-32-140__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a final agency decision has been issued following a hearing requested under
+AS 47.32.130</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>or under (g) of this section, as applicable.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-140__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>If a hearing is not timely requested under
+AS 47.32.130</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>or under (g) of this section, as applicable, the applicable department's notice regarding an enforcement action under (d) or (f) of this section constitutes a final administrative order. The applicable department may seek the court's assistance in enforcing the final administrative order.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-140__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>An entity against which an enforcement action under (d) or (f) of this section has been taken may not apply for a license or license renewal until after the time period set by the applicable department in its final administrative order under
+AS 47.32.130
+(c), this section, or
+AS 47.32.150
+, as applicable. If a time period has not been set, a final administrative order against the entity has the effect of a permanent revocation, and the entity may not apply for a license or license renewal. If the ownership, control, or management of an entity changes, the department with licensing authority may allow the entity to seek licensure if the entity submits documents showing the change.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-140__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Assessment of a civil fine under this section does not preclude imposition of a criminal penalty under
+AS 47.32.170
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-150">
+            <num>47.32.150</num>
+            <heading>Hearings.</heading>
+            <subsection eId="47-32-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon receipt of a timely request for a hearing by an entity regarding an enforcement action under
+AS 47.32.130</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or 47.32.140(d)(3), (5), (6), (7), or (9), the applicable department shall request the chief administrative law judge appointed under
+AS 44.64.020
+to appoint an administrative law judge employed or retained by the office of administrative hearings to preside over a hearing conducted under this section.
+AS 44.62.330
+ 44.62.630 and
+AS 44.64.060
+apply to the hearing.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon receipt of a timely request for a hearing by an entity regarding an enforcement action under
+AS 47.05.310
+,
+AS 47.32.070
+, or 47.32.140(d)(1), (2), (4), (8), (10), (11), or (12) or (f), the applicable department shall conduct a hearing in front of an officer appointed by the commissioner. A hearing under this subsection may be conducted on the record, in an informal manner, and may not be conducted under
+AS 44.62
+or
+AS 44.64
+. The appointed hearing officer may be a state employee.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The decision following a hearing conducted under (a) or (b) of this section constitutes a final agency administrative order.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-150__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A hearing conducted under this section shall take place within 120 days after the applicable department's receipt of the request for hearing. A hearing may be held on an expedited basis upon a showing of good cause. An expedited hearing shall be held within 60 days after the applicable department's receipt of the request for a hearing.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-160">
+            <num>47.32.160</num>
+            <heading>Immunity.</heading>
+            <subsection eId="47-32-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Health and the Department of Family and Community Services and the employees and agents of both departments are not liable for civil damages as a result of an act or omission in the licensure process, the monitoring of a licensed entity, or any activities under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A volunteer who works for a hospice program licensed under this chapter is not liable for damages for personal injury, wrongful death, or property damage for an act or omission committed in the course of hospice-related duties unless the act or omission constitutes gross negligence, recklessness, or intentional misconduct.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-170">
+            <num>47.32.170</num>
+            <heading>Criminal penalty.</heading>
+            <content>
+              <p>Sec. 47.32.170.   Criminal penalty.
+A person who intentionally or with criminal negligence violates a provision of this chapter or a regulation adopted under this chapter related to the health and safety of persons served by an entity required to comply with this chapter is guilty of a class B misdemeanor.</p>
+            </content>
+          </section>
+          <section eId="sec_47-32-180">
+            <num>47.32.180</num>
+            <heading>Confidentiality; release of certain information.</heading>
+            <subsection eId="47-32-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided by law, the following are confidential and may not be disclosed to the public without a court order: complaints; investigations; inspections; records related to a complaint, investigation, or inspection; and the identity of a complainant and of individuals receiving services from an entity.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>With the exception of information that identifies a complainant or a recipient of services from an entity, a copy of a department's report of investigation or inspection under
+AS 47.32.120
+, an entity's written response to the report, and information regarding a department's imposition of an enforcement action under
+AS 47.32.130
+or 47.32.140 are public records under
+AS 40.25.100
+ 40.25.295. The departments shall make this information available to the public for inspection and copying within time frames specified in
+AS 40.25.100
+ 40.25.295 or regulations adopted under
+AS 40.25.100
+ 40.25.295 after the</p>
+              </content>
+              <paragraph eId="47-32-180__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>entity receives its copy of the report of investigation under
+AS 47.32.120
+, if the applicable department has determined that an enforcement action under
+AS 47.32.130
+or 47.32.140 will not be taken regarding the entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-180__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>applicable department's notice of enforcement action under
+AS 47.32.130
+or 47.32.140 becomes a final administrative order without a hearing under
+AS 47.32.130</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>or 47.32.140(i); or</p>
+              </content>
+              <paragraph eId="47-32-180__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>issuance of a decision following a hearing under
+AS 47.32.150
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding any other provision of law, a department conducting a licensing investigation under this chapter may, upon request, share information obtained during the investigation with a law enforcement agency that is investigating a crime that is the subject of the licensing investigation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-190">
+            <num>47.32.190</num>
+            <heading>Access to information.</heading>
+            <content>
+              <p>Sec. 47.32.190.   Access to information.
+Notwithstanding any contrary provision of law, the divisions of each department assigned to implement this chapter shall have access to any information compiled or retained by other divisions of that department, regardless of the nature of the information or whether the information is considered confidential, in order to assist in administering the provisions of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_47-32-200">
+            <num>47.32.200</num>
+            <heading>Notices required of entities.</heading>
+            <subsection eId="47-32-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An entity shall provide the department with licensing authority for that entity with written notice of a change of mailing address at least 14 days before the effective date of the change.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An entity shall notify the department with licensing authority for that entity within 24 hours after having knowledge that an administrator, employee, volunteer, or household member, as required by the type of entity under department regulations, has been</p>
+              </content>
+              <paragraph eId="47-32-200__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>convicted of, has been charged by information or complaint with, or is under indictment or presentment for an offense listed in regulations adopted under
+AS 47.05.310
+or a law or ordinance of this or another jurisdiction with similar elements; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-200__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>found to have neglected or abused a child as described in
+AS 47.10
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An entity shall notify the department with licensing authority for that entity within 24 hours after having knowledge of any allegation or suspicion of abuse, neglect, or misappropriation of money or other property of an individual receiving services from the entity. The entity shall conduct an investigation and make a written report to that department within five days following notification to the department under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-200__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Not less than 20 days before the effective date of a decision to relinquish the entity's license, the entity shall notify the department with licensing authority for that entity of the decision.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-200__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Not more than one day after signing a contract for sale of the licensed entity, the entity shall notify the department with licensing authority for that entity of the sale.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-200__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Not less than 30 days before an entity wishes to change the location of the entity, the entity shall notify the department with licensing authority for that entity of the change.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-32-900">
+            <num>47.32.900</num>
+            <heading>Definitions.</heading>
+            <subsection eId="47-32-900__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>provides housing and food services to its residents;
+(ii) offers to provide or obtain for its residents assistance with activities of daily living;
+(iii) offers personal assistance as defined in
+AS 47.33.990
+; or
+(iv) provides or offers any combination of these services;
+(B) does not include</p>
+              </content>
+            </subsection>
+            <subsection eId="47-32-900__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a correctional facility;
+(ii) an emergency shelter;
+(iii) a program licensed under
+AS 47.10.310
+for runaway minors;
+(iv) a type of entity listed in
+AS 47.32.010
+(b)(6)  (11) or (c)(2);</p>
+              </content>
+              <paragraph eId="47-32-900__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>child placement agency means an agency that arranges for placement of a child
+(A) in a foster home, residential child care facility, or adoptive home; or
+(B) for guardianship purposes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>entity means an entity listed in
+AS 47.32.010</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-32-900__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c);</p>
+              </content>
+              <paragraph eId="47-32-900__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>foster home means a place where the adult head of household provides 24-hour care on a continuing basis to one or more children who are apart from their parents;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>freestanding birth center means a facility that is not a part of a hospital and that provides a birth service to maternal clients;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>frontier extended stay clinic means a rural health clinic that is authorized to provide 24-hour care to one or more individuals;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>home health agency means a public agency or private organization, or a subdivision of a public agency or private organization, that primarily engages in providing skilled nursing services in combination with physical therapy, occupational therapy, speech therapy, or services provided by a home health aide to an individual in the individual's home, an assisted living home, or another residential setting; in this paragraph,
+(A) public agency means an agency operated by the state or a local government;
+(B) subdivision means a component of a multi-function facility or home health agency, such as the home health care division of a hospital or the division of a public agency, that independently meets the requirements for licensure as a home health agency;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>hospice or agency providing hospice services or operating hospice programs means a program that provides hospice services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>hospice services means a range of interdisciplinary palliative and supportive services
+(A) provided in a home or at an inpatient facility to persons who are terminally ill and to those persons' families in order to meet their physical, psychological, social, emotional, and spiritual needs; and
+(B) based on hospice philosophy; for purposes of this subparagraph, hospice philosophy means a philosophy that is life affirming, recognizes dying as a normal process of living, focuses on maintaining the quality of remaining life, neither hastens nor postpones death, strengthens the client's role in making informed decisions about care, and stresses the delivery of services in the least restrictive setting possible and with the least amount of technology necessary by volunteers and professionals who are trained to help a client with the physical, social, psychological, spiritual, and emotional issues related to terminal illness so that the client can feel better prepared for the death that is to come;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>hospital means a public or private institution or establishment devoted primarily to providing diagnosis, treatment, or care over a continuous period of 24 hours each day for two or more unrelated individuals suffering from illness, physical or mental disease, injury or deformity, or any other condition for which medical or surgical services would be appropriate; hospital does not include a frontier extended stay clinic;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>host care home means a home in which the adult head of household resides and provides 24-hour care on a continuing basis under a license issued under
+AS 47.32.033
+for an individual eligible under
+AS 47.07.048
+.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>intermediate care facility for individuals with an intellectual disability or related condition has the meaning given in 42 C.F.R. 440.150;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>licensed entity means an entity that has a license issued under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>maternity home means a place of residence the primary function of which is to give care, with or without compensation, to pregnant individuals, regardless of age, or that provides care, as needed, to mothers and their newborn infants;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>nursing facility means a facility that is primarily engaged in providing skilled nursing care or rehabilitative services and related services for those who, because of their mental or physical condition, require care and services above the level of room and board; nursing facility does not include a facility that is primarily for the care and treatment of mental diseases;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>residential child care facility means a place, staffed by employees, where one or more children who are apart from their parents receive 24-hour care on a continuing basis;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>residential psychiatric treatment center means a secure or semi-secure facility, or an inpatient program in another facility, that provides, under the direction of a physician, psychiatric diagnostic, evaluation, and treatment services on a 24-hour-a-day basis to children with severe emotional or behavioral disorders;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>runaway shelter means a facility housing a runaway child;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>rural health clinic
+(A) means a facility or clinic that is authorized to provide health care services and is located in a rural area;
+(B) includes a frontier extended stay clinic;
+(C) does not include a rehabilitation agency or a facility primarily for the care and treatment of mental diseases.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-32-900__subsec_b__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>subacute mental health facility means a facility, or a part or unit of a facility, that has been designed to evaluate, stabilize, and treat, on a short-term, intensive, and recovery-oriented basis, and without the use of hospitalization, individuals experiencing an acute behavioral health crisis, including a crisis stabilization center and a crisis residential center; in this paragraph,
+(A) crisis residential center means a subacute mental health facility that has a maximum stay of seven days for an involuntary admission;
+(B) crisis stabilization center means a subacute mental health facility that has a maximum stay of 23 hours and 59 minutes.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

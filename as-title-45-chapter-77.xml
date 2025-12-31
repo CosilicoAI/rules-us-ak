@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-77"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-77"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.77"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-77/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-77/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-77/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-77/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_77">
+          <num>77</num>
+          <heading>Foreign Trade Zones</heading>
+          <section eId="sec_45-77-010">
+            <num>45.77.010</num>
+            <heading>Application for establishment of foreign trade zone.</heading>
+            <subsection eId="45-77-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A public corporation may apply for the privilege of establishing, operating, and maintaining a foreign trade zone or zones in the state as provided in 19 U.S.C. secs. 81a  81u (Foreign Trade Zones Act), and if the application is granted, may establish, operate, and maintain the zone in accordance with applicable law.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-77-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>With the approval of the commissioner of commerce, community, and economic development, any private corporation may apply as described in (a) of this section, and, if the application is granted, may establish, operate, and maintain a foreign trade zone.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-77-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing in this section prevents a successful applicant from entering into a contract for services for the operation or maintenance of the foreign trade zone.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-77-020">
+            <num>45.77.020</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 45.77.020.   Definitions.
+In this chapter,
+(1) foreign trade zone means a foreign trade zone established under 19 U.S.C. secs. 81a  81u (Foreign Trade Zones Act), as amended, or any laws of the United States enacted as replacements for those provisions;
+(2) private corporation means a corporation, other than a public corporation, formed under the laws of the State of Alaska for the purpose of establishing, operating, and maintaining a foreign trade zone;
+(3) public corporation means the State of Alaska, a political subdivision of the state, a public authority, commission, agency, or corporate instrumentality of the state or of a political subdivision of the state, or any combination of these entities.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

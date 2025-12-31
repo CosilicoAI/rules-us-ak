@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-90"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-90"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="3.90"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-90/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-90/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-90/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-90/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_3">
+        <num>3</num>
+        <heading>Agriculture, Animals, and Food</heading>
+        <chapter eId="title_3__chp_90">
+          <num>90</num>
+          <heading>General Provisions</heading>
+          <section eId="sec_03-90-010">
+            <num>03.90.010</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 03.90.010.   Definitions.
+In this title, unless otherwise indicated,
+(1) commissioner means the commissioner of natural resources;
+(2) department means the Department of Natural Resources.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

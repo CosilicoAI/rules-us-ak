@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-17"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-17"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.17"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-17/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-17/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-17/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-17/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_17">
+          <num>17</num>
+          <heading>Child Protection</heading>
+          <section eId="sec_47-17-010">
+            <num>47.17.010</num>
+            <heading>Purpose.</heading>
+            <content>
+              <p>Sec. 47.17.010.   Purpose.
+To protect children whose health and well-being may be adversely affected through the infliction, by other than accidental means, of harm through physical injury or neglect, mental injury, sexual abuse, sexual exploitation, or maltreatment, the legislature requires the reporting of these cases by practitioners of the healing arts and others to the department. It is not the intent of the legislature that persons required to report suspected child abuse or neglect under this chapter investigate the suspected child abuse or neglect before they make the required report to the department. Reports must be made when there is a reasonable cause to suspect child abuse or neglect in order to make state investigative and social services available in a wider range of cases at an earlier point in time, to make sure that investigations regarding child abuse and neglect are conducted by trained investigators, and to avoid subjecting a child to duplicative interviews about the abuse or neglect. It is the intent of the legislature that, as a result of these reports, protective services will be made available in an effort to
+(1) prevent further harm to the child;
+(2) safeguard and enhance the general well-being of children in this state; and
+(3) preserve family life unless that effort is likely to result in physical or emotional damage to the child.</p>
+            </content>
+          </section>
+          <section eId="sec_47-17-020">
+            <num>47.17.020</num>
+            <heading>Persons required to report.</heading>
+            <subsection eId="47-17-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The following persons who, in the performance of their occupational duties, their appointed duties under (8) of this subsection, or their volunteer duties under (9) of this subsection, have reasonable cause to suspect that a child has suffered harm as a result of child abuse or neglect shall immediately report the harm to the nearest office of the department and, if the harm appears to be a result of a suspected sex offense, shall immediately report the harm to the nearest law enforcement agency:</p>
+              </content>
+              <paragraph eId="47-17-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>practitioners of the healing arts;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>school teachers and school administrative staff members, including athletic coaches, of public and private schools;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>peace officers and officers of the Department of Corrections;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>administrative officers of institutions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>child care providers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>paid employees of domestic violence and sexual assault programs, and crisis intervention and prevention programs as defined in
+AS 18.66.990
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>paid employees of an organization that provides counseling or treatment to individuals seeking to control their use of drugs or alcohol;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>members of a child fatality review team established under
+AS 12.65.015</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>or 12.65.120 or the multidisciplinary child protection team created under
+AS 47.14.300
+;</p>
+              </content>
+              <paragraph eId="47-17-020__subsec_e__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>volunteers who interact with children in a public or private school for more than four hours a week;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_e__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>juvenile probation officers, juvenile probation office staff, and staff of juvenile detention facilities and juvenile treatment facilities, as those terms are defined in
+AS 47.12.990
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not prohibit the named persons from reporting cases that have come to their attention in their nonoccupational capacities, nor does it prohibit any other person from reporting a child's harm that the person has reasonable cause to suspect is a result of child abuse or neglect. These reports shall be made to the nearest office of the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the person making a report of harm under this section cannot reasonably contact the nearest office of the department and immediate action is necessary for the well-being of the child, the person shall make the report to a peace officer. The peace officer shall immediately take action to protect the child and shall, at the earliest opportunity, notify the nearest office of the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section does not require a religious healing practitioner to report as neglect of a child the failure to provide medical attention to the child if the child is provided treatment solely by spiritual means through prayer in accordance with the tenets and practices of a recognized church or religious denomination by an accredited practitioner of the church or denomination.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall immediately notify the nearest law enforcement agency if the department</p>
+              </content>
+              <paragraph eId="47-17-020__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>concludes that the harm was caused by a person who is not responsible for the child's welfare;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is unable to determine
+(A) who caused the harm to the child; or
+(B) whether the person who is believed to have caused the harm has responsibility for the child's welfare; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>concludes that the report involves
+(A) possible criminal sex abuse or sex offenses under
+AS 11.41.410
+ 11.41.458,
+AS 11.61.116
+, 11.61.118(a)(2), 11.61.120(a)(6), 11.61.123, or 11.61.128, including sex offenses committed by a minor against a minor; or
+(B) abuse or neglect that results in the need for medical treatment of the child.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If a law enforcement agency determines that a child has been abused or neglected and that (1) the harm was caused by a teacher or other person employed by the school or school district in which the child is enrolled as a student, (2) the harm occurred during an activity sponsored by the school or school district in which the child is enrolled as a student, or (3) the harm occurred on the premises of the school in which the child is enrolled as a student or on the premises of a school within the district in which the child is enrolled as a student, the law enforcement agency shall notify the chief administrative officer of the school or district in which the child is enrolled immediately after the agency determines that a child has been abused or neglected under the circumstances set out in this section, except that if the person about whom the report has been made is the chief administrative officer or a member of the chief administrative officer's immediate family, the law enforcement agency shall notify the commissioner of education and early development that the child has been abused or neglected under the circumstances set out in this section. The notification must set out the factual basis for the law enforcement agency's determination. If the notification involves a person in the teaching profession, as defined in
+AS 14.20.370
+, the law enforcement agency shall send a copy of the notification to the Professional Teaching Practices Commission.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-020__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A person required to report child abuse or neglect under (a) of this section who makes the report to the person's job supervisor or to another individual working for the entity that employs the person is not relieved of the obligation to make a report required under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-020__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>This section does not require a person required to report child abuse or neglect under (a)(6) of this section to report mental injury to a child as a result of exposure to domestic violence so long as the person has reasonable cause to believe that the child is in safe and appropriate care and not presently in danger of mental injury as a result of exposure to domestic violence.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>This section does not require a person required to report child abuse or neglect under (a)(7) of this section to report the resumption of use of an intoxicant as described in
+AS 47.10.011</p>
+              </content>
+              <paragraph eId="47-17-020__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>so long as the person does not have reasonable cause to suspect that a child has suffered harm as a result of the resumption.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-020__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>This section does not require an athletic coach who is an unpaid volunteer to report child abuse or neglect under (a)(2) of this section unless the coach</p>
+              </content>
+              <paragraph eId="47-17-020__subsec_j__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>volunteers for more than
+(A) four hours a week for four consecutive weeks; or
+(B) 20 hours a week in a one-month period;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_j__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has received the training required under
+AS 47.17.022
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-020__subsec_j__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>has signed a form acknowledging that the coach is required to report child abuse or neglect under this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-022">
+            <num>47.17.022</num>
+            <heading>Training.</heading>
+            <subsection eId="47-17-022__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person employed by the state or by a school district who is required under this chapter to report abuse or neglect of children shall receive training on the recognition and reporting of child abuse and neglect.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-022__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each department of the state and school district that employs persons required to report abuse or neglect of children shall provide</p>
+              </content>
+              <paragraph eId="47-17-022__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>initial training required by this section to each new employee within 45 days after the first day of employment, and to any existing employee who has not received equivalent training; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-022__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>appropriate in-service training required by this section as determined by the department or school district.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-022__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Each department and school district that must comply with (b) of this section shall develop a training curriculum that acquaints its employees with</p>
+              </content>
+              <paragraph eId="47-17-022__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>laws relating to child abuse and neglect;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-022__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>techniques for recognition and detection of child abuse and neglect;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-022__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>agencies and organizations within the state that offer aid or shelter to victims and the families of victims of child abuse or neglect;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-022__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>procedures for required notification of suspected abuse or neglect;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-022__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the role of a person required to report child abuse or neglect and the employing agency after the report has been made; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-022__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a brief description of the manner in which cases of child abuse or neglect are investigated by the department and law enforcement agencies after a report of suspected abuse or neglect.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-022__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Each department and school district that must comply with (b) of this section shall file a current copy of its training curriculum and materials with the Council on Domestic Violence and Sexual Assault. A department or school district may seek the technical assistance of the council or the Department of Family and Community Services in the development of its training program.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-022__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Each school district that provides training under this section shall provide notice to public and private schools located in the school district of the availability of the training and invite volunteers who are required to report abuse or neglect of children under
+AS 47.17.020
+to participate in the training at no cost to the volunteer.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-023">
+            <num>47.17.023</num>
+            <heading>Reports from certain persons regarding child sexual abuse material.</heading>
+            <subsection eId="47-17-023__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>shall immediately report the observation to the nearest law enforcement agency and provide the law enforcement agency with all information known about the nature and origin of the film, photo, picture, computer file, image, or other matter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-024">
+            <num>47.17.024</num>
+            <heading>Duties of practitioners of the healing arts.</heading>
+            <subsection eId="47-17-024__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A practitioner of the healing arts involved in the delivery or care of an infant who the practitioner determines has been adversely affected by, or is withdrawing from exposure to, a controlled substance or alcohol shall immediately notify the nearest office of the department of the infant's condition.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-024__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="47-17-024__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>controlled substance has the meaning given in
+AS 11.71.900
+, but does not include a substance lawfully taken under a prescription from a health care provider who is authorized to prescribe the substance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-024__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>infant means a child who is less than 12 months of age.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-025">
+            <num>47.17.025</num>
+            <heading>Duties of public authorities.</heading>
+            <subsection eId="47-17-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A law enforcement agency shall immediately notify the department of the receipt of a report of harm to a child from abuse.  Upon receipt from any source of a report of harm to a child from abuse, the department shall notify the Department of Law and investigate the report and, within 72 hours of the receipt of the report, shall provide a written report of its investigation of the harm to a child from abuse to the Department of Law for review.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The report of harm to a child from abuse required from the department by this section must include:</p>
+              </content>
+              <paragraph eId="47-17-025__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the names and addresses of the child and the child's parent or other persons responsible for the child's care, if known;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-025__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the age and sex of the child;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-025__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the nature and extent of the harm to the child from abuse;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-025__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the name and age and address of the person known or believed to be responsible for the harm to the child from abuse, if known;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-025__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>information that the department believes may be helpful in establishing the identity of the person believed to have caused the harm to the child from abuse.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Within 20 days after receiving a report of harm, whether or not the matter is referred to a local government agency, the department shall notify the person who made the report and who made a request to be notified about the status of the investigation, without disclosing any confidential information.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-027">
+            <num>47.17.027</num>
+            <heading>Duties of school officials.</heading>
+            <subsection eId="47-17-027__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the department or a law enforcement agency provides written certification to the child's school officials that (1) there is reasonable cause to suspect that the child has been abused or neglected by a person responsible for the child's welfare or as a result of conditions created by a person responsible for the child's welfare; (2) an interview at school is a necessary part of an investigation to determine whether the child has been abused or neglected; and (3) the interview at school is in the best interests of the child, school officials shall permit the child to be interviewed at school by the department or a law enforcement agency before notification of, or receiving permission from, the child's parent, guardian, or custodian. A school official shall be present during an interview at the school unless the child objects or the department or law enforcement agency determines that the presence of the school official will interfere with the investigation. The interview shall be conducted as required under
+AS 47.17.033
+. Immediately after conducting an interview authorized under this section, and after informing the child of the intention to notify the child's parent, guardian, or custodian, the department or agency shall make every reasonable effort to notify the child's parent, guardian, or custodian that the interview occurred unless it appears to the department or agency that notifying the child's parent, guardian, or custodian would endanger the child.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-027__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A school official who, with criminal negligence, discloses information learned during an interview conducted under (a) of this section is guilty of a class B misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-030">
+            <num>47.17.030</num>
+            <heading>Action on reports of harm; disclosure.</heading>
+            <subsection eId="47-17-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a child, concerning whom a report of harm is made, is believed to reside within the boundaries of a local government exercising health functions for the area in which the child is believed to reside, the department may, upon receipt of the report, refer the matter to the appropriate health or social services agency of that local government.  For cases not referred to an agency of a local government, the department shall, for each report received, investigate and take action, in accordance with law, that may be necessary to prevent further harm to the child or to ensure the proper care and protection of the child.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A local government health or social services agency receiving a report of harm shall, for each report received, investigate and take action, in accordance with law, that may be necessary to prevent further harm to the child or to ensure the proper care and protection of the child.  In addition, the agency receiving a report of harm shall forward a copy of its report of the investigation, including information the department requires by regulation, to the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Action shall be taken regardless of whether the identity of the person making the report of harm is known.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Before the department or a local government health or social services agency may seek the termination of parental rights under
+AS 47.10
+, it shall offer protective social services and pursue all other reasonable means of protecting the child.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In all actions taken by the department or a health and social services agency of a local government under this chapter that result in a judicial proceeding, the child shall be represented by a guardian ad litem in that proceeding. Appointment of a guardian ad litem shall be made in accordance with
+AS 25.24.310
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-030__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If an investigation under this section shows reasonable cause to believe that a certified nurse aide has committed abuse, neglect, or misappropriation of property, the department shall report the matter to the Board of Nursing.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-030__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>When the department or a local government health or social services agency (1) completes an investigation of a report of harm concerning a child, (2) determines, based on the investigation findings, that department or local agency services to protect the child are not required, and (3) identifies an appropriate community organization that will actively reach out to families to provide needed support services, the department or local government health or social services agency shall seek the written consent of the child's parent or guardian to refer the family to the community organization. If the parent or guardian consents to the referral, the department or local government health or social services agency shall refer the parent or guardian to the community organization identified by the department. If the child has more than one parent or guardian and only one parent or guardian consents to the referral, the department or local government health or social services agency shall refer the parent or guardian who consents to the community organization but may not provide information to the community organization concerning the parent or guardian who does not consent to the referral. A community organization that receives information from the department or a local government health or social services agency under this subsection may not disclose the information to a person who is not authorized by law to receive it.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-030__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>If a report of harm concerns a child of a member of the armed forces of the United States who is on active duty, the department shall, within seven days after receiving the report of harm, notify a designated authority at the duty station where the member is assigned that the department has received a report of harm concerning the child. A designated authority that receives information under this subsection may not disclose the information to a person who is not authorized by law to receive it. In this subsection, designated authority means a person designated by the armed forces of the United States to receive notification of reports of harm.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-033">
+            <num>47.17.033</num>
+            <heading>Investigations and interviews.</heading>
+            <subsection eId="47-17-033__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In investigating child abuse and neglect reports under this chapter, the department may make necessary inquiries about the criminal records of the parents or of the alleged abusive or neglectful person, including inquiries about the existence of a criminal history record involving a serious offense as defined in
+AS 12.62.900
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-033__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of obtaining access to information needed to conduct the inquiries required by (a) of this section, the department is a criminal justice agency conducting a criminal justice activity.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-033__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An investigation by the department or another investigating agency of child abuse or neglect reported under this chapter shall be conducted by a person trained to conduct a child abuse and neglect investigation and without subjecting a child to duplicative interviews about the abuse or neglect except when new information is obtained that requires further information from the child.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-033__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An interview of a child conducted as a result of a report of harm may be audiotaped or videotaped. If an interview of a child concerns a report of sexual abuse of the child by a parent or caretaker of the child, the interview shall be videotaped, unless videotaping the interview is not feasible or will, in the opinion of the investigating agency, result in trauma to the child.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-033__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An interview of a child that is audiotaped or videotaped under (d) of this section shall be conducted</p>
+              </content>
+              <paragraph eId="47-17-033__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>by a person trained and competent to conduct the interview;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-033__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if available, at a child advocacy center; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-033__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>by a person who is a party to a memorandum of understanding with the department to conduct the interview or who is employed by an agency that is authorized to conduct investigations.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-033__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An interview of a child may not be videotaped more than one time unless the interviewer or the investigating agency determines that one or more additional interviews are necessary to complete an investigation. If additional interviews are necessary, the additional interviews shall be conducted, to the extent possible, by the same interviewer who conducted the initial interview of the child.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-033__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A recorded interview of a child shall be preserved in the manner and for a period provided by law for maintaining evidence and records of a public agency.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-033__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A recorded interview of a child is subject to disclosure under the applicable court rules for discovery in a civil or criminal case.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-033__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The training required under (c) of this section must address the constitutional and statutory rights of children and families that apply throughout the investigation and department intervention. The training must inform department representatives of the applicable legal duties to protect the rights and safety of a child and the child's family.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-033__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>During a joint investigation by the department and a law enforcement agency, the department shall coordinate an investigation of child abuse or neglect with the law enforcement agency to ensure that the possibility of a criminal charge is not compromised.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-033__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Unless a law enforcement official prohibits or restricts notification under (j) of this section, at the time of initial contact with a person alleged to have committed child abuse or neglect, the department shall notify the person of the specific complaint or allegation made against the person, except that the identity of the complainant may not be revealed.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-033__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>In this section, child advocacy center means a facility operated with a child-focused, community partnership committed to a multidisciplinary team approach that includes representatives from law enforcement, child protection, criminal prosecution, victim advocacy, and the medical and mental health fields who collaborate and assist in investigating allegations of sexual or other abuse and neglect of children.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-035">
+            <num>47.17.035</num>
+            <heading>Duties of department in domestic violence cases.</heading>
+            <subsection eId="47-17-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In consultation with the Council on Domestic Violence and Sexual Assault, the department shall develop written procedures for screening reports of harm for abuse and neglect of a child to assess whether there is domestic violence occurring within the family. The procedures must include the following factors:</p>
+              </content>
+              <paragraph eId="47-17-035__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>inquiry concerning the criminal records of the parents or of the alleged abusive or neglectful person or the alleged perpetrator if not the parent of the child; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-035__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>inquiry concerning the existence of protective orders issued or filed under
+AS 18.66.100
+ 18.66.180 involving either parent as a petitioner or respondent.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the department determines in an investigation of abuse or neglect of a child that</p>
+              </content>
+              <paragraph eId="47-17-035__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the child is in danger because of domestic violence or that the child needs protection as a result of the presence of domestic violence in the family, the department shall take appropriate steps for the protection of the child; in this paragraph, appropriate steps includes
+(A) reasonable efforts to protect the child and prevent the removal of the child from the parent or guardian who is not a domestic violence offender;
+(B) reasonable efforts to remove the alleged domestic violence offender from the child's residence if it is determined that the child or another family or household member is in danger of domestic violence; and
+(C) services to help protect the child from being placed or having unsupervised visitation with the domestic violence offender until the department determines that the offender has met conditions considered necessary by the department to protect the safety of the domestic violence victim and household members;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-035__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a person is the victim of domestic violence, the department shall provide the victim with a written notice of the rights of and services available to victims of domestic violence that is substantially similar to the notice provided to victims of domestic violence under
+AS 18.65.520
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-035__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of obtaining access to information needed to conduct the inquiries required by (a)(1) and (2) of this section, the department is a criminal justice agency conducting a criminal justice activity.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-035__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person may not bring a civil action for damages for a failure to comply with the provisions of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-035__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="47-17-035__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>criminal justice activity has the meaning given in
+AS 12.62.900
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-035__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>criminal justice agency has the meaning given in
+AS 12.62.900
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-035__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>domestic violence has the meaning given in
+AS 18.66.990
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-040">
+            <num>47.17.040</num>
+            <heading>Child protection registry; confidentiality.</heading>
+            <subsection eId="47-17-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall maintain a child protection registry of all investigation reports, including substantiated findings under
+AS 47.10
+or
+AS 47.17
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Investigation reports and reports of harm filed under this chapter are considered confidential and are not subject to public inspection and copying under
+AS 40.25.110
+and 40.25.120. However, in accordance with department regulations, investigation reports, including substantiated findings under
+AS 47.10
+or
+AS 47.17
+, may be used by appropriate governmental agencies with child-protection functions, inside and outside the state, in connection with investigations or judicial proceedings involving child abuse, neglect, or custody and in conjunction with licensing action under
+AS 47.32
+or a similar statute in another state. A person not acting in accordance with department regulations who, with criminal negligence, makes public information contained in confidential reports is guilty of a class B misdemeanor.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Before a substantiated finding may be placed on the child protection registry and provided as part of a civil history check under
+AS 47.05.325
+, the department shall provide the applicant notice of the finding and an opportunity to appeal the finding. The department shall adopt regulations to implement this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, governmental agency includes a tribe or tribal organization conducting child protection functions and a school district.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-050">
+            <num>47.17.050</num>
+            <heading>Immunity.</heading>
+            <subsection eId="47-17-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section, a person who, in good faith, makes a report under this chapter, permits an interview under
+AS 47.17.027
+, or participates in judicial proceedings related to the submission of reports under this chapter, is immune from civil or criminal liability that might otherwise be incurred or imposed for making the report or permitting the interview, except that a person who knowingly makes an untimely report is not immune from civil or criminal liability based on the delay in making the report.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-17-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a person accused of committing the child abuse or neglect is not immune from civil or criminal liability for the child abuse or neglect as a result of reporting the child abuse or neglect.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-060">
+            <num>47.17.060</num>
+            <heading>Evidence not privileged.</heading>
+            <content>
+              <p>Sec. 47.17.060.   Evidence not privileged.
+Neither the physician-patient nor the husband-wife privilege is a ground for excluding evidence regarding a child's harm, or its cause, in a judicial proceeding related to a report made under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_47-17-064">
+            <num>47.17.064</num>
+            <heading>Photographs and x-rays.</heading>
+            <subsection eId="47-17-064__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department or a practitioner of the healing arts may, without the permission of the parents, guardian, or custodian, take the following actions with regard to a child who the department or practitioner has reasonable cause to suspect has suffered physical harm as a result of child abuse or neglect:</p>
+              </content>
+              <paragraph eId="47-17-064__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>take or have taken photographs of the areas of trauma visible on the child; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-064__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if medically indicated, have a medical or radiological examination of the child performed by a person who is licensed to administer the examination.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-064__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department or a practitioner of the healing arts shall notify the parents, guardian, or custodian of a child as soon as possible after taking action under (a) of this section with regard to the child.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-068">
+            <num>47.17.068</num>
+            <heading>Penalty for failure to report.</heading>
+            <content>
+              <p>Sec. 47.17.068.   Penalty for failure to report.
+A person who fails to comply with the provisions of
+AS 47.17.020
+or 47.17.023 and who knew or should have known that the circumstances gave rise to the need for a report, is guilty of a class A misdemeanor.</p>
+            </content>
+          </section>
+          <section eId="sec_47-17-069">
+            <num>47.17.069</num>
+            <heading>Protective injunctions.</heading>
+            <subsection eId="47-17-069__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A court may enjoin or limit a person from contact with a child if the attorney general establishes by a preponderance of the evidence that the person</p>
+              </content>
+              <paragraph eId="47-17-069__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has sexually abused a child;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-069__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has physically abused a child; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-17-069__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>has engaged in conduct that constitutes a clear and present danger to the mental, emotional, or physical welfare of a child.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-17-069__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not limit the authority of the attorney general or the court to act to protect a child.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-17-290">
+            <num>47.17.290</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 47.17.290.   Definitions.
+In this chapter,
+(1)  athletic coach means
+(A) a paid leader or assistant of a sports team; or
+(B) a volunteer leader or assistant of a sports team who volunteers as a leader or assistant of a sports team for more than four hours a week;
+(2) child means a person under 18 years of age;
+(3) child abuse or neglect means the physical injury or neglect, mental injury, sexual abuse, sexual exploitation, or maltreatment of a child under the age of 18 by a person under circumstances that indicate that the child's health or welfare is harmed or threatened thereby; in this paragraph, mental injury means an injury to the emotional well-being, or intellectual or psychological capacity of a child, as evidenced by an observable and substantial impairment in the child's ability to function;
+(4) child care provider means an adult individual, including a foster parent or an employee of an organization, who provides care and supervision to a child for compensation or reimbursement;
+(5) criminal negligence has the meaning given in
+AS 11.81.900
+;
+(6) department means the Department of Family and Community Services;
+(7) immediately means as soon as is reasonably possible, and no later than 24 hours;
+(8) institution means a private or public hospital or other facility providing medical diagnosis, treatment, or care;
+(9) maltreatment means an act or omission that results in circumstances in which there is reasonable cause to suspect that a child may be a child in need of aid, as described in
+AS 47.10.011
+, except that, for purposes of this chapter, the act or omission need not have been committed by the child's parent, custodian, or guardian;
+(10) mental injury means a serious injury to the child as evidenced by an observable and substantial impairment in the child's ability to function in a developmentally appropriate manner and the existence of that impairment is supported by the opinion of a qualified expert witness;
+(11) neglect means the failure by a person responsible for the child's welfare to provide necessary food, care, clothing, shelter, or medical attention for a child;
+(12) organization means a group or entity that provides care and supervision for compensation to a child not related to the caregiver, and includes a child care facility, pre-elementary school, early education program, head start center, child foster home, residential child care facility, recreation program, children's camp, and children's club;
+(13) person responsible for the child's welfare means the child's parent, guardian, foster parent, a person responsible for the child's care at the time of the alleged child abuse or neglect, or a person responsible for the child's welfare in a public or private residential agency or institution;
+(14) practitioner of the healing arts includes athletic trainers, chiropractors, mental health counselors, social workers, dental hygienists, dentists, health aides, nurses, nurse practitioners, certified nurse aides, occupational therapists, occupational therapy assistants, optometrists, osteopaths, naturopaths, physical therapists, physical therapist assistants, physicians, physician assistants, psychiatrists, psychologists, psychological associates, audiologists and speech-language pathologists licensed under
+AS 08.11
+, hearing aid dealers licensed under
+AS 08.55
+, marital and family therapists licensed under
+AS 08.63
+, behavior analysts, assistant behavior analysts, religious healing practitioners, acupuncturists, and surgeons;
+(15) reasonable cause to suspect means cause, based on all the facts and circumstances known to the person, that would lead a reasonable person to believe that something might be the case;
+(16) school district means a city or borough school district or regional educational attendance area;
+(17) sex offense has the meaning given in
+AS 12.63.100
+;
+(18) sexual exploitation includes
+(A) allowing, permitting, or encouraging a child to engage in prostitution prohibited by
+AS 11.66.100
+  11.66.150, by a person responsible for the child's welfare;
+(B) allowing, permitting, encouraging, or engaging in activity prohibited by
+AS 11.41.455
+(a), by a person responsible for the child's welfare.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-57"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-57"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.57"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-57/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-57/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-57/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-57/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_57">
+          <num>57</num>
+          <heading>Consumer Credit Insurance</heading>
+          <section eId="sec_21-57-010">
+            <num>21.57.010</num>
+            <heading>Purpose.</heading>
+            <content>
+              <p>Sec. 21.57.010.   Purpose.
+The purpose of this chapter is to promote the public welfare by regulating consumer credit insurance. Nothing in this chapter is intended to prohibit or discourage reasonable competition. The provisions of this chapter shall be liberally construed.</p>
+            </content>
+          </section>
+          <section eId="sec_21-57-020">
+            <num>21.57.020</num>
+            <heading>Applicability.</heading>
+            <content>
+              <p>Sec. 21.57.020.   Applicability.
+Consumer credit insurance transacted in connection with a credit transaction for a personal, household, or family purpose is subject to the provisions of this chapter except
+(1) insurance written in connection with a credit transaction that is
+(A) secured by a first mortgage or first deed of trust; and
+(B) made to finance the purchase of real property, the construction of a dwelling, or to refinance a prior credit transaction made for that purpose;
+(2) an isolated insurance transaction by the insurer not related to an agreement or a plan for insuring debtors of the creditor;
+(3) insurance for which no identifiable charge is made to the debtor; or
+(4) a loan or other credit transaction that exceeds $30,000.</p>
+            </content>
+          </section>
+          <section eId="sec_21-57-030">
+            <num>21.57.030</num>
+            <heading>Authorized types of consumer credit insurance.</heading>
+            <content>
+              <p>Sec. 21.57.030.   Authorized types of consumer credit insurance.
+A type of consumer credit insurance defined in
+AS 21.57.160
+may be written separately or in combination with other types of consumer credit insurance on an individual or group basis.</p>
+            </content>
+          </section>
+          <section eId="sec_21-57-040">
+            <num>21.57.040</num>
+            <heading>Amount of consumer credit insurance.</heading>
+            <subsection eId="21-57-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount of coverage for credit life insurance payable at the time of loss</p>
+              </content>
+              <paragraph eId="21-57-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may not exceed the greater of the actual net debt or the scheduled net debt, except insurance on an
+(A) agricultural credit transaction commitment, not exceeding one year in duration, may be written up to the amount of the loan commitment on a nondecreasing or level term plan; and
+(B) educational credit transaction commitment may be written for the net outstanding balance plus any unused commitment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may not be less than the actual net debt less any payments more than two months overdue if the coverage is written on the actual outstanding net debt;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>may not exceed the following if the coverage is written on the scheduled outstanding net debt:
+(A) the scheduled net debt if the actual net debt is less than or equal to the scheduled net debt;
+(B) the actual net debt if the actual net debt is greater than the scheduled net debt but less than or equal to the scheduled net debt plus two months of payments; or
+(C) the scheduled net debt plus two months of payments if the actual net debt is greater than the scheduled net debt plus two months of payments;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-040__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>must equal the actual net debt on the date of death if a premium is assessed to the debtor on a monthly basis and is based on the actual net debt; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-040__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>may be less than the net debt when the partial coverage is calculated using one of the following:
+(A) the amount of insurance is the lesser of a stated amount and the amount is determined by (2) of this subsection;
+(B) the amount of insurance is the lesser of a stated amount and the amount is determined by (3) of this subsection;
+(C) the amount of insurance is a constant percentage of the amount determined by (2) or (3) of this subsection; or
+(D) in the absence of any preexisting condition exclusion, the amount of insurance payable in the event of death due to natural causes is limited to the balance as it existed six months before the date of death if</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-57-040__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>there has been at least one increase in the outstanding balance during that six-month period, other than an increase due to the accrual of interest or late charges; and
+(ii) evidence of individual insurability has not been required during that six-month period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may provide for other patterns of insurance consistent with (a) of this section by regulation.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The total amount of periodic indemnity payable in the event of disability or unemployment, as defined in the policy, may not exceed the sum of the periodic scheduled unpaid installments of the gross debt. The amount of a periodic indemnity payment may not exceed the original gross debt divided by the number of periodic installments.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If credit disability insurance or credit unemployment insurance is written in connection with an open-end consumer credit agreement, the amount of insurance may not exceed the gross debt that would accrue on the amount using the creditor's minimum repayment schedule. The periodic indemnity need not relate to the creditor's minimum repayment schedule.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-57-050">
+            <num>21.57.050</num>
+            <heading>Duration of coverage.</heading>
+            <subsection eId="21-57-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The effective date of coverage for</p>
+              </content>
+              <paragraph eId="21-57-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>consumer credit insurance that is elected by the debtor before or contemporaneous with a credit transaction is the date when the debtor becomes obligated to the creditor, except that when evidence of individual insurability is required and the evidence is furnished more than 30 days after the date when the debtor becomes obligated to the creditor, the effective date may be the date on which the insurance company determines the evidence to be satisfactory;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>insurance coverage that is elected by the debtor on a date subsequent to the date of the credit transaction is, subject to acceptance by the insurer, a date not earlier than the date the election is made by the debtor or later than 30 days following the date on which the insurer accepts the risk for coverage; an insurer shall determine if a risk is acceptable by an objective method, including one related to a particular date within a billing or repayment cycle or a calendar month; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-050__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a group policy that provides coverage with respect to a debt existing on the policy effective date, must be on or after the effective date of the group policy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-57-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A charge for insurance may not be made to the debtor and retained by the creditor or insurer for a time before commencement of the consumer credit insurance to which the charge is related.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The duration of coverage for consumer credit insurance may not extend</p>
+              </content>
+              <paragraph eId="21-57-050__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>beyond the termination date specified in the policy; the termination date of insurance may precede, coincide with, or follow the scheduled maturity date of the debt to which it relates, subject to any other requirements and restrictions of this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-050__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>more than 15 days beyond the scheduled maturity date of the debt except when extended
+(A) without additional cost to the debtor; or
+(B) under a written agreement signed by the debtor, in connection with a variable interest rate credit transaction or a deferral, renewal, refinancing, or consolidation of debt.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-57-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the debt is discharged due to renewal, refinancing, or consolidation before the scheduled termination date of the insurance, insurance in force must be terminated before new insurance may be written in connection with the renewed, refinanced, or consolidated debt.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If insurance coverage terminates before the scheduled termination of the insurance, the insurer shall make an appropriate refund or credit to the debtor. The refund or credit must consist of the unearned insurance charge paid by the debtor for insurance after the date of the termination, except that a refund is not required of a charge made for insurance if the insurance is terminated by performance of the insurer's obligation with respect to the insurance.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-050__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An insured debtor may terminate consumer credit insurance at any time by providing advance notice to the insurer. The individual policy or group certificate may require that the notice be in writing or that the debtor surrender the individual policy or group certificate, or both. The debtor's right to terminate coverage may also be subject to the terms of the credit transaction contract.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-57-055">
+            <num>21.57.055</num>
+            <heading>Disclosure to debtors.</heading>
+            <subsection eId="21-57-055__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before a debtor elects to purchase consumer credit insurance in connection with a credit transaction, the insurer shall disclose the following in writing to the debtor:</p>
+              </content>
+              <paragraph eId="21-57-055__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the purchase of consumer credit insurance is optional and not a condition of obtaining credit approval;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-055__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if more than one kind of consumer credit insurance is being made available to the debtor, whether the debtor can purchase the insurance separately or the multiple coverage only as a package;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-055__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the conditions of eligibility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-055__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>if the debtor has other insurance that covers the risk, the debtor may not want or need credit insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-055__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>if the creditor requires insurance as additional security for a debt, the debtor has the option of furnishing the required amount of insurance through existing policies owned or procured by the debtor or of procuring and furnishing the required insurance through an insurer authorized to transact insurance business in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-055__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the effective date of the coverage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-055__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the debtor may cancel the coverage within the first 30 days after receiving the individual policy or group certificate and have a premium paid by the debtor refunded or credited; thereafter, the debtor may cancel the policy at any time during the term of the loan and receive a refund of unearned premium;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-055__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>a brief description of the coverage, including
+(A) the amount;
+(B) the term;
+(C) any exceptions, limitations, or exclusions;
+(D) the insured event;
+(E) any waiting or elimination period;
+(F) any deductible;
+(G) any applicable waiver of premium provision;
+(H) to whom the benefits would be paid; and
+(I) the premium rate for a coverage or for multiple coverage in a package;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-055__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>if the premium or insurance charge is financed, it is subject to finance charges at the rate applicable to the credit transaction or at another specified rate; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-055__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>whether or not the benefits provided are sufficient to pay off the debt existing on the date of death, disability, or unemployment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-57-055__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The disclosure required in (a) of this section shall be provided in the following manner:</p>
+              </content>
+              <paragraph eId="21-57-055__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in connection with consumer credit insurance offered contemporaneously with the extension of credit or offered through direct mail advertisements, the disclosure shall be presented to the consumer in a clear and conspicuous manner; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-055__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in conjunction with the offer of credit insurance by telephone and contemporaneously with the extension of credit or subsequent to the extension of credit by other than direct mail advertisements, the initial disclosure may be provided orally as long as written disclosure is provided to the debtor not later than 10 days after the offer or the date any other written material is provided to the debtor, whichever occurs first.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-57-055__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the debtor elects to purchase coverage, the delivery of the disclosure required in (b) of this section shall be acknowledged by the debtor at the time of delivery, and the insurer shall maintain the debtor's written acknowledgement for at least five years.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-57-060">
+            <num>21.57.060</num>
+            <heading>Provisions of policies and certificates of insurance.</heading>
+            <subsection eId="21-57-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Consumer credit insurance shall be evidenced by an individual policy or a group certificate of insurance.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The individual policy or group certificate must, in addition to other requirements of law, set out</p>
+              </content>
+              <paragraph eId="21-57-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and home office address of the insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the name of the debtor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-060__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the premium to be paid by the debtor disclosed separately for each kind of coverage or for all coverage in a package, except that, for open-ended loans, the premium rate and the basis of premium calculation must be specified;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-060__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a full description of the coverage, including the amount, the term, and any exceptions, limitations, or exclusions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-060__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a statement that the benefits shall be paid to the creditor to reduce or extinguish the unpaid debt and that, whenever the amount of insurance benefit exceeds the unpaid debt, the excess is payable to the debtor, a beneficiary other than the creditor named by the debtor, or the debtor's estate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-060__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>an explanation of how refunds are calculated in the event of policy termination; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-060__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>if the benefit is not adequate to completely pay off the debt existing on the date of death, disability, or unemployment, a statement to that effect on the face of the individual policy or group certificate in not smaller than 10 point, bold face type.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-57-070">
+            <num>21.57.070</num>
+            <heading>Requirements for evidence of insurance.</heading>
+            <subsection eId="21-57-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless the individual policy or group certificate of insurance is delivered to the debtor at the time the debt is incurred or when the debtor elects to purchase coverage, a copy of the application for the policy or a notice of proposed insurance, signed by the debtor and setting out (1) the name and home office address of the insurer, (2) the name of the debtor, (3) the premium rate to be paid by the debtor for the insurance, and (4) the amount, term, and a brief description of the coverage provided, shall be delivered to the debtor at the time the debt is incurred or the election to purchase coverage is made, or, within 10 days from the date of the election to purchase coverage, if the election to purchase coverage is made by telephone. The copy of the application for or notice of proposed insurance must refer exclusively to insurance coverage and must be separate and apart from the loan, sale, other credit statement of account, instrument, or agreement, unless the information required by this subsection is prominently set out in it. Upon acceptance of the insurance by the insurer and within 30 days of the date upon which the debt is incurred or the election to purchase coverage is made, the insurer shall deliver the individual policy or group certificate of insurance to the debtor. The application or notice of proposed insurance must state that upon acceptance by the insurer, the insurance shall become effective as provided in
+AS 21.57.050
+(a).</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The application or notice of proposed insurance may be used to fulfill all of the requirements of
+AS 21.57.055</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and 21.57.060(b) if it contains all of the information required by those subsections.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A debtor has 30 days from the date the debtor receives the individual policy or the group certificate to review the coverage purchased. At any time within the 30-day period, the debtor may contact the creditor or insurer issuing the policy or certificate and request that the coverage be cancelled. An individual policy or group certificate may require the request be in writing, that the policy or certificate be returned to the insurer, or both. If a policy is cancelled, the insurer shall return a full refund or credit of all premiums or insurance charges to the debtor within 30 days.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the named insurer does not accept the risk, the debtor shall receive a policy or certificate of insurance listing the name and home office address of the substituted insurer and the amount of the premium to be charged. If the amount of premium is less than the amount in the notice of proposed insurance, the insurer shall issue an appropriate refund within 30 days. If the risk is not accepted by an insurer, a premium paid by the debtor shall be refunded or credited to the debtor within 30 days of the date of application.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-070__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For the purposes of (a) of this section, an individual policy or group certificate delivered in conjunction with an open-end consumer credit agreement or consumer credit insurance requested by the debtor after the date of the debt is considered to be delivered at the time the debt is incurred or election to purchase coverage is made if the delivery occurs within 30 days of the date the insurance is effective.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-070__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An individual policy or group certificate delivered in conjunction with an open-end consumer credit agreement shall continue from its effective date through the term of the agreement unless the individual policy or group certificate is terminated under its terms at an earlier date.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-57-080">
+            <num>21.57.080</num>
+            <heading>Filing of forms and rates.</heading>
+            <subsection eId="21-57-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An insurance policy, certificate of insurance, notice of proposed insurance, insurance disclosure notice, application for insurance, endorsement, and rider delivered or issued for delivery in this state, and the applicable schedules of premium rates shall be filed with the director before being used.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A document required to be filed under (a) of this section must be on file for a waiting period of 30 days before it is used or becomes effective, unless the director gives prior written approval. This period may be extended for an additional 30 days if the director gives written notice within the waiting period to the insurer making the filing. The director shall disapprove a filing if the premium rate charged is not reasonable in relation to benefits or if it contains provisions that are unjust, unfair, inequitable, misleading, deceptive, encourage misrepresentation of the policy, or are contrary to a provision of this title or a regulation adopted under this title. A filing is considered to be approved unless it is disapproved by the director within the waiting period. In determining the reasonableness of premium rates in relation to benefits, the director may consider claim costs, general and administrative expenses, reasonable compensation to producers, profit, or other relevant data.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the director notifies the insurer that a document required to be filed under (a) of this section is disapproved, the insurer may not issue or use any part of the document. In providing notice of disapproval to the insurer, the director shall specify the reason for disapproval and indicate that the insurer is entitled to a hearing.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director may, at any time after a hearing, withdraw approval of a filing on the grounds specified under (b) of this section. The director shall provide the insurer at least 20 days' prior written notice of a hearing scheduled by the director, and the notice of the hearing must state the reason for the proposed withdrawal.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-080__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An insurer may not issue or use a document required to be filed under (a) of this section after the effective date of a withdrawal of approval under (d) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-080__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If a group policy of consumer credit insurance (1) has been delivered in this state before July 1, 1995, or (2) has been or is delivered in another state before or after July 1, 1995, the insurer shall be required to file only the group certificate and notice of proposed insurance delivered or issued for delivery in this state as specified in
+AS 21.57.060</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 21.57.070(a).</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-080__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Consumer credit insurance forms used for insurance described under (f) of this section shall be approved by the director if they conform with the requirements specified in this section and if the schedules of premium rates applicable to the insurance evidenced by the certificate or notice are in accordance with the insurer's schedules of premium rates filed with the director. An item required to be filed under (a) of this section shall also be filed as specified in this chapter unless the item relates to a group policy that is delivered in another state and the director has determined that the other state has substantially similar statutes or regulations to this chapter. Upon this determination, the items required to be filed under (a) of this section shall be filed for informational purposes. If the director subsequently determines that the informational filing is not in compliance with the requirements of this chapter, the insurer may not use the insurance policy, form, certificate, notice of proposed insurance, disclosure notice, advertisement, application for insurance, endorsement, or rider.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-57-090">
+            <num>21.57.090</num>
+            <heading>Premiums and refunds.</heading>
+            <subsection eId="21-57-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An insurer may revise its schedules of premium rates from time to time, and file the revised schedules with the director. An insurer may not issue a consumer credit insurance policy for which the premium rate differs from that determined by the schedules of the insurer then approved by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An individual policy or group certificate must provide for a refund of all unearned premiums if the insurance is terminated before the scheduled maturity date of the insurance and notice of termination is given to the insurer. The refund of an amount paid by the debtor for insurance shall be paid or credited promptly to the person entitled to it; provided, however, that the director shall prescribe a minimum refund and a refund that would be less than the minimum need not be made. A refund formula that an insurer desires to use must provide refunds that are at least as favorable to the debtor as refunds based on the rule of anticipation. The formula to be used in computing refunds shall be filed with and approved by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a creditor requires a debtor to make a payment for consumer credit insurance and an individual policy or group certificate of insurance is not issued, the creditor shall immediately give written notice to the debtor and shall promptly make an appropriate credit to the account or issue a refund.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-090__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The amount charged to a debtor for consumer credit insurance may not exceed the premium charged by the insurer, as computed at the time the charge to the debtor is determined.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-57-090__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Nothing in this chapter may be construed to authorize a payment for insurance prohibited under other provisions of law governing credit transactions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-57-100">
+            <num>21.57.100</num>
+            <heading>Issuance of policies.</heading>
+            <content>
+              <p>Sec. 21.57.100.   Issuance of policies.
+All policies of credit life insurance and credit disability insurance shall be delivered or issued for delivery in this state only by an insurer authorized to do an insurance business in this state, and shall be issued only through holders of licenses or authorizations issued by the director.</p>
+            </content>
+          </section>
+          <section eId="sec_21-57-120">
+            <num>21.57.120</num>
+            <heading>Selection rights of insured.</heading>
+            <content>
+              <p>Sec. 21.57.120.   Selection rights of insured.
+When consumer credit insurance is required as additional security for a debt, the debtor shall, upon request to the creditor, have the option of furnishing the required amount of insurance through existing policies of insurance owned or controlled by the debtor or of procuring and furnishing the required coverage through an insurer authorized to transact an insurance business in this state.</p>
+            </content>
+          </section>
+          <section eId="sec_21-57-125">
+            <num>21.57.125</num>
+            <heading>Duties of an insurer.</heading>
+            <content>
+              <p>Sec. 21.57.125.   Duties of an insurer.
+Except as otherwise prohibited by law, duties imposed upon an insurer by this chapter may be carried out by a creditor if the creditor is licensed under
+AS 21.27
+as an insurance producer, a managing general agent, or a third-party administrator, and transacts business within the scope of its license on behalf of the insurer.</p>
+            </content>
+          </section>
+          <section eId="sec_21-57-130">
+            <num>21.57.130</num>
+            <heading>Enforcement.</heading>
+            <content>
+              <p>Sec. 21.57.130.   Enforcement.
+The director may, after notice and hearing, adopt regulations considered appropriate for the implementation of this chapter.  Whenever the director finds that there has been a violation of this chapter or regulations adopted under it, and after written notice thereof and hearing given to the insurer or other person authorized or licensed by the director, the director shall set out the details of the findings together with an order for compliance by a specified date.  The order shall be binding on the insurer and other person authorized or licensed by the director on the date specified unless sooner withdrawn by the director or a stay has been ordered by a court of competent jurisdiction.</p>
+            </content>
+          </section>
+          <section eId="sec_21-57-140">
+            <num>21.57.140</num>
+            <heading>Judicial review.</heading>
+            <content>
+              <p>Sec. 21.57.140.   Judicial review.
+A party to the proceeding affected by an order of the director shall be entitled to judicial review by following the procedure set out in
+AS 21.06.230
+.</p>
+            </content>
+          </section>
+          <section eId="sec_21-57-150">
+            <num>21.57.150</num>
+            <heading>Penalties.</heading>
+            <subsection eId="21-57-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to any other penalty provided by law, a person licensed under
+AS 21.27
+that the director determines under
+AS 21.06.170
+ 21.06.240 has violated the provisions of this chapter is subject to</p>
+              </content>
+              <paragraph eId="21-57-150__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a civil penalty equal to the compensation promised, paid, or to be paid, directly or indirectly, to the licensee in regard to a violation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-150__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>either a civil penalty of not more than $10,000 for a violation or, if the director determines that the person wilfully violated the provisions of this chapter, a civil penalty of not more than $25,000 for a violation; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-150__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>denial, nonrenewal, suspension, or revocation of a license.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-57-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to any other penalty provided by law, an insurer that the director determines under
+AS 21.06.170
+ 21.06.240 has violated the provisions of this chapter is subject to</p>
+              </content>
+              <paragraph eId="21-57-150__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a civil penalty equal to the premium earned, directly or indirectly, by the insurer in regard to a violation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-150__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>either a civil penalty of not more than $10,000 for a violation or, if the director determines that the insurer wilfully violated the provisions of this chapter, a civil penalty of not more than $25,000 for a violation; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-150__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>denial, suspension, or revocation of a certificate of authority.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-57-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to any other penalty provided by law, any person that the director determines under
+AS 21.06.170
+ 21.06.240 has violated the provisions of this chapter is subject to</p>
+              </content>
+              <paragraph eId="21-57-150__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>either a civil penalty of not more than $10,000 for a violation or, if the director determines that the person wilfully violated the provisions of this chapter, a civil penalty of not more than $25,000 for a violation; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-57-150__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>denial of a license.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-57-160">
+            <num>21.57.160</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 21.57.160.   Definitions.
+In this chapter,
+(1) agriculture credit transaction commitment means a binding agreement to loan money up to a fixed amount as needed for agricultural purposes;
+(2) compensation means commissions, dividends, retrospective rate credits, service fees, expense allowances or reimbursements, gifts, furnishing equipment, facilities, goods, or services, or any other form of remuneration resulting directly from the sale of consumer credit insurance;
+(3) consumer credit insurance means credit life insurance, credit disability insurance, or credit unemployment insurance;
+(4) credit disability insurance means insurance on a debtor to provide indemnity for payments or debt becoming due on a specific loan or other credit transaction while the debtor is disabled;
+(5) credit life insurance means insurance on the life of a debtor under or in connection with all or a part of a specific loan or other credit transaction;
+(6) credit transaction means a transaction by which the repayment for money loaned or a loan commitment made or payment for goods, services, or properties sold or leased is made at a future date;
+(7) credit unemployment insurance means insurance on a debtor to provide indemnity for payments or debt becoming due on a specific loan or other credit transaction while the debtor is involuntarily unemployed;
+(8) creditor means a person who lends money or who sells or leases goods, services, property, rights, or privileges, for which payment is arranged through a credit transaction, and includes a person who is a successor to the right, title, or interest of the lender, seller, or lessor;
+(9) debtor means a person who borrows money, or purchases or leases goods, services, property, rights, or privileges for which payment is arranged through a credit transaction;
+(10) educational credit transaction commitment means a binding agreement to loan money up to a fixed amount as needed for educational purposes;
+(11) gross debt means the total of the remaining payments owed to the creditor by the debtor;
+(12) identifiable charge means a charge for consumer credit insurance that is made to a debtor having the benefit of the insurance, including a charge for insurance that is disclosed in the consumer credit agreement or other instrument furnished to the debtor that sets out the financial elements of the credit transaction, and any difference in the finance, interest, service, or other similar charge made to a debtor in a like circumstance, except for their insured or noninsured status;
+(13) net debt means the amount necessary to liquidate the remaining debt in a single lump sum payment, excluding all unearned finance charges;
+(14) open-end consumer credit means consumer credit extended by a creditor under an agreement in which
+(A) the creditor reasonably contemplates repeated transactions;
+(B) the creditor imposes a periodic finance charge on an outstanding unpaid balance; and
+(C) the amount of consumer credit that may be extended to the debtor during the term of the agreement, up to any limit set by the creditor, is generally made available to the extent that any outstanding balance is repaid;
+(15) rule of anticipation means a refund method that results in refunds equal to the premium cost of scheduled benefits subsequent to the date of cancellation or termination, computed at the schedule of premium rates in effect on the date of issue.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

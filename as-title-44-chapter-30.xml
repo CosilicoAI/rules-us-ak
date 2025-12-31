@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-30"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.30"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_30">
+          <num>30</num>
+          <heading>Department of Family and Community Services</heading>
+          <section eId="sec_44-30-010">
+            <num>44.30.010</num>
+            <heading>Commissioner of family and community services.</heading>
+            <content>
+              <p>Sec. 44.30.010.   Commissioner of family and community services.
+The principal executive officer of the Department of Family and Community Services is the commissioner of family and community services.</p>
+            </content>
+          </section>
+          <section eId="sec_44-30-020">
+            <num>44.30.020</num>
+            <heading>Duties of department.</heading>
+            <subsection eId="44-30-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Family and Community Services shall administer the state programs of child welfare, institutional management, and delinquency, including</p>
+              </content>
+              <paragraph eId="44-30-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>mental health treatment and diagnosis under
+AS 47.30.660
+ 47.30.915;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-30-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>management of state institutions, except for adult penal institutions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-30-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>child welfare and delinquency services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-30-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the Alaska Pioneers' Home and the Alaska Veterans' Home.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-30-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As applicable, the Department of Family and Community Services shall cooperate with the Department of Public Safety in enforcement of the prohibition on the possession, offer, display, marketing, advertising, or sale of illicit synthetic drugs under
+AS 17.21
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-30-030">
+            <num>44.30.030</num>
+            <heading>Fees for department services.</heading>
+            <subsection eId="44-30-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of family and community services may establish by regulation a schedule of reasonable fees for services provided by the Department of Family and Community Services under
+AS 44.30.020</p>
+              </content>
+            </subsection>
+            <subsection eId="44-30-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner of family and community services may establish by regulation and the department may charge reasonable fees for department publications and research data to cover the cost of reproduction, printing, mailing, and distribution.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-30-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A regulation that establishes a fee for services related to the community behavioral health system of care that are part of the integrated comprehensive mental health program under
+AS 44.25.200
+ 44.25.295,
+AS 44.29.800
+ 44.29.890, and
+AS 47.30
+may be adopted under this section after consultation with the Alaska Mental Health Trust Authority.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-30-040">
+            <num>44.30.040</num>
+            <heading>Fees for services of contractors or grantees.</heading>
+            <subsection eId="44-30-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of family and community services may establish by regulation a schedule of reasonable fees for services provided by a contractor or grantee of the Department of Family and Community Services under
+AS 47
+. The fee established for a service may not exceed the actual cost of providing the service. The commissioner may define or establish the actual cost of providing a service by regulation.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-30-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Family and Community Services may require the recipient of a grant or a contractor under a grant to charge the fees established under (a) of this section for services provided by the recipient or contractor and to use the fees collected for the program providing the services.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-30-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A regulation that establishes a schedule of reasonable fees for services provided by a contractor or grantee that are part of the integrated comprehensive mental health program under
+AS 44.25.200
+ 44.25.295,
+AS 44.29.800
+ 44.29.890, and
+AS 47.30
+may be adopted under this section after consultation with the Alaska Mental Health Trust Authority.
+Article 2. Alaska Pioneers' Homes Advisory Board.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-30-100">
+            <num>44.30.100</num>
+            <heading>Alaska Pioneers' Homes Advisory Board.</heading>
+            <content>
+              <p>Sec. 44.30.100.   Alaska Pioneers' Homes Advisory Board.
+There is created the Alaska Pioneers' Homes Advisory Board in the Department of Family and Community Services.</p>
+            </content>
+          </section>
+          <section eId="sec_44-30-110">
+            <num>44.30.110</num>
+            <heading>Purpose of the board.</heading>
+            <content>
+              <p>Sec. 44.30.110.   Purpose of the board.
+The board shall conduct annual inspections of the property and procedures of the Alaska Pioneers' Homes and recommend to the governor changes and improvements. The board shall meet on an annual basis to review admissions procedures and to consider complaints.</p>
+            </content>
+          </section>
+          <section eId="sec_44-30-120">
+            <num>44.30.120</num>
+            <heading>Composition of the board.</heading>
+            <subsection eId="44-30-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Alaska Pioneers' Homes Advisory Board consists of</p>
+              </content>
+              <paragraph eId="44-30-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>five members appointed by the governor from among citizens of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-30-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>one member appointed by the governor who is a veteran of active service in the armed forces of the United States, including the Alaska National Guard or the Alaska Territorial Guard;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-30-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>one member who is the chair of the Alaska Commission on Aging established in
+AS 44.29.750
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-30-120__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>one member who is chair of the Alaska Veterans Advisory Council established in
+AS 44.35
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-30-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The term of office of a member of the board appointed under (a)(1) of this section is four years. A member of the board may not serve more than eight consecutive years. A chair shall be elected by the voting members of the board. The members of the board appointed under (a)(1) and (2) of this section serve at the pleasure of the governor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-30-130">
+            <num>44.30.130</num>
+            <heading>Compensation, per diem, or expenses.</heading>
+            <content>
+              <p>Sec. 44.30.130.   Compensation, per diem, or expenses.
+Members of the board receive no salary, but are entitled to per diem and travel expenses authorized by law for other boards.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

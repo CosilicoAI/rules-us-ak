@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-85"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-85"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="34.85"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-85/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-85/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-34/chapter-85/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-34/chapter-85/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_34">
+        <num>34</num>
+        <heading>Property</heading>
+        <chapter eId="title_34__chp_85">
+          <num>85</num>
+          <heading>Manufactured Home Property Act</heading>
+          <section eId="sec_34-85-010">
+            <num>34.85.010</num>
+            <heading>Real property characterization.</heading>
+            <content>
+              <p>Sec. 34.85.010.   Real property characterization.
+A manufactured home becomes real property if
+(1) the home is permanently affixed to land under
+AS 34.85.150
+;
+(2) an affixation affidavit has been recorded under
+AS 40.17.125
+;
+(3) the ownership interests in the manufactured home and in the real property to which the manufactured home is permanently affixed are identical, except as provided by
+AS 34.85.040
+; and
+(4) the manufactured home is
+(A) covered by a manufacturer's certificate of origin that the owner of the manufactured home is able to produce, and the department has cancelled the manufacturer's certificate of origin under
+AS 28.10.262
+;
+(B) covered by a certificate of title that the owner of the manufactured home is able to produce, and the department has cancelled the certificate of title under
+AS 28.10.263
+; or
+(C) not covered by a manufacturer's certificate of origin or a certificate of title, or if the manufactured home is covered by a manufacturer's certificate of origin or a certificate of title but the owner of the manufactured home, after diligent search and inquiry, was unable to produce the manufacturer's certificate of origin or certificate of title, and the department has provided a written confirmation under
+AS 28.10.264
+.</p>
+            </content>
+          </section>
+          <section eId="sec_34-85-020">
+            <num>34.85.020</num>
+            <heading>Effect of real property characterization.</heading>
+            <subsection eId="34-85-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a manufactured home becomes real property under
+AS 34.85.010
+, a mortgage, deed of trust, lien, or security interest that can attach to land, buildings erected on land, or fixtures affixed to land or buildings attaches to the manufactured home in the same manner as if the manufactured home were built from ordinary building materials on the land where the manufactured home is located.</p>
+              </content>
+            </subsection>
+            <subsection eId="34-85-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the title to a manufactured home is transferred after the manufactured home becomes real property under
+AS 34.85.010
+, title to the manufactured home, together with the land to which the converted manufactured home is affixed, shall be transferred by deed or other form of conveyance that is effective to transfer an interest in real property.</p>
+              </content>
+            </subsection>
+            <subsection eId="34-85-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When a manufactured home becomes real property under
+AS 34.85.010
+, the manufactured home is governed by the laws applicable to real property in effect on the date the manufactured home satisfies
+AS 34.85.010
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_34-85-040">
+            <num>34.85.040</num>
+            <heading>Ownership interest exception.</heading>
+            <content>
+              <p>Sec. 34.85.040.   Ownership interest exception.
+If the owner of a manufactured home is not the owner of the real property on which the manufactured home is located, the requirement under
+AS 34.85.010
+(3) that the ownership interests be identical is satisfied if the owner possesses the real property under
+(1) a lease in a recordable form that has a term that continues for at least 20 years after the date of execution of the affixation affidavit; and
+(2) the lessor of the real property consents.</p>
+            </content>
+          </section>
+          <section eId="sec_34-85-060">
+            <num>34.85.060</num>
+            <heading>Affixation affidavit requirements.</heading>
+            <subsection eId="34-85-060__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>is in possession of the real property under a lease in recordable form that has a term that continues for at least 20 years after the date of execution of the affidavit; and
+(ii) the lessor of the real property consents;</p>
+              </content>
+              <paragraph eId="34-85-060__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>if (3)(B)(ii) of this section applies, the consent of the lessor of the real property endorsed on or attached to the affidavit and acknowledged or proved in the manner required for the conveyance to be recorded;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-060__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the street address and the legal description of the real property to which the manufactured home is or shall be permanently affixed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-060__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>if the manufactured home is not covered by a certificate of title, a statement by the owner to that effect;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-060__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>an owner's statement under
+AS 34.85.070
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-060__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>a statement whether or not the manufactured home is subject to a lien or encumbrance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-060__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>if the manufactured home is subject to a lien or encumbrance, a statement giving the name and address of each person who holds a lien or encumbrance on the manufactured home, including each holder of a lien or encumbrance shown on a certificate of title issued by the department, the original principal amount secured by each lien and encumbrance, and a statement that
+(A) the lien or encumbrance shall be released; or
+(B) each lien or encumbrance on the manufactured home has been released and proof of the release;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-060__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>if the manufactured home is not covered by a manufacturer's certificate of origin or a certificate of title, a statement by the owner of the manufactured home that the manufactured home is not covered by a manufacturer's certificate of origin or a certificate of title and that the owner of the manufactured home will apply to the department under
+AS 28.10.264
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-060__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>a statement that the manufactured home is or will be permanently affixed to the real property; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-060__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>the name and address of a person designated for filing the certified copy of the affixation affidavit with the department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_34-85-070">
+            <num>34.85.070</num>
+            <heading>Owner's statement for affixation affidavit.</heading>
+            <subsection eId="34-85-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An owner's statement for an affixation affidavit must comply with (b) or (c) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="34-85-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a manufactured home is covered by a manufacturer's certificate of origin, the owner of the manufactured home shall</p>
+              </content>
+              <paragraph eId="34-85-070__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>state that the manufactured home is covered by a manufacturer's certificate of origin, provide the date the manufacturer's certificate of origin was issued, provide the manufacturer's serial number, state that the original manufacturer's certificate of origin for the manufactured home is annexed to the affixation affidavit and is endorsed to the owner of the manufactured home, and state that the owner of the manufactured home will surrender the manufacturer's certificate of origin for cancellation under
+AS 28.10.262
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-070__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>state that the owner of the manufactured home, after diligent search and inquiry, has been unable to produce the original manufacturer's certificate of origin for the manufactured home and shall apply to the department under
+AS 28.10.264
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="34-85-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a manufactured home is covered by a certificate of title, the owner of the manufactured home shall</p>
+              </content>
+              <paragraph eId="34-85-070__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>state that the manufactured home is covered by a certificate of title, provide the date the title was issued and the title number, and state that the owner shall surrender the title for cancellation under
+AS 28.10.263
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-070__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>state that the owner, after diligent search and inquiry, has been unable to produce the certificate of title to the manufactured home and shall apply to the department under
+AS 28.10.264
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_34-85-080">
+            <num>34.85.080</num>
+            <heading>Effect on liens and encumbrances.</heading>
+            <content>
+              <p>Sec. 34.85.080.   Effect on liens and encumbrances.
+Permanently affixing a manufactured home to real property or recording an affixation affidavit under
+AS 40.17.125
+does not impair the rights of a holder of, or the character of, a lien or encumbrance on a manufactured home under
+AS 28.10.381
+unless an application to cancel the title is filed with the department under
+AS 28.10.263
+and the lien or encumbrance is released under
+AS 28.10.401
+.</p>
+            </content>
+          </section>
+          <section eId="sec_34-85-090">
+            <num>34.85.090</num>
+            <heading>Filing affixation affidavit with department.</heading>
+            <content>
+              <p>Sec. 34.85.090.   Filing affixation affidavit with department.
+When a person designated in an affixation affidavit to file the affixation affidavit with the department receives a certified copy of the recorded affixation affidavit, the person shall deliver the certified copy of the affixation affidavit to the department for filing under
+AS 28.10.262
+ 28.10.264.</p>
+            </content>
+          </section>
+          <section eId="sec_34-85-100">
+            <num>34.85.100</num>
+            <heading>Use of affidavit.</heading>
+            <subsection eId="34-85-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 34.85.010
+, 34.85.020, 34.85.090, and
+AS 40.17.125
+, an affixation affidavit is not necessary or effective to convey or encumber a manufactured home or to change the character of a manufactured home to real property.</p>
+              </content>
+            </subsection>
+            <subsection eId="34-85-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A conveyance of land on which a manufactured home is located must recite that the conveyance does not affect the title to the manufactured home and that the transfer or encumbrance of the manufactured home can only be made under
+AS 28.10
+if</p>
+              </content>
+              <paragraph eId="34-85-100__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an affixation affidavit has not been recorded for the manufactured home; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="34-85-100__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a severance affidavit has been recorded for the manufactured home.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="34-85-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An agreement that waives the requirements of (a) or (b) of this subsection is void.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_34-85-110">
+            <num>34.85.110</num>
+            <heading>Severance of manufactured home.</heading>
+            <content>
+              <p>Sec. 34.85.110.   Severance of manufactured home.
+If an affixation affidavit has been recorded for a converted manufactured home and if the converted manufactured home is severed from the real property to which it was affixed, each person having an interest in the real property shall record a severance affidavit in the recording district where the affixation affidavit was recorded.</p>
+            </content>
+          </section>
+          <section eId="sec_34-85-120">
+            <num>34.85.120</num>
+            <heading>Severance affidavit.</heading>
+            <content>
+              <p>Sec. 34.85.120.   Severance affidavit.
+The severance affidavit must contain or be accompanied by
+(1) the name, residence, and mailing address of the owner of the manufactured home;
+(2) a description of the manufactured home, including the name of the manufacturer, the make, the model name, the model year, the dimensions, and the manufacturer's serial number of the manufactured home;
+(3) a statement of whether the manufactured home is new or used;
+(4) the serial numbers and date when the affixation affidavit was recorded;
+(5) a statement
+(A) of any facts or information known to the person signing the affidavit that could reasonably affect the validity of the title to the manufactured home or the existence or nonexistence of a lien or encumbrance on the manufactured home; or
+(B) that the person signing the affidavit does not know any facts or information that could reasonably affect the validity of the title to the manufactured home or the existence or nonexistence of a lien or encumbrance on the manufactured home;
+(6) a declaration made under oath or affirmation by an attorney authorized under
+AS 08.08
+to practice law in the state or an agent of a title insurance company entitled under
+AS 21.66
+to transact a title insurance business in this state that the manufactured home is free and clear of all liens and encumbrances, and
+(A) stating any facts or information known to the attorney or agent that could reasonably affect the validity of the title to the manufactured home or the existence or nonexistence of a lien or encumbrance on the manufactured home; or
+(B) that the attorney or agent does not know any facts or information that could reasonably affect the validity of the title to the manufactured home or the existence or nonexistence of a lien or encumbrance on the manufactured home; and
+(7) the name and address of the person designated to file the certified copy of the severance affidavit with the department under
+AS 28.10.265
+.</p>
+            </content>
+          </section>
+          <section eId="sec_34-85-130">
+            <num>34.85.130</num>
+            <heading>Filing of severance affidavit.</heading>
+            <content>
+              <p>Sec. 34.85.130.   Filing of severance affidavit.
+On receipt of a certified copy of the severance affidavit by the person designated in the affidavit for filing with the department, the person shall file the certified copy with the department under
+AS 28.10.262
+ 28.10.264.</p>
+            </content>
+          </section>
+          <section eId="sec_34-85-140">
+            <num>34.85.140</num>
+            <heading>Affidavit form and acknowledgment.</heading>
+            <subsection eId="34-85-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An affixation affidavit and a severance affidavit must be acknowledged in the same manner as a conveyance of real property and must be in a form that may be recorded under
+AS 40.17
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="34-85-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall establish by regulation the forms for an affixation affidavit and a severance affidavit.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_34-85-150">
+            <num>34.85.150</num>
+            <heading>Permanently affixed.</heading>
+            <content>
+              <p>Sec. 34.85.150.   Permanently affixed.
+A manufactured home is permanently affixed when it is
+(1) anchored to real property by attachment to a permanent foundation;
+(2) constructed in accordance with applicable state and local building codes and manufacturer's specifications as provided in the Model Manufactured Home Installation Standards of the federal Department of Housing and Urban Development (24 C.F.R. 3285); and
+(3) connected to a residential utility, including water, gas, electricity, sewer, or septic service.</p>
+            </content>
+          </section>
+          <section eId="sec_34-85-190">
+            <num>34.85.190</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 34.85.190.   Definitions.
+In this chapter, unless the context requires otherwise,
+(1) affixation affidavit means an affixation affidavit under
+AS 34.85.060
+;
+(2) department means the Department of Administration;
+(3) manufactured home has the meaning given in
+AS 45.29.102
+;
+(4) permanently affixed means when a manufactured home is permanently affixed under
+AS 34.85.150
+;
+(5) severance affidavit means a severance affidavit under
+AS 34.85.120
+.</p>
+            </content>
+          </section>
+          <section eId="sec_34-85-195">
+            <num>34.85.195</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 34.85.195.   Short title.
+This chapter may be cited as the Manufactured Home Property Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

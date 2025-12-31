@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-39/chapter-26"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-39/chapter-26"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="39.26"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-39/chapter-26/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-39/chapter-26/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-39/chapter-26/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-39/chapter-26/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_39">
+        <num>39</num>
+        <heading>Public Officers and Employees</heading>
+        <chapter eId="title_39__chp_26">
+          <num>26</num>
+          <heading>Rights of State Employees</heading>
+          <section eId="sec_39-26-010">
+            <num>39.26.010</num>
+            <heading>State employees protected against certain conduct.</heading>
+            <subsection eId="39-26-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A department, agency, official, officer, or person employed by the state may not directly or indirectly</p>
+              </content>
+              <paragraph eId="39-26-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>require or coerce any employee of the state to participate in any way in any activity or undertaking unless the activity or undertaking is related to the performance of official duties;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="39-26-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>require or coerce any employee of the state to make any report concerning any of the employee's activities or undertakings unless the activity or undertaking is related to the performance of the employee's official duties;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="39-26-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>except as directly related to the performance of the employee's official duties, require or coerce any employee of the state to submit to any interrogation or examination or psychological test which is designed to elicit information concerning
+(A) the employee's personal relationship with any person connected by blood or marriage;
+(B) the employee's religious beliefs or practices;
+(C) sexual matters;
+(D) the employee's political affiliation or philosophy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="39-26-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>coerce any employee of the state to invest or contribute earnings in any manner or for any purpose;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="39-26-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>restrict or attempt to restrict after-working-hour statements, pronouncements or other activities, not otherwise prohibited by law or personnel rule, of any employee of the state, if the employee does not purport to speak or act in an official capacity.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="39-26-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The heads of the administrative departments of the state may adopt internal management regulations for their respective departments, specifying exceptions to (a)(5) of this section. These regulations shall be submitted for approval to the personnel board provided for in
+AS 39.25.060
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-26-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The provisions of (a) of this section do not diminish the authority of an authorized law enforcement agency to conduct criminal investigations of state employees suspected of being involved in criminal activity.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_39-26-015">
+            <num>39.26.015</num>
+            <heading>Required regulations for dress codes and appearance standards.</heading>
+            <content>
+              <p>Sec. 39.26.015.   Required regulations for dress codes and appearance standards.
+Dress codes and appearance standards adopted by a department, division, agency, official, or other employee of the state, that are to be applied to state employees shall be in the form of a regulation subject to legislative review under
+AS 44.62
+(Administrative Procedure Act).</p>
+            </content>
+          </section>
+          <section eId="sec_39-26-020">
+            <num>39.26.020</num>
+            <heading>Application of chapter.</heading>
+            <content>
+              <p>Sec. 39.26.020.   Application of chapter.
+This chapter applies to those state employees in the classified and partially exempt services.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

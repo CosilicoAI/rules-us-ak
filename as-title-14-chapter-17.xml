@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-17"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-17"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="14.17"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-17/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-17/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-17/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-17/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_14">
+        <num>14</num>
+        <heading>Education, Libraries, and Museums</heading>
+        <chapter eId="title_14__chp_17">
+          <num>17</num>
+          <heading>Financing of Public Schools</heading>
+          <section eId="sec_14-17-300">
+            <num>14.17.300</num>
+            <heading>Public education fund.</heading>
+            <subsection eId="14-17-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The public education fund is established. The fund consists of appropriations for</p>
+              </content>
+              <paragraph eId="14-17-300__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>distribution to school districts, to the state boarding school, and for centralized correspondence study under this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-17-300__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>transportation of pupils under
+AS 14.09.010
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-17-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Money appropriated to the fund may be expended without further appropriation. Money appropriated to the fund does not lapse. The money in the fund may be expended only in aid of public schools and for centralized correspondence study programs under this chapter and for transportation of pupils under
+AS 14.09.010
+. Interest earned on money held in the fund before expenditure may be appropriated to the fund by the legislature.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-400">
+            <num>14.17.400</num>
+            <heading>State aid for districts.</heading>
+            <subsection eId="14-17-400__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The state aid for which a school district is eligible in a fiscal year is equal to the amount for which a district qualifies under
+AS 14.17.410
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the amount appropriated to the public education fund for purposes of this chapter is insufficient to meet the amounts authorized under (a) of this section for a fiscal year, the department shall reduce pro rata each district's basic need by the necessary percentage as determined by the department. If the basic need of each district is reduced under this subsection, the department shall also reduce state funding for centralized correspondence study and the state boarding school by the same percentage.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-410">
+            <num>14.17.410</num>
+            <heading>Public school funding.</heading>
+            <subsection eId="14-17-410__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A district is eligible for public school funding in an amount equal to the sum calculated under (b) and (c) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-410__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Public school funding consists of state aid, a required local contribution, and eligible federal impact aid determined as follows:</p>
+              </content>
+              <paragraph eId="14-17-410__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>state aid equals basic need minus a required local contribution and 90 percent of eligible federal impact aid for that fiscal year; basic need equals the sum obtained under (D) of this paragraph, multiplied by the base student allocation set out in
+AS 14.17.470
+; district adjusted ADM is calculated as follows:
+(A) the ADM of each school in the district is calculated by applying the school size factor to the student count as set out in
+AS 14.17.450
+;
+(B) the number obtained under (A) of this paragraph is multiplied by the district cost factor described in
+AS 14.17.460
+;
+(C) the ADMs of each school in a district, as adjusted according to (A) and (B) of this paragraph, are added; the sum is then multiplied by the special needs factor set out in
+AS 14.17.420</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-17-410__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>for the first fiscal year after the base fiscal year determined under this subparagraph, the school district's ADM adjusted for school size determined under (A) of this paragraph is calculated as the district's ADM adjusted for school size, plus 75 percent of the difference in the district's ADM adjusted for school size between the base fiscal year and the first fiscal year after the base fiscal year;
+(ii) for the second fiscal year after the base fiscal year determined under this subparagraph, the school district's ADM adjusted for school size determined under (A) of this paragraph is calculated as the district's ADM adjusted for school size, plus 50 percent of the difference in the district's ADM adjusted for school size between the base fiscal year and the second fiscal year after the base fiscal year;
+(iii) for the third fiscal year after the base fiscal year determined under this subparagraph, the school district's ADM adjusted for school size determined under (A) of this paragraph is calculated as the district's ADM adjusted for school size, plus 25 percent of the difference in the district's ADM adjusted for school size between the base fiscal year and the third fiscal year after the base fiscal year;
+(F) the method established in (E) of this paragraph is available to a school district for the three fiscal years following the base fiscal year determined under (E) of this paragraph only if the district's ADM adjusted for school size determined under (A) of this paragraph for each fiscal year is less than the district's ADM adjusted for school size in the base fiscal year;
+(G) the method established in (E) of this paragraph does not apply to a decrease in the district's ADM adjusted for school size resulting from a loss of enrollment that occurs as a result of a boundary change under
+AS 29
+;
+(H)  notwithstanding (A)  (C) of this paragraph, if one or more schools close and consolidate with one or more other schools in the same community and district and, as a r</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-410__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>for the first two fiscal years after the base fiscal year, the district's ADM of the consolidated schools as adjusted under (A)  (C) of this paragraph is calculated by dividing the sum of the district's ADM of the consolidated schools as adjusted under (A)  (C) of this paragraph for the base fiscal year by the sum of the district's ADM of the consolidated schools for the base fiscal year without adjustment, and subtracting the quotient obtained by dividing the district's ADM of the consolidated schools for the current fiscal year as adjusted under (A)  (C) of this paragraph by the sum of the district's ADM of the consolidated schools for the current fiscal year without adjustment, multiplying that number by the sum of the district's ADM of the consolidated schools for the current fiscal year without adjustment, and adding that number to the sum of the district's ADM of the consolidated schools for the current fiscal year as adjusted under (A)  (C) of this paragraph;
+(ii)  for the third fiscal year after the base fiscal year, the district's ADM of the consolidated schools as adjusted under (A)  (C) of this paragraph is calculated by dividing the sum of the district's ADM of the consolidated schools as adjusted under (A)  (C) of this paragraph for the base fiscal year by the sum of the district's ADM of the consolidated schools for the base fiscal year without adjustment, and subtracting the quotient obtained by dividing the sum of the district's ADM of the consolidated schools for the current fiscal year as adjusted under (A)  (C) of this paragraph by the sum of the district's ADM of the consolidated schools for the current fiscal year, multiplying that number by the sum of the district's ADM of the consolidated schools for the current fiscal year without adjustment, multiplying that number by 66 percent, and adding that number to the sum of the district's ADM of the consolidated schools for the current fiscal year as adjusted under (A)  (C) of this paragraph</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-410__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a new facility is constructed in the district for the consolidation; or
+(ii)  the district offset a decrease under (E) of this paragraph in the same fiscal year;
+(K)  a district that offsets a decrease under (H) of this paragraph may not reopen a school that was closed for consolidation in the district until</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-410__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>seven or more years have passed since the school closure; and
+(ii)  the district provides evidence satisfactory to the department that the schools affected by the consolidation are over capacity;
+(L)  a district may not reopen and reconsolidate a school that was consolidated in the district more than once every seven years for purposes of the calculations made under (H) of this paragraph;
+(M)  a district offsetting a decrease under (H) of this paragraph shall provide the department with the list of schools participating in the consolidation and the corresponding ADM;</p>
+              </content>
+              <paragraph eId="14-17-410__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the required local contribution of a city or borough school district is the equivalent of a 2.65 mill tax levy on the full and true value of the taxable real and personal property in the district as of January 1 of the second preceding fiscal year, as determined by the Department of Commerce, Community, and Economic Development under
+AS 14.17.510
+and
+AS 29.45.110
+, not to exceed 45 percent of a district's basic need for the preceding fiscal year as determined under (1) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-17-410__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to the local contribution required under (b)(2) of this section, a city or borough school district in a fiscal year may make a local contribution of not more than the greater of</p>
+              </content>
+              <paragraph eId="14-17-410__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the equivalent of a two mill tax levy on the full and true value of the taxable real and personal property in the district as of January 1 of the second preceding fiscal year, as determined by the Department of Commerce, Community, and Economic Development under
+AS 14.17.510
+and
+AS 29.45.110
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-17-410__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>23 percent of the total of the district's basic need for the fiscal year under (b)(1) of this section and any additional funding distributed to the district in a fiscal year according to (b) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-17-410__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>State aid may not be provided to a city or borough school district if the local contributions required under (b)(2) of this section have not been made.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-410__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a city or borough school district is established after July 1, 1998, for the first three fiscal years in which the city or borough school district operates schools, local contributions may be less than the amount that would otherwise be required under (b)(2) of this section, except that</p>
+              </content>
+              <paragraph eId="14-17-410__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in the second fiscal year of operations, local contributions must be at least the greater of
+(A) the local contributions, excluding federal impact aid, for the previous fiscal year; or
+(B) the sum of 10 percent of the district's eligible federal impact aid for that year and the equivalent of a one mill tax levy on the full and true value of the taxable real and personal property in the city or borough school district as of January 1 of the second preceding fiscal year, as determined by the Department of Commerce, Community, and Economic Development under
+AS 14.17.510
+and
+AS 29.45.110
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-17-410__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in the third year of operation, local contributions must be at least the greater of
+(A) the local contributions, excluding federal impact aid, for the previous fiscal year; or
+(B) the sum of 10 percent of the district's eligible federal impact aid for that year and the equivalent of a two mill tax levy on the full and true value of the taxable real and personal property in the district as of January 1 of the second preceding fiscal year, as determined by the Department of Commerce, Community, and Economic Development under
+AS 14.17.510
+and
+AS 29.45.110
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-17-410__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A school district is eligible for additional state aid in the amount by which the local contributions that would otherwise have been required under (b)(2) of this section exceed the district's actual local contributions under (e) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-420">
+            <num>14.17.420</num>
+            <heading>Funding for special needs, secondary school vocational and technical instruction, and intensive services.</heading>
+            <subsection eId="14-17-420__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As a component of public school funding, a district is eligible for special needs and secondary school vocational and technical instruction funding and may be eligible for intensive services funding as follows:</p>
+              </content>
+              <paragraph eId="14-17-420__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>special needs funding is available to a district to assist the district in providing special education, gifted and talented education, vocational education, and bilingual education services to its students; a special needs funding factor of 1.20 shall be applied as set out in
+AS 14.17.410</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-17-420__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in addition to the special needs funding for which a district is eligible under (1) of this subsection, a district is eligible for intensive services funding for each special education student who needs and receives intensive services and is enrolled on the last day of the count period; for each such student, intensive services funding is equal to the intensive student count multiplied by 13;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-17-420__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>in addition to the special needs and intensive services funding available under (1) and (2) of this subsection, secondary school vocational and technical instruction funding is available to assist districts in providing vocational and technical instruction to students who are enrolled in a secondary school; a secondary school vocational and technical instruction funding factor of 1.015 shall be applied as set out in
+AS 14.17.410</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-17-420__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a district offers special education, gifted and talented education, vocational education, or bilingual education services, in order to receive funding under (a)(1) of this section, the district must file with the department a plan that indicates the services that will be provided to students who receive these services.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-420__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, intensive services has the meaning given by the department by regulation adopted under
+AS 14.30.180
+ 14.30.350.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-430">
+            <num>14.17.430</num>
+            <heading>State funding for correspondence study.</heading>
+            <content>
+              <p>Sec. 14.17.430.   State funding for correspondence study.
+Except as provided in
+AS 14.17.400
+(b), funding for the state centralized correspondence study program or a district correspondence program, including a district that offers a statewide correspondence study program, includes an allocation from the public education fund in an amount calculated by multiplying the ADM of the correspondence program by 90 percent.</p>
+            </content>
+          </section>
+          <section eId="sec_14-17-440">
+            <num>14.17.440</num>
+            <heading>State funding for state boarding schools.</heading>
+            <subsection eId="14-17-440__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 14.17.400
+(b), funding for state boarding schools established under
+AS 14.16.010
+includes an allocation from the public education fund in an amount calculated by</p>
+              </content>
+              <paragraph eId="14-17-440__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>determining the ADM of state boarding schools by applying the school size factor to the student count as described in
+AS 14.17.450
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-17-440__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>multiplying the number obtained under (1) of this subsection by the special needs factor in
+AS 14.17.420</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-17-440__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>multiplying the product determined under (2) of this subsection by the district cost factor that is applicable to calculation of the state aid for the adjacent school district under
+AS 14.17.460
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-17-440__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>State boarding schools are also eligible for intensive services funding under
+AS 14.17.420
+(a)(2).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-450">
+            <num>14.17.450</num>
+            <heading>School size factor.</heading>
+            <subsection eId="14-17-450__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of calculating a school's ADM to determine state aid, the ADM of each school in a district shall be computed by applying the following formula:
+If the student count in a school isThe adjusted student count is
+At leastBut less thanBaseMultiplierThe number of students in excess of
+10-2039.6
+20-3039.6+(1.62x20)
+30-7555.8+(1.49x30)
+75-150122.85+(1.27x75)
+150-250218.1+(1.08x150)
+250-400326.1+(0.97x250)
+400-750471.6+(0.92x400)
+750 or over793.6+(0.84x750).</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-450__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the ADM in a school is less than 10, those students shall be included in the ADM of the school in that district with the lowest ADM as determined by the most recent student count data for that district.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-450__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in (d) of this section, if the student count in a charter school is less than 150, the adjusted student count for the school shall be calculated by multiplying the student count by the student rate for a school that has a student count of 400.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-450__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a charter school has a student count of at least 75 but less than 150 for the current year and is in the first three years of operation or had a student count of at least 75 in the previous year of operation,</p>
+              </content>
+              <paragraph eId="14-17-450__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the adjusted student count for the school shall be calculated by multiplying the student count by the student rate for a school that has a student count of 150; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-17-450__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>not later than February 15, the charter school shall submit for approval of the governing board of the district a plan for the following school year that includes a statement about whether the school will continue to operate if the student count remains the same that year and, if so, a projection of the funding anticipated from the state and other sources, a proposed budget, and a description of anticipated changes to the school staff, program, and curriculum; if the school intends to close if the student count remains the same the following year, the plan must describe transfer plans for students, staff, facilities, and materials.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-17-450__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If an alternative school has a student count of more than 120 but less than 175 for the current year and is in the first year of operation or had a student count of 175 or more in the previous year of operation, the adjusted student count for the school shall be calculated by multiplying the student count by 95 percent of the student rate for a school that has a student count of 175.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-450__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In (c)  (e) of this section, student rate is calculated by adding the base and the multiplier provided under (a) of this section and dividing the sum by the student count.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-460">
+            <num>14.17.460</num>
+            <heading>District cost factors.</heading>
+            <subsection eId="14-17-460__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of calculating a district's adjusted ADM under
+AS 14.17.410
+(b)(1), the district cost factor for a school district is (1) for the fiscal year ending June 30, 2009, the factor set out under column (A) of this subsection, (2) for the fiscal year ending June 30, 2010, the factor set out under column (B) of this subsection, (3) for the fiscal year ending June 30, 2011, the factor set out under column (C) of this subsection, (4) for the fiscal year ending June 30, 2012, the factor set out under column (D) of this subsection, and (5) for fiscal years ending on or after June 30, 2013, the factor set out under column (E) of this subsection:
+DISTRICT COST FACTOR
+DISTRICT(A)(B)(C)(D)(E)
+Alaska Gateway1.4431.4811.5191.5571.594
+Aleutians East1.7071.7781.8491.9201.991
+Aleutians Region1.8381.8641.8901.9161.939
+Anchorage1.0001.0001.0001.0001.000
+Annette Island1.1751.2161.2571.2981.338
+Bering Strait1.7621.8211.8801.9391.998
+Bristol Bay1.3701.3971.4241.4511.478
+Chatham1.3481.4051.4621.5191.576
+Chugach1.3951.4201.4451.4701.496
+Copper River1.2461.2641.2821.3001.316
+Cordova1.1651.1821.1991.2161.234
+Craig1.1081.1331.1581.1831.206
+Delta/Greely1.1741.1911.2081.2251.241
+Denali1.3231.3261.3291.3321.332
+Dillingham1.3001.3121.3241.3361.346
+Fairbanks1.0551.0591.0631.0671.070
+Galena1.3701.3761.3821.3881.391
+Haines1.1041.1281.1521.1761.200
+Hoonah1.2271.2701.3131.3561.399
+Hydaburg1.2951.3481.4011.4541.504
+Iditarod1.6581.7051.7521.7991.846
+Juneau1.0751.0931.1111.1291.145
+Kake1.2421.2961.3501.4041.459
+Kashunamiut1.5041.5331.5621.5911.619
+Kenai Peninsula1.0881.1091.1301.1511.171
+Ketchikan1.0851.1061.1271.1481.170
+Klawock1.1601.1961.2321.2681.302
+Kodiak Island1.1911.2161.2411.2661.289
+Kuspuk1.5841.6221.6601.6981.734
+Lake and Peninsula1.7761.8311.8861.9411.994
+Lower Kuskokwim1.5771.5991.6211.6431.663
+Lower Yukon1.6501.7031.7561.8091.861
+Matanuska-Susitna1.0401.0481.0561.0641.070
+Mt. Edgecumbe1.0981.1231.1481.1731.195
+Nenana1.3041.3131.3221.3311.338
+Nome1.3851.4021.4191.4361.450
+North Slop</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-460__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall monitor the cost factors established under (a) of this section and shall prepare and submit to the legislature by January 15 of every other fiscal year proposed district cost factors.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-470">
+            <num>14.17.470</num>
+            <heading>Base student allocation.</heading>
+            <content>
+              <p>Sec. 14.17.470.   Base student allocation.
+The base student allocation is $5,960.</p>
+            </content>
+          </section>
+          <section eId="sec_14-17-480">
+            <num>14.17.480</num>
+            <heading>Quality school funding.</heading>
+            <subsection eId="14-17-480__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As a component of public school funding, a district is eligible to receive a quality school funding grant not to exceed the district's adjusted ADM multiplied by $16. The department shall by regulation establish a grant process to implement this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-480__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of the reduction required under
+AS 14.17.400
+(b), funding authorized under (a) of this section is treated the same as the state share of public school funding under
+AS 14.17.410
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-490">
+            <num>14.17.490</num>
+            <heading>Public school funding adjustments.</heading>
+            <subsection eId="14-17-490__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b)  (e) of this section, if, in fiscal year 1999, a city or borough school district or a regional educational attendance area would receive less public school funding under
+AS 14.17.410
+than the district or area would have received as state aid, the district or area is, in each fiscal year, eligible to receive additional public school funding equal to the difference between the public school funding the district or area was eligible to receive under
+AS 14.17.410
+in fiscal year 1999 and the state aid the district or area would have received in fiscal year 1999.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-490__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A city or borough school district is not eligible for additional funding authorized under (a) of this section unless, during the fiscal year in which the district receives funding under (a) of this section, the district received a local contribution equal to at least the equivalent of a 2.65 mill tax levy on the full and true value of the taxable real and personal property in the district as of January 1 of the second preceding fiscal year as determined by the Department of Commerce, Community, and Economic Development under
+AS 14.17.510
+and
+AS 29.45.110
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-490__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For the purposes of the reduction required under
+AS 14.17.400
+(b), funding authorized under (a) of this section is treated the same as the state share of public school funding under
+AS 14.17.410
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-490__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Beginning in fiscal year 2000, if a district receives more public school funding under
+AS 14.17.410
+than the district received in the preceding fiscal year, any amount received by the district under this section shall be reduced. The amount of the reduction required under this subsection is equal to the amount of increase from the preceding fiscal year in public school funding multiplied by 40 percent. In this subsection, public school funding does not include funding under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-490__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Beginning in fiscal year 2000, in each fiscal year, the department shall compare each district's ADM with the district's ADM in fiscal year 1999. If the current fiscal year ADM is less than 95 percent of the district's ADM in fiscal year 1999, the department shall reduce the district's public school funding calculated under (a) of this section by a percentage equal to the percentage of decrease in the district's ADM.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-490__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>For purposes of this section, state aid means state aid distributed under the provisions of
+AS 14.17
+, as those provisions read on January 1, 1998, and additional district support appropriated by the legislature for fiscal year 1998.
+Article 2. Preparation of Public School Funding Budget.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-500">
+            <num>14.17.500</num>
+            <heading>Student count estimate.</heading>
+            <subsection eId="14-17-500__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A district shall prepare and submit to the department by November 5 of each fiscal year, in the manner and on forms prescribed by the department, an estimate of its ADM and other student count data, including per school student count data, for the succeeding fiscal year upon which computations can be made to estimate the amount of state aid for which the district may be eligible under
+AS 14.17.400
+in the succeeding fiscal year. In making its report, the district shall consider its ADM, other student count data, the pattern of growth or decline of the student population in preceding years, and other pertinent information available to the district.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-500__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Part-time students shall be included in the student count data in accordance with regulations adopted by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-500__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When reporting a district's ADM, a part-time student who is a correspondence student may not be counted as more than one full-time equivalent student.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-500__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in (e)  (g) of this section, a student in a district-wide early education program provided by a school district and approved by the department under
+AS 14.07.020
+(a)(8) is counted as one-half of a full-time equivalent student.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-500__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A school district may not include in a school's ADM students who are four and five years of age if the students are enrolled in an early education program that receives state or federal funding other than funding under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-500__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A school district may not include in a school's ADM students who are four and five years of age if inclusion of the students would result in an increase of total state aid attributable to district-wide early education programs approved under
+AS 14.03.410
+of more than $3,000,000 from the previous fiscal year. The department shall prioritize the funding of district-wide early education programs, giving priority to school districts with lower performance, based on the department's ranking of districts under
+AS 14.03.410
+(c). When the number of students in a district-wide early education program will result in an increase of total state aid attributable to district-wide early education programs approved under
+AS 14.03.410
+of more than $3,000,000 from the previous fiscal year, the department may identify the amount, up to $3,000,000, available for the district's district-wide early education program.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-500__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>For purposes of
+AS 14.09.010
+, a student in a district-wide early education program provided by a school district and approved by the department under
+AS 14.07.020
+(a)(8) is counted as a full-time equivalent student.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-505">
+            <num>14.17.505</num>
+            <heading>Fund balance in school operating fund.</heading>
+            <subsection eId="14-17-505__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A district may not accumulate in a fiscal year an unreserved portion of its year-end fund balance in its school operating fund, as defined by department regulations, that is greater than 10 percent of its expenditures for that fiscal year.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-505__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall review each district's annual audit under
+AS 14.14.050
+for the preceding fiscal year to ascertain its year-end operating fund balance. The amount by which the unreserved portion of that balance exceeds the amount permitted in (a) of this section shall be deducted from the state aid that would otherwise be paid to the district in the current fiscal year.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-510">
+            <num>14.17.510</num>
+            <heading>Determination of full and true value by Department of Commerce, Community, and Economic Development.</heading>
+            <subsection eId="14-17-510__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To determine the amount of required local contribution under
+AS 14.17.410
+(b)(2) and to aid the department and the legislature in planning, the Department of Commerce, Community, and Economic Development, in consultation with the assessor for each district in a city or borough, shall determine the full and true value of the taxable real and personal property in each district in a city or borough. If there is no local assessor or current local assessment for a city or borough school district, then the Department of Commerce, Community, and Economic Development shall make the determination of full and true value guided by
+AS 29.45.110
+and based on a determination of full and true value made by the state assessor at least every two years using the best information available, including on-site inspections made by the state assessor in each of those districts at least once every four years. For purposes of this subsection, the full and true value of taxable real and personal property in any area detached shall be excluded from the determination of the full and true value of the municipality from which the property was detached for the two years immediately preceding the effective date of the detachment. Also, in making the determination for a municipality that is a school district, or for a city that is within a borough school district, the assessed value of property taxable under
+AS 43.56
+shall be excluded if a tax is not levied under
+AS 29.45.080
+by the municipality that is the school district. The determination of full and true value shall be made by October 1 and sent by certified mail, return receipt requested, on or before that date to the president of the school board in each city or borough school district. Duplicate copies shall be sent to the commissioner. The governing body of a city or borough that is a school district may obtain judicial review of the determination. The superior court may modify the determination of the Department of Commerce, Community, and</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-510__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Motor vehicles subject to the motor vehicle registration tax under
+AS 28.10.431
+shall be treated as taxable property under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-510__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 8 ch 19 SLA 2012.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-520">
+            <num>14.17.520</num>
+            <heading>Minimum expenditure for instruction.</heading>
+            <content>
+              <p>Sec. 14.17.520.   Minimum expenditure for instruction.
+Article 3. Procedure for Payments of State Aid.</p>
+            </content>
+          </section>
+          <section eId="sec_14-17-520">
+            <num>14.17.520</num>
+            <heading>Minimum expenditure for instruction.</heading>
+            <content>
+              <p>Sec. 14.17.520.   Minimum expenditure for instruction.
+Article 3. Procedure for Payments of State Aid.</p>
+            </content>
+          </section>
+          <section eId="sec_14-17-600">
+            <num>14.17.600</num>
+            <heading>Student count periods.</heading>
+            <subsection eId="14-17-600__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within two weeks after the end of the 20-school-day period ending the fourth Friday in October, each district shall transmit a report to the department that, under regulations adopted by the department, reports its ADM for that count period and other student count information that will aid the department in making a determination of its state aid under the public school funding program. For centralized correspondence study, the October report shall be based on the period from July 1 through the fourth Friday in October. The department may make necessary corrections in the report submitted and shall notify the district of changes made. The commissioner shall notify the governor of additional appropriations the commissioner estimates to be necessary to fully finance the public school funding program for the current fiscal year.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-600__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon written request and for good cause shown, the commissioner may permit a district to use a 20-school-day count period other than the period set out in (a) of this section. However, a count period approved under this subsection must be 20 consecutive school days unless one or more alternate count periods are necessary to permit a district to implement flexible scheduling that meets the district's needs and goals without jeopardizing the state aid for which the district would ordinarily be eligible under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-610">
+            <num>14.17.610</num>
+            <heading>Distribution of state aid.</heading>
+            <subsection eId="14-17-610__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall determine the state aid for each school district in a fiscal year on the basis of the district's student count data reported under
+AS 14.17.600
+. On or before the 15th day of each of the first nine months of each fiscal year, one-twelfth of each district's state aid shall be distributed on the basis of the data reported for the preceding fiscal year. On or before the 15th day of each of the last three months of each fiscal year, one-third of the balance of each district's state aid shall be distributed, after the balance has been recomputed on the basis of student count and other data reported for the current fiscal year.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-610__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Distribution of state aid under (a) of this section shall be made as required under
+AS 14.17.410
+. If a district receives more state aid than it is entitled to receive under this chapter, the district shall immediately remit the amount of overpayment to the commissioner, to be returned to the public education fund. The department may make adjustments to a district's state aid to correct underpayments made in previous fiscal years.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-610__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon an adequate showing of a cash flow shortfall of a district, and in the discretion of the commissioner, the department may make advance payments to a district. The total of advance payments may not exceed the amount of state aid for which the district is eligible for the fiscal year.
+Article 4. General Provisions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-900">
+            <num>14.17.900</num>
+            <heading>Construction and implementation of chapter.</heading>
+            <subsection eId="14-17-900__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This chapter does not create a debt of the state. Each district shall establish, maintain, and operate under a balanced budget. The state is not responsible for the debts of a school district.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-900__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Money to carry out the provisions of this chapter may be appropriated annually by the legislature into the public education fund. If the amount appropriated to the fund for the purposes of this chapter is insufficient to meet the allocations authorized under
+AS 14.17.400
+ 14.17.470 for a fiscal year, state aid shall be reduced according to
+AS 14.17.400
+(b).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-905">
+            <num>14.17.905</num>
+            <heading>Facilities constituting a school.</heading>
+            <subsection eId="14-17-905__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of this chapter, the determination of the number of schools in a district is subject to the following:</p>
+              </content>
+              <paragraph eId="14-17-905__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a community with an ADM of at least 10, but not more than 100, shall be counted as one school;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-17-905__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a community with an ADM of at least 101, but not more than 425, shall be counted as
+(A) one elementary school, which includes those students in grades kindergarten through six and, except as provided in
+AS 14.17.500
+, in an early education program provided by a school district and approved by the department under
+AS 14.07.020</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-17-905__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>in a community with an ADM of greater than 425, each facility that is administered as a separate school shall be counted as one school, except that each alternative school with an ADM of less than 175 shall be counted as a part of the school in the district with the highest ADM.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-17-905__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a)(3) of this section and for purposes other than calculations under
+AS 14.17.450
+, a charter school shall be counted as a separate school if the charter school has an ADM of at least 150 students.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-905__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (a)(2) and (a)(3) of this section, in a community with an ADM of greater than 425 that has only one facility administered as a school, excluding charter schools, for students in grades kindergarten through 12, the number of schools for the community shall be counted under (a)(2) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-910">
+            <num>14.17.910</num>
+            <heading>Restrictions governing receipt and expenditure of district money.</heading>
+            <subsection eId="14-17-910__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each district shall maintain complete financial records of the receipt and disbursement of state aid, money acquired from local effort, and other money received or held by the district. The records must be in the form required by the department and are subject to audit by the department at a time and place designated by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-17-910__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>State aid provided under this chapter is for general operational purposes of the district. All district money, including state aid, shall be received, held, allocated, and expended by the district under applicable local law and state and federal constitutional provisions, statutes, and regulations, including those related to ethical standards and accounting principles.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-17-920">
+            <num>14.17.920</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 14.17.920.   Regulations.
+The department shall adopt regulations necessary to implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_14-17-990">
+            <num>14.17.990</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 14.17.990.   Definitions.
+In this chapter, unless the context requires otherwise,
+(1) ADM or average daily membership means the aggregate number of full-time equivalent students enrolled in a school district during the student count period for which a determination is being made, divided by the actual number of days that school is in session for the student count period for which the determination is being made;
+(2) district means a city or borough school district or a regional educational attendance area;
+(3) district adjusted ADM means the number resulting from the calculations under
+AS 14.17.410
+(b)(1);
+(4) district ADM means the sum of the ADMs in a district;
+(5) eligible federal impact aid means the amount of federal impact aid received by a district as of March 1 of the fiscal year as a result of an application submitted in the preceding fiscal year, including advance payments and adjustments received since March 1 of the preceding fiscal year from prior year applications, under 20 U.S.C. 7701  7714, except payments received under former 20 U.S.C. 7703(f)(2)(B), to the extent the state may consider that aid as local resources under federal law;
+(6) local contribution means appropriations and the value of in-kind services made by a district;
+(7) taxable real and personal property means all real and personal property taxable under the laws of the state.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

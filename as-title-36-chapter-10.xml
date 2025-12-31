@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-10"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="36.10"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-36/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-36/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_36">
+        <num>36</num>
+        <heading>Public Contracts</heading>
+        <chapter eId="title_36__chp_10">
+          <num>10</num>
+          <heading>Employment Preference</heading>
+          <section eId="sec_36-10-005">
+            <num>36.10.005</num>
+            <heading>Legislative findings.</heading>
+            <subsection eId="36-10-005__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The legislature finds that</p>
+              </content>
+              <paragraph eId="36-10-005__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>because of its unique climate and its distance from the contiguous states, the state has historically suffered from unique social, seasonal, geographic, and economic conditions that result in an unstable economy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the unstable economy is a hardship on the residents of the state and is aggravated by the large numbers of seasonal and transient nonresident workers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the rate of unemployment among residents of the state is one of the highest in the nation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the state has one of the highest ratios of nonresident to resident workers in the nation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the state has a compelling interest in reducing the level of unemployment among its residents;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the construction industry in the state accounts for a substantial percentage of the available employment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>construction workers receive a greater percentage of all unemployment benefits paid by the state than is typical of other states;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>historically, the rate of unemployment in the construction industry in the state is higher than the rate of unemployment in other industries in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>it is appropriate for the state to consider the welfare of its residents when it funds construction activity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>it is in the public interest for the state to allocate public funds for capital projects in order to reduce unemployment among its resident construction workers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>the influx of nonresident construction workers contributes to or causes the high unemployment rate among resident construction workers because nonresident workers compete with residents for the limited number of available construction jobs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>nonresident workers displace a substantial number of qualified, available, and unemployed Alaska workers on jobs on state funded public works projects;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>the state has a special interest in seeing that the benefits of state construction spending accrue to its residents;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>the natural resources of land owned by the state belong to the citizens of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>Alaskans have chosen to use the majority of the royalties derived from the state's natural resources to fund state government;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>the vast majority of the state's revenue is derived from natural resource income rather than from other forms of taxation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>because the state has no personal income tax or sales tax, nonresident workers use services provided by the state but do not contribute fairly to the costs of those services; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>Alaskans, more than the residents of other states, suffer economically when nonresidents displace qualified residents since resident workers contribute local taxes as well as their share of the royalties from natural resources.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-10-005__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The legislature further finds that</p>
+              </content>
+              <paragraph eId="36-10-005__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the state and its political subdivisions, when acting as a market participant in funding public works projects, should give Alaska residents an employment preference to promote a more stable economy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the state and its political subdivisions have a duty of loyalty to their citizens and should fulfill this duty by giving residents preference for employment on public works projects they fund;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>there is a legitimate and compelling governmental interest and that the public health and welfare will suffer if state residents are not afforded employment preference in state-funded construction-related work.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-10-005__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The legislature finds that the following factors are reasonable but not exclusive indicators of the ratio of nonresident to resident employees in the state:</p>
+              </content>
+              <paragraph eId="36-10-005__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the ratio of applicants for unemployment insurance who list out-of-state residences to applicants who list residences in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the ratio of employees who are subject to unemployment insurance coverage and who did not apply for or were denied a permanent fund dividend to employees who were found eligible for a dividend.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-10-005__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The legislature finds that</p>
+              </content>
+              <paragraph eId="36-10-005__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the number of state residents who are unable to find work is considerably higher than is reflected by unemployment rates based on nationally accepted measures;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-005__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>many rural state residents who wish to work do not seek employment as frequently as necessary to meet federal definitions of unemployment because of continuing lack of employment opportunities in rural areas of the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-007">
+            <num>36.10.007</num>
+            <heading>State policy.</heading>
+            <content>
+              <p>Sec. 36.10.007.   State policy.
+It is the policy of this state that, to fulfill the duty of loyalty owed to its citizens and to remedy social or economic problems, the state will grant an employment preference to residents when the state is acting as a market participant.</p>
+            </content>
+          </section>
+          <section eId="sec_36-10-020">
+            <num>36.10.020</num>
+            <heading>Apprentices.</heading>
+            <content>
+              <p>Sec. 36.10.020.   Apprentices.
+Apprentices must be properly registered apprentices in their particular craft.</p>
+            </content>
+          </section>
+          <section eId="sec_36-10-030">
+            <num>36.10.030</num>
+            <heading>Reduction of work force.</heading>
+            <content>
+              <p>Sec. 36.10.030.   Reduction of work force.
+When a work force is reduced, resident workers, except supervisory personnel, shall be terminated last.</p>
+            </content>
+          </section>
+          <section eId="sec_36-10-040">
+            <num>36.10.040</num>
+            <heading>Application to contracts involving federal funds.</heading>
+            <content>
+              <p>Sec. 36.10.040.   Application to contracts involving federal funds.
+In a contract involving expenditure of federal aid funds, this chapter may not be enforced in a manner that conflicts with federal statutes giving preference to veterans or prohibiting other preferences or discriminations among United States citizens.</p>
+            </content>
+          </section>
+          <section eId="sec_36-10-070">
+            <num>36.10.070</num>
+            <heading>Unavailability of preferred workers.</heading>
+            <subsection eId="36-10-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An employer subject to hiring requirements under this chapter may request the Department of Labor and Workforce Development to assist in locating qualified, eligible employees. After receiving a request for assistance, the department shall refer qualified, eligible, available residents to the employer to fill the employer's hiring needs. The employer shall cooperate with the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the department is unable to refer a sufficient number of qualified, eligible, available residents able to perform the work, the commissioner of labor and workforce development may approve the hiring of residents who are not eligible for preference and nonresidents for the balance of the request.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-075">
+            <num>36.10.075</num>
+            <heading>Regulations.</heading>
+            <subsection eId="36-10-075__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of labor and workforce development shall adopt regulations necessary to carry out the provisions of this chapter including but not limited to the method, time, and content of reporting by employers covered by this chapter and reporting provisions permitting on-going supervision by the Department of Labor and Workforce Development on all public works projects covered by this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-075__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner of labor and workforce development shall adopt regulations to encourage and require the hiring of residents to the maximum extent permitted by law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-076">
+            <num>36.10.076</num>
+            <heading>Notification by state or political subdivision.</heading>
+            <content>
+              <p>Sec. 36.10.076.   Notification by state or political subdivision.
+An agency or political subdivision of the state covered by the provisions of this chapter shall notify the Department of Labor and Workforce Development periodically regarding planned public works. Notification shall be in the form and manner prescribed by the Department of Labor and Workforce Development.</p>
+            </content>
+          </section>
+          <section eId="sec_36-10-080">
+            <num>36.10.080</num>
+            <heading>Chapter incorporated in contracts.</heading>
+            <content>
+              <p>Sec. 36.10.080.   Chapter incorporated in contracts.
+The provisions of this chapter are considered to be a part of every public works contract.</p>
+            </content>
+          </section>
+          <section eId="sec_36-10-090">
+            <num>36.10.090</num>
+            <heading>Publication of list of violators.</heading>
+            <subsection eId="36-10-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of labor and workforce development shall distribute to all departments and agencies of the state government and to all political subdivisions of the state a list of the names of persons or firms convicted of a violation of this chapter. A person appearing on the list or a firm, corporation, partnership, or association in which the person has an interest may not work as a contractor or subcontractor on a public construction contract for the state or a political subdivision until after three years from the date of publication of the list.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A local government or school district covered by the provisions of this chapter that is found to be in violation of these provisions may be required to forfeit all or part of the state aid made available for the project in which the violation occurs and in addition may be denied up to 12 months of state community assistance or public school funding. A state department or agency head found to be in violation of this chapter may be required to forfeit the position of department or agency head.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person or governmental entity covered by the provisions of (b) of this section who is not satisfied by a decision of the Department of Labor and Workforce Development may, as the final administrative process, appeal the decision to a committee consisting of the commissioners of transportation and public facilities, labor, and workforce development, and administration.  The commissioner of transportation and public facilities is the chairman of the committee.  A quorum for conducting business is three members and any decision made must be supported by a majority of the committee members.  The committee may, upon a showing of hardship, waive all or any part of the penalty provisions of this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-100">
+            <num>36.10.100</num>
+            <heading>Retainage and penalty.</heading>
+            <subsection eId="36-10-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contractor who violates a provision of this chapter shall have deducted from amounts due to the contractor under the contract the prevailing wages that should have been paid to a displaced resident, and these amounts shall be retained by the contracting agency.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A contractor or the agent of a contractor who violates a provision of this chapter is guilty of a misdemeanor, and upon conviction is punishable by a fine of not more than $500, or by imprisonment for not more than 90 days, or by both.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-120">
+            <num>36.10.120</num>
+            <heading>Investigations and hearings.</heading>
+            <content>
+              <p>Sec. 36.10.120.   Investigations and hearings.
+The Department of Labor and Workforce Development may, when necessary to enforce this chapter,
+(1) conduct investigations and hold hearings relating to employment preference;
+(2) compel the attendance of witnesses and the production of books, papers, and documents.</p>
+            </content>
+          </section>
+          <section eId="sec_36-10-125">
+            <num>36.10.125</num>
+            <heading>Enforcement.</heading>
+            <subsection eId="36-10-125__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The attorney general shall, when requested by the Department of Labor and Workforce Development, enforce the provisions of this chapter.  The attorney general may obtain a court order prohibiting a contractor or subcontractor violating this chapter from continuing to work on existing public construction contracts of the state or a political subdivision of the state.  The state or political subdivision of the state may prosecute the work to completion by contract or otherwise, and the contractor or subcontractor and the sureties of the contractor or subcontractor are liable for excess costs for completing the work.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-125__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A private person is entitled to bring an action in the superior court to enforce the provisions of this chapter if that private person first gives at least 20 days notice to the commissioner of labor and workforce development.  The notice must set out</p>
+              </content>
+              <paragraph eId="36-10-125__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the intent of the private person to bring an action under this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-125__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the specific violation complained of; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-125__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the name of the person accused of the violation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-10-125__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In an action brought under (b) of this section, the court may, in its discretion, order denial of state community assistance, revenue sharing, or public school funding, forfeiture of office or position, or injunctive or other relief. If the court finds for the plaintiff in an action brought under (b) of this section, it may award the plaintiff an amount equal to the actual costs and attorney fees incurred by the plaintiff.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-130">
+            <num>36.10.130</num>
+            <heading>Resident hire report.</heading>
+            <content>
+              <p>Sec. 36.10.130.   Resident hire report.
+The attorney general and the commissioner of labor and workforce development shall report annually to the governor on the status of employment in the state, the effect of nonresident employment on the employment of residents in the state, and methods to increase resident hire. The report shall be submitted by January 31 of each year, and the governor shall notify the legislature that the report is available.</p>
+            </content>
+          </section>
+          <section eId="sec_36-10-140">
+            <num>36.10.140</num>
+            <heading>Eligibility for preference; approval of job-training programs; certification.</heading>
+            <subsection eId="36-10-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person is eligible for an employment preference under this chapter if the person certifies eligibility as required by the Department of Labor and Workforce Development, is a resident, and</p>
+              </content>
+              <paragraph eId="36-10-140__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is receiving unemployment benefits under
+AS 23.20
+or would be eligible to receive benefits but has exhausted them;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-140__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is not working and has registered to find work with a public or private employment agency or a local hiring hall;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-140__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>is underemployed or marginally employed as defined by the department; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-140__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>has completed a job-training program approved by the department and is either not employed or is engaged in employment that does not use the skills acquired in the job-training program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-10-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In approving job-training programs under (a) of this section, the department shall use information and findings from other state and federal agencies as much as possible.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An employer subject to a resident hiring requirement under this chapter shall certify that persons employed as residents under the preference were eligible for the preference at the time of hiring.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-140__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A labor organization that dispatches members for work on a public works project under a collective bargaining agreement shall certify that persons dispatched as residents to meet a preference were eligible for the preference at the time of dispatch.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-140__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An employer or labor organization may request assistance from the Department of Labor and Workforce Development in verifying the eligibility of an applicant for a hiring preference under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-150">
+            <num>36.10.150</num>
+            <heading>Determination of zone of underemployment.</heading>
+            <subsection eId="36-10-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Immediately following a determination by the commissioner of labor and workforce development that a zone of underemployment exists, and for the next two fiscal years after the determination, qualified residents of the zone who are eligible under
+AS 36.10.140
+shall be given preference in hiring for work on each project under
+AS 36.10.180
+that is wholly or partially sited within the zone. The preference applies on a craft-by-craft or occupational basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner of labor and workforce development shall determine the amount of work that must be performed under this section by qualified residents who are eligible for an employment preference under
+AS 36.10.140
+. In making this determination, the commissioner shall consider the nature of the work, the classification of workers, availability of eligible residents, and the willingness of eligible residents to perform the work.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner shall determine that a zone of underemployment exists if the commissioner finds that</p>
+              </content>
+              <paragraph eId="36-10-150__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the rate of unemployment within the zone is substantially higher than the national rate of unemployment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-150__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a substantial number of residents in the zone have experience or training in occupations that would be employed on a public works project;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-150__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the lack of employment opportunities in the zone has substantially contributed to serious social or economic problems in the zone; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-150__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>employment of workers who are not residents is a peculiar source of the unemployment of residents of the zone.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-160">
+            <num>36.10.160</num>
+            <heading>Preference for residents of economically distressed zones.</heading>
+            <subsection eId="36-10-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Immediately following a determination by the commissioner that an economically distressed zone exists, and for the next two fiscal years after the determination, qualified residents of the zone who are eligible under
+AS 36.10.140
+shall be given preference in hiring for at least 50 percent of employment on each project under
+AS 36.10.180
+that is wholly or partially sited within the zone. The preference applies on a craft-by-craft or occupational basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall determine that an economically distressed zone exists if the commissioner finds that</p>
+              </content>
+              <paragraph eId="36-10-160__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the per capita income of residents of the zone is less than 90 percent of the per capita income of the United States as a whole, or the unemployment rate in the zone exceeds the national rate of unemployment by at least five percentage points;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-160__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the lack of employment opportunities in the zone has substantially contributed to serious social or economic problems in the zone; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-160__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>employment of workers who are not residents is a peculiar source of unemployment of residents of the zone.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-170">
+            <num>36.10.170</num>
+            <heading>Preference for economically disadvantaged minority residents.</heading>
+            <subsection eId="36-10-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Immediately following a determination by the commissioner that the minority residents of a zone are economically disadvantaged, and for the next two fiscal years after the determination, qualified minority residents of the zone who are eligible under
+AS 36.10.140
+shall be given preference in hiring for at least 25 percent, or a percent representative of the civilian minority residents in the zone, whichever is greater, of employment on each project under
+AS 36.10.180
+that is wholly or partially sited within the zone. The preference applies on a craft-by-craft or occupational basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall determine that the minority residents of a zone are economically disadvantaged if the commissioner finds that</p>
+              </content>
+              <paragraph eId="36-10-170__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the percentage of civilian minority residents in the zone exceeds the percentage of civilian minority residents in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-170__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>either the percent of unemployment of civilian minority residents of the zone is at least two times the percent of unemployment of nonminority residents of the zone or the civilian minority population of the zone has suffered past economic discrimination;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-170__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the economic disadvantage of civilian minority residents of the zone has substantially contributed to serious social or economic problems in the zone; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-170__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>employment of workers who are not residents is a peculiar source of unemployment of civilian minority residents of the zone.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-10-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, a person is considered to be a member of a minority if the person is Hispanic, Asian or Pacific Islander, American Indian or Alaskan Native, or Black as those terms are defined by the Equal Employment Opportunity Commission.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-175">
+            <num>36.10.175</num>
+            <heading>Preference for economically disadvantaged female residents.</heading>
+            <subsection eId="36-10-175__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Immediately following a determination by the commissioner that the female residents of a zone are economically disadvantaged, and for the next two fiscal years after the determination, qualified female residents of the zone who are eligible under
+AS 36.10.140
+shall be given preference in hiring for at least 25 percent of employment on each project under
+AS 36.10.180
+that is wholly or partially sited within the zone. The preference applies on a craft-by-craft or occupational basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-175__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall determine that the female residents of a zone are economically disadvantaged if the commissioner finds that</p>
+              </content>
+              <paragraph eId="36-10-175__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>either the percent of unemployment of female residents of the zone is at least two times the percent of unemployment of male residents of the zone or the female population of the zone has suffered past economic discrimination;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-175__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the economic disadvantage of female residents of the zone has substantially contributed to serious social or economic problems in the zone; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-175__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>employment of workers who are not residents is a peculiar source of unemployment of female residents of the zone.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-180">
+            <num>36.10.180</num>
+            <heading>Projects subject to preference.</heading>
+            <subsection eId="36-10-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The preferences established in
+AS 36.10.150
+ 36.10.175 apply to work performed</p>
+              </content>
+              <paragraph eId="36-10-180__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>under a contract for construction, repair, preliminary surveys, engineering studies, consulting, maintenance work, or any other retention of services necessary to complete a given project that is let by the state or an agency of the state, a department, office, state board, commission, public corporation, or other organizational unit of or created under the executive, legislative, or judicial branch of state government, including the University of Alaska and the Alaska Railroad Corporation, or by a political subdivision of the state including a regional school board with respect to an educational facility under
+AS 14.11.020
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-180__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>on a public works project under a grant to a municipality under
+AS 37.05.315
+or
+AS 37.06.010
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-180__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>on a public works project under a grant to a named recipient under
+AS 37.05.316
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-180__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>on a public works project under a grant to an unincorporated community under
+AS 37.05.317
+or
+AS 37.06.020
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-180__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>on any other public works project or construction project that is funded in whole or in part by state money.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-10-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the governor has declared an area to be an area impacted by an economic disaster under
+AS 44.33.285
+, then the preference for residents of the area established under
+AS 44.33.285
+ 44.33.310 supersedes the preference under
+AS 36.10.150
+ 36.10.175 for contracts awarded by the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner shall define the boundaries of a zone within which a preference applies.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-190">
+            <num>36.10.190</num>
+            <heading>Reporting provisions.</heading>
+            <content>
+              <p>Sec. 36.10.190.   Reporting provisions.
+An employer obligated to meet resident hire requirements under this chapter shall comply with the reporting provisions that the commissioner of labor and workforce development determines are reasonably necessary to carry out this chapter. Except for statistical data, all information regarding specific employees is confidential and may not be released by the Department of Labor and Workforce Development. However, confidential employee information may be shared between departments for purposes of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_36-10-200">
+            <num>36.10.200</num>
+            <heading>Criminal penalties.</heading>
+            <subsection eId="36-10-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who makes a false sworn statement in connection with a certification of eligibility for an employment preference under this chapter is subject to criminal prosecution for perjury as provided in
+AS 11.56.200
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who makes an unsworn falsification, with the intent to mislead a public servant in the performance of a duty, in connection with a certification of eligibility for an employment preference under this chapter, is subject to criminal prosecution as provided in
+AS 11.56.210
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-210">
+            <num>36.10.210</num>
+            <heading>Civil penalties.</heading>
+            <subsection eId="36-10-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to any criminal penalties imposed, after a hearing the department may impose a civil penalty on a person who, in connection with certification of eligibility for an employment preference under this chapter,</p>
+              </content>
+              <paragraph eId="36-10-210__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>made a false sworn statement; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="36-10-210__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>made an unsworn falsification with intent to mislead a public servant in the performance of a duty.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="36-10-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount of the civil penalty under (a) of this section for a person who falsely certifies that the person is eligible for an employment preference under this chapter is not more than $400 for each false certification.</p>
+              </content>
+            </subsection>
+            <subsection eId="36-10-210__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The amount of the civil penalty under (a) of this section for an employer who falsely certifies that employees are residents eligible for a preference under this chapter is not more than $2,000 for each of the first five false certifications. The penalty for the sixth false certification made by an employer and for each false certification thereafter is at least $2,000 and not more than $4,000.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_36-10-900">
+            <num>36.10.900</num>
+            <heading>Severability.</heading>
+            <content>
+              <p>Sec. 36.10.900.   Severability.
+If a provision of this chapter, or the application of a provision to a person or circumstance, is held invalid, the remainder of this chapter and the application to other persons or circumstances shall not be affected by the holding. The remainder shall be enforced to the greatest extent constitutionally permissible under the constitutions of the United States and the State of Alaska.</p>
+            </content>
+          </section>
+          <section eId="sec_36-10-990">
+            <num>36.10.990</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 36.10.990.   Definitions.
+In this chapter,
+(1) qualified means possesses the requisite education, training, skills, or experience to perform the work;
+(2) zone includes a census area in the state, an economic region of the state, and the state as a whole.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

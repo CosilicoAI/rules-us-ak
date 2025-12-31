@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-64"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-64"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.64"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-64/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-64/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-64/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-64/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_64">
+          <num>64</num>
+          <heading>Hearing Officers and Office of Administrative Hearings</heading>
+          <section eId="sec_44-64-010">
+            <num>44.64.010</num>
+            <heading>Office created.</heading>
+            <subsection eId="44-64-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is created in the Department of Administration an independent office of administrative hearings under the direction of the chief administrative law judge.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The chief administrative law judge must</p>
+              </content>
+              <paragraph eId="44-64-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be a resident of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>have experience in administrative law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>be licensed to practice law in this state and have been admitted to practice law in this state for at least five years; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-010__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>have experience representing clients in administrative or judicial proceedings.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-64-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The chief administrative law judge is appointed to a five-year term of office by the governor and is subject to confirmation by the legislature. An individual may serve not more than three full or partial terms as chief administrative law judge. The governor may remove the chief administrative law judge from office only for good cause. The basis for removal shall be stated in writing. A vacancy in the office of chief administrative law judge shall be filled by the governor, and the individual appointed serves for the remainder of the term to which appointed.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The chief administrative law judge shall receive a monthly salary that is equal to a step in Range 27 of the salary schedule in
+AS 39.27.011
+(a). The chief administrative law judge is in the partially exempt service.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-64-020">
+            <num>44.64.020</num>
+            <heading>Powers and duties of chief administrative law judge.</heading>
+            <subsection eId="44-64-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The chief administrative law judge shall</p>
+              </content>
+              <paragraph eId="44-64-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>supervise the office;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>employ administrative staff, who shall be in the classified service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>employ administrative law judges, who shall be in the partially exempt service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>preside over administrative hearings handled by the office or, based upon the qualifications and expertise of the administrative law judges, assign administrative law judges to preside over hearings, and protect, support, and enhance the decisional independence of the administrative law judges;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>establish and implement performance standards, including provision for timeliness, and peer review programs for administrative law judges employed or retained by the office;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>make available and facilitate training and continuing education programs and services in administrative procedure, administrative adjudication, substantive law, alternate dispute resolution, and technical matters for administrative law judges and other administrative adjudicators;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>survey administrative hearing participants and use other methods to monitor the quality of administrative hearings held by the office and other state agencies, and submit to the governor and the legislature on January 31 of each year the results of the survey along with a report that includes a description of the activities of the office and recommendations for statutory changes that may be needed in relation to the administrative hearings held by the office or other state agencies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>review and comment on regulations proposed by state agencies to govern procedures in administrative hearings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>enter into contracts as necessary to carry out the functions of the office;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>annually prepare and submit to the commissioner of administration a budget for the office for the next fiscal year that shall include and separately identify funding for training and continuing education; a copy of the budget submitted to the commissioner under this paragraph shall also be submitted to the finance committee of each house of the legislature;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>after consulting with affected agencies, adopt regulations under
+AS 44.62
+(Administrative Procedure Act) to carry out the duties of the office and implement this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>receive and review applications from individuals seeking appointments to the Workers' Compensation Appeals Commission and submit the names of individuals to the governor for appointment as provided in
+AS 23.30.007</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>appoint a chair pro tempore for the Workers' Compensation Appeals Commission as provided in
+AS 23.30.007</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-64-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In carrying out the responsibilities of the office, the chief administrative law judge shall seek to accomplish the following goals:</p>
+              </content>
+              <paragraph eId="44-64-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provide for the delivery of high quality adjudication services in a timely, efficient, and cost-effective manner;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>ensure respect for the privacy and dignity of the individuals whose cases are being adjudicated and protect them from threats, intimidation, and harassment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>foster open and clearly explained agency decisions and improve public access to the process of administrative adjudication;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>guarantee protection of all parties' due process rights, increase the public parties' perception of fairness in administrative adjudication, and foster acceptance of final administrative decisions by the public and affected parties;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>protect the integrity of the process of administrative adjudication and decisional independence of administrative adjudicators; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-020__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>increase consistency in administrative procedures and decisions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_44-64-030">
+            <num>44.64.030</num>
+            <heading>Jurisdiction of the office.</heading>
+            <subsection eId="44-64-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The office shall conduct all adjudicative administrative hearings required under the following statutes or under regulations adopted to implement the statutes:</p>
+              </content>
+              <paragraph eId="44-64-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>AS 04.11.510</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>AS 05.15
+(charitable gaming);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>AS 05.20
+(recreational devices);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>AS 05.90.001
+(special racing events);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>AS 06
+(banks, financial institutions, and fund claims), except as provided otherwise by
+AS 06.60.590
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>AS 08
+(occupational licensing), other than
+AS 08.08
+,
+AS 08.18.125
+, and
+AS 08.62.046
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>AS 10.06
+(Alaska Corporations Code);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>AS 10.13
+(Alaska BIDCO Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>AS 10.25.375
+(Electric and Telephone Cooperative Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>AS 10.50.408
+(limited liability companies);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>AS 14.11.016
+(education-related facility grants);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>AS 14.18
+(discrimination in public education);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>AS 14.25.006
+(teachers' retirement system);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>AS 14.25.175
+(waiver of adjustments under teachers' defined benefit plan);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>AS 14.40.155
+(suspension and removal of regents);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>AS 14.48
+(postsecondary educational institutions);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>AS 17.20
+(Alaska Food, Drug, and Cosmetic Act), other than
+AS 17.20.060
+and 17.20.360;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>AS 18.07
+(certificate of need program);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>AS 18.20
+(hospitals and nursing facilities);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>AS 21.09
+,
+AS 21.22.190
+,
+AS 21.27
+, except under
+AS 21.27.420</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>AS 25.27
+(child support services);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>AS 32.06
+(Uniform Partnership Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_23">
+                <num>(23)</num>
+                <content>
+                  <p>AS 34.45
+(unclaimed property);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_24">
+                <num>(24)</num>
+                <content>
+                  <p>AS 34.55.024
+and 34.55.026 (Uniform Land Sales Practices Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_25">
+                <num>(25)</num>
+                <content>
+                  <p>AS 36.30
+(State Procurement Code), other than
+AS 36.30.627</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_26">
+                <num>(26)</num>
+                <content>
+                  <p>AS 38.05.065
+(contracts for sale of state land);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_27">
+                <num>(27)</num>
+                <content>
+                  <p>AS 39.30.165
+(supplemental benefits system);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_28">
+                <num>(28)</num>
+                <content>
+                  <p>AS 39.30.335
+(teachers' and public employees' health reimbursement arrangement plan);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_29">
+                <num>(29)</num>
+                <content>
+                  <p>AS 39.35.006
+(public employees' retirement system);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_30">
+                <num>(30)</num>
+                <content>
+                  <p>AS 39.35.522
+(waiver of adjustments under public employees' defined benefit plan);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_31">
+                <num>(31)</num>
+                <content>
+                  <p>AS 39.45.055
+(public employees' deferred compensation program);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_32">
+                <num>(32)</num>
+                <content>
+                  <p>AS 39.52
+(Alaska Executive Branch Ethics Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_33">
+                <num>(33)</num>
+                <content>
+                  <p>AS 43.23
+(permanent fund dividends);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_34">
+                <num>(34)</num>
+                <content>
+                  <p>AS 43.70
+(Alaska Business License Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_35">
+                <num>(35)</num>
+                <content>
+                  <p>AS 44.50
+(notaries public);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_36">
+                <num>(36)</num>
+                <content>
+                  <p>AS 44.77
+(claims against the state);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_37">
+                <num>(37)</num>
+                <content>
+                  <p>AS 45.30.040
+(mobile homes);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_a__subsec_38">
+                <num>(38)</num>
+                <content>
+                  <p>AS 45.48.080</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-64-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>(breach of security involving personal information);</p>
+              </content>
+              <paragraph eId="44-64-030__subsec_c__subsec_39">
+                <num>(39)</num>
+                <content>
+                  <p>AS 45.55
+(Alaska Native Claims Settlement Act corporations proxy solicitations and initial issuance of stock);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_40">
+                <num>(40)</num>
+                <content>
+                  <p>AS 45.56
+(Alaska Securities Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_41">
+                <num>(41)</num>
+                <content>
+                  <p>AS 45.57
+(Takeover Bid Disclosure Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_42">
+                <num>(42)</num>
+                <content>
+                  <p>AS 46
+(water, air, energy, and environmental conservation), other than
+AS 46.03.820
+and 46.03.850;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_43">
+                <num>(43)</num>
+                <content>
+                  <p>AS 47.05
+(assistance programs);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_44">
+                <num>(44)</num>
+                <content>
+                  <p>AS 47.07
+(medical assistance for needy persons);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_45">
+                <num>(45)</num>
+                <content>
+                  <p>AS 47.25
+(public assistance);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_46">
+                <num>(46)</num>
+                <content>
+                  <p>AS 47.27
+(Alaska temporary assistance program);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_47">
+                <num>(47)</num>
+                <content>
+                  <p>AS 47.32
+(licensing by the Department of Health and the Department of Family and Community Services);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_48">
+                <num>(48)</num>
+                <content>
+                  <p>AS 47.37.130
+(alcohol safety action program);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_49">
+                <num>(49)</num>
+                <content>
+                  <p>AS 47.37.140
+(treatment facilities);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_50">
+                <num>(50)</num>
+                <content>
+                  <p>AS 47.45.050
+(longevity bonuses);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-030__subsec_c__subsec_51">
+                <num>(51)</num>
+                <content>
+                  <p>AS 47.45.306
+(Alaska senior benefits payment program).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-64-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An agency may request the office to conduct an administrative hearing or other proceeding of that agency or to conduct several administrative hearings or other proceedings under statutes not listed in (a) of this section. The office may provide the service after entering into a written agreement with the agency describing the services to be provided and providing for reimbursement by the agency to the office of the costs incurred by the office in providing the services.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To the extent otherwise permitted by law, the agency may delegate to the administrative law judge assigned to conduct the hearing on behalf of the agency the authority to make a final agency decision in the matter. The final decision may be appealed to the superior court by any party.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Nothing in this chapter may be construed to create a right to a hearing or to require a hearing that is not required under other law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-64-040">
+            <num>44.64.040</num>
+            <heading>Administrative law judges.</heading>
+            <subsection eId="44-64-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An administrative law judge must be admitted to practice law in this state and must have been admitted to practice in this state for at least two years before being employed or retained with the office. The chief administrative law judge shall establish additional qualifications for administrative law judges employed or retained by the office and for those administrative law judges that may be assigned to particular types of cases. An administrative law judge is in the partially exempt service. Notwithstanding
+AS 39.25.120
+(b), full-time administrative law judges employed by the office are subject to the personnel rules adopted under
+AS 39.25.150</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An administrative law judge employed or retained by the office may, in conducting an administrative hearing for an agency, exercise the powers authorized by law for exercise by that agency in the performance of its duties in connection with the hearing. An administrative law judge may</p>
+              </content>
+              <paragraph eId="44-64-040__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>engage in alternative dispute resolution under regulations adopted by the chief administrative law judge that is in addition to any alternate dispute resolution procedure used by an agency before the case is referred to the office;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-040__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>order a party, a party's attorney, or another authorized representative of a party to pay reasonable expenses, including attorney fees, incurred by another party as a result of actions done in bad faith or as a result of tactics used frivolously or solely intended to cause unnecessary delay;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-040__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>perform other necessary and appropriate acts in the performance of official duties.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-64-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An administrative law judge employed by the office must devote full time to the duties of the office unless appointed to a position that is less than full-time. An administrative law judge employed by the office may not perform duties inconsistent with the duties and responsibilities of an administrative law judge.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The office may enter into a contract with an individual who meets the qualifications established in (a) of this section to serve as an administrative law judge in a particular administrative hearing or in several hearings of the same type. The individual is subject to
+AS 39.52
+(Alaska Executive Branch Ethics Act). Notwithstanding
+AS 36.30.015
+(d), the office may contract for or hire an administrative law judge without notifying or securing the approval of the Department of Law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-64-050">
+            <num>44.64.050</num>
+            <heading>Hearing officer conduct.</heading>
+            <subsection eId="44-64-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An administrative law judge employed full time by the office or a hearing officer employed full time by an agency may not serve in any other judicial or quasi-judicial capacity or engage in the private practice of law.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The chief administrative law judge shall, subject to
+AS 39.52.920
+and by regulation, adopt a code of hearing officer conduct. The code shall apply to the chief administrative law judge, administrative law judges of the office, and hearing officers of each other agency. The following fundamental canons of conduct shall be included in the code: in carrying out official duties, an administrative law judge or hearing officer shall</p>
+              </content>
+              <paragraph eId="44-64-050__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>uphold the integrity and independence of the office;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-050__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>avoid impropriety and the appearance of impropriety;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-050__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>perform the duties of the office impartially and diligently;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-050__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>conduct unofficial activities in ways that minimize the risk of conflict with the obligations of the office; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-050__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>refrain from inappropriate activity in seeking employment with another agency or employer or in seeking reappointment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-64-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in (e) of this section, the chief administrative law judge shall receive and consider all complaints against administrative law judges or hearing officers employed or retained by the office or another agency alleging violations of (a) of this section or of the code of hearing officer conduct. The chief administrative law judge shall deliver the complaint to the attorney general when the chief administrative law judge determines that the conduct alleged, if true, would constitute a violation of</p>
+              </content>
+              <paragraph eId="44-64-050__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>subsection (a) of this section; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-050__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the code and would warrant disciplinary action under the regulations adopted under (b) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-64-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the attorney general determines that a violation has occurred, the attorney general shall submit written findings to the agency that employed or retained the administrative law judge or hearing officer who is the subject of the complaint together with recommendations for corrective or disciplinary action. If the administrative law judge is employed or retained by the office, the chief administrative law judge shall take appropriate corrective or disciplinary action.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The attorney general shall, by regulation, establish procedures to implement (d) of this section, including procedures for investigating and holding hearings on complaints. The attorney general shall receive and consider any complaint filed against the chief administrative law judge under this section, and may investigate or hold a hearing on the complaint in compliance with the regulations adopted under this subsection.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-64-055">
+            <num>44.64.055</num>
+            <heading>Reimbursement agreements.</heading>
+            <content>
+              <p>Sec. 44.64.055.   Reimbursement agreements.
+The office may enter into agreements for reimbursement for services related to an administrative hearing from a school district, municipality, or other governmental entity if the reimbursement is authorized by other law.</p>
+            </content>
+          </section>
+          <section eId="sec_44-64-060">
+            <num>44.64.060</num>
+            <heading>Procedure for hearings.</heading>
+            <subsection eId="44-64-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The chief administrative law judge shall, by regulation, establish procedures for administrative hearings conducted by the office. Each administrative hearing under the jurisdiction of the office or that has been transferred to the office by an agency shall be conducted in accordance with statutes that apply to that hearing, including, if applicable,
+AS 44.62
+(Administrative Procedure Act). In case of conflict between this section and another applicable statute establishing procedures for administrative hearings, the other statute prevails. However, to the extent regulations adopted by an agency for the conduct of an administrative hearing conflict with regulations adopted by the chief administrative law judge under this subsection, the regulations adopted by the chief administrative law judge control to the maximum extent possible without conflicting with applicable statutes.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When an agency receives a request for a hearing that is subject to
+AS 44.64.030
+, the agency shall, within 10 days and in writing, deny the request for reasons provided by law or grant the request and refer the case to the office. The agency shall immediately give notice of the denial or referral to the requesters and the office. If the request is denied, the denial may be appealed to the superior court as provided by other law. If the request is granted, the agency shall, within 15 days after receiving the request, compile and transmit to the office a copy of the request for a hearing, the names, addresses, and telephone numbers of all parties and their representatives, and the agency's decision, if any, together with the record relied on to support the decision. Any information provided to the office that is confidential by law shall be identified by the agency as confidential and shall be kept confidential by the office.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The agency may, with materials transmitted under (b) of this section, request the chief administrative law judge to permit the individual, board, or commission that will make the final decision to participate with the assigned administrative law judge in the conduct of the administrative hearing. The chief administrative law judge shall determine the degree and manner of participation and may terminate that participation at any time. However, the individual, board, or commission that participates under this subsection may not serve as the administrative law judge or preside during the hearing and may not take action on behalf of the agency in the agency's capacity as a party to the proceedings.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An administrative law judge employed or retained by the office shall, within 120 days after the date the agency received the request for a hearing, prepare a proposed decision, unless another time period is provided by law or agreed to by the parties and the chief administrative law judge. The administrative law judge shall immediately submit the proposed decision to the agency.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A proposed decision in an administrative hearing shall be in a form that may be adopted as the final decision by the agency with authority to make the final decision. The proposed decision is a public record, except as otherwise provided by statute. A copy of the proposed decision shall be served by the office on each party in the case or on the attorneys representing those parties in the hearing. Unless the office has established a shorter time period or another statute has established a different time period, within 30 days after the proposed decision is served, a party may file with the agency a proposal for action under (1)  (5) of this subsection. The agency with authority to make a final decision in the case retains agency discretion in the final disposition of the case and shall, within 45 days after the date the proposed decision is served or at the next regularly scheduled meeting that occurs at least 45 days after the proposed decision is served, do one or more of the following:</p>
+              </content>
+              <paragraph eId="44-64-060__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>adopt the proposed decision as the final agency decision;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-060__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>return the case to the administrative law judge to take additional evidence or make additional findings or for other specific proceedings, in which case the administrative law judge shall complete the additional work and return the revised proposed decision to the agency within 45 days after the original decision was returned under this paragraph;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-060__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>exercise its discretion by revising the proposed enforcement action, determination of best interests, order, award, remedy, sanction, penalty, or other disposition of the case, and adopt the proposed decision as revised;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-060__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>in writing, reject, modify, or amend a factual finding in the proposed decision by specifying the affected finding and identifying the testimony and other evidence relied on by the agency for the rejection, modification, or amendment of the finding, and issue a final agency decision;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-64-060__subsec_e__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>in writing, reject, modify, or amend an interpretation or application in the proposed decision of a statute or regulation directly governing the agency's actions by specifying the reasons for the rejection, modification, or amendment, and issue a final agency decision.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="44-64-060__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If a final decision is not issued timely in accordance with (e) of this section, the administrative law judge's proposed decision is the final agency decision.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-64-070">
+            <num>44.64.070</num>
+            <heading>Disqualification of administrative law judge.</heading>
+            <subsection eId="44-64-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The chief administrative law judge or an administrative law judge employed or retained by the office is disqualified from a case in which the administrative law judge cannot accord a fair and impartial hearing or for other reasons established in the code of hearing officer conduct.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A party may request the disqualification of the chief administrative law judge or another administrative law judge by filing an affidavit, before the taking of evidence at a hearing, stating with particularity the grounds upon which it is claimed that a fair and impartial hearing cannot be accorded by that administrative law judge. Notwithstanding
+AS 44.62.450
+(c), upon receipt of the affidavit, the administrative law judge assigned to the administrative hearing shall make a determination. If the affiant objects to the decision, the matter shall be decided by the chief administrative law judge, whose decision is final, or if the hearing is assigned to the chief administrative law judge, by the attorney general, whose decision is final.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to disqualification of an administrative law judge under (a) and (b) of this section, each side is entitled to change the assigned administrative law judge once. Two or more parties aligned on the same side of an action shall be treated as one side for purposes of this subsection, but the chief administrative law judge may allow an additional change to a party whose interests are adverse to the interests of another party on the same side. A party wishing to exercise the right to change the administrative law judge shall give notice to the chief administrative law judge within five days after notice is given that the case has been assigned. A party waives the right to a change in the assigned administrative law judge by participating before that administrative law judge in any proceeding or conference involving the case.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-64-080">
+            <num>44.64.080</num>
+            <heading>Agency cooperation.</heading>
+            <subsection eId="44-64-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All agencies shall cooperate with the chief administrative law judge and with other administrative law judges of the office in the matters involving the duties of the office.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided under
+AS 44.64.070
+or by regulation adopted under this chapter, an agency may not select or reject a particular administrative law judge for assignment to an administrative hearing.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>After an administrative hearing is referred by an agency to the office for hearing, the agency may not take further adjudicatory action in the case, except as a party litigant or to render a final decision as provided by law. This subsection does not otherwise limit the agency's authority to take action affecting a party to the case.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-64-090">
+            <num>44.64.090</num>
+            <heading>Administrative hearing records.</heading>
+            <subsection eId="44-64-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The office shall acquire and organize statistical and other information relating to administrative hearings of the office and of other agencies. The office shall acquire and organize copies of proposed and final agency decisions in administrative hearings and copies of court decisions resulting from those administrative hearings. The information and decisions shall be made available to the public, agencies, and the legislature. The office shall make final agency decisions reached after administrative hearings available online through an electronic data base.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-64-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not apply to records that are confidential or privileged.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-64-095">
+            <num>44.64.095</num>
+            <heading>Federal requirements.</heading>
+            <content>
+              <p>Sec. 44.64.095.   Federal requirements.
+Federal requirements applicable to an administrative hearing prevail to the extent they conflict with any provision of
+AS 44.64.010
+ 44.64.200.</p>
+            </content>
+          </section>
+          <section eId="sec_44-64-200">
+            <num>44.64.200</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 44.64.200.   Definitions.
+In this chapter,
+(1) administrative hearing means a quasi-judicial hearing before an agency; it does not include an informal conference or review held by an agency before a final decision is issued or a rate-making proceeding or other nonadjudicative public hearing;
+(2) administrative law judge means a hearing officer who is retained or employed by the office;
+(3) agency means an agency of the executive branch of state government, including an officer, a division, or another subunit of an agency, a board or commission, a public corporation, and the University of Alaska;
+(4) hearing officer means an individual who presides over the conduct of an administrative hearing and who is retained or employed by an agency for that purpose;
+(5) office means the office of administrative hearings established in
+AS 44.64.010
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

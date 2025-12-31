@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-11"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-11"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="28.11"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-11/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-11/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-11/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-11/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_28">
+        <num>28</num>
+        <heading>Motor Vehicles</heading>
+        <chapter eId="title_28__chp_11">
+          <num>11</num>
+          <heading>Abandoned Vehicles</heading>
+          <section eId="sec_28-11-010">
+            <num>28.11.010</num>
+            <heading>Abandonment unlawful.</heading>
+            <subsection eId="28-11-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not abandon a vehicle upon a highway or vehicular way or area.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not abandon a vehicle upon public property or upon private property without the consent of the owner or person in lawful possession or control of the property.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who abandons a vehicle in a place specified in (a) or (b) of this section is considered responsible for the abandonment of the vehicle and is liable for the cost of its removal and disposition.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as otherwise provided in (b) of this section, the lawful owner of a vehicle, as shown by the records of the department, whether or not the owner has complied with the provisions of
+AS 28.10.271
+, is considered responsible for the abandonment of the vehicle and is liable for the cost of removal and disposition of the abandoned vehicle unless</p>
+              </content>
+              <paragraph eId="28-11-010__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the vehicle was abandoned by a person driving the vehicle without the permission of the owner; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-11-010__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the identity of the person abandoning the vehicle is established and the abandonment was without the consent of the owner.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_28-11-020">
+            <num>28.11.020</num>
+            <heading>Presumption of abandonment.</heading>
+            <subsection eId="28-11-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A vehicle registered or titled as required under
+AS 28.10
+that reasonably appears to have been left unattended, standing, parked upon or within 10 feet of the traveled portion of a highway or vehicular way or area in excess of 48 hours, or a vehicle registered or titled as required under
+AS 28.10
+that reasonably appears to have been left standing or parked on private property in excess of 24 hours or upon other public property for more than 30 days, without the consent of the owner or person in charge of the property, notwithstanding other statutory provisions, may be removed under
+AS 28.11.030
+and treated as an abandoned vehicle, unless the vehicle is reclaimed and removed before removal occurs under
+AS 28.11.030
+. The department for good cause may make provisions for parking of vehicles on state property other than specified in this section and under the provisions of
+AS 44.62
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding other provisions of law, a wrecked or junk vehicle that reasonably appears to have been left unattended, standing, parked upon or within 10 feet of the traveled portion of a highway or vehicular way or area in excess of 24 hours, or a wrecked or junk vehicle that reasonably appears to have been left standing or parked on private property or other public property in excess of 24 hours and without the consent of the owner or person in charge of the property, may be removed under
+AS 28.11.030
+and treated as an abandoned vehicle, unless the vehicle is reclaimed and removed before removal occurs under
+AS 28.11.030
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="28-11-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>junk vehicle means a vehicle that
+(A) is not currently registered under
+AS 28.10
+, except for a vehicle not currently registered under
+AS 28.10
+and used exclusively for competitive racing;
+(B) is stripped, wrecked, or otherwise inoperable due to mechanical failure;
+(C) has not been repaired because of mechanical difficulties or because the cost of repairs required to make it operable exceeds the fair market value of the vehicle; or
+(D) is in a condition that exhibits more than one of the following elements:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-11-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>broken glass;
+(ii) missing wheels or tires;
+(iii) missing body panels or parts; or
+(iv) missing drive train parts.</p>
+              </content>
+              <paragraph eId="28-11-020__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>wrecked vehicle means a vehicle that is disabled and cannot be used as a vehicle without substantial repair or reconstruction.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_28-11-025">
+            <num>28.11.025</num>
+            <heading>Claim of ownership by private property owner.</heading>
+            <subsection eId="28-11-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to removal of an abandoned vehicle under
+AS 28.11.020
+, a vehicle that is left standing or parked on private property without the consent of the private property owner and for a period of 30 days is presumed to be an abandoned vehicle and title to the vehicle may be transferred to the private property owner as provided under this section. A person who claims ownership of an abandoned vehicle under this section shall provide notice of the claim to the vehicle owner of record and to lienholders in the manner prescribed for giving notice by the department under
+AS 28.05.121
+. The notice must state the location of the vehicle and the period of abandonment. If the vehicle is not registered in this state or the name and address of the registered or legal owner or lienholder cannot be ascertained, notice shall be given by publication in the manner prescribed in the rules of the court for service of process by publication.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an abandoned vehicle is not reclaimed within 30 days after notice is given as required under (a) of this section, the title to the vehicle vests with the owner of the private property on which the vehicle is located. Upon application, the department shall issue a new certificate of title to a vehicle whose ownership is transferred under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, vehicle means a</p>
+              </content>
+              <paragraph eId="28-11-025__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>passenger car, motor home, bus, truck, truck-tractor, motorcycle, motorbike, or similar motor vehicle that is designed for use primarily to transport a person or to transport or draw property on a highway or vehicular way; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-11-025__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>snowmobile, three-wheeler, four-wheeler, or a similar off-highway motor vehicle designed or adapted for cross-country operation over unimproved terrain, ice, or snow and that has been declared by its owner at the time of registration and determined by the Department of Public Safety to be unsuitable for general highway use, although the vehicle may make incidental use of a highway as provided in this title, but not including implements of husbandry or special mobile equipment, such as construction machinery or earthmoving equipment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_28-11-030">
+            <num>28.11.030</num>
+            <heading>Removal of abandoned vehicles.</heading>
+            <subsection eId="28-11-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A peace officer or an employee authorized by the state or a municipality may remove or have removed to a place for storage a vehicle abandoned on a highway, on a vehicular way or area, or on private property.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Removal of an abandoned vehicle from private property shall be upon the written request of the owner or person in lawful possession or control of the property, and on a form prescribed by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A written report of the removal shall be made by the peace officer or employee who removes or has removed a vehicle under this section, and the report shall be sent immediately to the department and a copy of the report shall be given to the person who stores the property.  The report must describe the vehicle, the date, time, and place of removal, the grounds for removal, and the place of impoundment of the vehicle.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-11-040">
+            <num>28.11.040</num>
+            <heading>Notice to owners and lienholders.</heading>
+            <content>
+              <p>Sec. 28.11.040.   Notice to owners and lienholders.
+The person or company who stores an abandoned vehicle at the direction of a peace officer or an employee under
+AS 28.11.030
+shall within 30 days give notice, in the manner prescribed for the giving of notice by the department under
+AS 28.05.121
+, to the vehicle owner of record and to lienholders of record, stating the grounds for removal and the location of the place of impoundment of the vehicle.  If the vehicle is not registered in the state or the name and address of the registered or legal owner or lienholder cannot be ascertained, notice shall be given by publication in the manner prescribed in the rules of the court for service of process by publication.</p>
+            </content>
+          </section>
+          <section eId="sec_28-11-050">
+            <num>28.11.050</num>
+            <heading>Vesting of title.</heading>
+            <content>
+              <p>Sec. 28.11.050.   Vesting of title.
+Title to an impounded vehicle not reclaimed by the registered owner, a lienholder, or other person entitled to possession of the vehicle within 15 days from the notice given under
+AS 28.11.040
+vests with the state or, if a municipal ordinance is adopted under
+AS 28.11.100
+, with the municipality, as appropriate. However, nothing in this section prohibits a lien under
+AS 28.11.090
+.</p>
+            </content>
+          </section>
+          <section eId="sec_28-11-060">
+            <num>28.11.060</num>
+            <heading>Redemption.</heading>
+            <subsection eId="28-11-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>by paying the charges of towing, storage, notice, other cost of impoundment, and any applicable penalty imposed by law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-11-070">
+            <num>28.11.070</num>
+            <heading>Disposal of abandoned vehicles.</heading>
+            <subsection eId="28-11-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon satisfaction of the notice and reporting requirements prescribed in this chapter, a vehicle may be disposed of by removal to a scrap processing yard or auto wrecker for disposal or by public auction 20 days after notice of the auction is published in a newspaper of general circulation in the area or municipality in which the vehicle was found and presumed abandoned. The notice of auction must describe the vehicle and specify the place, date, and time at which it will be sold. A copy of the notice of auction shall be conveyed to the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A vehicle disposed of under this section by public auction must be titled under
+AS 28.10
+, and may not be subsequently sold without a certificate of title issued by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding the provisions of this section, a person who disposes of an abandoned vehicle under this section may initiate a civil action against a person named in
+AS 28.11.010
+, if liable, for costs exceeding receipts for the disposal of the vehicle.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-11-080">
+            <num>28.11.080</num>
+            <heading>Disposal facilities.</heading>
+            <subsection eId="28-11-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may negotiate with an appropriate state or municipal agency in an effort to designate and acquire land for the temporary storage of vehicles before sale under
+AS 28.11.070
+, or for the final disposal of unsold abandoned vehicles.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A municipality that adopts an ordinance under
+AS 28.11.100
+shall designate appropriate areas within its jurisdiction for the disposal of abandoned vehicles.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-11-090">
+            <num>28.11.090</num>
+            <heading>Towing and storage lien on abandoned vehicle.</heading>
+            <content>
+              <p>Sec. 28.11.090.   Towing and storage lien on abandoned vehicle.
+A person authorized by contract or other official order to remove an abandoned vehicle has a lien upon a vehicle towed, moved, or stored by and in the possession of the person in accordance with
+AS 28.10.502
+.</p>
+            </content>
+          </section>
+          <section eId="sec_28-11-100">
+            <num>28.11.100</num>
+            <heading>Municipal abatement procedure.</heading>
+            <content>
+              <p>Sec. 28.11.100.   Municipal abatement procedure.
+A municipality may adopt an ordinance establishing procedures for the abatement and removal from private or public property, as a public nuisance or a health or safety hazard, a wrecked, dismantled, or inoperative vehicle or a vehicle otherwise presumed to be abandoned. An ordinance adopted under this section must contain provisions for (1) notice to owners and lienholders of record and persons known to be lawfully entitled to possession of the vehicles, of their right to a hearing which shall be conducted by the municipality in the manner provided for by municipal ordinance; (2) notice to owners and lienholders as provided in
+AS 28.11.040
+; and (3) disposal of abandoned vehicles as provided in
+AS 28.11.070
+.</p>
+            </content>
+          </section>
+          <section eId="sec_28-11-110">
+            <num>28.11.110</num>
+            <heading>Abandoned motor vehicle fund.</heading>
+            <subsection eId="28-11-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is created in the department an abandoned motor vehicle fund, to be composed of appropriations by the legislature and proceeds from the sale of abandoned motor vehicles.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The proceeds from the sale of an abandoned motor vehicle under this chapter, after deducting the cost of impounding, advertising, and selling the vehicle, shall be deposited in the fund set out in (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-11-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Money in the fund shall be disbursed to the department and to each of the municipalities bound by the provisions of this chapter upon presentation of a voucher for payment of services rendered in compliance with this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

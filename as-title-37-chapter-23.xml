@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-37/chapter-23"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-37/chapter-23"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="37.23"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-37/chapter-23/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-37/chapter-23/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-37/chapter-23/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-37/chapter-23/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_37">
+        <num>37</num>
+        <heading>Public Finance</heading>
+        <chapter eId="title_37__chp_23">
+          <num>23</num>
+          <heading>Investment Pools for Public Entities</heading>
+          <section eId="sec_37-23-010">
+            <num>37.23.010</num>
+            <heading>Investment pool participation.</heading>
+            <subsection eId="37-23-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to this chapter, a public entity may enter into an agreement with other public entities to form and manage an investment pool under which funds of the participating public entities are administered and invested jointly. A public entity, by itself or with other public entities, may form a nonprofit corporation for the purpose of managing an investment pool.</p>
+              </content>
+            </subsection>
+            <subsection eId="37-23-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A public entity participating in an investment pool or a nonprofit corporation formed under (a) of this section may spend money reasonably necessary for the management of the pool, including the employment of staff. Income from investments of the pool may be used for management costs.</p>
+              </content>
+            </subsection>
+            <subsection eId="37-23-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The registration requirements of
+AS 45.56
+do not apply to an investment pool formed under this chapter or to participating public entities with respect to activities of the pool.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_37-23-020">
+            <num>37.23.020</num>
+            <heading>Authorized investments.</heading>
+            <content>
+              <p>Sec. 37.23.020.   Authorized investments.
+An investment pool may invest only in securities that have a final maturity date within 13 months after the date of purchase, except that floating rate securities with a final maturity date that is longer than 13 months may be purchased if they are subject to at least an annual reset. Investments may only include
+(1) obligations of the United States and of an agency or instrumentality of the United States;
+(2) repurchase and reverse repurchase agreements secured by the Treasury of the United States and obligations of an agency or instrumentality of the United States;
+(3) certificates of deposit, bankers acceptances, and other similar obligations of a bank domiciled in the United States that has
+(A) outstanding debt rated A or higher by at least one of the nationally recognized rating services, including dollar-denominated obligations issued by a United States branch of a foreign bank if the debt of the parent is rated A or higher; and
+(B) a combined capital and surplus aggregating at least $500,000,000;
+(4) commercial paper and other short-term taxable instruments that, at the time of investment, maintain the highest rating by at least two nationally recognized rating services;
+(5) obligations of a corporation domiciled in the United States or obligations of a municipality that are taxable under federal law if the obligations are rated A or higher by at least two nationally recognized rating services at the time of investment;
+(6) certificates of deposit that are issued by a state or federally chartered financial institution that is a commercial or mutual bank, savings and loan association, or credit union and if the institution's accounts are insured through the appropriate federal insuring agency of the United States, regardless of whether the institution meets the requirements of (3) of this section;
+(7) money market funds in which the securities of the fund consist of obligations listed in this section and otherwise meet the requirements of this chapter;
+(8) other cash equivalent investments with a maturity date of one year or less after date of the investment that are of similar quality to those listed in (1)  (7) of this section, are rated A or higher by at least one of the nationally recognized rating services, and are approved by the public entities participating in that investment pool.</p>
+            </content>
+          </section>
+          <section eId="sec_37-23-030">
+            <num>37.23.030</num>
+            <heading>Collateralization.</heading>
+            <content>
+              <p>Sec. 37.23.030.   Collateralization.
+Investment in certificates of deposit under
+AS 37.23.020
+(6) and the entire amount of principal and interest payable upon maturity of the certificates must be collateralized by a combination of securities that are marked to market at least monthly and have maturity dates that do not exceed five years. Only the following securities may serve as collateral:
+(1) obligations of the United States with a maturity date of five years or less after the date of the pool's investment transaction, and with a market value of at least 102 percent;
+(2) securities in United States agencies or instrumentalities that are actively traded, other than mortgage pass-through securities, with a maturity date of
+(A) one year or less after the date of the pool's investment transaction, and with a market value of at least 103 percent;
+(B) more than one year and less than five years after the date of the pool's investment transaction, and with a market value of at least 107 percent;
+(3) mortgage pass-through securities issued by the Government National Mortgage Association with a market value of at least 120 percent;
+(4) obligations of the state or its political subdivisions secured by the full faith, credit, and taxing power of the state or its political subdivisions, rated A or higher by at least one of the nationally recognized rating services, with a maturity date of
+(A) one year or less after the date of the pool's investment transaction, and with a market value of at least 102 percent;
+(B) more than one and less than five years after the date of the pool's investment transaction, and with a market value of at least 107 percent.</p>
+            </content>
+          </section>
+          <section eId="sec_37-23-035">
+            <num>37.23.035</num>
+            <heading>Securities lending.</heading>
+            <content>
+              <p>Sec. 37.23.035.   Securities lending.
+Securities held by an investment pool may be loaned if the securities are fully collateralized and the collateral is, for safekeeping, in the possession of a person who is independent of the borrowers. The collateral must meet institutional and prudent investor standards. All pool proceeds from securities lending must inure to the benefit of investment pool participants.</p>
+            </content>
+          </section>
+          <section eId="sec_37-23-040">
+            <num>37.23.040</num>
+            <heading>Portfolio restrictions.</heading>
+            <content>
+              <p>Sec. 37.23.040.   Portfolio restrictions.
+The portfolio of an investment pool under this chapter may not contain
+(1) more than five percent of total investments in securities of one issuer unless the securities are an obligation of or guaranteed by the United States; or
+(2) transactions in futures, options, derivative securities, or short sales.</p>
+            </content>
+          </section>
+          <section eId="sec_37-23-050">
+            <num>37.23.050</num>
+            <heading>Investment management.</heading>
+            <content>
+              <p>Sec. 37.23.050.   Investment management.
+The public entities participating in an investment pool under this chapter shall provide for management of investments in the pool by contracting for investment management and related services with
+(1) a securities broker-dealer registered under
+AS 45.56.300
+and under 15 U.S.C. 78o (Securities Exchange Act of 1934);
+(2) an investment adviser registered under
+AS 45.56.340
+or a federal covered investment adviser that has made a notice filing under
+AS 45.56.360
+(c);
+(3) the Department of Revenue; or
+(4) a financial institution that is a state or federally chartered commercial or mutual bank, savings and loan association, or credit union if the institution's accounts are insured through the appropriate federal insuring agency of the United States and if the institution has trust powers under state or federal law.</p>
+            </content>
+          </section>
+          <section eId="sec_37-23-060">
+            <num>37.23.060</num>
+            <heading>Investment responsibilities.</heading>
+            <content>
+              <p>Sec. 37.23.060.   Investment responsibilities.
+The management and investment of assets by investment pools shall be done with the care, skill, prudence, and diligence under the circumstances then prevailing that an institutional investor would use in the conduct of an enterprise of a like character and with like aims.</p>
+            </content>
+          </section>
+          <section eId="sec_37-23-070">
+            <num>37.23.070</num>
+            <heading>Reports; disclosure statement.</heading>
+            <subsection eId="37-23-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The manager of an investment pool shall provide to the participating public entities a monthly report on the allocation of income of investments of the pool and describing activities of the pool. At least annually, the manager of an investment pool shall provide a disclosure statement on the management and operation of the pool to each public entity participating in the pool. The disclosure statement must include a copy of the annual audit required under
+AS 37.23.080
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="37-23-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A public entity participating in an investment pool that is an organization composed of political subdivisions of the state shall promptly provide a copy of each report or statement received under (a) of this section to its members who are participating in the investment pool.</p>
+              </content>
+            </subsection>
+            <subsection eId="37-23-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The manager of an investment pool shall provide to a prospective participant in the pool copies of monthly reports prepared under (a) of this section for the past year, and a copy of the most recent disclosure statement prepared under (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_37-23-080">
+            <num>37.23.080</num>
+            <heading>Annual audit.</heading>
+            <content>
+              <p>Sec. 37.23.080.   Annual audit.
+By September 30 of each year, the manager of an investment pool shall submit to the participating public entities an audit of the pool's investments as of June 30 of that year. The audit must be performed by a certified public accountant licensed under
+AS 08.04
+who is not
+(1) an employee of a public entity participating in the investment pool; or
+(2) a contractor or an employee of a contractor who performed investment services for the investment pool.</p>
+            </content>
+          </section>
+          <section eId="sec_37-23-090">
+            <num>37.23.090</num>
+            <heading>Limitation of liability.</heading>
+            <content>
+              <p>Sec. 37.23.090.   Limitation of liability.
+The state, except when providing investment management and related services under
+AS 37.23.050
+(3), and participating public entities are not liable for any acts or omissions of an investment manager with whom the participating entities have contracted for investment management and related services under
+AS 37.23.050
+.</p>
+            </content>
+          </section>
+          <section eId="sec_37-23-900">
+            <num>37.23.900</num>
+            <heading>Definition of public entity.</heading>
+            <content>
+              <p>Sec. 37.23.900.   Definition of public entity.
+In this chapter, public entity means a political subdivision of the state, including a municipality and its subdivisions, a school district, a regional educational attendance area, or an organization composed of political subdivisions of the state.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

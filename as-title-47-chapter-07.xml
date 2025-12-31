@@ -1,0 +1,2039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-07"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-07"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.07"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-07/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-07/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_07">
+          <num>07</num>
+          <heading>Medical Assistance for Needy Persons</heading>
+          <section eId="sec_47-07-010">
+            <num>47.07.010</num>
+            <heading>Purpose.</heading>
+            <content>
+              <p>Sec. 47.07.010.   Purpose.
+It is declared by the legislature as a matter of public concern that the needy persons of this state who are eligible for medical care at public expense under this chapter should seek only uniform and high quality care that is appropriate to their condition and cost-effective to the state and receive that care, regardless of race, age, national origin, or economic standing. It is equally a matter of public concern that providers of services under this chapter should operate honestly, responsibly, and in accordance with applicable laws and regulations in order to maintain the integrity and fiscal viability of the state's medical assistance program, and that those who do not operate in this manner should be held accountable for their conduct. It is vital that the department administer this chapter in a manner that promotes effective, long-term cost containment of the state's medical assistance expenditures while providing medical care to recipients. Accordingly, this chapter authorizes the department to apply for participation in the national medical assistance program as provided for under 42 U.S.C. 1396  1396p (Title XIX, Social Security Act).</p>
+            </content>
+          </section>
+          <section eId="sec_47-07-020">
+            <num>47.07.020</num>
+            <heading>Eligible persons.</heading>
+            <subsection eId="47-07-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All residents of the state for whom the Social Security Act requires Medicaid coverage are eligible to receive medical assistance under 42 U.S.C. 1396  1396p (Title XIX, Social Security Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to the persons specified in (a) of this section, the following optional groups of persons for whom the state may claim federal financial participation are eligible for medical assistance:</p>
+              </content>
+              <paragraph eId="47-07-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>persons eligible for but not receiving assistance under any plan of the state approved under 42 U.S.C. 1381  1383c (Title XVI, Social Security Act, Supplemental Security Income) or a federal program designated as the successor to the aid to families with dependent children program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>persons in a general hospital, skilled nursing facility, or intermediate care facility, who, if they left the facility, would be eligible for assistance under one of the federal programs specified in (1) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>persons under 21 years of age who are under supervision of the department, for whom maintenance is being paid in whole or in part from public funds, and who are in foster homes or private child-care institutions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>aged, blind, or disabled persons, who, because they do not meet income and resources requirements, do not receive supplemental security income under 42 U.S.C. 1381  1383c (Title XVI, Social Security Act), and who do not receive a mandatory state supplement, but who are eligible, or would be eligible if they were not in a skilled nursing facility or intermediate care facility to receive an optional state supplementary payment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>persons under 21 years of age who are in an institution designated as an intermediate care facility for persons with intellectual and developmental disabilities and who are financially eligible as determined by the standards of the federal program designated as the successor to the aid to families with dependent children program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>persons in a medical or intermediate care facility whose income while in the facility does not exceed 300 percent of the supplemental security income benefit rate under 42 U.S.C. 1381  1383c (Title XVI, Social Security Act) but who would not be eligible for an optional state supplementary payment if they left the hospital or other facility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>persons under 21 years of age who are receiving active treatment in a psychiatric hospital and who are financially eligible as determined by the standards of the federal program designated as the successor to the aid to families with dependent children program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>persons under 21 years of age and not covered under (a) of this section, who would be eligible for benefits under the federal program designated as the successor to the aid to families with dependent children program, except that they have the care and support of both their natural and adoptive parents;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>pregnant women not covered under (a) of this section and who meet the income and resource requirements of the federal program designated as the successor to the aid to families with dependent children program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>persons under 21 years of age not covered under (a) of this section who the department has determined cannot be placed for adoption without medical assistance because of a special need for medical or rehabilitative care and who the department has determined are hard-to-place children eligible for subsidy under
+AS 25.23.190
+ 25.23.210;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>persons who can be considered under 42 U.S.C. 1396a(e)(3) (Title XIX, Social Security Act, Medical Assistance) to be individuals with respect to whom a supplemental security income is being paid under 42 U.S.C. 1381  1383c (Title XVI, Social Security Act) because they meet all of the following criteria:
+(A) they are 18 years of age or younger and qualify as disabled individuals under 42 U.S.C. 1382c(a) (Title XVI, Social Security Act);
+(B) the department has determined that</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>they require a level of care provided in a hospital, nursing facility, or intermediate care facility for persons with intellectual and developmental disabilities;
+(ii) it is appropriate to provide their care outside of an institution; and
+(iii) the estimated amount that would be spent for medical assistance for their individual care outside an institution is not greater than the estimated amount that would otherwise be expended individually for medical assistance within an appropriate institution;
+(C) if they were in a medical institution, they would be eligible for medical assistance under other provisions of this chapter; and
+(D) home and community-based services under a waiver approved by the federal government are either not available to them under this chapter or would be inappropriate for them;</p>
+              </content>
+              <paragraph eId="47-07-020__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>disabled persons, as described in 42 U.S.C. 1396a(a)(10)(A)(ii)(XIII), who are in families whose income, as determined under applicable federal regulations or guidelines, is less than 250 percent of the official poverty line applicable to a family of that size according to the United States Department of Health and Human Services, and who, but for earnings in excess of the limit established under 42 U.S.C. 1396d(q)(2)(B), would be considered to be individuals with respect to whom a supplemental security income is being paid under 42 U.S.C. 1381  1383c; a person eligible for assistance under this paragraph who is not eligible under another provision of this section shall pay a premium or other cost-sharing charges according to a sliding fee scale that is based on income as established by the department in regulations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_i__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>persons under 19 years of age who are not covered under (a) of this section and whose household income does not exceed 175 percent of the federal poverty line as defined by the United States Department of Health and Human Services and revised under 42 U.S.C. 9902(2);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_i__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>pregnant women who are not covered under (a) of this section and whose household income does not exceed 175 percent of the federal poverty line as defined by the United States Department of Health and Human Services and revised under 42 U.S.C. 9902(2);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_i__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>persons who have been diagnosed with breast or cervical cancer and who are eligible for coverage under 42 U.S.C. 1396a(a)(10)(A)(ii)(XVIII).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Receipt of medical assistance under this chapter is considered to be an additional benefit to these individuals and does not affect other assistance payments, federal or state, for which the recipient is eligible.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Additional groups may not be added unless approved by the legislature.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding (b)(4) of this section, a person is not eligible for Medicaid benefits until a final determination is made on the eligibility of that person for benefits under 42 U.S.C. 1381  1383c (Title XVI, Social Security Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A person may not be denied eligibility for medical assistance under this chapter on the basis of a diversion of income or transfer of assets, whether by assignment or after receipt of the income, into a Medicaid-qualifying trust or annuity that, according to a determination made by the department,</p>
+              </content>
+              <paragraph eId="47-07-020__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has provisions that require that the state will receive all of the trust or annuity assets remaining at the death of the individual, subject to a maximum amount that equals the total medical assistance paid on behalf of the individual; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-020__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>otherwise meets the requirements of 42 U.S.C. 1396p(d)(4) for a trust and 42 U.S.C. 1396p(c)(1)(F) and 42 U.S.C. 1396p(e)(1) for an annuity.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-020__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A person's eligibility for medical assistance under this chapter may not be denied or delayed on the basis of a transfer of assets for less than fair market value if the person establishes to the satisfaction of the department that the denial or delay would work an undue hardship on the person as determined on the basis of criteria in applicable federal regulations.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A person who meets the eligibility requirements of (a) or (b) of this section, except that the person is a qualified alien as defined in 8 U.S.C. 1641, is eligible for medical assistance unless the person is not eligible under the limited eligibility provision of 8 U.S.C. 1613.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The department may allow a person under 19 years of age who is determined to be eligible for benefits under this chapter to remain eligible for those benefits for up to 11 calendar months following the month that the person is determined eligible for benefits or until the person is 19 years old, whichever occurs earlier.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>[Repealed, § 1 ch 39 SLA 2008.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>[Repealed, § 1 ch 39 SLA 2008.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Notwithstanding the eligibility provisions under (a) and (b) of this section, a person may not receive medical assistance under this section unless the person first enrolls in the Medicare program under 42 U.S.C. 1395 to the extent that the person is eligible to receive benefits and services under the program.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>Except as provided in (g) of this section, the department shall impose a penalty period of ineligibility for the transfer of an asset for less than fair market value by an applicant or an applicant's spouse consistent with 42 U.S.C. 1396p(c)(1).</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>[Repealed, § 1 ch 39 SLA 2008.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-020__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>The department may allow a pregnant woman who is eligible for benefits under this chapter to remain eligible for those benefits postpartum up to the maximum period authorized under federal law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-025">
+            <num>47.07.025</num>
+            <heading>Assignment of medical support rights.</heading>
+            <subsection eId="47-07-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An applicant for or recipient of assistance under this chapter is considered to have assigned to the state, through the department and the child support services agency, all rights to accrued and continuing medical support that the applicant and other persons for whom assistance is sought may have from all sources. The assignment takes effect upon a determination that the applicant is eligible for assistance under this chapter. Except with respect to the amount of any unpaid medical support obligation accrued under the assignment, the assignment under this section terminates when the applicant ceases to receive assistance under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Through the child support services agency or on its own behalf, the department may garnish the wages, salary, or other employment income of a person who</p>
+              </content>
+              <paragraph eId="47-07-025__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is required by a medical support order, cash medical support order, or both, under
+AS 25.27.060</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>to provide insurance or cash coverage of the costs of medical care to a child who is eligible for medical assistance under this chapter;</p>
+              </content>
+              <paragraph eId="47-07-025__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has received payment from a third party for the costs of the services; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-025__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>has not used the payments to reimburse, as appropriate, the other parent or custodian of the child, the provider of the services, or the department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Garnishment under (b) of this section is limited to the amount necessary to reimburse the department for expenditures for the child under this chapter. Claims for current support or support arrearages take priority over claims under this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-030">
+            <num>47.07.030</num>
+            <heading>Medical services to be provided.</heading>
+            <subsection eId="47-07-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall offer all mandatory services required under 42 U.S.C. 1396  1396p (Title XIX of the Social Security Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to the mandatory services specified in (a) of this section and the services provided under (d) of this section, the department may offer only the following optional services: case management services for traumatic or acquired brain injury; case management and nutrition services for pregnant women; personal care services in a recipient's home; emergency hospital services; long-term care noninstitutional services; medical supplies and equipment; advanced practice registered nurse services; clinic services; rehabilitative services for children eligible for services under
+AS 47.07.063
+, substance abusers, and emotionally disturbed or chronically mentally ill adults; targeted case management services; inpatient psychiatric facility services for individuals 65 years of age or older and individuals under 21 years of age; psychologists' services; clinical social workers' services; marital and family therapy services; professional counseling services; midwife services; prescribed drugs; physical therapy; occupational therapy; chiropractic services; low-dose mammography screening, as defined in
+AS 21.42.375
+(e); hospice care; treatment of speech, hearing, and language disorders; adult dental and dental hygiene services; prosthetic devices and eyeglasses; optometrists' services; intermediate care facility services, including intermediate care facility services for persons with intellectual and developmental disabilities; skilled nursing facility services for individuals under 21 years of age; and reasonable transportation to and from the point of medical care.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (b) of this section, the department may offer a service for which the department has received a waiver from the federal government if the department was authorized, directed, or requested to apply for the waiver by law or by a concurrent or joint resolution of the legislature.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department shall establish as optional services a primary care case management system or a managed care organization contract in which certain eligible individuals are required to enroll and seek approval from a case manager or the managed care organization before receiving certain services. The purpose of a primary care case management system or managed care organization contract is to increase the use of appropriate primary and preventive care by medical assistance recipients while decreasing the unnecessary use of specialty care and hospital emergency department services. The department shall</p>
+              </content>
+              <paragraph eId="47-07-030__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>establish enrollment criteria and determine eligibility for services consistent with federal and state law; the department shall require recipients with multiple hospitalizations to enroll in a primary care case management system or with a managed care organization under this subsection, except that the department may exempt recipients with chronic, acute, or terminal medical conditions from the requirement under this paragraph;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>define the coordinated care services and the provider types eligible to participate as primary care providers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>create a performance and quality reporting system; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>integrate the coordinated care demonstration projects described under
+AS 47.07.039
+and the demonstration projects described under
+AS 47.07.036</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>with the primary care case management system or managed care organization contract established under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall provide the services set out in (a) and (b) of this section to an eligible person, notwithstanding the person's participation in an approved clinical trial. In this subsection, approved clinical trial has the meaning given in
+AS 21.42.415
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-030__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>When the department authorizes the purchase of durable medical equipment under this section, the department may require a recipient of medical assistance services to purchase used or refurbished durable medical equipment if used or refurbished durable medical equipment</p>
+              </content>
+              <paragraph eId="47-07-030__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is available;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is less expensive, including shipping, than new durable medical equipment of the same type;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>is able to withstand at least three years of use; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_f__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>equally meets the needs of the recipient.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-030__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>For purposes of medical assistance coverage, the department may require behavioral health clinic services to be provided by or under the direct supervision of a physician licensed under
+AS 08.64
+. In this subsection, direct supervision means that a physician licensed under
+AS 08.64
+is available, either in person or by a communication device, to</p>
+              </content>
+              <paragraph eId="47-07-030__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provide clinical consultation or oversight to the supervisee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>approve behavioral health treatment plans;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>review each case to determine the need for continued care;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>ensure that the services provided to recipients of behavioral health clinic services are medically necessary and clinically appropriate; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_g__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>assume professional responsibility for the services provided.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-030__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="47-07-030__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>case management services for traumatic or acquired brain injury means services furnished to assist individuals who reside in a community setting or who are transitioning to a community setting to gain access to needed medical, social, educational, and other available services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>durable medical equipment means equipment that
+(A) can withstand repeated use;
+(B) is primarily and customarily used to serve a medical purpose;
+(C) generally is not useful to an individual in the absence of an illness or injury; and
+(D) is appropriate for use in the home, school, or community.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-030__subsec_h__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>traumatic or acquired brain injury has the meaning given in
+AS 47.80.529
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-032">
+            <num>47.07.032</num>
+            <heading>Inpatient psychiatric services for persons under 21 years of age.</heading>
+            <subsection eId="47-07-032__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding
+AS 47.07.030
+, the department may not grant assistance under this chapter for inpatient psychiatric services to a person under 21 years of age who is in an out-of-state psychiatric hospital facility or an out-of-state residential psychiatric treatment center unless the department determines that the assistance is for</p>
+              </content>
+              <paragraph eId="47-07-032__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>psychiatric hospital services that are consistent with the person's clinical diagnosis and appropriately address the person's needs and that these services are unavailable in the state; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-032__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>residential psychiatric treatment center services that are consistent with the person's clinical diagnosis and appropriately address the person's needs and that these services are unavailable in the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-032__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall, on a monthly basis, evaluate what types of services are available in the state for inpatient psychiatric care for persons under 21 years of age. If inpatient psychiatric services that are consistent with the person's clinical diagnosis and that appropriately address the person's needs become available at a location in the state for a person under 21 years of age who is receiving the services under this chapter at a location outside the state, the department shall, as a condition of continued eligibility for coverage of the services under this chapter, require the person to be transferred to the in-state facility unless the department determines that the transfer would be detrimental to the person's health, established therapeutic relationship, or clinical need.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-036">
+            <num>47.07.036</num>
+            <heading>Cost containment measures authorized.</heading>
+            <subsection eId="47-07-036__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the department finds that the costs of medical assistance for all persons eligible under this chapter will exceed the amount allocated in the state budget for a fiscal year, the department may implement cost containment measures to reduce anticipated program costs for that fiscal year as authorized under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-036__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department, in implementing this section, shall take all reasonable steps to implement cost containment measures that do not eliminate program eligibility or the scope of services required or authorized under
+AS 47.07.020
+and 47.07.030 before implementing cost containment measures under (c) of this section that directly affect program eligibility or coverage of services. The cost containment measures taken under this subsection may include new utilization review procedures, changes in provider payment rates, precertification requirements for coverage of services, and agreements with federal officials under which the federal government will assume responsibility for coverage of some individuals or some services for some individuals through such federal programs as the Indian Health Service or Medicare.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-036__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If cost containment measures authorized under (b) of this section are insufficient to reduce the anticipated program costs for a fiscal year to the amount allocated in the state budget for the program for that fiscal year, the department may, to the extent authorized under federal law and the state's constitution, deny any or all optional services listed in
+AS 47.07.030</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-036__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p> (d) to a person eligible for services under
+AS 47.07.020
+or deny program eligibility to a person who is eligible for the medical assistance program under the optional coverage provisions of
+AS 47.07.020</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-036__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p> (i). However, the department may not eliminate program participation of a person who is eligible for coverage under
+AS 47.07.020
+(a), nor may the department deny coverage of a service described in
+AS 47.07.030</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-036__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>for a person who is eligible for the medical assistance program under
+AS 47.07.020
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-036__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding (a)  (c) of this section, the department may</p>
+              </content>
+              <paragraph eId="47-07-036__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>apply for a section 1915(i) option under 42 U.S.C. 1396n to improve services and care through home and community-based services to obtain, at a minimum, a 50 percent federal match;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-036__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>apply for a section 1915(k) option under 42 U.S.C. 1396n to provide home and community-based services and support to increase the federal match for these programs from 50 percent to 56 percent;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-036__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>apply for a section 1945 option under 42 U.S.C. 1396w-4 to provide coordinated care through health homes for individuals with chronic conditions and to increase the federal match for the services to 90 percent for the first eight quarters the required state plan amendment is in effect;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-036__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>evaluate and seek permission from the United States Department of Health and Human Services, Centers for Medicare and Medicaid Services, to participate in various demonstration projects, including payment reform, care management programs, workforce development and innovation, and innovative services delivery models; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-036__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>provide incentives for telehealth, including increasing the capability for and reimbursement of telehealth for recipients.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-036__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding (a)  (c) of this section, and in addition to the projects and services described under (d) and (f) of this section, the department shall apply for a section 1115 waiver under 42 U.S.C. 1315(a) to establish one or more demonstration projects focused on innovative payment models for one or more groups of medical assistance recipients in one or more specific geographic areas. The demonstration project or projects may include</p>
+              </content>
+              <paragraph eId="47-07-036__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>managed care organizations as described under 42 U.S.C. 1396u-2;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-036__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>community care organizations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-036__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>patient-centered medical homes as described under 42 U.S.C. 256a-1; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-036__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>other innovative payment models that ensure access to health care without reducing the quality of care.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-036__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding (a)  (c) of this section, and in addition to the projects and services described under (d) and (e) of this section, the department shall apply for a section 1115 waiver under 42 U.S.C. 1315(a) to establish one or more demonstration projects focused on improving the state's behavioral health system for medical assistance recipients. The department shall engage stakeholders and the community in the development of a project or projects under this subsection. The demonstration project or projects must</p>
+              </content>
+              <paragraph eId="47-07-036__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be consistent with the comprehensive and integrated behavioral health program described under
+AS 47.05.270</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-036__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>include continuing cooperation with the grant-funded community mental health clinics and drug and alcohol treatment centers that have historically provided care to recipients of behavioral health services.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-036__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding (a)  (c) of this section, and in addition to the projects and services described under (d)  (f) of this section, the department may apply for a section 1115 waiver under 42 U.S.C. 1315(a) to establish one or more demonstration projects focused on addressing health-related needs and supportive services for one or more groups of medical assistance recipients in one or more specific geographic areas. In this subsection, health-related needs means social or economic conditions that contribute to an individual's poor health outcomes and may include nutrition and food security, workforce development, transportation, temporary housing, or case management.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-036__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section, telehealth has the meaning given in
+AS 47.05.270
+(e).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-038">
+            <num>47.07.038</num>
+            <heading>Collaborative, hospital-based project to reduce use of emergency department services.</heading>
+            <content>
+              <p>Sec. 47.07.038.   Collaborative, hospital-based project to reduce use of emergency department services.</p>
+            </content>
+          </section>
+          <section eId="sec_47-07-038">
+            <num>47.07.038</num>
+            <heading>Collaborative, hospital-based project to reduce use of emergency department services.</heading>
+            <content>
+              <p>Sec. 47.07.038.   Collaborative, hospital-based project to reduce use of emergency department services.</p>
+            </content>
+          </section>
+          <section eId="sec_47-07-039">
+            <num>47.07.039</num>
+            <heading>Coordinated care demonstration projects.</heading>
+            <subsection eId="47-07-039__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall contract with one or more third parties to implement one or more coordinated care demonstration projects for recipients of medical assistance identified by the department. The purpose of a demonstration project under this section is to assess the efficacy of a proposed health care delivery model with respect to cost for, access to, and quality of care for medical assistance recipients. The department may contract for separate demonstration projects to coordinate care for different groups of medical assistance recipients to achieve more effective care for recipients at greater cost savings for the medical assistance program. The department shall request proposals for at least one project under this section on or before December 31, 2016, and may annually request proposals for additional projects under this section thereafter. The department may use an innovative procurement process as described under
+AS 36.30.308
+to award a contract for a project under this section. A proposal for a demonstration project under this section must be submitted to the committee established under (b) of this section and must include three or more of the following elements:</p>
+              </content>
+              <paragraph eId="47-07-039__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>comprehensive primary-care-based management for medical assistance services, including behavioral health services and coordination of long-term services and support;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>care coordination, including the assignment of a primary care provider located in the local geographic area of the recipient, to the extent practical;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>health promotion;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>comprehensive transitional care and follow-up care after inpatient treatment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>referral to community and social support services, including career and education training services available through the Department of Labor and Workforce Development under
+AS 23.15
+, the University of Alaska, or other sources;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>sustainability and the ability to achieve similar results in other regions of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>integration and coordination of benefits, services, and utilization management;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>local accountability for health and resource allocation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>an innovative payment process, including bundled payments or global payments.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-039__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A project review committee is established in the department for the purpose of reviewing proposals for demonstration projects under this section. The project review committee consists of</p>
+              </content>
+              <paragraph eId="47-07-039__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the commissioner of the department, or the commissioner's designee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the commissioner of administration, or the commissioner's designee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the chief executive officer of the Alaska Mental Health Trust Authority, or the chief executive officer's designee, who shall serve as chair of the committee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>two representatives of stakeholder groups, appointed by the governor for staggered three-year terms, as follows:
+(A) one representative of a stakeholder group who has direct experience with health plan management and cost control for the medical assistance population;
+(B) one representative of a stakeholder group who has direct experience with health plan management and cost control for a nongovernment employer of 500 or more employees in the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a nonvoting member who is a member of the senate, appointed by the president of the senate; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-039__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a nonvoting member who is a member of the house of representatives, appointed by the speaker of the house of representatives.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-039__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may contract with a managed care organization, primary care case manager, accountable care organization, prepaid ambulatory health plan, or provider-led entity to implement a demonstration project under this section. The fee structure for a contract under this subsection may include global payments, bundled payments, capitated payments, shared savings and risk, or other payment structures. The department shall work with the division of insurance, Department of Commerce, Community, and Economic Development, to streamline the application process for a company to obtain a certificate of authority required under
+AS 21.09.010
+as necessary to participate in a demonstration project under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-039__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A proposal for a demonstration project under this section must include, in addition to the elements required under (a) of this section, information demonstrating how the project will implement additional cost-saving measures, including innovations to reduce the cost of care for medical assistance recipients through the expanded use of telehealth for primary care, urgent care, and behavioral health services. The department shall identify legal or cost barriers preventing the expanded use of telehealth and shall recommend remedies for identified barriers.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-039__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall contract with a third-party actuary to review demonstration projects established under this section. The actuary shall review each demonstration project after two years of implementation and make recommendations for the implementation of a similar project on a statewide basis. The actuary shall evaluate each project based on cost savings for the medical assistance program, health outcomes for participants in the project, and the ability to achieve similar results on a statewide basis. On or before December 31 of each year, starting in 2018, the actuary shall submit a final report to the department regarding any demonstration project that has been in operation for at least two years.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-039__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The department shall prepare a plan regarding regional or statewide implementation of a coordinated care project based on the results of the demonstration projects under this section. On or before November 15, 2019, the department shall submit the plan to the senate secretary and the chief clerk of the house of representatives and notify the legislature that the plan is available. On or before November 15 of each year thereafter, the department shall submit a report regarding any changes or recommendations regarding the plan developed under this subsection to the senate secretary and the chief clerk of the house of representatives and notify the legislature that the report is available.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-039__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In this section, telehealth has the meaning given in
+AS 47.05.270
+(e).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-040">
+            <num>47.07.040</num>
+            <heading>State plan for provision of medical assistance.</heading>
+            <content>
+              <p>Sec. 47.07.040.   State plan for provision of medical assistance.
+The department shall prepare a state plan in accordance with the provisions of 42 U.S.C. 1396  1396p (Title XIX, Social Security Act, Medical Assistance) and submit it for approval to the United States Department of Health and Human Services. The plan shall designate that the Department of Health is the single state agency to administer this plan. The department shall act for the state in any negotiations relative to the submission and approval of the plan. The department may make those arrangements or regulatory changes, not inconsistent with law, as may be required under federal law to obtain and retain approval of the United States Department of Health and Human Services to secure for the state the optimum federal payment under the provisions of 42 U.S.C. 1396  1396p (Title XIX, Social Security Act, Medical Assistance).</p>
+            </content>
+          </section>
+          <section eId="sec_47-07-042">
+            <num>47.07.042</num>
+            <heading>Recipient cost-sharing.</heading>
+            <subsection eId="47-07-042__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b)  (d) of this section, the state plan developed under
+AS 47.07.040
+shall impose deductible, coinsurance, and copayment requirements on persons eligible for assistance under this chapter to the maximum extent allowed under federal law and regulations. The plan must provide that health care providers shall collect the allowable charge. The department shall reduce payments to each provider by the amount of the allowable charge. A provider may not deny services because a recipient is unable to share costs, but an inability to share costs imposed under this section does not relieve the recipient of liability for the costs.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-042__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The state plan developed under
+AS 47.07.040
+shall impose a copayment requirement for inpatient hospital services in an amount that is the lesser of</p>
+              </content>
+              <paragraph eId="47-07-042__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>$50 a day, up to a maximum of $200 per discharge; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-042__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the maximum allowed under federal law and regulations.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-042__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the department has clear and compelling reason to believe that application of the maximum allowable charges under (a) of this section to a specific service would not reduce state expenditures or would generate savings to the state that are insignificant in relation to the total cost containment possible, then the department may waive the charges otherwise required under (a) of this section as to that specific service.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-042__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In addition to the requirements established under (a) and (b) of this section, the department may require premiums or cost-sharing contributions from recipients who are eligible for benefits under
+AS 47.07.020
+(b)(13) and whose household income is between 150 and 175 percent of the federal poverty line. If the department requires premiums or cost-sharing contributions under this subsection, the department</p>
+              </content>
+              <paragraph eId="47-07-042__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>shall adopt in regulation a sliding scale for those premiums or contributions based on household income;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-042__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may not exceed the maximums allowed under federal law; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-042__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>shall implement a system by which the department or its designee collects those premiums or contributions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-042__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Except as provided in (c) of this section and notwithstanding (b) of this section, the department may require premiums and other cost-sharing contributions from recipients who are eligible for assistance under
+AS 47.07.020
+(b)(15) to the maximum extent allowed by federal law. If the department requires premiums or other cost-sharing contributions under this subsection, the department shall</p>
+              </content>
+              <paragraph eId="47-07-042__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>adopt in regulation a sliding scale for those premiums or contributions based on household income; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-042__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>implement a system by which the department or its designee collects the premiums or other cost-sharing contributions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-042__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>[Repealed, § 3 ch 48 SLA 2007.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-045">
+            <num>47.07.045</num>
+            <heading>Home and community-based services.</heading>
+            <subsection eId="47-07-045__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may provide home and community-based services under a waiver in accordance with 42 U.S.C. 1396  1396p (Title XIX, Social Security Act), this chapter, and regulations adopted under this chapter, if the department has received approval from the federal government and the department has appropriations allocated for the purpose. To supplement the standards in (b) of this section, the department shall establish in regulation additional standards for eligibility and payment for the services.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before the department may terminate payment for services provided under (a) of this section</p>
+              </content>
+              <paragraph eId="47-07-045__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the recipient must have had an annual assessment to determine whether the recipient continues to meet the standards under (a) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-045__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the annual assessment must have been reviewed by an independent qualified health care professional under contract with the department; for purposes of this paragraph, independent qualified health care professional means,
+(A) for a waiver based on intellectual or developmental disability, a person who is qualified under 42 C.F.R. 483.430 as a qualified intellectual disability professional;
+(B) for other allowable waivers, a registered or advanced practice registered nurse licensed under
+AS 08.68
+who is qualified to assess children with complex medical conditions, older Alaskans, and adults with physical disabilities for medical assistance waivers; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-045__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the annual assessment must find that the recipient's condition has materially improved since the previous assessment; for purposes of this paragraph, materially improved means that a recipient who has previously qualified for a waiver for
+(A) a child with complex medical conditions, no longer needs technical assistance for a life-threatening condition, and is expected to be placed in a skilled nursing facility for less than 30 days each year;
+(B) intellectual or developmental disability, no longer needs the level of care provided by an intermediate care facility for persons with intellectual and developmental disabilities either because the qualifying diagnosis has changed or the recipient is able to demonstrate the ability to function in a home setting without the need for waiver services; or
+(C) an older Alaskan or adult with a physical disability, no longer has a functional limitation or cognitive impairment that would result in the need for nursing home placement, and is able to demonstrate the ability to function in a home setting without the need for waiver services.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-045__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a child who is financially dependent on a military service member is eligible for home and community-based services while physically present in the state, the department shall provide for home and community-based services when the child returns to the state as though the child had remained in the state if the military service member provides proof acceptable to the department that</p>
+              </content>
+              <paragraph eId="47-07-045__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the member has maintained residency in the state for the period of eligibility; proof under this paragraph must include official military personnel records;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-045__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the member and the dependent child are physically present in the state and intend to reside permanently in the state while receiving the home and community-based services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-045__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the member returned to the state within 18 months after separating from military service; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-045__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the member's dependent child is not eligible for coverage of home and community-based services under another health insurance plan.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-045__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Unless prohibited by federal law, the state shall allow a legally responsible person to provide personal care services under this section to a recipient of medical assistance under the 1915(k) state plan option under 42 U.S.C. 1396n.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-045__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In (c) of this section, military means the armed forces of the United States, the United States Coast Guard, or the Alaska National Guard.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-046">
+            <num>47.07.046</num>
+            <heading>Traumatic or acquired brain injury services.</heading>
+            <subsection eId="47-07-046__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall provide traumatic or acquired brain injury services under a waiver in accordance with 42 U.S.C. 1396  1396p (Title XIX, Social Security Act), this chapter, and regulations adopted under this chapter, if the department has received approval from the federal government and the department has appropriations allocated for the purpose. In addition to the annual assessment required in (b) of this section, the department shall establish in regulation additional standards for eligibility and payment for the services.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-046__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before the department may terminate payment for services provided under (a) of this section, the recipient must have had an annual assessment to determine whether the recipient continues to meet the standards established by regulation under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-046__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, traumatic or acquired brain injury has the meaning given in
+AS 47.80.529
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-048">
+            <num>47.07.048</num>
+            <heading>Host home care services. [See conditional effective date note.]</heading>
+            <content>
+              <p>Sec. 47.07.048.   Host home care services. [See conditional effective date note.]</p>
+            </content>
+          </section>
+          <section eId="sec_47-07-048">
+            <num>47.07.048</num>
+            <heading>Host home care services. [See conditional effective date note.]</heading>
+            <content>
+              <p>Sec. 47.07.048.   Host home care services. [See conditional effective date note.]</p>
+            </content>
+          </section>
+          <section eId="sec_47-07-050">
+            <num>47.07.050</num>
+            <heading>Implementation of the medical assistance program.</heading>
+            <content>
+              <p>Sec. 47.07.050.   Implementation of the medical assistance program.
+The department shall take the steps necessary to adopt those regulations, prepare necessary documentation for the state and providers, and undertake the systems design that may be necessary to implement the provisions of this chapter on or before November 1, 1972.  Implementation of the medical assistance program shall include appropriate controls and reporting capabilities as required by the United States Department of Health and Human Services, and the department shall make those necessary reports as required by that federal agency or as requested by the legislature.</p>
+            </content>
+          </section>
+          <section eId="sec_47-07-055">
+            <num>47.07.055</num>
+            <heading>Recovery of medical assistance from estates.</heading>
+            <subsection eId="47-07-055__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The estate of an individual who received medical assistance payments is subject to a claim for recovery of the medical assistance after the individual's death that, except as provided in (b) of this section, may be secured by a lien filed against the individual's real property during the individual's lifetime if the</p>
+              </content>
+              <paragraph eId="47-07-055__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>individual was an inpatient in a nursing facility, intermediate care facility for persons with intellectual and developmental disabilities, or other medical institution;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-055__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>department required the individual, as a condition of receiving medical assistance under this chapter, to spend for medical expenses all but a minimal amount of that individual's income; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-055__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>department determined during the individual's lifetime, after notice and opportunity for hearing, that the individual could not reasonably be expected to be discharged from the institution and to return home.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-055__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A lien may not be filed under (a) of this section against an individual's home if the home is lawfully occupied by the individual's</p>
+              </content>
+              <paragraph eId="47-07-055__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>spouse;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-055__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>child under age 21;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-055__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>blind or disabled child as described in
+AS 47.25.615</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-055__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>or (5) or 42 U.S.C. 1382(c); or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-055__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>sibling, if the sibling has an equity interest in the home and was residing in the home for at least one year before the date of the individual's admission to the institution.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-055__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The state may not recover the costs of medical assistance under a lien on a home under (a) of this section until after the death of the individual's surviving spouse, if any, and only at a time when neither of the following is lawfully residing in the home:</p>
+              </content>
+              <paragraph eId="47-07-055__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a sibling of the individual who was residing in the individual's home for a period of at least one year immediately preceding the date of the individual's institutionalization and who has continuously resided in the home since the institutionalization began; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-055__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a son or daughter of the individual who
+(A) resided in the home for at least two years immediately preceding the date of the individual's institutionalization;
+(B) has continuously resided in the home since the institutionalization began; and
+(C) establishes to the department's satisfaction that the son or daughter provided care to the individual that allowed the individual to reside in the home rather than in an institution.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-055__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A lien and claim authorized under (a) of this section are extinguished if, during the individual's lifetime, the individual is discharged from the institution and returns home. However, a new lien and claim are authorized for subsequent expenses if the circumstances described in (a) of this section occur after the individual returns home.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-055__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In addition to recovery of medical assistance upon sale of property subject to a lien authorized under (a)  (d) of this section, after an individual's death, the individual's estate is subject to a claim for reimbursement for medical assistance payments made on behalf of the individual under this chapter for the following services to the extent that those services were provided when the individual was 55 years of age or older:</p>
+              </content>
+              <paragraph eId="47-07-055__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>services received while an inpatient in a nursing facility, intermediate care facility for persons with intellectual and developmental disabilities, or other medical institutions; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-055__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>home and community-based services provided through a waiver received from the federal government that allows home and community-based services to be covered under this chapter for persons who are eligible for coverage under this chapter while in an institution but who are able to avoid institutionalization because of the provision of home and community-based services.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-055__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Other than a recovery upon sale of a home, a claim under this section may be made only after the death of the individual's surviving spouse, if any, and only at a time when the individual has no surviving child under age 21 and no surviving child who is blind or totally and permanently disabled.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-055__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>For purposes of
+AS 13.16.470
+, the claims authorized under this section are debts with preference under the laws of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-055__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In addition to the claims allowed under the other provisions of this section, the state may file a claim under
+AS 06.65.320
+against the amount in an individual's program account after the individual dies. Notwithstanding the other provisions of this section, the claim is subject to the requirements of 26 U.S.C. 529A(f) (Internal Revenue Code). In this subsection, program account has the meaning given in
+AS 06.65.390
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-060">
+            <num>47.07.060</num>
+            <heading>Receipt of federal money.</heading>
+            <content>
+              <p>Sec. 47.07.060.   Receipt of federal money.
+The Department of Administration shall accept and receive all grants of money awarded to the state under 42 U.S.C. 1396  1396p (Title XIX, Social Security Act, Medical Assistance). All money received shall be deposited by the Department of Administration in a special account of the general fund and shall be used by the state exclusively for medical assistance and the administration of medical assistance under the provisions of this chapter.  This money shall be paid from the account on a certified disbursement voucher from the department.</p>
+            </content>
+          </section>
+          <section eId="sec_47-07-063">
+            <num>47.07.063</num>
+            <heading>Payment for certain services furnished or paid for by a school district.</heading>
+            <subsection eId="47-07-063__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may pay medical assistance under this chapter to a school district on behalf of an eligible child, including a child with a disability, for rehabilitative and other mandatory and optional services covered under this chapter that are furnished or paid for by the school district if</p>
+              </content>
+              <paragraph eId="47-07-063__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the school district and the department have entered into an agreement requiring the school district to reimburse the department for any state financial share required by the federal government;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-063__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the rehabilitative and other mandatory and optional services are otherwise eligible for reimbursement under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-063__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the child
+(A) is eligible for medical assistance under this chapter for the services; and
+(B) complies with all applicable provisions of this chapter for that assistance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-063__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the school district fully complies with billing, auditing, and reporting required under the approved state plan described in
+AS 47.07.040
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-063__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>reimbursement of payment for the rehabilitative and other mandatory and optional services under this section does not exceed reimbursement allowable for the services under this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-063__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>all other requirements of federal and state law are met.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-063__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding any contrary provision of state law, the school district shall allow the department access to medical, financial, and other records of the child that are in the possession of the school district in order to verify eligibility for services under this chapter. The department shall keep information received under this subsection confidential to the same extent as the school district is required to keep the information confidential under law.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-063__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may adopt regulations to carry out this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-063__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, unless the context otherwise requires,</p>
+              </content>
+              <paragraph eId="47-07-063__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>child with a disability has the meaning given in
+AS 14.30.350
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-063__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>rehabilitative services has the meaning given in 42 C.F.R. 440.130;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-063__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>school district has the meaning given the term district in
+AS 14.17.990
+, but includes a state boarding school established under
+AS 14.16.010
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-065">
+            <num>47.07.065</num>
+            <heading>Payment for prescribed drugs.</heading>
+            <subsection eId="47-07-065__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall pay for prescribed drugs under
+AS 47.07.030</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-065__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>under regulations adopted by the commissioner in conformity with applicable federal regulations.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-065__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall adopt in regulation and regularly update a preferred drug list and a prior authorization medications list under a state program permitted under 42 U.S.C. 1396r-8 (Title XIX, Social Security Act). The department shall take other reasonable cost savings and cost containment measures, including pursuing and securing negotiated rates, rebates, and contracts or other agreements on covered outpatient drugs. In this subsection, preferred drug list means a list of prescription medications within a therapeutic class and suggested as the first choice when prescribed for individuals within the medical assistance program.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-067">
+            <num>47.07.067</num>
+            <heading>Payment for adult dental services.</heading>
+            <subsection eId="47-07-067__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to appropriation, the department shall pay for minimum treatment and for preventative and restorative adult dental services provided under
+AS 47.07.030</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-067__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and under regulations adopted by the commissioner in conformity with applicable federal requirements and this chapter. Regulations adopted under this section must include the following:</p>
+              </content>
+              <paragraph eId="47-07-067__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>except as provided in (d) of this section, a maximum amount of benefits for preventative and restorative adult dental services of $1,150 for each eligible recipient in a fiscal year; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-067__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>specification of the scope of coverage for preventative and restorative adult dental services.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-067__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>On or before June 30 of each year, the department shall review appropriations available for the purposes of this section for the following fiscal year, and estimate the scope of services to be used and the number of eligible recipients anticipated to be served during the following fiscal year. Notwithstanding the maximum amount of benefits specified in (a)(1) of this section, the department shall reduce, by regulation, the specified maximum amount of benefits for the following fiscal year if the department's estimates under this subsection would exceed appropriations available for that fiscal year.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-067__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding any contrary provision of
+AS 44.62
+, the department may adopt emergency regulations to implement (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-067__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the department authorizes or approves payment for complete or partial dentures for an eligible recipient, the department may authorize the payment in one fiscal year of the maximum payment amount for not more than two fiscal years. A recipient is not eligible for additional benefits under this section for a two-year period.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-067__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>As used in this section, minimum treatment means the application or prescription of a medication or material deemed necessary by a licensed dentist for the immediate relief of pain or to reduce the spread of infection.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-068">
+            <num>47.07.068</num>
+            <heading>Payment for abortions.</heading>
+            <subsection eId="47-07-068__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may not pay for abortion services under this chapter unless the abortion services are for a medically necessary abortion or the pregnancy was the result of rape or incest. Payment may not be made for an elective abortion.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-068__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="47-07-068__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>abortion has the meaning given in
+AS 18.16.090
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-068__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>elective abortion means an abortion that is not a medically necessary abortion;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-068__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>medically necessary abortion means that, in a physician's objective and reasonable professional judgment after considering medically relevant factors, an abortion must be performed to avoid a threat of serious risk to the life or physical health of a woman from continuation of the woman's pregnancy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-068__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>serious risk to the life or physical health includes, but is not limited to, a serious risk to the pregnant woman of
+(A) death; or
+(B) impairment of a major bodily function because of</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-068__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>diabetes with acute metabolic derangement or severe end organ damage;
+(ii) renal disease that requires dialysis treatment;
+(iii) severe pre-eclampsia;
+(iv) eclampsia;</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-068__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>convulsions;
+(vi) status epilepticus;
+(vii) sickle cell anemia;
+(viii) severe congenital or acquired heart disease, class IV;
+(ix) pulmonary hypertension;</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-068__subsec_x">
+              <num>(x)</num>
+              <content>
+                <p>malignancy if pregnancy would prevent or limit treatment;
+(xi) kidney infection;
+(xii) congestive heart failure;
+(xiii) epilepsy;
+(xiv) seizures;
+(xv) coma;
+(xvi) severe infection exacerbated by pregnancy;
+(xvii) rupture of amniotic membranes;
+(xviii) advanced cervical dilation of more than six centimeters at less than 22 weeks gestation;
+(xix) cervical or cesarean section scar ectopic implantation;
+(xx) any pregnancy not implanted in the uterine cavity;
+(xxi) amniotic fluid embolus; or
+(xxii) another physical disorder, physical injury, or physical illness, including a life-endangering physical condition caused by or arising from the pregnancy that places the woman in danger of death or major bodily impairment if an abortion is not performed.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-069">
+            <num>47.07.069</num>
+            <heading>Payment for telehealth.</heading>
+            <subsection eId="47-07-069__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>[See conditional amendment note.]  The department shall pay for all services covered by the medical assistance program provided through telehealth in the same manner as if the services had been provided in person, including</p>
+              </content>
+              <paragraph eId="47-07-069__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>behavioral health services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>services covered under home and community-based waivers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>services covered under state plan options under 42 U.S.C. 1396  1396p (Title XIX, Social Security Act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>services provided by a community health aide or a community health practitioner certified by the Community Health Aide Program Certification Board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>services provided by a behavioral health aide or behavioral health practitioner certified by the Community Health Aide Program Certification Board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>services provided by a dental health aide therapist certified by the Community Health Aide Program Certification Board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>services provided by a chemical dependency counselor certified by a certifying entity for behavioral health professionals in the state specified by the department in regulation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>services provided by a rural health clinic or a federally qualified health center;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>services provided by an individual or entity that is required by statute or regulation to be licensed or certified by the department or that is eligible to receive payments, in whole or in part, from the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>services provided through audio, visual, or data communications, alone or in any combination, or through communications over the Internet or by telephone, including a telephone that is not part of a dedicated audio conference system, electronic mail, text message, or two-way radio;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>assessment, evaluation, consultation, planning, diagnosis, treatment, case management, and the prescription, dispensing, and administration of medications, including controlled substances; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>services covered under federal waivers or demonstrations other than home and community-based waivers.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-069__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[See conditional amendment note.]  The department shall adopt regulations for services provided by telehealth, including setting rates of payment. Regulations calculating the rate of payment for a rural health clinic or federally qualified health center must treat services provided through telehealth in the same manner as if the services had been provided in person, including calculations based on the rural health clinic's or federally qualified health center's reasonable costs or on the number of visits for recipients provided services, and must define visit to include a visit provided by telehealth. The department may not decrease the rate of payment for a telehealth service based on the location of the person providing the service, the location of the eligible recipient of the service, the communication method used, or whether the service was provided asynchronously or synchronously. The department may exclude or limit coverage or reimbursement for a service provided by telehealth, or limit the telehealth modes that may be used for a particular service, only if the department</p>
+              </content>
+              <paragraph eId="47-07-069__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>specifically excludes or limits the service from telehealth coverage or reimbursement by regulations adopted under this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>determines, based on substantial medical evidence, that the service cannot be safely provided using telehealth or using the specified mode; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>determines that providing the service using the specified mode would violate federal law or render the service ineligible for federal financial participation under applicable federal law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-069__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>All services delivered through telehealth under this section must comply with the Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191).</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-069__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="47-07-069__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>federally qualified health center has the meaning given in 42 U.S.C. 1396(l)(2)(B);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>rural health clinic has the meaning given in 42 U.S.C. 1396(l)(1);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>state plan means the state plan for medical assistance coverage developed under
+AS 47.07.040
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-069__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>telehealth has the meaning given in
+AS 47.05.270</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-070">
+            <num>47.07.070</num>
+            <heading>Payment rates for health facilities.</heading>
+            <subsection eId="47-07-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall, by regulation, set rates of payment for health facilities under this chapter and
+AS 47.25.120
+ 47.25.300 in accordance with 42 U.S.C. 1396 (Title XIX, Social Security Act, Medical Assistance) and this section. A rate established under this section takes effect under
+AS 44.62
+(Administrative Procedure Act) but not until approved in writing by the commissioner. The commissioner may delegate the performance of these functions.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In determining the rates of payment for health facilities for a fiscal year, the department shall, within the limit of appropriations made by the legislature for the department's programs under this chapter and under
+AS 47.25.120
+ 47.25.300 for that fiscal year, including anticipated available federal revenue for that fiscal year, set rates for facilities that are based on</p>
+              </content>
+              <paragraph eId="47-07-070__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>reasonable costs related to patient care; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-070__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>audit and inspection results and reports, when the audit or inspection is conducted under
+AS 47.07.074
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section does not apply to the minimum daily reimbursement rate specified by law under
+AS 47.24.017
+or
+AS 47.25.195</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-070__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>for assisted living homes.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-071">
+            <num>47.07.071</num>
+            <heading>Reports by health facilities.</heading>
+            <content>
+              <p>Sec. 47.07.071.   Reports by health facilities.
+After the end of each fiscal year of a health facility, the facility shall submit to the department a report on the facility's financial performance during the fiscal year. The commissioner shall, by regulation, establish the date by which this financial report is due.</p>
+            </content>
+          </section>
+          <section eId="sec_47-07-073">
+            <num>47.07.073</num>
+            <heading>Uniform accounting, budgeting, and reporting.</heading>
+            <subsection eId="47-07-073__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department by regulation shall require a uniform system of accounting, budgeting, and reporting for health facilities receiving payments under this chapter. The regulations must provide for reporting revenues, expenses, assets, liabilities, units of service, and other items considered necessary by the department to implement this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-073__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 6 ch 28 SLA 2003.]</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-073__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may waive or modify a requirement for accounting, budgeting, or reporting for a health facility if waiver or modification is consistent with the policies of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-073__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding other provisions of this section, the department may, by regulation, modify the system of accounting, budgeting, and reporting required under this section for a health facility having fewer than 25 acute care beds in order to reduce the operating costs of that facility.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-074">
+            <num>47.07.074</num>
+            <heading>Audits and inspections.</heading>
+            <subsection eId="47-07-074__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As a condition of obtaining payment under
+AS 47.07.070
+, a health facility shall allow</p>
+              </content>
+              <paragraph eId="47-07-074__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department reasonable access to the records of medical assistance recipients and providers; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-074__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>audit and inspection of the records by state and federal agencies.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-074__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may establish the scope and timing of audits under this chapter. The department may provide that audits will be conducted less frequently than annually.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-075">
+            <num>47.07.075</num>
+            <heading>Administrative procedure.</heading>
+            <subsection eId="47-07-075__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Actions of the department regarding health facility payment rates under this chapter and
+AS 47.25.120
+ 47.25.300 are subject to provisions of
+AS 44.62
+(Administrative Procedure Act) except as provided in (b) of this section, and the hearing for an appeal must be conducted by the office of administrative hearings (
+AS 44.64.010
+).</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-075__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall, by regulation, establish time limits applicable to the various phases of an administrative appeal process involving an appeal of the amount of a payment rate set by the department for a facility. The time limits set under the regulations supersede conflicting time limits in
+AS 44.62.330
+ 44.62.630.  The regulations must provide that</p>
+              </content>
+              <paragraph eId="47-07-075__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a hearing for an appeal described in this subsection must be scheduled under
+AS 44.62.410
+to occur no more than 120 days after written notice of rate appeal has been received by the department from a facility unless the facility requests a delay or good cause for the delay is demonstrated to the satisfaction of the hearing officer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-075__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the commissioner must, within 30 days after receiving the recommendation of the hearing officer, either render a decision in the case or refer the case back to a hearing officer for additional findings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-075__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if either time limit set under (1) or (2) of this subsection is not met, the department shall report the noncompliance to the legislature and the governor by the following January 20 with an explanation of the length of delay, reasons for the delay, and proposed corrective action by the department to ameliorate the causes of delay.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-076">
+            <num>47.07.076</num>
+            <heading>Reports to legislature.</heading>
+            <subsection eId="47-07-076__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department and the attorney general shall annually prepare a report relating to the medical assistance program under this chapter. The report must include the following information:</p>
+              </content>
+              <paragraph eId="47-07-076__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount and source of funds used to prevent or prosecute fraud, abuse, payment errors, and errors in eligibility determinations for the previous fiscal year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-076__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>actions taken to address fraud, abuse, payment errors, and errors in eligibility determinations during the previous fiscal year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-076__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>specific examples of fraud or abuse that were prevented or prosecuted;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-076__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>identification of vulnerabilities in the medical assistance program, including any vulnerabilities identified by independent auditors with whom the department contracts under
+AS 47.05.200
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-076__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>initiatives the department has taken to prevent fraud or abuse;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-076__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>recommendations to increase effectiveness in preventing and prosecuting fraud and abuse;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-076__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the return to the state for every dollar expended by the department and the attorney general to prevent and prosecute fraud and abuse;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-076__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the most recent payment error rate measurement report for the medical assistance program, including fee for service programs and pilot or demonstration projects; the report must also explain the reasons for the payment errors and the total amount of state and federal funds paid in error during the reporting period and not recovered by the department at the time of the report;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-076__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>results from the Medicaid Eligibility Quality Control program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-076__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>On or before November 15 of each year, the department shall submit the report required under (a) of this section to the senate secretary and the chief clerk of the house of representatives and notify the legislature that the report is available.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-076__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, §§ 53, 61(f), 66 ch 25 SLA 2016.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-085">
+            <num>47.07.085</num>
+            <heading>Supplemental reimbursement for emergency medical transportation services.</heading>
+            <subsection eId="47-07-085__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall develop a program to provide supplemental reimbursement to eligible emergency medical transportation service providers for the cost of providing services to medical assistance recipients. Except as provided in (b) of this section, the amount of the supplemental reimbursement paid to a provider must be equal to the amount of federal financial participation that the department receives for the nonfederal matching funds paid by the provider through intergovernmental transfers or certified public expenditures, less any administrative fee described in (d) or (e) of this section. Under the program, the department shall use intergovernmental transfers, or certified public expenditures, or both, for the nonfederal share of emergency medical transportation services that are eligible for federal financial participation under the medical assistance program.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-085__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount a provider receives in supplemental reimbursements under the program, when combined with the amount the provider receives from all other sources, including medical assistance reimbursement under the state plan, may not exceed the provider's actual cost for providing emergency medical transportation services to medical assistance recipients.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-085__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An emergency medical transportation service provider is eligible to participate in the program if the provider</p>
+              </content>
+              <paragraph eId="47-07-085__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is enrolled with the department as a medical assistance provider;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-085__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>voluntarily enters into an agreement with the department to participate in the program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-085__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>is owned or operated by the state, a political subdivision of the state, or a federally recognized tribe or tribal organization;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-085__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>charges for emergency medical transportation services on a fee-for-service or other federally permissible basis; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-085__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>certifies that the provider's expenditures for emergency medical transportation services qualify for federal financial participation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-07-085__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the department authorizes the use of intergovernmental transfers under the program, the department shall charge an administrative fee to a provider to cover the department's costs of administering the program. The administrative fee may not exceed 20 percent of the nonfederal share the provider pays to the department. A provider may include the administrative fee in the provider's cost for providing an emergency medical transportation service to a medical assistance recipient.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-085__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the department authorizes the use of certified public expenditures under the program, the department may establish an administrative fee for a provider. If the department establishes an administrative fee under this subsection, the department may allow a provider to include the administrative fee in the provider's cost for providing an emergency medical transportation service to a medical assistance recipient.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-085__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>This section authorizes the department to provide supplemental reimbursements to a ground, water, or air emergency medical transportation service provider only if the United States Department of Health and Human Services approves payments to that type of emergency medical transportation service provider.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-085__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If the United States Department of Health and Human Services revokes approval of the program, the department shall provide notice to the legislature. The department shall submit written notice to the secretary of the senate and the chief clerk of the house of representatives as early as possible after the United States Department of Health and Human Services expresses its intent to revoke approval of the program.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-085__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Supplemental reimbursement payments are subject to appropriation.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-07-085__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="47-07-085__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>program means the supplemental reimbursement program developed by the department under this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-085__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provider means an eligible emergency medical transportation service provider;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-085__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>state plan means the state plan for medical assistance coverage developed under
+AS 47.07.040
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-07-900">
+            <num>47.07.900</num>
+            <heading>Definitions.</heading>
+            <subsection eId="47-07-900__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the conditions for participation under Medicare; or
+(ii) the definitions of inpatient or outpatient hospital services under 42 C.F.R. 440.10 and 440.20;</p>
+              </content>
+              <paragraph eId="47-07-900__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>emotionally disturbed or chronically mentally ill adults includes only persons who receive mental health services from an entity that has a contract to provide community mental health services under
+AS 47.30.520
+ 47.30.620;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>eyeglasses are lenses, including frames when necessary, and other aids to vision prescribed by a physician skilled in diseases of the eye, or by an optometrist, whichever the patient may select, to aid or improve vision;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>health facility includes a
+(A) hospital, skilled nursing facility, intermediate care facility, intermediate care facility for persons with intellectual and developmental disabilities, rehabilitation facility, inpatient psychiatric facility, home health agency, rural health clinic, and outpatient surgical clinic; and
+(B) birthing center if birthing centers are authorized for coverage under the state plan approved under
+AS 47.07.040
+by the United States Department of Health and Human Services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>hospice care means services to a terminally ill individual of the type and under the circumstances described in 42 U.S.C. 1396d(o), as amended, and applicable federal regulations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>midwife services means services within the practice of midwifery, as defined in
+AS 08.65.190
+, that are performed by a certified direct-entry midwife, and miscellaneous fees, other than facility fees, for birth kits, oxygen, and other ancillary expenses necessary for a birth attended by a certified direct-entry midwife;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>[Repealed, § 60 ch 33 SLA 2016.]</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>personal care services in a recipient's home means services authorized under a service plan in accordance with applicable federal and state law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>[See delayed amendment note.]  professional counseling services means services within the practice of professional counseling provided by a person licensed as a professional counselor under
+AS 08.29
+; professional counseling services may be provided at a facility that is not a provider of clinic services.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>psychologists' services means services within the practice of psychology provided by a person licensed as a psychologist or psychological associate under
+AS 08.86
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>rehabilitative services means services for substance abusers and emotionally disturbed or chronically mentally ill adults provided by
+(A) a drug or alcohol treatment center; or
+(B) an outpatient community mental health clinic;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>substance abuser means a person who
+(A) is an alcoholic, as defined in
+AS 47.37.270
+;
+(B) participates in inhalant abuse, as defined in
+AS 47.37.270
+; or
+(C) misuses illegal or prescription drugs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-07-900__subsec_i__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>targeted case management services means services for populations designated by the department in regulation that will assist individuals eligible for medical assistance under this chapter in gaining access to needed medical, social, educational, or other services provided to persons through the department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

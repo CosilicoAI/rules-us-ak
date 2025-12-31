@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-26/chapter-03"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-26/chapter-03"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="26.03"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-26/chapter-03/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-26/chapter-03/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-26/chapter-03/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-26/chapter-03/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_26">
+        <num>26</num>
+        <heading>Military Affairs, Veterans, Disasters, and Aerospace</heading>
+        <chapter eId="title_26__chp_03">
+          <num>03</num>
+          <heading>Division of Recruitment and Retention</heading>
+          <section eId="sec_26-03-010">
+            <num>26.03.010</num>
+            <heading>Recruitment and retention division.</heading>
+            <content>
+              <p>Sec. 26.03.010.   Recruitment and retention division.
+There is created within the Department of Military and Veterans' Affairs a division of recruitment and retention.</p>
+            </content>
+          </section>
+          <section eId="sec_26-03-020">
+            <num>26.03.020</num>
+            <heading>Appointment of director.</heading>
+            <content>
+              <p>Sec. 26.03.020.   Appointment of director.
+The adjutant general shall appoint a director who is at least an administrative officer three.</p>
+            </content>
+          </section>
+          <section eId="sec_26-03-030">
+            <num>26.03.030</num>
+            <heading>Authority and duties of the director.</heading>
+            <content>
+              <p>Sec. 26.03.030.   Authority and duties of the director.
+The director shall
+(1) take the necessary steps to assure that unemployed guardsmen have the opportunity to acquire employment through the state and federal governments;
+(2) keep guardsmen advised of all privileges and benefits available to them from the state and federal governments;
+(3) act as a coordinator with the state and federal governments in an effort to increase the availability of education and training programs for guardsmen;
+(4) compile a list of guardsmen and their educational and training qualifications and submit it to the federal and state agencies for possible job placement;
+(5) prepare a program whereby guardsmen are trained in firefighting and related skills and coordinate this effort with state and federal programs; and
+(6) provide counseling service for guardsmen in order to find educational, training, and employment opportunities for them.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

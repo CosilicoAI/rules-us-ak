@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-40"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-40"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.40"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-40/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-40/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_40">
+          <num>40</num>
+          <heading>Purchase of Services</heading>
+          <section eId="sec_47-40-011">
+            <num>47.40.011</num>
+            <heading>Purchase of services.</heading>
+            <subsection eId="47-40-011__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the department purchases residential services for minors for whom the state has assumed responsibility under
+AS 47.10
+or
+AS 47.12
+, the department shall</p>
+              </content>
+              <paragraph eId="47-40-011__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>purchase the services only under grants to local governmental units or nonprofit corporations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-40-011__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>award grants for a specified number of beds as provided in
+AS 47.40.041
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="47-40-011__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall adopt regulations necessary to carry out the provisions of
+AS 47.40.011
+ 47.40.091, including regulations establishing the procedures to be followed in awarding grants, the types of services for which payment may be made, costs that may be paid with grant money, and the method of payment.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-40-011__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Services of jails and other penal institutions may not be included in services purchased by the state under
+AS 47.40.011
+ 47.40.091.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_47-40-021">
+            <num>47.40.021</num>
+            <heading>Licensing and supervision.</heading>
+            <content>
+              <p>Sec. 47.40.021.   Licensing and supervision.
+Facilities providing services that are purchased by the department under
+AS 47.40.011
+ 47.40.091 shall, if required by the department, be licensed and supervised under
+AS 47.32
+.</p>
+            </content>
+          </section>
+          <section eId="sec_47-40-031">
+            <num>47.40.031</num>
+            <heading>Required accounting procedures.</heading>
+            <content>
+              <p>Sec. 47.40.031.   Required accounting procedures.
+Facilities that solicit or receive grants from the department for the cost of services provided under
+AS 47.40.011
+ 47.40.091 shall
+(1) meet accepted standards of fiscal accountability for public money and shall, upon request, submit to the department and to the division of legislative audit a complete financial statement prepared by an independent certified public accountant;
+(2) keep records of the expenditures for the services provided, using cost-accounting procedures in accordance with department regulations;
+(3) upon request, furnish the department and the division of legislative audit all fiscal information, books, records, and accounts pertaining to services paid for under
+AS 47.40.011
+ 47.40.091.</p>
+            </content>
+          </section>
+          <section eId="sec_47-40-041">
+            <num>47.40.041</num>
+            <heading>Grants.</heading>
+            <subsection eId="47-40-041__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall award grants in accordance with its regulations.  The department may award grants for periods not to exceed three years. The department may adjust grant amounts annually, using a cost-of-living allowance formula adopted in its regulations. Grant awards are subject to legislative appropriation.  If insufficient money is appropriated to fund all grants awarded, the department shall prorate grant amounts, reduce the number of beds contracted for, or otherwise adjust grants to the extent of the appropriated funds.</p>
+              </content>
+            </subsection>
+            <subsection eId="47-40-041__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notices published by the department concerning the opening of the application process for a grant award must specify the geographical area in which services are needed, the type of services, the number of beds anticipated to be needed, the maximum number of days of care, and any other requirements established by the department.  Grants authorized under this section are exempt from
+AS 36.30
+(State Procurement Code).</p>
+              </content>
+            </subsection>
+            <subsection eId="47-40-041__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Grants may not include payment for</p>
+              </content>
+              <paragraph eId="47-40-041__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>costs, including salaries and fees, incurred in raising funds or lobbying;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-40-041__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>costs of academic education that duplicate the public education system, except as provided for in regulations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-40-041__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>costs of religious training; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="47-40-041__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>costs that are funded by other government sources.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_47-40-091">
+            <num>47.40.091</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 47.40.091.   Definitions.
+In
+AS 47.40.011
+ 47.40.091,
+(1) bed means space in a facility that may be occupied by a minor for 365 days a year;
+(2) department means the Department of Family and Community Services;
+(3) nonprofit corporation means a corporation organized under
+AS 10.20
+;
+(4) residential services means 24-hour care and supervision of minors in residential child care facilities that are commonly known as group homes or institutions.
+Article 2. Purchase of Services for Pregnant Women.</p>
+            </content>
+          </section>
+          <section eId="sec_47-40-100">
+            <num>47.40.100</num>
+            <heading>Purchase of services for pregnant women.</heading>
+            <content>
+              <p>Sec. 47.40.100.   Purchase of services for pregnant women.
+The Department of Health and the Department of Family and Community Services shall pay within each department's respective appropriation the cost of prenatal services which are not available from an existing state or federal program other than medical services for a pregnant woman experiencing social and economic difficulties, including the costs of transportation to and from a maternity home or a foster home, counseling, adoption assistance, maternity home and foster home care, and parenting skills.</p>
+            </content>
+          </section>
+          <section eId="sec_47-40-110">
+            <num>47.40.110</num>
+            <heading>Licensing and supervision.</heading>
+            <content>
+              <p>Sec. 47.40.110.   Licensing and supervision.
+A person providing services purchased by the Department of Health or the Department of Family and Community Services under
+AS 47.40.100
+ 47.40.120 shall, if required to be licensed under
+AS 47.32
+, be licensed and supervised in the same manner as foster homes or maternity homes, as applicable, under
+AS 47.32
+.</p>
+            </content>
+          </section>
+          <section eId="sec_47-40-120">
+            <num>47.40.120</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 47.40.120.   Regulations.
+The Department of Health and the Department of Family and Community Services shall adopt regulations to implement
+AS 47.40.100
+ 47.40.120 for purchases made by the respective departments.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

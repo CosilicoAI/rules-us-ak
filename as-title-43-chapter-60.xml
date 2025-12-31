@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-60"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-60"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.60"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-60/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-60/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-60/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-60/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_60">
+          <num>60</num>
+          <heading>Excise Tax on Alcoholic Beverages</heading>
+          <section eId="sec_43-60-010">
+            <num>43.60.010</num>
+            <heading>Alcoholic beverage tax.</heading>
+            <subsection eId="43-60-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (c) of this section, every brewer, distiller, bottler, jobber, retailer, wholesaler, or manufacturer who sells alcoholic beverages in the state or who consigns shipments of alcoholic beverages into the state, whether or not the alcoholic beverages are brewed, distilled, bottled, or manufactured in the state, shall pay on all malt beverages (alcoholic content of one percent or more by volume), wines, and hard or distilled alcoholic beverages, the following taxes:</p>
+              </content>
+              <paragraph eId="43-60-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>malt beverages at the rate of $1.07 a gallon or fraction of a gallon;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-60-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>cider with at least 0.5 percent alcohol by volume but not more than seven percent alcohol by volume, at the rate of $1.07 a gallon or fraction of a gallon;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-60-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>wine or other beverages, other than beverages described in (1) or (2) of this subsection, of 21 percent alcohol by volume or less, at the rate of $2.50 a gallon or fraction of a gallon; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-60-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>other beverages having a content of more than 21 percent alcohol by volume at the rate of $12.80 a gallon.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-60-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 3 ch 235 SLA 1976.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A brewer shall pay a tax at the rate of 35 cents a gallon on sales of the first 60,000 barrels of beer sold in the state each fiscal year beginning July 1, 2001, for beer produced in the United States if the producing brewery meets the qualifications of 26 U.S.C. 5051(a)(2). To qualify for the tax rate under this subsection, the brewer must file with the department a copy of an Alcohol and Tobacco Tax and Trade Bureau acknowledged copy of the brewer's notice of intent to pay reduced rate of tax required under 27 C.F.R. 25.167 for the calendar year in which the fiscal year begins for which the partial exemption is sought. If proof of eligibility is not received by the department before June 1, the tax rate under this subsection does not apply until the first day of the second month after the month the notice is received by the department. For purposes of applying this subsection, a barrel of beer may contain not more than 31 gallons.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-60-011">
+            <num>43.60.011</num>
+            <heading>Consigned beverage inventories.</heading>
+            <content>
+              <p>Sec. 43.60.011.   Consigned beverage inventories.
+The tax imposed in
+AS 43.60.010
+may not be levied on consigned shipments of alcoholic beverages into the state if the consignments are to state licensed bonded warehouses in this state until the alcoholic beverage is removed from the warehouse for sale or consignment to retailers.</p>
+            </content>
+          </section>
+          <section eId="sec_43-60-020">
+            <num>43.60.020</num>
+            <heading>Monthly statement and payments.</heading>
+            <subsection eId="43-60-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each brewer, distiller, bottler, jobber, wholesaler, manufacturer, or other consignor shall submit a report to the department on or before the last day of each calendar month. The report must contain an account of the alcoholic beverages sold or consigned to buyers or consignees in the state during the preceding month, setting out</p>
+              </content>
+              <paragraph eId="43-60-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the total number of gallons, including fractional gallons sold or consigned;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-60-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the names and Alaska address of each buyer and consignee; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-60-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the gallonage of each kind of beverage sold or consigned to the respective buyers or consignees.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-60-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The brewer, distiller, bottler, jobber, wholesaler, manufacturer, or other consignor shall pay monthly to the department, all taxes, computed at the rates prescribed in this chapter, on the respective total quantities of the classes of beverage sold or consigned during the preceding month.  The monthly return shall be filed and the tax paid on or before the last day of each month to cover the preceding month.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 1 ch 72 SLA 1971.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 1 ch 72 SLA 1971.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 1 ch 72 SLA 1971.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-60-040">
+            <num>43.60.040</num>
+            <heading>Administration and enforcement of tax.</heading>
+            <subsection eId="43-60-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each brewer, distiller, bottler, jobber, wholesaler, or manufacturer is primarily liable for the payment of the excise taxes on alcoholic beverages sold, and, except as provided under (h) of this section, shall furnish a good and sufficient surety bond of $25,000 payable to the department and approved by the Department of Law. If a wholesaler fails to pay the tax to the state, the wholesaler forfeits the bond and the wholesaler's license shall be revoked. The department, in its discretion, may issue permits in place of bonds to resident holders of wholesale, malt beverage, and wine licenses doing business wholly in the state who pay the tax before shipment.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon receipt of the bond and its subsequent approval, the department shall issue a license certificate authorizing the brewer, distiller, bottler, jobber, wholesaler, or manufacturer, liable for the payment of the tax, to sell alcoholic beverages in the state or to consign shipments of alcoholic beverages to the state. Except as provided under (h) of this section, it is unlawful for a brewer, distiller, bottler, jobber, wholesaler, or manufacturer to sell alcoholic beverages in the state or to consign shipments of alcoholic beverages into the state without first furnishing the required bond and obtaining the license certificate or permit from the department. The license certificate does not constitute permission to sell alcoholic beverages in the state or to consign them to the state without having complied with other requirements of state or federal law.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The retailer or buyer is secondarily liable for the taxes on alcoholic beverages that are sold to the retailer or buyer. The state has a lien upon the beverages, and may seize, confiscate, and sell them to satisfy the payment of the taxes and the costs of the proceedings, without regard to where or in whose possession the beverages are found.  If the beverages are not found or not identifiable, the state may seize, confiscate, and sell an equal quantity of the same kind of beverage found in the possession of the retailer or other buyer to whom the beverages on which the taxes were not paid were sold.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 46 ch 113 SLA 1980.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 46 ch 113 SLA 1980.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-040__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>[Repealed, § 46 ch 113 SLA 1980.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-040__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A license issued under this section must include</p>
+              </content>
+              <paragraph eId="43-60-040__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and address of the licensee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-60-040__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the nature or type of alcoholic beverage business to be conducted; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-60-040__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the year for which the license is issued.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-60-040__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The department may not require a brewer, distiller, bottler, jobber, wholesaler, or manufacturer who has timely filed monthly tax returns and paid monthly taxes to the department over the most recent three consecutive years to maintain a bond if the brewer, distiller, bottler, jobber, wholesaler, or manufacturer continues to remain in compliance with this chapter. The department shall notify the brewer, distiller, bottler, jobber, wholesaler, or manufacturer of any noncompliance that requires the brewer, distiller, bottler, jobber, wholesaler, or manufacturer to file a bond under (a) of this section. The brewer, distiller, bottler, jobber, wholesaler, or manufacturer shall, within 30 days after receiving the notice of noncompliance, file with the department a bond under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-040__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>In this section person includes an officer, agent, or employee of a corporation or a member, agent, or employee of a partnership, who, as officer, agent, employee, or member, is under duty to perform the act in respect to which the violation occurs.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-60-050">
+            <num>43.60.050</num>
+            <heading>Disposition of proceeds; alcohol and other drug abuse treatment and prevention fund.</heading>
+            <subsection eId="43-60-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The alcohol and other drug abuse treatment and prevention fund is established in the general fund. The Department of Administration shall separately account for 50 percent of the tax collected under
+AS 43.60.010
+and deposit it into the alcohol and other drug abuse treatment and prevention fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The legislature may use the annual estimated balance in the fund to make appropriations to the Department of Health to establish and maintain programs for the prevention and treatment of alcoholism, drug abuse, and misuse of hazardous volatile materials and substances by inhalant abusers under
+AS 47.37.030
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-60-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing in this section creates a dedicated fund.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-60-060">
+            <num>43.60.060</num>
+            <heading>Manufacturer direct shipment tax; statement; audit.</heading>
+            <content>
+              <p>Sec. 43.60.060.   Manufacturer direct shipment tax; statement; audit.
+A holder of a manufacturer direct shipment license under
+AS 04.09.370
+who sells its product in the state or who consigns shipments of its product into the state shall
+(1) be subject to the taxes provided under
+AS 43.60.010
+(a);
+(2) provide monthly statements and other information required under
+AS 43.60.020
+with the remittance of a tax collected under this section;
+(3) allow the Department of Revenue to perform an audit of the holder's records upon request; and
+(4) consent to the jurisdiction of a state court concerning enforcement of this section relating to the collection of taxes and other money owed by the holder, including interest and penalties.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

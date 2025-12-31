@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-40"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-40"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="24.40"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-40/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-40/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-24/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-24/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_24">
+        <num>24</num>
+        <heading>Legislature and Lobbying</heading>
+        <chapter eId="title_24__chp_40">
+          <num>40</num>
+          <heading>Judicial Proceedings Involving Legislators</heading>
+          <section eId="sec_24-40-010">
+            <num>24.40.010</num>
+            <heading>Immunities.</heading>
+            <content>
+              <p>Sec. 24.40.010.   Immunities.
+A legislator may not be held to answer before any other tribunal for any statement made in the exercise of legislative duties while the legislature is in session.  A member attending, going to, or returning from legislative sessions is not subject to civil process and is privileged from arrest except for felony or breach of the peace. The immunities provided in this section extend to a legislator attending, going to, or returning from a meeting of an interim standing or special committee of the legislature of which the legislator is a member.  For the purposes of going to and returning from a session or meeting, the immunities provided extend to a legislator for a period of five days immediately preceding and following the legislator's attendance at the session or meeting.</p>
+            </content>
+          </section>
+          <section eId="sec_24-40-020">
+            <num>24.40.020</num>
+            <heading>Continuance in a criminal proceeding where defendant, defense attorney, or witness is a member of the legislature.</heading>
+            <content>
+              <p>Sec. 24.40.020.   Continuance in a criminal proceeding where defendant, defense attorney, or witness is a member of the legislature.
+Upon a showing that the attorney of record at the time of the defendant's first appearance in the court of record or a principal witness or a party in a criminal proceeding is a member of the legislature and that the legislature is in session or that a legislative interim committee of which the legislator is a member is meeting or is to meet within the next seven days, the defendant is entitled to a reasonable continuance of the date of trial until at least 15 days after the legislative session or interim committee meeting. However, a continuance for this reason shall not exceed 30 days after recess of the legislature or interim committee.  A continuance may not be granted for any longer time than it is affirmatively proved the ends of justice require.</p>
+            </content>
+          </section>
+          <section eId="sec_24-40-031">
+            <num>24.40.031</num>
+            <heading>Postponement of civil proceedings when a party or attorney is a member of the legislature.</heading>
+            <content>
+              <p>Sec. 24.40.031.   Postponement of civil proceedings when a party or attorney is a member of the legislature.
+When it appears that a party or an attorney of record of a party to a civil action is a member of the legislature of this state, and that the legislature is in session, the action shall be continued until 10 days after the legislature has adjourned, unless the party or attorney upon the call of the action for trial waives the benefit of this section.  When it appears that a party or an attorney of record of a party to a civil action is a member of the Alaska Legislative Council, the Legislative Budget and Audit Committee, or one of their subcommittees, the action shall be continued when the legislative council, budget and audit committee, or the subcommittee, as the case may be, is holding a meeting, unless the party or attorney upon the call of the action for trial waives the benefit of this section.  When it is necessary to file a brief or memorandum of law in an action that has been continued under the provisions of this section, the action shall be continued for a time sufficient to prepare and file the brief or memorandum.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

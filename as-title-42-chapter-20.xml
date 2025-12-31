@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-42/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-42/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="42.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-42/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-42/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-42/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-42/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_42">
+        <num>42</num>
+        <heading>Public Utilities and Carriers and Energy Programs</heading>
+        <chapter eId="title_42__chp_20">
+          <num>20</num>
+          <heading>Telegraph and Telephone Systems and Cable Lines; Eavesdropping</heading>
+          <section eId="sec_42-20-010">
+            <num>42.20.010</num>
+            <heading>Establishment by foreigners prohibited.</heading>
+            <content>
+              <p>Sec. 42.20.010.   Establishment by foreigners prohibited.
+Cable lines owned or operated or controlled by persons not citizens of the United States, or by any foreign corporation or government, may not be established in or permitted to enter the state.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-030">
+            <num>42.20.030</num>
+            <heading>Civil liability for taking utility service and for damages to or interference with a utility line.</heading>
+            <subsection eId="42-20-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person is civilly liable to the utility whose property is damaged in a sum equal to three times the amount of the actual damages sustained and three times the value of the service taken if the person intentionally or in the exercise of gross negligence</p>
+              </content>
+              <paragraph eId="42-20-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>damages a pole, tree, pipeline, or other object used in a utility line;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>damages an insulator in use in the line or damages or removes from its insulator any wire used in a utility line;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>damages the insulation of the line or interrupts the transmission of the service through it or damages the protective wrapping of a water, oil, or gas pipeline;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>damages property or materials belonging to a utility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>interferes with the use of a utility line, or obstructs or postpones the transmission of service over a utility line;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-030__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>procures or advises damage to any utility line;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-030__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>interferes with or alters a meter or other device for the measuring of service from a utility; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-030__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>without the permission of the utility takes service from the utility or taps a wire or line used for the transmission of service or procures or advises this to be done.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-20-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person is civilly liable to the utility whose property is negligently damaged under (a)(1), (2), (3), (4), or (5) of this section in a sum equal to the amount of the damages sustained.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-20-032">
+            <num>42.20.032</num>
+            <heading>Presumption from use of unmetered utility service.</heading>
+            <content>
+              <p>Sec. 42.20.032.   Presumption from use of unmetered utility service.
+It is presumed that a person intended to deprive a utility of compensation for service from the utility if
+(1) the person possesses or has access to a utility service metering device that is being used to meter utility service and has been interfered with, avoided, or altered to inhibit or prevent the accurate measurement of utility service without the permission of the utility or the person has access to a utility line that has been tapped without the permission of the utility; and
+(2) the person enjoys the use or receives the economic benefit of the unmetered utility service.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-035">
+            <num>42.20.035</num>
+            <heading>Jurisdiction.</heading>
+            <content>
+              <p>Sec. 42.20.035.   Jurisdiction.
+The district court has jurisdiction of civil actions filed under
+AS 42.20.030
+.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-038">
+            <num>42.20.038</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 42.20.038.   Definitions.
+In
+AS 42.20.030
+ 42.20.038,
+(1) service means a commodity, product, use, facility, convenience, or other form of service that is offered and provided by a utility;
+(2) utility means an enterprise, whether publicly or privately owned or operated, that provides gas, electric, steam, water, sewer, or telecommunications service.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-040">
+            <num>42.20.040</num>
+            <heading>Removal of instrument or meter or disconnecting of wire.</heading>
+            <content>
+              <p>Sec. 42.20.040.   Removal of instrument or meter or disconnecting of wire.
+An agent or employee of a telephone or electric light company may not remove any instrument or meter or disconnect any wire connected to the instrument or meter without notifying the owner, agent, or tenant of the building or room where the instrument or meter is installed.  A notice in writing of the intention to remove the instrument or meter or to disconnect a wire is sufficient if delivered to the owner, agent, or tenant of the building or room before removal or disconnection, or in case of the absence of the owner, agent, or tenant, either by depositing the notice in the post office with postage prepaid, or by posting in a conspicuous place upon the building or room 24 hours before removal or disconnection.  An agent or employee of a telephone or electric light company may not enter a building or room to examine, remove, or disconnect an instrument or meter without first announcing the agent's or employee's presence to the occupant.  A person violating this section is guilty of a misdemeanor, and upon conviction, is punishable by a fine of not more than $200, or by imprisonment for not more than 30 days, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-110">
+            <num>42.20.110</num>
+            <heading>Bribing operator or employee to disclose private message; punishment.</heading>
+            <content>
+              <p>Sec. 42.20.110.   Bribing operator or employee to disclose private message; punishment.
+Article 3. Emergency Calls on Party Lines.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-110">
+            <num>42.20.110</num>
+            <heading>Bribing operator or employee to disclose private message; punishment.</heading>
+            <content>
+              <p>Sec. 42.20.110.   Bribing operator or employee to disclose private message; punishment.
+Article 3. Emergency Calls on Party Lines.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-120">
+            <num>42.20.120</num>
+            <heading>Refusal to yield to emergency calls; penalties.</heading>
+            <content>
+              <p>Sec. 42.20.120.   Refusal to yield to emergency calls; penalties.
+A person who wilfully refuses to yield or surrender the use of a party line to another person for the purpose of permitting the other person to report a fire or summon police, medical, or other aid in case of emergency, is guilty of a misdemeanor and is punishable by a fine of not less than $50 nor more than $500, or by imprisonment for not more than 30 days, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-130">
+            <num>42.20.130</num>
+            <heading>Pretext of emergency.</heading>
+            <content>
+              <p>Sec. 42.20.130.   Pretext of emergency.
+A person who asks for or requests the use of a party line on pretext that an emergency exists, knowing that no emergency in fact exists, is guilty of a misdemeanor and is punishable by a fine of not less than $50 nor more than $500 or by imprisonment for not more than 30 days, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-140">
+            <num>42.20.140</num>
+            <heading>Publication in telephone directory.</heading>
+            <content>
+              <p>Sec. 42.20.140.   Publication in telephone directory.
+Every telephone directory published for distribution to the members of the general public must contain a notice that explains
+AS 42.20.120
+ 42.20.150.  The notice must be printed in type that is no smaller than any other type on the same page and must be preceded by the word warning.  This section does not apply to directories distributed solely for business advertising purposes, commonly known as classified directories.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-150">
+            <num>42.20.150</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 42.20.150.   Definitions.
+In
+AS 42.20.120
+ 42.20.150,
+(1) emergency means a situation in which property or human life is in jeopardy and the prompt summoning of aid is essential;
+(2) party line means a subscriber's line telephone circuit, consisting of two or more main telephone stations connected with it, each station with a distinctive ring or telephone number.
+Article 4. Communications, Eavesdropping, and Wiretapping.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-300">
+            <num>42.20.300</num>
+            <heading>Unauthorized publication or use of communications.</heading>
+            <subsection eId="42-20-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a party to a private conversation, a person who receives or assists in receiving, or who transmits or assists in transmitting, a private communication may not divulge or publish the existence, contents, substance, purport, effect, or meaning of the communication, except through authorized channels of transmission or reception</p>
+              </content>
+              <paragraph eId="42-20-300__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to the addressee or the agent or attorney of the addressee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-300__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to a person employed or authorized to forward a communication to its destination;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-300__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to proper accounting or distributing officers of the various communicating centers over which the communication may be passed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-300__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to the master of a ship under whom the person is serving;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-300__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>to another on demand of lawful authority; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-300__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>in response to a subpoena issued or order entered by a court of competent jurisdiction.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-20-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in
+AS 12.37
+, a person not authorized by a party to the communication may not intentionally intercept a private communication or divulge or publish the existence, contents, substance, purport, effect, or meaning of the intercepted communication to any person.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-20-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who is not entitled to a communication but who has received the communication may not use it or any information contained in it for personal benefit or another's benefit.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-20-300__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person who has received a communication and who knows or reasonably should know that the communication and the information contained in it was obtained in violation of this section may not divulge or publish the existence, contents, substance, purport, effect, or meaning of the communication or any part of the communication.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-20-300__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person who has become acquainted with a communication or the information contained in it, and who is not entitled to the communication, may not use the same for personal benefit or another's benefit, or divulge or publish the existence, contents, substance, purport, effect, or meaning of the communication or any part of the communication.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-20-310">
+            <num>42.20.310</num>
+            <heading>Eavesdropping.</heading>
+            <subsection eId="42-20-310__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not</p>
+              </content>
+              <paragraph eId="42-20-310__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>use an eavesdropping device to hear or record all or any part of an oral conversation without the consent of a party to the conversation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-310__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>use or divulge any information which the person knows or reasonably should know was obtained through the illegal use of an eavesdropping device for personal benefit or another's benefit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-310__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>publish the existence, contents, substance, purport, effect, or meaning of any conversation the person has heard through the illegal use of an eavesdropping device;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-310__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>divulge, or publish the existence, contents, substance, purport, effect, or meaning of any conversation the person has become acquainted with after the person knows or reasonably should know that the conversation and the information contained in the conversation was obtained through the illegal use of an eavesdropping device.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-20-310__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section eavesdropping device means any device capable of being used to hear or record oral conversation whether the conversation is conducted in person, by telephone, or by any other means; provided that this definition does not include devices used for the restoration of the deaf or hard-of-hearing to normal or partial hearing.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-20-320">
+            <num>42.20.320</num>
+            <heading>Exemptions.</heading>
+            <subsection eId="42-20-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The following activities are exempt from the provisions of
+AS 42.20.300
+and 42.20.310:</p>
+              </content>
+              <paragraph eId="42-20-320__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>listening to a radio or wireless communications of any sort where the same are publicly made;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-320__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>hearing conversation when heard by employees of a common carrier by wire incidental to the normal course of their employment in the operation, maintenance, or repair of the equipment of the common carrier by wire, provided the information obtained is not used or divulged in any manner by the hearer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-320__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a broadcast by radio or other means whether it is a live broadcast or recorded for the purpose of later broadcasts of any function where the public is in attendance and the conversations that are overheard are incidental to the main purpose for which the broadcast is then being made;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-320__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>recording or listening with the aid of any device to an emergency communication made in the normal course of operations by a federal, state, or local law enforcement agency or institutions dealing in emergency services, including hospitals, clinics, ambulance services, fire fighting agencies, a public utility emergency repair facility, civilian defense establishment, or military installations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-320__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>inadvertent interception of telephone conversations over party lines;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-320__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a peace officer, or a person acting at the direction or request of a peace officer, engaging in conduct authorized by or under
+AS 12.37
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-320__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>interception, listening, or recording of communications by a peace officer, or a person acting under the direction or request of a peace officer, in an emergency where the communications are received from a device that intercepts the communications of a person
+(A) barricaded and not exiting or surrendering at the direction or request of a peace officer, in circumstances where there is an imminent risk of harm to life or property;
+(B) holding another person hostage; or
+(C) threatening the imminent illegal use of an explosive;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-320__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the interception by a peace officer of an oral communication by use of an electronic, mechanical, or other eavesdropping device that is concealed on or carried on the person of the peace officer and that transmits that oral communication by means of radio to a receiving unit that is monitored by other peace officers, if
+(A) the interception and monitoring occurs</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-20-320__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>during the investigation of a crime or the arrest of a person for a crime; and
+(ii) for the purpose of ensuring the safety of the peace officer conducting the investigation or making the arrest;
+(B) the peace officer who intercepts the oral communication is a party to the communication and has consented to the interception; and
+(C) the communication intercepted is not recorded;</p>
+              </content>
+              <paragraph eId="42-20-320__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>interception of a private communication to which a minor is a party by a parent of the minor, except that interception of a private communication between a minor and the minor's attorney or guardian ad litem or between a minor and a child-custody investigator is not exempt from the provisions of
+AS 42.20.300
+and 42.20.310; evidence obtained under this paragraph may be
+(A) considered by a guardian ad litem or a child custody investigator only if the guardian ad litem or child custody investigator determines that consideration of the evidence is in the best interests of the minor;
+(B) admitted in a judicial proceeding, subject to the Alaska Rules of Evidence;
+(C) admitted in a judicial proceeding relating to the custody of a minor, subject to the Alaska Rules of Evidence and only if the court determines that admission of the evidence is in the best interests of the minor; or
+(D) admitted in an official proceeding that is not a judicial proceeding, subject to the rules of evidence governing the proceeding and only if the official presiding over the proceeding determines that admission of the evidence is in the best interests of the minor.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="42-20-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding any other provision of law, a person who inadvertently intercepts a private communication that appears to pertain to the commission of a crime may report the information to a law enforcement agency.</p>
+              </content>
+            </subsection>
+            <subsection eId="42-20-320__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, explosive has the meaning given in
+AS 11.81.900
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_42-20-325">
+            <num>42.20.325</num>
+            <heading>Duty to report.</heading>
+            <content>
+              <p>Sec. 42.20.325.   Duty to report.
+A person who is an employee of a communications common carrier or of an electronic communication service or of a private investigation agency, and has knowledge of the probable occurrence of conduct that violates a provision of
+AS 42.20.300
+or 42.20.310 shall report the conduct, in writing, to the commissioner of public safety within 30 days after learning of the conduct.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-330">
+            <num>42.20.330</num>
+            <heading>Penalty.</heading>
+            <content>
+              <p>Sec. 42.20.330.   Penalty.
+A person who violates any of the provisions of
+AS 42.20.300
+and 42.20.310 is guilty of a class A misdemeanor.</p>
+            </content>
+          </section>
+          <section eId="sec_42-20-390">
+            <num>42.20.390</num>
+            <heading>Definitions.</heading>
+            <subsection eId="42-20-390__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>being used by a provider of wire or electronic communication service in the ordinary course of its business; or
+(ii) furnished to a subscriber or user by a provider of wire or electronic communication service in the ordinary course of its business and being used by the subscriber or user in the ordinary course of its business;</p>
+              </content>
+              <paragraph eId="42-20-390__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>electronic communication means any transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic or photo-optical system, including a cellular or cordless telephone communication, but does not include
+(A) wire or oral communications;
+(B) communications made through a tone-only paging device;
+(C) communications made through a tracking device consisting of an electronic or mechanical device that permits the tracking of the movement of a person or object; or
+(D) communications that are disseminated by the sender with the intent or expectation, or through a method of transmission that is so configured, that the communication is readily accessible to the general public;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-390__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>electronic communication service means a service that provides to users of the service the ability to send or receive wire or electronic communications;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-390__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>employee includes a person who is an officer, agent, or employee of, or a person under contract with, a business or a government entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-390__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>intercept means the aural or other acquisition of the contents of an oral, wire, or electronic communication through the use of any electronic, mechanical, or other device, including the acquisition of the contents by simultaneous transmission or by recording;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-390__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>minor means a child under 18 years of age who has not had the disabilities of a minor removed as described in
+AS 09.55.590
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-390__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>oral communication means human speech used to communicate information from one party to another;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-390__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>parent means a natural person who is the minor's natural or adoptive parent, or who has been legally appointed as the minor's guardian, with parental rights that are not terminated by court order and who is not prohibited by court order from communicating with the minor, or a stepparent as defined in
+AS 25.23.240
+who is not prohibited by court order from communicating with the minor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-390__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>private communication means an oral, wire, or electronic communication uttered or transmitted by a person who has a reasonable expectation that the communication is not subject to interception;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="42-20-390__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>wire communication means human speech used to communicate information from one party to another in whole or in part through the use of facilities for the transmission of communications by wire, cable, or other similar connection between the point of origin and the point of reception furnished or operated by a telephone or radio company for hire as a communications common carrier, but does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

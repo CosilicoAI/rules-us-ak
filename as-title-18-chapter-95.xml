@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-95"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-95"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.95"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-95/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-95/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-95/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-95/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_95">
+          <num>95</num>
+          <heading>Peer Support Counseling</heading>
+          <section eId="sec_18-95-020">
+            <num>18.95.020</num>
+            <heading>Peer support counseling.</heading>
+            <subsection eId="18-95-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A law enforcement agency, emergency service provider, and the department may establish a peer support counseling program to provide emotional and moral support and peer support counseling to peace officers and emergency service personnel who have experienced emotionally traumatic incidents in the course of employment.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-95-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A law enforcement agency, emergency service provider, or the department may designate an employee of the agency, provider, or department to serve as a peer support counselor for the peer support counseling program of the agency, provider, or department if the employee has received training in peer support counseling and providing emotional and moral support to peace officers and emergency service personnel who have experienced emotionally traumatic incidents in the course of employment.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-95-030">
+            <num>18.95.030</num>
+            <heading>Peer support counseling confidentiality.</heading>
+            <subsection eId="18-95-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A written or oral communication made by a participant or peer support counselor during a peer support counseling session or made between peer support counselors, supervisors, or staff members relating to a peer support counseling session is confidential and may not be disclosed by a participant, peer support counselor, supervisor, or staff member to another person. Nothing in this subsection prohibits communications relating to a peer support counseling session between peer support counselors, supervisors, and staff members of a peer support counseling program.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-95-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Oral or written information generated as a result of a peer support counseling session is confidential and is not subject to public disclosure under
+AS 40.25.100
+ 40.25.295 (Alaska Public Records Act). The oral or written information is not admissible in a criminal or civil proceeding. A person may not be compelled to disclose oral or written information through discovery or testimony in a civil or criminal proceeding. Records and information collected through the peer support counseling program are not subject to discovery or subpoena in connection with a civil or criminal proceeding. This subsection does not apply to information that was acquired</p>
+              </content>
+              <paragraph eId="18-95-030__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>through observations made during the regular course of employment of a peace officer or emergency service personnel, or other material or information acquired during the course of employment of a peace officer or emergency service personnel, that is otherwise subject to discovery or introduction into evidence; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-95-030__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>by a peer support counselor in the course of the peer support counselor's response to an incident as the initial responding peace officer or emergency service personnel, witness, or party to the incident for which a person sought peer support counseling.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-95-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section does not apply to</p>
+              </content>
+              <paragraph eId="18-95-030__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a threat of suicide or homicide made by a participant in a peer support counseling session or any information relating to a threat of suicide or homicide;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-95-030__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>information that is required by law to be reported;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-95-030__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>information relating to the abuse of a child or a vulnerable adult;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-95-030__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>any admission of criminal conduct.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-95-040">
+            <num>18.95.040</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.95.040.   Definitions.
+In
+AS 18.95.020
+ 18.95.040,
+(1) department means the Department of Corrections;
+(2) emergency service personnel means a firefighter, an emergency medical technician, a first responder in an emergency situation, or an emergency service dispatcher;
+(3) emergency service provider means an organization or agency that provides services in response to emergency situations of imminent danger to life or property or assists in coordinating an emergency response to emergency situations of imminent danger to life or property;
+(4) firefighter has the meaning given in
+AS 09.65.295
+(c);
+(5) law enforcement agency means a public agency that performs as one of its principal functions an activity relating to crime prevention, control, or reduction or relating to the enforcement of the criminal law; law enforcement agency does not include a court;
+(6) peace officer means
+(A) an officer of the state troopers;
+(B) a member of the police force of a municipality;
+(C) a village public safety officer;
+(D) a regional public safety officer;
+(E) a correctional officer; in this subparagraph, correctional officer has the meaning given in
+AS 18.65.290
+; and
+(F) an officer whose duty it is to enforce and preserve the public peace;
+(7) peer support counseling means counseling that occurs in an established peer support counseling program between two or more peace officers or emergency service personnel of a law enforcement agency, emergency service provider, or the department, one of whom is designated as a peer support counselor under
+AS 18.95.020
+(b);
+(8) peer support counseling program means a program established by a law enforcement agency, emergency service provider, or the department to provide peer support counseling or support services to peace officers and emergency service personnel employed by the agency, provider, or department.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

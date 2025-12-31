@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-33/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-33/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="33.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-33/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-33/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-33/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-33/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_33">
+        <num>33</num>
+        <heading>Probation, Prisons, Pardons, and Prisoners</heading>
+        <chapter eId="title_33__chp_20">
+          <num>20</num>
+          <heading>Remission of Sentences; Executive Pardons and Clemency</heading>
+          <section eId="sec_33-20-010">
+            <num>33.20.010</num>
+            <heading>Computation of good time.</heading>
+            <subsection eId="33-20-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding
+AS 12.55.125
+(f)(3) and 12.55.125(g)(3), a prisoner convicted of an offense against the state or a political subdivision of the state and sentenced to a term of imprisonment that exceeds three days is entitled to a deduction of one-third of the term of imprisonment rounded off to the nearest day if the prisoner follows the rules of the correctional facility in which the prisoner is confined. A prisoner is not eligible for a good time deduction if the prisoner has been sentenced</p>
+              </content>
+              <paragraph eId="33-20-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to a mandatory 99-year term of imprisonment under
+AS 12.55.125</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-20-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>after June 27, 1996;</p>
+              </content>
+              <paragraph eId="33-20-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to a definite term under
+AS 12.55.125</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-20-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for a sexual felony under
+AS 12.55.125</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-20-010__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>(A) and has one or more prior sexual felony convictions as determined under
+AS 12.55.145
+(a)(4); or
+(B) that is an unclassified or a class A felony; or</p>
+              </content>
+              <paragraph eId="33-20-010__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>for an unclassified felony under
+AS 11.41.100
+or 11.41.110.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="33-20-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 15 ch 7 SLA 1996.]</p>
+              </content>
+            </subsection>
+            <subsection eId="33-20-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A prisoner may not be awarded a good time deduction under (a) of this section for any period spent in a treatment program, in a private residence, or on electronic monitoring.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_33-20-030">
+            <num>33.20.030</num>
+            <heading>Discharge.</heading>
+            <content>
+              <p>Sec. 33.20.030.   Discharge.
+A prisoner shall be released at the expiration of the term of sentence less the time deducted for good conduct.  A certificate of deduction shall be entered on the commitment by the warden, keeper, or the commissioner.</p>
+            </content>
+          </section>
+          <section eId="sec_33-20-040">
+            <num>33.20.040</num>
+            <heading>Released prisoner.</heading>
+            <subsection eId="33-20-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (c) of this section, a prisoner released under
+AS 33.20.030
+shall be released on mandatory parole to the custody and jurisdiction of the parole board under
+AS 33.16
+, until the expiration of the maximum term to which the prisoner was sentenced, if the term or terms of imprisonment are two years or more.  However, a prisoner released on mandatory parole may be discharged under
+AS 33.16.210
+before the expiration of the term. A prisoner who was sentenced to a term or terms of imprisonment of less than two years shall be unconditionally discharged from mandatory parole.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-20-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not prevent delivery of a prisoner to the authorities of a state or the United States entitled to the custody of the prisoner.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-20-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a prisoner's sentence includes a residual period of probation, the probationary period shall run concurrently with a period of mandatory parole for that sentence and the prisoner shall be under the concurrent jurisdiction of the court and the parole board. Nothing in this section precludes both the court and the parole board from revoking the prisoner's probation and mandatory parole for the same conduct. A period of imprisonment resulting from the revocation of probation or mandatory parole may be imposed consecutively in the discretion of the court or the parole board.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_33-20-050">
+            <num>33.20.050</num>
+            <heading>Forfeiture for offense.</heading>
+            <content>
+              <p>Sec. 33.20.050.   Forfeiture for offense.
+If during the term of imprisonment a prisoner commits an offense or violates the rules of the correctional facility, all or part of the prisoner's good time may be forfeited under regulations adopted by the commissioner of corrections. The amount of good time forfeited shall be related to the severity of the offense or rule violation.</p>
+            </content>
+          </section>
+          <section eId="sec_33-20-060">
+            <num>33.20.060</num>
+            <heading>Restoration of forfeited good time.</heading>
+            <content>
+              <p>Sec. 33.20.060.   Restoration of forfeited good time.
+The commissioner of corrections may restore all or a portion of a prisoner's forfeited good time, under regulations adopted by the commissioner, if the prisoner demonstrates progress in faithfully observing the rules of the correctional facility in which the prisoner is confined. The amount of forfeited good time restored by the commissioner shall be related to the severity of the offense or rule violation committed by the prisoner and the length of time of good conduct that followed the offense or rule violation.</p>
+            </content>
+          </section>
+          <section eId="sec_33-20-070">
+            <num>33.20.070</num>
+            <heading>Governor may grant pardons, commutations, and reprieves.</heading>
+            <content>
+              <p>Sec. 33.20.070.   Governor may grant pardons, commutations, and reprieves.
+The governor may grant pardons, commutations of sentence, and reprieves, and suspend and remit fines and forfeitures in whole or part for offenses against the laws of the State of Alaska or the Territory of Alaska.</p>
+            </content>
+          </section>
+          <section eId="sec_33-20-080">
+            <num>33.20.080</num>
+            <heading>Required notices and investigation by the board of parole.</heading>
+            <subsection eId="33-20-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governor may not grant executive clemency to a person unless the governor has first provided notice of consideration of executive clemency to the board of parole for investigation and at least 120 days have elapsed since the notice required under (b) of this section has been provided. The board shall investigate each case and, not later than 120 days after receipt of the notice of consideration, submit to the governor a report of the investigation, together with all other information the board has regarding the person. When the report is submitted, the board shall also transmit to the governor the comments it has received under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-20-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board shall send notice of the governor's consideration of executive clemency to the Department of Law, the office of victims' rights, and the victim of a crime against a person, a crime involving domestic violence, or arson in the first degree within five business days after receipt of notice of consideration from the governor. The victim may comment in writing to the board on the consideration for executive clemency. The board shall provide notice of any action taken by the governor to the Department of Law, the office of victims' rights, and the victim.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-20-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the victim's address is unknown, the board shall make reasonable efforts to locate the victim to provide the notice required under this section. The board shall ensure that the victim's address is kept confidential.</p>
+              </content>
+            </subsection>
+            <subsection eId="33-20-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="33-20-080__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>crime against a person has the meaning given in
+AS 33.30.901
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-20-080__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>crime involving domestic violence has the meaning given in
+AS 18.66.990
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="33-20-080__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>victim has the meaning given in
+AS 12.55.185
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

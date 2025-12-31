@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-77"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-77"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.77"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-77/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-77/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-77/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-77/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_77">
+          <num>77</num>
+          <heading>Claims Against the State</heading>
+          <section eId="sec_44-77-010">
+            <num>44.77.010</num>
+            <heading>Presentation of claims.</heading>
+            <subsection eId="44-77-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (d) of this section, every claim for reimbursement for money expended, or for compensation for labor, materials, or supplies furnished, or services given to or for the state, whether based on a contract or on a ratification, shall be promptly presented to the appropriate administrative or executive officer for approval and payment.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 14 ch 105 SLA 1986.]</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 67 ch 106 SLA 1986.]</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A claim that is governed by
+AS 36.30.560
+ 36.30.699 is not governed by this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-77-015">
+            <num>44.77.015</num>
+            <heading>Claims for medical services.</heading>
+            <subsection eId="44-77-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the purposes of filing claims for medical services provided under
+AS 47.07
+or
+AS 47.25.120
+ 47.25.300, promptly, in
+AS 44.77.010
+(a), means within 12 months after the date of service or as provided in (b) of this section. Except as provided in (c) of this section, a claim may not be paid if it is not filed promptly; an inference to the contrary may not be drawn from
+AS 09.10.053
+,
+AS 09.50.250
+ 09.50.300, or
+AS 37.25.010
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with (a) of this section, a claim may be considered to be filed promptly if (1) the claim was filed more than 12 months after the date of service because the medical provider had reason to believe that the beneficiary was ineligible for service under
+AS 47.07
+or
+AS 47.25.120
+ 47.25.300; (2) a court of competent jurisdiction or an administrative hearing officer finds that the beneficiary was eligible for service under
+AS 47.07
+or
+AS 47.25.120
+ 47.25.300 on the date of service; and (3) the claim is filed within 12 months after the date that the court or administrative finding is rendered. The beneficiary is responsible for notifying the medical provider of the judicial or administrative finding. The department shall make a good faith effort to notify the medical provider of the judicial or administrative finding if the department has reason to believe that services have been provided to the beneficiary.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-015__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner of health may authorize payment to a medical provider of a claim not promptly filed, upon good cause shown.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-015__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="44-77-015__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>beneficiary means a person who is found to be eligible to receive medical services under
+AS 47.07
+or
+AS 47.25.120
+ 47.25.300;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="44-77-015__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>medical provider means a person, firm, corporation, association, or institution that, on the date of service, was approved to provide medical assistance, in accordance with regulations adopted by the Department of Health.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_44-77-020">
+            <num>44.77.020</num>
+            <heading>Disallowance by officer.</heading>
+            <subsection eId="44-77-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the administrative or executive officer disallows all or part of the claim, the claimant may obtain a review of the officer's action by applying within 60 days to the Department of Administration, at Juneau, orally or in writing.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When the application is made, the officer who disallowed the claim shall transmit the claim and all papers and memoranda relating to the claim to the Department of Administration.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When it receives the claim, papers, and memoranda, the department shall reexamine the merits of the claim.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department may adopt procedure consistent with law, and shall make its decision affirming, modifying, or reversing the action of the officer.  The decision may be oral or written if made in the presence of the claimant; otherwise it must be written.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-77-030">
+            <num>44.77.030</num>
+            <heading>Disallowance by department.</heading>
+            <subsection eId="44-77-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the Department of Administration disallows a claim or demand against the state, the Department of Administration shall give the claimant and the officer who approved the voucher a written notice setting out its reasons for the disallowance.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the claim or demand is disallowed because the claimant or officer did not submit vouchers in proper form or did not comply with regulations of the Department of Administration for the presentation of claims or demands against the state, the claim or demand may be resubmitted in the proper form.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the claim or demand is disallowed on its merits, the claimant or the officer who approved the voucher may give written notice of appeal to the Department of Administration from its original decision to disallow.  This notice of appeal must be given to the department within 60 days after the claimant or officer receives a written notice of disallowance.  Notice of the claimant or the officer to have the decision of the disbursing officer reviewed by the department is sufficient if it shows a desire to have the Department of Administration review its original decision to disallow and may be signed by the claimant, an agent of the claimant, or the officer who approved the voucher.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-77-040">
+            <num>44.77.040</num>
+            <heading>Hearing and judgment on appeal to department.</heading>
+            <subsection eId="44-77-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Administration, after consulting with the office of administrative hearings (
+AS 44.64.010
+), shall fix a time for hearing the appeal and shall notify the claimant and the officer who approved the voucher and give them a reasonable opportunity to be heard. The hearing shall be conducted by the office of administrative hearings.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department, after the hearing, may affirm, reverse, or modify its original decision. Upon acceptance by the claimant of the decision of the department or if the claimant does not obtain judicial review as set out in (c) of this section, the department shall make a disbursement from the proper appropriation for the sum the department finds due the claimant.</p>
+              </content>
+            </subsection>
+            <subsection eId="44-77-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the claimant does not accept the decision of the Department of Administration, the claimant may obtain judicial review of the decision in accordance with
+AS 44.62.560
+ 44.62.570.  A claimant may also bring an action under
+AS 09.50.250
+ 09.50.300 at any time after one year has elapsed since the presentation of the claim under
+AS 44.77.010
+, if no decision has been made by the department.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_44-77-050">
+            <num>44.77.050</num>
+            <heading>Witnesses and procedures.</heading>
+            <content>
+              <p>Sec. 44.77.050.   Witnesses and procedures.
+The Department of Administration may hear witnesses on a question of fact involved in an appeal and may authorize the deposition of an absent witness to be taken.  The department may adopt regulations governing proceedings on appeal, and may administer oaths to witnesses appearing before it.  False testimony before the department is perjury.</p>
+            </content>
+          </section>
+          <section eId="sec_44-77-060">
+            <num>44.77.060</num>
+            <heading>Request for attorney general's opinion.</heading>
+            <content>
+              <p>Sec. 44.77.060.   Request for attorney general's opinion.
+If a question of law is involved in a case before the Department of Administration, it may request a written opinion from the attorney general.</p>
+            </content>
+          </section>
+          <section eId="sec_44-77-070">
+            <num>44.77.070</num>
+            <heading>Applicability ofAS 44.77.010 44.77.060.</heading>
+            <content>
+              <p>Sec. 44.77.070.   Applicability of
+AS 44.77.010
+ 44.77.060.
+AS 44.77.010
+ 44.77.060 do not apply to a department in the executive branch or to the legislative or judicial branches if that department or branch has adopted a mandatory claims and appeal procedure.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

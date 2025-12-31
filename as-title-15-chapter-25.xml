@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-25"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-25"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="15.25"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-25/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-25/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-25/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_15">
+        <num>15</num>
+        <heading>Elections</heading>
+        <chapter eId="title_15__chp_25">
+          <num>25</num>
+          <heading>Nomination of Candidates</heading>
+          <section eId="sec_15-25-010">
+            <num>15.25.010</num>
+            <heading>Provision for primary election.</heading>
+            <content>
+              <p>Sec. 15.25.010.   Provision for primary election.
+Candidates for the elective state executive and state and national legislative offices shall be nominated in a primary election by direct vote of the people in the manner prescribed by this chapter. The primary election does not serve to determine the nominee of a political party or political group but serves only to narrow the number of candidates whose names will appear on the ballot at the general election. Except as provided in
+AS 15.25.100
+(d), only the four candidates who receive the greatest number of votes for any office shall advance to the general election.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-014">
+            <num>15.25.014</num>
+            <heading>Participation in primary election selection of a political party's candidates.</heading>
+            <content>
+              <p>Sec. 15.25.014.   Participation in primary election selection of a political party's candidates.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-014">
+            <num>15.25.014</num>
+            <heading>Participation in primary election selection of a political party's candidates.</heading>
+            <content>
+              <p>Sec. 15.25.014.   Participation in primary election selection of a political party's candidates.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-020">
+            <num>15.25.020</num>
+            <heading>Date of primary.</heading>
+            <content>
+              <p>Sec. 15.25.020.   Date of primary.
+The primary election is held on the third Tuesday in August of every even-numbered year.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-030">
+            <num>15.25.030</num>
+            <heading>Declaration of candidacy.</heading>
+            <subsection eId="15-25-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who seeks to become a candidate in the primary election or a special primary election shall execute and file a declaration of candidacy. The declaration shall be executed under oath before an officer authorized to take acknowledgments and must state in substance</p>
+              </content>
+              <paragraph eId="15-25-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the full name of the candidate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the full mailing address of the candidate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the candidacy is for the office of state senator or state representative, the house or senate district of which the candidate is a resident;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the office for which the candidate seeks nomination;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the political party or political group with which the candidate is registered as affiliated, or whether the candidate would prefer a nonpartisan or undeclared designation placed after the candidate's name on the ballot;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the full residence address of the candidate, and the date on which residency at that address began;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the date of the primary election or special primary election at which the candidate seeks nomination;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the length of residency in the state and in the district of the candidate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>that the candidate will meet the specific citizenship requirements of the office for which the person is a candidate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>that the candidate is a qualified voter as required by law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>that the candidate will meet the specific age requirements of the office for which the person is a candidate; if the candidacy is for the office of state representative, that the candidate will be at least 21 years of age on the first scheduled day of the first regular session of the legislature convened after the election; if the candidacy is for the office of state senator, that the candidate will be at least 25 years of age on the first scheduled day of the first regular session of the legislature convened after the election; if the candidacy is for the office of governor or lieutenant governor, that the candidate will be at least 30 years of age on the first Monday in December following election or, if the office is to be filled by special election under
+AS 15.40.230
+ 15.40.310, that the candidate will be at least 30 years of age on the date of certification of the results of the special election; or, for any other office, by the time that the candidate, if elected, is sworn into office;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>that the candidate requests that the candidate's name be placed on the primary election or special primary  election ballot;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>that the required fee accompanies the declaration;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>that the person is not a candidate for any other office to be voted on at the primary or general election and that the person is not a candidate for this office under any other declaration of candidacy or nominating petition;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>the manner in which the candidate wishes the candidate's name to appear on the ballot;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>if the candidacy is for the office of the governor, the name of the candidate for lieutenant governor running jointly with the candidate for governor; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-030__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>if the candidacy is for the office of lieutenant governor, the name of the candidate for governor running jointly with the candidate for lieutenant governor.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-25-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person filing a declaration of candidacy under this section, other than a person subject to
+AS 24.60
+who is filing a declaration for a state legislative office, shall simultaneously file with the director a statement of income sources and business interests that complies with the requirements of
+AS 39.50
+. A person who is subject to
+AS 24.60
+and is filing a declaration of candidacy for state legislative office shall simultaneously file with the director a disclosure statement that complies with the requirements of
+AS 24.60.200
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An incumbent public official, other than a legislator, who has a current statement of income sources and business interests under
+AS 39.50
+on file with the Alaska Public Offices Commission, or an incumbent legislator who has a current disclosure statement under
+AS 24.60.200
+on file with the Alaska Public Offices Commission, is not required to file a statement of income sources and business interests or a disclosure statement with the declaration of candidacy under (b) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-25-040">
+            <num>15.25.040</num>
+            <heading>Manner and date of filing declaration.</heading>
+            <subsection eId="15-25-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The declaration is filed by either</p>
+              </content>
+              <paragraph eId="15-25-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the actual physical delivery of the declaration in person or by mail at or before 5:00 p.m., prevailing time, June 1 of the year in which a general election is held for the office; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>reliable electronic transmission of a copy in substance of the statements made in paragraphs (1)  (5) of the declaration as required by
+AS 15.25.030</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-25-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>at or before 5:00 p.m., prevailing time, June 1 of the year in which a general election is held for the office and also the actual physical delivery of the declaration containing paragraphs (1)  (16) as required by
+AS 15.25.030</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>by mail that is received not more than 15 days after that time.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the postmark is illegible, a dated receipt from the post office where dispatched shall be acceptable as evidence of mailing.  If June 1 is a Sunday or holiday, the deadlines for postmarking and receipt of the declaration shall be extended 24 hours in each instance.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A candidate for a statewide office or a candidate for a district-wide office shall file either with the director or an election supervisor.  If the candidate files the declaration with an election supervisor, the election supervisor shall immediately forward the declaration to the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the declaration filed under (a) of this section is not received within seven calendar days, the candidate shall be notified of nonreceipt.  The candidate shall have the opportunity to refile the declaration with proof that a previous declaration has been filed in a timely manner and in accordance with law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-25-042">
+            <num>15.25.042</num>
+            <heading>Eligibility of a candidate.</heading>
+            <subsection eId="15-25-042__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the director receives a complaint regarding the eligibility of a candidate for a particular office, the director shall determine eligibility under regulations adopted by the director.  The director shall determine the eligibility of the candidate within 30 days of the receipt of the complaint.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-042__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in (c) of this section, the director shall determine the eligibility of the candidate by a preponderance of the evidence.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-042__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a candidate for the legislature has been registered to vote at any time during the 12 months preceding the filing of the declaration of candidacy in a district other than the district in which the declaration of candidacy has been filed, the director may not determine that a candidate is eligible except under a standard of clear and convincing evidence.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-042__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person may not be a resident of two districts at the same time.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-25-043">
+            <num>15.25.043</num>
+            <heading>Determination of residency of a candidate.</heading>
+            <content>
+              <p>Sec. 15.25.043.   Determination of residency of a candidate.
+In determining the residence within a house district of a qualified voter for the purposes of compliance with art. II, sec. 2, Constitution of the State of Alaska, the director shall apply the rules established in
+AS 15.05.020
+together with the following rules:
+(1) a person establishes residence within a house district
+(A) by actual physical presence at a specific location within the district; and
+(B) by maintaining a habitation at the specific location;
+(2) a person may maintain a place of residence at a specific location within a district while away from the location for purposes of employment, education, military service, or vacation if the person does not establish residency at another location; and
+(3) a qualified voter loses residence by voting in another house district or in another state's elections.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-045">
+            <num>15.25.045</num>
+            <heading>Withdrawal of candidacy.</heading>
+            <content>
+              <p>Sec. 15.25.045.   Withdrawal of candidacy.
+Notice of withdrawal of candidacy must be in writing over the signature of the candidate.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-050">
+            <num>15.25.050</num>
+            <heading>Requirement of filing fee.</heading>
+            <subsection eId="15-25-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At the time the declaration is filed, each candidate shall pay a nonrefundable filing fee to the director.  The filing fee for candidates for office of governor, lieutenant governor, United States senator, and United States representative is $100.  The filing fee for candidates for office of state senator and state representative is $30.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An indigent person as defined by regulations adopted under
+AS 44.62
+(Administrative Procedure Act) may file a statement of indigency in the form prescribed by regulation in place of the filing fee required by this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-25-055">
+            <num>15.25.055</num>
+            <heading>Removal of name from primary ballot.</heading>
+            <content>
+              <p>Sec. 15.25.055.   Removal of name from primary ballot.
+A candidate's name must appear on the primary election ballot unless notice of the withdrawal from the primary is received by the director at least 52 days before the date of the primary election.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-056">
+            <num>15.25.056</num>
+            <heading>Nomination by party petition where incumbent dies or is disqualified or incapacitated.</heading>
+            <content>
+              <p>Sec. 15.25.056.   Nomination by party petition where incumbent dies or is disqualified or incapacitated.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-056">
+            <num>15.25.056</num>
+            <heading>Nomination by party petition where incumbent dies or is disqualified or incapacitated.</heading>
+            <content>
+              <p>Sec. 15.25.056.   Nomination by party petition where incumbent dies or is disqualified or incapacitated.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-060">
+            <num>15.25.060</num>
+            <heading>Preparation and distribution of ballots.</heading>
+            <content>
+              <p>Sec. 15.25.060.   Preparation and distribution of ballots.
+The primary election ballots shall be prepared and distributed by the director in the manner prescribed for general election ballots except as specifically provided otherwise for the primary election. The director shall prepare and provide a primary election ballot that contains all of the candidates for elective state executive and state and national legislative offices and all of the ballot titles and propositions required to appear on the ballot at the primary election. The director shall print the ballots on white paper and place the names of all candidates who have properly filed in groups according to offices. The order of the placement of the names for each office shall be as provided for the general election ballot. Blank spaces may not be provided on the ballot for the writing or pasting in of names.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-070">
+            <num>15.25.070</num>
+            <heading>No write-in vote on primary ballot.</heading>
+            <content>
+              <p>Sec. 15.25.070.   No write-in vote on primary ballot.
+A voter may not vote for a person whose name is not on the ballot. Votes cast for a person whose name is not on the ballot may not be counted, but writing in a candidate's name does not invalidate the entire ballot.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-090">
+            <num>15.25.090</num>
+            <heading>General procedure for conduct of primary election.</heading>
+            <content>
+              <p>Sec. 15.25.090.   General procedure for conduct of primary election.
+Unless specifically provided otherwise, all provisions regarding the conduct of a general election shall govern the conduct of a primary election, including provisions concerning voter qualification; provisions regarding the duties, powers, rights, and obligations of the director, of other election officials, and of cities and organized boroughs; provision for notification of the election; provisions regarding payment of election expenses; provisions regarding employees being allowed time from work to vote; provisions for the counting, review, and certification of returns; provisions for the determination of tie votes and of recount, contests, and appeal; and provisions for absentee voting.</p>
+            </content>
+          </section>
+          <section eId="sec_15-25-100">
+            <num>15.25.100</num>
+            <heading>Placement of candidates on general election ballot.</heading>
+            <subsection eId="15-25-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) - (g) of this section, of the names of candidates that appear on the primary election ballot under
+AS 15.25.010
+, the director shall place on the general election ballot only the names of the four candidates receiving the greatest number of votes for an office. For purposes of this subsection and (b) of this section, candidates for lieutenant governor and governor are treated as a single paired unit.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If two candidates tie in having the fourth greatest number of votes for an office in the primary election, the director shall determine under (g) of this section which candidate's name shall appear on the general election ballot.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided in (d) of this section, if a candidate nominated at the primary election dies, withdraws, resigns, becomes disqualified from holding office for which the candidate is nominated, or is certified as being incapacitated in the manner prescribed by this section after the primary election and 64 or more days before the general election, the vacancy shall be filled by the director by replacing the withdrawn candidate with the candidate who received the fifth most votes in the primary election.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the withdrawn, resigned, deceased, disqualified, or incapacitated candidate was a candidate for governor or lieutenant governor, the replacement candidate is selected by the following process:</p>
+              </content>
+              <paragraph eId="15-25-100__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if the withdrawn, resigned, deceased, disqualified, or incapacitated candidate was the candidate for governor, that candidate's lieutenant governor running mate becomes the candidate for governor, thereby creating a vacancy for the lieutenant governor candidate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-100__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>when any vacancy for the lieutenant governor candidate occurs, the candidate for governor shall select a qualified running mate to be the lieutenant governor candidate and notify the director of that decision.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-25-100__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The director shall place the name of the persons selected through this process as candidates for governor and lieutenant governor on the general election ballot.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-100__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>For a candidate to be certified as incapacitated under (c) of this section, a panel of three licensed physicians, not more than two of whom may be of the same party, shall provide the director with a sworn statement that the candidate is physically or mentally incapacitated to an extent that would, in the panel's judgment, prevent the candidate from active service during the term of office if elected.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-100__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If the director is unable to make a determination under this section because the candidates received an equal number of votes, the determination may be made by lot under
+AS 15.20.530
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-25-105">
+            <num>15.25.105</num>
+            <heading>Write-in candidates in the general election.</heading>
+            <subsection eId="15-25-105__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a candidate does not appear on the primary election ballot or is not successful in advancing to the general election and wishes to be a candidate in the general election, the candidate may file as a write-in candidate. Votes for a write-in candidate may not be counted unless that candidate has filed a letter of intent with the director stating</p>
+              </content>
+              <paragraph eId="15-25-105__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the full name of the candidate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the full residence address of the candidate and the date on which residency at that address began;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the full mailing address of the candidate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the political party or political group with which the candidate is registered as affiliated, or whether the candidate would prefer a nonpartisan or undeclared designation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>if the candidate is for the office of state senator or state representative, the house or senate district of which the candidate is a resident;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the office that the candidate seeks;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the date of the election at which the candidate seeks election;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the length of residency in the state and in the house district of the candidate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>the name of the candidate as the candidate wishes it to be written on the ballot by the voter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>that the candidate meets the specific citizenship requirements of the office for which the person is a candidate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>that the candidate will meet the specific age requirements of the office for which the person is a candidate; if the candidacy is for the office of state representative, that the candidate will be at least 21 years of age on the first scheduled day of the first regular session of the legislature convened after the election; if the candidacy is for the office of state senator, that the candidate will be at least 25 years of age on the first scheduled day of the first regular session of the legislature convened after the election; if the candidacy is for the office of governor or lieutenant governor, that the candidate will be at least 30 years of age on the first Monday in December following election or, if the office is to be filled by special election under
+AS 15.40.230
+ 15.40.310, that the candidate will be at least 30 years of age on the date of certification of the results of the special election; or, for any other office, by the time that the candidate, if elected, is sworn into office;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>that the candidate is a qualified voter as required by law; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-25-105__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>that the candidate is not a candidate for any other office to be voted on at the general election and that the candidate is not a candidate for this office under any other nominating petition or declaration of candidacy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-25-105__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a write-in candidate is running for the office of governor, the candidate must file a joint letter of intent together with a candidate for lieutenant governor.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-25-105__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A letter of intent under (a) of this section must be filed not later than five days before the general election.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-10"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.10"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_10">
+          <num>10</num>
+          <heading>Enforcement and Collection of Taxes</heading>
+          <section eId="sec_43-10-010">
+            <num>43.10.010</num>
+            <heading>Attorney general to prosecute violation of revenue laws.</heading>
+            <subsection eId="43-10-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The attorney general shall prosecute every civil and criminal action growing out of state revenue laws.  The costs of the action shall be paid out of the proper appropriation for the Department of Law.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-10-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The attorney general with the approval of the commissioner may retain the services of attorneys to assist in the collection of revenue where it is necessary to prosecute an action for the collection of the revenue or make efforts to collect revenue outside the state.  The commissioner may compensate the attorneys on a direct fee or contingent fee basis at a rate that the commissioner considers fair and reasonable.  If the compensation is for a direct fee the commissioner shall pay for the services from the proper appropriation for the Department of Revenue.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-10-015">
+            <num>43.10.015</num>
+            <heading>Bad checks.</heading>
+            <content>
+              <p>Sec. 43.10.015.   Bad checks.
+If a check or money order is presented to the department in payment of any amount due, and is not paid when presented to the payor, there shall be paid as a penalty by the person who tendered the check or money order, upon notice and demand by the commissioner or a delegate, the sum of $10 or an amount equal to one percent of the amount of the check or money order, whichever is greater.  This penalty is in addition to other penalties provided by law and is applicable each time the check or money order is presented to the department or the department is requested by the person tendering the check or money order to present it to the payor.  This section does not apply if the person tendered the check in good faith and with reasonable cause to believe that it would be duly paid.</p>
+            </content>
+          </section>
+          <section eId="sec_43-10-020">
+            <num>43.10.020</num>
+            <heading>Disposition of money collected from actions.</heading>
+            <content>
+              <p>Sec. 43.10.020.   Disposition of money collected from actions.
+All money derived from civil and criminal actions growing out of state revenue laws shall be deposited in the general fund.</p>
+            </content>
+          </section>
+          <section eId="sec_43-10-030">
+            <num>43.10.030</num>
+            <heading>Distraint on property extended to all state revenue statutes.</heading>
+            <content>
+              <p>Sec. 43.10.030.   Distraint on property extended to all state revenue statutes.
+The remedy of distraint on property, set out in
+AS 43.20.270
+, applies to all state revenue statutes existing or hereafter enacted for the collection of taxes and license fees.</p>
+            </content>
+          </section>
+          <section eId="sec_43-10-032">
+            <num>43.10.032</num>
+            <heading>Debt to state; enforcement.</heading>
+            <subsection eId="43-10-032__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each of the following is a debt to the state:</p>
+              </content>
+              <paragraph eId="43-10-032__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a tax levied under this title that is due and unpaid;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-10-032__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the interest, penalty, additional amount, or addition to a tax under (1) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-10-032__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a tax levied under this title that has been erroneously refunded; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-10-032__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the interest, penalty, additional amount or addition to a tax that has been erroneously refunded.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-10-032__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A debt under (a) of this section may be</p>
+              </content>
+              <paragraph eId="43-10-032__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>collected by lien foreclosure; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-10-032__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>recovered in a civil action brought by the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_43-10-035">
+            <num>43.10.035</num>
+            <heading>Lien.</heading>
+            <subsection eId="43-10-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a person who is liable to pay a tax or license fee under this title neglects or refuses to pay the tax or license fee after demand, the amount, including interest, additional amount, or assessable penalty, together with costs, is a lien in favor of the state upon all property and right to property, real or personal, belonging to that person.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-10-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless specifically provided otherwise by law, the lien imposed by this section arises at the time the assessment is made and continues until the amount assessed is paid or a judgment against the taxpayer arising out of the liability is satisfied.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-10-042">
+            <num>43.10.042</num>
+            <heading>Recording lien and certificate of discharge.</heading>
+            <subsection eId="43-10-042__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A lien imposed under
+AS 43.10.010
+ 43.10.060 is not valid as against a mortgagee or other lien holder, pledgee, purchaser, or judgment creditor until notice of it is recorded in the records of the recording district where the property subject to the lien is situated. However, regardless of the date the liens are recorded, a lien arising out of a tax due under
+AS 43.56
+and 43.75, including the penalties and interest on the tax, is a lien prior, paramount, and superior to all other liens, mortgages, hypothecations, conveyances, and assignments, upon all the real and personal property of the person liable for the tax, and upon all the real and personal property used with the permission of the owner to carry on the business that is subject to the tax.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-10-042__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>AS 40.19.040
+applies to a notice of state tax lien and documents relating to a state tax lien as well as to a notice of federal lien and documents relating to a federal lien.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-10-045">
+            <num>43.10.045</num>
+            <heading>Suspension of licenses.</heading>
+            <content>
+              <p>Sec. 43.10.045.   Suspension of licenses.
+In addition to the other penalties imposed in this title, if a person who is authorized to conduct a business by a license issued under the laws of the state fails to pay a tax levied under this title, the license of the person is suspended until the tax imposed by this title, together with interest and penalties, is paid in full.</p>
+            </content>
+          </section>
+          <section eId="sec_43-10-060">
+            <num>43.10.060</num>
+            <heading>Use as evidence.</heading>
+            <content>
+              <p>Sec. 43.10.060.   Use as evidence.
+The recording of a state tax lien certified by the recorder is evidence in all courts in the state and has the same effect as the original.</p>
+            </content>
+          </section>
+          <section eId="sec_43-10-070">
+            <num>43.10.070</num>
+            <heading>Reciprocity in collection of taxes.</heading>
+            <subsection eId="43-10-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The courts of the state shall recognize and enforce the liability for taxes lawfully imposed by the laws of every state or territory which extends a like comity in respect to the liability for taxes lawfully imposed by the laws of this state. The officials of a state or territory may bring action in the courts of this state for the collection of their taxes.  The certificate of the secretary of state of the other state or territory that the officials have the authority to collect the taxes sought to be collected by the action is conclusive proof of that authority.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-10-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The attorney general may bring action in the courts of other states or territories to collect taxes due the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-10-080">
+            <num>43.10.080</num>
+            <heading>Definition of taxes.</heading>
+            <content>
+              <p>Sec. 43.10.080.   Definition of taxes.
+In
+AS 43.10.070
+, taxes includes
+(1) tax and license assessments lawfully made, whether they are based upon a return or other disclosure of the taxpayer, upon the information and belief of the taxing authority, or otherwise;
+(2) penalties lawfully imposed under a taxing or licensing statute;
+(3) interest charges lawfully added to the tax liability which constitutes the subject of the action.</p>
+            </content>
+          </section>
+          <section eId="sec_43-10-170">
+            <num>43.10.170</num>
+            <heading>Agent for service of process.</heading>
+            <subsection eId="43-10-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Every nonresident person shall, as a condition precedent to severing or taking resources or transacting or doing business in the state, file with the commissioner of commerce, community, and economic development a duly executed and notarized instrument appointing the commissioner of commerce, community, and economic development the agent upon whom all original process may be served in any action or legal proceeding resulting from the taxpayer's failure or neglect to pay state taxes or license fees, and agreeing that service of the original process against the nonresident taxpayer is of the same effect as if personally served on the nonresident taxpayer in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-10-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The service of process shall be made by leaving a copy with the commissioner of commerce, community, and economic development. If legal action is instituted against the nonresident taxpayer, the commissioner of commerce, community, and economic development shall immediately notify the nonresident by sending a copy of the process by registered letter to the last known address of the taxpayer.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-10-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a nonresident taxpayer fails to appoint the commissioner of commerce, community, and economic development as agent for service of process, service may nevertheless be made upon the commissioner of commerce, community, and economic development, who shall then transmit a copy of the process by registered mail to the last known address of the taxpayer, and this service is binding to the same effect as if personally served on the nonresident taxpayer in the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-10-210">
+            <num>43.10.210</num>
+            <heading>Recovery of overpayments and protested payments.</heading>
+            <subsection eId="43-10-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Administration shall, with the approval of the attorney general and the Department of Revenue, refund to a taxpayer the amount of a tax paid to the Department of Revenue under protest and deposited in the treasury if</p>
+              </content>
+              <paragraph eId="43-10-210__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the taxpayer recovers judgment against the Department of Revenue for the return of the tax; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-10-210__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>in the absence of a judgment, it is obvious to the Department of Revenue that the taxpayer would obtain judgment if legal proceedings were prosecuted by the taxpayer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-10-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Administration shall refund the amount of an overpayment to a taxpayer if the Department of Revenue, on audit of the account in question, determines that a remittance by the taxpayer exceeds the amount due.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-10-210__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the department and the attorney general determine that a licensee has paid a license tax and is prevented from using the license by court order, administrative decision, or other cause beyond the control of the taxpayer, the Department of Administration shall refund the amount of the license tax to the licensee.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

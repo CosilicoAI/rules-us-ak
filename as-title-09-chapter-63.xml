@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-63"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-63"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="9.63"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-63/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-63/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-63/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-63/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_9">
+        <num>9</num>
+        <heading>Code of Civil Procedure</heading>
+        <chapter eId="title_9__chp_63">
+          <num>63</num>
+          <heading>Oath, Acknowledgment, and Other Proof</heading>
+          <section eId="sec_09-63-010">
+            <num>09.63.010</num>
+            <heading>Oath, affirmation, and acknowledgment.</heading>
+            <content>
+              <p>Sec. 09.63.010.   Oath, affirmation, and acknowledgment.
+The following persons may take an oath, affirmation, or acknowledgment in the state:
+(1) a justice, judge, or magistrate of a court of the State of Alaska or of the United States;
+(2) a clerk or deputy clerk of a court of the State of Alaska or of the United States;
+(3) a notary public;
+(4) a United States postmaster;
+(5) a commissioned officer under
+AS 09.63.050
+(4);
+(6) a municipal clerk carrying out the clerk's duties under
+AS 29.20.380
+;
+(7) the lieutenant governor when carrying out the lieutenant governor's duties under
+AS 24.05.160
+;
+(8) the presiding officer of each legislative house when carrying out the officer's duties under
+AS 24.05.170
+.</p>
+            </content>
+          </section>
+          <section eId="sec_09-63-020">
+            <num>09.63.020</num>
+            <heading>Certification of documents.</heading>
+            <subsection eId="09-63-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A matter required or authorized to be supported, evidenced, established, or proven by the sworn statement, declaration, verification, certificate, oath, or affidavit, in writing of the person making it (other than a deposition, an acknowledgment, an oath of office, or an oath required to be taken before a specified official other than a notary public) may be supported, evidenced, established, or proven by the person certifying in writing under penalty of perjury that the matter is true.  The certification shall state the date and place of execution, the fact that a notary public or other official empowered to administer oaths is unavailable, and the following:
+I certify under penalty of perjury that the foregoing is true.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-63-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who makes a false sworn certification which the person does not believe to be true under penalty of perjury is guilty of perjury.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-63-030">
+            <num>09.63.030</num>
+            <heading>Notarization.</heading>
+            <subsection eId="09-63-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a document is required by law to be notarized, the person who executes the document shall sign and swear to or affirm it before an officer authorized by law to take the person's oath or affirmation and the officer shall certify on the document that it was signed and sworn to or affirmed before the officer.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-63-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The certificate required by this section may be in substantially the following form:
+Subscribed and sworn to or affirmed before me at ______ on ____________________________________________________________________________________________________________________ (c) If the document is sworn to or affirmed before a notary public of the state, the notary public shall</p>
+              </content>
+              <paragraph eId="09-63-030__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>affix on the document the
+(A) notary public's official signature and official seal; and
+(B) date of expiration of the notary public's commission; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-63-030__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>comply with
+AS 44.50.060
+  44.50.065 and other applicable law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_09-63-040">
+            <num>09.63.040</num>
+            <heading>Verification.</heading>
+            <subsection eId="09-63-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a document is required by law to be verified, the person required to verify it shall certify under oath or affirmation that the person has read the document and believes its content to be true.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-63-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The person who makes the verification shall sign it before a person authorized by law to take the person's oath or affirmation.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-63-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A verification made under this section may be in substantially the following form:
+I _____________________________________________________ say on oath or affirm that I have read the foregoing (or attached) document and believe all statements made in the document are true._____________________________________________________Subscribed and sworn to or affirmed before me at ______ on ____________________________________________________________________________________________________________________ (d) If the verification is sworn to or affirmed before a notary public of the state, the notary public shall</p>
+              </content>
+              <paragraph eId="09-63-040__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>affix on the document the
+(A) notary public's official signature and official seal; and
+(B) date of expiration of the notary public's commission; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-63-040__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>comply with
+AS 44.50.060
+  44.50.065 and other applicable law.
+Article 2. Uniform Recognition of Acknowledgments Act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_09-63-050">
+            <num>09.63.050</num>
+            <heading>Recognition of notarial acts performed outside the state.</heading>
+            <content>
+              <p>Sec. 09.63.050.   Recognition of notarial acts performed outside the state.
+Notarial acts may be performed outside the state for use in the state with the same effect as if performed by a notary public of the state by
+(1) a notary public authorized to perform notarial acts in the place in which the act is performed;
+(2) a justice, judge, magistrate, clerk, or deputy clerk of a court of record in the place in which the notarial act is performed;
+(3) an officer of the foreign service of the United States, a consular agent, or a person authorized by regulation of the United States Department of State to perform notarial acts in the place in which the act is performed;
+(4) a commissioned officer in active service with the armed forces of the United States or a person authorized by regulation of the armed forces to perform notarial acts if the notarial act is performed for a merchant seaman of the United States, a member of the armed forces of the United States, a person serving with or accompanying the armed forces of the United States, or their dependents; or
+(5) a person authorized to perform notarial acts in the place in which the act is performed.</p>
+            </content>
+          </section>
+          <section eId="sec_09-63-060">
+            <num>09.63.060</num>
+            <heading>Authentication of authority of officer.</heading>
+            <subsection eId="09-63-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the notarial act is performed by a person described in
+AS 09.63.050</p>
+              </content>
+              <paragraph eId="09-63-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p> (4) other than a person authorized to perform notarial acts by the laws or regulations of a foreign country, the signature, rank or title and, if appropriate, the serial number of the person are sufficient proof of the authority of a person to perform the act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-63-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the notarial act is performed by a person authorized by the laws or regulations of a foreign country to perform the act, there is sufficient proof of the authority of that person to act if</p>
+              </content>
+              <paragraph eId="09-63-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>either a foreign service officer of the United States resident in the country in which the act is performed or a diplomatic or consular officer of the foreign country resident in the United States certifies that a person holding that office is authorized to perform the act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-63-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the official seal of the person performing the notarial act is affixed to the document; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-63-060__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the title and indication of authority to perform notarial acts of the person appear either in a digest of foreign law or in a list customarily used as a source of that information.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-63-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the notarial act is performed by a person other than a person described in this section, there is sufficient proof of the authority of the person to act if the clerk of a court of record in the place in which the notarial act is performed certifies to the official character of the person and to the person's authority to perform the notarial act.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-63-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The signature and title of the person performing the act are prima facie evidence that the person has the designated title and that the signature is genuine.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-63-070">
+            <num>09.63.070</num>
+            <heading>Certificate of person taking acknowledgment.</heading>
+            <content>
+              <p>Sec. 09.63.070.   Certificate of person taking acknowledgment.
+The person taking an acknowledgment shall certify that
+(1) the person acknowledging appeared before the person taking the acknowledgment and acknowledged that the person executed the instrument; and
+(2) the person acknowledging was known to the person taking the acknowledgment or the person taking the acknowledgment had satisfactory evidence that the person acknowledging was the person described in and who executed the instrument.</p>
+            </content>
+          </section>
+          <section eId="sec_09-63-080">
+            <num>09.63.080</num>
+            <heading>Recognition of certificate of acknowledgment.</heading>
+            <content>
+              <p>Sec. 09.63.080.   Recognition of certificate of acknowledgment.
+The form of a certificate of acknowledgment used by a person whose authority is recognized under
+AS 09.63.010
+or 09.63.050 shall be accepted in the state if
+(1) the certificate is in a form prescribed by the laws or regulations of the state;
+(2) the certificate is in a form prescribed by the laws or regulations applicable in the place in which the acknowledgment is taken; or
+(3) the certificate contains the words acknowledged before me or their substantial equivalent.</p>
+            </content>
+          </section>
+          <section eId="sec_09-63-090">
+            <num>09.63.090</num>
+            <heading>Certificate of acknowledgment.</heading>
+            <subsection eId="09-63-090__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a natural person, acknowledged that the person executed the instrument for the purposes stated in it;
+(ii) an officer or agent of a corporation, acknowledged that the person held the position or title set out in the instrument and certificate, acknowledged that the person signed the instrument on behalf of the corporation by proper authority, and acknowledged that the instrument was the act of the corporation for the purposes stated in it;
+(iii) a member or manager of a limited liability company, acknowledged that the individual signed the instrument on behalf of the limited liability company by proper authority and executed the instrument as the act of the limited liability company for the purposes stated in it;
+(iv) a partner or agent of a partnership, limited partnership, or limited liability partnership, acknowledged that the person signed the instrument on behalf of the partnership by proper authority and executed the instrument as the act of the partnership for the purposes stated in it;</p>
+              </content>
+            </subsection>
+            <subsection eId="09-63-090__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>a person acknowledging as a principal by an attorney-in-fact, acknowledged that the person executed the instrument by proper authority as the act of the principal for the purposes stated in it;
+(vi) a person acknowledging as a public officer, trustee, administrator, guardian, or other representative, acknowledged that the person signed the instrument in the capacity and for the purposes stated in it; and</p>
+              </content>
+              <paragraph eId="09-63-090__subsec_v__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the person taking the acknowledgment either knew or had satisfactory evidence that the person acknowledging is the person named in the instrument or certificate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_09-63-100">
+            <num>09.63.100</num>
+            <heading>Forms of acknowledgment.</heading>
+            <subsection eId="09-63-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The forms of acknowledgment set out in this subsection may be used and are sufficient for their respective purposes under a law of the state. The authorization of the forms in this section does not preclude the use of other forms.</p>
+              </content>
+              <paragraph eId="09-63-100__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>For an individual acting in the individual's own right:
+State of ___________________ __________________________________ Judicial District (or County of __________________________________ or Municipality of  __________________________________)  The foregoing instrument was acknowledged before me this (date) by (name of  person who acknowledged).
+Signature of Person Taking
+Acknowledgment
+Title or Rank
+Serial Number, if any</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-63-100__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>For a corporation:
+State of _____________________________________________________ Judicial District (or County of __________________________________ or Municipality of  __________________________________)  The foregoing instrument was acknowledged before me this (date) by (name of officer or agent, title of officer or agent) of (name of corporation acknowledging) a (state or place of incorporation) corporation, on behalf of the corporation.
+Signature of Person Taking
+Acknowledgment
+Title or Rank
+Serial Number, if any</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-63-100__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>For a limited liability company:
+State of ___________________ __________________________________ Judicial District (or County of __________________________________ or Municipality of  __________________________________)  The foregoing instrument was acknowledged before me this (date) by (name of member or manager), member (or manager) of (name of limited liability company acknowledging) a (state or place of organization) limited liability company, on behalf of the limited liability company.
+Signature of Person Taking
+Acknowledgment
+Member (or Manager)
+Serial Number, if any</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-63-100__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>For a partnership:
+State of ___________________ __________________________________ Judicial District (or County of __________________________________ or Municipality of  __________________________________)  The foregoing instrument was acknowledged before me this (date) by (name of acknowledging partner or agent), partner (or agent) on behalf of (name of partnership), a (partnership, limited partnership, or limited liability partnership).
+Signature of Person Taking
+Acknowledgment
+Title or Rank
+Serial Number, if any</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-63-100__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>For an individual acting as principal by an attorney-in-fact:
+State of _____________________________________________________ Judicial District (or County of __________________________________ or Municipality of  __________________________________)  The foregoing instrument was acknowledged before me this (date) by (name of attorney-in-fact) as attorney-in-fact on behalf of (name of principal).
+Signature of Person Taking
+Acknowledgment
+Title or Rank
+Serial Number, if any</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-63-100__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>By a public officer, trustee, or personal representative:
+State of ___________________ __________________________________ Judicial District (or County of __________________________________ or Municipality of  __________________________________)  The foregoing instrument was acknowledged before me this (date) by (name and title of position).
+Signature of Person Taking
+Acknowledgment
+Title or Rank
+Serial Number, if any</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-63-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a document is acknowledged before a notary public of the state, the notary public shall</p>
+              </content>
+              <paragraph eId="09-63-100__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>affix on the document the
+(A) notary public's official signature and official seal; and
+(B) date of expiration of the notary public's commission; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-63-100__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>comply with
+AS 44.50.060
+ 44.50.065 and other law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_09-63-110">
+            <num>09.63.110</num>
+            <heading>Uniformity of interpretation.</heading>
+            <content>
+              <p>Sec. 09.63.110.   Uniformity of interpretation.
+AS 09.63.050
+ 09.63.130 shall be interpreted as to make uniform the laws of those states which enact them.</p>
+            </content>
+          </section>
+          <section eId="sec_09-63-120">
+            <num>09.63.120</num>
+            <heading>Definition.</heading>
+            <content>
+              <p>Sec. 09.63.120.   Definition.
+In
+AS 09.63.010
+ 09.63.130, notarial acts means acts that the laws and regulations of the state authorize notaries public of the state to perform, including the administering of oaths and affirmations, taking proof of execution and acknowledgment of instruments, and attesting documents.</p>
+            </content>
+          </section>
+          <section eId="sec_09-63-130">
+            <num>09.63.130</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 09.63.130.   Short title.
+AS 09.63.050
+ 09.63.130 may be cited as the Uniform Recognition of Acknowledgments Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

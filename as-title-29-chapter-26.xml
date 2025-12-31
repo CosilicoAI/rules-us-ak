@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-26"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-26"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="29.26"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-26/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-26/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-26/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-26/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_29">
+        <num>29</num>
+        <heading>Municipal Government</heading>
+        <chapter eId="title_29__chp_26">
+          <num>26</num>
+          <heading>Elections</heading>
+          <section eId="sec_29-26-010">
+            <num>29.26.010</num>
+            <heading>Administration.</heading>
+            <subsection eId="29-26-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governing body shall prescribe the rules for conducting an election.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For an election in which voters cast ballots at polling places in their precincts, the governing body shall appoint an election board composed of at least three judges for each precinct. If the governing body appoints an election board, a judge shall be a voter of the precinct for which appointed unless no voter is willing to serve.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-020">
+            <num>29.26.020</num>
+            <heading>Nominations.</heading>
+            <subsection eId="29-26-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to other provisions of this title, the governing body shall provide by ordinance for nominations of elected officials by providing for declaration of candidacy or for petition requiring the signatures of not more than 10 voters, or for both.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may be nominated for and occupy more than one office, but may not serve simultaneously as borough mayor and as a member of the assembly or, in a first class city, as city mayor and as a member of the council.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-030">
+            <num>29.26.030</num>
+            <heading>Notice of elections.</heading>
+            <subsection eId="29-26-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to other provisions of this title, a municipality shall give at least 20 days notice of an election.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section applies to home rule and general law municipalities.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-040">
+            <num>29.26.040</num>
+            <heading>Date of regular election.</heading>
+            <content>
+              <p>Sec. 29.26.040.   Date of regular election.
+The date of a regular election is the first Tuesday of October annually, unless a different date or interval of years is provided by ordinance.</p>
+            </content>
+          </section>
+          <section eId="sec_29-26-050">
+            <num>29.26.050</num>
+            <heading>Voter qualification.</heading>
+            <subsection eId="29-26-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may vote in a municipal election only if the person</p>
+              </content>
+              <paragraph eId="29-26-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is qualified to vote in state elections under
+AS 15.05.010
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has been a resident of the municipality for 30 days immediately preceding the election;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-050__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>is registered to vote in state elections at a residence address within a municipality at least 30 days before the municipal election at which the person seeks to vote; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-050__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is not disqualified under art. V of the state constitution.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-26-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Voter registration by the municipality may not be required. However, in order to vote for a candidate or on a ballot measure relating to a specific local election district or service area, a municipality may by ordinance require that a person be registered to vote in state elections at least 30 days before the municipal election at an address within the boundaries of that local election district or service area. The municipality has the responsibility to determine if a voter meets the requirements of the ordinance and this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>This section applies to home rule and general law municipalities.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-060">
+            <num>29.26.060</num>
+            <heading>Runoff elections.</heading>
+            <subsection eId="29-26-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless otherwise provided by ordinance, a runoff election shall be held if no candidate receives over 40 percent of the votes cast for the office of</p>
+              </content>
+              <paragraph eId="29-26-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>mayor; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>member of the governing body or school board if candidates run for a designated seat.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-26-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless otherwise provided by ordinance, if candidates for the governing body or school board run at large, a runoff election for a seat shall be held if no candidate receives a number of votes greater than 40 percent of the total votes cast for all candidates divided by the number of seats to be filled.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless otherwise provided by ordinance, a runoff election shall be held within three weeks after the date of certification of the election for which a runoff is required, and notice of the runoff election shall be published at least five days before the election date.  The runoff election shall be between the two candidates receiving the greatest number of votes for the seat.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-070">
+            <num>29.26.070</num>
+            <heading>Election contest and appeal.</heading>
+            <subsection eId="29-26-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governing body may provide by ordinance the time and procedure for the contest of an election.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless otherwise provided by ordinance, an election may be contested only by a voter by filing a written affidavit with the municipal clerk specifying with particularity the grounds for the contest.  An election may be contested before or during the first canvass of ballots by the governing body.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless otherwise provided by ordinance, the governing body shall declare the election results at the first meeting to canvass the election, record the results in the minutes of that meeting, and authorize the results to be certified.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A contestant shall pay all costs and expenses incurred in a recount of an election demanded by the contestant if the recount fails to reverse a result of the election, or the difference between the winning and losing vote on the result contested is more than two percent.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-070__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person may not appeal or seek judicial review of an election for any cause unless the person is a voter, has exhausted all administrative remedies before the governing body, and has commenced, within 10 days after the governing body has declared the election results, an action in the superior court in the judicial district in which the municipality is located.  If court action is not commenced within the 10-day period, the election and election results are conclusive and valid.
+Article 2. Initiative and Referendum.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-100">
+            <num>29.26.100</num>
+            <heading>Reservation of powers.</heading>
+            <content>
+              <p>Sec. 29.26.100.   Reservation of powers.
+The powers of initiative and referendum are reserved to the residents of municipalities, except the powers do not extend to matters restricted by art. XI, § 7 of the Constitution of the State of Alaska.</p>
+            </content>
+          </section>
+          <section eId="sec_29-26-110">
+            <num>29.26.110</num>
+            <heading>Application for petition.</heading>
+            <subsection eId="29-26-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An initiative or referendum is proposed by filing an application with the municipal clerk containing the ordinance or resolution to be initiated or the ordinance or resolution to be referred and the name and address of a contact person and an alternate to whom all correspondence relating to the petition may be sent. An application shall be signed by at least 10 voters who will sponsor the petition. An additional sponsor may be added at any time before the petition is filed by submitting the name of the sponsor to the clerk.  Within two weeks the clerk shall certify the application if the clerk finds that it is in proper form and, for an initiative petition, that the matter</p>
+              </content>
+              <paragraph eId="29-26-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is not restricted by
+AS 29.26.100
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>includes only a single subject;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>relates to a legislative rather than to an administrative matter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-110__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>would be enforceable as a matter of law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-26-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A decision by the clerk on an application for petition is subject to judicial review.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-120">
+            <num>29.26.120</num>
+            <heading>Contents of petition.</heading>
+            <subsection eId="29-26-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within two weeks after certification of an application for an initiative or referendum petition, a petition shall be prepared by the municipal clerk.  Each copy of the petition must contain</p>
+              </content>
+              <paragraph eId="29-26-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a summary of the ordinance or resolution to be initiated or the ordinance or resolution to be referred;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the complete ordinance or resolution sought to be initiated or referred as submitted by the sponsors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the date on which the petition is issued by the clerk;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-120__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>notice that signatures must be secured within 90 days after the date the petition is issued;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-120__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>spaces for each signature, the printed name of each signer, the date each signature is affixed, and the residence and mailing addresses of each signer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-120__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a statement, with space for the sponsor's sworn signature and date of signing, that the sponsor personally circulated the petition, that all signatures were affixed in the presence of the sponsor, and that the sponsor believes the signatures to be those of the persons whose names they purport to be; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-120__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>space for indicating the total number of signatures on the petition.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-26-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a petition consists of more than one page, each page must contain the summary of the ordinance or resolution to be initiated or the ordinance or resolution to be referred.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The clerk shall notify the contact person in writing when the petition is available. The contact person is responsible for notifying sponsors. Copies of the petition shall be provided by the clerk to each sponsor who appears in the clerk's office and requests a petition, and the clerk shall mail the petition to each sponsor who requests that the petition be mailed.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-130">
+            <num>29.26.130</num>
+            <heading>Signature requirements.</heading>
+            <subsection eId="29-26-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The signatures on an initiative or referendum petition shall be secured within 90 days after the clerk issues the petition.  The statement provided under
+AS 29.26.120
+(a)(6) shall be signed and dated by the sponsor. Signatures shall be in ink or indelible pencil.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The clerk shall determine the number of signatures required on a petition and inform the contact person in writing. Except as provided in (e) of this section, a petition shall be signed by a number of voters based on the number of votes cast at the last regular election held before the date written notice is given to the contact person that the petition is available, equal to</p>
+              </content>
+              <paragraph eId="29-26-130__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>25 percent of the votes cast if a municipality has fewer than 7,500 persons; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-130__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>15 percent of the votes cast if a municipality has 7,500 persons or more.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-26-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Illegible signatures shall be rejected by the clerk unless accompanied by a legible printed name. Signatures not accompanied by a legible residence address shall be rejected.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A petition signer may withdraw the signer's signature on written application to the clerk before certification of the petition.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-130__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the ordinance or resolution that is the subject of an initiative or referendum petition affects only an area that is less than the entire area of a municipality, only voters residing in the affected area may sign the petition. The clerk shall determine the number of signatures required on the petition and inform the contact person in writing. The petition shall be signed by a number of voters based on the number of votes cast in that area at the last regular election held before the date written notice is given to the contact person that the petition is available equal to</p>
+              </content>
+              <paragraph eId="29-26-130__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>25 percent of the votes cast if the area has fewer than 7,500 persons; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-130__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>15 percent of the votes cast if the area has 7,500 persons or more.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-140">
+            <num>29.26.140</num>
+            <heading>Sufficiency of petition.</heading>
+            <subsection eId="29-26-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All copies of an initiative or referendum petition shall be assembled and filed as a single instrument. Within 10 days after the date the petition is filed, the municipal clerk shall</p>
+              </content>
+              <paragraph eId="29-26-140__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>certify on the petition whether it is sufficient; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-140__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the petition is insufficient, identify the insufficiency and notify the contact person by certified mail.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-26-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A petition that is insufficient may be supplemented with additional signatures obtained and filed before the 11th day after the date on which the petition is rejected.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A petition that is insufficient shall be rejected and filed as a public record unless it is supplemented under (b) of this section.  Within 10 days after a supplementary filing the clerk shall recertify the petition.  If it is still insufficient, the petition is rejected and filed as a public record.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-150">
+            <num>29.26.150</num>
+            <heading>Protest.</heading>
+            <content>
+              <p>Sec. 29.26.150.   Protest.
+If the municipal clerk certifies that an initiative or referendum petition is insufficient, a signer of the petition may file a protest with the mayor within seven days after the certification.  The mayor shall present the protest at the next regular meeting of the governing body. The governing body shall hear and decide the protest.</p>
+            </content>
+          </section>
+          <section eId="sec_29-26-160">
+            <num>29.26.160</num>
+            <heading>New petition.</heading>
+            <content>
+              <p>Sec. 29.26.160.   New petition.
+Failure to secure sufficient signatures does not preclude the filing of a new initiative or referendum petition.  However, a new petition on substantially the same matter may not be filed sooner than six months after a petition is rejected as insufficient.</p>
+            </content>
+          </section>
+          <section eId="sec_29-26-170">
+            <num>29.26.170</num>
+            <heading>Initiative election.</heading>
+            <subsection eId="29-26-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless substantially the same measure is adopted, when a petition seeks an initiative vote, the clerk shall submit the matter to the voters at the next regular election or, if already scheduled, special election occurring not sooner than 60 days after certification of the petition. If no election is scheduled to occur within 75 days after the certification of a petition and the governing body determines it is in the best interest of the municipality, the governing body may by ordinance order a special election to be held on the matter before the next election that is already scheduled, but not sooner than 60 days after certification of the petition.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the governing body adopts substantially the same measure, the petition is void, and the matter initiated may not be placed before the voters.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The ordinance or resolution initiated shall be published in full in the notice of the election, but may be summarized on the ballot to indicate clearly the proposal submitted.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-170__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a majority vote favors the ordinance or resolution, it becomes effective upon certification of the election, unless a different effective date is provided in the ordinance or resolution.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-180">
+            <num>29.26.180</num>
+            <heading>Referendum election.</heading>
+            <subsection eId="29-26-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless the ordinance or resolution is repealed, when a petition seeks a referendum vote, the clerk shall submit the matter to the voters at the next regular election or, if already scheduled, special election occurring not sooner than 60 days after certification of the petition. If no election is scheduled to occur within 75 days after certification of a petition and the governing body determines it is in the best interest of the municipality, the governing body may by ordinance order a special election to be held on the matter before the next election that is already scheduled, but not sooner than 60 days after certification of the petition.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a petition is certified before the effective date of the matter referred, the ordinance or resolution against which the petition is filed shall be suspended pending the referendum vote. During the period of suspension, the governing body may not enact an ordinance or resolution substantially similar to the suspended measure.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the governing body repeals the ordinance or resolution before the referendum election, the petition is void and the matter referred shall not be placed before the voters.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-180__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a majority vote favors the repeal of the matter referred, it is repealed.  Otherwise, the matter referred remains in effect or, if it has been suspended, becomes effective on certification of the election.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-190">
+            <num>29.26.190</num>
+            <heading>Effect.</heading>
+            <subsection eId="29-26-190__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The effect of an ordinance or resolution may not be modified or negated within two years after its effective date if adopted in an initiative election or if adopted after a petition that contains substantially the same measure has been filed.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-190__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an ordinance or resolution is repealed in a referendum election or by the governing body after a petition that contains substantially the same measure has been filed, substantially similar legislation may not be enacted by the governing body for a period of two years.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-190__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If an initiative or referendum measure fails to receive voter approval, a new petition application for substantially the same measure may not be filed sooner than six months after the election results are certified.
+Article 3. Recall.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-240">
+            <num>29.26.240</num>
+            <heading>Recall.</heading>
+            <content>
+              <p>Sec. 29.26.240.   Recall.
+An official who is elected or appointed to an elective municipal office may be recalled by the voters after the official has served the first 120 days of the term for which elected or appointed.</p>
+            </content>
+          </section>
+          <section eId="sec_29-26-250">
+            <num>29.26.250</num>
+            <heading>Grounds for recall.</heading>
+            <content>
+              <p>Sec. 29.26.250.   Grounds for recall.
+Grounds for recall are misconduct in office, incompetence, or failure to perform prescribed duties.</p>
+            </content>
+          </section>
+          <section eId="sec_29-26-260">
+            <num>29.26.260</num>
+            <heading>Application for recall petition.</heading>
+            <subsection eId="29-26-260__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An application for a recall petition shall be filed with the municipal clerk and must contain</p>
+              </content>
+              <paragraph eId="29-26-260__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the signatures and residence addresses of at least 10 municipal voters who will sponsor the petition;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-260__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the name and address of the contact person and an alternate to whom all correspondence relating to the petition may be sent; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-260__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a statement in 200 words or less of the grounds for recall stated with particularity.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-26-260__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An additional sponsor may be added at any time before the petition is filed by submitting the name of the sponsor to the clerk.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-270">
+            <num>29.26.270</num>
+            <heading>Recall petition.</heading>
+            <subsection eId="29-26-270__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the municipal clerk determines that an application for a recall petition meets the requirements of
+AS 29.26.260
+, the clerk shall prepare a recall petition. All copies of the petition must contain</p>
+              </content>
+              <paragraph eId="29-26-270__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name of the official sought to be recalled;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-270__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the statement of the grounds for recall as set out in the application for petition;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-270__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the date the petition is issued by the clerk;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-270__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>notice that signatures must be secured within 60 days after the date the petition is issued;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-270__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>spaces for each signature, the printed name of each signer, the date of each signature, and the residence and mailing addresses of each signer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-270__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a statement, with space for the sponsor's sworn signature and date of signing, that the sponsor personally circulated the petition, that all signatures were affixed in the presence of the sponsor, and that the sponsor believes the signatures to be those of the persons whose names they purport to be; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-270__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>space for indicating the number of signatures on the petition.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-26-270__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The clerk shall notify the contact person in writing when the petition is available. That person is responsible for notifying sponsors. Copies of the petition shall be provided by the clerk to each sponsor who appears in the clerk's office and requests a petition, and the clerk shall mail the petition to each sponsor who requests that the petition be mailed.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-280">
+            <num>29.26.280</num>
+            <heading>Signature requirements.</heading>
+            <subsection eId="29-26-280__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The signatures on a recall petition shall be secured within 60 days after the date the clerk issues the petition.  The statement provided under
+AS 29.26.270
+(a)(6) shall be completed and signed by the sponsor. Signatures shall be in ink or indelible pencil.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-280__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The clerk shall determine the number of signatures required on a petition and inform the contact person in writing. If a petition seeks to recall an official who represents the municipality at large, the petition shall be signed by a number of voters equal to 25 percent of the number of votes cast for that office at the last regular election held before the date written notice is given to the contact person that the petition is available. If a petition seeks to recall an official who represents a district, the petition shall be signed by a number of the voters residing in the district equal to 25 percent of the number of votes cast in the district for that office at the last regular election held before the date the written notice is given to the contact person that the petition is available.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-280__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Illegible signatures shall be rejected by the clerk unless accompanied by a legible printed name. Signatures not accompanied by a legible residence shall be rejected.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-280__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A petition signer may withdraw the signer's signature upon written application to the clerk before certification of the petition.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-290">
+            <num>29.26.290</num>
+            <heading>Sufficiency of petition.</heading>
+            <subsection eId="29-26-290__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The copies of a recall petition shall be assembled and filed as a single instrument. A petition may not be filed within 180 days before the end of the term of office of the official sought to be recalled. Within 10 days after the date a petition is filed, the municipal clerk shall</p>
+              </content>
+              <paragraph eId="29-26-290__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>certify on the petition whether it is sufficient; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-290__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the petition is insufficient, identify the insufficiency and notify the contact person by certified mail.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-26-290__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A petition that is insufficient may be supplemented with additional signatures obtained and filed before the 11th day after the date on which the petition is rejected if</p>
+              </content>
+              <paragraph eId="29-26-290__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the petition contains an adequate number of signatures, counting both valid and invalid signatures; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-26-290__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the supplementary petition is filed more than 180 days before the end of the term of office of the official sought to be recalled.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-26-290__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A petition that is insufficient shall be rejected and filed as a public record unless it is supplemented under (b) of this section.  Within 10 days after the supplementary filing the clerk shall recertify the petition.  If it is still insufficient, the petition is rejected and filed as a public record.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-300">
+            <num>29.26.300</num>
+            <heading>New recall petition application.</heading>
+            <content>
+              <p>Sec. 29.26.300.   New recall petition application.
+A new application for a petition to recall the same official may not be filed sooner than six months after a petition is rejected as insufficient.</p>
+            </content>
+          </section>
+          <section eId="sec_29-26-310">
+            <num>29.26.310</num>
+            <heading>Submission.</heading>
+            <content>
+              <p>Sec. 29.26.310.   Submission.
+If a recall petition is sufficient, the clerk shall submit it to the governing body at the next regular meeting or at a special meeting held before the next regular meeting.</p>
+            </content>
+          </section>
+          <section eId="sec_29-26-320">
+            <num>29.26.320</num>
+            <heading>Election.</heading>
+            <subsection eId="29-26-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a regular election occurs within 75 days but not sooner than 45 days after submission of the petition to the governing body, the governing body shall submit the recall at that election.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If no regular election occurs within 75 days, the governing body shall hold a special election on the recall question within 75 days but not sooner than 45 days after a petition is submitted to the governing body.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-320__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a vacancy occurs in the office after a sufficient recall petition is filed with the clerk, the recall question may not be submitted to the voters.  The governing body may not appoint to the same office an official who resigns after a sufficient recall petition is filed naming that official.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-330">
+            <num>29.26.330</num>
+            <heading>Form of recall ballot.</heading>
+            <content>
+              <p>Sec. 29.26.330.   Form of recall ballot.
+A recall ballot must contain
+(1) the grounds for recall as stated in 200 words or less on the recall petition;
+(2) a statement by the official named on the recall petition of 200 words or less, if the statement is filed with the clerk for publication and public inspection at least 20 days before the election;
+(3) the following question: Shall (name of person) be recalled from the office of (office)? Yes [ ] No [ ].</p>
+            </content>
+          </section>
+          <section eId="sec_29-26-340">
+            <num>29.26.340</num>
+            <heading>Effect.</heading>
+            <subsection eId="29-26-340__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a majority vote favors recall, the office becomes vacant upon certification of the recall election.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-340__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an official is not recalled at the election, an application for a petition to recall the same official may not be filed sooner than six months after the election.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-350">
+            <num>29.26.350</num>
+            <heading>Successors.</heading>
+            <subsection eId="29-26-350__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If an official is recalled from the governing body, the office of that official is filled in accordance with
+AS 29.20.180
+. If all members of the governing body are recalled, the governor shall appoint three qualified persons to the governing body. The appointees shall appoint additional members to fill remaining vacancies in accordance with
+AS 29.20.180
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-350__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a member of the school board is recalled, the office of that member is filled in accordance with
+AS 14.12.070
+. If all members are recalled from a school board, the governor shall appoint three qualified persons to the school board.  The appointees shall appoint additional members to fill remaining vacancies in accordance with
+AS 14.12.070
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-350__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who has been recalled may not be appointed under (a) or (b) of this section to the office from which the person was recalled. A person appointed under (a) or (b) of this section serves until a successor is elected and takes office.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-350__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If an official other than a member of the governing body or school board is recalled, a successor shall be elected to fill the unexpired portion of the term. The election shall be held not more than 60 days after the date the recall election is certified, except that if a regular election occurs within 75 days after certification the successor shall be chosen at that election.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-26-350__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Nominations for a successor may be filed until seven days before the last date on which a first notice of the election must be given. Nominations may not be filed before the certification of the recall election.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-26-360">
+            <num>29.26.360</num>
+            <heading>Application.</heading>
+            <content>
+              <p>Sec. 29.26.360.   Application.
+AS 29.26.250
+  29.26.360 apply to home rule and general law municipalities.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

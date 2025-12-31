@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-35"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-35"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="46.35"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-35/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-35/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-46/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-46/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_46">
+        <num>46</num>
+        <heading>Water, Air, Energy, and Environmental Conservation</heading>
+        <chapter eId="title_46__chp_35">
+          <num>35</num>
+          <heading>Permit Extension</heading>
+          <section eId="sec_46-35-300">
+            <num>46.35.300</num>
+            <heading>Extension of resource extraction or removal related permits.</heading>
+            <subsection eId="46-35-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department that issued the permit shall extend a resource removal or extraction permit when the permittee</p>
+              </content>
+              <paragraph eId="46-35-300__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is unwilling to engage in the resource removal or extraction activity allowed under the permit due to the actions of another person, other than the state, seeking administrative or judicial review of the issuance or validity of the permit or another permit, or a permit, lease, authorization, or license issued by the federal government, relating to the same resource removal or extraction activity; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-35-300__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>at the conclusion of the legal proceedings is allowed to proceed with the resource removal or extraction activity.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-35-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A department may not extend a permit under (a) of this section</p>
+              </content>
+              <paragraph eId="46-35-300__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>unless
+(A) the permittee notifies the department that issued the permit of the legal proceedings and provides a sworn statement that the permittee is unwilling to engage in the permitted activity due to the proceedings; and
+(B) upon the conclusion of the legal proceedings, the permittee notifies the department of the conclusion of the proceedings and the outcome of the proceedings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-35-300__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for any period that the permittee has engaged in the resource removal or extraction activity authorized under the permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-35-300__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the extension is prohibited by or otherwise inconsistent with federal law applicable to the permitted activity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-35-300__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>if another provision of state law, or a regulation, or contractual provision authorizes an extension, or otherwise stays the running, of the permit.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="46-35-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A permittee receiving an extension of a permit under this section is subject to the rights, conditions, and liabilities the permittee would have had under the original permit if the permit had not been extended.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-35-300__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An extension of a permit under this section may only be for the length of time equivalent to the period from the date the department receives the notice and sworn statement under (b) of this section until the conclusion of the legal proceedings that allow the permittee to engage in the resource removal or extraction activity.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-35-300__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The Department of Environmental Conservation, the Department of Fish and Game, and the Department of Natural Resources shall adopt regulations to implement this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="46-35-300__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="46-35-300__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>legal proceedings means, as appropriate, administrative proceedings not followed by judicial proceedings, administrative proceedings followed by judicial proceedings, or judicial proceedings not preceded by administrative proceedings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="46-35-300__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>permit means a permit, lease, authorization, license, or another determination necessary for or related to resource extraction or removal that is issued by the Department of Environmental Conservation, the Department of Fish and Game, or the Department of Natural Resources.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

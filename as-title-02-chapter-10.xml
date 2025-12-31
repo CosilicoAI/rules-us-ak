@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-10"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="2.10"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_2">
+        <num>2</num>
+        <heading>Aeronautics</heading>
+        <chapter eId="title_2__chp_10">
+          <num>10</num>
+          <heading>Aeronautics and Communication</heading>
+          <section eId="sec_02-10-010">
+            <num>02.10.010</num>
+            <heading>Supervision over aeronautics and communication; regulations.</heading>
+            <subsection eId="02-10-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Transportation and Public Facilities shall supervise aeronautics and communications inside the state, and shall make recommendations for the establishment, location, maintenance, operation, and use of airports, landing fields, air markings, air beacons, and other navigation facilities.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-10-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall, whenever it considers the action necessary in the interest of general safety or the safety of those engaged in aeronautics, adopt regulations establishing minimum standards with which all air navigation facilities shall comply, and shall adopt and enforce regulations to safeguard from accident and to protect the safety of persons operating or using aircraft and persons and property on the ground, and to develop and promote aeronautics and communications in the state. However, the regulations may not duplicate or conflict with the aeronautical and communications regulations adopted by the United States Department of Transportation or the Federal Communications Commission.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-10-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall adopt regulations governing the proper protection of the records of the proceedings of the department and the filing and publicizing of its regulations so that they are accessible to and generally known by the interested public.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_02-10-040">
+            <num>02.10.040</num>
+            <heading>Regulations governing radio ground stations.</heading>
+            <content>
+              <p>Sec. 02.10.040.   Regulations governing radio ground stations.
+The department shall adopt regulations governing the following:
+(1) the establishment of ground radio transmitters, adapted to the use of phone or code, of the power and on the frequencies needed, and for which permits can be obtained from the Federal Communications Commission, at or in the cities of Ketchikan, Juneau, Cordova, Anchorage, Fairbanks, and Nome, or as many of the cities as the department considers necessary for thorough communications coverage;
+(2) the establishment of schedules for operation of the ground stations, together with the necessary arrangements for the stations to receive weather and other data available through other communication agencies;
+(3) the use of the ground stations for commercial purposes, other than aviation, where no other communications service is available, provided that commercial use shall be limited to communications to the nearest United States Signal Corps station, or to its destination where no Signal Corps station is located;
+(4) other uses to which the ground stations can be put, on the frequencies, and under the licenses, on which they are authorized to operate;
+(5) the proper protection of the records of the proceedings of the department and the filing and publicizing of its regulations so that they are accessible to and generally known by the interested public;
+(6) the fixing of tolls to be charged for use of ground stations for commercial purposes, and the manner and method of accounting for the tolls;
+(7) the establishment of additional radio telephone stations, or the relocation of stations already established, which, in the opinion of the department are necessary, and from which the benefits and advantages expected to be derived, justify the cost of installation and maintenance.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

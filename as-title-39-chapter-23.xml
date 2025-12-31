@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-39/chapter-23"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-39/chapter-23"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="39.23"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-39/chapter-23/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-39/chapter-23/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-39/chapter-23/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-39/chapter-23/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_39">
+        <num>39</num>
+        <heading>Public Officers and Employees</heading>
+        <chapter eId="title_39__chp_23">
+          <num>23</num>
+          <heading>State Officers Compensation Commission</heading>
+          <section eId="sec_39-23-500">
+            <num>39.23.500</num>
+            <heading>Compensation commission established.</heading>
+            <subsection eId="39-23-500__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The State Officers Compensation Commission is established. The commission is composed of five members who are state residents appointed by the governor. One member shall be appointed from a list of two or more candidates submitted by the president of the senate. One member shall be appointed from a list of two or more candidates submitted by the speaker of the house of representatives. Members serve for staggered terms of four years. Except as provided in
+AS 39.05.080</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-500__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall annually elect a member to chair its meetings. A majority of the commission members constitutes a quorum to transact business. The affirmative vote of three members is required to approve the commission's recommendations on compensation.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-500__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commission shall meet at the call of the chair. Notice of a meeting shall be mailed to each member at least 20 days before the date scheduled for the meeting.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-500__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commission shall meet to discuss its findings and recommendations at least twice before submitting its final report to the presiding officers of each house of the legislature and the governor.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-500__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For budgetary purposes, the commission shall be established in the Department of Administration.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_39-23-510">
+            <num>39.23.510</num>
+            <heading>Prohibitions against state or municipal service.</heading>
+            <subsection eId="39-23-510__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>During membership on the commission, a member of the commission may not</p>
+              </content>
+              <paragraph eId="39-23-510__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be employed by the state, including the University of Alaska;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="39-23-510__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>serve as a member of another state board, commission, or authority; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="39-23-510__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>hold elective state or municipal office.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="39-23-510__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A member of the commission may not, in the four years preceding that member's appointment, have served in an office or position for which the commission shall submit a recommendation under
+AS 39.23.540
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_39-23-520">
+            <num>39.23.520</num>
+            <heading>Compensation.</heading>
+            <content>
+              <p>Sec. 39.23.520.   Compensation.
+Members of the commission serve without compensation but are entitled to per diem and travel expenses authorized for members of boards and commissions under
+AS 39.20.180
+.</p>
+            </content>
+          </section>
+          <section eId="sec_39-23-530">
+            <num>39.23.530</num>
+            <heading>Staff.</heading>
+            <content>
+              <p>Sec. 39.23.530.   Staff.
+The director of personnel in the Department of Administration shall serve as ex officio secretary to the commission and provide research, technical, and administrative services.</p>
+            </content>
+          </section>
+          <section eId="sec_39-23-540">
+            <num>39.23.540</num>
+            <heading>Duties of the commission.</heading>
+            <subsection eId="39-23-540__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall review the salaries, benefits, and allowances of members of the legislature, the governor, the lieutenant governor, and each principal executive department head and prepare a report on its findings at least once every two years, but not more frequently than every year. The commission shall notify the legislature that the report is available.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-540__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission may request reports or studies from any state agency as to the rate and form of compensation, benefits, and allowances for legislators, the governor, the lieutenant governor, and each executive department head. A state agency from which a report or a study is requested shall furnish it within a period of time prescribed by the commission.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-540__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>By November 15, the commission shall prepare its preliminary findings and recommendations for compensation of state officers that is reasonable and equitable. The commission shall give reasonable public notice of its preliminary findings and recommendations, solicit public comments, and give due regard to the public comments, before submitting a final report under (d) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-540__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The commission shall make available to the governor and presiding officers of each house of the legislature a final report of its findings and recommendations as to the rate and form of compensation, benefits, and allowances for legislators, the governor, the lieutenant governor, and each principal executive department head during the first 10 days of a legislative session. Subject to
+AS 24.10.130</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-540__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and (g) of this section, and unless a bill disapproving all the recommendations for all officers listed in this section is enacted into law within 60 days after the recommendations are submitted to the governor and presiding officers of each house of the legislature, a recommendation as to the compensation, benefits, and allowances for</p>
+              </content>
+              <paragraph eId="39-23-540__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a legislator has the force of law and becomes effective on the first day of the next regular legislative session; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="39-23-540__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the governor, the lieutenant governor, and each principal executive department head has the force of law and becomes effective on the first day of the fiscal year following the fiscal year in which the recommendation is submitted.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="39-23-540__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The commission may prepare amendments to the report submitted under (d) of this section and notify the legislature that the amendments are available.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-540__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A commission member who does not concur in the proposed or final recommendations may attach written objections to the commission's report of its findings and recommendations.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-540__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A recommendation under this section increasing the compensation, benefits, and allowances of a public officer is not effective unless all recommended increases included in the final report under (d) of this section are fully funded by appropriations.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_39-23-550">
+            <num>39.23.550</num>
+            <heading>Recommendations relating to reduction in compensation.</heading>
+            <subsection eId="39-23-550__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A recommendation of the commission may not have the effect of reducing the compensation or benefits of the governor and lieutenant governor who are in office or an executive department head who is appointed on or before the effective date of the commission's recommendation.</p>
+              </content>
+            </subsection>
+            <subsection eId="39-23-550__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission may recommend reduction in compensation for individuals who become governor, lieutenant governor, or an executive department head after the effective date of the commission's recommendation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_39-23-560">
+            <num>39.23.560</num>
+            <heading>Recommendations relating to benefits.</heading>
+            <content>
+              <p>Sec. 39.23.560.   Recommendations relating to benefits.
+The recommendations of the commission relating to benefits may not include any recommendation relating to health, retirement, disability, or death benefits under
+AS 39.30
+and
+AS 39.35
+for members of the legislature, the governor, the lieutenant governor, and each principal executive department head.</p>
+            </content>
+          </section>
+          <section eId="sec_39-23-570">
+            <num>39.23.570</num>
+            <heading>Filing with lieutenant governor and certification.</heading>
+            <content>
+              <p>Sec. 39.23.570.   Filing with lieutenant governor and certification.
+The commission shall, on transmitting its final recommendations for the compensation of legislators, the governor, the lieutenant governor, and each principal executive department head to the legislature, file the recommendations in the office of the lieutenant governor. When the recommendations become effective, the commission shall certify the copy of the recommendations on file in the office of the lieutenant governor.</p>
+            </content>
+          </section>
+          <section eId="sec_39-23-580">
+            <num>39.23.580</num>
+            <heading>Policy of the legislature.</heading>
+            <content>
+              <p>Sec. 39.23.580.   Policy of the legislature.
+It is the policy of the legislature that the commission recommend an equitable rate and form of compensation, benefits, and allowances for legislators.</p>
+            </content>
+          </section>
+          <section eId="sec_39-23-590">
+            <num>39.23.590</num>
+            <heading>Administrative Procedure Act inapplicable.</heading>
+            <content>
+              <p>Sec. 39.23.590.   Administrative Procedure Act inapplicable.
+AS 44.62
+(Administrative Procedure Act) does not apply to proceedings of the commission.</p>
+            </content>
+          </section>
+          <section eId="sec_39-23-599">
+            <num>39.23.599</num>
+            <heading>Definition.</heading>
+            <content>
+              <p>Sec. 39.23.599.   Definition.
+In
+AS 39.23.500
+ 39.23.599, commission means the State Officers Compensation Commission.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

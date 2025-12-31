@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-75"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-75"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="13.75"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-75/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-75/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-75/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-75/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_13">
+        <num>13</num>
+        <heading>Decedents' Estates, Guardianships, Transfers, Trusts, and Health Care Decisions</heading>
+        <chapter eId="title_13__chp_75">
+          <num>75</num>
+          <heading>Disposition of Human Remains</heading>
+          <section eId="sec_13-75-010">
+            <num>13.75.010</num>
+            <heading>Directions by decedent.</heading>
+            <subsection eId="13-75-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may provide directions for the disposition of the person's remains by placing the directions in a disposition document. The directions may include or be limited to designating an agent to control the disposition of the person's remains.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-75-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A disposition document must be signed by the person and acknowledged before a notary public, and contain the form and contents required by
+AS 13.75.030
+. A disposition document may be a separate document or it may be contained in another document, including a will or prepaid funeral or burial contract. The disposition document may be modified or revoked only by a subsequent disposition document that complies with this subsection.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-75-020">
+            <num>13.75.020</num>
+            <heading>Persons authorized to control disposition.</heading>
+            <subsection eId="13-75-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The following persons, in the priority listed, may control disposition of a decedent's remains:</p>
+              </content>
+              <paragraph eId="13-75-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person designated in a disposition document as the disposition agent for the decedent;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-75-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a person serving, or nominated by the decedent in the decedent's will to serve, as the personal representative of the decedent's estate, if the person is acting according to the decedent's written instructions contained in the decedent's will;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-75-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the individual who was the spouse of the decedent at the time of the decedent's death;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-75-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the sole surviving competent adult child of the decedent, or, if there is more than one surviving competent adult child of the decedent, the majority of the surviving competent adult children; fewer than one-half of the surviving competent adult children may exercise the rights and duties of this section if these surviving adult children use reasonable efforts to notify all other surviving competent adult children that they are exercising these rights and duties and are not aware of any opposition by one-half or more of all of the surviving competent adult children;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-75-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the surviving competent parents of the decedent; if one of the surviving competent parents is absent, the remaining competent parent may exercise the rights and duties of this section after reasonable efforts have been unsuccessful in locating the absent surviving competent parent; in this paragraph, absent means a person who is unable to communicate decisions or participate in making decisions regarding the disposition of a decedent's remains personally, telephonically, or through electronic communication;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-75-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the surviving competent adult person in the next degrees of kindred, the two surviving competent adult persons of the same degree of kindred if there are two, or, if there are more than two surviving competent adult persons of the same degree of kindred, the majority of those persons; fewer than the majority of surviving competent adult persons of the same degree of kindred may exercise the rights and duties of this section if those persons use reasonable efforts to notify all other surviving competent adult persons of the same degree of kindred that they are exercising these rights and duties and are not aware of any opposition by one-half or more of all surviving competent adult persons of the same degree of kindred;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-75-020__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>in the case of an indigent or another individual whose final disposition is the responsibility of the state or a municipality, a public administrator, medical examiner, coroner, or another public official charged with arranging the final disposition of the decedent; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-75-020__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>another person who is willing to assume legal and financial responsibility.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-75-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a person takes control of the disposition under (a) of this section, the person is liable for the reasonable costs of the disposition if the assets of the estate or other available assets are not adequate to pay the costs of the disposition.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-75-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="13-75-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>adult means a person who is 18 years of age or older;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-75-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>competent means a person who does not suffer from disabilities that prevent the person from managing the person's property or affairs.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_13-75-030">
+            <num>13.75.030</num>
+            <heading>Form of disposition document.</heading>
+            <content>
+              <p>Sec. 13.75.030.   Form of disposition document.
+A disposition document must be in substantially the following form:
+DISPOSITION DOCUMENTYou can select Part 1, Part 2, or both, by completing the part(s) you select, including providing any signatures indicated. Part 3 contains general statements and a place for your signature. You must sign in front of a notary.PART 1. APPOINTMENT OF AGENT TO CONTROL DISPOSITION OF REMAINS. If you appoint an agent, you and your agent must complete this part as indicated, and the agent must sign this part.I, __________________________________, being of sound mind, wilfully and voluntarily make known my desire that, on my death, the disposition of my remains shall be controlled by __________________________________ (name of agent first named below), and, with respect to that subject only, I appoint that person as my agent. All decisions made by my agent with respect to the disposition of my remains, including cremation, are binding.ACCEPTANCE BY AGENT OF APPOINTMENT.THE AGENT, AND EACH SUCCESSOR AGENT, BY ACCEPTING THIS APPOINTMENT, AGREES TO AND ASSUMES THE OBLIGATIONS PROVIDED IN THIS DOCUMENT. AN AGENT MAY SIGN AT ANY TIME, BUT AN AGENT'S AUTHORITY TO ACT IS NOT EFFECTIVE UNTIL THE AGENT SIGNS BELOW TO INDICATE THE ACCEPTANCE OF APPOINTMENT. ANY NUMBER OF AGENTS MAY SIGN, BUT ONLY THE SIGNATURE OF THE AGENT ACTING AT ANY TIME IS REQUIRED.AGENT:Name: ___________________Address: ___________________Telephone Number: ___________________Signature Indicating Acceptance of Appointment:___________________Date of Signature: ___________________SUCCESSORS:If my agent dies, becomes legally disabled, resigns, or refuses to act, I appoint the following persons (each to act alone and successively, in the order named) to serve as my agent to control the disposition of my remains as authorized by this document:(1) First SuccessorName: ___________________Address: ___________________Telephone Number: ___________________Signature Indicating Acceptance of Appointment:___________________Date of Signature: ___________________(2) Second SuccessorName: ___________________Address: ___________________Telephone Number: ___________________Signature Indicating Acceptance of Appointment:___________________Date of Signature: ___________________PART 2. DIRECTIONS FOR THE DISPOSITION OF MY REMAINS.Stated below are my directions for the disposition of my remains:____________________________________________________________________________If the disposition of my remains is by cremation, then (pick one):( ) I do not wish to allow any of my survivors the option of canceling my cremation and selecting alternative arrangements, regardless of whether my survivors consider a change to be appropriate.( ) I wish to allow only the survivors I have designated below to have the option of canceling my cremation and selecting alternative arrangements, if they consider a change to be appropriate:____________________________________________________________________________PART 3. GENERAL PROVISIONS AND SIGNATURE.WHEN DIRECTIONS BECOME EFFECTIVE. The directions, including any appointment of an agent, in this disposition document become effective on my death.REVOCATION OF PRIOR APPOINTMENTS. I revoke any prior appointment of any person to control the disposition of my remains.SIGNATURE OF PERSON MAKING DISPOSITION DOCUMENTSignature: ___________________Date of signature: ___________________(Notary acknowledgment of signature)</p>
+            </content>
+          </section>
+          <section eId="sec_13-75-040">
+            <num>13.75.040</num>
+            <heading>Agent's appointment.</heading>
+            <content>
+              <p>Sec. 13.75.040.   Agent's appointment.
+The person appointed as an agent in a disposition document may sign the disposition document at any time, but the agent's authority to act is not effective until the agent signs the instrument.</p>
+            </content>
+          </section>
+          <section eId="sec_13-75-050">
+            <num>13.75.050</num>
+            <heading>Exercise of authority.</heading>
+            <content>
+              <p>Sec. 13.75.050.   Exercise of authority.
+If a person fails to exercise the person's authority to control disposition under
+AS 13.75.020
+within 48 hours after receiving notification of the decedent's death or within 48 hours after the decedent's death, whichever is earlier, the person may not control the disposition of the decedent's remains, and the right to control the disposition of the decedent's remains passes to the person who is next listed in priority under
+AS 13.75.020
+. If the person to whom the right to control the disposition passes under this section fails to exercise the person's authority to control the disposition within 48 hours after being notified that the authority to control the disposition has passed to the person, the authority to control the disposition passes to the person who is next listed in priority under
+AS 13.75.020
+.</p>
+            </content>
+          </section>
+          <section eId="sec_13-75-060">
+            <num>13.75.060</num>
+            <heading>Certain persons prohibited from control.</heading>
+            <content>
+              <p>Sec. 13.75.060.   Certain persons prohibited from control.
+If a person is charged with a felonious killing in connection with a decedent's death and if the funeral director or the cemetery knows about the charge, then the person may not control disposition, and the right to control disposition passes to the person who is next listed in priority under
+AS 13.75.020
+.</p>
+            </content>
+          </section>
+          <section eId="sec_13-75-070">
+            <num>13.75.070</num>
+            <heading>Prohibition of cremation; written instructions.</heading>
+            <content>
+              <p>Sec. 13.75.070.   Prohibition of cremation; written instructions.
+A person may not authorize cremation for a decedent's remains if a decedent has left directions in a disposition document that the decedent does not wish to be cremated.</p>
+            </content>
+          </section>
+          <section eId="sec_13-75-080">
+            <num>13.75.080</num>
+            <heading>Implementation of directions.</heading>
+            <subsection eId="13-75-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The person authorized to control the disposition shall carry out the directions of the decedent to the extent that the decedent's estate or the person is financially able to carry out the directions.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-75-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding any other provision in
+AS 13.06
+
+AS 13.36
+(Uniform Probate Code), if a person provides directions in a disposition document that is contained in a will, the directions shall be carried out immediately without the necessity of probate. If the will is not probated or is declared invalid for testamentary purposes, the directions are valid to the extent to which they have been acted on in good faith.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-75-090">
+            <num>13.75.090</num>
+            <heading>Misrepresentation; liability.</heading>
+            <content>
+              <p>Sec. 13.75.090.   Misrepresentation; liability.
+If a person represents that the person knows the identity of a decedent and, with the intent to procure the disposition of the decedent's remains, signs a statement, other than a death certificate, that identifies the decedent, the person guarantees the identity of the decedent and is liable for any damages that result, directly or indirectly, from that guarantee.</p>
+            </content>
+          </section>
+          <section eId="sec_13-75-100">
+            <num>13.75.100</num>
+            <heading>Liability.</heading>
+            <subsection eId="13-75-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A disposition organization is not liable for carrying out the directions of a decedent if the disposition organization carries out the directions of a decedent or a person who establishes that the person is entitled to control the disposition.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-75-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section may not be construed to reduce or eliminate the liability of a disposition organization for its negligence or reckless acts.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-75-110">
+            <num>13.75.110</num>
+            <heading>Disputes.</heading>
+            <subsection eId="13-75-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person listed in
+AS 13.75.020
+who is involved in a dispute with one or more persons listed in
+AS 13.75.020
+about which of the persons has the authority to control disposition may bring an action in the superior court to resolve the dispute.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-75-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If there is a dispute with one or more persons listed in
+AS 13.75.020
+about which person has the authority to control disposition, a cemetery organization or funeral establishment is not liable for refusing to accept, to inter, or otherwise to dispose of the decedent's remains until the cemetery organization or funeral establishment receives a court order or another suitable confirmation that the dispute has been resolved.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-75-120">
+            <num>13.75.120</num>
+            <heading>Exemptions.</heading>
+            <subsection eId="13-75-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>are exempt from this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-75-190">
+            <num>13.75.190</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 13.75.190.   Definitions.
+In this chapter,
+(1) control means the authority to control disposition;
+(2) directions means
+(A) instructions for the disposition of a person's remains;
+(B) the appointment of an agent to handle the disposition of a person's remains; or
+(C) both (A) and (B) of this paragraph;
+(3) disposition means disposition of a decedent's remains, including cremation, but does not include an anatomical gift; in this paragraph, anatomical gift has the meaning given in
+AS 13.52.390
+;
+(4) disposition document means a disposition document authorized by
+AS 13.75.010
+(A) in which a person provides directions regarding the disposition of the person's remains; and
+(B) that complies with
+AS 13.75.030
+;
+(5) disposition organization means
+(A) a cemetery association formed under
+AS 10.30.010
+;
+(B) a nonprofit cemetery corporation authorized by
+AS 10.30.055
+;
+(C) a person operating a crematory;
+(D) a person operating a columbarium;
+(E) a funeral home or other type of funeral establishment;
+(F) a funeral director or an embalmer.</p>
+            </content>
+          </section>
+          <section eId="sec_13-75-195">
+            <num>13.75.195</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 13.75.195.   Short title.
+This chapter may be cited as the Disposition of Human Remains Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

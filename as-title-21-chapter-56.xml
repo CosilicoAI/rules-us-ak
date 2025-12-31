@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-56"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-56"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.56"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-56/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-56/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-56/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-56/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_56">
+          <num>56</num>
+          <heading>Small Employer Health Insurance</heading>
+          <section eId="sec_21-56-110">
+            <num>21.56.110</num>
+            <heading>Applicability.</heading>
+            <subsection eId="21-56-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care insurance plan offered, issued for delivery, delivered, or renewed to small employers in this state is subject to the provisions of this chapter, except as prohibited under federal law.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 115 ch 81 SLA 1997.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in this subsection, for purposes of this chapter, insurers that are affiliated companies or that are eligible to file a consolidated tax return shall be treated as one insurer and a restriction or limitation imposed under this chapter shall apply as if all health care insurance plans delivered or issued for delivery to a small employer in this state by an affiliated insurer were issued by one insurer. An affiliated insurer that is a health maintenance organization having a certificate of authority under
+AS 21.86
+may be considered to be a separate insurer for the purposes of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-110__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 115 ch 81 SLA 1997.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-110__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The requirements of this chapter continue to apply with respect to coverage offered to a small employer until the plan anniversary following the date the employer no longer meets the definition of a small employer in
+AS 21.54.500
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-56-120">
+            <num>21.56.120</num>
+            <heading>Premium rate restrictions; disclosures; reports; confidentiality.</heading>
+            <subsection eId="21-56-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A premium rate for a health care insurance plan subject to this chapter is subject to the following provisions:</p>
+              </content>
+              <paragraph eId="21-56-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the premium rate charged or offered during a rating period to small employers with similar case characteristics as determined by the insurer for the same or similar coverage may not vary from the applicable index rate by more than 35 percent of the applicable index rate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>regarding a health care insurance plan issued before July 1, 1993, if premium rates charged or offered for the same or similar coverage under a health care insurance plan covering a small employer with similar case characteristics as determined by the insurer exceeds the applicable index rate by more than 35 percent, an increase in premium rates for a new rating period may not exceed the sum of
+(A) a percentage change in the base premium rate measured from the first day of the prior rating period to the first day of the new rating period; plus
+(B) adjustments due to changes in case characteristics or plan design of the small employer, as determined by the insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the percentage increase in the premium rate charged to a small employer for a new rating period may not exceed the sum of the following:
+(A) the percentage change in the new business premium rate measured from the first day of the prior rating period to the first day of the new rating period; in the case of a health benefit plan into which the small employer insurer is no longer enrolling new small employers, the small employer insurer shall use the percentage change in the base premium rate, provided that the change does not exceed, on a percentage basis, the change in the new business premium rate for the most similar health care insurance plan into which the small employer insurer is actively enrolling new small employers;
+(B) any adjustment, not to exceed 15 percent annually and adjusted pro rata for rating periods of less than one year, due to the claim experience, health status, or duration of coverage of the employees or dependents of the small employer as determined from the small employer insurer's rate manual; and
+(C) any adjustment due to change in coverage or change in the case characteristics of the small employer, as determined from the small employer insurer's rate manual;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>adjustments in rates for claim experience, health status, and duration of coverage may not be charged to individual employees or dependents; any adjustment must be applied uniformly to the rates charged for all employees and dependents of the small employer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a premium rate for a health care insurance plan shall comply with the requirements of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a small employer insurer may use industry as a case characteristic in establishing premium rates, provided that the rate factor associated with an industry classification may not vary by more than 15 percent from the arithmetic average of the highest and lowest rate factors associated with all industry classifications;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>a small employer insurer shall
+(A) apply rating factors, including case characteristics, consistently with respect to all small employers; rating factors must produce premiums for identical groups that differ only by amounts attributable to plan design and do not reflect differences due to the nature of the groups assumed to select particular health care insurance plans; and
+(B) treat all health care insurance plans issued or renewed in the same calendar month as having the same rating period;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>for the purposes of this subsection, a health care insurance plan that contains a restricted provider network may not be considered similar coverage to a health care insurance plan that does not use a restricted provider network if the restriction of benefits to network providers results in substantial differences in claim costs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>a small employer insurer may not use case characteristics, other than age, sex, industry, geographic area, family composition, and group size without prior approval of the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-56-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In connection with the offering for sale of a health care insurance plan to a small employer, a small employer insurer shall, as part of its solicitation and sales materials, disclose in a manner understandable by the average small employer and sufficient to reasonably inform small employers of their rights and obligations under the health care insurance plan</p>
+              </content>
+              <paragraph eId="21-56-120__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the extent that premium rates for a specified small employer are established or adjusted based upon the actual or expected variation in claims costs or actual or expected variation in health status of the employees of the small employer and their dependents; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the provisions of the health care insurance plan
+(A) concerning the small employer insurer's right to change premium rates and factors that affect changes in premium rates;
+(B) relating to renewability of policies and contracts;
+(C) relating to any preexisting condition provision; and
+(D) concerning the benefits and premiums available under all health care insurance plans for which the small employer qualifies.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-56-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A small employer insurer shall</p>
+              </content>
+              <paragraph eId="21-56-120__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>maintain at its principal place of business a complete and detailed description of its rating practices and renewal underwriting practices, including information and documentation that demonstrate that its rating methods and practices are based upon commonly accepted actuarial assumptions and are in accordance with sound actuarial principles;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>file with the director annually, on or before March 15, an actuarial certification certifying that the insurer is in compliance with this chapter and
+AS 21.54.100
+ 21.54.500 and that the rating methods of the small employer insurer are actuarially sound; the certification shall be in a form and manner, and must contain information, as specified by the director; a copy of the certification shall be retained by the small employer insurer at its principal place of business;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-120__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>make the information and documentation described in (1) of this subsection available to the director upon request; the information is confidential and not subject to disclosure, except
+(A) as agreed to by the small employer insurer;
+(B) as ordered by a court of competent jurisdiction; or
+(C) the director may use the information or other discovered information in a judicial or administrative proceeding.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-56-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director may adopt regulations to implement the provisions of this section and to ensure that rating practices used by small employer insurers are consistent with the purposes of this chapter, including ensuring that differences in rates charged for health care insurance plans by small employer insurers are reasonable and reflect objective differences in plan design, not including differences due to the nature of the groups assumed to select particular health care insurance plans.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-120__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In determining the premium rates for a small employer covered under an association health insurance policy authorized under
+AS 21.54.060
+(a)(6), a small employer insurer may not use the claims experience of the small employer while the employer was covered under another health insurance policy and may use only that underwriting information obtained through the insurer's normal application process for new small employer groups that are not written under the association plan.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-56-140">
+            <num>21.56.140</num>
+            <heading>Required offer of coverage.</heading>
+            <subsection eId="21-56-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided under
+AS 21.56.160
+, a small employer insurer shall, as a condition of transacting business in this state with small employers, offer to small employers all health care insurance plans the small employer insurer actively markets to small employers in this state, including a basic health care insurance plan and a standard health care insurance plan approved by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A small employer insurer shall issue a health care insurance plan to a small employer that applies for a plan and shall accept for enrollment under the health care insurance coverage all eligible employees and their dependents who apply for enrollment during the period in which the employee first becomes eligible to enroll under the terms of the plan. A small employer insurer may not place a restriction on an eligible employee or dependent with respect to being a participant or beneficiary that is inconsistent with
+AS 21.54.100
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A small employer insurer may not increase a requirement for minimum employee participation or for minimum employer contribution applicable to a small employer at any time after the small employer has been accepted for coverage, except that a small employer insurer may vary application of minimum participation and employer contribution requirements by the size of the small employer group. In applying minimum employee participation requirements, a small employer insurer may not consider employees or dependents who have existing creditable coverage in determining whether the minimum employee participation level is met.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-140__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a small employer insurer offers coverage to a small employer, the small employer insurer shall offer coverage to all of the eligible employees of the small employer and their dependents. A small employer insurer may not offer coverage to only certain individuals in a small employer group or to only part of the group, except in the case of late enrollees as provided in
+AS 21.54.110
+(d). For purposes of complying with this subsection,</p>
+              </content>
+              <paragraph eId="21-56-140__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a small employer insurer may issue a health care insurance plan that covers only those employees that the small employer selects to be covered under its plan, except that the small employer insurer shall initially offer a plan to the small employer that covers all eligible employees as defined in
+AS 21.56.250
+and their dependents;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-140__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a small employer insurer, producer, or any other representative of the small employer insurer may not directly or indirectly influence a small employer in selecting which employees will be covered under the small employer's health care insurance plan based on the factors concerning unfair discrimination listed in
+AS 21.54.100
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-140__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a small employer insurer shall apply the minimum employee participation and minimum employer contribution requirements to those employees that the small employer selects to be covered under the small employer's health care insurance plan.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-56-140__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The small employer insurer shall apply this section uniformly to all small employers without regard to the claims experience of the small employers and their employees and dependents or a health status factor of an employee or dependent.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-140__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A small employer insurer may not, directly or indirectly, encourage or direct small employers to refrain from filing an application for coverage with a small employer insurer or to seek coverage from another insurer because of a health status factor, the claims experience, the industry, the occupation, the size, or the geographic location of the small employer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-140__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Except as provided in
+AS 21.54.110
+, a small employer insurer may not, by a rider or amendment applicable to a specific individual, restrict or exclude coverage or benefits by type of illness, treatment, medical condition, or service otherwise covered by the plan.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-140__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>This section does not apply to health care insurance plans offered by a small employer insurer if the insurer makes the health care insurance plans available in the small employer market only through a bona fide association.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-140__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The director may, by order, establish benefits, cost sharing levels, exclusions, and limitations for the basic and standard health care insurance plans offered under (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-56-160">
+            <num>21.56.160</num>
+            <heading>Exemption from required offer of coverage.</heading>
+            <subsection eId="21-56-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A small employer insurer offering health care insurance through a network plan is not required to offer or renew coverage or accept applications under
+AS 21.56.140</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>if</p>
+              </content>
+              <paragraph eId="21-56-160__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the small employer does not have eligible employees or dependents who live, work, or reside in the service area for the network plan; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-160__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the small employer insurer demonstrates to the director that the small employer insurer
+(A) will not have the capacity to deliver services adequately to eligible employees or dependents of additional groups because of the small employer insurer's obligation to existing group contract holders and covered employees or dependents; and
+(B) applies this subsection uniformly without regard to the claims experience of the employers and their employees and dependents or to a health status factor relating to the employees and dependents.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-56-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A small employer insurer offering health care insurance is not required to offer or accept applications under
+AS 21.56.140</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>if</p>
+              </content>
+              <paragraph eId="21-56-160__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the small employer insurer is only maintaining in-force business and has ceased enrolling new employer groups on or before January 1, 1993; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-56-160__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the certificate of authority or bylaws of an insurer does not permit the insurer to issue coverage on a marketwide basis; however, an insurer described in this paragraph shall comply with
+AS 21.56.140
+regarding small employers that meet the requirements of the insurer's certificate of authority or bylaws.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-56-160__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A small employer insurer who denies health care insurance coverage in a service area under (a) of this section may not offer coverage in the small employer market within that service area for a period of 180 days after the date the coverage is denied.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-160__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a small employer insurer demonstrates or the director determines under
+AS 21.09.175
+that a small employer insurer does not have the financial reserves necessary to underwrite additional coverage, the small employer insurer may not offer or renew health care insurance coverage in the small employer group market. The small employer insurer may not reenter the small employer group market until the director has determined that the insurer has sufficient financial reserves to underwrite additional coverage.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-56-180">
+            <num>21.56.180</num>
+            <heading>Fair marketing standards.</heading>
+            <subsection eId="21-56-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A small employer insurer may not, directly or indirectly, enter into a contract, agreement, or arrangement with an insurance producer, a managing general agent, or a third-party administrator that provides for or results in the compensation paid to an insurance producer for the sale of a health care insurance plan to vary based on the health status, claims experience, industry, occupation, size, or geographic location of the small employer. This subsection does not apply to a compensation arrangement that provides compensation to an insurance producer, a managing general agent, or a third-party administrator on the basis of a percentage of premium that does not vary based on the health status, claims experience, industry, occupation, size, or geographic location of the small employer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A small employer insurer shall provide reasonable compensation, as provided under the plan of operation of the program, to an insurance producer, a managing general agent, or a third-party administrator, if any, for the sale of a basic or standard health care insurance plan.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A small employer insurer, an insurance producer, a managing general agent, or a third-party administrator may not induce or otherwise encourage a small employer to separate or otherwise exclude an employee from health coverage or benefits provided in connection with the employee's employment.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-180__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A small employer insurer may only deny an application for coverage from a small employer in writing, and the writing must state the reasons for the denial.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-180__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The director may establish by regulation additional standards to provide for the fair marketing of health care insurance plans to small employers in this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-180__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A person who enters into a contract, agreement, or other arrangement with a small employer insurer to provide administrative, marketing, or other services related to the offering of health care insurance plans to small employers in this state is subject to this section as if it were a small employer insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-56-180__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A violation of this section by a person is an unfair trade practice for purposes of
+AS 21.36
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-56-190">
+            <num>21.56.190</num>
+            <heading>Mandatory reissue of coverage.</heading>
+            <content>
+              <p>Sec. 21.56.190.   Mandatory reissue of coverage.
+The director may adopt regulations to require small employer insurers, as a condition of transacting business with small employers in this state after July 1, 1993, to reissue a health care insurance plan to a small employer who has had its health care insurance plan terminated or not renewed by the insurer after January 1, 1993. The director may prescribe the terms for the reissue of coverage that the director determines are reasonable and necessary to provide continuity of coverage to small employers.</p>
+            </content>
+          </section>
+          <section eId="sec_21-56-250">
+            <num>21.56.250</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 21.56.250.   Definitions.
+In this chapter,
+(1) actuarial certification means a written statement by a member of the American Academy of Actuaries or another individual acceptable to the director indicating that, based on the person's examination, including a review of the appropriate records, actuarial assumptions, and methods used by the insurer in establishing premium rates for applicable health insurance plans, a small employer insurer is in compliance with the provisions of
+AS 21.56.120
+;
+(2) affiliated means a person who directly or indirectly, through one or more intermediaries, controls or is controlled by or is under common control with a specified person;
+(3) base premium rate means the lowest premium rate charged or that could have been charged under the rating system by the small employer insurer to small employers with similar case characteristics for health care insurance plans with the same or similar coverage;
+(4) basic health care insurance plan means a lower cost plan offered under
+AS 21.56.140
+;
+(5) beneficiary has the meaning given in
+AS 21.54.500
+;
+(6) case characteristics means demographic or other objective characteristics of a small employer that are considered by the small employer insurer in the determination of premium rates for the small employer, except that claim experience, health status, and duration of coverage may not be case characteristics for the purposes of this chapter;
+(7) eligible employee means an employee who works on a full-time basis, with a normal work week of 30 or more hours; eligible employee includes a sole proprietor, a partner of a partnership, or an independent contractor if the sole proprietor, partner, or contractor is included as an employee under a health care insurance plan of a small employer, but does not include an employee who works on a part-time, temporary, or substitute basis;
+(8) employee has the meaning given in
+AS 21.54.500
+;
+(9) group market has the meaning given in
+AS 21.54.500
+;
+(10) health care insurance plan has the meaning given in
+AS 21.54.500
+;
+(11) health care insurer has the meaning given in
+AS 21.54.500
+;
+(12) health status factor has the meaning given in
+AS 21.54.500
+;
+(13) index rate means, for small employers with similar case characteristics and plan designs as determined by the insurer for a rating period, the arithmetic average of the applicable base premium rate and the corresponding highest premium rate;
+(14) late enrollee has the meaning given in
+AS 21.54.500
+;
+(15) network plan has the meaning given in
+AS 21.54.500
+;
+(16) new business premium rate means the lowest premium rate charged or offered, or that could have been charged or offered, by the small employer insurer to small employers with similar case characteristics for newly issued health care insurance plans with the same or similar coverage;
+(17) rating period means the calendar period for which premium rates established by a small employer insurer are assumed to be in effect;
+(18) small employer has the meaning given in
+AS 21.54.500
+;
+(19) small employer insurer means a health care insurer offering, issuing for delivery, delivering, or renewing health care insurance to small employers in the state;
+(20) standard health care insurance plan means a health care insurance plan offered under
+AS 21.56.140
+that includes more comprehensive benefits than under a basic health care insurance plan.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

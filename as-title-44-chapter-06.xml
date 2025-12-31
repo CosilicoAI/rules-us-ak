@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-06"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-06"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.06"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-06/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-06/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-06/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-06/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_06">
+          <num>06</num>
+          <heading>Capital</heading>
+          <section eId="sec_44-06-010">
+            <num>44.06.010</num>
+            <heading>Site of capital.</heading>
+            <content>
+              <p>Sec. 44.06.010.   Site of capital.
+The capital of the state is at the city of Juneau, Alaska.</p>
+            </content>
+          </section>
+          <section eId="sec_44-06-050">
+            <num>44.06.050</num>
+            <heading>Purpose ofAS 44.06.050 44.06.060.</heading>
+            <content>
+              <p>Sec. 44.06.050.   Purpose of
+AS 44.06.050
+ 44.06.060.
+The purpose of
+AS 44.06.050
+ 44.06.060 is to guarantee to the people their right to know and to approve in advance all costs of relocating the capital or the legislature; to insure that the people will have an opportunity to make an informed and objective decision on relocating the capital or the legislature with all pertinent data concerning the costs to the state; and to insure that the costs of relocating the capital or the legislature will not be incurred by the state without the approval of the electorate.</p>
+            </content>
+          </section>
+          <section eId="sec_44-06-055">
+            <num>44.06.055</num>
+            <heading>Relocation expenditures.</heading>
+            <content>
+              <p>Sec. 44.06.055.   Relocation expenditures.
+State money may be expended to relocate physically the capital or the legislature from the present location only after a majority of those voting in a statewide election have approved a bond issue that includes all bondable costs to the state of the relocation of a functional state legislature or capital to the new site over the twelve-year period following such approval. The commission established in
+AS 44.06.060
+shall determine all bondable costs and total costs including, but not limited to, the costs of moving personnel and offices to the relocation site; the social, economic, and environmental costs to the present and relocation sites; and the costs to the state of planning, building, furnishing, using, and financing facilities at least equal to those provided by the present capital city.</p>
+            </content>
+          </section>
+          <section eId="sec_44-06-060">
+            <num>44.06.060</num>
+            <heading>Commission.</heading>
+            <content>
+              <p>Sec. 44.06.060.   Commission.
+The legislature shall establish a commission composed of nine members, including a chairperson and two persons from each judicial district, appointed by the governor and confirmed by the legislature, to determine the costs required by initiatives or legislative enactments authorizing relocation of any of the present functions of state government.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

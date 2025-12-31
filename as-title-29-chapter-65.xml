@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-65"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-65"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="29.65"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-65/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-65/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-29/chapter-65/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-29/chapter-65/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_29">
+        <num>29</num>
+        <heading>Municipal Government</heading>
+        <chapter eId="title_29__chp_65">
+          <num>65</num>
+          <heading>General Grant Land</heading>
+          <section eId="sec_29-65-010">
+            <num>29.65.010</num>
+            <heading>Determination of entitlement for boroughs and unified municipalities.</heading>
+            <subsection eId="29-65-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The general grant land entitlement of each of the municipalities in this subsection is the amount set out opposite each:</p>
+              </content>
+              <paragraph eId="29-65-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Municipality of Anchorage  44,893 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>City and Borough of Juneau  19,584 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>City and Borough of Sitka  10,500 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Bristol Bay Borough  2,898 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Fairbanks North Star Borough  112,000 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Haines Borough  2,800 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Kenai Peninsula Borough  155,780 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Ketchikan Gateway Borough  11,593 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Kodiak Island Borough  56,500 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>Lake and Peninsula Borough  125,000 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>Matanuska-Susitna Borough  355,210 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>North Slope Borough  89,850 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>City and Borough of Yakutat  21,500 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>City and Borough of Wrangell  9,006 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>Haines Borough  3,167 acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-010__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>Petersburg Borough  14,666 acres.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="29-65-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 12 ch 34 SLA 1987.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-65-020">
+            <num>29.65.020</num>
+            <heading>Determination of entitlement for cities.</heading>
+            <subsection eId="29-65-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The general grant land entitlement of a city formerly eligible to receive general grant land under the provisions of former
+AS 29.18.190
+and 29.18.200 is 10 percent of the maximum total acreage of vacant, unappropriated, unreserved land in the boundaries of each city at any time between the initial date of eligibility under former
+AS 29.18.190
+and 29.18.200 and January 1, 1988. Within six months after January 1, 1988, the director shall determine the entitlement for each city eligible to receive general grant land under this section and certify that entitlement to the city.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 12 ch 34 SLA 1987.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-65-030">
+            <num>29.65.030</num>
+            <heading>Determination of entitlement for newly incorporated municipalities.</heading>
+            <subsection eId="29-65-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The general grant land entitlement of a municipality incorporated after July 1, 1978, that does not qualify for an entitlement under
+AS 29.65.010
+or 29.65.020 is 10 percent of the maximum total acreage of vacant, unappropriated, unreserved land within the boundaries of the municipality between the date of its incorporation and two years after that date.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Within two years and six months after the date of incorporation of the municipality, the director shall determine the entitlement of each municipality eligible to receive general grant land under (a) of this section and certify the entitlement to the municipality. However, the governing body of a city may, by resolution, request the director to certify the entitlement to the city on an expeditious basis. The director shall determine and certify the entitlement within six months after receipt of the resolution.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 12 ch 34 SLA 1987.]</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For the purpose of determining the general land grant entitlement under (a) of this section, the maximum total acreage of vacant, unappropriated, unreserved land within the boundaries of the municipality between the date of its incorporation and two years after that date shall be increased by the amount of land located within the boundaries of the municipality that is transferred to the University of Alaska under
+AS 14.40.365
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-65-040">
+            <num>29.65.040</num>
+            <heading>Status of entitlements.</heading>
+            <subsection eId="29-65-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>After July 1, 1978, general grant land entitlements provided in former
+AS 29.18.201
+and 29.18.202 are vested property rights that must be fulfilled as provided in
+AS 29.65.050
+. After January 1, 1988, general grant land entitlements provided in
+AS 29.65.010
+are vested property rights that must be fulfilled as provided in
+AS 29.65.050
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>General grant land entitlements provided by
+AS 29.65.030
+are property rights that vest on the date of incorporation of the municipality.  The entitlement shall be fulfilled as provided in
+AS 29.65.050
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Land may be selected or nominated for selection by a municipality to satisfy a general grant land entitlement under former
+AS 29.18.201
+and 29.18.202 at any time before October 1, 1980. Land may be selected or nominated for selection by a municipality to satisfy a general grant land entitlement under
+AS 29.65.010
+(a)(1)-(9), (11), or (12) at any time before October 1, 1990. Land may be selected or nominated for selection by a municipality to satisfy a general grant land entitlement under
+AS 29.65.010
+(a)(10) at any time before October 1, 1996. Land may be selected or nominated for selection by a municipality to satisfy a general grant land entitlement under
+AS 29.65.010
+(a)(13) at any time before October 1, 1999. Land may be selected or nominated for selection by a municipality to satisfy a general grant land entitlement under
+AS 29.65.010
+(a)(14) or (15) at any time before October 1, 2011. Land may be selected or nominated for selection by a municipality to satisfy a general grant land entitlement under
+AS 29.65.010
+(a)(16) at any time before October 1, 2018. However, if a municipal selection or nomination or a part of a municipal selection or nomination is rejected by the director, the municipality may, not later than 90 days after receipt of the rejection or final decision on an appeal filed under
+AS 29.65.050
+(d), select additional state land as necessary to satisfy its entitlement.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Land may be selected by a municipality to satisfy a general grant land entitlement under
+AS 29.65.030
+at any time within one year after the director certifies the entitlement to the municipality.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The time limitations imposed by (c) and (d) of this section for exercising a vested general grant land entitlement do not apply to</p>
+              </content>
+              <paragraph eId="29-65-040__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the portion of an entitlement that cannot be satisfied by that date because of a shortage of land suitable for residential, commercial, and industrial purposes that is vacant, unappropriated, unreserved land;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-040__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the portion of an entitlement that cannot be satisfied because the land selected by a municipality has been selected by a party entitled to select land owned by the United States or the state; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="29-65-040__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the portion of an entitlement that cannot be satisfied because the land nominated for selection by the municipality is not tentatively approved for patent to the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_29-65-050">
+            <num>29.65.050</num>
+            <heading>Fulfillment of land entitlements.</heading>
+            <subsection eId="29-65-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The acreage of each municipality's land selections for which patent has been issued before July 1, 1978, shall be credited toward fulfillment of the entitlement of that municipality.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All approved selections under former
+AS 29.18.190
+and 29.18.200 for which patent has not been issued to a municipality on July 1, 1978, shall be reviewed by the director within nine months after July 1, 1978. Any approved selection of land that was vacant, unappropriated, unreserved land on the date of selection is valid as of the date of the approval under former
+AS 29.18.190
+, 29.18.200, 29.18.201, 29.18.202, and 29.18.203, and a patent shall be issued to the municipality within three months after approval by the director of a plat of survey. The acreage shall be credited toward fulfillment of the municipality's entitlement. A municipality is not entitled to receive patent under this chapter to more than its entitlement determined under
+AS 29.65.010
+ 29.65.030. Any prior approval by the director of municipal selections for land that was not vacant, unappropriated, unreserved land on the date of selection shall be rescinded, and patent may not be issued except when disposal to a third party by sale or lease has occurred. Transfers of land to municipalities under this chapter are subject to
+AS 38.05.321
+. Classification actions as reflected on the land status records of the Department of Natural Resources are determinative of land classification status for purposes of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director shall approve or disapprove each selection for patent within nine months of its selection by a municipality. Before a decision is issued, the Department of Commerce, Community, and Economic Development shall review the selection and recommend approval or disapproval of it. The director may disapprove a selection only upon a finding that the public interest in retaining state ownership of the land outweighs the municipality's interest in obtaining the land. If the director determines that the public interest in land selected in satisfaction of an entitlement under
+AS 29.65.010
+(a)(13), (14), (15), or (16) can be adequately protected by issuing a patent that is subject to stipulations, conditions, or covenants, and if the municipality agrees to accept the land subject to those stipulations, conditions, or covenants, the director may approve a selection that would otherwise be disapproved and may issue the patent with the stipulations, conditions, or covenants agreed to by the municipality. A patent shall be issued to the municipality for land selected in satisfaction of a general grant land entitlement vested under
+AS 29.65.010
+-29.65.030 within three months after approval by the director of a plat of survey.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Before disapproving a selection, the director shall notify the municipality in writing of the decision and set out reasons for it. The municipality may submit a written response within 30 days after receipt of the notice. Within 30 days after the period for responding has expired, the director shall affirm, modify, or reverse the decision and supply the municipality with written notice of that action. If the selection is disapproved, the municipality may file notice of an appeal with the director. The appeal shall be heard under procedures adopted by regulation of the Department of Natural Resources. Before reaching a decision on an appeal the Department of Natural Resources shall request the Department of Commerce, Community, and Economic Development to review the matter and submit a recommendation. After reviewing the recommendation, a decision on the appeal shall be submitted by the Department of Natural Resources to the municipality in writing within 30 days after the notice of appeal was filed with the director. A municipality may appeal an adverse decision to the superior court under
+AS 44.62.560
+ 44.62.570.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-65-060">
+            <num>29.65.060</num>
+            <heading>School and mental health land.</heading>
+            <subsection eId="29-65-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If an entitlement determined under
+AS 29.65.010
+or 29.65.020 results in a per capita entitlement for the municipality of less than one and one-half acre, the municipality may select vacant school or mental health land in the municipality in partial fulfillment of its land entitlement under this chapter. School or mental health land may be selected notwithstanding the fact that this land is not unappropriated and unreserved within the meaning of this chapter and under former
+AS 29.18.190
+and 29.18.200, but each selection of school or mental health land by a municipality must be vacant, unappropriated, unreserved land as defined in this chapter, except that it need not be general grant land.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The acreage of school, university, or mental health land, if any, in a municipality may not be included in the determination of entitlement under
+AS 29.65.010
+or 29.65.020.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Land conveyed under this section shall be credited against a municipality's remaining land entitlement under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Within six months after approval of a municipal selection of school or mental health land, the director shall identify state general grant land of approximately equal value to the land requested by the municipality and shall propose the replacement land for the concurrence of the appropriate board. If a proposal by the director is rejected by the board, the director shall meet with the board as often as necessary to determine the type and amount of equal value replacement land that would be required to obtain the board's concurrence, and shall propose the replacement land for consideration by the board.  The replacement land shall thereafter be managed for the purposes for which the land selected by the municipality was acquired by the Territory and State of Alaska.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The notice provisions of
+AS 38.05.945
+apply to the designation of other general grant land as school, university, or mental health land in replacement of land selected under this section. The provisions of
+AS 38.50
+do not apply to designations under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-060__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>For purposes of determining the per capita entitlement under (a) of this section, the population of a municipality shall be the population determined by the former commissioner of community and regional affairs under former
+AS 43.18.010
+for the program year beginning July 1, 1978, for a municipality whose entitlement was determined under former
+AS 29.18.201
+or 29.18.202.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-060__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a municipality may not select school land or mental health land after October 4, 1985. Nothing in this section affects the legal rights of any person with regard to selections of school land or mental health land made by a municipality on or before October 4, 1985.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-060__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>To obtain replacement land for mental health land that was conveyed by the state to the municipality under former
+AS 29.18.190
+ 29.18.200, former
+AS 29.18.201
+ 29.18.202, or under this chapter, a municipality may reconvey to the state land that had been conveyed by the state to the municipality. When a municipality reconveys land to the state under this subsection, the municipality has the right to select an equal number of acres of replacement land. The municipality may exercise its right to select replacement land under this subsection only within two years of the date of the reconveyance of land to the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-65-070">
+            <num>29.65.070</num>
+            <heading>Selection and conveyance procedure.</heading>
+            <subsection eId="29-65-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If land selected by a municipality is unsurveyed at the time of approval, the director shall survey, or may approve the municipality's survey of, the exterior boundaries of an approved selection without interior subdivision, and shall issue patent in terms of the exterior boundary survey.  The cost of the survey shall be borne by the municipality.  If land selected by a municipality has been surveyed at the time of its selection, the boundaries shall conform to the public land subdivisions established by the approved survey.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may approve municipal selections of land that have been tentatively approved or patented to the state by the federal government but may not issue patent to a municipality until the land has first been patented to the state. After approval of a selection by the director, but before patent to a municipality, the municipality may execute conditional leases and make conditional sales only with the consent of the director. Conditional sales and conditional leases made before July 1, 1978, do not require the consent of the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The commissioner of natural resources shall require that each selection be compact in form with its length not exceeding approximately four times its width. The restrictions on form may be waived by the commissioner based on land use, terrain, effect of the form of the selection on access to it and other parcels, and effect of the form of the selection on surveying and management costs to the state and the municipality.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Nothing in this chapter affects a valid existing claim, location, or entry under the laws of the state or the United States whether for homestead, mineral, right-of-way, or other purposes. Nothing in this chapter affects the rights of an owner, claimant, locater, or entryman to the full use and enjoyment of the land so occupied.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-65-090">
+            <num>29.65.090</num>
+            <heading>Authorization for land exchanges.</heading>
+            <content>
+              <p>Sec. 29.65.090.   Authorization for land exchanges.
+The director and a municipality are authorized to exchange land or interests in land when it is in the public interest. Land or interests in land exchanged under this section must be of approximately equal value, including the nonmonetary value of public benefits.  Exchange procedures shall comply with applicable law and municipal ordinances. The notice and review provisions of
+AS 38.05.945
+apply to exchanges of land under this section.  The provisions of
+AS 38.50
+do not apply to exchanges of land under this section.</p>
+            </content>
+          </section>
+          <section eId="sec_29-65-100">
+            <num>29.65.100</num>
+            <heading>Public purpose and expansion needs.</heading>
+            <subsection eId="29-65-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Consistent with the best interests of the state, if a municipality does not contain and cannot reasonably acquire sufficient nonfederal land within its boundaries to meet its legitimate needs for public or private settlement or development, it is the policy of the state to select federal land reasonably necessary to meet the needs of the municipality and to make the land selected available to the municipality under
+AS 38.05.810
+or (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The state may contract with a municipality to act as its agent in an auction of state land under applicable statutes. When a municipality acts as the agent of the state in an auction, the municipality may retain from the proceeds of the auction the capital and other expenses that the director determines to be necessary and reasonable.</p>
+              </content>
+            </subsection>
+            <subsection eId="29-65-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing in this chapter limits or impairs the authority of the director to transfer land to municipalities, without limit or consideration, for public purposes in accordance with
+AS 38.05.810
+.  If there is a remaining entitlement of the municipality, land transferred under
+AS 38.05.810
+shall be credited toward fulfillment of the entitlement.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_29-65-120">
+            <num>29.65.120</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 29.65.120.   Regulations.
+The commissioner of natural resources may, after consultation with the Department of Commerce, Community, and Economic Development, adopt regulations in accordance with
+AS 44.62
+(Administrative Procedure Act) necessary to carry out the purposes of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_29-65-122">
+            <num>29.65.122</num>
+            <heading>Prohibited acquisitions.</heading>
+            <content>
+              <p>Sec. 29.65.122.   Prohibited acquisitions.
+A municipality may not acquire subsurface rights to land of the federal government by trading land received as a general grant land entitlement. A municipality may not acquire any interest in land within the Arctic National Wildlife Refuge by trading land with the federal government for land received as a general grant land entitlement.</p>
+            </content>
+          </section>
+          <section eId="sec_29-65-129">
+            <num>29.65.129</num>
+            <heading>Policy.</heading>
+            <content>
+              <p>Sec. 29.65.129.   Policy.
+Consistent with the best interest of the state, it is the policy of the state to provide a newly formed municipality with a general grant land entitlement that is no less than 10 percent of vacant, unappropriated, unreserved land located within its boundaries. It is the policy of the state to provide for expeditious transfer and patent of land to a municipality in fulfilling its entitlement.</p>
+            </content>
+          </section>
+          <section eId="sec_29-65-130">
+            <num>29.65.130</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 29.65.130.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) approved selection means a municipal land selection that has been approved in writing by the director for transfer by patent to a municipality;
+(2) director means the director of lands, Department of Natural Resources;
+(3) general grant land
+(A) means land patented or tentatively approved to the state from the United States under § 6(a) or (b) of the Alaska Statehood Act;
+(B) does not include university land;
+(4) mental health land means land granted under Title II, § 202 of P.L. 84-830, as amended before or after July 1, 1978;
+(5) municipal land selection means a request by a municipality, filed in writing with the director under authority of former
+AS 29.18.190
+and 29.18.200 or under this chapter for vacant, unappropriated, unreserved general grant land within its municipal boundaries in partial fulfillment of its municipal entitlement;
+(6) patent means a document, issued by the director to a municipality for a previously approved selection, that conveys and quitclaims all the right, title, and interest of the state without reservation or condition except as may be required by law;
+(7) remaining entitlement means the general grant land entitlement determined in accordance with this chapter, reduced by the total acreage of approved selections, including both patented and unpatented parcels;
+(8) school land means those rectangular sections 16 and 36 within each township surveyed on or before January 3, 1959, and confirmed and transferred to the State of Alaska upon its admission under § 6(k), Alaska Statehood Act, 72 Stat. 339, and any other land designated solely for school revenues;
+(9) university land has the meaning given in
+AS 38.05.965
+;
+(10) vacant, unappropriated, unreserved land means general grant land as defined in (3) of this section, excluding minerals as required by § 6(i) of the Alaska Statehood Act, that
+(A) has not been set aside by statute for one or more particular uses or purposes;
+(B) has not been approved for patent to a municipality under this chapter or former
+AS 29.18.190
+and 29.18.200;
+(C) is unclassified or, if classified under
+AS 38.05.300
+, is classified for agricultural, grazing, material, public recreation, or settlement purposes, or is classified in accordance with an agreement between a municipality and the state providing for state management of land of the municipality; or
+(D) was classified no earlier than September 1, 1983, as resource management and is still classified as resource management under
+AS 38.05.300
+.</p>
+            </content>
+          </section>
+          <section eId="sec_29-65-140">
+            <num>29.65.140</num>
+            <heading>Application.</heading>
+            <content>
+              <p>Sec. 29.65.140.   Application.
+This chapter applies to home rule and general law municipalities.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

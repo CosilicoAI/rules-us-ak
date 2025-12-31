@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-13"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-13"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="3.13"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-13/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-13/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-13/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-13/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_3">
+        <num>3</num>
+        <heading>Agriculture, Animals, and Food</heading>
+        <chapter eId="title_3__chp_13">
+          <num>13</num>
+          <heading>Federal Crop Insurance Contributions</heading>
+          <section eId="sec_03-13-010">
+            <num>03.13.010</num>
+            <heading>Agreement with Federal Crop Insurance Corporation.</heading>
+            <content>
+              <p>Sec. 03.13.010.   Agreement with Federal Crop Insurance Corporation.
+The department shall enter into an agreement with the Federal Crop Insurance Corporation under which the department agrees to pay to the corporation a portion of federal crop insurance premiums paid by producers of agricultural commodities in this state.  The agreement must provide for a corresponding reduction in the federal crop insurance premium paid by those producers.</p>
+            </content>
+          </section>
+          <section eId="sec_03-13-020">
+            <num>03.13.020</num>
+            <heading>Amount of contributions.</heading>
+            <content>
+              <p>Sec. 03.13.020.   Amount of contributions.
+Under the agreement, the department shall pay to the corporation for each covered producer an amount equal to the amount that the corporation pays for that producer under 7 U.S.C. 1508(b)(3) of the Federal Crop Insurance Act (7 U.S.C. 1501    1520), except as provided otherwise in this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_03-13-030">
+            <num>03.13.030</num>
+            <heading>Limitation.</heading>
+            <content>
+              <p>Sec. 03.13.030.   Limitation.
+Thirty percent of each producer's premium, as calculated by the corporation, on coverage of up to 65 percent of the recorded or appraised average yield, as adjusted, shall be paid by the state.</p>
+            </content>
+          </section>
+          <section eId="sec_03-13-040">
+            <num>03.13.040</num>
+            <heading>Appropriations.</heading>
+            <subsection eId="03-13-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The payments to the corporation shall be made from funds appropriated from the general fund to the department for that purpose.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-13-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If for any year the amount appropriated is insufficient to fully fund the contribution required by
+AS 03.13.020
+, the department shall allocate funds on a first come basis.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-13-050">
+            <num>03.13.050</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 03.13.050.   Definitions.
+In this chapter, corporation means the Federal Crop Insurance Corporation (7 U.S.C. 1503).</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

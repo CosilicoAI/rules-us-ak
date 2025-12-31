@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-35"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-35"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="45.35"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-35/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-35/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-45/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-45/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_45">
+        <num>45</num>
+        <heading>Trade and Commerce</heading>
+        <chapter eId="title_45__chp_35">
+          <num>35</num>
+          <heading>Lease-Purchases of Personal Property</heading>
+          <section eId="sec_45-35-010">
+            <num>45.35.010</num>
+            <heading>Disclosure of information.</heading>
+            <subsection eId="45-35-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A lessor shall disclose clearly and conspicuously in writing in a lease-purchase agreement each of the following items that applies to the lease-purchase agreement or to the personal property leased under the agreement:</p>
+              </content>
+              <paragraph eId="45-35-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the total number of payments, the total monetary amount of all payments, and the timing of all payments that are to be made before the consumer acquires ownership of the personal property;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a statement that the consumer will not own the personal property until the consumer makes all of the payments necessary to acquire ownership;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a statement that the consumer must pay the lessor the fair market value of the personal property if, and as of the date, the personal property is lost, stolen, damaged, or destroyed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a brief description, including an identification number if available, of the personal property that is sufficient to identify the property to the consumer and the lessor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a statement whether the personal property is new or used;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a brief description of any existing damage to the leased personal property;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the cash price of the property, except that, if the agreement involves a lease of more than one item as a set, the aggregate cash price of all items is sufficient;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the total initial payment made or required when or before an individual becomes liable on the agreement or when the personal property is delivered, whichever event is later;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>a statement that the total monetary amount of the lease payment does not include other charges under the agreement, including late fees, processing fees, default charges, pick-up charges, and reinstatement fees, and a list of these other charges;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>a statement clearly summarizing the terms of the consumer's option to purchase the personal property, including a statement that the consumer has the right to exercise an early purchase option, and the price, formula, or method to be used to determine the price at which the property may be purchased;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>a statement describing the lessor's responsibilities under
+AS 45.35.020
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>the date that the lease-purchase agreement is entered into;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>the names, street addresses, and mailing addresses of the lessor and consumer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>a statement that the consumer may terminate the agreement without penalty by voluntarily surrendering or returning the personal property in good repair, ordinary wear and tear excepted, when the agreement expires and by paying any payment past due under the agreement; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-010__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>notice of the right of the consumer to reinstate the agreement under
+AS 45.35.050
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-35-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The disclosures under (a) of this section must appear on the face of the document containing the lease-purchase agreement and above the line for the consumer's signature. The lessor shall provide the consumer with a copy of the lease-purchase agreement after the consumer signs the agreement.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a disclosure under (a) of this section becomes inaccurate as the result of an act, occurrence, or agreement by the consumer after receiving a copy of the lease-purchase agreement, the resulting inaccuracy is not a violation of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a lessor complies with the disclosure requirements under 15 U.S.C. 1601  1693r (Consumer Credit Protection Act) that are applicable to a lease-purchase agreement, the lessor's compliance satisfies the disclosure requirements of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-35-020">
+            <num>45.35.020</num>
+            <heading>Maintenance and warranties.</heading>
+            <subsection eId="45-35-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A lessor is responsible for making all normal repairs that may be required for the personal property during the lease-purchase agreement, but the lessor is not responsible for any unauthorized repairs or damage caused by improper use.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a manufacturer's warranty covers the personal property when the consumer acquires ownership of the property and if a transfer of the warranty is allowed under the terms of the warranty, the lessor shall transfer warranty to the consumer.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-35-030">
+            <num>45.35.030</num>
+            <heading>Late fees.</heading>
+            <subsection eId="45-35-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A lessor may not charge a consumer more than $5 for each payment that is late under a lease-purchase agreement.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When calculating time for the purpose of determining whether a lease payment is late and subject to a late fee under a lease-purchase agreement, a lessor may not include any period of time when the personal property has been repossessed by the lessor or voluntarily surrendered by the consumer.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-35-040">
+            <num>45.35.040</num>
+            <heading>Prohibited provisions.</heading>
+            <content>
+              <p>Sec. 45.35.040.   Prohibited provisions.
+A lease-purchase agreement may not contain
+(1) a confession of judgment;
+(2) a negotiable instrument;
+(3) a security interest in, or another claim on, real or personal property that is not the subject of the agreement;
+(4) a wage assignment;
+(5) an assignment of an Alaska permanent fund dividend;
+(6) a waiver by the consumer of claims or defenses relating to the agreement;
+(7) a provision authorizing the lessor or a person acting on the lessor's behalf to enter the consumer's premises or to commit a breach of the peace in the repossession of personal property;
+(8) an agreement by the consumer to pay attorney fees and costs, except as allowed under court rules.</p>
+            </content>
+          </section>
+          <section eId="sec_45-35-050">
+            <num>45.35.050</num>
+            <heading>Reinstatement of contract by consumer; repossession.</heading>
+            <subsection eId="45-35-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a consumer fails to make a payment under a lease-purchase agreement by the time required for the payment and the lessor terminates the agreement due to the consumer's failure to make the payment, the consumer may reinstate the agreement by paying the items identified under (b) of this section before the end of the grace period.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The following are the items that must be paid by the consumer in order to reinstate a lease-purchase agreement under (a) of this section:</p>
+              </content>
+              <paragraph eId="45-35-050__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>all scheduled payments that are past due under the agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-050__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the next scheduled payment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-050__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the reasonable costs of picking up and redelivering the property if the lessor has picked up the property from the consumer; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-050__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>any applicable late fee.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-35-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A consumer who reinstates a lease-purchase agreement under (a) of this section does not lose any rights or options the consumer had under the agreement before the failure to make the payment when due.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, if a consumer has made less than two-thirds of the total amount of payments necessary to acquire ownership of the personal property that is the subject of a lease-purchase agreement and if the consumer has returned or voluntarily surrendered the personal property to the lessor before the end of the grace period other than as a result of a court action, the consumer has 21 days after returning the property to the lessor to reinstate the lease-purchase agreement.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, if a consumer has made two-thirds or more of the total amount of payments necessary to acquire ownership of the personal property that is the subject of a lease-purchase agreement and if the consumer has returned or voluntarily surrendered the personal property to the lessor before the end of the grace period other than as a result of a court action, the consumer has 45 days after returning the personal property to the lessor to reinstate the lease-purchase agreement.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-050__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>This section does not prohibit a lessor from attempting to repossess personal property during the period when the consumer may reinstate the lease-purchase agreement under this section, and repossession does not affect the consumer's right to reinstate the agreement. If the lessor repossesses the personal property, upon reinstatement of the agreement by the consumer under this section, the lessor shall provide the consumer with the same personal property that was repossessed or with personal property of comparable quality and condition.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-050__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="45-35-050__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>grace period means
+(A) two days after the agreement's renewal date if, under the agreement, the payments are to be made more often than monthly; or
+(B) five days after the agreement's renewal date if, under the agreement, the payments are to be made monthly or less frequently;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-050__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>renewal date means the date when a payment is to be made that would automatically renew the agreement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_45-35-060">
+            <num>45.35.060</num>
+            <heading>Application of disclosure requirements upon occurrence of subsequent events.</heading>
+            <subsection eId="45-35-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a lessor and a consumer replace an existing lease-purchase agreement between the lessor and consumer with a new lease-purchase agreement, the lessor shall make the disclosures required by
+AS 45.35.010
+for the new lease-purchase agreement. In this subsection, new lease-purchase agreement does not include</p>
+              </content>
+              <paragraph eId="45-35-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the addition of personal property to or the return or substitution of personal property already covered by a lease-purchase agreement that covers more than one item of personal property if the average lease payment allocable to a payment period is not changed by more than 25 percent of the average lease payment before the change;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a deferral or extension of a lease payment or portion of a payment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-060__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a reduction in the amount of the payments or other charges in the lease-purchase agreement; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-060__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a lease-purchase agreement that is the subject of a court action.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-35-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The lessor is not required to make the disclosures under
+AS 45.35.010
+when the lessor and the consumer extend the length of a lease-purchase agreement.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-35-070">
+            <num>45.35.070</num>
+            <heading>Advertisement.</heading>
+            <subsection eId="45-35-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If an advertisement for a lease-purchase agreement refers to or states the dollar amount of a payment and the right to acquire ownership of a specific item of personal property, the advertisement must also clearly and conspicuously state each of the following items that is applicable:</p>
+              </content>
+              <paragraph eId="45-35-070__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>that the advertised transaction is a lease-purchase agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-070__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the total amount to be paid to acquire ownership of the item; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="45-35-070__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>that the consumer will not acquire ownership rights in the item until the consumer pays the total amount to be paid to acquire ownership of the item.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="45-35-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The owner and the employees of a communications medium in which an advertisement covered by (a) of this section appears or through which the advertisement is disseminated is not liable for a failure of a lessor to comply with (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The requirements of (a) of this section do not apply to an advertisement that is published in the yellow pages of a telephone directory or another similar business directory.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-35-080">
+            <num>45.35.080</num>
+            <heading>Written receipts.</heading>
+            <content>
+              <p>Sec. 45.35.080.   Written receipts.
+On request, a lessor shall provide the consumer with a written receipt for each payment made by cash or money order.</p>
+            </content>
+          </section>
+          <section eId="sec_45-35-090">
+            <num>45.35.090</num>
+            <heading>Coordination with other laws.</heading>
+            <subsection eId="45-35-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If there is a conflict between this chapter and
+AS 45.12
+(Uniform Commercial Code-Leases), this chapter governs.</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If there is a conflict between this chapter and 15 U.S.C. 1601  1693r (Consumer Credit Protection Act), 15 U.S.C. 1601  1693r govern.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_45-35-099">
+            <num>45.35.099</num>
+            <heading>Definitions.</heading>
+            <subsection eId="45-35-099__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>an agreement primarily for commercial or agricultural purposes;
+(ii) a lease or bailment of personal property if the lease or bailment is incidental to the lease of real property and provides that the consumer does not have an option to purchase the leased personal property;
+(iii) a lease of a motor vehicle;
+(iv) a security interest as defined under
+AS 45.01.211
+;</p>
+              </content>
+            </subsection>
+            <subsection eId="45-35-099__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>a retail installment transaction under
+AS 45.10
+;
+(vi) a lease under
+AS 45.12
+;</p>
+              </content>
+              <paragraph eId="45-35-099__subsec_v__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>lessor means a person who, in the ordinary course of business, regularly provides to consumers the use of property through lease-purchase agreements and to whom payments are initially payable on the face of the lease-purchase agreement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

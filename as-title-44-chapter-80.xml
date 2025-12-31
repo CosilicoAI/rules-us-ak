@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-80"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-80"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.80"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-80/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-80/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-80/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-80/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_80">
+          <num>80</num>
+          <heading>Liability of the State</heading>
+          <section eId="sec_44-80-010">
+            <num>44.80.010</num>
+            <heading>State as a party to actions.</heading>
+            <content>
+              <p>Sec. 44.80.010.   State as a party to actions.
+If a statute or regulation designates a state department, agency, board, commission, or public officer as a necessary or proper party to prosecute or defend an action in a court of the state,
+(1) the state is also a proper party to the action;
+(2) it is not necessary to name a department, agency, board, commission, or public officer as an additional party to the action; and
+(3) the Department of Law may bring, prosecute, or defend the action in any court in the name of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_44-80-070">
+            <num>44.80.070</num>
+            <heading>Liability of state under special use permits.</heading>
+            <content>
+              <p>Sec. 44.80.070.   Liability of state under special use permits.
+When the state, or a department or agency of the state that has control over a highway or vehicular way or area, permits a portion of the highway or vehicular way or area, as defined under
+AS 28.90.990
+, to be used for a special purpose, the state is not subject to legal action or recovery of damages for injury arising out of, or in any manner connected with the special purpose use.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

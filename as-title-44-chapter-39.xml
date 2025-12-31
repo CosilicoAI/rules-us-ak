@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-39"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-39"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="44.39"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-39/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-39/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-44/chapter-39/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-44/chapter-39/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_44">
+        <num>44</num>
+        <heading>State Government</heading>
+        <chapter eId="title_44__chp_39">
+          <num>39</num>
+          <heading>Department of Fish and Game</heading>
+          <section eId="sec_44-39-010">
+            <num>44.39.010</num>
+            <heading>Commissioner of fish and game.</heading>
+            <content>
+              <p>Sec. 44.39.010.   Commissioner of fish and game.
+The principal executive officer of the Department of Fish and Game is the commissioner of fish and game.</p>
+            </content>
+          </section>
+          <section eId="sec_44-39-020">
+            <num>44.39.020</num>
+            <heading>Duties of department.</heading>
+            <content>
+              <p>Sec. 44.39.020.   Duties of department.
+The Department of Fish and Game shall administer the state program for the conservation and development of the state's commercial fisheries, sport fish, birds, game, and fur-bearing animals. The Department of Fish and Game shall issue fish and game licenses, collect fish and game license revenue, and do all other acts incidental to the performance of these functions.</p>
+            </content>
+          </section>
+          <section eId="sec_44-39-030">
+            <num>44.39.030</num>
+            <heading>Appointment of commissioner.</heading>
+            <content>
+              <p>Sec. 44.39.030.   Appointment of commissioner.
+The governor shall appoint the commissioner of fish and game from a list of qualified persons nominated by the Board of Fisheries and the Board of Game meeting in joint session, subject to the right of the governor to request additional nominations. The appointment shall be confirmed by a majority of the members of the legislature in joint session. The commissioner of fish and game serves at the pleasure of the governor and may not be appointed for a fixed term.</p>
+            </content>
+          </section>
+          <section eId="sec_44-39-040">
+            <num>44.39.040</num>
+            <heading>Vacancy.</heading>
+            <content>
+              <p>Sec. 44.39.040.   Vacancy.
+If a vacancy occurs in the office of the commissioner of fish and game, the governor shall appoint a successor for the unexpired term in the manner provided for the regular appointment.</p>
+            </content>
+          </section>
+          <section eId="sec_44-39-050">
+            <num>44.39.050</num>
+            <heading>Removal of commissioner.</heading>
+            <content>
+              <p>Sec. 44.39.050.   Removal of commissioner.
+The Board of Fisheries or the Board of Game may submit a resolution to the governor requesting the removal of the commissioner. The resolution shall set out the grounds for the request and the governor shall give the commissioner and both boards an opportunity to be heard. The final decision to remove or retain the commissioner shall be made by the governor. The governor may also remove the commissioner without being requested to do so by a board.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

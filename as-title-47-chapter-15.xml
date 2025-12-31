@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-15"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="47.15"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-47/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-47/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_47">
+        <num>47</num>
+        <heading>Welfare, Social Services, and Institutions</heading>
+        <chapter eId="title_47__chp_15">
+          <num>15</num>
+          <heading>Uniform Interstate Compact on Juveniles</heading>
+          <section eId="sec_47-15-010">
+            <num>47.15.010</num>
+            <heading>Execution of interstate compact.</heading>
+            <content>
+              <p>Sec. 47.15.010.   Execution of interstate compact.
+The governor shall execute a compact on the behalf of the state with any other state or states legally joining in it in substantially the following form:</p>
+            </content>
+          </section>
+          <section eId="sec_47-15-020">
+            <num>47.15.020</num>
+            <heading>Juvenile compact administrator.</heading>
+            <content>
+              <p>Sec. 47.15.020.   Juvenile compact administrator.
+Under the compact established under
+AS 47.15.010
+, the commissioner of family and community services may designate an officer as the compact administrator. The compact administrator shall cooperate with all departments, agencies, and officers of and in the government of this state and its subdivisions in facilitating the proper administration of the compact or of a supplementary agreement entered into by this state.</p>
+            </content>
+          </section>
+          <section eId="sec_47-15-025">
+            <num>47.15.025</num>
+            <heading>State council.</heading>
+            <content>
+              <p>Sec. 47.15.025.   State council.
+The State Council for Interstate Adult and Juvenile Offender Supervision created in
+AS 33.36.140
+shall serve as the state council under
+AS 47.15.010
+.</p>
+            </content>
+          </section>
+          <section eId="sec_47-15-030">
+            <num>47.15.030</num>
+            <heading>Supplementary agreements.</heading>
+            <content>
+              <p>Sec. 47.15.030.   Supplementary agreements.
+The compact administrator may make supplementary agreements with appropriate officials of other states pursuant to the compact.  If a supplementary agreement requires or contemplates the use of an institution or facility of this state or requires or contemplates the provision of a service of this state, the supplementary agreement has no force or effect until approved by the head of the department or agency under whose jurisdiction the institution is operated, or whose department or agency is charged with performing the service.</p>
+            </content>
+          </section>
+          <section eId="sec_47-15-035">
+            <num>47.15.035</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 47.15.035.   Regulations.
+The Department of Family and Community Services may adopt regulations to implement the provisions of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_47-15-040">
+            <num>47.15.040</num>
+            <heading>Financial arrangements.</heading>
+            <content>
+              <p>Sec. 47.15.040.   Financial arrangements.
+The compact administrator, subject to the approval of the commissioner of administration, may make or arrange for the payments necessary to discharge the financial obligations imposed upon this state by the compact or by a supplementary agreement made under the compact.</p>
+            </content>
+          </section>
+          <section eId="sec_47-15-060">
+            <num>47.15.060</num>
+            <heading>Enforcement.</heading>
+            <content>
+              <p>Sec. 47.15.060.   Enforcement.
+The courts, departments, agencies and officers of this state and its subdivisions shall enforce this compact and shall do all things appropriate to the effectuation of its purposes and intent which are within their respective jurisdiction.</p>
+            </content>
+          </section>
+          <section eId="sec_47-15-070">
+            <num>47.15.070</num>
+            <heading>Additional procedures not precluded.</heading>
+            <content>
+              <p>Sec. 47.15.070.   Additional procedures not precluded.
+In addition to the procedures provided under
+AS 47.15.010
+for the return of a runaway juvenile, the states that are participants to the compact, the juvenile, the juvenile's parents or other legal custodian, or the courts of the participating states may agree upon and adopt any plan or procedure legally authorized under the laws of this state and the other respective party states for the return of the runaway juvenile.</p>
+            </content>
+          </section>
+          <section eId="sec_47-15-080">
+            <num>47.15.080</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 47.15.080.   Short title.
+This chapter may be cited as the Interstate Compact for Juveniles.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

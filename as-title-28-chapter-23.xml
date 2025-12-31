@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-23"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-23"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="28.23"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-23/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-23/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-28/chapter-23/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-28/chapter-23/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_28">
+        <num>28</num>
+        <heading>Motor Vehicles</heading>
+        <chapter eId="title_28__chp_23">
+          <num>23</num>
+          <heading>Transportation Network Companies and Drivers</heading>
+          <section eId="sec_28-23-010">
+            <num>28.23.010</num>
+            <heading>Not other carriers.</heading>
+            <content>
+              <p>Sec. 28.23.010.   Not other carriers.
+A transportation network company or driver is not a common carrier, contract carrier, or motor carrier, and may not provide taxicab or for-hire vehicle service. The state or a municipality may not require a transportation network company driver to register the personal vehicle the driver uses to provide prearranged rides as a commercial or for-hire vehicle.</p>
+            </content>
+          </section>
+          <section eId="sec_28-23-020">
+            <num>28.23.020</num>
+            <heading>Fare collected for services.</heading>
+            <content>
+              <p>Sec. 28.23.020.   Fare collected for services.
+A transportation network company may charge a fare to a transportation network company rider. Before a fare is collected from a rider, the transportation network company shall disclose to the rider, on the company's Internet website or in the company's software application, the transportation network company's fare or fare calculation method. The transportation network company shall provide riders the option of receiving an estimated fare before the rider enters the personal vehicle of a transportation network company driver.</p>
+            </content>
+          </section>
+          <section eId="sec_28-23-030">
+            <num>28.23.030</num>
+            <heading>Identification of transportation network company vehicles and drivers.</heading>
+            <content>
+              <p>Sec. 28.23.030.   Identification of transportation network company vehicles and drivers.
+Before a rider enters the personal vehicle of a transportation network company driver, the transportation network company shall display on the company's Internet website or in the company's software application a picture of the transportation network company driver and the license plate number of the personal vehicle providing the prearranged ride.</p>
+            </content>
+          </section>
+          <section eId="sec_28-23-040">
+            <num>28.23.040</num>
+            <heading>Electronic receipt.</heading>
+            <content>
+              <p>Sec. 28.23.040.   Electronic receipt.
+Within a reasonable period following the completion of a trip, the transportation network company shall transmit to the rider, on behalf of the transportation network company driver, an electronic receipt showing the origin and destination of the trip and itemizing the fare paid, if any.</p>
+            </content>
+          </section>
+          <section eId="sec_28-23-050">
+            <num>28.23.050</num>
+            <heading>Financial responsibility of transportation network companies.</heading>
+            <subsection eId="28-23-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A transportation network company driver, or transportation network company on behalf of the driver, shall maintain primary automobile insurance that recognizes that the driver is a transportation network company driver or otherwise uses a vehicle to transport passengers for compensation and that covers the driver while the driver is logged onto the digital network of a transportation network company or while the driver is engaged in a prearranged ride.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-23-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The following automobile insurance requirements shall apply while a participating transportation network company driver is logged onto the digital network of a transportation network company and is available to receive transportation requests but is not engaged in a prearranged ride:</p>
+              </content>
+              <paragraph eId="28-23-050__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>primary automobile liability insurance in the amount of at least $50,000 for death and bodily injury for each person, $100,000 for death and bodily injury for each incident, and $25,000 for property damage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-050__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>uninsured or underinsured motor vehicle coverage as required under
+AS 21.96.020
+and
+AS 28.20.440
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-050__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the coverage requirements of this subsection may be satisfied by
+(A) automobile insurance maintained by the transportation network company driver;
+(B) automobile insurance maintained by the transportation network company; or
+(C) any combination of (A) and (B) of this paragraph.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-23-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The following automobile insurance requirements shall apply while a transportation network company driver is engaged in a prearranged ride:</p>
+              </content>
+              <paragraph eId="28-23-050__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>primary automobile liability insurance that provides at least $1,000,000 for death, bodily injury, and property damage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-050__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>uninsured or underinsured motor vehicle coverage as required under
+AS 21.96.020
+and
+AS 28.20.440
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-050__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the coverage requirements of this subsection may be satisfied by
+(A) automobile insurance maintained by the transportation network company driver;
+(B) automobile insurance maintained by the transportation network company; or
+(C) a combination of (A) and (B) of this paragraph.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-23-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If insurance maintained by a driver under (b) or (c) of this section has lapsed or does not provide the required coverage, insurance maintained by a transportation network company must provide the coverage required by this section beginning with the first dollar of a claim, and the transportation network company insurer has the duty to defend that claim.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-23-050__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Coverage under an automobile insurance policy maintained by the transportation network company may not be dependent on a personal automobile insurer first denying a claim nor shall a personal automobile insurance policy be required first to deny a claim.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-23-050__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Insurance required by this section may be placed with an insurer licensed under
+AS 21.09.060
+or with a surplus lines insurer eligible under
+AS 21.34
+that has a credit rating not lower than A- from A.M. Best or a similar rating from another rating agency recognized by the division of insurance.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-23-050__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Insurance satisfying the requirements of this section shall be considered to satisfy the financial responsibility requirement for a motor vehicle under
+AS 28.20
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-23-050__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A transportation network company driver shall carry proof of coverage under (b) and (c) of this section with the driver at all times during the driver's use of a vehicle in connection with a digital network of a transportation network company. In the event of an accident, a transportation network company driver shall provide the insurance coverage information to the directly interested parties, automobile insurers, and investigating police officers upon request under
+AS 28.22.019
+. Upon that request, a transportation network company driver shall also disclose to directly interested parties, automobile insurers, and investigating police officers whether the driver was logged onto the digital network of a transportation network company or on a prearranged ride at the time of an accident.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-23-050__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>If the insurance carrier for the transportation network company makes a payment for a claim for physical damage to a personal vehicle that is subject to a lien, the insurance carrier shall pay the claim jointly to the owner of the personal vehicle and the primary lienholder or directly to the business repairing the personal vehicle.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-23-060">
+            <num>28.23.060</num>
+            <heading>Transportation network company automobile insurance disclosures.</heading>
+            <content>
+              <p>Sec. 28.23.060.   Transportation network company automobile insurance disclosures.
+A transportation network company shall disclose in writing to transportation network company drivers the following before the drivers are allowed to accept a request for a prearranged ride on the digital network of the transportation network company:
+(1) the insurance coverage, including the types of coverage and the limits for each coverage, that the transportation network company provides while the transportation network company driver uses a personal vehicle in connection with a transportation network company's digital network;
+(2) that the automobile insurance policy of the transportation network company driver might not provide any coverage while the driver is logged onto the digital network of a transportation network company and is available to receive transportation requests or is engaged in a prearranged ride, depending on the terms of the automobile insurance policy of the driver; and
+(3) that, if the personal vehicle the transportation network company driver uses to provide transportation network services has a lien against it, using the motor vehicle for transportation network services without physical damage coverage may violate the terms of the contract with the lienholder.</p>
+            </content>
+          </section>
+          <section eId="sec_28-23-070">
+            <num>28.23.070</num>
+            <heading>Certificate of insurance.</heading>
+            <content>
+              <p>Sec. 28.23.070.   Certificate of insurance.
+A transportation network company shall file a written certificate of insurance with the director of the division of insurance demonstrating that the transportation network company has satisfied the requirements of
+AS 28.23.050
+. The certificate of insurance must state that the applicable insurance policy may not be cancelled unless written notice is provided to the division of insurance at least 30 days before cancellation.</p>
+            </content>
+          </section>
+          <section eId="sec_28-23-080">
+            <num>28.23.080</num>
+            <heading>Limitations on transportation network companies.</heading>
+            <subsection eId="28-23-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section, a transportation network company is not an employer of transportation network company drivers under
+AS 23.10.699
+,
+AS 23.20.520
+, or
+AS 23.30.395
+. A transportation network company driver is an independent contractor for all purposes and is not an employee of the transportation network company if the transportation network company</p>
+              </content>
+              <paragraph eId="28-23-080__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>does not unilaterally prescribe specific hours during which a driver shall be logged onto the digital network of the transportation network company;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-080__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>does not impose restrictions on the ability of the driver to use the digital network of other transportation network companies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-080__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>does not restrict a driver from engaging in any other occupation or business; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-080__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>enters into a written agreement with the driver stating that the driver is an independent contractor for the transportation network company.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-23-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not apply to
+AS 23.20
+if the transportation network company is owned or operated by the state, a municipality, a federally recognized tribe, or an entity that is exempt from federal taxation under 26 U.S.C. 501(c)(3) (Internal Revenue Code).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-23-090">
+            <num>28.23.090</num>
+            <heading>Zero tolerance for drug or alcohol use.</heading>
+            <content>
+              <p>Sec. 28.23.090.   Zero tolerance for drug or alcohol use.
+The transportation network company shall implement a zero-tolerance policy prohibiting drug and alcohol use while a driver is providing a prearranged ride or is logged onto the digital network of the transportation network company but not providing a prearranged ride. The transportation network company shall post on the company's Internet website the company's zero-tolerance policy prohibiting drug and alcohol use.</p>
+            </content>
+          </section>
+          <section eId="sec_28-23-100">
+            <num>28.23.100</num>
+            <heading>Transportation network company driver requirements.</heading>
+            <subsection eId="28-23-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before a transportation network company allows an individual to accept trip requests through the transportation network company's digital network, the transportation network company, or a third party, shall</p>
+              </content>
+              <paragraph eId="28-23-100__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>require the individual to submit to the transportation network company an application that includes the individual's address, age, and driver's license number, the motor vehicle registration and automobile liability insurance information for the individual's personal vehicle, and other information required by the transportation network company;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-100__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>conduct a local and national criminal background check for each applicant that reviews
+(A) a multi-state or multi-jurisdiction criminal records locator or a similar commercial nationwide database with validation; and
+(B) the United States Department of Justice National Sex Offender Public Website; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-100__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>obtain and review a driving history research report for the individual.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-23-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A transportation network company may not allow a driver to accept trip requests through the transportation network company's digital network if the driver</p>
+              </content>
+              <paragraph eId="28-23-100__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has, in the past three years,
+(A) been convicted of or forfeited bail for a third or subsequent moving traffic violation;
+(B) been convicted of</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-23-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>driving while license canceled, suspended, revoked, or in violation of a limitation under
+AS 28.15.291
+;
+(ii) failure to stop at the direction of a peace officer under
+AS 28.35.182
+;
+(iii) reckless or negligent driving under
+AS 28.35.400
+or 28.35.410; or
+(iv) a law or ordinance of another jurisdiction having similar elements to an offense listed in (i)  (iii) of this subparagraph;</p>
+              </content>
+              <paragraph eId="28-23-100__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>has, in the past seven years, been convicted of
+(A) any offense that is an unclassified, class A, or class B felony in this or another jurisdiction; or
+(B) a felony or misdemeanor involving</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-23-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a crime under
+AS 28.33.030
+,
+AS 28.35.030
+, or 28.35.032;
+(ii) a crime under
+AS 28.35.050
+or 28.35.060;
+(iii) a crime against a person under
+AS 11.41
+; or
+(iv) a law or ordinance of another jurisdiction having similar elements to an offense listed in (i)  (iii) of this subparagraph;</p>
+              </content>
+              <paragraph eId="28-23-100__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>is listed on the United States Department of Justice National Sex Offender Public Website; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-100__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is under 21 years of age.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-23-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A transportation network company driver may not</p>
+              </content>
+              <paragraph eId="28-23-100__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provide a prearranged ride unless the transportation network company rider has been matched to the driver through the digital network of the transportation network company;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-100__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>solicit a ride or accept a street hail request for a ride; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-100__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>solicit or accept cash payments for a fare from a rider.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_28-23-110">
+            <num>28.23.110</num>
+            <heading>Transportation network company vehicles.</heading>
+            <subsection eId="28-23-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before a transportation network company allows an individual to accept trip requests through the transportation network company's digital network and before a personal vehicle may be used to provide transportation network company services, the transportation network company shall conduct, or confirm satisfactory completion of, a safety inspection of the individual's personal vehicle. The safety inspection required under this subsection must include an inspection of the following components of the personal vehicle:</p>
+              </content>
+              <paragraph eId="28-23-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>foot brakes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>parking brakes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>steering mechanism;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>windshield;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>rear window and other glass;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>windshield wipers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>headlights;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>taillights;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>brake lights;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>front seat adjustment mechanism;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>doors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>turn signal lights;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>horn;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>speedometer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>bumpers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>muffler and exhaust system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>tires, including tread depth;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>interior and exterior mirrors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="28-23-110__subsec_a__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>safety belts.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="28-23-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A motor vehicle that is used by a transportation network company driver for transportation network company purposes may not be more than 12 years of age.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-23-120">
+            <num>28.23.120</num>
+            <heading>Nondiscrimination and accessibility.</heading>
+            <subsection eId="28-23-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The transportation network company shall adopt a policy prohibiting discrimination based on destination or a class or status protected under
+AS 18.80.210
+with respect to a rider or potential rider. The company shall inform drivers of the policy.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-23-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A transportation network company driver shall comply with all applicable laws relating to accommodation of service animals.</p>
+              </content>
+            </subsection>
+            <subsection eId="28-23-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A transportation network company may not impose additional charges for providing services to riders with physical disabilities because of those disabilities.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_28-23-130">
+            <num>28.23.130</num>
+            <heading>Records.</heading>
+            <content>
+              <p>Sec. 28.23.130.   Records.
+A transportation network company shall keep records
+(1) maintained by the transportation network company for an individual prearranged ride for at least two years from the date of the prearranged ride; and
+(2) maintained by individual transportation network company drivers for two years after the agreement between the transportation network company and driver entered into under
+AS 28.23.080
+(a)(4) ends.</p>
+            </content>
+          </section>
+          <section eId="sec_28-23-140">
+            <num>28.23.140</num>
+            <heading>International airports.</heading>
+            <content>
+              <p>Sec. 28.23.140.   International airports.
+The Department of Transportation and Public Facilities may, under
+AS 02.15
+, enter into a contract, lease, or other arrangement with a transportation network company for use of an international airport owned or operated by the state. A contract, lease, or arrangement under
+AS 02.15
+must be consistent with this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_28-23-180">
+            <num>28.23.180</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 28.23.180.   Definitions.
+In this chapter,
+(1) digital network means any online-enabled application, software, website, or system offered or used by a transportation network company that enables the prearrangement of rides with transportation network company drivers;
+(2) personal vehicle means a motor vehicle that is used by a transportation network company driver and is owned, leased, or otherwise authorized for use by the transportation network company driver; personal vehicle does not include a taxi, limousine, or other commercial motor vehicle for hire;
+(3) prearranged ride means transportation provided by a driver to a rider, beginning when a driver accepts a ride requested by a rider through a digital network controlled by a transportation network company, continuing while the driver transports a requesting rider, and ending when the last requesting rider departs from the personal vehicle; prearranged ride does not include shared expense carpool or vanpool arrangements or transportation provided using a taxi, limousine, or other commercial motor vehicle for hire;
+(4) transportation network company means a corporation, partnership, sole proprietorship, or other entity that uses a digital network to connect transportation network company riders to transportation network company drivers who provide prearranged rides; a transportation network company may not be considered to control, direct, or manage the personal vehicles or transportation network company drivers that connect to the transportation network company's digital network, except where agreed to by written contract;
+(5) transportation network company driver or driver means an individual who
+(A) receives connections to potential passengers and related services from a transportation network company in exchange for payment of a fee to the transportation network company; and
+(B) uses a personal vehicle to offer or provide a prearranged ride to riders upon connection through a digital network controlled by a transportation network company in return for compensation or payment of a fee;
+(6) transportation network company rider or rider means an individual or person who uses a digital network of a transportation network company to connect with a transportation network company driver who provides a prearranged ride to the rider in the driver's personal vehicle between points chosen by the rider.</p>
+            </content>
+          </section>
+          <section eId="sec_28-23-190">
+            <num>28.23.190</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 28.23.190.   Short title.
+This chapter may be cited as the Transportation Network Companies Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-72"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-72"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.72"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-72/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-72/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-72/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-72/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_72">
+          <num>72</num>
+          <heading>Post-Conviction Relief Procedures for Persons Convicted of Criminal Offenses</heading>
+          <section eId="sec_12-72-010">
+            <num>12.72.010</num>
+            <heading>Scope of post-conviction relief.</heading>
+            <content>
+              <p>Sec. 12.72.010.   Scope of post-conviction relief.
+A person who has been convicted of, or sentenced for, a crime may institute a proceeding for post-conviction relief if the person claims
+(1) that the conviction or the sentence was in violation of the Constitution of the United States or the constitution or laws of this state;
+(2) that the court was without jurisdiction to impose sentence;
+(3) that a prior conviction has been set aside and the prior conviction was used as a statutorily required enhancement of the sentence imposed;
+(4) that there exists evidence of material facts, not previously presented and heard by the court, that requires vacation of the conviction or sentence in the interest of justice; if the person seeks post-conviction DNA testing to support a claim under this paragraph, the person's exclusive method for obtaining that testing is an application under
+AS 12.73
+;
+(5) that the person's sentence has expired, or the person's probation, parole, or conditional release has been unlawfully revoked, or the person is otherwise unlawfully held in custody or other restraint;
+(6) that the conviction or sentence is otherwise subject to collateral attack upon any ground or alleged error previously available under the common law, statutory law, or other writ, motion, petition, proceeding, or remedy;
+(7) that
+(A) there has been a significant change in law, whether substantive or procedural, applied in the process leading to the person's conviction or sentence;
+(B) the change in the law was not reasonably foreseeable by a judge or a competent attorney;
+(C) it is appropriate to retroactively apply the change in law because the change requires observance of procedures without which the likelihood of an accurate conviction is seriously diminished; and
+(D) the failure to retroactively apply the change in law would result in a fundamental miscarriage of justice, which is established by demonstrating that, had the changed law been in effect at the time of the applicant's trial, a reasonable trier of fact would have a reasonable doubt as to the guilt of the applicant;
+(8) that, after the imposition of sentence, the applicant seeks to withdraw a plea of guilty or nolo contendere in order to correct manifest injustice under the Alaska Rules of Criminal Procedure; or
+(9) that the applicant was not afforded effective assistance of counsel at trial or on direct appeal.</p>
+            </content>
+          </section>
+          <section eId="sec_12-72-020">
+            <num>12.72.020</num>
+            <heading>Limitations on applications for post-conviction relief.</heading>
+            <subsection eId="12-72-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A claim may not be brought under
+AS 12.72.010
+or the Alaska Rules of Criminal Procedure if</p>
+              </content>
+              <paragraph eId="12-72-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the claim is based on the admission or exclusion of evidence at trial or on the ground that the sentence is excessive;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-72-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the claim was, or could have been but was not, raised in a direct appeal from the proceeding that resulted in the conviction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-72-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the later of the following dates has passed, except that if the applicant claims that the sentence was illegal there is no time limit on the claim:
+(A) if the claim relates to a conviction, 18 months after the entry of the judgment of the conviction or, if the conviction was appealed, one year after the court's decision is final under the Alaska Rules of Appellate Procedure;
+(B) if the claim relates to a court revocation of probation, 18 months after the entry of the court order revoking probation or, if the order revoking probation was appealed, one year after the court's decision is final under the Alaska Rules of Appellate Procedure;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-72-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>one year or more has elapsed from the final administrative decision of the Board of Parole or the Department of Corrections that is being collaterally attacked;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-72-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the claim was decided on its merits or on procedural grounds in any previous proceeding; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-72-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a previous application for post-conviction relief has been filed under this chapter or under the Alaska Rules of Criminal Procedure.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-72-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a)(3) and (4) of this section, a court may hear a claim</p>
+              </content>
+              <paragraph eId="12-72-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if the applicant establishes due diligence in presenting the claim and sets out facts supported by admissible evidence establishing that the applicant
+(A) suffered from a physical disability or from a mental disease or defect that precluded the timely assertion of the claim; or
+(B) was physically prevented by an agent of the state from filing a timely claim;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-72-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>based on newly discovered evidence if the applicant establishes due diligence in presenting the claim and sets out facts supported by evidence that is admissible and
+(A) was not known within</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-72-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>18 months after entry of the judgment of conviction if the claim relates to a conviction;
+(ii) 18 months after entry of a court order revoking probation if the claim relates to a court's revocation of probation; or
+(iii) one year after an administrative decision of the Board of Parole or the Department of Corrections is final if the claim relates to the administrative decision;
+(B) is not cumulative to the evidence presented at trial;
+(C) is not impeachment evidence; and
+(D) establishes by clear and convincing evidence that the applicant is innocent.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-72-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (a)(6) of this section, a court may hear a claim based on a final administrative decision of the Board of Parole or the Department of Corrections if</p>
+              </content>
+              <paragraph eId="12-72-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the claim was not and could not have been challenged in a previous application for post-conviction relief filed under this chapter or under the Alaska Rules of Criminal Procedure; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-72-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a previous application for post-conviction relief relating to the administrative decision has not been filed under this chapter or under the Alaska Rules of Criminal Procedure.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-72-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The court may not consider a substantive claim in an application brought under
+AS 12.72.010
+or the Alaska Rules of Criminal Procedure until the court has first determined that</p>
+              </content>
+              <paragraph eId="12-72-020__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the application is timely; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-72-020__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>except for an application described in
+AS 12.72.025
+or allowed under (c) of this section, no previous application has been filed.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-72-025">
+            <num>12.72.025</num>
+            <heading>Applications based on claim of ineffective assistance of counsel.</heading>
+            <content>
+              <p>Sec. 12.72.025.   Applications based on claim of ineffective assistance of counsel.
+An application may not be brought under
+AS 12.72.010
+or the Alaska Rules of Criminal Procedure if it is based on a claim that the assistance the applicant's attorney provided in a prior application under
+AS 12.72.010
+or the Alaska Rules of Criminal Procedure was ineffective, unless it is filed within one year after the court's decision on the prior application is final under the Alaska Rules of Appellate Procedure.</p>
+            </content>
+          </section>
+          <section eId="sec_12-72-030">
+            <num>12.72.030</num>
+            <heading>Filing of application for post-conviction relief.</heading>
+            <subsection eId="12-72-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An application for post-conviction relief shall be filed with the clerk at the court location where the underlying criminal case is filed.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-72-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who files an application for post-conviction relief under this chapter or the Alaska Rules of Criminal Procedure may not pursue discovery related to the application unless the applicant first pleads a prima facie case for relief and the court finds that a prima facie case for relief has been established under this chapter or the Alaska Rules of Criminal Procedure.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-72-040">
+            <num>12.72.040</num>
+            <heading>Burden of proof in post-conviction relief proceedings.</heading>
+            <content>
+              <p>Sec. 12.72.040.   Burden of proof in post-conviction relief proceedings.
+A person applying for post-conviction relief must prove all factual assertions by clear and convincing evidence.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

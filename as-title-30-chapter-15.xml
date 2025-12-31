@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-15"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="30.15"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-30/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-30/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_30">
+        <num>30</num>
+        <heading>Navigation, Harbors, Shipping, and Transportation Facilities</heading>
+        <chapter eId="title_30__chp_15">
+          <num>15</num>
+          <heading>State Participation in Port Facilities and Development</heading>
+          <section eId="sec_30-15-010">
+            <num>30.15.010</num>
+            <heading>State grants for port facilities construction.</heading>
+            <content>
+              <p>Sec. 30.15.010.   State grants for port facilities construction.
+To the extent funds are appropriated by the legislature, or from the proceeds from the sale of bonds, the state may make grants to municipalities to finance a portion of the cost of constructing local, regional, or state port facilities.  The state shall participate only in those projects approved by the governor on recommendation of the commissioner.</p>
+            </content>
+          </section>
+          <section eId="sec_30-15-020">
+            <num>30.15.020</num>
+            <heading>Criteria for establishing eligibility.</heading>
+            <subsection eId="30-15-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before a grant may be awarded under this chapter, the commissioner shall determine that</p>
+              </content>
+              <paragraph eId="30-15-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the grant is for a feasible project;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="30-15-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the project is endorsed by resolution of the governing body of the sponsoring municipality on its own behalf, or on behalf of a service area in an organized borough if a service area is established to finance and construct port facilities and operate and maintain them once constructed; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="30-15-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the municipality can clearly demonstrate its ability to finance the local share of project costs.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="30-15-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A grant may not be awarded under this chapter for a port facility development project until a study of its feasibility is conducted and submitted with the application for the grant.  The project also must be justifiable on the basis of public convenience and necessity.  The study shall be conducted by consultants, engineers, or other technical experts, who may be officers or employees of the municipality in making application for a grant.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_30-15-030">
+            <num>30.15.030</num>
+            <heading>Limitation on grants.</heading>
+            <content>
+              <p>Sec. 30.15.030.   Limitation on grants.
+Grants for the development of port facilities may not exceed
+(1) 90 percent of project costs for municipalities under 5,000 population;
+(2) 80 percent of project costs for municipalities 5,000 population and over.</p>
+            </content>
+          </section>
+          <section eId="sec_30-15-040">
+            <num>30.15.040</num>
+            <heading>Disposition of state land for port facilities development projects.</heading>
+            <content>
+              <p>Sec. 30.15.040.   Disposition of state land for port facilities development projects.
+The division of lands in the Department of Natural Resources, subject to the applicable provisions of
+AS 38.05
+and
+AS 38.10
+, may convey title or other interests in state land, provide for the exchange of state land, or make other arrangements with respect to state land that may be necessary to complete a project for which a state grant is approved under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_30-15-050">
+            <num>30.15.050</num>
+            <heading>Combined port and ferry terminal facilities.</heading>
+            <content>
+              <p>Sec. 30.15.050.   Combined port and ferry terminal facilities.
+A grant may be awarded under this chapter for a port facilities development project that includes, or combines, state ferry terminal facilities as a part of the project. However, the state shall pay the proportionate project costs attributable to the ferry terminal including but not limited to vehicle staging areas, transfer spans and aprons, passenger terminal facilities and offices, docks and other docking facilities for ferry vessels.</p>
+            </content>
+          </section>
+          <section eId="sec_30-15-060">
+            <num>30.15.060</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 30.15.060.   Regulations.
+The commissioner shall adopt regulations under
+AS 44.62
+(Administrative Procedure Act) that the commissioner considers necessary to carry out the provisions of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_30-15-070">
+            <num>30.15.070</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 30.15.070.   Definitions.
+In this chapter,
+(1) commissioner means the commissioner of transportation and public facilities;
+(2) port facilities means docks, wharves, bulkheads, seawalls, landfills, warehouses, staging areas, transfer spans and aprons, lifting equipment and similar structures together with the necessary equipment and facilities required to accommodate waterborne commerce and shipping, including but not limited to combined port and ferry terminal facilities;
+(3) project costs means the cost of financing or borrowing, site acquisition and rights-of-way, planning, engineering and designing, construction, equipment acquisition and installation, but does not include the cost of operation or maintenance of the port facilities once constructed or the cost of feasibility studies required in making application for a grant under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_30-15-080">
+            <num>30.15.080</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 30.15.080.   Short title.
+This chapter may be cited as the Port Facilities Development Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

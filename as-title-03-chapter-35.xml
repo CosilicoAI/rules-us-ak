@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-35"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-35"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="3.35"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-35/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-35/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_3">
+        <num>3</num>
+        <heading>Agriculture, Animals, and Food</heading>
+        <chapter eId="title_3__chp_35">
+          <num>35</num>
+          <heading>Controlled Livestock Districts</heading>
+          <section eId="sec_03-35-010">
+            <num>03.35.010</num>
+            <heading>Establishment of controlled livestock districts; prohibition against animals at large.</heading>
+            <subsection eId="03-35-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A district judge may establish a controlled livestock district within a municipality or in other settled areas of the state, as provided in this chapter, to consist of a contiguous area of not less than 1,280 acres.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-35-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The owner and the person having custody and control of a domestic animal kept within a controlled livestock district may not with criminal negligence permit the domestic animal to graze or run at large.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-35-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Violation of (b) of this section is a class B misdemeanor.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-35-020">
+            <num>03.35.020</num>
+            <heading>Petition for establishment, addition, elimination, or dissolution.</heading>
+            <subsection eId="03-35-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A controlled livestock district may be established upon petition of not less than 60 percent of the resident owners and lessees of the land within the area to be included in the district who own or lease 30 percent of the land described in the petition. The petition must contain a statement of its purpose, define the boundaries of the area to be included within the district, be signed by the required resident owners and lessees within the area described, and be filed with the district judge for the district within which the land is situated.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-35-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An addition to an established controlled livestock district may be made under the same procedures set out for creating the district if the addition has at least 160 acres and is contiguous to the established district.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-35-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A portion of a controlled livestock district may be eliminated or a district may be dissolved if 60 percent of the resident owners and lessees of the land within the district who own or lease 30 percent of the land within the district petition for the elimination or dissolution under the procedure set out in this section for the establishment of a controlled livestock district.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-35-030">
+            <num>03.35.030</num>
+            <heading>Notice, hearing, and order.</heading>
+            <content>
+              <p>Sec. 03.35.030.   Notice, hearing, and order.
+Upon receipt of a petition for the establishment, addition, elimination, or dissolution of a controlled livestock district, the district judge shall set a time for hearing the petition not less than 30 days after its receipt. Notice of the time and place of the hearing and its purpose shall be posted in not fewer than three conspicuous public places within the proposed district for a period of at least 30 days before the hearing. If, at the hearing, the district judge finds that the petition meets the requirements established under
+AS 03.35.020
+and that notice of the hearing has been given, the district judge shall enter an order granting the request contained within the petition. The boundaries of the district are those proposed within the petition. The district judge shall certify to the clerk of the superior court for the judicial district a copy of the findings and order. The district judge shall send a copy of the order to the commissioner.</p>
+            </content>
+          </section>
+          <section eId="sec_03-35-035">
+            <num>03.35.035</num>
+            <heading>Identification of domestic animals within controlled livestock district.</heading>
+            <subsection eId="03-35-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within 60 days of the establishment of a controlled livestock district or of the addition to an established controlled livestock district under
+AS 03.35.010
+, the person having custody and control of domestic animals located within the district shall identify the animals under
+AS 03.40
+, use identification collars to indicate ownership, or otherwise use a reliable system for the identification of the ownership of the animal.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-35-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who violates (a) of this section commits a violation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-35-040">
+            <num>03.35.040</num>
+            <heading>Liability for damages; lien.</heading>
+            <subsection eId="03-35-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The owner of land within a controlled livestock district, whether the land is fenced or unfenced, is entitled to recover, from the owner or person having custody and control of a domestic animal, for any injury done by the animal when grazing or running at large within a controlled livestock district contrary to the provisions of this chapter, and has a lien upon the domestic animal for the amount of the damage done.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-35-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A claim for damages may not exceed $500 against any one animal for any one trespass.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-35-050">
+            <num>03.35.050</num>
+            <heading>Impounding and public sale of animals running at large.</heading>
+            <content>
+              <p>Sec. 03.35.050.   Impounding and public sale of animals running at large.
+The owner of any land within a controlled livestock district may impound a domestic animal trespassing upon that land and keep the animal until damages, together with reasonable charges for keeping and feeding it, are paid.  Within 24 hours after impounding an animal, the person impounding it shall give notice in writing to the owner or claimant of the animal, if the owner is known, or, if the owner is unknown, file a notice of impounding with the district judge for the district and post a copy of the notice in a public place nearest to the enclosure of the impounded animal.  If, within five days after receipt of the notice of impoundment or posting of the notice of impoundment, the owner or claimant fails to claim the animal and pay the reasonable charges for keeping and feeding it, together with damages and costs, the animal may be sold at public auction as provided in
+AS 03.35.055
+.</p>
+            </content>
+          </section>
+          <section eId="sec_03-35-055">
+            <num>03.35.055</num>
+            <heading>Public auction.</heading>
+            <subsection eId="03-35-055__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before the sale of the animal at public auction, notice of the sale shall be given by the impounder by posting a written or printed notice of the time and place of sale in a public place nearest to the enclosure of the impounded animal not less than 10 days before the day of the sale.  The owner or claimant of the animal may redeem the animal at any time before the sale by paying the reasonable charges for keeping and feeding the animal, together with damages and costs, to the person impounding the animal.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-35-055__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The impounder, or an agent, shall sell the animal at public auction to the highest bidder in the manner provided for the sale of personal property on execution.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-35-055__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Proceeds of the sale in excess of all reasonable charges and costs shall be paid over to the district judge for the district to be disposed of as provided in
+AS 34.45.070
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-35-070">
+            <num>03.35.070</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 03.35.070.   Definitions.
+As used in this chapter,
+(1) domestic animal includes goats, sheep, cattle, horses, and swine;
+(2) owner of land includes a freeholder, tenant, contract vendee, or other person in actual possession of land.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

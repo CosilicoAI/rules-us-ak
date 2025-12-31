@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-40"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-40"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="43.40"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-40/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-40/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-43/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-43/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_43">
+        <num>43</num>
+        <heading>Revenue and Taxation</heading>
+        <chapter eId="title_43__chp_40">
+          <num>40</num>
+          <heading>Motor Fuel Tax</heading>
+          <section eId="sec_43-40-005">
+            <num>43.40.005</num>
+            <heading>Refined fuel surcharge levied.</heading>
+            <subsection eId="43-40-005__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Every dealer or user of refined fuels shall pay a surcharge of $.0095 a gallon on refined fuel sold, transferred, or used in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-005__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The following refined fuels are exempt from the surcharge imposed under this section:</p>
+              </content>
+              <paragraph eId="43-40-005__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>fuel sold to a federal or state government agency for official use;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-005__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>fuel refined and used outside the United States;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-005__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>liquefied petroleum gas;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-005__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>aviation fuel;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-005__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>fuel sold or transferred between qualified dealers.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_43-40-007">
+            <num>43.40.007</num>
+            <heading>Use of revenue derived from the refined fuel surcharge.</heading>
+            <content>
+              <p>Sec. 43.40.007.   Use of revenue derived from the refined fuel surcharge.
+The legislature may appropriate the annual estimated balance of the surcharge levied under
+AS 43.40.005
+to the oil and hazardous substance release prevention account of the oil and hazardous substance release prevention and response fund established in
+AS 46.08.010
+. Nothing in this section creates a dedicated fund.</p>
+            </content>
+          </section>
+          <section eId="sec_43-40-010">
+            <num>43.40.010</num>
+            <heading>Tax on transfers or consumption of motor fuel and expenditure of proceeds.</heading>
+            <subsection eId="43-40-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to the surcharge levied under
+AS 43.40.005
+, there is levied a tax of eight cents a gallon on all motor fuel sold or otherwise transferred within the state, except that</p>
+              </content>
+              <paragraph eId="43-40-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the tax on aviation gasoline is four and seven-tenths cents a gallon;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the tax on motor fuel used in and on watercraft of all descriptions is five cents a gallon;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the tax on all aviation fuel other than gasoline is three and two-tenths cents a gallon; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the tax rate on motor fuel that is blended with alcohol is the same tax rate a gallon as other motor fuel; however, in an area and during the months in which fuel containing alcohol is required to be sold, transferred, or used in an effort to attain air quality standards for carbon monoxide as required by federal or state law or regulation, the tax rate on motor fuel that is blended with alcohol is six cents a gallon less than the tax on other motor fuel not described in (1)  (3) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-40-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to the surcharge levied under
+AS 43.40.005
+, there is levied a tax of eight cents a gallon on all motor fuel consumed by a user, except that</p>
+              </content>
+              <paragraph eId="43-40-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the tax on aviation gasoline consumed is four and seven-tenths cents a gallon;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the tax on motor fuel used in and on watercraft of all descriptions is five cents a gallon;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the tax on all aviation fuel other than gasoline is three and two-tenths cents a gallon; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-010__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the tax rate on motor fuel that is blended with alcohol is the same tax rate a gallon as other motor fuel; however, in an area and during the months in which fuel containing alcohol is required to be sold, transferred, or used in an effort to attain air quality standards for carbon monoxide as required by federal or state law or regulation, the tax rate on motor fuel that is blended with alcohol is six cents a gallon less than the tax on other motor fuel not described in (1)  (3) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-40-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 24 ch 37 SLA 2015.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 3 ch 166 SLA 1976.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Sixty percent of the proceeds of the revenue from the motor fuel taxes on aviation fuel, excluding the amount determined to have been spent by the state in its collection, shall be refunded to a municipality owning and operating or leasing and operating an airport in the proportion that the revenue was collected at the municipal airport. All other proceeds of the motor fuel taxes on aviation fuel shall be paid into a special aviation fuel tax account in the state general fund. The legislature may appropriate funds from this account for capital or operating costs of airports.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The proceeds from the revenue from the tax on motor fuel used in boats and watercraft of all descriptions shall be deposited in a special watercraft fuel tax account in the general fund. The legislature may appropriate from this account for water and harbor facilities.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-010__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The proceeds of the revenue from the tax on all motor fuels, except as provided in (e), (f) and (j) of this section, shall be deposited in a special highway fuel tax account in the state general fund. The legislature may appropriate funds from it for expenditure by the Department of Transportation and Public Facilities directly or as matched with available federal-aid highway money for maintenance of highways, construction of highway projects and ferries included in the program provided for in
+AS 19.10.150
+, including approaches, appurtenances and related facilities and acquisition of rights-of-way or easements, and other highway costs including surveys, administration, and related matters.  All departments of the state government authorized to spend funds collected from taxes imposed by this chapter shall perform, when feasible, all construction or reconstruction projects by contract after the projects have been advertised for competitive bids, except that, when feasible, arrangements shall be made with political subdivisions to carry out the construction or reconstruction projects.  If it is not feasible for the work to be performed by state engineering forces, the commissioner of transportation and public facilities may contract on a professional basis with private engineering firms for road design, bridge design, and services in connection with surveys.  If more than one private engineering firm is available for the work the contracts shall be entered into on a negotiated basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-010__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>All motor fuel tax receipts shall be paid into the general fund and distributed to the proper accounts in the general fund.  Valid motor fuel tax refund claims shall be paid from the highway fuel tax account in the general fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-010__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>[Repealed, § 35 ch 126 SLA 1994.]</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-010__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The proceeds from the tax on motor fuel used in snow vehicles and, unless a tax refund is applied for under
+AS 43.40.050
+(a), other internal combustion engines not used in or in conjunction with a motor vehicle licensed to be operated on public ways shall be deposited in a special nonpublic highway use account in the general fund.  The legislature may appropriate from this account to the Department of Transportation and Public Facilities for trail staking and shelter construction and maintenance.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-010__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The tax on the transfer or consumption of motor fuel provided for in this section does not apply to liquified petroleum gas.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-010__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>[Repealed, § 3 ch 182 SLA 1990.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-40-013">
+            <num>43.40.013</num>
+            <heading>Collection of the refined fuel surcharge and the motor fuel tax.</heading>
+            <content>
+              <p>Sec. 43.40.013.   Collection of the refined fuel surcharge and the motor fuel tax.
+Every dealer who sells or otherwise transfers refined or motor fuel in the state shall collect the surcharge and tax required in this chapter at the time of sale, and remit the total surcharge and tax collected during each calendar month of each year to the department by the last day of each succeeding month. Every user shall likewise remit the surcharge and tax required in this chapter and accrued on fuel actually used by the user during each month. If the monthly return is timely filed, one percent of the total monthly surcharge and tax due, limited to a maximum of $100, may be deducted and retained to cover the expense of accounting and filing the monthly return. At the time the remittance is made, each dealer or user shall submit a statement to the department showing all fuel that the dealer or user has distributed or used during the month.</p>
+            </content>
+          </section>
+          <section eId="sec_43-40-015">
+            <num>43.40.015</num>
+            <heading>Exemption from collection of tax.</heading>
+            <subsection eId="43-40-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A dealer who has a reasonable belief at the time of sale or transfer that fuel that is sold or transferred is not to be used as motor fuel need not collect the motor fuel tax. However, as to fuel for which the tax was not collected and for which a certificate of use was not obtained, if the department determines that the fuel was put to a use that is taxable under this chapter, the dealer is liable for the tax and subject to a civil penalty under
+AS 43.05.220</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>whether or not the dealer's belief that the fuel sold or transferred would not be used as motor fuel was reasonable.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except for sale or transfer of fuel under (d) of this section, if the motor fuel tax is not collected, the dealer shall obtain a certificate of use from the buyer or transferee at the time of the first sale or transfer of the fuel stating that the fuel that has been or will be purchased or received is not intended for use as motor fuel.  The form of the certificate of use shall be prescribed by the department by regulation.  The department may not collect the motor fuel tax from a dealer for fuel for which a certificate of use has been properly obtained under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-015__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A certificate of use obtained under this section must be renewed annually for exemptions listed under
+AS 43.40.100</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-015__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A certificate of use is not required under this section</p>
+              </content>
+              <paragraph eId="43-40-015__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for fuel exempted under
+AS 43.40.100
+(2)(C) or (J); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-015__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for fuel exempted under
+AS 43.40.100
+(2)(I) other than fuel sold or transferred under this exemption to a person who is engaged in construction or mining activity.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_43-40-030">
+            <num>43.40.030</num>
+            <heading>Refund of the motor fuel tax for nonhighway use.</heading>
+            <subsection eId="43-40-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as specified in
+AS 43.40.010
+(j), a person who uses motor fuel to operate an internal combustion engine is entitled to a motor fuel tax refund of six cents a gallon if</p>
+              </content>
+              <paragraph eId="43-40-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the tax on the motor fuel has been paid;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the motor fuel is not aviation fuel, or motor fuel used in or on watercraft; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the internal combustion engine is not used in or in conjunction with a motor vehicle licensed to be operated on public ways.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-40-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The entire amount of the motor fuel tax levied by this chapter shall be refunded to the purchaser on that part of the motor fuel used in a foreign country on which the tax has been paid when the fuel is sold and delivered in the state for non-highway use in a foreign country.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall establish the necessary regulations and prescribe the appropriate forms to prove that, for purposes of the motor fuel tax, the motor fuel is taken to and used in foreign countries.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a person obtains motor fuel on which the motor fuel tax levied by this chapter has been paid and the motor fuel is exempt from the motor fuel tax, the person is entitled to a refund of the motor fuel tax paid.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-40-035">
+            <num>43.40.035</num>
+            <heading>Other refunds and credits.</heading>
+            <subsection eId="43-40-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who resells fuel on which a surcharge under
+AS 43.40.005
+or the tax under
+AS 43.40.010</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or (b) was previously paid is entitled to a credit or refund of (1) the motor fuel tax if the resold fuel is not motor fuel and the requirements of
+AS 43.40.015
+have been fulfilled; or (2) the amount of surcharge or tax previously paid exceeds the surcharge or tax due on the resale. The amount of the credit or refund under this section is equal to the amount of the surcharge or tax previously paid on the resold fuel less the amount of the surcharge or tax prescribed by
+AS 43.40.005
+or 43.40.010(a) or (b), respectively.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A reseller may elect, with the express written consent of the supplier of the reseller, to receive the credit or refund under this section directly from the supplier rather than by filing a claim for the credit or refund with the department. When an election is properly made under this subsection, the supplier may claim the credit or refund from the department. To be effective an election under this subsection must be signed in quadruplicate by the reseller and by the supplier. The reseller and the supplier shall each file one copy of the election, with original signatures, with the department. The reseller and supplier shall each retain a copy of the election with original signatures for audit review by the department. If an election is made under this subsection, it may not be revoked without the express written consent of the supplier.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-035__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For motor fuel sold to federal, state, and local government agencies for official use and purchased with a government credit card, the credit card issuer may apply for a refund of any motor fuel tax assessed on the purchase if the tax is not billed by the credit card issuer to the government agency making the purchase. For refined fuel sold to federal agencies for official use and purchased with a government credit card, the credit card issuer may apply for a refund of any refined fuel surcharge assessed on the purchase if the surcharge is not billed by the credit card issuer to the government agency making the purchase.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-40-050">
+            <num>43.40.050</num>
+            <heading>Refund claim by affidavit or other documentation.</heading>
+            <subsection eId="43-40-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who claims a refund under
+AS 43.40.030
+shall present the claim for the refund to the commissioner by affidavit upon a form provided by the commissioner.  The claim shall include the name, address, and occupation of the applicant, the nature of the business of the applicant, and a description sufficient to identify the machinery or equipment in which the motor fuel for which the refund is claimed was used.  The claim shall be accompanied by each invoice issued to the claimant at the time the motor fuel was purchased.  The commissioner may require any additional information that the commissioner considers necessary for the administration of this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A claim for refund under
+AS 43.40.030
+or 43.40.035 shall be filed within one year after the date of the purchase of the refined or motor fuel as indicated on the invoice, and failure to file within the one-year period is a waiver of the right to the refund. A claim is considered to be filed when the claim is mailed or personally presented to an office of the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A reseller who claims a refund or credit under
+AS 43.40.035
+shall present the refund claim to the department or to the supplier of that reseller by affidavit on a form provided by the department.  The claim shall include the name, address, and occupation of the applicant, the nature of the business of the applicant, and a description sufficient to identify the reason for the refund or credit.  The claim shall be supported by documentation required by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A credit card issuer who claims a refund under
+AS 43.40.035
+shall present the refund claim to the department on a form prescribed by the department together with documentation of the claim required by the department.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-40-060">
+            <num>43.40.060</num>
+            <heading>Separate invoices.</heading>
+            <content>
+              <p>Sec. 43.40.060.   Separate invoices.
+The department may require the issuance of separate invoices for refined or motor fuel sold, distributed, or transferred when the invoices will be the basis for a refund claim.</p>
+            </content>
+          </section>
+          <section eId="sec_43-40-070">
+            <num>43.40.070</num>
+            <heading>Refund warrants.</heading>
+            <subsection eId="43-40-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon approval of a refund claim of the motor fuel tax by the department, a disbursement shall be made from the highway fuel tax account in the general fund in favor of the applicant in the amount of the claim.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon approval of a refund claim of the refined fuel surcharge by the department, a disbursement shall be made from the oil and hazardous substance release prevention account of the oil and hazardous substance release prevention and response fund established in
+AS 46.08.010
+in favor of the applicant in the amount of the claim.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-40-080">
+            <num>43.40.080</num>
+            <heading>Examination of books and records.</heading>
+            <subsection eId="43-40-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To determine the validity of a claim for refund, the department may examine the books and records of the claimant and the books and records of a distributor of the refined or motor fuel. The department may cancel the refund of a claimant relying on a fraudulent invoice.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 46 ch 113 SLA 1980.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-40-085">
+            <num>43.40.085</num>
+            <heading>Preservation of books and records.</heading>
+            <content>
+              <p>Sec. 43.40.085.   Preservation of books and records.
+Dealers and users shall preserve for three years all books and records pertaining to sales, transfers, and uses of refined or motor fuel that are subject to a surcharge or tax under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_43-40-092">
+            <num>43.40.092</num>
+            <heading>Disallowance of exemption from motor fuel tax for certain fuel sold for use in jet propulsion aircraft operating in flights that continue from foreign countries.</heading>
+            <subsection eId="43-40-092__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provisions of this section apply to disallow the exemption from the motor fuel tax for motor fuel sold for use by a dealer or used by a user in jet propulsion aircraft operating in flights that continue from foreign countries if, for motor fuel produced by a refiner,</p>
+              </content>
+              <paragraph eId="43-40-092__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the refiner determines, on or after July 1, 1997, that the refiner will expand capacity or expand the refinery to produce more residual fuel oil used in watercraft;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-092__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>on or after the July 1, 1997, the refiner has voluntarily committed by agreement entered into with the commissioner that, if the refiner expands its oil refining capacity in order to produce additional supplies of fuel for use in jet propulsion aircraft that qualify for the tax exemption, when the refiner expands capacity, the refiner will
+(A) use the refiner's best efforts to advertise for, recruit, and employ in the construction activities associated with expanding refinery capacity resident workers who have experience in the specific fields in which they are hired to work;
+(B) contract with licensed Alaska firms to prepare materials that are used in construction activities and to provide services in conjunction with activities associated with expanded refinery capacity and, in contracting with those firms, to encourage the refiner's contractors to employ and, when necessary, train state residents; and
+(C) enter into contracts with Alaska-licensed vendors, contractors, and suppliers for the provision of supplies and services used in conjunction with activities associated with expanding refinery capacity; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-092__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the commissioner determines that a dealer or user claiming the exemption for motor fuel acquired from a refiner who has entered into an agreement described in (2) of this subsection acquired the motor fuel for which the exemption is claimed from a refiner who has not complied with the requirements of the agreement in completing expansion of its oil refining capacity under the agreement described in (1) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-40-092__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this section,</p>
+              </content>
+              <paragraph eId="43-40-092__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the term resident worker means an individual who
+(A) is physically present in the state with the intent to remain in the state indefinitely and has a home in the state;
+(B) demonstrates that intent by maintaining a residence in the state;
+(C) possesses a resident fishing, trapping, or hunting license, or receives a permanent fund dividend; and
+(D) may be required to state under oath that the individual is not claiming residency outside of the state or obtaining benefits under a claim of residency outside of the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-092__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the phrases Alaska-licensed contractors and Alaska firms mean a contractor or firm that
+(A) has held an Alaska business license for one year before performing any work in connection with the commitment described in (a) of this section;
+(B) has maintained for one year a place of business within the state that deals in the supplies, services, or construction of the nature required for the commitment described in (a) of this section; and
+(C) is</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-40-092__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a sole proprietorship and the proprietor is an Alaska resident;
+(ii) a partnership and more than 50 percent of the partners are Alaska residents;
+(iii) a corporation that has been incorporated in the state or is authorized to do business in the state; or
+(iv) a joint venture composed entirely of ventures that qualify under this subparagraph.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-40-094">
+            <num>43.40.094</num>
+            <heading>Qualified dealer license.</heading>
+            <subsection eId="43-40-094__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A dealer is eligible for a qualified dealer license if the dealer sells at least 50 percent of fuel acquired to unrelated persons for any combination of the following purposes:</p>
+              </content>
+              <paragraph eId="43-40-094__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>resale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-094__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>use in heating private or commercial buildings or facilities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-094__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>use in jet propulsion aircraft;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-094__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>motor fuel.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-40-094__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person applying for a qualified dealer license must use a form or format prescribed by the department. At the time of application, the applicant must provide an estimate of the average number of gallons of fuel subject to surcharge or tax each month during a calendar year, and state the estimated amount of surcharge and tax on those gallons. A license issued under this section is not transferable.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-094__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may not issue or renew a qualified dealer license if</p>
+              </content>
+              <paragraph eId="43-40-094__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the department finds that the applicant or qualified dealer has withheld information required in the application or that the information submitted in the application is false or misleading;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-094__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the applicant, or a responsible person of a business organization that is applying for the license, has been convicted within the last 10 years, in this state or in any other taxing jurisdiction, of crimes involving a fuel surcharge or tax;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-094__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the qualified dealer fails to comply with a requirement of this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-094__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the qualified dealer has failed to pay in full the surcharge, taxes, interest, and penalties levied under
+AS 43.05
+or this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-40-094__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department may</p>
+              </content>
+              <paragraph eId="43-40-094__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>issue only one qualified dealer license to each person;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-094__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>put additional limitations on the applicant or holder of a qualified dealer license.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="43-40-094__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A license issued under this section expires on June 30 following the date of issue. Before a license issued under this section expires, the licensee may apply to renew the license, on a form or in a format prescribed by the department, for one year after the expiration date of the license.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-094__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If the department determines a qualified dealer license may not be issued or renewed under this section, the department shall mail or electronically deliver a notice of license denial or nonrenewal to the person whose license was denied or not renewed. The person may appeal a notice of license denial or nonrenewal not later than 10 days after the date the notice was mailed or electronically delivered.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-094__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The department may, at the time an applicant applies for a qualified dealer license, require the applicant to file a bond or other security with the department in an amount equal to twice the estimated surcharge and tax due to the department in one month, or $5,000, whichever is greater.</p>
+              </content>
+            </subsection>
+            <subsection eId="43-40-094__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The department may adopt regulations to implement this section, including regulations relating to the revocation of a license.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_43-40-100">
+            <num>43.40.100</num>
+            <heading>Definitions.</heading>
+            <subsection eId="43-40-100__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>to foreign countries; or
+(ii) that continue from foreign countries, unless exemption of the motor fuel from taxation is disallowed because of the refiner's failure to comply with the provisions of a voluntary agreement under
+AS 43.40.092
+in conjunction with expansion of refinery capacity;
+(C) fuel used in stationary power plants operating as public utility plants and generating electrical energy for sale to the general public;
+(D) fuel used by nonprofit power associations or corporations for generating electric energy for resale;
+(E) fuel used by charitable institutions;
+(F) fuel sold or transferred between qualified dealers;
+(G) fuel sold to federal, state, and local government agencies for official use;
+(H) fuel used in stationary power plants that generate electrical energy for private residential consumption;
+(I) fuel used to heat private or commercial buildings or facilities;
+(J) fuel used for other nontaxable purposes as prescribed by regulations adopted by the department;
+(K) fuel used in stationary power plants of 100 kilowatts or less that generate electrical power for commercial enterprises not for resale; or
+(L) residual fuel oil used in and on watercraft if the residual fuel oil is sold or transferred in the state or consumed by a user; for purposes of this subparagraph, residual fuel oil means the heavy refined hydrocarbon known as number 6 fuel oil that is the residue from crude oil after refined petroleum products have been extracted by the refining process and that may be consumed or used only when sufficient heat is provided to the oil to reduce its viscosity rated by kinetic unit and to give it fluid properties sufficient for pumping and combustion;</p>
+              </content>
+              <paragraph eId="43-40-100__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>qualified dealer means a person who (A) refines, (B) imports, (C) manufactures, (D) produces, (E) compounds, or (F) wholesales refined or motor fuel;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-100__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>refined fuel means fuel produced from oil that is used in an engine, machine, or contrivance that creates heat, energy, or power;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="43-40-100__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>user means a person consuming or using refined or motor fuel, who
+(A) purchases the fuel out of the state and ships it into the state for personal use in the state;
+(B) manufactures the fuel in the state; or
+(C) purchases or receives fuel in the state that is not subject to the surcharge or tax under this chapter at the time of purchase or receipt or is subject to a surcharge or tax that is less than the rate prescribed by
+AS 43.40.005
+or 43.40.010.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

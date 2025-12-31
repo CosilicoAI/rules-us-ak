@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-25/chapter-05"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-25/chapter-05"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="25.05"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-25/chapter-05/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-25/chapter-05/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-25/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-25/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_25">
+        <num>25</num>
+        <heading>Marital and Domestic Relations</heading>
+        <chapter eId="title_25__chp_05">
+          <num>05</num>
+          <heading>Alaska Marriage Code</heading>
+          <section eId="sec_25-05-011">
+            <num>25.05.011</num>
+            <heading>Civil contract.</heading>
+            <subsection eId="25-05-011__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Marriage is a civil contract entered into by one man and one woman that requires both a license and solemnization. The man and the woman must each be at least one of the following:</p>
+              </content>
+              <paragraph eId="25-05-011__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>18 years of age or older and otherwise capable;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="25-05-011__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>qualified for a license under
+AS 25.05.171
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="25-05-011__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a member of the armed forces of the United States while on active duty.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="25-05-011__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not be joined in marriage in this state until a license has been obtained for that purpose as provided in this chapter.  A marriage performed in this state is not valid without solemnization as provided in this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_25-05-013">
+            <num>25.05.013</num>
+            <heading>Same-sex marriages.</heading>
+            <subsection eId="25-05-013__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A marriage entered into by persons of the same sex, either under common law or under statute, that is recognized by another state or foreign jurisdiction is void in this state, and contractual rights granted by virtue of the marriage, including its termination, are unenforceable in this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="25-05-013__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A same-sex relationship may not be recognized by the state as being entitled to the benefits of marriage.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_25-05-021">
+            <num>25.05.021</num>
+            <heading>Prohibited marriages.</heading>
+            <content>
+              <p>Sec. 25.05.021.   Prohibited marriages.
+Marriage is prohibited and void if performed when
+(1) either party to the proposed marriage has a husband or wife living; or
+(2) the parties to the proposed marriage are more closely related to each other than the fourth degree of consanguinity, whether of the whole or half blood, computed according to rules of the civil law.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-031">
+            <num>25.05.031</num>
+            <heading>Voidable marriages.</heading>
+            <content>
+              <p>Sec. 25.05.031.   Voidable marriages.
+If either party to a marriage is incapable of consenting to it at the time of the marriage for want of marriageable age of consent or sufficient understanding, or if the consent of either party is obtained by force or fraud, or if either party fails to consummate the marriage, the marriage is voidable but only at the suit of the party under the disability or upon whom the force or fraud is imposed.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-041">
+            <num>25.05.041</num>
+            <heading>Matters insufficient to render marriage voidable.</heading>
+            <subsection eId="25-05-041__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a marriage is in other respects lawful and is consummated with the full belief on the part of the persons married, or either of them, that they have been lawfully joined in marriage, then the marriage is not voidable for any of the following reasons:</p>
+              </content>
+              <paragraph eId="25-05-041__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the licensing officer did not have jurisdiction to issue the license;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="25-05-041__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>there was an omission, informality, or irregularity of form in the application for the license or in the license itself;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="25-05-041__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the marriage was solemnized after the expiration date of the license.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="25-05-041__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a license has been issued and the marriage solemnized as provided in this chapter and the parties to it have immediately thereafter assumed the habit and repute of husband and wife and have continued to cohabit as husband and wife for one year or until the death of either of them, the marriage shall not be void or voidable solely on the ground the license cannot be produced.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_25-05-051">
+            <num>25.05.051</num>
+            <heading>Effect of existing former marriage.</heading>
+            <content>
+              <p>Sec. 25.05.051.   Effect of existing former marriage.
+If, during the lifetime of a husband or wife with whom a marriage is still in force, a person remarries and the parties to the subsequent marriage live together as husband and wife, and one of the parties to the subsequent marriage believes in good faith that the former husband or wife is dead or that the former marriage has been annulled or dissolved by a divorce or is without knowledge of the former marriage, then after the death or divorce of the other party to the former marriage, if they continue to live together as husband and wife in good faith on the part of one of them, they are legally married from the time of removal of the impediment, and the issue of the subsequent marriage are the legitimate issue of both parents, whether born before or after the removal of the impediment.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-061">
+            <num>25.05.061</num>
+            <heading>Marriage without license.</heading>
+            <content>
+              <p>Sec. 25.05.061.   Marriage without license.
+A marriage contracted after January 1, 1964, is void unless a license has first been obtained as provided in this chapter. If the parties to a marriage void for failure to obtain a license validate the marriage by complying with the requirements of this chapter, the issue of the void marriage are legitimate.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-071">
+            <num>25.05.071</num>
+            <heading>Persons to issue license.</heading>
+            <content>
+              <p>Sec. 25.05.071.   Persons to issue license.
+A licensing officer is the only official who may issue marriage licenses under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-081">
+            <num>25.05.081</num>
+            <heading>Marriage commissioners.</heading>
+            <content>
+              <p>Sec. 25.05.081.   Marriage commissioners.
+The presiding judge in each judicial district may, if the public interest requires, appoint one or more suitable persons as marriage commissioners. The presiding judge shall describe the marriage commissioner's area of jurisdiction in the order of appointment. A marriage commissioner may, within that jurisdiction, solemnize marriages in the same manner as a district judge or magistrate and may exercise any power, other than the power to issue marriage licenses, necessarily incident to the duties of a marriage commissioner. The clerk of court shall issue to the marriage commissioner a certified copy of the order of appointment and send a copy of it to the bureau.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-091">
+            <num>25.05.091</num>
+            <heading>Application for license; disclosure for child support purposes.</heading>
+            <subsection eId="25-05-091__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>One of the contracting parties to a prospective marriage shall, at least three days before the time of issuance, file with the licensing officer written, verbal, or telegraphic application for a license.  Before issuance of the license, each contracting party shall make a statement under oath that the contemplated marriage meets the requirements of law, giving the names, relationship if any, residence, occupation, and age of each party; naming guardians of any party under the legal age for marriage; and describing any prior marriage of either party, and the manner of dissolution of it.  This statement may be made and executed before a notary public or postmaster who shall certify it to the licensing officer.</p>
+              </content>
+            </subsection>
+            <subsection eId="25-05-091__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to the requirements of (a) of this section, each contracting party to the prospective marriage shall provide to the licensing officer the party's social security number, if any. Upon request, the licensing officer shall provide a social security number provided under this subsection to the child support services agency created in
+AS 25.27.010
+, or the child support enforcement agency of another state, for child support purposes authorized under law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_25-05-111">
+            <num>25.05.111</num>
+            <heading>Issuance of license.</heading>
+            <subsection eId="25-05-111__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A marriage license may not be issued unless both of the contracting parties are identified to the satisfaction of the licensing officer. If all requirements have been met, and there is no legal objection to the contemplated marriage, and neither party is under the influence of intoxicating liquor or otherwise incapable of understanding the seriousness of the proceeding, the licensing officer shall issue a license.</p>
+              </content>
+            </subsection>
+            <subsection eId="25-05-111__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>With a license issued under (a) of this section, the licensing officer shall also give to the parties written information about fetal alcohol effects and the fetal health effects of chemical abuse and battering during pregnancy. The Department of Health shall prepare or obtain this information and submit it in distributable form to each licensing officer in the state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_25-05-121">
+            <num>25.05.121</num>
+            <heading>Marriage license.</heading>
+            <content>
+              <p>Sec. 25.05.121.   Marriage license.
+The marriage license issued by a licensing officer in this state authorizes the marriage ceremony to be performed anywhere in the state.  The license shall be directed to any person authorized by the laws of this state to solemnize marriage, and shall authorize that person to solemnize marriage between the parties identified by the license within three months of the date of the license.  If either party is not of legal age for marriage, that party's age and the fact of the consent of the parents or guardian of the underaged party shall be stated.  If either party has previously been married, the number of previous marriages shall be stated. The registrar may require other matter necessary to identify the parties to be included in the license.  The issuance of a license does not remove or dispense with any legal disability, impediment, or prohibition rendering marriage between the parties illegal, and a statement to that effect shall be included in the license.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-161">
+            <num>25.05.161</num>
+            <heading>Waiver of waiting period.</heading>
+            <content>
+              <p>Sec. 25.05.161.   Waiver of waiting period.
+If a three-day waiting period would result in undue hardship or delay in an individual case, the licensing officer may waive the three-day requirement.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-171">
+            <num>25.05.171</num>
+            <heading>Judicial permission to marry.</heading>
+            <subsection eId="25-05-171__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>[Repealed, § 8 ch 67 SLA 2022.]</p>
+              </content>
+            </subsection>
+            <subsection eId="25-05-171__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A superior court judge may grant permission for a person who has reached the age of 16 but is under the age of 18 to marry and may order the licensing officer to issue the license if the judge finds, following a hearing at which the parents and minor are given the opportunity to appear and be heard, that the marriage is in the best interest of the minor, that the other party to the marriage is not more than three years older, and that either</p>
+              </content>
+              <paragraph eId="25-05-171__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the parents have given their consent; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="25-05-171__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the parents are
+(A) arbitrarily and capriciously withholding consent;
+(B) absent or otherwise unaccountable;
+(C) in disagreement among themselves on the question; or
+(D) unfit to decide the matter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_25-05-191">
+            <num>25.05.191</num>
+            <heading>Marriage license application.</heading>
+            <content>
+              <p>Sec. 25.05.191.   Marriage license application.
+A licensing officer shall make available an application for a marriage license for completion by the parties who wish to be married. The officer shall keep the completed applications, a record of licenses issued, and all other information that the officer is required by law to obtain. These records shall be kept in the office of the licensing officer and shall be open for public inspection or examination during normal office hours.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-221">
+            <num>25.05.221</num>
+            <heading>Forms.</heading>
+            <subsection eId="25-05-221__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Forms for application, statements, consent of parents, affidavits, licenses, and other forms necessary to comply with this chapter shall be prescribed by the registrar and provided at the expense of the state. The registrar shall furnish all necessary forms to each licensing officer.</p>
+              </content>
+            </subsection>
+            <subsection eId="25-05-221__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The registrar shall supervise the record work and required reporting of the licensing officers.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_25-05-231">
+            <num>25.05.231</num>
+            <heading>Reports of licenses issued.</heading>
+            <content>
+              <p>Sec. 25.05.231.   Reports of licenses issued.
+The registrar may require reports of licenses issued upon forms to be furnished by the registrar.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-241">
+            <num>25.05.241</num>
+            <heading>Fees.</heading>
+            <content>
+              <p>Sec. 25.05.241.   Fees.
+The registrar shall establish marriage license fees and provide for accounting for and disposing of the fees.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-251">
+            <num>25.05.251</num>
+            <heading>Relationship to Vital Statistics Act.</heading>
+            <content>
+              <p>Sec. 25.05.251.   Relationship to Vital Statistics Act.
+Nothing in this chapter repeals or abrogates any part of
+AS 18.50
+(Vital Statistics Act). The records and requirements leading up to and including the issuance of the marriage license are included in the definition of vital statistics under
+AS 18.50
+. The registrar shall supply the necessary forms and instructions for the licensing officers.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-261">
+            <num>25.05.261</num>
+            <heading>Who may solemnize.</heading>
+            <subsection eId="25-05-261__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Marriages may be solemnized</p>
+              </content>
+              <paragraph eId="25-05-261__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>by a minister, priest, or rabbi of any church or congregation in the state, or by a commissioned officer of the Salvation Army, or by the principal officer or elder of recognized churches or congregations that traditionally do not have regular ministers, priests, or rabbis, anywhere within the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="25-05-261__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>by a marriage commissioner or judicial officer of the state anywhere within the jurisdiction of the commissioner or officer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="25-05-261__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>before or in any religious organization or congregation according to the established ritual or form commonly practiced in the organization or congregation; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="25-05-261__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>by an individual holding an elective public office in the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="25-05-261__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section may not be construed to waive the requirements for obtaining a marriage license.</p>
+              </content>
+            </subsection>
+            <subsection eId="25-05-261__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing in this section creates or implies a duty or obligation on a person authorized to solemnize a marriage under (a)(1), (3), or (4) of this section to solemnize any marriage.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_25-05-271">
+            <num>25.05.271</num>
+            <heading>Duty of officiating person before ceremony.</heading>
+            <content>
+              <p>Sec. 25.05.271.   Duty of officiating person before ceremony.
+The officiating person shall determine that the parties presenting themselves to be married are the parties named in the license.  If the officiating person knows of a legal impediment to the marriage, the officiating person may not perform the ceremony.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-281">
+            <num>25.05.281</num>
+            <heading>Marriage solemnized by unauthorized person.</heading>
+            <subsection eId="25-05-281__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>is valid regardless of a lack of power or authority in the person, if the marriage is consummated with a belief on the part of the persons so married, or either of them, that they have been lawfully joined in marriage.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_25-05-291">
+            <num>25.05.291</num>
+            <heading>Civil and religious ceremonies.</heading>
+            <content>
+              <p>Sec. 25.05.291.   Civil and religious ceremonies.
+When a religious ceremony between two parties follows a civil ceremony between them, one license is sufficient for both ceremonies.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-301">
+            <num>25.05.301</num>
+            <heading>Form of solemnization.</heading>
+            <content>
+              <p>Sec. 25.05.301.   Form of solemnization.
+In the solemnization of marriage, no particular form is required except that the parties shall assent or declare in the presence of each other and the person solemnizing the marriage and in the presence of at least one competent witness that they take each other to be husband and wife. A person is competent to solemnize or witness a marriage if the person is of sound mind capable of understanding the seriousness of the ceremony. At the time of the ceremony, the person solemnizing the marriage shall complete the certification on the original marriage certificate. The person solemnizing the marriage and the attending witness shall sign the original marriage certificate and the necessary copies. The witness must be 18 years of age or older. The witness shall communicate with both parties before or after the ceremony, but before signing the original marriage certificate and the necessary copies, and confirm that each party intends to marry the other party. The marriage certificate must state that the person solemnizing the marriage and the witness have confirmed with both parties that they are entering the marriage intentionally and in the exercise of each party's own free will.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-311">
+            <num>25.05.311</num>
+            <heading>Marriage without solemnization.</heading>
+            <content>
+              <p>Sec. 25.05.311.   Marriage without solemnization.
+A marriage contracted after January 1, 1964, is void unless the marriage has been solemnized as provided in this chapter. If the parties to a marriage void for failure to solemnize the marriage validate the marriage by complying with the requirements of this chapter, the issue of the void marriage are legitimate.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-321">
+            <num>25.05.321</num>
+            <heading>Marriage certificates.</heading>
+            <subsection eId="25-05-321__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The person solemnizing the marriage shall, on the forms provided by the bureau, complete two short-form certificates and, after that person and the witness have signed them, give one to each of the parties to the marriage. A church or congregation may design and furnish its own form for this purpose, containing as a minimum the items contained in the form furnished by the bureau. The original marriage certificate shall be filed as required by
+AS 18.50
+(Vital Statistics Act) and regulations adopted under it. The person solemnizing the marriage shall complete the certificate as required and submit it to the local registrar within seven days after the date the marriage is solemnized.</p>
+              </content>
+            </subsection>
+            <subsection eId="25-05-321__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The person solemnizing the marriage and the witness shall provide their printed names, mailing and electronic mail addresses, and telephone numbers on the forms provided by the bureau or by a church or congregation.
+Article 6. Penalties.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_25-05-331">
+            <num>25.05.331</num>
+            <heading>Unlawful issuance or refusal of license.</heading>
+            <content>
+              <p>Sec. 25.05.331.   Unlawful issuance or refusal of license.
+A licensing officer who knowingly issues a marriage license knowing it to be in violation of the provisions of this chapter or who wilfully and wrongfully refuses to issue a license is guilty of a misdemeanor, and upon conviction is punishable by imprisonment for not more than six months, or by a fine of not more than $500, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-341">
+            <num>25.05.341</num>
+            <heading>Misrepresentation.</heading>
+            <content>
+              <p>Sec. 25.05.341.   Misrepresentation.
+A person who misrepresents a fact required to be stated on the application for a license or a form related to it, or a licensing officer who issues a marriage license having reason to believe that any material fact has been misrepresented, is guilty of a misdemeanor, and upon conviction is punishable by a fine of not more than $500.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-351">
+            <num>25.05.351</num>
+            <heading>Violation concerning marriage license application.</heading>
+            <content>
+              <p>Sec. 25.05.351.   Violation concerning marriage license application.
+A licensing officer who refuses or neglects to keep a complete record of each application and of each marriage license issued, or who fails to keep marriage license applications open for inspection or examination by the public during office hours is guilty of a misdemeanor and upon conviction is punishable by a fine of not more than $50. Each failure, neglect, or refusal constitutes a separate offense.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-361">
+            <num>25.05.361</num>
+            <heading>Unlawful solemnization of marriage.</heading>
+            <content>
+              <p>Sec. 25.05.361.   Unlawful solemnization of marriage.
+A person who solemnizes a marriage without first receiving a proper marriage license from the parties as provided in this chapter or without the parties declaring to take each other as husband and wife, or without requiring the presence of one competent witness; or who solemnizes a marriage involving a person under the legal age of marriage without the consent of (1) the licensing official when authorized, or (2) the parents or guardian of the underaged person, being stated in the license; or who solemnizes a marriage knowing of any legal impediment thereto, or who solemnizes a marriage after the expiration of the license, or who falsely certifies to the date of a marriage solemnized by that person is guilty of a misdemeanor, and upon conviction is punishable by imprisonment for not more than six months, or by a fine of not more than $500, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-371">
+            <num>25.05.371</num>
+            <heading>Solemnization of marriage by unauthorized person.</heading>
+            <content>
+              <p>Sec. 25.05.371.   Solemnization of marriage by unauthorized person.
+A person not authorized by this chapter who wilfully or knowingly undertakes to solemnize a marriage in this state is guilty of a misdemeanor, and upon conviction is punishable by imprisonment for not more than one year, or by a fine of not more than $1,000, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-381">
+            <num>25.05.381</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 25.05.381.   Definitions.
+In this chapter,
+(1) bureau means the Bureau of Vital Statistics;
+(2) department means the Department of Health;
+(3) licensing officer means the registrar or a local registrar;
+(4) local registrar means a person appointed by the state registrar under
+AS 18.50.080
+;
+(5) registrar means the state registrar of vital statistics.</p>
+            </content>
+          </section>
+          <section eId="sec_25-05-391">
+            <num>25.05.391</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 25.05.391.   Short title.
+This chapter may be cited as the Alaska Marriage Code.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>
