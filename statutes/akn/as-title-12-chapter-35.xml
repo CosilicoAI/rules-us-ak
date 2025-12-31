@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-35"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-35"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.35"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-35/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-35/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_35">
+          <num>35</num>
+          <heading>Search and Seizure</heading>
+          <section eId="sec_12-35-010">
+            <num>12.35.010</num>
+            <heading>Issuance of search warrant; extraterritorial jurisdiction.</heading>
+            <subsection eId="12-35-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A judicial officer may issue a search warrant upon a showing of probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the thing to be seized. The court may issue a search warrant for a place or property located either in the state or outside the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-35-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A judicial officer may issue a search warrant upon the sworn oral testimony of a person communicated by telephone or other appropriate means, or sworn affidavit submitted by facsimile machine, in accordance with
+AS 12.35.015
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-35-015">
+            <num>12.35.015</num>
+            <heading>Issuance of search warrant upon testimony communicated by telephone or other means.</heading>
+            <subsection eId="12-35-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A judicial officer may issue a search warrant upon the sworn oral testimony of a person communicated by telephone or other appropriate means, or sworn affidavit transmitted by facsimile machine.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-35-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A judicial officer shall place under oath each person whose oral testimony forms a basis of the application and each person applying for the search warrant. The judicial officer shall record the proceeding by using a voice recording device.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-35-015__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a facsimile search warrant cannot be transmitted to the applicant under (g) of this section, the applicant shall prepare a document to be known as a duplicate original warrant and shall read it verbatim to the judicial officer. The judicial officer shall enter, verbatim, on an original search warrant what is read to the judicial officer. The judicial officer may direct that the duplicate original search warrant be modified.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-35-015__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in (g) of this section, if a search warrant is issued under this section, the judicial officer shall orally authorize the applicant to sign the judicial officer's name on the duplicate original search warrant. The judicial officer shall immediately sign the original search warrant and enter on the face of the original search warrant the exact time when the search warrant was ordered to be issued.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-35-015__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The person who executes a search warrant issued under this section shall enter the exact time of execution on the face of the facsimile search warrant issued under (g) of this section or the duplicate original search warrant.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-35-015__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>[Repealed, § 39 ch 75 SLA 2008.]</p>
+              </content>
+            </subsection>
+            <subsection eId="12-35-015__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A search warrant issued by a judicial officer may be transmitted by facsimile machine to the applicant. The facsimile search warrant shall serve as an original.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-35-020">
+            <num>12.35.020</num>
+            <heading>Grounds for issuance.</heading>
+            <content>
+              <p>Sec. 12.35.020.   Grounds for issuance.
+A search warrant may be issued if the judicial officer reasonably believes any of the following:
+(1) that the property was stolen or embezzled;
+(2) that the property was used as a means of committing a crime;
+(3) that the property is in the possession of a person who intends to use it as the means of committing a crime, or in possession of another to whom the person may have delivered it for the purpose of concealing it or preventing its being discovered;
+(4) that the property constitutes evidence of a particular crime or tends to show that a certain person has committed a particular crime;
+(5) that either reasonable legislative or administrative standards for conducting a routine or area inspection with regard to air pollution are satisfied with respect to the particular place, dwelling, structure, premises, or vehicle, or there is reason to believe that a condition of nonconformity exists with respect to the particular place, dwelling, structure, premises, or vehicle.</p>
+            </content>
+          </section>
+          <section eId="sec_12-35-025">
+            <num>12.35.025</num>
+            <heading>Seizure of property.</heading>
+            <subsection eId="12-35-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Property described in
+AS 12.35.020
+may be taken on a warrant from</p>
+              </content>
+              <paragraph eId="12-35-025__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a house or other place in which it is concealed or may be found;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-35-025__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the possession of the person by whom it was stolen, embezzled, or used in the commission of a crime;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-35-025__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a person who is in possession of the property;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-35-025__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the possession of a person to whom the property has been delivered for the purpose of concealing it or preventing its being discovered, or from a house or other place occupied by that person or under that person's control.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-35-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When property is seized under this chapter, the peace officer taking the property shall give to the person from whom or from whose premises the property was taken a copy of the warrant, a copy of the supporting affidavit, and a receipt for the property taken, or shall leave the copies and the receipt at the place from which the property was taken.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-35-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The return of the warrant to the court shall be made promptly and shall be accompanied by a written inventory of the property taken.  The inventory shall be made in the presence of the applicant for the warrant and the person from whose possession or premises the property was taken, if they are present, or in the presence of at least one other person as a witness.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-35-025__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The inventory required by (c) of this section shall be signed by the peace officer under penalty of perjury under
+AS 09.63.020
+.  The judge or magistrate shall, upon request, deliver a copy of the inventory to the person from whom or from whose premises the property was taken and to the applicant for the warrant.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-35-040">
+            <num>12.35.040</num>
+            <heading>Authority of officer executing warrant.</heading>
+            <content>
+              <p>Sec. 12.35.040.   Authority of officer executing warrant.
+In the execution or service of a search warrant, the officer has the same power and authority in all respects to break open any door or window, to use the necessary and proper means to overcome forcible resistance made to the officer, or to call any other person to the officer's aid as the officer has in the execution or service of a warrant of arrest.</p>
+            </content>
+          </section>
+          <section eId="sec_12-35-060">
+            <num>12.35.060</num>
+            <heading>Malicious procurement of search warrant.</heading>
+            <content>
+              <p>Sec. 12.35.060.   Malicious procurement of search warrant.
+A person who maliciously and without probable cause causes a search warrant to be issued and executed is guilty of a misdemeanor.</p>
+            </content>
+          </section>
+          <section eId="sec_12-35-070">
+            <num>12.35.070</num>
+            <heading>Search of defendant in presence of judge or magistrate.</heading>
+            <content>
+              <p>Sec. 12.35.070.   Search of defendant in presence of judge or magistrate.
+When a person charged with a crime is believed by the judge or magistrate before whom that person is brought to have on the person a dangerous weapon, or anything that may be used as evidence of the commission of the crime, the judge or magistrate may direct the accused to be searched in the presence of the judge or magistrate, and the weapon or other thing be retained subject to the order of the judge or magistrate or the order of the court in which the defendant may be tried.</p>
+            </content>
+          </section>
+          <section eId="sec_12-35-120">
+            <num>12.35.120</num>
+            <heading>Definition of search warrant.</heading>
+            <content>
+              <p>Sec. 12.35.120.   Definition of search warrant.
+A search warrant is an order in writing, signed by a judge or magistrate or signed at the direction of a judicial officer in accordance with
+AS 12.35.015
+, directed to a peace officer, commanding the peace officer to search for personal property and bring it before the judge or magistrate.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

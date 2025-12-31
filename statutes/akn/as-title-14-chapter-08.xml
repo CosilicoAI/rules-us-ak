@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-08"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-08"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="14.08"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-08/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-08/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-08/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-08/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_14">
+        <num>14</num>
+        <heading>Education, Libraries, and Museums</heading>
+        <chapter eId="title_14__chp_08">
+          <num>08</num>
+          <heading>Education in the Unorganized Borough</heading>
+          <section eId="sec_14-08-011">
+            <num>14.08.011</num>
+            <heading>Purpose.</heading>
+            <subsection eId="14-08-011__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is the purpose of this chapter to provide for public education in the unorganized borough and the military reservations in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-011__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this chapter prohibits an organized borough, city, village, community, or settlement in an unorganized area of the state from becoming part of or being formed into an organized political subdivision authorized under
+AS 29
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-08-021">
+            <num>14.08.021</num>
+            <heading>Authority.</heading>
+            <content>
+              <p>Sec. 14.08.021.   Authority.
+The legislature delegates to school boards for each regional educational attendance area the authority to operate the public schools in those areas in accordance with the provisions of this chapter, subject to the provisions of this title and the regulations adopted under it that apply to all school districts in the state.</p>
+            </content>
+          </section>
+          <section eId="sec_14-08-031">
+            <num>14.08.031</num>
+            <heading>Regional educational attendance areas.</heading>
+            <subsection eId="14-08-031__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Commerce, Community, and Economic Development in consultation with the Department of Education and Early Development and local communities shall divide the unorganized borough into educational service areas using the boundaries or sub-boundaries of the regional corporations established under the Alaska Native Claims Settlement Act, unless by referendum a community votes to merge with another community contiguous to it but within the boundaries or sub-boundaries of another regional corporation.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-031__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An educational service area established in the unorganized borough under (a) of this section constitutes a regional educational attendance area.  As far as practicable, each regional educational attendance area shall contain an integrated socio-economic, linguistically and culturally homogeneous area.  In the formation of the regional educational attendance areas, consideration shall be given to the transportation and communication network to facilitate the administration of education and communication between communities that comprise the area.  Whenever possible, municipalities, other governmental or regional corporate entities, drainage basins, and other identifiable geographic features shall be used in describing the boundaries of the regional school attendance areas.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-031__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Military reservation schools shall be included in a regional educational attendance area.  However, operation of military reservation schools by a city or borough school district may be required by the department under
+AS 14.12.020</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-031__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and
+AS 14.14.110
+. Where the operation of the military reservation schools in a regional educational attendance area by a city or borough school district is required by the department, the military reservation is not considered part of the regional educational attendance area for the purposes of regional school board membership or elections.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-031__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 42 ch 12 SLA 2006.]</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-031__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, Rampart School is part of the Yukon-Koyukuk School District regional educational attendance area for all purposes.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-08-041">
+            <num>14.08.041</num>
+            <heading>Regional school boards.</heading>
+            <subsection eId="14-08-041__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A regional educational attendance area shall be operated on an areawide basis under the management and control of a regional school board.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-041__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The qualified voters of the communities receiving educational services in each regional educational attendance area shall elect a regional school board of not less than five nor more than eleven members to be elected for the same term, in the same manner, and with the same qualifications as a city or borough school district board under
+AS 14.12
+.  The initial number of regional school board members shall be determined by the department in consultation with the local communities in the regional educational attendance areas.  However, the qualified voters in a regional educational attendance area may increase or decrease the number of regional school board members established under this section by placing the question on the ballot at a regular school board election in the manner prescribed by law.  A change in the number of school board members is not effective until the next regular school board election.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-041__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A regional school board shall consist of five, seven, nine or 11 members.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-041__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Subject to (f) of this section, a regional school board member shall be elected at large by the qualified voters of the communities receiving educational services in the entire regional educational attendance area. However, each seat on the regional school board shall be designated by letter or number, and when the declaration of candidacy or other nomination papers of a candidate for the regional school board are filed those papers must indicate the seat that the candidate seeks. A newly elected board member takes office at the first regional school board meeting after certification of the election. If no candidate files for election to a seat on the regional school board, the seat is considered vacant at the time a newly elected member would have taken office.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-041__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 8 ch 129 SLA 1990.]</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-041__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The voters residing within a regional educational attendance area may petition in accordance with
+AS 14.08.051</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-041__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to have each regional school board member elected from a section of the area by the voters of that section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-08-045">
+            <num>14.08.045</num>
+            <heading>Vacancies.</heading>
+            <subsection eId="14-08-045__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The regional school board shall declare a regional school board seat vacant when the person elected</p>
+              </content>
+              <paragraph eId="14-08-045__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>fails to qualify within 30 days of certification of the election;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-08-045__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>notifies the school board in writing of the person's refusal to take office;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-08-045__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>resigns and the resignation is accepted by the school board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-08-045__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is convicted of a felony involving moral turpitude or of an offense involving a violation of the oath of office while serving as a school board member; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-08-045__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>no longer physically resides within the boundaries of the regional educational attendance area, or if the regional educational attendance area has been divided into sections, within the section from which the person was elected, and the school board by a two-thirds vote, declares the seat vacant.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-08-045__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A vacancy on a regional school board shall be filled under
+AS 14.12.070
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-08-051">
+            <num>14.08.051</num>
+            <heading>School board sections.</heading>
+            <subsection eId="14-08-051__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner in consultation with the Department of Commerce, Community, and Economic Development and the local communities may divide a regional educational attendance area into sections only for the purpose of nominating and electing regional school board members. If the voters in a regional educational attendance area favor election of regional school board members by sections under (b) of this section, the commissioner in consultation with the Department of Commerce, Community, and Economic Development and the local communities shall divide the regional educational attendance area into sections for the purpose of nominating and electing regional school board members. If a regional educational attendance area is divided into sections each school board member shall represent, as nearly as practicable, an equal number of persons. The basis for the division of a regional educational attendance area into sections shall be the total population of the area as reported in the most recent decennial federal census. If the census is five years old or older, then other reliable population data, including population estimates based on public school enrollments, public utility connections, registered voters, or certified employment payrolls, shall be used as the basis for the division of the area into sections. Each section within a regional educational attendance area shall consist of compact, contiguous territory and, as far as practicable, each section shall contain an integrated socio-economic, linguistically and culturally homogeneous area. In the division of the regional school and attendance area into sections, consideration shall be given to the transportation and communication network to facilitate the administration of education and communication between communities that comprise the area. Whenever possible, municipalities, other governmental or regional corporate entities, drainage basins, and other identifiable geographic features shall be used in describing t</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-051__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The division of a regional educational attendance area into sections or subsequent recasting of the section boundaries may be proposed by the regional school board or by a petition. The election of each regional school board member from a section by the voters of that section of a regional educational attendance area may be proposed by petition. A petition under this section shall be filed with the director of elections and must contain signatures of qualified voters in the area equal to eight percent of the total vote cast in the most recent regional school board election. The division of the area into sections, election of each regional school board member from a section by the voters of that section, or subsequent recasting of section boundaries is subject to approval by a majority of the qualified voters voting on the question in the regional educational attendance area at the next regular school board election or a special election called for that purpose, and takes effect at the next regular school board election.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-051__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a regional educational attendance area has been divided into sections, the commissioner shall recast the boundaries of the sections within 90 days following the official reporting of the decennial federal census in accordance with (a) of this section. If the census is five years old or older and other reliable population data acceptable to the department that establishes that board members do not represent as nearly as practicable equal numbers of people under the allocation of seats to a multi-member section under (d) of this section, the commissioner may reallocate the seats among the sections if reallocation will achieve as nearly as practicable equal representation. Reallocation of seats takes effect at the next regular board election after the reallocation.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-051__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Multi-member sections may be created.  However,</p>
+              </content>
+              <paragraph eId="14-08-051__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>each seat on the regional board shall be designated by letter or number and when the declaration of candidacy or other nomination papers of a candidate for the regional school board are filed those papers must indicate the seat that the candidate seeks; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-08-051__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>except as provided in (f) of this section, a section may not be represented by more than
+(A) three members, if a board consists of five members;
+(B) four members, if a board consists of seven members;
+(C) five members, if a board consists of nine members; or
+(D) six members, if a board consists of 11 members.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-08-051__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a regional educational attendance area has been divided into sections, board members shall be residents of the section from which they are elected.  Board members shall be elected by the qualified voters of the entire regional educational attendance area, unless the voters have approved election of members by the voters of the section under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-051__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Upon the request of a regional school board, the commissioner may permit a section that contains more than one community to be represented by more board members than the number set out in (d)(2) of this section if the commissioner determines that</p>
+              </content>
+              <paragraph eId="14-08-051__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the regional educational attendance area has had a pattern of substantial population fluctuations between geographic areas within the regional educational attendance area; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-08-051__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>compliance with the requirements of (d)(2) of this section could result in continuous underrepresentation and overrepresentation of sections.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-08-051__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In a regional educational attendance area section subject to (f) of this section, no more than two members may be elected from the same community unless the population distribution requires otherwise.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-08-061">
+            <num>14.08.061</num>
+            <heading>Term of office.</heading>
+            <subsection eId="14-08-061__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Members elected to a regional school board shall serve staggered three-year terms. However,</p>
+              </content>
+              <paragraph eId="14-08-061__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the term of office of all of the members of a regional school board elected from the same multi-member section may not expire at the same time; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-08-061__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for the first board elected, the term of office of each member shall be determined by lot, according to the following schedule:
+(A) the members of the first five-member school board shall hold office for terms as follows: one member for a one-year term; two for a two-year term and two for a three-year term;
+(B) the members of the first seven-member school board hold office for terms as follows: two members for a one-year term; two for a two-year term and three for a three-year term;
+(C) the members of the first nine-member school board hold office for terms as follows: three for a one-year term; three for a two-year term and three for a three-year term;
+(D) the members of the first 11-member school board hold office for terms as follows: three for a one-year term, four for a two-year term and four for a three-year term.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-08-061__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a regional educational attendance area is divided into sections under
+AS 14.08.051
+where the school board formerly was elected at large, or if the number of regional school board members is increased or decreased by the qualified voters in the regional educational attendance area under
+AS 14.08.041
+(b), the term of office of all members of the existing board shall terminate on the date on which the new board members take office, and the provisions of (a) of this section are applicable to the determination of the terms of office of the new members of the regional school boards.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-061__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing in this section precludes a board member from being reelected.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-08-071">
+            <num>14.08.071</num>
+            <heading>Elections; advisory votes.</heading>
+            <subsection eId="14-08-071__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In each regional educational attendance area in the unorganized borough, the lieutenant governor, within not less than 60, nor more than 90 days after the establishment of the regional educational attendance area, shall provide for the election of a regional school board.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-071__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except for the first election of regional school board members under (a) of this section, elections shall be held annually on the first Tuesday in October.  Elections shall be supervised by the director of elections in the office of the lieutenant governor, but shall be administered within second class cities as part of the regular municipal election.  The lieutenant governor shall adopt regulations for the conduct of the election of regional school board members comparable, as far as practicable, to those prescribed for election of school board members under
+AS 14.12
+and
+AS 29.20.300
+except that the majority election requirements of
+AS 29.26.060
+do not apply to, nor may the regulations require runoff elections for, the first election of regional school board members under (a) of this section or, if a school board by resolution so requests, to subsequent elections in the regional educational attendance area served by that school board.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-071__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The cost of each regional school board election, or recall election under
+AS 14.08.081
+, shall be borne by the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-071__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a regional school board adopts a resolution requesting that an advisory question relating to education be placed on that regional school board's next election ballot, the division of elections shall place the advisory question on that regional school board's next election ballot. A resolution described in this subsection must be filed with the division of elections on or before the first Friday in August of the year in which the advisory question is required to be placed on the ballot. An advisory question authorized under this subsection may not consist of more than 100 words and shall be worded in a manner that allows the advisory question to be answered with a yes to favor the question or no to oppose the question.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-071__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The lieutenant governor may provide for the election of an advisory school board established under
+AS 14.08.115
+. An election conducted under this subsection shall be held on the first Tuesday in October. The lieutenant governor may adopt regulations governing an election conducted under this subsection.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-08-081">
+            <num>14.08.081</num>
+            <heading>Recall.</heading>
+            <content>
+              <p>Sec. 14.08.081.   Recall.
+The members of a regional school board are subject to recall in accordance with
+AS 29.26.240
+ 29.26.360, except that the director of elections shall perform the functions of a municipal clerk, the lieutenant governor shall perform the functions of the assembly or council under those sections, and the last regular election is the last regularly scheduled election held within the regional educational attendance area.</p>
+            </content>
+          </section>
+          <section eId="sec_14-08-091">
+            <num>14.08.091</num>
+            <heading>Organization; oath and bond.</heading>
+            <subsection eId="14-08-091__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The regional school boards shall be organized in accordance with
+AS 14.14.070
+, and, before taking office, each school board member shall take and sign the oath or affirmation prescribed by
+AS 14.12.090
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-091__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The officer of the board responsible for the custody of regional educational attendance area funds shall execute a bond of $50,000 with the commissioner.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-08-101">
+            <num>14.08.101</num>
+            <heading>Powers.</heading>
+            <content>
+              <p>Sec. 14.08.101.   Powers.
+A regional school board may
+(1) sue and be sued;
+(2) contract with the department, the Bureau of Indian Affairs, or any other school district, agency, or regional board for the provision of services, facilities, supplies, or utilities;
+(3) determine its own fiscal procedures, including policies and procedures for the purchase of supplies and equipment; the regional school boards are exempt from
+AS 37.05
+(Fiscal Procedures Act) and
+AS 36.30
+(State Procurement Code);
+(4) appoint, compensate, and otherwise control all school employees in accordance with this title; these employees are not subject to
+AS 39.25
+(State Personnel Act);
+(5) adopt regulations governing organization, policies, and procedures for the operation of the schools;
+(6) establish, maintain, operate, discontinue, and combine schools subject to the approval of the commissioner;
+(7) recommend to the department projects for construction, rehabilitation, and improvement of schools and education-related facilities as specified in
+AS 14.11.011
+(b), and plan, design, and construct the project when the responsibility for it is assumed under
+AS 14.11.020
+;
+(8) by resolution adopted by a majority of all the members of the board and provided to the commissioner of the department, assume ownership of all land and buildings used in relation to the schools in the regional educational attendance area, as provided for in
+AS 14.08.151
+(b);
+(9) provide housing for rental to teachers, by leasing existing housing from a local agency or individual, by entering into contractual arrangements with a local agency or individual to lease housing that will be constructed by the local agency or individual for that purpose, or, without using for the purpose that portion of public school funding that consists of state aid provided under
+AS 14.17
+, by constructing or otherwise acquiring housing that is owned and managed by the regional educational attendance area for rental to teachers;
+(10) employ a chief school administrator;
+(11) apply for and use the proceeds of a loan from the Alaska energy efficiency revolving loan fund (
+AS 18.56.855
+);
+(12) exercise those other functions that may be necessary for the proper performance of its responsibilities.</p>
+            </content>
+          </section>
+          <section eId="sec_14-08-111">
+            <num>14.08.111</num>
+            <heading>Duties.</heading>
+            <content>
+              <p>Sec. 14.08.111.   Duties.
+A regional school board shall
+(1) provide, during the school term of each year, an educational program for each school age child who is enrolled in or a resident of the district;
+(2) develop a philosophy of education, principles, and goals for its schools;
+(3) approve the employment of the professional administrators, teachers, and noncertificated personnel necessary to operate its schools;
+(4) establish the salaries to be paid its employees;
+(5) designate the employees authorized to direct disbursements from the school funds of the board;
+(6) submit the reports prescribed for all school districts;
+(7) provide for an annual audit in accordance with
+AS 14.14.050
+;
+(8) provide custodial services and routine maintenance of school buildings and facilities;
+(9) establish procedures for the review and selection of all textbooks and instructional materials at least once every 10 years, including textbooks and curriculum materials for statewide correspondence programs, before they are introduced into the school curriculum; the review includes a review for violations of
+AS 14.18.060
+; nothing in this paragraph precludes a correspondence study student, or the parent or guardian of a correspondence study student, from privately obtaining or using textbooks or curriculum material not provided by the school district;
+(10) provide prospective employees with information relating to the availability and cost of housing in rural areas to which they might be assigned, and, when possible, assist them in locating housing; however, nothing in this paragraph requires a regional school board to provide teacher housing, whether owned, leased, or rented or otherwise provided by the regional educational attendance area, nor does it require the board to engage in a subsidy program of any kind with respect to teacher housing;
+(11) train persons required to report under
+AS 47.17.020
+, in the recognition and reporting of child abuse, neglect, and sexual abuse of a minor; and
+(12) establish procedures for providing the training under
+AS 14.18.060
+,
+AS 14.20.149
+, 14.20.680,
+AS 14.30.355
+, 14.30.356, 14.30.362,
+AS 14.33.100
+,
+AS 18.66.310
+, and
+AS 47.17.022
+; the procedures established under this paragraph must include a training schedule that ensures that not less than 50 percent of the total certificated staff employed by the district receive all of the training not less than every two years and that all of the certificated staff employed by the district receive all of the training not less than every four years.</p>
+            </content>
+          </section>
+          <section eId="sec_14-08-115">
+            <num>14.08.115</num>
+            <heading>Advisory school boards in regional educational attendance areas.</heading>
+            <subsection eId="14-08-115__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A regional school board shall establish advisory school boards in each community in the regional educational attendance area that has more than 50 permanent residents, and by regulation shall prescribe their manner of selection and organization, and, in a manner consistent with (b) of this section, their powers and duties.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-115__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An advisory board shall advise the regional school board on all matters concerning schools in the community in which the advisory board is established.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-08-131">
+            <num>14.08.131</num>
+            <heading>Disqualification from voting for conflict of interest.</heading>
+            <content>
+              <p>Sec. 14.08.131.   Disqualification from voting for conflict of interest.
+A board member having a direct or indirect pecuniary interest in a contract for erection of buildings, heating, ventilation, furnishing, or repairing the buildings or in a contract for the furnishing of supplies for a regional school is disqualified from voting on any question involving the pecuniary interest of the member unless the member has disclosed that interest to the board and the remaining members have approved the member's participation in the voting.</p>
+            </content>
+          </section>
+          <section eId="sec_14-08-151">
+            <num>14.08.151</num>
+            <heading>Land and buildings.</heading>
+            <subsection eId="14-08-151__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section, the ownership of land and buildings used in relation to regional educational attendance area schools shall remain vested in the state, and use permits shall be given to the regional school boards.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-08-151__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except for land located within the boundaries of a state airport, a regional school board may, by resolution, request, and the commissioner of the department having responsibility shall convey, title to land and buildings used in relation to regional educational attendance area schools. If the state holds less than fee title to the land, the commissioner of the department having responsibility shall convey the entire interest of the state in the land to the regional school board.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

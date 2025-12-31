@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-45"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-45"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="3.45"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-45/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-45/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_3">
+        <num>3</num>
+        <heading>Agriculture, Animals, and Food</heading>
+        <chapter eId="title_3__chp_45">
+          <num>45</num>
+          <heading>Diseased Livestock</heading>
+          <section eId="sec_03-45-010">
+            <num>03.45.010</num>
+            <heading>Declaration of public policy.</heading>
+            <content>
+              <p>Sec. 03.45.010.   Declaration of public policy.
+It is against the public policy of this state to import into the state or to own, have in one's possession, sell, transfer, transport, drive, or convey inside the state any animal diseased or infected with any of the diseases described in
+AS 03.45.030
+.</p>
+            </content>
+          </section>
+          <section eId="sec_03-45-020">
+            <num>03.45.020</num>
+            <heading>Importation, ownership, possession, transfer, and transportation of diseased animals prohibited.</heading>
+            <content>
+              <p>Sec. 03.45.020.   Importation, ownership, possession, transfer, and transportation of diseased animals prohibited.
+A person may not import into the state, own, have in one's possession, sell, transfer, transport, drive, or convey, inside the state any animal diseased or infected with any of the diseases described in
+AS 03.45.030
+.</p>
+            </content>
+          </section>
+          <section eId="sec_03-45-030">
+            <num>03.45.030</num>
+            <heading>Conditions of importation of certain animals.</heading>
+            <content>
+              <p>Sec. 03.45.030.   Conditions of importation of certain animals.
+A person may not bring into the state any horse, cattle, or swine for work, feeding, breeding, dairying, or for any other purpose unless the animal has been examined and found free from glanders, farcy, tuberculosis, actinomycosis, rinderpest, foot and mouth disease, contagious abortion, contagious keratitis, scabies, maladie du coit, swine plague, and hog cholera.  Swine in addition shall have been given the serum treatment for hog cholera within two weeks before shipping, unless a permit has been obtained from the proper authorities of the state, territory, or foreign country from which the animal is shipped, or from an inspector of the United States Department of Agriculture assigned to the division of dairy and livestock in the state, territory, or foreign country from which the animal is shipped.  A steamship or transportation company or other common carrier may not bring any animal into the state without first having had it examined, or treated, and found free from the diseases described in this section and having obtained the permit provided for in this section.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

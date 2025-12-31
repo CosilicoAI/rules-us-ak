@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-58"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-58"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="9.58"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-58/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-58/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-58/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-58/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_9">
+        <num>9</num>
+        <heading>Code of Civil Procedure</heading>
+        <chapter eId="title_9__chp_58">
+          <num>58</num>
+          <heading>Alaska Medical Assistance False Claim and Reporting Act</heading>
+          <section eId="sec_09-58-010">
+            <num>09.58.010</num>
+            <heading>False claims for medical assistance; civil penalty.</heading>
+            <subsection eId="09-58-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A medical assistance provider or medical assistance recipient may not</p>
+              </content>
+              <paragraph eId="09-58-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>knowingly submit, authorize, or cause to be submitted to an officer or employee of the state a false or fraudulent claim for payment or approval under the medical assistance program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-58-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>knowingly make, use, or cause to be made or used, directly or indirectly, a false record or statement to get a false or fraudulent claim for payment paid or approved by the state under the medical assistance program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-58-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>conspire to defraud the state by getting a false or fraudulent claim paid or approved under the medical assistance program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-58-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>knowingly make, use, or cause to be made or used, a false record or statement to conceal, avoid, increase, or decrease an obligation to pay or transmit money or property to the medical assistance program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-58-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>knowingly enter into an agreement, contract, or understanding with an officer or employee of the state for approval or payment of a claim under the medical assistance program knowing that the information in the agreement, contract, or understanding is false or fraudulent.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-58-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A beneficiary of an intentional or inadvertent submission of a false or fraudulent claim under the medical assistance program who later discovers the claim is false or fraudulent shall disclose the false or fraudulent claim to the state not later than 60 days after discovering the false claim.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-58-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to any criminal penalties under
+AS 47.05
+, a medical assistance provider or medical assistance recipient who violates (a) or (b) of this section shall be liable to the state in a civil action for</p>
+              </content>
+              <paragraph eId="09-58-010__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a civil penalty of not less than $5,500 and not more than $11,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-58-010__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>three times the amount of actual damages sustained by the state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-58-010__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>full reasonable attorney fees and costs in a case involving a fraudulent claim, agreement, contract, or understanding; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-58-010__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>reasonable attorney fees and costs calculated under applicable court rules in a case that does not involve a fraudulent claim, agreement, contract, or understanding.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-58-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Liability for actual damages under (c) of this section may be reduced to not less than twice the amount of actual damages that the state sustains if the court finds that a person liable for an act under (a) or (b) of this section</p>
+              </content>
+              <paragraph eId="09-58-010__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>furnished the attorney general or the Department of Health with all information known to the person about the violation not later than 30 days after the date the information was obtained;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-58-010__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>fully cooperated with the investigation of the violation under
+AS 09.58.020
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-58-010__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>at the time the person furnished the attorney general with the information about the violation, no criminal prosecution, civil action, investigation, or administrative action had been started in this state with respect to the violation, and the person did not have actual knowledge of the existence of an investigation of the violation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-58-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A corporation, partnership, or other individual is liable under this section for acts of its agents if the agent acted with apparent authority, regardless of whether the agent acted, in whole or in part, to benefit the principal and regardless of whether the principal adopted or ratified the agent's claims, representations, statement, or other action or conduct.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-58-015">
+            <num>09.58.015</num>
+            <heading>Attorney general investigation; civil action.</heading>
+            <subsection eId="09-58-015__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The attorney general or the Department of Health may investigate an alleged violation of
+AS 09.58.010
+. The attorney general may request assistance from the Department of Health in an investigation under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-58-015__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The attorney general may bring a civil action in superior court under
+AS 09.58.010
+ 09.58.025.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-58-020">
+            <num>09.58.020</num>
+            <heading>Private plaintiff; civil action.</heading>
+            <content>
+              <p>Sec. 09.58.020.   Private plaintiff; civil action.</p>
+            </content>
+          </section>
+          <section eId="sec_09-58-020">
+            <num>09.58.020</num>
+            <heading>Private plaintiff; civil action.</heading>
+            <content>
+              <p>Sec. 09.58.020.   Private plaintiff; civil action.</p>
+            </content>
+          </section>
+          <section eId="sec_09-58-025">
+            <num>09.58.025</num>
+            <heading>Subpoenas.</heading>
+            <content>
+              <p>Sec. 09.58.025.   Subpoenas.
+In conducting an investigation under
+AS 09.58.015
+, the attorney general may issue subpoenas to compel the production of books, papers, correspondence, memoranda, and other records in connection with an investigation under or the administration of
+AS 09.58.010
+ 09.58.025. If a medical assistance provider or a medical assistance recipient fails or refuses, without just cause, to obey a subpoena issued under this section, the superior court may, upon application by the attorney general, issue an order requiring the medical assistance provider or medical assistance recipient to appear before the attorney general to produce evidence.</p>
+            </content>
+          </section>
+          <section eId="sec_09-58-070">
+            <num>09.58.070</num>
+            <heading>Employee protection for retaliation.</heading>
+            <subsection eId="09-58-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An employee of a medical assistance provider who is discharged, demoted, suspended, threatened, harassed, or discriminated against in the terms and conditions of employment by the employee's employer because of lawful acts done by the employee on behalf of the employee or others in furtherance of an action under this chapter, including investigation for, initiation of, testimony for or assistance in an action filed or to be filed under this chapter, is entitled to the same relief authorized under
+AS 39.90.120
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-58-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, a state employee who is discharged, demoted, suspended, threatened, harassed, or discriminated against in the terms and conditions of employment because of lawful acts done by the employee on behalf of the employee or in furtherance of an action under this chapter, including investigation, initiation of, testimony for or assistance in an action filed or to be filed under this chapter, is entitled to relief under
+AS 39.90.100
+ 39.90.150 (Alaska Whistleblower Act).</p>
+              </content>
+            </subsection>
+            <subsection eId="09-58-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person may not bring an action under this section unless the action is commenced not later than three years after the date the employee was subject to retaliation under (a) or (b) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-58-080">
+            <num>09.58.080</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 09.58.080.   Regulations.
+The attorney general may adopt regulations under
+AS 44.62
+as necessary to carry out the purposes of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_09-58-090">
+            <num>09.58.090</num>
+            <heading>Special provisions.</heading>
+            <subsection eId="09-58-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This chapter does not apply to any controversy involving damages to the state of less than $5,500 in value.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-58-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>No punitive damages may be awarded in an action brought under
+AS 09.58.010
+ 09.58.025.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-58-100">
+            <num>09.58.100</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 09.58.100.   Definitions.
+In this chapter,
+(1) attorney general includes a designee of the attorney general;
+(2) claim means a request for payment of health care services or equipment, whether made to a contractor, grantee, or other person, when the state provides, directly or indirectly, a portion of the money, property, or services requested or demanded, or when the state will, directly or indirectly, reimburse the contractor, grantee, or other recipient for a portion of the money, property, or services requested or demanded;
+(3) controversy means the aggregate of one or more false claims submitted by the same medical assistance provider or medical assistance recipient under this chapter;
+(4) knowingly means that a person, with or without specific intent to defraud,
+(A) has actual knowledge of the information;
+(B) acts in deliberate ignorance of the truth or falsity of the information; or
+(C) acts in reckless disregard of the truth or falsity of the information;
+(5) medical assistance program means the federal-state program administered by the Department of Health under
+AS 47.05
+and
+AS 47.07
+and regulations adopted under
+AS 47.05
+and
+AS 47.07
+;
+(6) medical assistance provider has the meaning given in
+AS 47.05.290
+;
+(7) medical assistance recipient has the meaning given in
+AS 47.05.290
+;
+(8) obligation means an established duty, whether or not fixed, arising from
+(A) an express or implied contractual grantor or grantee or licensor or licensee relationship;
+(B) a fee-based or similar relationship;
+(C) a statute or regulation; or
+(D) the retention of any overpayment.</p>
+            </content>
+          </section>
+          <section eId="sec_09-58-110">
+            <num>09.58.110</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 09.58.110.   Short title.
+This chapter may be cited as the Alaska Medical Assistance False Claim and Reporting Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

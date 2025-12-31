@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-15"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="8.15"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_8">
+        <num>8</num>
+        <heading>Business and Professions</heading>
+        <chapter eId="title_8__chp_15">
+          <num>15</num>
+          <heading>Behavior Analysts</heading>
+          <section eId="sec_08-15-010">
+            <num>08.15.010</num>
+            <heading>Practice of behavior analysis without license prohibited.</heading>
+            <subsection eId="08-15-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not practice behavior analysis in this state without a license.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-15-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who practices behavior analysis in this state without a license is guilty of a misdemeanor and upon conviction is punishable by a fine of not more than $500, or by imprisonment for not more than six months, or by both.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-15-020">
+            <num>08.15.020</num>
+            <heading>Qualifications for license.</heading>
+            <subsection eId="08-15-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall issue a license to practice behavior analysis to a person who</p>
+              </content>
+              <paragraph eId="08-15-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>applies to the department on a form provided by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>pays the fees established by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>has passed the Board Certified Behavior Analyst Examination offered by the Behavior Analyst Certification Board, Inc., or another examination approved by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is currently certified by the Behavior Analyst Certification Board, Inc., or another certifying entity approved by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>furnishes evidence satisfactory to the department that the person has not engaged in conduct that is a ground for imposing disciplinary sanctions under
+AS 08.15.060
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>has been fingerprinted and has provided the fees required by the Department of Public Safety under
+AS 12.62.160
+for criminal justice information and a national criminal history record check; the fingerprints and fees shall be forwarded to the Department of Public Safety to obtain a report of criminal justice information under
+AS 12.62
+and a national criminal history record check under
+AS 12.62.400
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-15-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall issue a license to practice as an assistant behavior analyst to a person who</p>
+              </content>
+              <paragraph eId="08-15-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>applies to the department on a form provided by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>pays the fees established by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>has passed the Board Certified Assistant Behavior Analyst Examination offered by the Behavior Analyst Certification Board, Inc., or another examination approved by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is currently certified by the Behavior Analyst Certification Board, Inc., or another certifying entity approved by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>furnishes evidence satisfactory to the department that the person has not engaged in conduct that is a ground for imposing disciplinary sanctions under
+AS 08.15.060
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>has been fingerprinted and has provided the fees required by the Department of Public Safety under
+AS 12.62.160
+for criminal justice information and a national criminal history record check; the fingerprints and fees shall be forwarded to the Department of Public Safety to obtain a report of criminal justice information under
+AS 12.62
+and a national criminal history record check under
+AS 12.62.400
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-020__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>provides proof acceptable to the department that the person is directly supervised by a licensed behavior analyst.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_08-15-030">
+            <num>08.15.030</num>
+            <heading>Temporary license.</heading>
+            <content>
+              <p>Sec. 08.15.030.   Temporary license.
+The department may issue a temporary license to practice behavior analysis in this state for 30 days or less in a calendar year if the person is licensed to practice behavior analysis in another state whose requirements to practice behavior analysis are substantially equivalent to the requirements of
+AS 08.15.020
+.</p>
+            </content>
+          </section>
+          <section eId="sec_08-15-040">
+            <num>08.15.040</num>
+            <heading>Renewal of license.</heading>
+            <content>
+              <p>Sec. 08.15.040.   Renewal of license.
+The department may renew a license upon proof of continued certification by the Behavior Analyst Certification Board, Inc., or another certifying entity approved by the department.</p>
+            </content>
+          </section>
+          <section eId="sec_08-15-050">
+            <num>08.15.050</num>
+            <heading>Grounds for suspension, revocation, or refusal to issue a license.</heading>
+            <content>
+              <p>Sec. 08.15.050.   Grounds for suspension, revocation, or refusal to issue a license.
+The department may, after a hearing, impose a disciplinary sanction on a person licensed under this chapter when the department finds that the licensee
+(1) secured a license through deceit, fraud, or intentional misrepresentation;
+(2) engaged in deceit, fraud, or intentional misrepresentation in the course of providing professional services or engaging in professional activities;
+(3) advertised professional services in a false or misleading manner;
+(4) has been convicted of a felony or other crime that affects the licensee's ability to continue to practice competently and safely;
+(5) failed to comply with this chapter, with a regulation adopted under this chapter, or with an order of the department;
+(6) continued to practice after becoming unfit because of
+(A) professional incompetence;
+(B) addiction or severe dependency on alcohol or a drug that impairs the licensee's ability to practice safely;
+(C) physical or mental disability;
+(7) engaged in lewd or immoral conduct in connection with the delivery of professional service to patients.</p>
+            </content>
+          </section>
+          <section eId="sec_08-15-060">
+            <num>08.15.060</num>
+            <heading>Disciplinary sanctions.</heading>
+            <subsection eId="08-15-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the department finds that a licensee is guilty of an offense under
+AS 08.15.050
+, the department may impose the following sanctions singly or in combination:</p>
+              </content>
+              <paragraph eId="08-15-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>permanently revoke the license to practice;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>suspend the license for a determinate period of time;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-060__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>censure the licensee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-060__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>issue a letter of reprimand to the licensee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-060__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>place the licensee on probationary status and require the licensee to
+(A) report regularly to the department on matters involving the basis of probation;
+(B) limit practice to those areas prescribed;
+(C) continue professional education until a satisfactory degree of skill has been reached in areas determined by the department to need improvement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-15-060__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>impose limitations or conditions on the practice of the licensee.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-15-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may withdraw probationary status of a licensee if it finds that the deficiencies that required the sanction have been remedied.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-15-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may summarily suspend a license before final hearing or during the appeals process if the department finds that the licensee poses a clear and immediate danger to the public health and safety if the licensee continues to practice. A licensee whose license is suspended under this section is entitled to a hearing conducted by the office of administrative hearings not later than seven days after the effective date of the order. The licensee may appeal the suspension after a hearing to a court of competent jurisdiction.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-15-070">
+            <num>08.15.070</num>
+            <heading>Exemptions.</heading>
+            <content>
+              <p>Sec. 08.15.070.   Exemptions.
+This chapter does not apply to
+(1) a person licensed in this state performing behavior analysis within the scope of practice for which the person's license was issued;
+(2) a student or trainee who is enrolled in a behavior analysis program approved by the department while performing duties under the program under the direct supervision of a person licensed under this chapter;
+(3) an individual who directly implements applied behavior analysis services, or family member implementing a behavior analysis plan within the home, who acts under the direction of a licensed behavior analyst or licensed assistant behavior analyst;
+(4) an applied animal behaviorist who practices exclusively with nonhumans;
+(5) a person who works in organizational behavior management;
+(6) a person supervised by a licensed behavior analyst who is gaining experience for certification by the Behavior Analyst Certification Board, Inc., or another certifying entity approved by the department.</p>
+            </content>
+          </section>
+          <section eId="sec_08-15-080">
+            <num>08.15.080</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 08.15.080.   Regulations.
+The department shall adopt regulations to implement this chapter, including
+(1) continuing education requirements; and
+(2) standards for licensure by credentials.</p>
+            </content>
+          </section>
+          <section eId="sec_08-15-090">
+            <num>08.15.090</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 08.15.090.   Definitions.
+In this chapter,
+(1) behavior analysis means the design, implementation, and evaluation of instructional and environmental modifications to produce socially significant improvements in human behavior, the empirical identification of functional relations between behavior and environmental factors, and the utilization of contextual factors, motivating operations, antecedent stimuli, positive reinforcement, and other consequences to help people develop new behaviors, increase or decrease existing behaviors, and engage in behaviors under specific environmental conditions; behavior analysis does not include psychological testing, diagnosis of a mental or physical disorder, or the practice of neuropsychology, psychotherapy, cognitive therapy, sex therapy, psychoanalysis, hypnotherapy, or long-term counseling;
+(2) department means the Department of Commerce, Community, and Economic Development.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

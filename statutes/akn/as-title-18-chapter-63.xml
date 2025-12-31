@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-63"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-63"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.63"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-63/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-63/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-63/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-63/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_63">
+          <num>63</num>
+          <heading>Hazardous Painting Certification</heading>
+          <section eId="sec_18-63-010">
+            <num>18.63.010</num>
+            <heading>Hazardous painting certificate required.</heading>
+            <subsection eId="18-63-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not employ or contract with a professional painter to perform hazardous painting for compensation unless the painter holds a current valid hazardous painting certificate issued by the department. As a condition of employment, an employer may require a professional painter to provide a copy of the certificate. It is a defense to a violation of this subsection by an employer if the employer produces a copy of the painter's certificate and the employer reasonably believed the certificate was not falsified.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-63-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A professional painter may not provide a falsified hazardous painting certificate to an employer or make a false statement to an employer regarding the painter's certification.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-63-020">
+            <num>18.63.020</num>
+            <heading>Issuance of certificate.</heading>
+            <subsection eId="18-63-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An application for issuance of a hazardous painting certificate shall be on a form prescribed by the department. An application for initial issuance of a certificate must include proof that the applicant completed an approved basic hazardous painting certificate program not more than 30 days before the application was received by the department. An application for certificate renewal must include proof that the applicant completed an approved supplemental hazardous painting certificate program not more than 30 days before the date the application was received by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-63-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall issue a hazardous painting certificate to an applicant who has completed an application and submitted a certificate fee. A certificate is valid for three years.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-63-030">
+            <num>18.63.030</num>
+            <heading>Fee.</heading>
+            <content>
+              <p>Sec. 18.63.030.   Fee.
+The commissioner shall establish the triennial fee for a hazardous painting certificate by regulation. The fee must reflect the department's approximate costs or projected costs for the hazardous painting certification program.</p>
+            </content>
+          </section>
+          <section eId="sec_18-63-040">
+            <num>18.63.040</num>
+            <heading>Certificate programs.</heading>
+            <subsection eId="18-63-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall</p>
+              </content>
+              <paragraph eId="18-63-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>establish requirements for basic and supplemental hazardous painting certificate programs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-63-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>review, and approve or disapprove, programs proposed by contractors, labor organizations, public and private schools, vocational education institutions, and others;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-63-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>assist persons who propose programs to meet requirements for approval.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-63-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A basic hazardous painting certificate program must include instruction and written and practical testing in methods of ventilation, respirator selection, chemical reaction to body tissue, proper use of painting tools, knowledge of relevant health and safety laws and regulations, including relevant portions of state occupational safety and health standards adopted by the department in regulation, and other appropriate subjects. A basic hazardous painting certificate program may not exceed 16 hours of instruction and testing. A supplemental hazardous painting certificate program must include instruction and written and practical testing necessary to ensure that a person who completes the program will be knowledgeable about new developments and changes related to hazardous painting that have occurred since the person completed a basic hazardous painting certificate program.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-63-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A hazardous painting certificate program conducted by an employer of a person enrolled in the program may include safety instruction required under
+AS 18.60.066
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-63-050">
+            <num>18.63.050</num>
+            <heading>Inspections and citations.</heading>
+            <subsection eId="18-63-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and are performing the work safely;</p>
+              </content>
+              <paragraph eId="18-63-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>issue citations to persons who employ or contract with a professional painter in violation of
+AS 18.63.010</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-63-050__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>issue citations to professional painters who violate
+AS 18.63.010</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-63-060">
+            <num>18.63.060</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 18.63.060.   Regulations.
+The department may adopt regulations necessary for the implementation of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-63-070">
+            <num>18.63.070</num>
+            <heading>Penalty.</heading>
+            <content>
+              <p>Sec. 18.63.070.   Penalty.
+The department may impose a civil fine of not more than $200 for a first violation, and not more than $1,000 for a subsequent violation, of this chapter or a regulation adopted under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-63-100">
+            <num>18.63.100</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.63.100.   Definitions.
+In this chapter,
+(1) department means the Department of Labor and Workforce Development;
+(2) hazardous painting means the application of a substance containing or combined with a toxic or hazardous substance, as defined in
+AS 18.60.105
+, in vaporized, liquid, or particulate form to create a coating that will adhere to a surface to protect or preserve the surface; hazardous painting does not include the application of water-based paint that does not contain emulsion epoxies or isocyanates;
+(3) professional painter means a painting contractor, an employee of a painting contractor, or a person engaged in the business of painting, but does not include a casual laborer, a commercial artist, or a person who creates artworks.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-80"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-80"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="15.80"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-80/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-80/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-80/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-80/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_15">
+        <num>15</num>
+        <heading>Elections</heading>
+        <chapter eId="title_15__chp_80">
+          <num>80</num>
+          <heading>General Provisions</heading>
+          <section eId="sec_15-80-005">
+            <num>15.80.005</num>
+            <heading>Readability of certain election materials.</heading>
+            <subsection eId="15-80-005__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The policy of the state is to prepare a ballot proposition that is clear, concise, and easily readable. The form of each ballot proposition shall be scored under (c) of this section. The policy of the state is to prepare a ballot proposition that is scored at approximately 60.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-80-005__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each neutral summary prepared for the voter's pamphlet shall be scored under (c) of this section. The policy of the state is to prepare a neutral summary that is scored at approximately 60.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-80-005__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A ballot proposition or neutral summary shall be scored using the following procedures:</p>
+              </content>
+              <paragraph eId="15-80-005__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>disregard numbers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-80-005__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>multiply the average sentence length in words by 1.015;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-80-005__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>multiply the average number of syllables for each 100 words by .846;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-80-005__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>subtract the total of (2) and (3) from 206.835.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-80-005__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A court may not enjoin the conduct or results of an election for a failure to comply with (a) or (b) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-80-007">
+            <num>15.80.007</num>
+            <heading>Sale of voter registration and election management software.</heading>
+            <content>
+              <p>Sec. 15.80.007.   Sale of voter registration and election management software.
+The director may sell voter registration and election management system data processing software.</p>
+            </content>
+          </section>
+          <section eId="sec_15-80-008">
+            <num>15.80.008</num>
+            <heading>Recognized political party status.</heading>
+            <subsection eId="15-80-008__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A political group that the director has not recognized as a political party may obtain recognized political party status if, on or before May 31 of the election year for which the political group seeks recognition, the political group</p>
+              </content>
+              <paragraph eId="15-80-008__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>files an application with the director;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-80-008__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>submits bylaws to the director and the United States Department of Justice as required of political parties in
+AS 15.25.014
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-80-008__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>meets the definition of a political party in
+AS 15.80.010
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-80-008__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director shall verify that each political group seeking recognized political party status under (a) of this section and each recognized political party meets the definition of a political party in
+AS 15.80.010
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-80-008__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director shall perform a verification described in (b) of this section at least once a month after the date of certification of the preceding general election, except that the director may suspend the monthly verifications on and after June 1 and before November 30 of a general election year. For purposes of (b) of this section, the director shall verify that the voters who have submitted registration forms to the division of elections are qualified under
+AS 15.05.010
+and have declared affiliation with the political group or recognized political party for which the verification is performed.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-80-008__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Within 10 days after a verification under (c) of this section, the director shall provide to a political group seeking recognized political party status under (a) of this section written notification when the political group has obtained recognized political party status.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-80-008__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The director may not withdraw recognized political party status from a political group that no longer qualifies as a political party until after the first verification after a general election at which a governor was elected. The director shall notify the political group in writing of the withdrawal of recognition.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_15-80-010">
+            <num>15.80.010</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 15.80.010.   Definitions.
+In this title, unless the context otherwise requires,
+(1) absent uniformed services voter has the meaning given in 52 U.S.C. 20310;
+(2) absentee voting official means a person appointed to serve as an absentee voting official in accordance with
+AS 15.20.045
+;
+(3) ballot means any document provided by the director on which votes may be cast for candidates, propositions, or questions;
+(4) director means the director of elections who is the chief elections officer of the state appointed in accordance with
+AS 15.10.105
+(a);
+(5) division means the division of elections created under
+AS 15.10.105
+;
+(6) election board means the board appointed in accordance with
+AS 15.10.120
+;
+(7) election official means election board members, members of counting or review boards, employees of the division of elections, and absentee voting officials;
+(8) electronically generated ballot means any ballot other than a paper ballot that is physically marked by the voter using a writing instrument or a mechanical device;
+(9) federal election means a general, special, special primary, or primary election held solely or in part for the purpose of selecting, nominating, or electing a candidate for the office of President, Vice-President, presidential elector, United States senator, or United States representative;
+(10) felony involving moral turpitude includes those crimes that are immoral or wrong in themselves such as murder, manslaughter, assault, sexual assault, sexual abuse of a minor, unlawful exploitation of a minor, robbery, extortion, coercion, kidnapping, incest, arson, burglary, theft, forgery, criminal possession of a forgery device, offering a false instrument for recording, scheme to defraud, falsifying business records, commercial bribe receiving, commercial bribery, bribery, receiving a bribe, perjury, perjury by inconsistent statements, endangering the welfare of a minor, escape, promoting contraband, interference with official proceedings, receiving a bribe by a witness or a juror, jury tampering, misconduct by a juror, tampering with physical evidence, hindering prosecution, terroristic threatening, riot, criminal possession of explosives, unlawful furnishing of explosives, sex trafficking, criminal mischief, misconduct involving a controlled substance or an imitation controlled substance, permitting an escape, promoting gambling, possession of gambling records, distribution of child sexual abuse material, and possession of child sexual abuse material;
+(11) general election means the election held on the Tuesday after the first Monday in November of even-numbered years;
+(12) hand-counted ballot means a ballot designated to be counted by hand in precincts where precinct tabulators are not available;
+(13) house district means one of the districts described in art. VI, sec. 1, Constitution of the State of Alaska;
+(14) judicial district means one of the districts defined in
+AS 22.10.010
+;
+(15) lieutenant governor includes an appointed lieutenant governor, governor, or acting governor if a vacancy has occurred in the office of lieutenant governor or governor;
+(16) limited political party means a political group which organizes for the purpose of selecting candidates for electors for President and Vice-President;
+(17) local election means a regular or special election held by a borough, city, school district, or regional educational attendance area;
+(18) master register means the list of all registered voters in the state which is maintained by the director of elections;
+(19) member of a political party means a person who supports the political program of a party;
+(20) numerical identifier means a voter's date of birth, the last four digits of a voter's social security number, a voter's Alaska driver's license number, or a voter's Alaska identification card number or voter identification number;
+(21) oath includes affirmation;
+(22) official registration list means the list of all voters qualified to vote at a particular election compiled in accordance with
+AS 15.07.125
+;
+(23) optically scanned ballot means a paper ballot designed to be read by an optical scanning machine;
+(24) overseas voter has the meaning given in 42 U.S.C. 1973ff-6;
+(25) party district committee means the political party committee that performs the executive function for a region representing an area larger than a precinct and smaller than the state;
+(26) political group means a group of organized voters which represents a political program and which does not qualify as a political party;
+(27) political party means an organized group of voters that represents a political program and has at least 5,000 registered voters in the state; beginning with the results of the 2030 decennial federal census, following each decennial federal census, the division shall by regulation adjust this number by the percentage of the change to the population of the state since the 2020 decennial federal census, rounded to the nearest 500;
+(28) precinct means the territory within which resident voters may cast votes at one polling place;
+(29) precinct tabulators means an electronic optical scanning ballot tabulation system or other tabulator designated by the director to electronically count ballots;
+(30) presidential election year means a year in which the presidential electors are elected;
+(31) proposition means an initiative, referendum, or constitutional amendment submitted at an election to the public for vote;
+(32) qualified voter means a person who has the qualification of a voter and is not disqualified as provided by art. V, sec. 2, Constitution of the State of Alaska, and
+AS 15.05.030
+;
+(33) question means an issue placed on the ballot to determine whether a judge or justice shall be accepted or rejected, whether a constitutional convention shall be called, whether a state debt shall be contracted, or whether a state official shall be recalled;
+(34) ranked-choice voting means, in a general election, the method of casting and tabulating votes in which voters rank candidates in order of preference and in which tabulation proceeds in sequential rounds in which (A) a candidate with a majority in the first round wins outright, or (B) last-place candidates are defeated until there are two candidates remaining, at which point the candidate with the greatest number of votes is declared the winner of the election.
+(35) registration official includes an employee of the division of elections when performing the task of voter registration and a person appointed to serve as a registration official in accordance with
+AS 15.07.081
+or 15.07.100;
+(36) reregistration means the submission of a registration form by a voter whose registration was inactivated on the master register maintained under
+AS 15.07
+and the director's reactivation of that registration in accordance with that chapter; in this paragraph, a voter whose registration was inactivated does not include a voter whose registration was inactivated under
+AS 15.07.130
+and whose ballot may be counted under
+AS 15.15.198
+;
+(37) senate district means one of the districts described in art. VI, sec. 2, Constitution of the State of Alaska;
+(38) signature or subscription includes a mark intended as a signature or subscription;
+(39) special election means an election held at a time other than when the general or primary election is held and an election called to be held with, and at the time of, the general or primary election;
+(40) special runoff election means a runoff election for a United States senator or United States representative held because no candidate for the office received over 50 percent of the votes cast at the special election for that office;
+(41) state chairperson or state party chairperson means the political party official elected as the highest ranking statewide party executive;
+(42) sworn includes affirmed;
+(43) unconditional discharge means that a person is released from all disability arising under a conviction and sentence, including probation and parole;
+(44) vacancy exists in an office when the person elected or appointed to the office resigns, retires, dies, is recalled, is rejected by majority vote on the question at an election, is convicted of a corrupt practice, is removed by impeachment, or is expelled;
+(45) voter means a person who presents oneself for the purpose of voting either in person or by absentee ballot;
+(46) voter registration agency means an agency designated in or under
+AS 15.07.055
+.</p>
+            </content>
+          </section>
+          <section eId="sec_15-80-020">
+            <num>15.80.020</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 15.80.020.   Short title.
+AS 15.05
+
+AS 15.80
+may be cited as the Alaska Election Code.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

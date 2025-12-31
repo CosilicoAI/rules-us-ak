@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-26"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-26"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.26"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-26/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-26/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-26/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-26/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_26">
+          <num>26</num>
+          <heading>Alaska Medical Facility Authority</heading>
+          <section eId="sec_18-26-010">
+            <num>18.26.010</num>
+            <heading>Legislative finding and policy.</heading>
+            <subsection eId="18-26-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The legislature finds that</p>
+              </content>
+              <paragraph eId="18-26-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>there exist inadequate medical care and medical facilities in certain localities of the state, and in other localities medical care is not available and medical facilities do not exist at all;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>construction funding under 42 U.S.C. 291-291z (Title VI, Public Health Service Act) and 42 U.S.C. 2661-2698(b) (P.L. 88-164, Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963) has not been forthcoming to the degree necessary, either alone or when combined with state or local funds, to ameliorate the state's need for medical care and medical facilities; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>it is essential that the people of this state have adequate medical care and medical facilities at a reasonable cost.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-26-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is declared to be the policy of the state, in the interests of promoting the health and general welfare of all of its people, to provide acceptable alternative means of financing the constructing and equipping of needed medical facilities that, in number, size, type, distribution, operation, and services, are consistent with the orderly and economic development of medical facilities and services, are in the public interest, avoid unnecessary duplication of medical facilities and services, are economical in the use of health personnel, and will assure admission and care of high quality to all who need it. The legislature finds that this policy will be implemented by creating a public corporation called the Alaska Medical Facility Authority, with powers, duties, and functions as provided in this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-26-020">
+            <num>18.26.020</num>
+            <heading>Creation of authority.</heading>
+            <content>
+              <p>Sec. 18.26.020.   Creation of authority.
+There is created the Alaska Medical Facility Authority the sole purpose of which is to provide and finance medical facilities for the benefit of the people of the state.  The authority is a public corporation and an instrumentality of the state within the Department of Revenue, but with a separate and independent legal existence.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-030">
+            <num>18.26.030</num>
+            <heading>Board of directors of the authority.</heading>
+            <subsection eId="18-26-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The authority shall be managed and controlled by a seven-person board of directors, who serve at the pleasure of the governor, consisting of</p>
+              </content>
+              <paragraph eId="18-26-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the commissioner of revenue, who shall also chair the board;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the commissioner of health;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the commissioner of commerce, community, and economic development;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>four public members, appointed by the governor.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-26-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The four public members appointed under (a)(4) of this section serve for staggered four-year terms. Each must be a resident of the state and a qualified voter at the time of appointment and shall comply with the requirements of
+AS 39.50
+(public official financial disclosure). Each member shall hold office for the term of the appointment and until a successor has been appointed and qualified. A member is eligible for reappointment. A vacancy on the board of directors occurring other than by expiration of term shall be filled in the same manner as the original appointment but for the unexpired term only. Each member of the board, before entering upon the duties of office, shall take and subscribe to an oath to perform the duties of office faithfully, impartially, and justly to the best of the member's ability. A record of the oath shall be filed in the Office of the Governor.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If any commissioner is unable for any reason to attend a meeting of the authority, the commissioner may, by an instrument filed with the board and incorporated into the minutes of the meeting, designate another person within the commissioner's department to serve as a member at that meeting. For purposes of this chapter, an acting commissioner is a member of the board until a commissioner assumes office.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-26-040">
+            <num>18.26.040</num>
+            <heading>Meetings, compensation, officers, and expenses.</heading>
+            <subsection eId="18-26-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Four members of the board constitute a quorum for the transaction of business or the exercise of a power or function at a meeting of the board.  All decisions of the board shall be initiated by motion or resolution, and the vote and decision shall be recorded in the board's minute book, which is a public record. The affirmative votes of not less than two of the public members and two commissioners are required for the passage of any motion or resolution.  Notice of all meetings shall be given in accordance with regulations adopted by the board.  All meetings of the board shall be open to the public, except that the board may convene in executive session in the manner provided in
+AS 44.62.310</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to consider subject matter under
+AS 44.62.310
+(c).</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Members of the board serve without salary but each member is entitled to reimbursement from authority funds for actual and necessary expenses incurred in the performance of official duties as a member of the board.  An officer or employee of the state need not forfeit office or employment or any benefits by reason of acceptance to the office of director of the authority.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The board may appoint an executive director who serves at its pleasure and may appoint and employ other persons or officers it considers advisable, including but not limited to professional advisors, architects, technical experts, agents, and support personnel.  The attorney general is the legal counsel for the authority.  The executive director, if any, is responsible for keeping records of all meetings of the board and is custodian of all books, documents, and papers filed with the board, the minute book, and journals.  In the absence of an executive director, the board shall designate one member of the board to fulfill the duties mentioned in this subsection.  The person responsible for those duties may cause copies to be made of all minutes, records, and documents of the board and may give certificates of the authority to the effect that those copies are true copies and all persons dealing with the authority may rely on those certificates.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-26-050">
+            <num>18.26.050</num>
+            <heading>Powers of authority.</heading>
+            <content>
+              <p>Sec. 18.26.050.   Powers of authority.
+The authority has all powers necessary to carry out the purposes of this chapter including, but not limited to, the following:
+(1) to sue and be sued in its own name;
+(2) to adopt a seal and alter it at pleasure;
+(3) to adopt, amend, and repeal bylaws for its organization, management of its internal affairs, and the conduct of its business consistent with the provisions of this chapter;
+(4) to adopt regulations, in accordance with
+AS 44.62
+(Administrative Procedure Act), governing the exercise of its corporate powers;
+(5) to acquire by purchase, construction, exchange, gift, lease, or otherwise, real or personal property, rights, rights-of-way, franchises, easements, and other interests in land, including land lying under water and riparian rights that are located in the state, taking title to it in the name of the authority;
+(6) to accept gifts, grants, or loans from, and enter into contracts or other transactions regarding them with, a federal agency or an agency or instrumentality of the state, a municipality, private organization, or other source;
+(7) to provide the financing incidental to purchasing, constructing, improving, extending, and equipping medical facilities in the state;
+(8) to lease to any political subdivision of the state or nonprofit corporation medical facilities upon terms and conditions the board considers appropriate, and to terminate any such lease upon default of the lessee;
+(9) to enter into options and agreements for the renewal or extension of leases of medical facilities leased under (8) of this section or for the conveyance or options to convey, including renewals, of those medical facilities;
+(10) to sell, exchange, donate, convey, pledge, or otherwise encumber in any manner by mortgage or by creation of any other security interest, real or personal property owned by it, or in which it has an interest, to pledge the revenue and receipts from these assets, and to arrange and provide for guarantees and other security agreements when, in the judgment of the authority, the action is in furtherance of its corporate purposes;
+(11) to issue notes and revenue bonds in amounts considered necessary by the authority to pay the cost of establishing and equipping medical facilities and to secure payment of the notes and revenue bonds as provided in this chapter;
+(12) to deposit or otherwise invest its funds, subject to agreements with bondholders, in any property or securities in which banks or trust companies may legally invest, so long as no member of the board of directors or its executive director has any personal interest, either directly or indirectly, in any such depository or investment entity and the funds are held in reserves or sinking funds, if those deposited or invested funds are not required for reasonably foreseeable disbursement;
+(13) to arrange or contract for services, privileges, works, facilities, or management and operation of a medical facility;
+(14) to fix and revise, from time to time, and to charge and collect rates, rents, fees, and charges for the use of and services furnished or to be furnished by a medical facility for which financing or financial assistance is provided under this chapter;
+(15) to insure any real or personal property or operations of the authority against any risks or hazards;
+(16) to purchase its bonds at a price not more than the principal amount of them plus accrued interest; all bonds so purchased must be cancelled;
+(17) to maintain an office at places it may designate;
+(18) to make mortgage loans or other secured loans to a medical facility, to refund or refinance outstanding obligations, mortgages, or advances issued, made, or given by the medical facility for the costs of its facilities, including the issuance of bonds and the making of loans to a medical facility, when the authority finds that such financing is in the public interest and alleviates the financial hardship upon the medical facility, is in connection with other financing by the authority for the medical facility, or may be expected to result in a lower cost of patient care and a saving to third parties, including the state or the federal government, and to others who must pay for the health care, or any combination of those factors;
+(19) to obtain, or aid in obtaining, from any department or agency of the United States or of this state or any private company, any insurance or guarantee as to, or of, or for the payment or repayment of interest or principal, or both, or any part of interest or principal on any loan, lease, or obligation, or any instrument evidencing or securing a loan, lease, or obligation entered into under this chapter; and, notwithstanding any other provisions of this chapter, to enter into any agreement, contract, or any other instrument whatsoever with respect to any such insurance or guarantee, to accept payment in the manner and form provided in it in the event of default by a medical facility, and to assign any such insurance or guarantee as security for the authority's bonds.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-060">
+            <num>18.26.060</num>
+            <heading>Operation and management of medical facilities.</heading>
+            <subsection eId="18-26-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The authority may not maintain or operate any medical facility.  However, if the operator of a medical facility or trustee under a trust agreement defaults under any material provisions of the contractual documents, the authority may operate and maintain the medical facility on an interim basis for a limited period of time as is necessary to recruit another knowledgeable and competent operator or trustee.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All references to the maintenance or operation of a medical facility within this chapter must be strictly construed as subject to the limitation of (a) of this section and are not expansions of, additions to, or in any other manner an amplification of the restrictive intent and language of (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-26-070">
+            <num>18.26.070</num>
+            <heading>Expenses of authority.</heading>
+            <content>
+              <p>Sec. 18.26.070.   Expenses of authority.
+All expenses of the authority incurred in carrying out the provisions of this chapter are payable solely from funds provided under this chapter, and liability may not be incurred by the authority beyond the extent to which money has been provided under this chapter.  However, for the purposes of meeting the necessary expenses of initial organization and operation of the authority for the period commencing on July 9, 1978, and continuing until the authority derives money from funds provided to it under this chapter, the authority may borrow the money it requires and may repay it, with appropriate interest, over a reasonable period of time.  A liability incurred under this section is a liability of the authority only, and not a liability of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-080">
+            <num>18.26.080</num>
+            <heading>Bonds of the authority; court jurisdiction.</heading>
+            <subsection eId="18-26-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The authority may borrow money and may issue bonds for it, payable from the revenue derived by it from its interest in any one or more medical facilities or from its income and receipts or other assets generally, or a designated part of them.  The issuance of revenue bonds is governed by the provisions of this chapter and is not subject to the prior approval of the voters of the state.  Revenue bonds, whether coupon or fully registered, are negotiable instruments for all purposes of the Uniform Commercial Code.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The authority shall issue revenue bonds only by resolution adopted by its board after finding that</p>
+              </content>
+              <paragraph eId="18-26-080__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the lessee or operator of the medical facility is financially responsible and competent to operate the facility, and the lease or operation contract has been approved by the authority and the lessee or operator;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-080__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>financing the medical facility will be advantageous to the public welfare of the state and the community in which the medical facility is or is to be located; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-080__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the medical facility to be constructed will comply with all applicable ordinances of the municipality.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-26-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The resolution adopted in (b) of this section shall also specify the public purpose for which the proceeds of the revenue bonds must be expended and declare the projected cost of carrying out that purpose.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The bonds may be issued as serial bonds, as term bonds, or bonds of both types.  The authorizing bond resolution shall state the maturity date which may not exceed 40 years from the bond's date of issue, the rate of interest, the time of payment, the denomination, whether coupon or fully registered, whether transferable, exchangeable, or interchangeable, the registration and conversion privileges, if any, the covenant that payments are to be only in lawful money of the United States of America at the place the board authorizes, and the terms of redemption, if any.  The bonds, notes, or attached interest coupons must be executed by manual or facsimile signatures of the officers of the authority designated by the board.  Pending preparation of the definitive bonds, the authority may issue interim receipts or certificates which shall be exchanged for the definitive bonds.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-080__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The bond resolution shall provide for the establishment of one or more special funds, and those funds may be under the control of the board or one or more trustees.  The bond resolution shall obligate the authority to deposit and expend the proceeds of the revenue bonds only into and from those funds.  The authority may issue and sell revenue bonds payable as to interest and principal only out of those funds.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-080__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>All bonds may be sold at public or private sale in the manner, at the time, and for the price determined by the authority.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-080__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Before the issuance of any bonds, the authority shall verify that the lease or operator agreement for the medical facility being financed by that issue is at least sufficient, in the judgment of the authority,</p>
+              </content>
+              <paragraph eId="18-26-080__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to pay the principal of and interest on the bonds as they become due;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-080__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to create and maintain the reserves for them as the authority considers necessary or desirable; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-080__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to meet all obligations in connection with the lease or operator agreement, including all costs necessary to service the bonds.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-26-080__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Bonds of the authority may be secured by a pooling of leases by which the authority may assign its rights and pledge rents under two or more leases of medical facilities, upon terms that may be provided for in bond resolutions of the authority.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-080__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Any bond resolution may contain provisions, which constitute a part of the contract with the holders of the bonds, as to</p>
+              </content>
+              <paragraph eId="18-26-080__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the rentals, fees, and other amounts to be charged, and the sums to be raised in each year by them, and the use, investment, and disposition of those sums;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-080__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the setting aside of reserves or sinking funds, and the regulation, investment, and disposition of them;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-080__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>limitations on the use of the medical facility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-080__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>limitations on the issuance of additional bonds, the terms upon which additional bonds may be issued and secured, the terms upon which additional bonds may rank on a parity with, or be subordinate or superior to, other bonds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-080__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the refunding of outstanding bonds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-080__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the procedure, if any, by which the terms of any contract with bondholders may be amended or abrogated;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-080__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>any matters relating to the bonds that the authority considers desirable.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-26-080__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The authority may contract for the future sale of revenue bonds by which contract purchasers shall be committed to the prices, terms, and conditions stated in each contract.  The authority may pay the consideration it considers proper for those commitments.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-080__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>The superior court has jurisdiction to hear and determine actions or proceedings relating to the authority, including actions or proceedings brought to foreclose or otherwise enforce a mortgage, pledge, assignment, or security interest or brought by or for the benefit or security of a holder of its bonds or by a trustee for or other representative of the holders.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-26-090">
+            <num>18.26.090</num>
+            <heading>Bond anticipation notes.</heading>
+            <content>
+              <p>Sec. 18.26.090.   Bond anticipation notes.
+The authority may issue and sell bond anticipation notes which shall be on the terms, bear the date, mature at the time, be in the denomination and in the form, payable in the medium at the place and subject to the terms of redemption as the authority considers necessary or advisable in the manner provided in this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-100">
+            <num>18.26.100</num>
+            <heading>Trust indentures and trust agreements.</heading>
+            <content>
+              <p>Sec. 18.26.100.   Trust indentures and trust agreements.
+In the discretion of the authority, an issue of bonds may be secured by a trust indenture, trust agreement, indenture of mortgage or deeds of trust (all considered trust agreements in this chapter) between the authority and a corporate trustee. The corporate trustee may be a trust company, bank, or national banking association, with corporate trust powers, located inside or outside the state or by a secured loan agreement or other instrument or under a resolution giving powers to a corporate trustee by means of which the authority may
+(1) make any covenants and agreements with the trustee or the holders of the bonds that the authority determines to be necessary or desirable, including, without limitation, covenants and agreements as to
+(A) the application, investment, deposit, use, and disposition of the proceeds of bonds of the authority or of money or other property of the authority or in which it has an interest;
+(B) the fixing and collection of rent or other consideration for, and the other terms to be incorporated in a lease or contract of sale of, a project;
+(C) the assignment by the authority of its rights in the lease or contract of sale of a project or in a mortgage or other security interest created with respect to a project to a trustee for the benefit of bondholders;
+(D) the terms and conditions upon which additional bonds of the authority may be issued;
+(E) the vesting in a trustee of rights, powers, duties, funds, or property in trust for the benefit of bondholders, including, without limitation, the right to enforce payment, performance, and all other rights of the authority or of the bondholders, under a lease, contract of sale, mortgage, security agreement, or trust agreement with respect to a project by injunction or other proceeding or by taking possession of by agent or otherwise and operating a project and collecting rent or other consideration and applying it in accordance with the trust agreement;
+(2) pledge, mortgage, or assign money, leases, agreements, property, or other assets of the authority either presently in hand or to be received in the future, or both; and
+(3) provide for any other matters of like or different character that in any way affect the security or protection of the bonds.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-110">
+            <num>18.26.110</num>
+            <heading>Liability for issuance.</heading>
+            <content>
+              <p>Sec. 18.26.110.   Liability for issuance.
+Neither the members of the authority nor any person executing the bonds is liable personally on the bonds or is subject to any personal liability or accountability by reason of the issuance of them.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-120">
+            <num>18.26.120</num>
+            <heading>Bondholder claims against special funds.</heading>
+            <content>
+              <p>Sec. 18.26.120.   Bondholder claims against special funds.
+Any notes or revenue bonds issued against any special funds provided for in this chapter are a valid claim of the holder of them only as against those special funds in the proportion or amount of the revenue pledged to the funds and other authority assets the board may have pledged.  All notes or revenue bonds payable from a special fund shall, on the face of the note or revenue bond, name the fund and the resolution creating them.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-130">
+            <num>18.26.130</num>
+            <heading>Conflict of interests.</heading>
+            <subsection eId="18-26-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A member of the board may not vote on a resolution of the board relating to a lease or contract to be entered into by the authority under this chapter if the member is a party to the lease or contract or has a direct ownership or equity interest in a firm, partnership, corporation, or association that would be a party to the contract or lease.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is a conflict of interests for any person employed by the authority or any person on contract for hire, written or oral, at a fixed or hourly fee with the authority, to act in an advisory capacity to the authority or to support the use of the authority's funds in a manner that may or will result in benefit, directly or indirectly, to that employee, agent, or advisor, except upon full disclosure in writing and by oral presentation to the board of the details of the conflicting interest, including a dollar estimate of the direct and indirect monetary gain the employee, agent, or advisor may expect to derive.  The board's resolution that addresses the matter in which a conflict of interests exists must set out the details of the full disclosure.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any person who violates this section shall be</p>
+              </content>
+              <paragraph eId="18-26-130__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>punished by a fine equivalent to the total gain derived, including gain derived from a partially disclosed or misstated disclosure of monetary gain;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-130__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>barred from further acting as an employee, agent, or advisor to the authority; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-130__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>imprisoned for a term not less than three months nor more than one year.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-26-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Public notice of the board meeting at which the written and oral disclosure of the conflict is to be given must specify</p>
+              </content>
+              <paragraph eId="18-26-130__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a conflict-of-interests presentation is to be made at that meeting;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-130__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the name of the person making the disclosure; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-130__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the position or title of the person so disclosing.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-26-140">
+            <num>18.26.140</num>
+            <heading>Pledge of revenue.</heading>
+            <content>
+              <p>Sec. 18.26.140.   Pledge of revenue.
+A pledge of revenue or other money, obligations, or assets by the authority is binding from the time the pledge is made as against any parties having subsequent claims in tort, contract, or otherwise, irrespective of whether those parties have actual notice of the prior pledge. The pledge must be noted in the board's minute book and is constructive notice to all parties. Neither the resolution nor other instrument by which a pledge is created need be otherwise recorded, nor is the filing of any financing statement under the Uniform Commercial Code or other law required to perfect the pledge. Revenue, rent, or other money, obligations, or assets so pledged and later received by the authority are immediately subject to the lien of the pledge without any physical delivery or further act.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-150">
+            <num>18.26.150</num>
+            <heading>Obligations and income of authority.</heading>
+            <subsection eId="18-26-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notes or revenue bonds issued under the provisions of this chapter are not, either directly, indirectly, or contingently, an obligation, a pledge of the faith and credit of, or a charge upon any revenue or funds of the state or of any political subdivision of the state but are payable solely from the funds of the authority.  The issuance of notes or revenue bonds under this chapter does not, directly, indirectly, or contingently, obligate the state or any political subdivision of the state to levy any form of taxation or to make any appropriation for their payment.  Nothing in this section prevents the authority from pledging its faith and credit or the faith and credit of a medical facility to the payment of bonds authorized under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The funds, income, or receipts of the authority do not constitute money of the state, nor is real property in which the authority has an interest considered land owned in fee by the state or to which the state may become entitled or in any way land belonging to the state, or state land referred to in art. VIII of the Alaska Constitution.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-26-160">
+            <num>18.26.160</num>
+            <heading>Rights of bondholders.</heading>
+            <content>
+              <p>Sec. 18.26.160.   Rights of bondholders.
+A holder of notes or revenue bonds issued under this chapter or a trustee under a trust agreement entered into under this chapter may, except to the extent the holder's rights are restricted by the bond resolution, by any suitable form of legal proceedings, protect and enforce any rights under the laws of this state or granted by the bond resolution.  Those rights include (1) the right to compel the performance of all duties of the authority required by this chapter or the bond resolution; (2) the right to enjoin unlawful activities; and (3) in the event of default (A) with respect to the payment of any principal of, or premium, if any, or interest on, any bond, or (B) in the performance of any covenant or agreement on the part of the authority in the bond resolution, the right to apply to a court having jurisdiction of the cause to appoint a receiver to administer and operate the medical facility.  The receiver may pay principal of, and premiums, if any, and interest on those bonds, and has the powers, subject to the direction of the court, that are permitted by law and are accorded receivers in general equity cases. However, the receiver may not pledge additional revenue of the authority to the payment of that principal, premium, and interest.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-170">
+            <num>18.26.170</num>
+            <heading>Investments by authority.</heading>
+            <content>
+              <p>Sec. 18.26.170.   Investments by authority.
+Except as otherwise provided by this chapter, the authority may invest any funds, not needed to meet current cash expenditure needs, as set out in
+AS 37.10.071
+.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-180">
+            <num>18.26.180</num>
+            <heading>Bonds as securities.</heading>
+            <content>
+              <p>Sec. 18.26.180.   Bonds as securities.
+Revenue bonds of the authority are securities in which the following may legally invest any funds belonging to them or within their control: all public officers and agencies of the state and of municipal corporations, officers, boards of directors and trustees of banks, trust companies, savings banks, and institutions, building and loan associations, savings and loan associations, investment companies, insurance companies and associations, all executors, administrators, guardians, trustees, and other fiduciaries.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-190">
+            <num>18.26.190</num>
+            <heading>Pledge of the state.</heading>
+            <content>
+              <p>Sec. 18.26.190.   Pledge of the state.
+The State of Alaska pledges to and agrees with the holders of any obligations issued under this chapter, and with those parties who may enter into contracts with the authority under this chapter, that the state will not limit or alter the rights vested in the authority by this chapter with respect to outstanding obligations until those obligations, together with the interest on them, are fully met and discharged and those contracts are fully performed on the part of the authority. However, nothing in this section precludes such a limitation or alteration if adequate provision is made by law for the protection of the holders of those obligations of the authority or persons entering into those contracts with the authority.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-200">
+            <num>18.26.200</num>
+            <heading>Accounting and reports.</heading>
+            <content>
+              <p>Sec. 18.26.200.   Accounting and reports.
+The authority shall keep an accurate account of all of its activities and of all of its receipts and expenditures and shall biennially, no later than the 10th day of the first regular session of each legislature, make a report of them to the governor, copies of which shall also be made available to bondholders or parties holding a secured interest in the assets of the authority. The authority shall notify the legislature that the report is available. The governor may investigate the affairs of the authority, may examine the property and records of the authority, and may prescribe methods of accounting and the rendering of periodical reports in relation to projects undertaken by the authority.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-210">
+            <num>18.26.210</num>
+            <heading>State requirements.</heading>
+            <content>
+              <p>Sec. 18.26.210.   State requirements.
+A medical facility that has been monetarily supported, in any manner whatsoever, by the authority is subject to any state requirements relating to public buildings, structures, grounds, works, or improvements, any requirement of competitive bidding or other restriction imposed on the procedure for award of contracts, or the lease, sale, or other disposition of property of the authority.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-220">
+            <num>18.26.220</num>
+            <heading>Facility compliance with health and safety laws and licensing requirements.</heading>
+            <content>
+              <p>Sec. 18.26.220.   Facility compliance with health and safety laws and licensing requirements.
+A medical facility constructed, acquired, improved, financed, or otherwise under the provisions of this chapter and all actions of the authority are subject to
+AS 18.07
+,
+AS 47.32
+, and any other present or future state licensing requirements for the facilities or services provided under this chapter. A medical facility issued a certificate of need under sec. 4, ch. 275, SLA 1976, by virtue of being in existence or under construction before July 1, 1976, must fully meet the requirements of
+AS 18.07
+in order to be eligible for funding under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-230">
+            <num>18.26.230</num>
+            <heading>Authority as a public body; tax status of assets, income and bonds.</heading>
+            <subsection eId="18-26-230__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The authority, all assets at any time owned by it, the income from those assets, and all bonds issued by the authority, together with the coupons applicable to them, and the income from them, are exempt from all taxation and special assessments in this state except for gift, inheritance, and estate taxes.  However, real property and personal property owned by the authority and leased to a third party is subject to property taxation if that property would be subject to taxation if owned by the lessee of it.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-230__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 74 ch 6 SLA 1984.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-26-240">
+            <num>18.26.240</num>
+            <heading>Earnings of the authority.</heading>
+            <content>
+              <p>Sec. 18.26.240.   Earnings of the authority.
+The earnings of the authority in excess of the amount required for the retirement of indebtedness or the accomplishment of the purposes stated in this chapter are the exclusive property of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-250">
+            <num>18.26.250</num>
+            <heading>Operation of certain statutes excepted; status of authority.</heading>
+            <content>
+              <p>Sec. 18.26.250.   Operation of certain statutes excepted; status of authority.
+The authority is not a
+(1) political subdivision of the state for the purposes of
+AS 37.10.085
+, but for all other purposes the authority constitutes a political subdivision and an instrumentality of the state under this chapter;
+(2) municipality;
+(3) state agency for the purposes of
+AS 37
+.</p>
+            </content>
+          </section>
+          <section eId="sec_18-26-260">
+            <num>18.26.260</num>
+            <heading>Issuance and guarantee of Alaska Medical Facility Authority bonds.</heading>
+            <subsection eId="18-26-260__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is established as a separate account in the authority the medical facilities special bond guarantee account.  The medical facilities special bond guarantee account consists of money disbursed to it by the commissioner of revenue. The assets of the medical facilities special bond guarantee account may be pledged to guarantee bonds or bond anticipation notes of the authority issued under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-26-260__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the commissioner of revenue and the board jointly determine that a medical facility is unable to use traditional private or public financial institutions to refinance mortgage loans and that it is in the public interest to make refinancing available,</p>
+              </content>
+              <paragraph eId="18-26-260__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the authority may provide financial assistance and purchase mortgage loans made to the medical facility and may issue bonds or bond anticipation notes under this chapter to provide money for the purchase of the mortgage loans or to provide the financial assistance; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-26-260__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the commissioner of revenue may disburse to the medical facilities special bond guarantee account money appropriated to the commissioner for the account which the commissioner determines to be necessary to guarantee bonds or bond anticipation notes issued under (1) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-26-260__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Before entering into an agreement under (a) of this section to provide guarantees for bonds or bond anticipation notes issued or to be issued under (b) of this section, the commissioner of revenue shall determine that arrangements have been made to protect the interests of the state in the medical facilities special bond guarantee account.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-26-900">
+            <num>18.26.900</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.26.900.   Definitions.
+In this chapter, unless the context requires otherwise,
+(1) authority means the Alaska Medical Facility Authority created by this chapter;
+(2) board means the board of directors of the authority;
+(3) bond resolution means a resolution authorizing the issuance of, or providing terms and conditions related to, revenue bonds issued under this chapter and includes any trust agreement, trust indenture, mortgage agreement, or deed of trust providing terms and conditions for those bonds;
+(4) bonds means revenue bonds of the authority issued under this chapter, including refunding and refinancing those bonds;
+(5) cost includes, but is not necessarily limited to,
+(A) the cost incurred for developmental, planning, and feasibility studies, surveys, plans and specifications, and architectural, engineering, legal or other special services;
+(B) the cost of acquisition of land and any buildings and improvements on it;
+(C) the cost of site preparation and development, including demolition or removal of existing structures, construction, reconstruction, and equipment, including machinery, fixed equipment, and personal property;
+(D) carrying charges incurred during construction, up to and including the occupancy date;
+(E) interest on bonds issued to finance the project to a date six months after the estimated date of completion;
+(F) working capital not exceeding three percent of the estimated total cost of the project or three percent of the actual total final cost, whichever is larger;
+(G) the fees and charges, if any, imposed by the authority or by others;
+(H) necessary expenses incurred in connection with the initial occupancy of the project, personnel recruitment, and the cost of other items the authority determines to be reasonable and necessary;
+(6) medical facility includes, but is not limited to, any hospital, nursing home, intermediate care home, public health center or outpatient clinic, facility for the developmentally disabled, a rehabilitation facility, a drug abuse and alcoholism treatment facility, a mental health center, a health-care unit within a sheltered care home or home for senior citizens; medical facility does not include any institution, place, or building used or to be used primarily for sectarian instruction or study or as a place for devotional activities or religious work;
+(7) operator means any person who, by contract with the authority or by contract with a trustee who holds the position of trustee under a trust agreement with the authority, has the responsibility for the day-to-day operation and maintenance of a medical facility and over the development and implementation of long-range goals and objectives for the medical facility; it includes any person acting as an agent or representative of an operator;
+(8) property means any real, personal, or mixed property, or any interest in it, including without limitation any real estate, appurtenances, buildings, easements, equipment, furnishings, furniture, improvements, machinery, rights-of-way, and structures, or any interest in any of these items;
+(9) revenue means, with respect to any medical facility, the rent, fees, charges, interest, principal repayments, and other income or profit received or to be received, either directly or indirectly, by the authority from any source on account of the facility.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

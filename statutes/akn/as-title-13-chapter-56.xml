@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-56"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-56"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="13.56"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-56/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-56/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-56/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-56/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_13">
+        <num>13</num>
+        <heading>Decedents' Estates, Guardianships, Transfers, Trusts, and Health Care Decisions</heading>
+        <chapter eId="title_13__chp_56">
+          <num>56</num>
+          <heading>Supported Decision-Making Agreements</heading>
+          <section eId="sec_13-56-010">
+            <num>13.56.010</num>
+            <heading>Agreements authorized.</heading>
+            <subsection eId="13-56-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) and (c) of this section, an adult may enter into a supported decision-making agreement. A supported decision-making agreement allows an adult to receive decision-making assistance with the adult's affairs from one or more other adults.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-56-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The adult wanting to receive decision-making assistance may not enter into a supported decision-making agreement unless the adult</p>
+              </content>
+              <paragraph eId="13-56-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>enters into the agreement voluntarily and without coercion or undue influence; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-56-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>understands the nature and effect of the agreement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-56-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An adult may not enter into a supported decision-making agreement under this section if the agreement encroaches on the authority of a guardian or conservator of the adult, unless the guardian or conservator approves in writing the adult entering into the supported decision-making agreement.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-56-020">
+            <num>13.56.020</num>
+            <heading>Eligibility of supporters.</heading>
+            <content>
+              <p>Sec. 13.56.020.   Eligibility of supporters.
+A supporter must be an adult, but may not be
+(1) an employer or employee of the principal, unless the employer or employee is an immediate family member of the principal;
+(2) a person who provides paid support services, except decision-making assistance, directly to the principal, unless the person is an immediate family member of the principal; or
+(3) a person against whom a protective order or restraining order has been entered by a court on request of or on behalf of the principal.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-030">
+            <num>13.56.030</num>
+            <heading>Contents of agreement.</heading>
+            <subsection eId="13-56-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A supported decision-making agreement must</p>
+              </content>
+              <paragraph eId="13-56-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>name one or more adults to provide a principal with decision-making assistance; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-56-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>describe the decision-making assistance that each supporter may provide the principal.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-56-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A supported decision-making agreement must contain a notice to third parties that summarizes the rights and obligations of the supporter under this chapter and expressly identifies this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-56-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A supported decision-making agreement may</p>
+              </content>
+              <paragraph eId="13-56-030__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>name an alternate supporter to act in the place of a supporter and the circumstances under which the alternate supporter may act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-56-030__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>authorize a supporter to share information with another supporter named in the agreement, including an alternate supporter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_13-56-040">
+            <num>13.56.040</num>
+            <heading>Requirements for validity.</heading>
+            <content>
+              <p>Sec. 13.56.040.   Requirements for validity.
+A supported decision-making agreement is valid if
+(1) the agreement is dated and in writing;
+(2) the agreement satisfies the requirements of
+AS 13.56.010
+ 13.56.050;
+(3) the agreement has been signed by the principal and each named supporter, including any alternate supporter, and the
+(A) signing takes place in the presence of two witnesses who also sign the agreement; or
+(B) signatures of the principal and each named supporter, including any alternate supporter, are notarized; and
+(4) when the principal has a guardian or conservator, the principal has notified the guardian or conservator of the agreement.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-050">
+            <num>13.56.050</num>
+            <heading>Declarations by supporters.</heading>
+            <content>
+              <p>Sec. 13.56.050.   Declarations by supporters.
+A supported decision-making agreement must contain a separate declaration by each supporter that states the supporter's relationship with the principal, states the willingness of the supporter to act as a supporter for the principal, and indicates that the supporter acknowledges the duties of a supporter under this chapter. Each declaration must be signed by the supporter making the declaration.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-060">
+            <num>13.56.060</num>
+            <heading>Witnesses.</heading>
+            <subsection eId="13-56-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each witness under
+AS 13.56.040
+must be an adult who understands the means of communication used by the principal, except, if there is an individual who understands the principal's means of communication present to assist during the execution of the supported decision-making agreement, the witnesses are not required to understand the means of communication used by the principal.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-56-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A witness under
+AS 13.56.040
+may not be a supporter named in the supported decision-making agreement or an employee or agent of a supporter named in the supported decision-making agreement.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-56-070">
+            <num>13.56.070</num>
+            <heading>Term of agreement.</heading>
+            <content>
+              <p>Sec. 13.56.070.   Term of agreement.
+A supported decision-making agreement may indicate the date it becomes effective and its duration. If the supported decision-making agreement does not indicate the date it becomes effective, the supported decision-making agreement becomes effective immediately. If a supported decision-making agreement does not indicate its duration, the supported decision-making agreement remains effective until terminated under
+AS 13.56.080
+.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-080">
+            <num>13.56.080</num>
+            <heading>Termination of agreement.</heading>
+            <subsection eId="13-56-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A principal may at any time terminate all or a portion of a supported decision-making agreement. A supporter may at any time terminate all or a portion of the supporter's obligations under a supported decision-making agreement, including the declaration of support described in
+AS 13.56.050
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-56-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A termination under (a) of this section must be in writing and signed, and</p>
+              </content>
+              <paragraph eId="13-56-080__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the signing must take place in the presence of two witnesses who also sign the termination; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-56-080__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the signature must be notarized.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-56-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A principal or supporter terminating all or a portion of a supported decision-making agreement shall notify, in person, by certified mail, or by electronic means, the other party to the agreement that the agreement has been terminated.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-56-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a portion of a supported decision-making agreement is terminated under this section and the termination is consistent with this section, the remainder of the agreement remains in effect.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-56-090">
+            <num>13.56.090</num>
+            <heading>Duties of supporter.</heading>
+            <content>
+              <p>Sec. 13.56.090.   Duties of supporter.
+A supporter shall act with the care, competence, and diligence ordinarily exercised by individuals in similar circumstances.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-100">
+            <num>13.56.100</num>
+            <heading>Decision-making assistance of supporter.</heading>
+            <subsection eId="13-56-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as limited by a supported decision-making agreement, a supporter may provide to a principal the following decision-making assistance about the principal's affairs:</p>
+              </content>
+              <paragraph eId="13-56-100__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>assisting with making decisions, communicating decisions, and understanding information about, options for, the responsibilities of, and the consequences of decisions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-56-100__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>accessing, obtaining, and understanding information that is relevant to decisions necessary for the principal to manage the principal's affairs, including medical, psychological, financial, and educational information, medical treatment records, and other records;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-56-100__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>ascertaining the wishes and decisions of the principal, assisting in communicating those wishes and decisions to other persons, and advocating to ensure the implementation of the principal's wishes and decisions; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-56-100__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>accompanying the principal and participating in discussions with other persons when the principal is making decisions or attempting to obtain information for decisions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-56-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Under (a)(2) of this section, a supporter may use the principal's dated consent to assist the principal in obtaining protected health information under the Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191) or educational records under 20 U.S.C. 1232g (Family Educational Rights and Privacy Act of 1974).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-56-110">
+            <num>13.56.110</num>
+            <heading>Prohibited activities.</heading>
+            <content>
+              <p>Sec. 13.56.110.   Prohibited activities.
+A supporter may not
+(1) exert undue influence on the principal;
+(2) make decisions for or on behalf of the principal;
+(3) sign for the principal or provide an electronic signature of the principal to a third party;
+(4) obtain, without the consent of the principal, information that is not reasonably related to matters with which the supporter may assist the principal under the supported decision-making agreement; or
+(5) use, without the consent of the principal, information acquired for a purpose authorized by this chapter for a purpose other than assisting the principal to make a decision under the supported decision-making agreement.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-120">
+            <num>13.56.120</num>
+            <heading>Confidentiality, handling, and disposal of information.</heading>
+            <content>
+              <p>Sec. 13.56.120.   Confidentiality, handling, and disposal of information.
+A supporter shall keep the information collected by the supporter on behalf of the principal under this chapter confidential, may not use the information for a use that is not authorized by the principal, shall protect the information from unauthorized access, use, or disclosure, and shall dispose of the information properly when appropriate.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-130">
+            <num>13.56.130</num>
+            <heading>Recognition of decisions and requests.</heading>
+            <content>
+              <p>Sec. 13.56.130.   Recognition of decisions and requests.
+A person shall recognize a decision or request made or communicated with the decision-making assistance of a supporter under this chapter as the decision or request of the principal for the purposes of a provision of law, and the principal or supporter may enforce the decision or request in law or equity on the same basis as a decision or request of the principal.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-140">
+            <num>13.56.140</num>
+            <heading>Limitation of liability.</heading>
+            <subsection eId="13-56-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person who, in good faith, either acts in reliance on an authorization in a supported decision-making agreement or declines to honor an authorization in a supported decision-making agreement is not subject to civil or criminal liability or to discipline for unprofessional conduct for</p>
+              </content>
+              <paragraph eId="13-56-140__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>complying with an authorization in a supported decision-making agreement, if the person is complying based on an assumption that the underlying supported decision-making agreement was valid when made and has not been terminated under
+AS 13.56.080
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-56-140__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>declining to comply with an authorization in a supported decision-making agreement if the person is declining based on actual knowledge that the supported decision-making agreement is invalid or has been terminated under
+AS 13.56.080
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-56-140__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>declining to comply with an authorization related to health care in a supported decision-making agreement, if the person is declining because the action proposed to be taken under the supported decision-making agreement is contrary to the good faith medical judgment of the person or to a written policy of a health care institution that is based on reasons of conscience.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-56-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, good faith means honesty in fact and the observance of reasonable standards of fair dealing.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-56-150">
+            <num>13.56.150</num>
+            <heading>Capability and capacity.</heading>
+            <subsection eId="13-56-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In the application of this chapter, a decision that a principal is incapable of managing the principal's affairs may not be based on the manner in which the principal communicates with others.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-56-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An adult who enters into a supported decision-making agreement may act without the decision-making assistance of the supporter.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-56-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person may not use the execution of a supported decision-making agreement as evidence that the principal does not have capacity.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-56-150__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this chapter, a principal is considered to have capacity even if the capacity is achieved by the principal receiving decision-making assistance.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-56-160">
+            <num>13.56.160</num>
+            <heading>Principal's affairs.</heading>
+            <content>
+              <p>Sec. 13.56.160.   Principal's affairs.
+This chapter applies to decisions related to the following affairs of a principal:
+(1) monitoring health, obtaining, scheduling, implementing, and coordinating health and support services, understanding health care information and options, providing for care and comfort, and other health care and personal matters in which the principal makes decisions about the principal's health care;
+(2) managing income and assets and the use of income and assets for clothing, support, care, comfort, education, shelter, and payment of other liabilities of the principal;
+(3) handling personal, health care, and financial matters that arise in the course of daily living;
+(4) monitoring information about the principal's support services, including future necessary or recommended support services;
+(5) living arrangements, including where and with whom the principal wants to live; and
+(6) working arrangements, including where the principal wants to work.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-170">
+            <num>13.56.170</num>
+            <heading>Support services.</heading>
+            <content>
+              <p>Sec. 13.56.170.   Support services.
+The following are considered support services under this chapter:
+(1) house repair, home cleaning, laundry, shopping, and providing meals;
+(2) transportation, accompanying a principal, and facilitating a principal's written, oral, and electronic communication;
+(3) nurse visitations and attendant care;
+(4) provision of health care;
+(5) physical and psychosocial assessments;
+(6) financial assessments and advice on banking, taxes, loans, investments, and management of real property;
+(7) legal assessments and advice;
+(8) education and educational assessments and advice;
+(9) assistance with bathing, dressing, eating, range of motion, toileting, transferring, ambulation, and other direct assistance with the activities of daily living;
+(10) care planning;
+(11) services that assist in maintaining the independence of a principal.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-180">
+            <num>13.56.180</num>
+            <heading>Form for supported decision-making agreement.</heading>
+            <content>
+              <p>Sec. 13.56.180.   Form for supported decision-making agreement.
+A supported decision-making agreement must be in substantially the following form:
+STATUTORY FORM FOR
+SUPPORTED DECISION MAKING AGREEMENT
+(1) INTRODUCTION. I, __________________________________, want to have one or more persons I trust help me make decisions, obtain and understand the information I need to make my decisions, and tell other people about my decisions. The people who will help me are my supporters.I can name three supporters in this form. If I want to have more than three supporters, I can use a form that is substantially similar to this form to enter into a supported decision-making agreement with the additional supporters.This is a written agreement between me (principal) and each of my supporters. I can say in this agreement what kind of help each of my supporters will give me. A SUPPORTER APPOINTED UNDER THIS AGREEMENT DOES NOT MAKE DECISIONS FOR ME.My supporters may share information with each other (select one of the following):Yes [ ] No [ ](2) SUPPORTERS. These are my supporters:SUPPORTER NO. 1Name: __________________________________Address: _____________________________________Telephone number:_____________________________________Electronic mail address: _____I want this supporter to help me with (mark any of the following you want):[ ] Making choices about food and clothing[ ] Making choices about where and with whom I live[ ] Making choices about my health and health care[ ] Making choices about how I spend my time[ ] Making choices about where I work[ ] Making choices about my support services[ ] Making choices about how I spend my money and how I save my money[ ] Making choices about legal matters[ ] Making choices about (list other areas the supporter will help you with):__________I do not want this supporter to help me with:__________SUPPORTER NO. 2Name: __________________________________Address: _____________________________________Telephone number:_____________________________________Electronic mail address: _____I want this supporter to help me with (mark any of the following you want):[ ] Making choices about food and clothing[ ] Making choices about where and with whom I live[ ] Making choices about my health and health care[ ] Making choices about how I spend my time[ ] Making choices about where I work[ ] Making choices about my support services[ ] Making choices about how I spend my money and how I save my money[ ] Making choices about legal matters[ ] Making choices about (list other areas the supporter will help you with):__________I do not want this supporter to help me with:__________SUPPORTER NO. 3Name: __________________________________Address: _____________________________________Telephone number:_____Electronic mail address: _____I want this supporter to help me with (mark any of the following you want):[ ] Making choices about food and clothing[ ] Making choices about where and with whom I live[ ] Making choices about my health and health care[ ] Making choices about how I spend my time[ ] Making choices about where I work[ ] Making choices about my support services[ ] Making choices about how I spend my money and how I save my money[ ] Making choices about legal matters[ ] Making choices about (list other areas the supporter will help you with):__________I do not want this supporter to help me with:__________ALTERNATE SUPPORTER. If one of my supporters dies, becomes unable to act as my supporter, refuses to act as my supporter, or terminates the supporter's part of this agreement, I want the following person to become my supporter and help me with the areas the original supporter was helping me with:Name: __________________________________Address: _____________________________________Telephone number:_____________________________________Electronic mail address: _____(3) INFORMATION ACCESS FORMS. I am attaching to this agreement (mark yes or no for each choice below):A form that lets my supporter(s) obtain my health information under the Health Insurance Portability and Accountability ActYes [ ] No [ ]A form that lets my supporter(s) see my educational records under the Family Educational Rights and Privacy Act of 1974Yes [ ] No [ ](4) GUARDIANS AND CONSERVATORS. If I have a guardian or conservator, I must notify the guardian or conservator about this agreement. If this agreement encroaches on the authority of that guardian or conservator, the guardian or conservator must approve this agreement in writing.[ ] I have a guardian, and I have notified the guardian about this agreement.[ ] I am attaching a signed statement by my guardian approving my use of this agreement.[ ] I have a conservator, and I have notified the conservator about this agreement.[ ] I am attaching a signed statement by my conservator approving my use of this agreement.(5) NOTICE TO THIRD PARTIES. This is a summary of the rights and obligations of a supporter under
+AS 13.56
+, the chapter that authorizes making this agreement. A supporter does not make decisions for the principal, but a supporter may provide a principal with help when making decisions, obtaining information for decisions, communicating decisions, and understanding the options, responsibilities, and consequences of decisions. A supporter may accompany the principal and participate in discussions with other persons. The principal sets out in this agreement the areas in which the supporter may help the principal with decisions.A third party must recognize a decision or request of the principal that is made or communicated with the assistance of a supporter as the decision or request of the principal (
+AS 13.56.130
+). The principal or supporter may enforce the decision or request in law or equity. A principal may act without the help of the supporter.(6) DURATION AND TERMINATION OF AGREEMENT. I can end all or part of this agreement at any time by giving notice to my supporter(s). My termination must be signed and notarized or witnessed like this agreement. This agreement starts __________ and will continue until the agreement is terminated by me or my supporter(s).(7) SIGNATURE OF PRINCIPAL. I know that I do not have to sign this agreement. I am entering into this agreement voluntarily and without coercion or undue influence. I understand the nature and effect of this agreement. I know that I can change this agreement at any time.Signature: _____________________________________________________Printed name: __________________________________Telephone number:_____________________________________Electronic mail address: _____Date: __________(8) SIGNATURES OF SUPPORTERS.Signature of Supporter No. 1Signature: _____________________________________________________Printed name: __________________________________Date: __________Signature of Supporter No. 2Signature: _____________________________________________________Printed name: __________________________________Date: __________Signature of Supporter No. 3Signature: _____________________________________________________Printed name: __________________________________Date: __________Signature of Alternate SupporterSignature: _____________________________________________________Printed name: __________________________________Date: __________(9) DECLARATIONS OF SUPPORTERS.DECLARATION OF SUPPORTER NO. 1. I, __________________________________, am the principal's _____. I am willing to act as the principal's supporter. I acknowledge my duties as a supporter under
+AS 13.56
+.I understand that my job as a supporter is to help the principal make decisions, obtain and understand information for decisions, communicate decisions, and understand the options, responsibilities, and consequences of decisions. My support may include giving the principal information in a way that the principal can understand, discussing pros and cons of decisions, and helping the principal communicate the principal's decisions.I will act with care, competence, and diligence. I know that I may not make decisions for the principal. I will not exert undue influence on the principal. I will not sign for the principal or provide an electronic signature of the principal to a third party. I will keep the principal's information confidential. I will not use information I receive under this agreement for a purpose other than as authorized by the principal for decision making, unless the principal consents to another use.Signature: _____________________________________________________Printed name: __________________________________Date: __________DECLARATION OF SUPPORTER NO. 2. I, __________________________________, am the principal's _____. I am willing to act as the principal's supporter. I acknowledge my duties as a supporter under
+AS 13.56
+.I understand that my job as a supporter is to help the principal make decisions, obtain and understand information for decisions, communicate decisions, and understand the options, responsibilities, and consequences of decisions. My support may include giving the principal information in a way that the principal can understand, discussing pros and cons of decisions, and helping the principal communicate the principal's decisions.I will act with care, competence, and diligence. I know that I may not make decisions for the principal. I will not exert undue influence on the principal. I will not sign for the principal or provide an electronic signature of the principal to a third party. I will keep the principal's information confidential. I will not use information I receive under this agreement for a purpose other than as authorized by the principal for decision making, unless the principal consents to another use.Signature: _____________________________________________________Printed name: __________________________________Date: __________DECLARATION OF SUPPORTER NO. 3. I, __________________________________, am the principal's _____. I am willing to act as the principal's supporter. I acknowledge my duties as a supporter under
+A</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-190">
+            <num>13.56.190</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 13.56.190.   Definitions.
+In this chapter, unless the context indicates otherwise,
+(1) adult means an individual who is 18 years of age or older;
+(2) affairs means the affairs described in
+AS 13.56.160
+;
+(3) capacity means the ability to understand and appreciate the nature and consequences of a decision and the ability to reach and communicate an informed decision;
+(4) conservator means a person appointed a conservator under
+AS 13.26.401
+ 13.26.595 or a similar law of another state;
+(5) decision means a decision relating to the affairs of a principal;
+(6) decision-making assistance means the decision-making assistance described in
+AS 13.56.100
+;
+(7) guardian means a person appointed a guardian under
+AS 13.26.201
+ 13.26.316 or a similar law of another state;
+(8) immediate family member means a spouse, child, sibling, parent, grandparent, grandchild, stepparent, stepchild, or stepsibling;
+(9) person means an individual, health care institution, health care provider, corporation, partnership, limited liability company, association, joint venture, government, governmental subdivision, governmental agency, governmental instrumentality, public corporation, or another legal or commercial entity;
+(10) principal means an adult who enters into a supported decision-making agreement under this chapter to receive decision-making assistance;
+(11) supported decision-making agreement means an agreement authorized under
+AS 13.56.010
+;
+(12) supporter means an adult who enters into a supported decision-making agreement and provides decision-making assistance;
+(13) support services means the support services described in
+AS 13.56.170
+.</p>
+            </content>
+          </section>
+          <section eId="sec_13-56-195">
+            <num>13.56.195</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 13.56.195.   Short title.
+This chapter may be cited as the Supported Decision-Making Agreements Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

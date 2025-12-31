@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-1/chapter-15"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-1/chapter-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="1.15"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-1/chapter-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-1/chapter-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-1/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-1/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_1">
+        <num>1</num>
+        <heading>General Provisions</heading>
+        <chapter eId="title_1__chp_15">
+          <num>15</num>
+          <heading>State-Tribal Relations</heading>
+          <section eId="sec_01-15-100">
+            <num>01.15.100</num>
+            <heading>Recognition of tribes.</heading>
+            <content>
+              <p>Sec. 01.15.100.   Recognition of tribes.
+The state recognizes the special and unique relationship between the United States government and federally recognized tribes in the state. The state recognizes all tribes in the state that are federally recognized under 25 U.S.C. 5130 and 5131. Nothing in this section diminishes the United States government's trust responsibility or other obligations to federally recognized tribes in the state or creates a concurrent trust relationship between the state and federally recognized tribes. In this section, federally recognized tribe has the meaning given in
+AS 23.20.520
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

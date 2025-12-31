@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-15"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="9.15"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_9">
+        <num>9</num>
+        <heading>Code of Civil Procedure</heading>
+        <chapter eId="title_9__chp_15">
+          <num>15</num>
+          <heading>Parties</heading>
+          <section eId="sec_09-15-010">
+            <num>09.15.010</num>
+            <heading>Parents or guardian may sue for injuries or death to child.</heading>
+            <content>
+              <p>Sec. 09.15.010.   Parents or guardian may sue for injuries or death to child.
+A parent may maintain an action as plaintiff for the injury or death of a child below the age of majority.  A guardian may maintain an action as plaintiff for the injury or death of a ward.</p>
+            </content>
+          </section>
+          <section eId="sec_09-15-020">
+            <num>09.15.020</num>
+            <heading>Parents or guardian may sue for seduction of child.</heading>
+            <content>
+              <p>Sec. 09.15.020.   Parents or guardian may sue for seduction of child.
+A parent may maintain an action as plaintiff for the seduction of a child below the age of majority. The guardian may maintain an action as plaintiff for the seduction of a ward. The action may be maintained even though the child or ward is not living with or in the service of the plaintiff at the time of the seduction or afterwards and there is no loss of service.</p>
+            </content>
+          </section>
+          <section eId="sec_09-15-040">
+            <num>09.15.040</num>
+            <heading>Death or disability of a party.</heading>
+            <content>
+              <p>Sec. 09.15.040.   Death or disability of a party.
+In case of the death or disability of a party to an action, the court may at any time within two years after the death or disability, on motion, allow the action to be continued by or against that party's personal representatives or successor in interest.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -7,9 +7,22 @@ Alaska state tax and benefit rules encoded in Cosilico DSL.
 ```
 rules-us-ak/
 ├── statutes/       # Alaska Statutes (AS)
+│   └── akn/        # Akoma Ntoso XML format
 ├── regulations/    # Alaska Administrative Code (AAC)
 └── README.md
 ```
+
+## Akoma Ntoso Files
+
+The `statutes/akn/` directory contains Alaska Statutes in [Akoma Ntoso](http://docs.oasis-open.org/legaldocml/akn-core/v1.0/akn-core-v1.0.html) XML format, an OASIS standard for legal document markup.
+
+**Coverage:**
+- 304 chapter files covering Titles 1-19
+- Generated from akleg.gov on 2025-12-31
+- Includes structured sections, subsections, and cross-references
+
+**File naming:**
+- `as-title-{TT}-chapter-{CC}.xml` - e.g., `as-title-43-chapter-23.xml` for Permanent Fund Dividends
 
 ## Sources
 

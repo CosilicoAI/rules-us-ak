@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-09"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-09"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="3.09"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-09/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-09/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-09/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-09/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_3">
+        <num>3</num>
+        <heading>Agriculture, Animals, and Food</heading>
+        <chapter eId="title_3__chp_09">
+          <num>09</num>
+          <heading>Board of Agriculture and Conservation</heading>
+          <section eId="sec_03-09-010">
+            <num>03.09.010</num>
+            <heading>Board of Agriculture and Conservation established.</heading>
+            <subsection eId="03-09-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is established in the department the Board of Agriculture and Conservation composed of members as set out in
+AS 03.10.050
+(b).</p>
+              </content>
+            </subsection>
+            <subsection eId="03-09-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Members of the board serve staggered three-year terms and until a successor is appointed. A member may be removed from office by the governor if the governor first provides a written statement of the reasons for removal to the member and makes the statement available to the public. If a vacancy occurs, the governor shall immediately appoint a member for the unexpired portion of the term.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-09-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Members of the board receive no compensation, but are entitled to per diem and travel expenses authorized for boards and commissions under
+AS 39.20.180
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-09-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>While serving on the board, a board member, or an immediate family member of the board member who shares the same household and financial resources with that board member, may not obtain a lease, permit, installment contract, or loan or purchase land under
+AS 03.10
+or under
+AS 38.05
+, or have an existing lease, permit, installment contract, or loan under
+AS 03.10
+or under
+AS 38.05
+modified or restructured. Notwithstanding
+AS 39.52.150
+(a), an immediate family member who does not share the same household and financial resources with the board member may obtain a lease, permit, installment contract, or loan or purchase land under
+AS 03.10
+or under
+AS 38.05
+or have an existing lease, permit, installment contract, or loan under
+AS 03.10
+or under
+AS 38.05
+modified or restructured. Notwithstanding
+AS 39.52.150
+(a), a person may be appointed to the board even though, at the time of appointment, that person, or an immediate family member, has a lease, permit, installment contract, or loan under
+AS 03.10
+or
+AS 38.05
+. However, that person may not take or withhold any official action that affects the lease, permit, installment contract, or loan of that person or an immediate family member who shares the same household and financial resources with that person. If a person with a lease, permit, installment contract, or loan under
+AS 03.10
+or
+AS 38.05
+is appointed to the board, failure by that person to abide by all the terms and conditions of the lease, permit, installment contract, or loan may be the basis for removal under (b) of this section. For purposes of this subsection, immediate family member and official action have the meanings given in
+AS 39.52.960
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-09-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The board shall elect a member to serve as chair and a member to serve as vice-chair for one-year terms. A member may be reelected to serve additional terms as chair or vice-chair.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-09-020">
+            <num>03.09.020</num>
+            <heading>Director of agriculture and staff.</heading>
+            <subsection eId="03-09-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director of the division of the department with responsibility for agriculture shall serve as the director of the Board of Agriculture and Conservation. The director may employ staff and, as directed by the board, is responsible for the daily operations of the agricultural revolving loan fund (
+AS 03.10.040
+).</p>
+              </content>
+            </subsection>
+            <subsection eId="03-09-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director of agriculture shall be appointed to the partially exempt service by the commissioner from a list of two or more candidates submitted by the board. The commissioner may reject all candidates, in which case the board shall submit a new list. The director may be removed by the commissioner at any time, and the office shall remain vacant until a new director is appointed under this subsection.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-09-030">
+            <num>03.09.030</num>
+            <heading>Quorum.</heading>
+            <content>
+              <p>Sec. 03.09.030.   Quorum.
+Four members of the Board of Agriculture and Conservation constitute a quorum for the transaction of business or the exercise of a power or function at a meeting of the board.</p>
+            </content>
+          </section>
+          <section eId="sec_03-09-040">
+            <num>03.09.040</num>
+            <heading>Regulations.</heading>
+            <subsection eId="03-09-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Board of Agriculture and Conservation may adopt regulations under
+AS 44.62
+(Administrative Procedure Act) to carry out its duties.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-09-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board may, by regulation, classify loan and marketing information and make some classes of loan or marketing information confidential.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-09-050">
+            <num>03.09.050</num>
+            <heading>Agricultural land.</heading>
+            <content>
+              <p>Sec. 03.09.050.   Agricultural land.
+The Board of Agriculture and Conservation may recommend to the commissioner that land in the land disposal bank established under
+AS 38.04.020
+be classified as suitable for agriculture. The board may identify state land for agricultural disposal and request the commissioner to provide for the survey and disposal of the land.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

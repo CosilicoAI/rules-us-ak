@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_20">
+          <num>20</num>
+          <heading>Bars to Actions</heading>
+          <section eId="sec_12-20-020">
+            <num>12.20.020</num>
+            <heading>When acquittal or dismissal is not a bar.</heading>
+            <content>
+              <p>Sec. 12.20.020.   When acquittal or dismissal is not a bar.
+If the defendant is acquitted on the ground of a variance between the charge and the proof, or the charge is dismissed upon an objection to its form or substance, or discharged for want of prosecution, without a judgment of acquittal or in bar of another prosecution, it is not an acquittal of the crime and does not bar a subsequent prosecution for the same crime.</p>
+            </content>
+          </section>
+          <section eId="sec_12-20-030">
+            <num>12.20.030</num>
+            <heading>When acquittal is a bar.</heading>
+            <content>
+              <p>Sec. 12.20.030.   When acquittal is a bar.
+When the defendant is acquitted on the merits, the defendant is acquitted of the same crime, notwithstanding any defect in form or substance in the charge, information, or complaint on which the trial was had.</p>
+            </content>
+          </section>
+          <section eId="sec_12-20-040">
+            <num>12.20.040</num>
+            <heading>When conviction or acquittal is a bar to other offenses.</heading>
+            <content>
+              <p>Sec. 12.20.040.   When conviction or acquittal is a bar to other offenses.
+When the defendant is convicted or acquitted of a crime consisting of different degrees, the conviction or acquittal is a bar to another prosecution for the crime charged in the former or for any inferior degree of that crime, or for an attempt to commit that crime, or for an offense necessarily included in the crime of which the defendant might have been convicted under the information, indictment, or complaint.</p>
+            </content>
+          </section>
+          <section eId="sec_12-20-050">
+            <num>12.20.050</num>
+            <heading>Dismissal as bar.</heading>
+            <subsection eId="12-20-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>It is a bar to another prosecution for the same crime if the crime is a misdemeanor, but it is not a bar if the crime charged is a felony when a person is</p>
+              </content>
+              <paragraph eId="12-20-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>held to answer to the grand jury and the court dismisses the charge before the case is presented to the grand jury upon the motion of the prosecuting attorney;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-20-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>held to answer to the grand jury and the court dismisses the charge because the indictment is not found against the person at the next session of the grand jury; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-20-050__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>indicted for a crime and the indictment is dismissed because the trial is not held within a reasonable period of time, there is not good cause shown for the delay, and the delay was not upon the application of the defendant or with the defendant's consent.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-20-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless the court directs a judgment of acquittal to be entered, it is not a bar to another action for the same crime if the court orders an indictment to be discharged because the prosecuting attorney is not prepared to go to trial when the indictment is called for trial and does not show sufficient cause for postponing the trial.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-20-060">
+            <num>12.20.060</num>
+            <heading>Discharge of codefendant as bar.</heading>
+            <content>
+              <p>Sec. 12.20.060.   Discharge of codefendant as bar.
+It is an acquittal of the defendant discharged and a bar to another prosecution for the same crime when two or more persons are charged in the same indictment, and the court dismisses the indictment against a defendant
+(1) before that defendant has begun to present a defense and on the application of the prosecuting attorney so that the defendant may be a witness for the state; or
+(2) before the evidence is closed and on the application of another defendant on trial so that the discharged defendant may be a witness for a codefendant, and when, in the opinion of the court, there is not sufficient evidence to require the discharged defendant to present a defense.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

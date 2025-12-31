@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-6/chapter-35"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-6/chapter-35"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="6.35"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-6/chapter-35/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-6/chapter-35/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-6/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-6/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_6">
+        <num>6</num>
+        <heading>Banks and Financial Institutions</heading>
+        <chapter eId="title_6__chp_35">
+          <num>35</num>
+          <heading>Uniform Common Trust Fund Act</heading>
+          <section eId="sec_06-35-010">
+            <num>06.35.010</num>
+            <heading>Common trust funds.</heading>
+            <subsection eId="06-35-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A bank or trust company that is qualified to act as a fiduciary in this state, or in another state if affiliated with a bank or trust company that is qualified to act as a fiduciary in this state, may establish common trust funds for the purpose of furnishing investments to</p>
+              </content>
+              <paragraph eId="06-35-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>itself as fiduciary;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="06-35-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>itself and others as cofiduciaries; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="06-35-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>its affiliated bank or trust company as fiduciary.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="06-35-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A bank or trust company may invest, as fiduciary or cofiduciary, in the common trust funds it establishes under (a) of this section, the funds that the bank or trust company lawfully holds for investment, if the investment is not prohibited by the instrument, court judgment, court decree, or court order creating the fiduciary relationship, and if, in the case of cofiduciaries, the bank or trust company procures the consent of its cofiduciary or cofiduciaries to the investment.</p>
+              </content>
+            </subsection>
+            <subsection eId="06-35-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (a) and (b) of this section, a bank or trust company that is qualified to act as a fiduciary in the state where the bank or trust company is organized or otherwise formed and that is not a member of the Federal Reserve System shall in the establishment of or investment in a common trust fund under (a)  (b) of this section comply with the law regulating financial institutions in the state where the bank or trust company is organized or otherwise formed.</p>
+              </content>
+            </subsection>
+            <subsection eId="06-35-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Department of Commerce, Community, and Economic Development may adopt regulations under
+AS 44.62
+(Administrative Procedure Act) to implement this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="06-35-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="06-35-010__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>affiliated means two or more banks or trust companies in which
+(A) 25 percent or more of the voting shares, excluding shares owned by the United States or by a corporation or other entity wholly owned by the United States, is directly or indirectly owned or controlled by a holding company; or
+(B) the election of a majority of the directors is controlled in any manner by a holding company;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="06-35-010__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>bank means an organization that is authorized by the United States Comptroller of the Currency, or by the director of banking or the equivalent position in the state of organization, to accept deposits and to make commercial loans, and whose deposits are insured by the Federal Deposit Insurance Corporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="06-35-010__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>trust company means a financial institution, corporation, or other legal entity, authorized to exercise general trust powers, but does not include a natural person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_06-35-020">
+            <num>06.35.020</num>
+            <heading>Accounting to court.</heading>
+            <content>
+              <p>Sec. 06.35.020.   Accounting to court.
+Unless ordered by a court of competent jurisdiction, a bank or trust company operating a common trust fund is not required to render a court accounting with regard to the fund. A bank or trust company may, by application to the superior court, secure approval of an accounting it makes with regard to a common trust fund on the conditions the court establishes.</p>
+            </content>
+          </section>
+          <section eId="sec_06-35-030">
+            <num>06.35.030</num>
+            <heading>Procedure for accounting to court.</heading>
+            <content>
+              <p>Sec. 06.35.030.   Procedure for accounting to court.
+When an accounting of a common trust fund is presented to the superior court under
+AS 06.35.020
+for approval, the court shall assign a time and place for hearing and order notice of the hearing by
+(1) publication once a week for three weeks, the first publication to be not less than 20 days before the date of the hearing, of a notice in a newspaper having a circulation in the judicial district in which the bank or trust company or branch thereof operating the common trust fund is located;
+(2) mailing not less than 14 days before the date of the hearing a copy of the notice to all beneficiaries of the trust participating in the common trust fund whose names are known to the bank or trust company from the records kept by it in the regular course of business in the administration of the participating trusts, directed to them at the addresses shown by the records; and
+(3) such further notice as the court may order.</p>
+            </content>
+          </section>
+          <section eId="sec_06-35-040">
+            <num>06.35.040</num>
+            <heading>Uniformity of interpretation.</heading>
+            <content>
+              <p>Sec. 06.35.040.   Uniformity of interpretation.
+This chapter shall be so interpreted and construed as to effectuate its general purpose to make uniform the law of those states which enact it.</p>
+            </content>
+          </section>
+          <section eId="sec_06-35-050">
+            <num>06.35.050</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 06.35.050.   Short title.
+This chapter may be cited as the Uniform Common Trust Fund Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

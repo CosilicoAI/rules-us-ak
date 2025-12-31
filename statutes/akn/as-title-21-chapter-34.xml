@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-34"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-34"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.34"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-34/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-34/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-34/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-34/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_34">
+          <num>34</num>
+          <heading>Surplus Lines Insurance</heading>
+          <section eId="sec_21-34-010">
+            <num>21.34.010</num>
+            <heading>Purpose.</heading>
+            <content>
+              <p>Sec. 21.34.010.   Purpose.
+The legislature declares that insurance transactions with nonadmitted insurers are so affected with a public interest as to require regulation, taxation, supervision, and control of the transactions and matters relating to nonadmitted insurance.  The purpose of this chapter includes
+(1) protection of persons seeking insurance in this state;
+(2) permission for surplus lines insurance to be placed with reputable and financially sound nonadmitted insurers and to be exported from this state under this chapter;
+(3) establishment of a system of regulation that will
+(A) permit orderly access to surplus lines insurance in this state; and
+(B) encourage admitted insurers to provide new and innovative types of insurance and make them available to consumers in this state; and
+(4) protection of the revenues of this state.</p>
+            </content>
+          </section>
+          <section eId="sec_21-34-020">
+            <num>21.34.020</num>
+            <heading>Placement of surplus lines insurance.</heading>
+            <subsection eId="21-34-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Insurance other than reinsurance, wet marine and transportation insurance, insurance independently procured, life insurance, health insurance except as provided in
+AS 21.34.035
+, and annuity contracts may be procured through a surplus lines broker licensed under
+AS 21.27
+from nonadmitted insurers if</p>
+              </content>
+              <paragraph eId="21-34-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the insurer is an eligible surplus lines insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the full amount, kind, or class of insurance cannot be obtained from insurers who are admitted to do business in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the producing broker has conducted and documented a diligent search among insurers who are admitted to transact business in this state and are actually writing the particular kind or class of insurance required by the client in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the director authorizes an exception to (2) of this section by regulation or by written authorization for an individual placement upon written request by the broker; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>all other requirements of this chapter are met.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a policyholder meets the standards of an exempt commercial purchaser under this title and regulations adopted by the director, insurance may be procured from a surplus lines broker without complying with (a)(2), (3), and (4) of this section if</p>
+              </content>
+              <paragraph eId="21-34-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the broker procuring or placing the surplus lines insurance has disclosed to the exempt commercial purchaser that the insurance may or may not be available from the admitted market that may provide greater protection with more regulatory oversight; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the exempt commercial purchaser has subsequently requested in writing that the broker procure or place the insurance from a nonadmitted insurer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-34-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>amount means limit, sublimit, retention, and broadening or restrictive endorsement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>class means rating class;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-020__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>kind means one or more kinds of insurance as defined in
+AS 21.12
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-025">
+            <num>21.34.025</num>
+            <heading>Subscription policies or joint underwriting in combination with admitted insurers.</heading>
+            <content>
+              <p>Sec. 21.34.025.   Subscription policies or joint underwriting in combination with admitted insurers.
+Subscription policies or joint underwriting of insurance other than reinsurance, wet marine and transportation insurance, insurance independently procured, life insurance, health insurance, and annuity contracts by a combination of authorized insurers and nonadmitted insurers is a surplus lines insurance placement in its entirety, is subject to this chapter, is not subject to
+AS 21.39
+,
+AS 21.42.120
+, or 21.42.130, and losses or claims are not covered by
+AS 21.80
+(Alaska Insurance Guaranty Association Act).</p>
+            </content>
+          </section>
+          <section eId="sec_21-34-030">
+            <num>21.34.030</num>
+            <heading>Workers' compensation insurance.</heading>
+            <subsection eId="21-34-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Workers' compensation insurance may be placed in and written by a nonadmitted insurer if</p>
+              </content>
+              <paragraph eId="21-34-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the director considers it in the best interest of the public and issues an order to that effect;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the insurance is written in accordance with this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>all conditions established for writing workers' compensation insurance in a nonadmitted market receive compliance.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The rates and rating plans for workers' compensation insurance are subject to
+AS 21.39
+.  The surplus lines broker is responsible for making the filings required under
+AS 21.39
+and for maintaining the records required in that chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Insurance placed or written in a nonadmitted insurer and the activities of the surplus lines broker relating to that transaction are subject to the applicable provision of this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The minimum capital and surplus required is two times that required in
+AS 21.34.040
+(c)(1).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-035">
+            <num>21.34.035</num>
+            <heading>Health care insurance.</heading>
+            <subsection eId="21-34-035__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a multiple employer welfare arrangement, health care insurance may be placed in and written by a nonadmitted insurer if</p>
+              </content>
+              <paragraph eId="21-34-035__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the director finds it is in the best interest of the public and issues an order to that effect; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-035__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the insurance is in compliance with this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-035__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The rates and rating methods for health care insurance placed and written under this section are subject to
+AS 21.51.405
+and
+AS 21.54.015
+. The surplus lines broker shall make the filings required under
+AS 21.51.405
+and
+AS 21.54.015
+and maintain the records and accounts as required under
+AS 21.87.230
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-035__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Health care insurance may not be procured under this chapter</p>
+              </content>
+              <paragraph eId="21-34-035__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for the purpose of obtaining a lower premium rate than acceptable by an authorized insurer; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-035__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for obtaining a competitive advantage.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-035__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Insurance placed in or written by a nonadmitted insurer and the activities of the surplus lines broker relating to that transaction are subject to this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-035__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section, health care insurance has the meaning given in
+AS 21.12.050
+(b).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-040">
+            <num>21.34.040</num>
+            <heading>Eligible surplus lines insurers required.</heading>
+            <subsection eId="21-34-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Coverage may be placed in a nonadmitted insurer by a surplus lines broker only if</p>
+              </content>
+              <paragraph eId="21-34-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>at the time of placement, the nonadmitted insurer meets all the requirements of this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the surplus lines broker is licensed under
+AS 21.27
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The nonadmitted insurer must establish satisfactory evidence of good repute and financial integrity to be eligible.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A nonadmitted insurer may be eligible to provide coverage in this state if it qualifies under one of the following:</p>
+              </content>
+              <paragraph eId="21-34-040__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a foreign but nonalien stock insurer may qualify under this subsection if it has the minimum unimpaired basic capital and additional surplus equal to that required in its domiciliary jurisdiction, or maintains $15,000,000, whichever is greater;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-040__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a foreign but nonalien mutual insurer, a reciprocal insurer, or a mutual protection and indemnity association may qualify under this subsection if it has the minimum unimpaired basic surplus and additional surplus equal to that required in its domiciliary jurisdiction or maintains $15,000,000, whichever is greater;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-040__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an alien insurer other than an alien mutual protection and indemnity association may qualify under this subsection if it meets the minimum requirements in (1) or (2) of this subsection and maintains in the United States an irrevocable trust fund in an amount not less than $2,500,000 in a solvent federally insured bank acceptable to the director, as security to the full amount, for the protection of all its policyholders and creditors of each member of the mutual insurer, reciprocal insurer, or mutual protection and indemnity association in the United States; the trust fund must consist of instruments of substantially the same character and quality as those that are eligible investments for the capital and statutory reserves of admitted insurers authorized to write like kinds of insurance in this state or of irrevocable, clean, and unconditional letters of credit; the trust fund must have an expiration date that at no time is less than five years;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-040__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a Lloyd's syndicate or an insurer belonging to a similar group, including incorporated and individual unincorporated insurers, may qualify if it maintains a trust fund jointly and severally with the other members of the group in an amount not less than $50,000,000, as security to the full amount, for the protection of all policyholders and creditors of each member of the group in the United States; the incorporated members may not be engaged in any business other than underwriting as a member of the group and shall be subject to the same level of solvency regulation and control by the group's domiciliary regulator as are the unincorporated members; the trust fund must consist of instruments of substantially the same character and quality as those that are eligible investments for the capital and statutory reserves of admitted insurers authorized to write like kinds of insurance in this state or of irrevocable, clean, and unconditional letters of credit; the trust fund must have an expiration date that at no time is less than five years;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-040__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>each syndicate or insurer belonging to an insurance exchange created by the laws of individual states may qualify if the insurance exchange maintains capital and surplus, or the substantial equivalent, of not less than $50,000,000 in the aggregate; for insurance exchanges that maintain funds for the protection of all insurance exchange policyholders, each individual syndicate shall maintain minimum capital and surplus, or the substantial equivalent, of not less than $3,000,000; in the event the insurance exchange does not maintain funds for the protection of all its policyholders, each individual syndicate shall meet the minimum requirements of (1) or (2) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-040__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>an alien mutual protection and indemnity association may qualify under this subsection if it has the minimum unimpaired basic capital and additional surplus equal to that required in its domiciliary jurisdiction or $10,000,000, whichever is greater, and maintains in the United States an irrevocable trust fund in an amount not less than $1,000,000 in a federally insured bank acceptable to the director, as security to the full amount, for the protection of all its policyholders and creditors or each member of the mutual protection and indemnity association in the United States; the trust fund must consist of instruments of substantially the same character and quality as those that are eligible investments for the capital and statutory reserves of admitted insurers authorized to write wet marine and transportation insurance in this state or of irrevocable, clean, and unconditional letters of credit; the trust fund must have an expiration date that at no time is less than five years;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-040__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>an insurer not domiciled in the United States or its territories qualifies under this subsection if it is listed on the Quarterly Listing of Alien Insurers maintained by the National Association of Insurance Commissioners International Insurers Department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A nonadmitted insurer may be eligible to provide coverage in this state if it files with the director or the director's designee a copy of its current annual financial statement that has been certified by the insurer. The financial statement must be filed with and approved by the regulatory authority in the domicile of the nonadmitted insurer, or certified by an accounting or auditing firm licensed in the jurisdiction of the insurer's domicile. A foreign insurer shall provide the approved or certified financial statement not more than six months after the close of the reporting period. An alien insurer shall provide the approved or certified financial statement not more than nine months after the close of the reporting period. In the case of an insurance exchange, the statement may be an aggregate combined statement of all underwriting syndicates operating during the period reported upon.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The capital and surplus requirements of this section shall be calculated based upon generally accepted accounting practices used in the United States of America.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-040__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If an insurer has less than the minimum capital and surplus required in (c) of this section, the insurer may satisfy the requirements of this section upon an affirmative finding of acceptability by the director. The director's finding must be based on factors including quality of management, capital and surplus of any parent company, company underwriting profit and investment income trends, market availability, and company record and reputation within the industry. The director may not make an affirmative finding of acceptability when the nonadmitted insurer's capital and surplus is less than $4,500,000.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-040__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The director may participate in interstate agreements formed for the purpose of developing additional and alternative nationwide uniform eligibility requirements that are applicable to nonadmitted insurers domiciled in another state or territory of the United States.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-050">
+            <num>21.34.050</num>
+            <heading>Listing eligible surplus lines insurers.</heading>
+            <subsection eId="21-34-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to meeting the requirements of
+AS 21.34.040
+, a nonadmitted insurer shall be considered an eligible surplus lines insurer if it appears on the most recent list of eligible surplus lines insurers published by the director. The list is to be published at least semiannually by</p>
+              </content>
+              <paragraph eId="21-34-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>posting the list on the division's Internet website; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>providing a copy of the list to a person on request to the division.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this section requires the director to place or maintain the name of a nonadmitted insurer on the list of eligible surplus lines insurers.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A nonadmitted insurer shall be removed from the list of eligible surplus lines insurers if the nonadmitted insurer fails to meet the requirement under
+AS 21.34.040
+(d). However, the director may reinstate a nonadmitted insurer on the list of eligible surplus lines insurers if the nonadmitted insurer has remedied the reason for removal from the list.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-060">
+            <num>21.34.060</num>
+            <heading>Other nonadmitted insurers.</heading>
+            <content>
+              <p>Sec. 21.34.060.   Other nonadmitted insurers.
+Only that portion of a risk eligible for export for which the full amount of coverage is not procurable from eligible surplus lines insurers may be placed with another nonadmitted insurer that does not appear on the list of eligible surplus lines insurers published under
+AS 21.34.050
+but nonetheless meets the requirements of
+AS 21.34.040
+and a regulation adopted under this chapter. The surplus lines broker seeking to provide coverage through an unlisted nonadmitted insurer shall within 30 days after placing the coverage notify the director in writing on a form prescribed by the director the amount and percentage of each risk to be placed and naming each nonadmitted insurer with which placements are intended. Within 30 days after placing the coverage, the surplus lines broker shall also send written notice to the insured and the producing broker that the insurance, or a portion of it, has been placed with the unlisted nonadmitted insurer.</p>
+            </content>
+          </section>
+          <section eId="sec_21-34-070">
+            <num>21.34.070</num>
+            <heading>Declaration of ineligibility.</heading>
+            <subsection eId="21-34-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If after a review of a nonadmitted insurer and consideration of factors including quality of management, capital and surplus of a parent company, underwriting profit, investment income trends, trade practices, reserving practices, company record, and reputation within the industry, the director finds the insurer to be unacceptable, the director may declare the nonadmitted insurer to be ineligible.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may issue an order declaring a nonadmitted insurer ineligible if at any time the director has reason to believe that the nonadmitted insurer</p>
+              </content>
+              <paragraph eId="21-34-070__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is in unsound financial condition;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-070__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is no longer eligible under
+AS 21.34.040
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-070__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>has wilfully violated the laws of this state or another state; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-070__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>does not reasonably investigate and make prompt payment of just losses and claims in this state or another state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director shall promptly mail notice of all declarations under (b) of this section to each licensed surplus lines broker.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-080">
+            <num>21.34.080</num>
+            <heading>Transaction report; evidence of insurance.</heading>
+            <subsection eId="21-34-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A surplus lines broker shall execute and file with the report required by
+AS 21.34.170
+a written report, which shall be kept confidential, regarding each surplus lines insurance transaction occurring in the preceding period. The report must include</p>
+              </content>
+              <paragraph eId="21-34-080__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and address of the insured;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-080__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the identity of each insurer including the National Association of Insurance Commissioners company number and the percentage of coverage provided by each;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-080__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a complete description of the subject and location of the risk;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-080__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the amount of gross premium written for the insurance; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-080__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>other information required by the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Instead of the report required in (a) of this section, the director may order that evidence of insurance be filed with the surplus lines association and that the surplus lines association provide periodic reports regarding insurance transactions to the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 53 ch 96 SLA 2004.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A transaction, as used in this section, is any placement of coverage as well as changes in coverage that result in an increase or decrease of premiums, taxes, or fees.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-090">
+            <num>21.34.090</num>
+            <heading>Surplus lines association.</heading>
+            <subsection eId="21-34-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A surplus lines association of surplus lines brokers may be formed to</p>
+              </content>
+              <paragraph eId="21-34-090__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>facilitate and encourage compliance by its members with the laws of this state and the regulations relative to surplus lines insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-090__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>attend National Association of Insurance Commissioners meetings and participate in task forces and work groups;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-090__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>communicate with organizations of admitted insurers with respect to the proper use of the surplus lines market;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-090__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>receive and disseminate to its members information relative to surplus lines coverages; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-090__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>contract with the director to receive reports and affidavits under
+AS 21.34.080
+, verify that coverage has been placed with eligible surplus lines insurers, verify the amount of taxes under
+AS 21.34.180
+and fees under
+AS 21.34.190
+for surplus lines insurance for each surplus lines broker, and to prepare periodic reports as required by the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The surplus lines association shall file with the director</p>
+              </content>
+              <paragraph eId="21-34-090__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a copy of its constitution, its articles of agreement of association, or its certificate of incorporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-090__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a copy of its bylaws and regulations governing its activities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-090__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a current list of its members;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-090__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the name of a resident of this state upon whom notices or orders of the director or processes issued at the director's instruction may be served;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-090__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>an agreement that the director may examine the surplus lines association in accordance with this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-090__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a schedule of its membership fees and assessments.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A surplus lines association is subject to the same penalties under this title as a surplus lines broker.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-090__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director may, by order, require that all surplus lines brokers, as a condition of continued licensure under this chapter, join the surplus lines association.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-090__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The surplus lines association shall maintain its place of business in this state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-100">
+            <num>21.34.100</num>
+            <heading>Evidence of insurance.</heading>
+            <subsection eId="21-34-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When surplus lines insurance is placed, the surplus lines broker shall promptly deliver to the named insured or the producing broker the policy or, if the policy is not then available, a cover note, binder, or other evidence of insurance. The cover note, binder, or other evidence of insurance for the named insured shall be executed by the surplus lines broker and must contain a summary of all material facts that would regularly be included in the policy, the description and location of the subject of insurance, a general description of the coverages of the insurance, the premium and rate charged and taxes to be collected from the insured, the name and address of the insured, the name of each surplus lines insurer and the percentage of the entire risk assumed by each, the name of the surplus lines broker, and the license number of the surplus lines broker.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A surplus lines broker may not issue or deliver evidence of insurance or purport to insure or represent that insurance will be or has been written by an eligible surplus lines insurer, or a nonadmitted insurer under
+AS 21.34.060
+, unless the surplus lines broker has authority from the insurer to cause the risk to be insured or has received information from the insurer in the regular course of business that the insurance has been granted.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If, after delivery of evidence of insurance, there is a change in the identity of the insurers or the percentage of the risk assumed by an insurer or another material change in coverage from that stated in the surplus lines broker's original evidence of insurance or in other material concerning the evidenced insurance, the surplus lines broker shall promptly issue and deliver to the insured or the producing broker an appropriate substitute for or endorsement of the original document, accurately showing the current status of the coverage and the insurer's responsibility.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A surplus lines broker who fails to comply with this section is subject to the penalties in
+AS 21.34.230
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-100__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Every evidence of insurance negotiated, placed, or procured under this chapter issued by a surplus lines broker must bear the name of the surplus lines broker, which may not be covered, concealed, or obscured by the producing broker, and the following legend in at least 10-point type: This is evidence of insurance procured and developed under the Alaska Surplus Lines Law,
+AS 21.34
+. It is not covered by the Alaska Insurance Guaranty Association Act,
+AS 21.80
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-100__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A producing broker or other licensee may issue to a person, other than the named insured, a certificate as evidence of insurance negotiated, placed, or procured under this chapter. The certificate must bear the name of the surplus lines broker, which may not be covered, concealed, or obscured by the producing broker, and the following legend in at least 10-point type: This is evidence of insurance procured and developed under the Alaska Surplus Lines Law,
+AS 21.34
+. It is not covered by the Alaska Insurance Guaranty Association Act,
+AS 21.80
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-110">
+            <num>21.34.110</num>
+            <heading>Surplus lines broker's duty to notify insured.</heading>
+            <subsection eId="21-34-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contract of insurance placed by a surplus lines broker under this chapter is not binding upon the insured and a premium charged is not due and payable until</p>
+              </content>
+              <paragraph eId="21-34-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the surplus lines broker has notified the insured in writing, a copy of which shall be maintained by the surplus lines broker with the records of the contract, available for examination, that the insurer with whom the surplus lines broker places the insurance does not hold a certificate of authority issued by this state and is not subject to its supervision, and, in the event of the insolvency of the surplus lines insurer, losses will not be covered under
+AS 21.80
+(Alaska Insurance Guaranty Association Act); or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the producing broker has notified the insured and the surplus lines broker in writing, a copy of which shall be maintained by the producing broker and the surplus lines broker with the records of the contract, available for examination, that the insurer with whom the surplus lines is placed does not hold a certificate of authority issued by this state and is not subject to this state's supervision, and, in the event of the insolvency of the surplus lines insurer, losses will not be covered under
+AS 21.80
+(Alaska Insurance Guaranty Association Act).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this section may be construed as nullifying an agreement by an insurer to provide insurance.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-120">
+            <num>21.34.120</num>
+            <heading>Validity of surplus lines contracts.</heading>
+            <content>
+              <p>Sec. 21.34.120.   Validity of surplus lines contracts.
+Insurance contracts procured under this chapter shall be valid and enforceable as to all parties.</p>
+            </content>
+          </section>
+          <section eId="sec_21-34-130">
+            <num>21.34.130</num>
+            <heading>Effect of payment to surplus lines broker.</heading>
+            <content>
+              <p>Sec. 21.34.130.   Effect of payment to surplus lines broker.
+A payment of premium to a surplus lines broker acting for a person other than itself in negotiating, continuing, or reviewing a policy of insurance under this chapter, is considered to be payment to the insurer, notwithstanding conditions or stipulations in the policy or contract to the contrary.</p>
+            </content>
+          </section>
+          <section eId="sec_21-34-150">
+            <num>21.34.150</num>
+            <heading>Surplus lines brokers may accept business from other brokers.</heading>
+            <content>
+              <p>Sec. 21.34.150.   Surplus lines brokers may accept business from other brokers.
+A surplus lines broker licensed by this state may originate surplus lines insurance or accept surplus lines insurance from another surplus lines broker licensed by this state or a producing broker licensed by this state as to the kind and class of insurance involved. The surplus lines broker may compensate the producing broker or surplus lines broker for the insurance.</p>
+            </content>
+          </section>
+          <section eId="sec_21-34-170">
+            <num>21.34.170</num>
+            <heading>Quarterly reports, summary of exported business.</heading>
+            <subsection eId="21-34-170__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A surplus lines broker shall file with the director, on forms prescribed by the director, a report of all surplus lines insurance, by type of insurance as required to be reported in the annual statement that must be filed with the director by admitted insurers. The report must include all surplus lines insurance transactions during the preceding period showing the aggregate gross premiums written, the aggregate return premiums, the amount of aggregate tax remitted to this state, and the amount of aggregate tax remitted to each other state for which an allocation is made under
+AS 21.34.180
+. The forms shall be filed quarterly on March 1, June 1, September 1, and December 1 of each year.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-170__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Instead of the report required under (a) of this section, the director may order that evidence of insurance be filed with surplus lines association and that the association file periodic reports regarding insurance transactions to the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-170__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The surplus lines broker shall pay a penalty for late filing of the report, according to the rate established in regulations adopted by the director.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-180">
+            <num>21.34.180</num>
+            <heading>Surplus lines tax.</heading>
+            <subsection eId="21-34-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to collecting the full amount of gross premiums written by an insurer for surplus lines insurance, the surplus lines broker shall collect and pay to the director a tax of 2.7 percent on the net premium, which is the total gross premiums written, less any return premiums, for the insurance. Where the home state of the insured is this state and the insurance covers properties, risks, or exposures located or to be performed both in and out of this state, the tax payable shall be computed based on an amount equal to 2.7 percent on that portion of the net premiums allocated under (f) of this section to this state, plus an amount equal to the portion of the premiums allocated under (f) of this section to other states or territories based on the tax rates and fees applicable to other properties, risks, or exposures located or to be performed outside of this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The surplus lines broker may not absorb the tax or any part of it and may not rebate, for any reason, any part of the tax.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If, under
+AS 21.09.210
+, an admitted insurer is required to collect and pay premium tax on a portion of a subscription policy, the surplus lines broker is not required to collect any amount that would constitute double taxation of that portion of the insurance.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-180__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The director may participate in an agreement with another state formed for the purpose of collecting and disbursing to a remitting state any funds collected under (a) of this section applicable to other properties, risks, or exposures located or to be performed outside of this state. To the extent that another state where a portion of the properties, risks, or exposures resides has failed to enter into an agreement with this state, the director shall retain all of the net premium tax collected by this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-180__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>At the time of filing the quarterly report as set out in
+AS 21.34.170
+, each surplus lines broker shall pay the premium tax due for transactions occurring during the period covered by the report. The tax must be paid by electronic or other means as specified by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-180__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In determining the amount of premiums taxable in this state, all premiums written, procured, or received in this state shall be considered written on properties, risks, or exposures located or to be performed in this state except premiums that are properly allocated or apportioned and reported as taxable premiums of a remitting state. Allocation of the amount of premiums taxable for surplus lines insurance covering properties, risks, or exposures only partially located or to be performed in this state shall be determined by reference to an allocation schedule established by regulation adopted by the director subject to the following:</p>
+              </content>
+              <paragraph eId="21-34-180__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if a policy covers more than one classification, the following apply:
+(A) for any portion of the coverage identified by a classification on the allocation schedule, the tax shall be computed by using the allocation schedule for the corresponding portion of the premium;
+(B) for any portion of the coverage not identified by a classification on the allocation schedule, the tax shall be computed by using an alternative equitable method of allocation for the property or risk;
+(C) for any portion of the coverage where the premium is indivisible, the tax shall be computed by using the method of allocation that pertains to the classification describing the predominant coverage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-180__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the information provided by the surplus lines broker is insufficient to substantiate the method of allocation used by the surplus lines broker, or if the director determines that the broker's method is incorrect, the director shall determine the equitable and appropriate amount of tax due to this state as follows:
+(A) by use of the allocation schedule if the risk is appropriately identified in the schedule;
+(B) if the allocation schedule does not identify a classification appropriate to the coverage, the director may give significant weight to documented evidence of the underwriting bases and other rating criteria used by the insurer; the director may also consider other available information to the extent sufficient and relevant, including the percentage of the insured's physical assets in this state, the percentage of the insured's sales in this state, the percentage of income or resources derived from this state, and the amount of premium tax paid to another jurisdiction for the policy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-180__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If the amount of tax due under (a) of this section is less than $50 in any jurisdiction, the tax must be paid in the jurisdiction in which the reports and summary of exported business are filed.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-180__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The director shall, at least annually, furnish to the commissioner of a remitting state a copy of all filings reporting an allocation of taxes required by this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-180__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>This section does not apply to insurance of risks of state government or its political subdivisions, to an agency of state government or its political subdivisions, or to insurance of aircraft primarily engaged in interstate or foreign commerce.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-180__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>A surplus lines broker shall pay to the division a late payment fee of $50 a month plus five percent of the tax due each calendar month or part of a month during which the broker fails to pay the full amount of the tax or a portion of the tax and interest at the rate of one percent of the tax due each calendar month or part of a month for the period the broker fails to pay the tax. The late payment fee, not including interest, may not exceed $250 plus 25 percent of the tax due. The tax payment shall be made in the form required by the director, or a penalty shall be added to the tax equal to 25 percent of the tax due, not to exceed $2,000, with a minimum penalty of $100. In addition to any other penalty provided by law, if the provisions of this section are wilfully violated, a civil penalty may be assessed of not more than $10,000. The director may suspend or revoke the license of a broker that fails to pay its taxes, a penalty, or a late payment fee required under this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-190">
+            <num>21.34.190</num>
+            <heading>Filing fee.</heading>
+            <subsection eId="21-34-190__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The fee for filing the statement under
+AS 21.34.180</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-190__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>is an amount equal to one percent on gross premium charged less any return premiums as reported on the statement. The surplus lines broker shall pay the fee at the time of filing of the statement.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-190__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the filing fee is not paid when due, an additional late payment fee of $250 plus two percent of the fee due per month, or part of a month, shall become due and payable by the surplus lines broker.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-200">
+            <num>21.34.200</num>
+            <heading>Collection of taxes and fees.</heading>
+            <subsection eId="21-34-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the tax collectible under
+AS 21.34.180
+or the fee collectible under
+AS 21.34.190
+by a surplus lines broker is not paid within the time prescribed, the tax, fee, or both, and late payment fees, along with appropriate penalties, may be collected by distraint or by an action in court, against the surplus lines licensee and the surety on the bond filed under
+AS 21.27.790
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 223 ch 67 SLA 1992.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to penalties provided in this chapter, failure to pay tax within the time prescribed is subject to penalties provided in
+AS 21.36.910
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-220">
+            <num>21.34.220</num>
+            <heading>Actions against surplus lines insurer; service of process.</heading>
+            <subsection eId="21-34-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A surplus lines insurer may be sued upon a cause of action arising in this state under a surplus lines insurance contract made by it or evidence of insurance issued or delivered by the surplus lines broker under the procedure provided in
+AS 21.33
+.  A policy issued by the surplus lines broker shall contain a provision stating the substance of this section and designating the person to whom the director shall mail process.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each surplus lines insurer assuming a surplus lines risk is considered to have subjected itself to this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-34-220__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The remedies provided in this section are in addition to other methods provided by law for service of process upon insurers.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-230">
+            <num>21.34.230</num>
+            <heading>Penalties.</heading>
+            <subsection eId="21-34-230__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to any other penalty provided by law, a person that the director determines under
+AS 21.06.170
+ 21.06.240 has violated the provisions of this chapter is subject to</p>
+              </content>
+              <paragraph eId="21-34-230__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a civil penalty equal to the compensation promised, paid or to be paid, directly or indirectly, to a licensee in regard to each violation; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-230__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>either a civil penalty of not more than $10,000 for each violation or a civil penalty of not more than $25,000 for each violation if the director determines that the person wilfully violated the provisions of this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-34-230__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A violation of this chapter is cause for denial, nonrenewal, suspension, or revocation of a license.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-34-240">
+            <num>21.34.240</num>
+            <heading>Severability.</heading>
+            <content>
+              <p>Sec. 21.34.240.   Severability.
+If any provision of this chapter, or the application of a provision of this chapter to any person or circumstance, is held invalid, the remainder of the chapter and the application of that provision to persons or circumstances, other than those as to which it is held invalid, shall not be affected.</p>
+            </content>
+          </section>
+          <section eId="sec_21-34-250">
+            <num>21.34.250</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 21.34.250.   Regulations.
+The director may adopt regulations to implement, define, and enforce the provisions of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_21-34-900">
+            <num>21.34.900</num>
+            <heading>Definitions.</heading>
+            <subsection eId="21-34-900__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the state in which an insured maintains its principal place of business or, in the case of an individual, the individual's principal residence; or
+(ii) if 100 percent of the insured risk is located out of the state referred to in (i) of this subparagraph, the state to which the greatest percentage of the insured's taxable premium for that insurance contract is allocated;
+(B) if two or more insureds from an affiliated group are named insureds on a single policy, home state under (A) of this paragraph is based on the member of the affiliated group that has the largest percentage of premium attributed to it under the insurance contract;
+(C) for purposes of (A) of this paragraph, the principal place of business of an insured is the state where the insured maintains its headquarters and where the insured's high-level officers direct control and coordinate the business activities of the insured;</p>
+              </content>
+              <paragraph eId="21-34-900__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>kind of insurance means one of the kinds of insurance defined in
+AS 21.12.040
+ 21.12.110;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-900__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>producing broker means the insurance producer or surplus lines broker licensed under
+AS 21.27
+dealing directly with the client seeking insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-900__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>reciprocal state means a state that the director has determined has enacted provisions substantially similar to those contained in
+AS 21.34.170
+and 21.34.180;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-900__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>remitting state means a state that has entered into an agreement with this state for remitting to this state any premium tax collected by the other state on premiums allocated to properties, risks, or exposures located in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-900__subsec_i__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>surplus, as used in the financial requirements of
+AS 21.34.040
+, means money over and above liabilities and capital of the insurer for the protection of policyholders;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-900__subsec_i__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>transaction of insurance means the solicitation, negotiation, procurement, effectuation, or renewal of insurance; forwarding of applications; delivery of policies or contracts; inspection of risks; fixing of rates; investigation or adjustment of claims or losses; collection or forwarding of premiums; or transaction of matters subsequent to effectuation of the contract of insurance and arising out of it;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-34-900__subsec_i__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>wet marine and transportation insurance means one or more of the following:
+(A) insurance upon, of interest in, or relating to vessels, crafts, hulls, except vessels of 50 displacement tons or less;
+(B) insurance of marine builders risks, marine war risks, and contracts of marine protection and indemnity insurance;
+(C) insurance of freight and disbursements pertaining to a subject of insurance coming within this paragraph; or
+(D) insurance of personal property and interests in personal property, in course of exportation from or importation into a country or in the course of coastal or inland water transportation, including transportation by land, water, or air from point of origin to final destination in connection with any and all risks or perils of navigation, transit, or transportation, and while being repaired for and while awaiting shipment, and during any delays, transshipment, or reshipment incident to them.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-07"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-07"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.07"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-07/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-07/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-07/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_07">
+          <num>07</num>
+          <heading>Patient Protections Under Health Care Insurance Policies</heading>
+          <section eId="sec_21-07-005">
+            <num>21.07.005</num>
+            <heading>Regulations relating to health care insurance policies.</heading>
+            <subsection eId="21-07-005__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director shall adopt regulations to provide standards and criteria for</p>
+              </content>
+              <paragraph eId="21-07-005__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the structure and operation of utilization review and benefit determination processes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-005__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the establishment and maintenance of procedures by health care insurers to ensure that a covered individual has the opportunity for appropriate resolution of grievances; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-005__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an independent review of an adverse determination or final adverse determination.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-07-005__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The regulations under (a) of this section must be at least as restrictive as the Utilization Review and Benefit Determination Model Act adopted by the National Association of Insurance Commissioners on June 22, 2003, the Health Carrier Grievance Procedure Model Act adopted by the National Association of Insurance Commissioners on June 22, 2003, and the Uniform Health Carrier External Review Model Act adopted by the National Association of Insurance Commissioners on June 2, 2008.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-07-005__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director may adopt regulations for the registration and regulation of independent review organizations, including the establishment of fees in an amount the director determines to be sufficient to reimburse the state for actual expenses incurred in providing a service.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-07-010">
+            <num>21.07.010</num>
+            <heading>Patient and health care provider protection.</heading>
+            <subsection eId="21-07-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contract between a participating health care provider and a health care insurer must contain a provision that</p>
+              </content>
+              <paragraph eId="21-07-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provides for a reasonable mechanism to identify all medical care services to be provided by the health care insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>clearly states or references an attachment that states the health care provider's rate of compensation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>clearly states all ways in which the contract between the health care provider and health care insurer may be terminated; a provision that provides for discretionary termination by either party must apply equitably to both parties;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>provides that, in the event of a dispute between the parties to the contract, a fair, prompt, and mutual dispute resolution process must be used; at a minimum, the process must provide
+(A) for an initial meeting at which all parties are present or represented by individuals with authority regarding the matters in dispute; the meeting shall be held within 10 working days after the health care insurer receives written notice of the dispute or gives written notice to the provider, unless the parties otherwise agree in writing to a different schedule;
+(B) that if, within 30 days following the initial meeting, the parties have not resolved the dispute, the dispute shall be submitted to mediation directed by a mediator who is mutually agreeable to the parties and who is not regularly under contract to or employed by either of the parties; each party shall bear its proportionate share of the cost of mediation, including the mediator fees;
+(C) that if, after a period of 60 days following commencement of mediation, the parties are unable to resolve the dispute, either party may seek other relief allowed by law;
+(D) that the parties shall agree to negotiate in good faith in the initial meeting and in mediation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>states that a health care provider may not be penalized or the health care provider's contract terminated by the health care insurer because the health care provider acts as an advocate for a covered person in seeking appropriate, medically necessary medical care services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-010__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>protects the ability of a health care provider to communicate openly with a covered person about all appropriate diagnostic testing and treatment options; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-010__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>defines words in a clear and concise manner.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-07-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A contract between a participating health care provider and a health care insurer that offers a health care insurance policy may not contain a provision that</p>
+              </content>
+              <paragraph eId="21-07-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has as its predominant purpose the creation of direct financial incentives to the health care provider for withholding covered medical care services that are medically necessary; nothing in this paragraph shall be construed to prohibit a contract between a participating health care provider and a health care insurer from containing incentives for efficient management of the utilization and cost of covered medical care services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>requires the provider to contract for all products that are currently offered or that may be offered in the future by the health care insurer; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>requires the health care provider to be compensated for medical care services performed at the same rate as the health care provider has contracted with another health care insurer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-07-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A health care insurer may not enter into a contract with a health care provider that requires the provider to indemnify or hold harmless the health care insurer for the acts or conduct of the health care insurer. An indemnification or hold harmless clause entered into in violation of this subsection is void.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-07-020">
+            <num>21.07.020</num>
+            <heading>Required contract provisions for health care insurance policy.</heading>
+            <content>
+              <p>Sec. 21.07.020.   Required contract provisions for health care insurance policy.
+A health care insurance policy must contain a provision
+(1) that preauthorization for a covered medical procedure on the basis of medical necessity may not be retroactively denied unless the preauthorization is based on materially incomplete or inaccurate information provided by or on behalf of the provider;
+(2) for emergency services that meet the requirements under 42 U.S.C. 300gg-19a(b) if any coverage is provided for treatment of an emergency medical condition;
+(3) that covered medical care services be reasonably available in the community in which a covered person resides or that, if referrals are required by the policy, adequate referrals outside the community be available if the medical care service is not available in the community;
+(4) that discloses covered benefits, optional supplemental benefits, and benefits relating to and restrictions on nonparticipating provider services;
+(5) describing a mechanism for assignment of benefits for health care providers and payment of benefits;
+(6) describing the availability of prescription medications or a formulary guide, and whether medications not listed are excluded; if a formulary guide is made available, the guide must be updated annually; and
+(7) describing available translation or interpreter services, including audiotape or braille information.</p>
+            </content>
+          </section>
+          <section eId="sec_21-07-030">
+            <num>21.07.030</num>
+            <heading>Choice of health care provider.</heading>
+            <subsection eId="21-07-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a health care insurer offers a health care insurance policy that provides for coverage of medical care services only if the services are furnished through a network of health care providers that have entered into a contract with the health care insurer, the health care insurer shall also offer a non-network option to covered persons at initial enrollment, as provided under (c) of this section. The non-network option may require that a covered person pay a higher deductible, copayment, or premium for the plan if the higher deductible, copayment, or premium results from increased costs caused by the use of a non-network provider. This subsection does not apply to a covered person who is offered non-network coverage through another health care insurance policy or through another health care insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-07-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount of any additional premium charged by the health care insurer for the additional cost of the creation and maintenance of the option described in (a) of this section and the amount of any additional cost sharing imposed under this option shall be paid by the covered person unless it is paid by an employer or other person through agreement with the health care insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-07-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A covered person may make a change to the medical care coverage option provided under this section only during a time period determined by the health care insurer. The time period described in this subsection must occur at least annually and last for at least 15 working days.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-07-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a health care insurer that offers a health care insurance policy requires or provides for a designation by a covered person of a participating primary care provider, the health care insurer shall permit the covered person to designate any participating primary care provider, including a pediatrician, that is available to accept the covered person.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-07-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Except as provided in this subsection and (h) of this section, a health care insurer that offers a health care insurance policy shall permit a covered person to receive medically necessary or appropriate specialty care, subject to appropriate referral procedures, from any qualified participating health care provider that is available to accept the individual for medical care. This subsection does not apply to specialty care if the health care insurer clearly informs covered persons of the limitations on choice of participating health care providers with respect to medical care. In this subsection,</p>
+              </content>
+              <paragraph eId="21-07-030__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>appropriate referral procedures means procedures for referring patients to other health care providers as set out in the applicable member policy and as described under (a) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-030__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>specialty care means care provided by a health care provider with training and experience in treating a particular injury, illness, or condition.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-07-030__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If a contract between a health care provider and a health care insurer is terminated, a covered person may continue to be treated by that health care provider as provided in this subsection. If a covered person is pregnant or being actively treated by a provider on the date of the termination of the contract between that provider and the health care insurer, the covered person may continue to receive medical care services from that provider as provided in this subsection, and the contract between the health care insurer and the provider shall remain in force with respect to the continuing treatment. The covered person shall be treated for the purposes of benefit determination or claim payment as if the provider were still under contract with the health care insurer. However, treatment is required to continue only while the health care insurance policy remains in effect and</p>
+              </content>
+              <paragraph eId="21-07-030__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for the period that is the longest of the following:
+(A) the end of the current policy or plan year;
+(B) up to 90 days after the termination date, if the event triggering the right to continuing treatment is part of an ongoing course of treatment;
+(C) through completion of postpartum care, if the covered person is pregnant on the date of termination; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-030__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>until the end of the medically necessary treatment for the condition, disease, illness, or injury if the person has a terminal condition, disease, illness, or injury; in this paragraph, terminal means a life expectancy of less than one year.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-07-030__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The requirements of this section do not apply to medical care services covered by Medicaid.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-07-030__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A health care insurer that offers a health care insurance policy that provides coverage for obstetrical and gynecological care and that requires designation by a covered person of a participating primary care provider may not require authorization or referral by any person, including a primary care provider, for a female patient to receive obstetrical and gynecological care from a participating health care professional who specializes in obstetrics or gynecology. A participating health care professional who specializes in obstetrics or gynecology shall agree to adhere to the health care insurer's policies and procedures, including procedures regarding referrals, obtaining prior authorization, and providing services under a treatment plan, if any, approved by the health care insurer. A health care insurer shall treat authorizations by a health care professional who specializes in obstetrical or gynecological care as the authorization of the primary care provider. This subsection may not be construed to</p>
+              </content>
+              <paragraph eId="21-07-030__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>waive any exclusions of coverage under the terms and conditions of the health care insurance policy with respect to coverage of obstetrical and gynecological care; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-07-030__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>preclude a health care insurer from requiring that the health care provider who specializes in obstetrical or gynecological care to notify the primary care provider or the health care insurer of treatment decisions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-07-080">
+            <num>21.07.080</num>
+            <heading>Religious nonmedical providers.</heading>
+            <content>
+              <p>Sec. 21.07.080.   Religious nonmedical providers.
+This chapter may not be construed to
+(1) restrict or limit the right of a health care insurer to include services provided by a religious nonmedical provider as medical care services covered by the health care insurance policy;
+(2) require a health care insurer, when determining coverage for services provided by a religious nonmedical provider, to
+(A) apply medically based eligibility standards;
+(B) use health care providers to determine access by a covered person;
+(C) use health care providers in making a decision on an internal or external appeal; or
+(D) require a covered person to be examined by a health care provider as a condition of coverage; or
+(3) require a health care insurance policy to exclude coverage for services provided by a religious nonmedical provider because the religious nonmedical provider is not providing medical or other data required from a health care provider if the medical or other data is inconsistent with the religious nonmedical treatment or nursing care being provided.</p>
+            </content>
+          </section>
+          <section eId="sec_21-07-090">
+            <num>21.07.090</num>
+            <heading>Construction.</heading>
+            <content>
+              <p>Sec. 21.07.090.   Construction.
+This chapter may not be construed to supersede or change the provisions of 29 U.S.C. 1001  1191 (Employee Retirement Income Security Act of 1974) as those provisions apply to self-insured employers.</p>
+            </content>
+          </section>
+          <section eId="sec_21-07-250">
+            <num>21.07.250</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 21.07.250.   Definitions.
+In this chapter,
+(1) [Repealed, §  65 ch 41 SLA 2016.]
+(2) [Repealed, §  65 ch 41 SLA 2016.]
+(3) emergency medical condition means a medical condition manifesting itself by acute symptoms of sufficient severity, including severe pain, that a prudent person who possesses an average knowledge of health and medicine could reasonably expect that the absence of immediate medical attention would result in serious impairment of bodily functions, serious dysfunction of a bodily organ or part, or would place the person's health or, with respect to a pregnant woman, the health of the woman or her unborn child, in serious jeopardy.
+(4) emergency services means medical care services or items furnished or required to evaluate and treat an emergency medical condition;
+(5) health care insurer has the meaning given in
+AS 21.54.500
+;
+(6) health care provider means a person licensed in this state or another state of the United States to provide medical care services;
+(7) health insurance has the meaning given in
+AS 21.12.050
+(a);
+(8) [Repealed, §  65 ch 41 SLA 2016.]
+(9) medical care has the meaning given in
+AS 21.97.900
+;
+(10) participating health care provider means a health care provider who has entered into an agreement with a health care insurer to provide services or supplies to a patient covered by a health care insurance policy;
+(11) primary care provider means a health care provider who provides general medical care services and does not specialize in treating a single injury, illness, or condition or who provides obstetrical, gynecological, or pediatric medical care services;
+(12) provider means a health care provider;
+(13) religious nonmedical provider means a person who provides only religious nonmedical treatment or nursing care for an illness or injury;
+(14) utilization review means a set of techniques designed to monitor the use of, or evaluate the clinical necessity, appropriateness, efficacy, or efficiency of, health care services, procedures, or settings; techniques may include ambulatory review, prospective review, second opinion certification, concurrent review, case management, discharge planning, or retrospective review.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-28"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-28"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.28"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-28/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-28/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-28/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-28/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_28">
+          <num>28</num>
+          <heading>State Assistance for Community Health Aide Programs</heading>
+          <section eId="sec_18-28-010">
+            <num>18.28.010</num>
+            <heading>Community health aide grants.</heading>
+            <subsection eId="18-28-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A qualified regional health organization is entitled to a grant of $30,000 each fiscal year for the training and supervision of primary community health aides if the organization or another local or regional health organization employed at least three primary community health aides on July 1, 1984, to serve the communities proposed to be served under the grant.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-28-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>During each fiscal year, a qualified regional health organization or local health organization is entitled to a grant of $8,000 multiplied by the number of primary community health aides who were employed by that organization or another local or regional health organization during the previous fiscal year who each week during the previous fiscal year averaged at least 20 hours of service in the communities proposed to be served by the grant, but not to exceed the number of primary community health aides who were employed by a local or regional health organization on July 1, 1984, to serve the communities proposed to be served under the grant.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-28-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A grant under (b) of this section may be used only for</p>
+              </content>
+              <paragraph eId="18-28-010__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>training of primary community health aides, including tuition and travel to training programs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-28-010__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>supervision of primary community health aides, including travel for supervisors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-28-010__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>alternate community health aides.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-28-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The department shall compute and pay a grant under this section within the limits of appropriations made for the purpose.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-28-020">
+            <num>18.28.020</num>
+            <heading>Qualifications.</heading>
+            <content>
+              <p>Sec. 18.28.020.   Qualifications.
+To qualify for a community health aide grant a regional or local health organization must
+(1) have received money from the federal government for a community health aide program during the fiscal year for which the grant is sought;
+(2) provide the services of community health aides on a nondiscriminatory basis for the benefit of the public;
+(3) apply for the grant in accordance with application requirements of the department or negotiate a contract with the department in lieu of a grant if the regional or local health organization provides other contract services for the state; and
+(4) supply information requested by the department.</p>
+            </content>
+          </section>
+          <section eId="sec_18-28-040">
+            <num>18.28.040</num>
+            <heading>Liability limitation.</heading>
+            <content>
+              <p>Sec. 18.28.040.   Liability limitation.
+The state is not liable for any injury that may result from the use of money awarded by the state as a community health aide grant or paid by the state under a contract under this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-28-050">
+            <num>18.28.050</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 18.28.050.   Regulations.
+The department may adopt regulations necessary to carry out the provisions of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-28-100">
+            <num>18.28.100</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.28.100.   Definitions.
+In this chapter,
+(1) alternate community health aide means a person who assists the primary community health aide when necessary and acts in the absence of the primary community health aide;
+(2) community health aide includes a primary community health aide and an alternate health aide;
+(3) department means the Department of Health;
+(4) local health organization means a nonprofit corporation or other entity that provides health services in a rural area that is less than 4,000 square miles;
+(5) primary community health aide means a person who has completed the first of three levels of community health aide training offered by the Norton Sound Health Corporation at the Nome Hospital, the Kuskokwim Community College in Bethel, the Alaska Area Native Health Service in Anchorage, or another accredited training center;
+(6) regional health organization means a nonprofit corporation or home rule borough that provides health aide services under a contract with the Alaska Native Health Service in a rural area that is at least 4,000 square miles.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

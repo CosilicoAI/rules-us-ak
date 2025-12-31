@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-18"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-18"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="14.18"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-18/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-18/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-18/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-18/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_14">
+        <num>14</num>
+        <heading>Education, Libraries, and Museums</heading>
+        <chapter eId="title_14__chp_18">
+          <num>18</num>
+          <heading>Prohibition Against Discrimination Based on Sex or Race in Public Education</heading>
+          <section eId="sec_14-18-010">
+            <num>14.18.010</num>
+            <heading>Discrimination based on sex and race prohibited.</heading>
+            <content>
+              <p>Sec. 14.18.010.   Discrimination based on sex and race prohibited.
+Recognizing the benefit to the state and nation of equal educational opportunities for all students, and equal employment opportunity for public education employees, discrimination on the basis of sex against an employee or a student in public education in Alaska and discrimination against an employee on the basis of race violate art. I, § 3 of the Alaska Constitution and are prohibited.  A person in the state may not on the basis of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving federal or state financial assistance.</p>
+            </content>
+          </section>
+          <section eId="sec_14-18-020">
+            <num>14.18.020</num>
+            <heading>Discrimination in employment prohibited.</heading>
+            <content>
+              <p>Sec. 14.18.020.   Discrimination in employment prohibited.
+The board, the Board of Regents, and each school board in the state shall
+(1) allow no difference in conditions of employment, including hiring practices, credential requirements, leaves of absence, hours of employment, pay, employee benefits, and assignment of instructional and noninstructional duties based on sex or race; and
+(2) provide the same opportunities for advancement to males and females.</p>
+            </content>
+          </section>
+          <section eId="sec_14-18-030">
+            <num>14.18.030</num>
+            <heading>Discrimination in counseling and guidance services prohibited.</heading>
+            <content>
+              <p>Sec. 14.18.030.   Discrimination in counseling and guidance services prohibited.
+Guidance and counseling services in public education are available to students equally and shall stress access to career and vocational opportunities to students without regard to sex.</p>
+            </content>
+          </section>
+          <section eId="sec_14-18-040">
+            <num>14.18.040</num>
+            <heading>Discrimination in recreational and athletic activities prohibited.</heading>
+            <subsection eId="14-18-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Equal opportunity for both sexes in athletics and in recreation shall be provided in a manner that is commensurate with the general interests of the members of each sex. Separate school-sponsored teams may be provided for each sex. A school that sponsors separate teams in a particular sport shall provide equipment and supplies, services, and opportunities, including use of courts, gymnasiums, and pools, to both teams with no disparities based on sex.  A school that provides showers, toilets, or training-room facilities for athletic or recreational purposes shall provide comparable facilities for both sexes, either through the use of separate facilities or by scheduling separate use by each sex.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-18-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A school shall divide available evening time for athletic events fairly between events for each sex.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-18-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The board and the Board of Regents of the University of Alaska shall adopt procedures to determine on an annual basis student interest in male and female participation in specific sports, athletics, and recreation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-18-050">
+            <num>14.18.050</num>
+            <heading>Discrimination in course offerings prohibited.</heading>
+            <subsection eId="14-18-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) this section, all public education classes are available to all students without regard to sex, and curriculum requirements may not be differentiated on the basis of sex.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-18-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Separation of the sexes is permitted during sex education programs and during participation in physical education activities if the purpose of the activity involves bodily contact.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-18-060">
+            <num>14.18.060</num>
+            <heading>Discrimination in textbooks and instructional materials prohibited.</heading>
+            <subsection eId="14-18-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>School boards shall have textbooks and instructional materials reviewed for evidence of sex bias in accordance with
+AS 14.08.111</p>
+              </content>
+              <paragraph eId="14-18-060__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>and
+AS 14.14.090
+(7). School boards shall use educationally sound, unbiased texts and other instructional materials as they become available.  Nothing in this section prohibits use of literary works.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-18-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board shall establish by regulation standards for nondiscriminatory textbooks and educational materials. Each school board shall provide training for all its certificated personnel on a schedule adopted by the governing body of a school district in the identification and recognition of sex-biased materials.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-18-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Board of Regents shall establish and implement a policy under
+AS 14.40.170</p>
+              </content>
+            </subsection>
+            <subsection eId="14-18-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>for the guidance of officers and employees of the university on the selection of nondiscriminatory textbooks and educational materials.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-18-070">
+            <num>14.18.070</num>
+            <heading>Affirmative action.</heading>
+            <content>
+              <p>Sec. 14.18.070.   Affirmative action.
+The board shall establish procedures for affirmative action programs covering both equal employment and equal educational opportunity to be implemented by all school districts and regional educational attendance areas determined by the board not to be in compliance with this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_14-18-080">
+            <num>14.18.080</num>
+            <heading>Implementation.</heading>
+            <subsection eId="14-18-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board shall adopt regulations under
+AS 44.62
+(Administrative Procedure Act) to implement this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-18-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Board of Regents shall adopt rules under
+AS 14.40.170
+(b)(1) to implement this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-18-090">
+            <num>14.18.090</num>
+            <heading>Enforcement by board of education and early development.</heading>
+            <subsection eId="14-18-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board shall enforce compliance by school districts and regional educational attendance areas with the provisions of this chapter and the regulations and procedures adopted under it by appropriate order made in accordance with
+AS 44.62
+. After a hearing conducted by the office of administrative hearings (
+AS 44.64.010
+) and a finding by the board that a district or a regional educational attendance area is not in compliance with this chapter and is not actively working to come into compliance, the board shall institute appropriate proceedings to abate the practices found by the board to be a violation of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-18-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>After a finding by the board that a district or regional educational attendance area has not complied with
+AS 14.18.020
+ 14.18.070, and that the measures taken under (a) of this section have been ineffective, the board shall withhold state funds in accordance with
+AS 14.07.070
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-18-100">
+            <num>14.18.100</num>
+            <heading>Remedies.</heading>
+            <subsection eId="14-18-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person aggrieved by a violation of this chapter or of a regulation or procedure adopted under this chapter as to primary or secondary education may file a complaint with the board and has an independent right of action in superior court for civil damages and for such equitable relief as the court may determine.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-18-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person aggrieved by a violation of this chapter or of a regulation or procedure adopted under this chapter as to postsecondary education has an independent right of action in superior court for civil damages and for such equitable relief as the court may determine.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-18-110">
+            <num>14.18.110</num>
+            <heading>Effect of chapter.</heading>
+            <content>
+              <p>Sec. 14.18.110.   Effect of chapter.
+This chapter is supplementary to and does not supersede existing laws relating to unlawful discrimination based on sex or race.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

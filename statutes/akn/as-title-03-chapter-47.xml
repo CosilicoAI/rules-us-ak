@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-47"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-47"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="3.47"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-47/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-47/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-3/chapter-47/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-3/chapter-47/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_3">
+        <num>3</num>
+        <heading>Agriculture, Animals, and Food</heading>
+        <chapter eId="title_3__chp_47">
+          <num>47</num>
+          <heading>Bees and Beekeeping Equipment</heading>
+          <section eId="sec_03-47-010">
+            <num>03.47.010</num>
+            <heading>Importation.</heading>
+            <content>
+              <p>Sec. 03.47.010.   Importation.
+The importation into the state of bees on bee combs and used beekeeping equipment is prohibited. Section comb honey for human consumption may be imported into the state.</p>
+            </content>
+          </section>
+          <section eId="sec_03-47-020">
+            <num>03.47.020</num>
+            <heading>Importation of bees.</heading>
+            <content>
+              <p>Sec. 03.47.020.   Importation of bees.
+All bees imported into the state shall be accompanied by a health certificate that states that the bees come from an apiary apparently free of bee diseases and that is signed by an apiary inspector determined to be qualified by the division.</p>
+            </content>
+          </section>
+          <section eId="sec_03-47-030">
+            <num>03.47.030</num>
+            <heading>Duties of the division.</heading>
+            <subsection eId="03-47-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The division shall investigate reported cases of diseased bees and cases of diseased bees discovered by the division.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-47-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The division shall take action necessary to prevent the spread of bee diseases.  Bees or used beekeeping equipment found to contain the causative organisms of American foulbrood (Bacillus larvae) or European foulbrood (Streptococcus pluton) shall be immediately quarantined and treated within five days by</p>
+              </content>
+              <paragraph eId="03-47-030__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>chamber fumigation using ethylene oxide or other gases approved by the division;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-47-030__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>sterilization by boiling in lyewater for at least 15 minutes; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="03-47-030__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>destruction of bees, bee combs, and frames by burning followed by burying 18 inches deep.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="03-47-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (b) of this section, hive boxes, top and bottom boards found to contain the causative organisms of American foulbrood (Bacillus larvae) or European foulbrood (Streptococcus pluton) may be salvaged by scorching inside surfaces and edges using a flame to produce a light brown charring of the wood unless the boxes, top and bottom boards are in poor condition due to weathering, rotting, or ant tunneling.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-47-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A quarantine imposed under this section may not be removed until infected bees and used beekeeping equipment are destroyed or the division determines through testing that the used beekeeping equipment is free of the disease.</p>
+              </content>
+            </subsection>
+            <subsection eId="03-47-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The division shall adopt regulations necessary to carry out the purposes of this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_03-47-035">
+            <num>03.47.035</num>
+            <heading>Penalty.</heading>
+            <content>
+              <p>Sec. 03.47.035.   Penalty.
+A person who violates this chapter or a regulation adopted under this chapter is guilty of a class B misdemeanor.</p>
+            </content>
+          </section>
+          <section eId="sec_03-47-040">
+            <num>03.47.040</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 03.47.040.   Definitions.
+In this chapter,
+(1) bees means honey-producing insects of the genus Apis and includes the adults, eggs, larvae, pupae, and other immature stages of the insects;
+(2) division means the division of the department with responsibility for agriculture;
+(3) used beekeeping equipment means equipment that has been used to feed or house bees, including hive boxes, frames, pollen traps, queen excluders, inner covers, supers, tops, bottom boards, slatted racks, and bee combs, or other wooden or plastic beehive parts that have been in contact with honeybees.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

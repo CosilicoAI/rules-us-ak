@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-14"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-14"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.14"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-14/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-14/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-14/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-14/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_14">
+          <num>14</num>
+          <heading>Risk Based Capital for Insurers</heading>
+          <section eId="sec_21-14-010">
+            <num>21.14.010</num>
+            <heading>Risk based capital reports.</heading>
+            <subsection eId="21-14-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A domestic insurer shall, on or before March 1, submit to the director a report of its risk based capital covering the previous calendar year. The report must be in a form and contain the information required by risk based capital instructions. A domestic insurer required to submit a report under this subsection shall file the report with</p>
+              </content>
+              <paragraph eId="21-14-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the National Association of Insurance Commissioners; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the insurance regulatory agency in each state in which the insurer is authorized to transact business if the insurance regulatory agency has requested the report in writing from the insurer; a report requested under this paragraph must be delivered
+(A) not later than 15 days after the receipt of a request if the report has already been filed with the director; or
+(B) at the time the report is filed with the director, if the report has not yet been filed with the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-14-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An insurer's risk based capital shall be determined under the formula contained in the risk based capital instructions.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a domestic insurer files a report that the director determines to be inaccurate, the director may adjust the report to correct the inaccuracy. The director shall notify the insurer of an adjustment and the reason for it.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 34 ch 52 SLA 2015.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>[Repealed, § 34 ch 52 SLA 2015.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-14-015">
+            <num>21.14.015</num>
+            <heading>Other powers and duties not limited.</heading>
+            <content>
+              <p>Sec. 21.14.015.   Other powers and duties not limited.
+The requirements of this chapter supplement other provisions of this title and do not preclude or limit other powers or duties of the director.</p>
+            </content>
+          </section>
+          <section eId="sec_21-14-020">
+            <num>21.14.020</num>
+            <heading>Company action level event.</heading>
+            <content>
+              <p>Sec. 21.14.020.   Company action level event.
+If a company action level event occurs, the affected insurer shall submit to the director a plan under
+AS 21.14.060
+.</p>
+            </content>
+          </section>
+          <section eId="sec_21-14-030">
+            <num>21.14.030</num>
+            <heading>Regulatory action level event.</heading>
+            <subsection eId="21-14-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a regulatory action level event occurs, the director shall</p>
+              </content>
+              <paragraph eId="21-14-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>require the affected insurer to submit a plan or a revised plan under
+AS 21.14.060
+; if the level event is caused by the insurer's failure to adhere to a previously filed plan or revised plan that has been accepted by the director, the director may exempt the insurer from this requirement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>perform whatever examination, analysis, or review of the assets, liabilities, and operations of the insurer that the director determines necessary; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>issue a corrective order specifying the action that the insurer is required to take to eliminate the level event.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-14-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may retain an actuary, investment expert, or other consultant as may be necessary to review the insurer's risk based capital plan or revised risk based capital plan, to examine or analyze the assets, liabilities, and operations of the insurer, or to formulate a corrective order with respect to the insurer. The affected insurer or affiliated person shall pay the fees, reasonable costs, and expenses of a person retained by the director under this subsection as ordered by the director.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-14-040">
+            <num>21.14.040</num>
+            <heading>Authorized control level event.</heading>
+            <subsection eId="21-14-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>against the insurer; or</p>
+              </content>
+              <paragraph eId="21-14-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to place the insurer under regulatory control under
+AS 21.78
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-14-050">
+            <num>21.14.050</num>
+            <heading>Mandatory control level event.</heading>
+            <subsection eId="21-14-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a mandatory control level event occurs for a domestic insurer, the director shall take the action necessary to place the insurer under regulatory control under
+AS 21.78
+or, if a fraternal benefit society, under
+AS 21.84
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, the director may delay taking action under
+AS 21.78
+or, if a fraternal benefit society, under
+AS 21.84
+for up to 90 days after the mandatory control level event occurs, if the director finds there is a reasonable expectation that the mandatory control level event may be eliminated within the 90-day period.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, the director may allow a property and casualty insurer that is running off its business by writing no new business and by only renewing ongoing business to the extent required by law or by contract, but continuing to collect premiums and pay claims as they come due on existing business to continue the runoff under the director's supervision without placing the insurer under regulatory control under
+AS 21.78
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-14-060">
+            <num>21.14.060</num>
+            <heading>Risk based capital plan.</heading>
+            <subsection eId="21-14-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a plan is required under this chapter or by order of the director in response to an event described under
+AS 21.14.020
+ 21.14.050, the plan must be a financial plan that includes</p>
+              </content>
+              <paragraph eId="21-14-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>identification of the conditions that contribute to the level event;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a proposal for corrective action that the insurer intends to take that would be expected to eliminate the level event;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-060__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>projections of the insurer's financial results for the current year and for at least the next four years or, if a health organization, for at least the next two years, with and without the proposed corrective action, including projections of statutory operating income, net income, and capital and surplus; the projections for new and renewal business must include separate projections for each major line of business and separately identify each significant income, expense, and benefit component;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-060__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>identification of the key assumptions affecting the insurer's projections and the sensitivity of the projections to the assumptions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-060__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>identification of the quality of, and problems associated with, the insurer's business, including the insurer's assets, anticipated business growth, associated surplus strain, extraordinary exposure to risk, mix of business, and use of reinsurance in each case; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-060__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>other information required by the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-14-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An insurer shall submit a plan within 45 days</p>
+              </content>
+              <paragraph eId="21-14-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of an event described in
+AS 21.14.020
+ 21.14.050; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>after the insurer receives notification from the director that the director has rejected the insurer's challenge, if the insurer has challenged an adjusted report under
+AS 21.14.080
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-14-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Not later than 60 days after an insurer has submitted a plan to the director, the director shall notify the insurer if the plan is satisfactory or unsatisfactory. If the director determines the plan to be satisfactory, the insurer shall implement the plan upon receiving notice from the director. If the director determines the plan is unsatisfactory, notification to the insurer must state the reasons for the determination and may propose revisions that, in the judgment of the director, will render the plan satisfactory. Upon receiving notice from the director that a plan is unsatisfactory, the insurer shall prepare a revised plan that may incorporate revisions proposed by the director and submit the revised plan to the director. A revised plan shall be submitted to the director within 45 days after the insurer receives notice that</p>
+              </content>
+              <paragraph eId="21-14-060__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the original plan is unsatisfactory; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-060__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the director has rejected the insurer's challenge, if the insurer challenges an unsatisfactory determination of the director under
+AS 21.14.080
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-14-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A domestic insurer that files a plan or revised plan with the director shall file a copy of the plan or revised plan with the insurance regulatory agency in each state in which the insurer transacts business, if</p>
+              </content>
+              <paragraph eId="21-14-060__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the state has a risk based capital provision substantially similar to
+AS 21.14.090
+, as determined by the director; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-060__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the insurance regulatory agency of that state has made a request in writing to the insurer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-14-060__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An insurer shall file the copy of the plan or revised plan required under (d) of this section (1) within 15 days of the insurer's receipt of a request for the filing from a state; or (2) by the date on which the plan or revised plan is filed in this state under this section, whichever is later.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-060__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The director may specify in a notification under (c) of this section of an unsatisfactory plan or revised plan that the notification constitutes a regulatory action level event, subject to an insurer's right to challenge the unsatisfactory determination under
+AS 21.14.080
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-14-070">
+            <num>21.14.070</num>
+            <heading>Foreign insurers.</heading>
+            <subsection eId="21-14-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A foreign insurer shall, upon the written request of the director, submit to the director a report described under
+AS 21.14.010
+not later than</p>
+              </content>
+              <paragraph eId="21-14-070__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>15 days from the receipt by the foreign insurer of a request, if the report has already been filed with the domiciliary state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-070__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>60 days from the receipt by the foreign insurer of a request, if the report is not required to be filed with the domiciliary state; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-070__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the date on which the report is filed with the domiciliary state or 60 days from receipt by the foreign insurer of the request, whichever is earlier, if the report is required to be filed but has not already been filed with the domiciliary state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-14-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Within 15 days after receiving a written request from the director, a foreign insurer shall submit to the director a copy of a plan that is filed with an insurance regulatory agency of another state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director may require a foreign insurer to file a plan under
+AS 21.14.060
+, if</p>
+              </content>
+              <paragraph eId="21-14-070__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a company action level event, regulatory action level event, or authorized control level event occurs with respect to a foreign insurer as determined under
+(A) the risk based capital statute applicable in the domiciliary state of the insurer; or
+(B) this chapter, if a risk based capital statute is not in force in the domiciliary state that is substantially similar to this chapter; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-070__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the insurance regulatory agency of the domiciliary state of the foreign insurer fails to require the foreign insurer to file a plan in the manner specified under that state's risk based capital statute.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-14-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a foreign insurer fails to file a plan with the director as required under this section, the director may order the insurer to stop writing new insurance business in this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-070__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a mandatory control level event occurs that involves a foreign insurer, the director may apply to a court under
+AS 21.78
+for the liquidation of property of the foreign insurer that is located in this state, unless a domiciliary receiver has been appointed for the foreign insurer under the rehabilitation and liquidation statute applicable in the foreign insurer's domiciliary state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-14-080">
+            <num>21.14.080</num>
+            <heading>Hearings.</heading>
+            <subsection eId="21-14-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An insurer may request a hearing to challenge an action of the director or request a stay of the director's action as provided under
+AS 21.06.180
+ 21.06.240.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An insurer shall request a hearing under (a) of this section within 15 days after the director's notice of</p>
+              </content>
+              <paragraph eId="21-14-080__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an adjusted risk based capital report under
+AS 21.14.010
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-080__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an unsatisfactory risk based capital plan or revised risk based capital plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-080__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a regulatory action level event based on an unsatisfactory risk based capital plan or revised risk based capital plan;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-080__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the insurer's failure to adhere to its risk based capital plan or revised risk based capital plan and the failure has a substantial adverse effect on the insurer's ability to eliminate the company action level event in accordance with its plan or revised plan; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-080__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a corrective order applicable to the insurer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-14-090">
+            <num>21.14.090</num>
+            <heading>Confidentiality; restrictions on use.</heading>
+            <subsection eId="21-14-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in
+AS 21.06.060
+and this subsection, a report required under
+AS 21.14.010
+, a plan required under
+AS 21.14.060
+, the results or report of an examination or analysis of an insurer performed under this chapter, and a corrective order issued by the director are confidential and may not be made public by the director or another person. Information in a risk based capital report that is also set out in a publicly available annual statement schedule is not confidential.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The calculation of risk based capital for an insurer constitutes a regulatory tool that may indicate a need for corrective action, and the calculation may not be used as a means to rank insurers. Except as otherwise required in this chapter, a person may not directly or indirectly use information regarding the risk based capital of an insurer. If a materially false statement regarding an insurer's risk based capital or an inappropriate comparison of any other amount to the insurer's risk based capital is published and the insurer is able to demonstrate with substantial proof, as determined by the director, the falsity or inappropriateness of the statement, the insurer may publish an announcement exclusively to rebut the materially false statement or inappropriate comparison.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director may use the risk based capital instructions, report, adjusted report, plan, and revised plan only for monitoring the solvency of an insurer or for determining the need for corrective action by an insurer. Notwithstanding
+AS 21.39
+, documents described in this subsection may not be considered or introduced as evidence in a rate proceeding or used by the director to calculate or derive any elements of an appropriate premium level or rate of return for a line of insurance that an insurer or an affiliate is authorized to write.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-14-100">
+            <num>21.14.100</num>
+            <heading>Penalty for violation.</heading>
+            <subsection eId="21-14-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An insurer shall pay to the division $100 for each day the insurer fails to file a report, and $1,000 for each day the insurer fails to file a plan or revised plan in conformance with the requirements of this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a report, plan, or revised plan has not been filed in conformance with the requirements of this chapter, the director may, as provided</p>
+              </content>
+              <paragraph eId="21-14-100__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>under
+AS 21.09.150
+,
+AS 21.84.535
+,
+AS 21.86.190
+, or
+AS 21.87.110
+, as applicable to a particular insurer, suspend the authority of an insurer to enter into new obligations or issue a new or renewal policy of insurance in this state; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-100__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>under
+AS 21.34.070
+, declare a surplus lines insurer ineligible to transact business in this state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-14-110">
+            <num>21.14.110</num>
+            <heading>Exemptions.</heading>
+            <subsection eId="21-14-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director may exempt from the application of this chapter a domestic property and casualty insurer that</p>
+              </content>
+              <paragraph eId="21-14-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>writes direct business only in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>writes direct annual premiums of $2,000,000 or less; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-110__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>does not assume reinsurance in excess of five percent of direct premiums written.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-14-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may exempt from the application of this chapter a domestic health organization that</p>
+              </content>
+              <paragraph eId="21-14-110__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>writes direct business only in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-110__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>does not assume reinsurance in excess of five percent of direct premiums written and
+(A) writes direct annual premiums for comprehensive medical care of $2,000,000 or less; or
+(B) is a limited health service organization that covers less than 2,000 lives.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-14-120">
+            <num>21.14.120</num>
+            <heading>Notices.</heading>
+            <content>
+              <p>Sec. 21.14.120.   Notices.
+All notices by the director to an insurer that may result in regulatory action under this chapter are effective upon mailing if mailed by registered or certified mail or, in the case of any other transmission, upon the director's transmission of the notice.</p>
+            </content>
+          </section>
+          <section eId="sec_21-14-130">
+            <num>21.14.130</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 21.14.130.   Regulations.
+The director may adopt regulations to implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_21-14-200">
+            <num>21.14.200</num>
+            <heading>Definitions.</heading>
+            <subsection eId="21-14-200__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the insurer does not challenge the corrective order as permitted under
+AS 21.14.080
+; or
+(ii) after a hearing under
+AS 21.06.180
+ 21.06.240, a challenge to the corrective order by the insurer under
+AS 21.14.080
+is rejected by the director;</p>
+              </content>
+              <paragraph eId="21-14-200__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>authorized control level risk based capital means the number determined under the risk based capital formula in the risk based capital instructions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>company action level event means a report, an adjusted report that has not been challenged, or an adjusted report for which a challenge has been rejected that is filed under
+AS 21.14.010
+and that indicates that
+(A) an insurer's total adjusted capital is greater than or equal to its regulatory action level risk based capital but is less than its company action level risk based capital;
+(B) if a life and health insurer or a fraternal benefit society, the insurer or the fraternal benefit society has total adjusted capital that is greater than or equal to its company action level risk based capital but is less than the product obtained by multiplying the insurer's authorized control level risk based capital by 3.0 and that has a negative trend; or
+(C) if a property and casualty insurer or health organization, the insurer or organization has total adjusted capital that is greater than or equal to the company action level risk based capital but is less than the product obtained by multiplying its authorized control level risk based capital by 3.0 and that triggers the trend test calculation in the risk based capital instructions applicable to the insurer or health organization;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>company action level risk based capital means the product obtained by multiplying an insurer's authorized control level risk based capital by 2.0;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>corrective order means an order issued by the director specifying action that the director has determined is required under this chapter;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>foreign insurer means a foreign insurer as defined in
+AS 21.97.900
+but excludes an alien insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>fraternal benefit society has the meaning given in
+AS 21.84.900
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>health organization means a health maintenance organization, limited health service organization, dental or vision plan, hospital, medical and dental indemnity or service corporation, or other managed care organization holding a certificate of authority under
+AS 21.86
+or
+AS 21.87
+, or a company that writes primarily health insurance as defined in
+AS 21.12.050
+and filed with the director the National Association of Insurance Commissioners Health Risk-Based Capital Report;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>insurer means a property and casualty insurer, a life and health insurer, a health organization, and a fraternal benefit society;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>level event means a company action level event, regulatory action level event, authorized control level action event, or mandatory control level event;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>life and health insurer
+(A) means an insurer who transacts life insurance as defined in
+AS 21.12.040
+or health insurance as defined in
+AS 21.12.050
+and who filed with the director the National Association of Insurance Commissioners Life Risk-Based Capital Report;
+(B) does not include a benevolent association under
+AS 21.72
+, a fraternal benefit society under
+AS 21.84
+, a health maintenance organization under
+AS 21.86
+, or a hospital or medical service corporation under
+AS 21.87
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>limited health service organization means a corporation, partnership, or other entity that undertakes to provide or arrange for the provision of one or more limited health services to enrollees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>limited health services means dental care services, vision care services, mental health services, substance abuse services, pharmaceutical services, podiatric care services, and other services as determined by order or regulation of the director; limited health services does not include hospital, medical, surgical, or emergency services except as provided incident to the limited health services as defined in this paragraph.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_15">
+                <num>(15)</num>
+                <content>
+                  <p>mandatory control level event means a report, an adjusted report that has not been challenged, or an adjusted report for which a challenge has been rejected, that is filed under
+AS 21.14.010
+, and that indicates that an insurer's total adjusted capital is less than the insurer's mandatory control level risk based capital;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_16">
+                <num>(16)</num>
+                <content>
+                  <p>mandatory control level risk based capital means the product obtained by multiplying an insurer's authorized control level risk based capital by 0.70;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_17">
+                <num>(17)</num>
+                <content>
+                  <p>negative trend for a life and health insurer or a fraternal benefit society means a negative trend over a period of time, as determined by the trend test calculation in the risk based capital instructions applicable to the life and health insurer or fraternal benefit society;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_18">
+                <num>(18)</num>
+                <content>
+                  <p>property and casualty insurer means an insurer who transacts health insurance as defined in
+AS 21.12.050
+, property insurance as defined in
+AS 21.12.060
+, casualty insurance as defined in
+AS 21.12.070
+, surety insurance as defined in
+AS 21.12.080
+, marine or wet marine and transportation insurance as defined in
+AS 21.12.090
+, or mortgage guaranty insurance as defined in
+AS 21.12.110
+and who filed with the director the National Association of Insurance Commissioners Property and Casualty Risk-Based Capital Report;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_19">
+                <num>(19)</num>
+                <content>
+                  <p>regulatory action level event means
+(A) a report, an adjusted report that has not been challenged, or an adjusted report for which a challenge has been rejected, that is filed under
+AS 21.14.010
+, and that indicates that an insurer's total adjusted capital is greater than or equal to its authorized control level risk based capital but is less than the insurer's regulatory action level risk based capital;
+(B) an insurer fails to file a report required under
+AS 21.14.010
+by its due date, unless the insurer has provided a written explanation for the failure by the due date that is satisfactory to the director and the insurer has cured the failure not later than 10 days after the report is due;
+(C) an insurer fails to submit a plan to the director within the time period described in
+AS 21.14.060
+;
+(D) a notification by the director to an insurer that a plan or revised plan submitted by the insurer is determined by the director to be unsatisfactory, if</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-14-200__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the insurer does not challenge the determination of the director; or
+(ii) after a hearing under
+AS 21.06.180
+ 21.06.240, a challenge of the director's determination by the insurer under
+AS 21.14.080
+is rejected by the director; or
+(E) a notification by the director to an insurer that the insurer has failed to adhere to the insurer's plan or revised plan, if the director determines that the failure has a substantially adverse effect on the ability of the insurer to accomplish the objectives of the plan or revised plan, if</p>
+              </content>
+            </subsection>
+            <subsection eId="21-14-200__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the insurer does not challenge the determination of the director; or
+(ii) after a hearing under
+AS 21.06.180
+ 21.06.240, a challenge of the director's determination by the insurer under
+AS 21.14.080
+is rejected by the director;</p>
+              </content>
+              <paragraph eId="21-14-200__subsec_i__subsec_20">
+                <num>(20)</num>
+                <content>
+                  <p>regulatory action level risk based capital means the product obtained by multiplying an insurer's authorized control level risk based capital by 1.5;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_21">
+                <num>(21)</num>
+                <content>
+                  <p>report means the report of an insurer's risk based capital for a calendar year as required under
+AS 21.14.010
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_22">
+                <num>(22)</num>
+                <content>
+                  <p>revised plan means a risk based capital plan revised by an insurer, after the director has found the original risk based capital plan unsatisfactory under
+AS 21.14.060
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_23">
+                <num>(23)</num>
+                <content>
+                  <p>risk based capital means the amount of risk based capital and surplus produced by the application of the risk based capital instructions, or other amount the director determines after examination to be sufficient to support the insurer's asset risk, underwriting risk, and credit risk, including the minimum capital and surplus required under
+AS 21.09
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_24">
+                <num>(24)</num>
+                <content>
+                  <p>risk based capital instructions means risk based capital instructions most recently adopted by the National Association of Insurance Commissioners;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-14-200__subsec_i__subsec_25">
+                <num>(25)</num>
+                <content>
+                  <p>total adjusted capital means the total of
+(A) an insurer's statutory capital and surplus as reported under
+AS 21.09.200
+or 21.09.205; and
+(B) any other item required under the risk based capital instructions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

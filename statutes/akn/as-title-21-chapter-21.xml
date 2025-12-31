@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-21"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-21"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.21"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-21/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-21/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-21/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-21/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_21">
+          <num>21</num>
+          <heading>Investments</heading>
+          <section eId="sec_21-21-010">
+            <num>21.21.010</num>
+            <heading>Scope.</heading>
+            <content>
+              <p>Sec. 21.21.010.   Scope.
+This chapter applies only to an investment and investment practice of a domestic insurer and a United States branch of an alien insurer entered through this state. This chapter does not apply to separate accounts of a life insurer.</p>
+            </content>
+          </section>
+          <section eId="sec_21-21-020">
+            <num>21.21.020</num>
+            <heading>Eligible investments.</heading>
+            <subsection eId="21-21-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Insurers shall invest in or lend their funds on the security of, and shall hold as invested assets, only the eligible investments prescribed in this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-21-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 85 ch 50 SLA 1990.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-21-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Eligibility of an investment shall be determined as of the date of its making or acquisition.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-21-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An investment limitation based upon the amount of the insurer's assets or particular funds shall relate to the assets or funds shown by the insurer's annual statement most recently required to be filed with the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-21-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For purposes of determining compliance with investment limitations imposed under this chapter, the director or an insurer shall use admitted asset values.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-21-255">
+            <num>21.21.255</num>
+            <heading>Regulation of securities held by insurers.</heading>
+            <content>
+              <p>Sec. 21.21.255.   Regulation of securities held by insurers.
+As provided under 15 U.S.C. 77r-1(b) and (c) (Secondary Mortgage Market Enhancement Act of 1984), securities that are purchased, held, or invested in by an insurer are subject to
+AS 21.18.170
+and regulations adopted under
+AS 21.21.420
+, and other applicable provisions of this title.</p>
+            </content>
+          </section>
+          <section eId="sec_21-21-410">
+            <num>21.21.410</num>
+            <heading>Custodian of insurer assets.</heading>
+            <subsection eId="21-21-410__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The custodian for assets, securities, or investments of the insurer may be only a bank, trust company, securities firm, or clearing corporation that is properly authorized by the insurer and approved by the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-21-410__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When securities are deposited with a clearing corporation, certificates representing securities of the same class of the same issuer may be merged and held in bulk in the name of the nominee of the clearing corporation with any other securities deposited with the clearing corporation by any person, regardless of the ownership of the securities, and certificates representing securities of small denominations may be merged into one or more certificates of larger denominations. The records of any custodian through which an insurer holds securities in a clearing corporation must show that the securities are held for the insurer and for which accounts of the insurer. Ownership of, and other interest in, the securities may be transferred by bookkeeping entry on the books of the clearing corporation without physical delivery of certificates representing the securities.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-21-410__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A custodial agreement between an insurer and an institution holding the assets, securities, or investments of the insurer must be in writing and must be authorized by a resolution of the board of directors of the insurance company or of an authorized committee of the board. The terms of the custodial agreement must comply with the requirements of the director.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-21-420">
+            <num>21.21.420</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 21.21.420.   Regulations.
+The director shall adopt regulations regarding insurance company investments that are consistent with the defined limits standards for investments of the National Association of Insurance Commissioners.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

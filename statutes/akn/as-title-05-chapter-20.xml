@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="5.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_5">
+        <num>5</num>
+        <heading>Amusements and Sports</heading>
+        <chapter eId="title_5__chp_20">
+          <num>20</num>
+          <heading>Recreational Devices</heading>
+          <section eId="sec_05-20-010">
+            <num>05.20.010</num>
+            <heading>Owners or operators to provide safe equipment.</heading>
+            <content>
+              <p>Sec. 05.20.010.   Owners or operators to provide safe equipment.
+An owner or operator of a device as defined in
+AS 05.20.120
+shall construct, furnish, maintain, and provide safe and adequate facilities and equipment with which to safely and properly receive and carry all persons offered to and received by the owner or operator of the device, and to promote the safety of the patrons, employees, and the public.  The owner or operator of ski equipment and devices is not considered a common carrier.</p>
+            </content>
+          </section>
+          <section eId="sec_05-20-020">
+            <num>05.20.020</num>
+            <heading>Department of Labor and Workforce Development to inspect devices.</heading>
+            <content>
+              <p>Sec. 05.20.020.   Department of Labor and Workforce Development to inspect devices.
+The Department of Labor and Workforce Development is responsible for the inspection of devices.</p>
+            </content>
+          </section>
+          <section eId="sec_05-20-030">
+            <num>05.20.030</num>
+            <heading>Powers and duties of department.</heading>
+            <content>
+              <p>Sec. 05.20.030.   Powers and duties of department.
+The department has the following powers and duties:
+(1) whenever the department, after hearing called upon its own motion or upon complaint, finds that additional apparatus, equipment, facilities, or devices for use or in connection with a device should reasonably be provided, or repairs or improvements to, or changes in, a device in use should reasonably be made, or additions or changes in construction should reasonably be made, in order to promote the security and safety of the public or employees, it may make and serve an order directing the repairs, improvements, changes, or additions to be made;
+(2) if the department finds that the equipment, appliances, apparatus, or other structures of the device are defective, and that the operation of the device is dangerous to the employees of the owner or operator of it or to the public, it shall immediately give notice to the owner or operator of the repairs or reconstruction necessary to place the device in a safe condition, and may prescribe the time within which they shall be made; if, in its opinion, it is necessary or proper, the department may prohibit the operation of the device until the device is repaired and placed in a safe condition.</p>
+            </content>
+          </section>
+          <section eId="sec_05-20-040">
+            <num>05.20.040</num>
+            <heading>Personnel to inspect devices.</heading>
+            <content>
+              <p>Sec. 05.20.040.   Personnel to inspect devices.
+The department shall designate a person qualified in experience and training as the inspector of devices.  The department may employ additional employees as are necessary to administer this chapter.  The inspector and the employees may be hired on a temporary basis or borrowed from other state departments or political subdivisions of the state, or the department may contract with individuals or firms for the inspecting service on an independent basis.  The department shall prescribe the salary or other remuneration for this service. Contracting under this section is governed by
+AS 36.30
+(State Procurement Code).</p>
+            </content>
+          </section>
+          <section eId="sec_05-20-050">
+            <num>05.20.050</num>
+            <heading>Duties of inspector; condemnation.</heading>
+            <content>
+              <p>Sec. 05.20.050.   Duties of inspector; condemnation.
+The inspector of devices and the inspector's assistants shall inspect all equipment and appliances connected with devices and make reports of inspection to the department.  The inspector shall, on discovering defective equipment or appliances, making the use of the equipment dangerous, immediately report this to the owner or operator of the device, and to the department.  If in the opinion of the inspector the continued operation of the defective equipment constitutes an immediate danger to the safety of the persons operating or being conveyed by the equipment, the inspector may condemn the equipment and shall immediately notify the department of the action.</p>
+            </content>
+          </section>
+          <section eId="sec_05-20-060">
+            <num>05.20.060</num>
+            <heading>Annual inspections; fees.</heading>
+            <subsection eId="05-20-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The inspector of devices and the inspector's assistants shall inspect each device at least once each year.</p>
+              </content>
+            </subsection>
+            <subsection eId="05-20-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon inspection of a device under this section, the owner or operator of the device shall pay the department a fee of $200 for the inspection of that device. The department shall waive the inspection fee if the owner or operator of the device uses a private inspector who is certified by a national organization to inspect devices and provides the inspection report to the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="05-20-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Fees collected under this section shall be deposited in the building safety account created by
+AS 44.31.025
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_05-20-070">
+            <num>05.20.070</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 05.20.070.   Regulations.
+The department may adopt reasonable regulations and codes relating to public safety in the construction, operation, and maintenance of devices.  The regulations and codes must be in accordance with established standards, if any, and may not be discriminatory in their application.</p>
+            </content>
+          </section>
+          <section eId="sec_05-20-080">
+            <num>05.20.080</num>
+            <heading>Application of Administrative Procedure Act.</heading>
+            <content>
+              <p>Sec. 05.20.080.   Application of Administrative Procedure Act.
+The procedure for review of the orders or actions of the department, its agents, or employees, is the same as that contained in
+AS 44.62
+(Administrative Procedure Act). Administrative hearings on contested cases shall be conducted by the office of administrative hearings (
+AS 44.64.010
+).</p>
+            </content>
+          </section>
+          <section eId="sec_05-20-090">
+            <num>05.20.090</num>
+            <heading>State not liable for injury or damage.</heading>
+            <content>
+              <p>Sec. 05.20.090.   State not liable for injury or damage.
+Inspections, regulations, and orders of the department do not impose liability upon the state for injury or damage resulting from the operation of the facilities regulated by this chapter. An action of the department and its personnel is an exercise of the police power of the state.</p>
+            </content>
+          </section>
+          <section eId="sec_05-20-100">
+            <num>05.20.100</num>
+            <heading>Authority of political subdivisions to regulate devices.</heading>
+            <content>
+              <p>Sec. 05.20.100.   Authority of political subdivisions to regulate devices.
+This chapter does not impair the authority or responsibility of a political subdivision with regard to the local enforcement of licensing, safety, or police regulations authorized by local ordinance or state law if the department determines that the standards employed by the political subdivision are at least equal to those adopted by the department.  The authority of a political subdivision for the licensing, safety, or police regulation of devices extends to a point five miles outside the territorial limits of the political subdivision if no other political subdivision of the state is exercising similar authority over the same devices.</p>
+            </content>
+          </section>
+          <section eId="sec_05-20-110">
+            <num>05.20.110</num>
+            <heading>Exclusion of transportation devices under jurisdiction of other agencies from chapter.</heading>
+            <content>
+              <p>Sec. 05.20.110.   Exclusion of transportation devices under jurisdiction of other agencies from chapter.
+This chapter does not extend to the department or to political subdivisions authority to adopt regulations pertaining to transportation facilities or devices subject to the regulatory jurisdiction of other state or local agencies.</p>
+            </content>
+          </section>
+          <section eId="sec_05-20-120">
+            <num>05.20.120</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 05.20.120.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) department means the Department of Labor and Workforce Development;
+(2) device means a device that is designed and operated for the conveyance or movement of persons and that is used as a source of or aids in the promoting of entertainment, pleasure, play, relaxation, or instruction, including but not limited to ski tows, roller coasters, merry-go-rounds, and Ferris wheels.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

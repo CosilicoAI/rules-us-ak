@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-45"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-45"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="16.45"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-45/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-45/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-16/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-16/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_16">
+        <num>16</num>
+        <heading>Fish and Game</heading>
+        <chapter eId="title_16__chp_45">
+          <num>45</num>
+          <heading>Pacific Marine Fisheries Compact</heading>
+          <section eId="sec_16-45-010">
+            <num>16.45.010</num>
+            <heading>Governor's power to execute compact.</heading>
+            <content>
+              <p>Sec. 16.45.010.   Governor's power to execute compact.
+The governor may execute a compact on behalf of the state to cooperate in the Pacific Marine Fisheries Commission.</p>
+            </content>
+          </section>
+          <section eId="sec_16-45-020">
+            <num>16.45.020</num>
+            <heading>The compact.</heading>
+            <content>
+              <p>Sec. 16.45.020.   The compact.
+The form and contents of the compact must be substantially as provided in this section, and the effect of its provisions shall be interpreted and administered in conformity with the provisions of this section:</p>
+            </content>
+          </section>
+          <section eId="sec_16-45-030">
+            <num>16.45.030</num>
+            <heading>Alaska representatives.</heading>
+            <content>
+              <p>Sec. 16.45.030.   Alaska representatives.
+In furtherance of the compact provisions, there are three members of the commission from the State of Alaska, appointed by the governor and confirmed by the legislature in joint session.  One commissioner must be the administrative or other officer of the Alaska Department of Fish and Game charged with the conservation of the state's marine fisheries resource; another commissioner must be a member of the legislature of this state who is a member of the committee on resources; and another member must be a citizen of this state who has a wide knowledge of and interest in the marine fisheries problem.</p>
+            </content>
+          </section>
+          <section eId="sec_16-45-040">
+            <num>16.45.040</num>
+            <heading>Terms of commissioners.</heading>
+            <content>
+              <p>Sec. 16.45.040.   Terms of commissioners.
+The term of a commissioner is four years.  A commissioner holds office until a successor is appointed and qualified, but the successor's term expires four years from the legal date of expiration of the term of the successor's predecessor.  A commissioner may be removed from office by the governor upon charges and after a hearing. The term of a commissioner who ceases to hold the qualifications required ends and a successor may be appointed. Vacancies occurring in the office of a commissioner from any reason or cause shall be filled for the unexpired term in the same manner as for a full term appointment.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

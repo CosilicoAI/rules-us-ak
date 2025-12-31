@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-76"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-76"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.76"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-76/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-76/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-76/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-76/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_76">
+          <num>76</num>
+          <heading>Alaska Avalanche Warning System</heading>
+          <section eId="sec_18-76-010">
+            <num>18.76.010</num>
+            <heading>Participation in statewide avalanche warning system.</heading>
+            <content>
+              <p>Sec. 18.76.010.   Participation in statewide avalanche warning system.
+The Department of Public Safety, acting in cooperation with a municipality or with an agency of the federal government, shall participate in the development and implementation of a statewide avalanche warning system and shall represent the state in the operation of that system.  The statewide system shall
+(1) establish and maintain a service center and primary and supplementary field stations to gather information and data concerning ground weather conditions, snow pack, and avalanche activity;
+(2) forecast snow avalanche conditions throughout the state;
+(3) coordinate a public awareness program on avalanche danger;
+(4) catalog a comprehensive atlas of avalanche paths and slide occurrences; and
+(5) assist local governments and state agencies in identifying hazardous avalanche zones and in developing snow avalanche zoning regulations.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

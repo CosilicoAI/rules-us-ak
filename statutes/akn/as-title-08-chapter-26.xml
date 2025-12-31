@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-26"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-26"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="8.26"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-26/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-26/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-26/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-26/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_8">
+        <num>8</num>
+        <heading>Business and Professions</heading>
+        <chapter eId="title_8__chp_26">
+          <num>26</num>
+          <heading>Private Professional Conservators and Guardians</heading>
+          <section eId="sec_08-26-010">
+            <num>08.26.010</num>
+            <heading>License required; exception.</heading>
+            <subsection eId="08-26-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided by (b) of this section or
+AS 08.26.180
+, a person may not engage in the business of providing services as a private professional guardian or conservator unless the person has a license issued under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-26-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An individual may be appointed and provide services as a private professional guardian or conservator without a license issued under this chapter and receive compensation approved by a court as long as the individual does not act as a guardian or conservator for more than one person or two people who are related to each other up to and including the fourth degree of consanguinity, whether of the whole or half blood or by adoption, computed under the rules of civil law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-26-020">
+            <num>08.26.020</num>
+            <heading>Requirements for private professional full and partial guardian licenses.</heading>
+            <subsection eId="08-26-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall issue a private professional full guardian license to an individual</p>
+              </content>
+              <paragraph eId="08-26-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>who is at least 21 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>who has two or more years of professional client casework experience or at least an associate degree in human services, social work, psychology, sociology, gerontology, special education, or a closely related field;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>who is certified as a guardian by a nationally recognized organization in the field of guardianships;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>whose criminal history record checks under
+AS 08.26.070
+show that the individual has not been convicted of a felony or of a misdemeanor offense in the state or in any other jurisdiction involving fraud, misrepresentation, material omission, misappropriation, theft, conversion, or any other crime the department determines would affect the individual's ability to provide the services of a guardian competently and safely for the protected person within 10 years before the application;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>who satisfies the application requirements of
+AS 08.26.060
+; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>who satisfies the requirements for obtaining a private professional conservator license under
+AS 08.26.030
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-26-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall issue a private professional partial guardian license to an individual who satisfies the requirements under (a)(1)  (5) of this section. A licensed private professional partial guardian may not perform conservator services.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-26-030">
+            <num>08.26.030</num>
+            <heading>Requirements for private professional conservator license.</heading>
+            <content>
+              <p>Sec. 08.26.030.   Requirements for private professional conservator license.
+The department shall issue a private professional conservator license to an individual
+(1) who is at least 21 years of age;
+(2) who has obtained a high school diploma, or a general education development diploma or its equivalent;
+(3) who has six months' employment experience in a position involving financial management, or has at least an associate degree in accounting or a closely related field;
+(4) who is certified as a guardian by a nationally recognized organization in the field of guardianships;
+(5) whose criminal history record checks under
+AS 08.26.070
+show that the individual has not been convicted of a felony or of a misdemeanor offense in the state or in any other jurisdiction involving fraud, misrepresentation, material omission, misappropriation, theft, conversion, or any other crime that the department determines would affect the individual's ability to provide the services of a conservator competently and safely for the protected person within 10 years before the application; and
+(6) who satisfies the application requirements of
+AS 08.26.060
+.</p>
+            </content>
+          </section>
+          <section eId="sec_08-26-050">
+            <num>08.26.050</num>
+            <heading>Temporary license.</heading>
+            <subsection eId="08-26-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall issue a temporary license to an individual under
+AS 08.26.020
+or 08.26.030 who</p>
+              </content>
+              <paragraph eId="08-26-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is not certified by a nationally recognized organization in the field of guardianships at the time of the application but is likely to become certified within one year from the date of the license, and otherwise satisfies the licensing requirements of
+AS 08.26.020
+or 08.26.030; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>satisfies the application requirements of
+AS 08.26.060
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-26-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the individual with a temporary license under (a) of this section submits proof of certification by a nationally recognized organization in the field of guardianships within one year from the date of the issuance of the temporary license, the department shall issue the individual a license under
+AS 08.26.020
+or 08.26.030 without requiring a new application.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-26-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A temporary license issued under this section may not be renewed.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-26-060">
+            <num>08.26.060</num>
+            <heading>Application requirements.</heading>
+            <content>
+              <p>Sec. 08.26.060.   Application requirements.
+To apply for a license under this chapter, a person shall submit an application on a form provided by the department and submit
+(1) two complete fingerprint cards containing fingerprints and other information required by the Department of Public Safety to obtain state and national criminal history record information under
+AS 12.62
+and
+AS 12.64
+;
+(2) a written waiver of confidentiality signed by the applicant allowing the department to access at any time relevant complaint information made about the applicant to adult protective services, the designated protection and advocacy agency, the long term care ombudsman, or an entity that certifies or licenses private professional guardians or private professional conservators;
+(3) a written statement signed by the applicant that the applicant will allow immediate access at any time to the department to the file of a ward or protected person and to financial information regarding the applicant, including corporate or other business records; and
+(4) payment of the application fee, any criminal history record information checks fee charged under
+AS 12.62.160
+(d), and any other fees required by the department.</p>
+            </content>
+          </section>
+          <section eId="sec_08-26-070">
+            <num>08.26.070</num>
+            <heading>Criminal history record information checks.</heading>
+            <subsection eId="08-26-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For each applicant for a license under this chapter, the department shall submit the fingerprint cards and other relevant information received with the application to the Department of Public Safety and request the Department of Public Safety to</p>
+              </content>
+              <paragraph eId="08-26-070__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>submit the fingerprints to the Federal Bureau of Investigation for a national criminal history record information check on the applicant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-070__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>perform a state criminal history record information check on the applicant; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-070__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>provide the department with the results of the criminal history record information checks made under (1) and (2) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-26-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may not issue a license to a person under this section unless the department receives the report required by (a)(3) of this section.
+Article 2. Reports.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-26-080">
+            <num>08.26.080</num>
+            <heading>Annual report.</heading>
+            <subsection eId="08-26-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within 30 days following the end of each calendar year, a licensee shall submit to the office of public advocacy, Department of Administration</p>
+              </content>
+              <paragraph eId="08-26-080__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>evidence of the continuing existence of a court ordered bond, if any, required by a court to be maintained by the guardian or conservator;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-080__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a list, including case numbers, of the wards and protected persons for whom the licensee is acting as a private professional guardian or private professional conservator;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-080__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an accurate financial statement of the licensee, including total fees collected from the protected person, total business expenses, and documents necessary to establish financial solvency of the licensee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-080__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a letter stating that the licensee has filed all required court reports in the previous calendar year; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-080__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a copy of all of the licensee's federal tax documents filed with the Internal Revenue Service and all of the licensee's correspondence with the Internal Revenue Service for the calendar year.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-26-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The office of public advocacy shall notify the department of the licensee's compliance with (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-26-090">
+            <num>08.26.090</num>
+            <heading>Submission of court reports to department.</heading>
+            <content>
+              <p>Sec. 08.26.090.   Submission of court reports to department.
+Upon request of the department, a licensee shall submit to the department a copy of the reports that the licensee is required to submit to a court under
+AS 13.26
+.</p>
+            </content>
+          </section>
+          <section eId="sec_08-26-100">
+            <num>08.26.100</num>
+            <heading>Court appointment.</heading>
+            <content>
+              <p>Sec. 08.26.100.   Court appointment.
+An individual who engages in the business of providing services as a guardian or conservator may not be appointed as a guardian or a conservator in a court proceeding unless the individual is licensed under this chapter or exempt under
+AS 08.26.010
+or
+AS 08.26.180
+.</p>
+            </content>
+          </section>
+          <section eId="sec_08-26-110">
+            <num>08.26.110</num>
+            <heading>Fees.</heading>
+            <subsection eId="08-26-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A licensee may not receive a payment for services rendered to a ward or a protected person until the licensee obtains court approval of a proposed fee schedule. The fee schedule must include a statement of the hourly fee for professional and administrative services and a monthly maximum amount that the licensee can charge the ward or protected person.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-26-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A payment requested by a licensee that exceeds the established monthly maximum amount identified under (a) of this section may not be made unless the payment is approved by the court. A request for court approval of a fee that exceeds the established monthly maximum amount must include the following information for the services covered by the fee:</p>
+              </content>
+              <paragraph eId="08-26-110__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name of the person who provided the service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-110__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the date when the service was provided;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-110__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the hourly rate of compensation for the service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-110__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a description of the service; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-26-110__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the amount of time used to perform the service.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_08-26-120">
+            <num>08.26.120</num>
+            <heading>Required notification.</heading>
+            <content>
+              <p>Sec. 08.26.120.   Required notification.
+A licensee shall notify the department immediately if
+(1) the licensee fails to file a report to the court required by this chapter;
+(2) the licensee has been removed as a guardian or conservator for a ward or protected person;
+(3) the licensee has received a gift with a value of more than $100 from a ward or protected person during the two years before the appointment;
+(4) the licensee has an interest in an enterprise that provides services to the ward or protected person;
+(5) an employee or contractor of the licensee is arrested for any offense; or
+(6) the licensee has filed for bankruptcy.
+Article 4. Discipline.</p>
+            </content>
+          </section>
+          <section eId="sec_08-26-130">
+            <num>08.26.130</num>
+            <heading>Grounds for disciplinary action.</heading>
+            <content>
+              <p>Sec. 08.26.130.   Grounds for disciplinary action.
+The department may take disciplinary action against an individual under
+AS 08.01.075
+or refuse to issue or renew a license if the department determines that the individual
+(1) obtained or attempted to obtain a license under this chapter through deceit, fraud, or intentional misrepresentation;
+(2) has not complied with the standards of conduct established by the department under
+AS 13.26.001
+;
+(3) forfeited a license in this or another jurisdiction as a result of deceit, fraud, intentional misrepresentation, or professional incompetence;
+(4) has been found by a court in this state to have engaged in professional misconduct or incompetence;
+(5) has advertised the individual's services in a false or misleading manner;
+(6) has been convicted, including a conviction based on a guilty plea or plea of nolo contendere, of a felony or other crime that affects the individual's ability to provide services competently and safely for the ward or protected person;
+(7) has been found to have abandoned, exploited, abused, or neglected a vulnerable adult; in this paragraph, vulnerable adult has the meaning given in
+AS 47.24.900
+;
+(8) has failed to comply with this chapter or with a regulation adopted under this chapter;
+(9) has continued or attempted to practice after becoming unfit due to professional incompetence;
+(10) has failed to maintain certification by a nationally recognized organization in the field of
+(A) guardianships, if the individual was issued a private professional guardian license; or
+(B) conservatorships, if the individual was issued a private professional conservator license; or
+(11) fails to maintain a bond or other surety as required by a court order.</p>
+            </content>
+          </section>
+          <section eId="sec_08-26-140">
+            <num>08.26.140</num>
+            <heading>Petition by department.</heading>
+            <content>
+              <p>Sec. 08.26.140.   Petition by department.
+In addition to the disciplinary actions allowed under
+AS 08.01.075
+, the department may petition a court to review the conduct of a licensee if the department determines that the conduct of the licensee may not be in the best interests of the ward or protected person.</p>
+            </content>
+          </section>
+          <section eId="sec_08-26-180">
+            <num>08.26.180</num>
+            <heading>Exemption.</heading>
+            <content>
+              <p>Sec. 08.26.180.   Exemption.
+An individual who is employed by a financial institution regulated by the federal government or a financial institution regulated under
+AS 06
+by the department is not required to be licensed under this chapter in order to engage, in the course of the individual's employment by the financial institution, in the business of providing services as a guardian or a conservator or be appointed as a private professional guardian or a private professional conservator by a court. In this section, financial institution does not include a person who is exempt under
+AS 06.26.020
+or who has received an exemption under
+AS 06.26.200
+.</p>
+            </content>
+          </section>
+          <section eId="sec_08-26-190">
+            <num>08.26.190</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 08.26.190.   Definitions.
+In this chapter,
+(1) conservator has the meaning given in
+AS 13.06.050
+;
+(2) department means the Department of Commerce, Community, and Economic Development;
+(3) guardian has the meaning given in
+AS 13.06.050
+;
+(4) licensee means a person licensed under this chapter;
+(5) private professional conservator means an individual who acts as a conservator under
+AS 13.26.401
+ 13.26.580 and receives compensation for acting in that capacity;
+(6) private professional conservator license means a license issued under
+AS 08.26.030
+;
+(7) private professional guardian means an individual who acts as a guardian under
+AS 13.26.101
+ 13.26.316 and receives compensation for acting in that capacity;
+(8) private professional guardian license means a license issued under
+AS 08.26.020
+;
+(9) protected person has the meaning given in
+AS 13.26.005
+;
+(10) ward has the meaning given in
+AS 13.26.005
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

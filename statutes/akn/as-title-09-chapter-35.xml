@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-35"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-35"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="9.35"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-35/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-35/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-35/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_9">
+        <num>9</num>
+        <heading>Code of Civil Procedure</heading>
+        <chapter eId="title_9__chp_35">
+          <num>35</num>
+          <heading>Execution</heading>
+          <section eId="sec_09-35-010">
+            <num>09.35.010</num>
+            <heading>Judgments enforceable by execution.</heading>
+            <content>
+              <p>Sec. 09.35.010.   Judgments enforceable by execution.
+A writ of execution may be issued in favor of
+(1) a party in whose favor a judgment is given that requires the payment of money or the delivery of real or personal property or either of them;
+(2) the state on behalf of a victim of a crime or a delinquent act in whose favor a judgment of restitution is ordered.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-020">
+            <num>09.35.020</num>
+            <heading>Issuance of execution after five years.</heading>
+            <content>
+              <p>Sec. 09.35.020.   Issuance of execution after five years.
+When a period of five years has elapsed after the entry of judgment and without an execution being issued on the judgment, no execution may issue except by order of the court in which judgment is entered. The court shall grant the motion if the court determines that there are just and sufficient reasons for the failure to obtain the writ of execution within five years after the entry of judgment.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-030">
+            <num>09.35.030</num>
+            <heading>Substance of writ.</heading>
+            <content>
+              <p>Sec. 09.35.030.   Substance of writ.
+Writs of execution may be against the property of the judgment debtor, another against the person of the judgment debtor, and a third for the delivery of the possession of real or personal property, including damages for withholding the property.  A writ of execution must require the officer or person to whom it is directed to proceed substantially as follows:
+(1) if the writ is against the property of the judgment debtor and the judgment directs particular property to be sold, it shall require the officer or person to sell the particular property and apply the proceeds as directed by the judgment; otherwise, it shall require the officer or person to satisfy the judgment, with interest, out of the personal property of the debtor, and, if sufficient personal property cannot be found, then out of the real property belonging to the debtor on the day when the judgment became a lien or at any time after that day;
+(2) if the writ is against real or personal property in the hands of the judgment debtor's personal representatives, heirs, devisees, legatees, tenants, or trustees, it shall require the officer or person to satisfy the judgment, with interest, out of that property;
+(3) if the writ is against the person of an absconding judgment debtor, it shall require the officer or person to arrest the debtor and commit the debtor to jail until the judgment is paid, with interest, or is discharged according to law; if the writ is against the person of any judgment debtor and the application for the writ is made under oath, upon probable cause, and describing the things to be seized as in a warrant, the officer may search and seize valuables from that debtor;
+(4) if the writ is for the delivery of the possession of real or personal property, it shall require the officer or person to deliver the possession of the property, describing it, to the party entitled to it, and may at the same time require the officer or person to satisfy any costs, charges, damages, rents, or profits recovered by that judgment out of the personal property of the person against whom it was rendered, and the value of the property for which the judgment was recovered to be specified in the writ, if a delivery cannot be had; and, if sufficient personal property cannot be found, then out of the real property as provided in (1) of this section.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-060">
+            <num>09.35.060</num>
+            <heading>Execution after death of judgment debtor.</heading>
+            <content>
+              <p>Sec. 09.35.060.   Execution after death of judgment debtor.
+If the judgment debtor dies after judgment, execution may be issued on the judgment in the manner and with the effect as if the debtor were still living, except as provided in
+AS 13.16.505
+.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-070">
+            <num>09.35.070</num>
+            <heading>Property liable.</heading>
+            <content>
+              <p>Sec. 09.35.070.   Property liable.
+All goods, chattels, money, or other property, both real and personal, or an interest in the property of the judgment debtor not exempt by law, and all property and rights of property seized and held under attachment in the action are liable to execution.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-100">
+            <num>09.35.100</num>
+            <heading>Execution against property.</heading>
+            <content>
+              <p>Sec. 09.35.100.   Execution against property.
+The person to whom the writ is directed shall execute the writ against property of the judgment debtor until the judgment is satisfied.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-110">
+            <num>09.35.110</num>
+            <heading>Execution procedure.</heading>
+            <content>
+              <p>Sec. 09.35.110.   Execution procedure.
+All property shall be levied upon or released from levy in the manner that similar property is attached or released from attachment, and the proceedings against the garnishee and the liability of the garnishee are the same.  Until a levy, property is not affected by the execution.  Any excess in proceeds over the judgment and costs shall be returned to the judgment debtor.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-130">
+            <num>09.35.130</num>
+            <heading>Third party claims.</heading>
+            <content>
+              <p>Sec. 09.35.130.   Third party claims.
+If property levied upon is claimed by a third person as the person's property by an affidavit of title to the property, or right to the possession of the property and the ground of the title or right, stating the value of the property, and delivered to the person making the levy, that person shall release the property.  However, the plaintiff, on demand of the person, may give the person an undertaking executed by two sufficient sureties in a sum equal to double the value of the property levied upon.  The undertaking shall be in favor of and shall indemnify the third person against loss, liability, damages, and costs, by reason of the taking or sale of the property by the person.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-140">
+            <num>09.35.140</num>
+            <heading>Notice of sale on execution.</heading>
+            <subsection eId="09-35-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before the sale of property on execution, notice of the sale shall be given as follows:</p>
+              </content>
+              <paragraph eId="09-35-140__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>notice of the sale of personal property is given by posting a written or printed notice of the time and place of sale in three public places within five miles of the place where the sale is to be held, not less than 10 days before the day of sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-35-140__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>notice of the sale of real property is given by posting a similar notice particularly describing the property, including the property's street address if there is a street address for the property, not less than 30 days before the day of sale in three public places, as provided in (1) of this subsection, and publishing a copy of the notice four times, once a week for four successive weeks in a newspaper of general circulation published nearest to the place of sale; an inaccuracy in the street address may not be used to set aside a sale if the legal description is correct.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-35-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to the notice required by (a) of this section, notice of the sale of real property on execution shall be given by publishing a notice of the sale on an Internet website beginning at least 45 days before the date of the sale. Publication of the notice must begin not later than the first day that the notice is published under (a)(2) of this section and must continue at least through the day in the fourth week that the notice is published under (a)(2) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-35-140__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To qualify as an Internet website on which notices of sale may be published under (b) of this section, an Internet website must,</p>
+              </content>
+              <paragraph eId="09-35-140__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if operated by a newspaper of general circulation, be completely free to the public for viewing and not require a subscription; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-35-140__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if operated by a person who is not covered by (1) of this subsection,
+(A) be available to any person;
+(B) be completely free to the public for viewing and not require a subscription;
+(C) be used primarily to advertise real property under foreclosure;
+(D) have been in continuous operation for more than one year;
+(E) have a viewership of at least 5,000 different visitors each month that is verified by an independent audit; and
+(F) have an office in the state and the office has staff that includes a senior management person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-35-140__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In this section, newspaper of general circulation means a publication that</p>
+              </content>
+              <paragraph eId="09-35-140__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is published in newspaper format;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-35-140__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is distributed at least once a week for at least 50 weeks each year within the judicial district where the place of sale is located, excluding a period when publication is interrupted by a labor dispute or by a natural disaster or other casualty that the publisher cannot control;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-35-140__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>holds a second class mailing permit from the United States Postal Service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-35-140__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is not published primarily to distribute advertising; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-35-140__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>is not intended primarily for a particular professional or occupational group.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_09-35-142">
+            <num>09.35.142</num>
+            <heading>Action to establish newspaper or Internet website status.</heading>
+            <subsection eId="09-35-142__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>to establish that the publication is a newspaper of general circulation under
+AS 09.35.140
+. A person who owns an Internet website may bring an action under
+AS 22.10.020</p>
+              </content>
+            </subsection>
+            <subsection eId="09-35-142__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>to establish that the Internet website qualifies as an Internet website on which notices of sale may be published under
+AS 09.35.140
+(b).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-35-150">
+            <num>09.35.150</num>
+            <heading>Sale.</heading>
+            <content>
+              <p>Sec. 09.35.150.   Sale.
+All sales of property upon execution shall be made at auction between nine o'clock in the morning and four o'clock in the afternoon.  After sufficient property has been sold to satisfy the execution, no more may be sold.  Neither the officer holding the execution nor a deputy may become a purchaser or be interested in a purchase at the sale.  When the sale is of personal property capable of manual delivery, it shall be within view of those who attend the sale unless the court directs the sale to be at some other place.  The property shall be sold in parcels that are likely to bring the highest price. When the sale is of real property consisting of several known lots or parcels, they shall be sold separately or otherwise, as is likely to bring the highest price.  When a portion of real property is claimed by a third person, that person may require it to be sold separately.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-160">
+            <num>09.35.160</num>
+            <heading>Postponement of sale.</heading>
+            <subsection eId="09-35-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If, at the time appointed for the sale, the person conducting it considers it to the advantage of all concerned to postpone the sale for want of purchasers, or other sufficient cause, the sale may be postponed from time to time, but each postponement may not exceed one week. Notice of every postponement shall be made by public proclamation.  Whenever a request in writing is made by the judgment creditor for a postponement of the sale to a later date and hour and is given to the person conducting the sale, that person shall by public declaration postpone the sale to the date and hour so fixed.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-35-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If for any reason the sale cannot be held at the time appointed or within 30 days from the original sale date in the case of real property, the officer who is to conduct the sale shall notify the parties or their attorneys and designate a future day for the sale and give notice in the manner provided in
+AS 09.35.140
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-35-170">
+            <num>09.35.170</num>
+            <heading>Bill of sale for personal property.</heading>
+            <content>
+              <p>Sec. 09.35.170.   Bill of sale for personal property.
+When the purchaser of personal property capable of manual delivery and not in the possession of a third person, association, or corporation pays the purchase money, the peace officer shall deliver the property to the purchaser, and if desired, shall give the purchaser a bill of sale containing an acknowledgment of the payment.  In all other sales of personal property, the peace officer shall give the purchaser a bill of sale with the like acknowledgment.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-180">
+            <num>09.35.180</num>
+            <heading>Confirmation of sale or resale.</heading>
+            <subsection eId="09-35-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Where real property executed upon has been sold, the judgment creditor may, upon motion, apply for an order confirming the sale.  The judgment debtor may object to the confirmation of the sale on the grounds that there were substantial irregularities in the proceedings of sale that caused probable loss or injury to the judgment debtor.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-35-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the court finds that there were substantial irregularities in the proceedings concerning the sale to the probable loss or injury of the party objecting, it shall deny the motion and direct that the property be resold in whole or in part as upon an execution.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-35-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon a resale, the bid of the purchaser at the former sale shall be considered to be renewed and continued in force, and no bid may be taken except for a greater amount.  If the property sells to a person other than the former purchaser, the former purchaser shall be repaid out of the proceeds of the resale.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-35-180__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An order confirming a sale is a conclusive determination of the regularity of the proceedings concerning the sale, as to all persons, in any other action or proceeding.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-35-190">
+            <num>09.35.190</num>
+            <heading>Eviction of purchaser.</heading>
+            <content>
+              <p>Sec. 09.35.190.   Eviction of purchaser.
+If the purchaser of real property sold on execution, or a successor in interest is evicted from the property because of irregularities in the proceedings concerning the sale or the reversal or discharge of the judgment, the purchaser or a successor may recover the price paid with interest, costs, and disbursements from the judgment creditor.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-200">
+            <num>09.35.200</num>
+            <heading>Contribution among joint judgment debtors.</heading>
+            <content>
+              <p>Sec. 09.35.200.   Contribution among joint judgment debtors.
+When property liable to an execution against several persons is sold and more than a due proportion of the judgment is satisfied out of the proceeds of the sale of the property of one of them or one of them pays more than a due proportion without a sale, that person may compel contributions from the others.  When a judgment is against several and is upon an obligation of one of them as security for another and the surety pays the amount or a part of it, either by sale of the surety's property or before sale, the surety may compel repayment from the principal.  In that case, the person so paying or contributing is entitled to the benefit of the judgment to enforce contribution or repayment if the person files notice of payment and claim to contribution or repayment with the court where the judgment was rendered within 30 days after the payment.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-210">
+            <num>09.35.210</num>
+            <heading>Absolute sales and right of redemption.</heading>
+            <content>
+              <p>Sec. 09.35.210.   Absolute sales and right of redemption.
+Sales of real property, when the estate is less than a leasehold of two years unexpired term, are absolute.  In all other cases, the real property or interest in real property is subject to redemption. The person conducting the sale shall give to the purchaser a certificate of the sale that indicates the date of the judgment under which the sale was made and contains
+(1) a particular description of the real property sold;
+(2) the price bid for each distinct lot or parcel;
+(3) the whole price paid; and
+(4) whether or not the property is subject to redemption.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-220">
+            <num>09.35.220</num>
+            <heading>Redemption.</heading>
+            <content>
+              <p>Sec. 09.35.220.   Redemption.
+Property sold subject to redemption or any part separately sold may be redeemed by the following persons or their successors in interest:
+(1) the judgment debtor; and
+(2) a creditor having a lien by judgment or mortgage on the property sold or on some part of it subsequent in time to that on which the property was sold; a lien creditor after having redeemed the property is a redemptioner.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-230">
+            <num>09.35.230</num>
+            <heading>Redemption by lien creditor from purchaser.</heading>
+            <subsection eId="09-35-230__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>that the purchaser may have paid.  If the purchaser is also a creditor having a lien prior to that of the redemptioner, the redemptioner shall also pay the amount of that lien with interest.  When unpatented mining claims are redeemed, taxes include the annual assessment work required by law to be performed.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-35-240">
+            <num>09.35.240</num>
+            <heading>Subsequent redemptions.</heading>
+            <subsection eId="09-35-240__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>that the last redemptioner may have paid and the amount of any liens held by the last redemptioner previous to the lien of the last redemptioner.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-35-250">
+            <num>09.35.250</num>
+            <heading>Redemption by judgment debtor or successor.</heading>
+            <subsection eId="09-35-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>that the purchaser or redemptioner may have paid after the purchase.  If the judgment debtor does not redeem before the confirmation of the sale, the judgment debtor may redeem only within 12 months from the order of confirmation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-35-260">
+            <num>09.35.260</num>
+            <heading>Conveyance of property.</heading>
+            <content>
+              <p>Sec. 09.35.260.   Conveyance of property.
+If no redemption is made within the time prescribed, the purchaser or last redemptioner is entitled to a conveyance. If the judgment debtor redeems, the effect of the sale is terminated and the estate of the judgment debtor is restored.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-270">
+            <num>09.35.270</num>
+            <heading>Procedure for redemption.</heading>
+            <subsection eId="09-35-270__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Redemption is made by paying the sum required to the peace officer.  Upon a redemption, the peace officer shall give the person redeeming a certificate of redemption containing the sum paid on redemption, from whom redeemed, and the date of such redemption, and the peace officer shall immediately give notice of the redemption to the party from whom redeemed.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-35-270__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A judgment debtor or redemptioner shall submit to the peace officer</p>
+              </content>
+              <paragraph eId="09-35-270__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a copy of the judgment under which the right to redeem is claimed, certified by the clerk of the court; or, if the redemption is upon a mortgage, the certificate of the record of the mortgage;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-35-270__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a copy of any assignment necessary to establish the claim, verified by the affidavit of the claimant or an agent;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-35-270__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an affidavit by the claimant or an agent showing the amount then actually due on the judgment or mortgage.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_09-35-280">
+            <num>09.35.280</num>
+            <heading>Priority of redemption.</heading>
+            <content>
+              <p>Sec. 09.35.280.   Priority of redemption.
+If more than one person applies to the peace officer at the same time to redeem, the person having the prior lien is entitled to redeem first.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-290">
+            <num>09.35.290</num>
+            <heading>Redemption payment or refusal to permit redemption.</heading>
+            <content>
+              <p>Sec. 09.35.290.   Redemption payment or refusal to permit redemption.
+The peace officer shall immediately pay the money over to the person from whom the property is redeemed. A person's right to redeem may not be prejudiced by the refusal of the peace officer to allow the redemption.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-300">
+            <num>09.35.300</num>
+            <heading>Waste.</heading>
+            <subsection eId="09-35-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Until the expiration of the time allowed for redemption, the court may restrain the commission of waste on the property by order granted with or without notice on the application of the purchaser or judgment creditor.  It is not waste for the person in possession of the property at the time of sale or entitled to possession afterwards to continue to use it during the period allowed for redemption in the same manner in which it was previously used, or to use it in the ordinary course of husbandry, or to make the necessary repairs to buildings or fences, or to use wood or timber on the property for the repairs or for fuel for the family of the person in possession during occupancy.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-35-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The purchaser at the execution sale or a subsequent purchaser may apply to the court for permission to make necessary repairs to preserve the property against waste or to insure the property against loss during the redemption period.  If ordered by the court, the person making the necessary repairs or paying the insurance is entitled to reimbursement for the expenses from the person redeeming the property under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-35-310">
+            <num>09.35.310</num>
+            <heading>Rights of purchaser and redemptioner.</heading>
+            <content>
+              <p>Sec. 09.35.310.   Rights of purchaser and redemptioner.
+The purchaser, from the time of sale until a resale or a redemption, or a redemptioner, from the time of redemption until another redemption, is entitled to the possession of the property purchased or redeemed.  Where the property is in the possession of a tenant, the purchaser or redemptioner is entitled to receive the rents of the property or the value of the use and occupation of the property.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-320">
+            <num>09.35.320</num>
+            <heading>Arrest of judgment debtor and undertaking.</heading>
+            <content>
+              <p>Sec. 09.35.320.   Arrest of judgment debtor and undertaking.
+The court may order a peace officer to arrest the judgment debtor and bring the debtor before the court upon satisfactory proof that the debtor is leaving the state with intent to defraud the debtor's creditors or is absconding.  Upon being brought before the court, the judgment debtor may be ordered to enter into an undertaking with one or more sufficient sureties that the debtor will appear before the court when directed, and that the debtor will not, during the pendency of the proceedings, dispose of any portion of the debtor's property not exempt from execution.  In default of entering into the undertaking, the judgment debtor may be committed to jail.</p>
+            </content>
+          </section>
+          <section eId="sec_09-35-330">
+            <num>09.35.330</num>
+            <heading>Satisfaction of judgment when judgment debtor is creditor of state or political subdivision.</heading>
+            <content>
+              <p>Sec. 09.35.330.   Satisfaction of judgment when judgment debtor is creditor of state or political subdivision.
+Salary, wages, credits, or other personal property in the possession or under the control of the state, or an organized or unorganized borough, city, incorporated town, school district, or other political subdivision, or a board, institution, commission, or officer of the state, belonging or owed to any person, is subject to attachment and execution in the manner and with the effect as property in the possession of private persons.  A clerk or officer of a court is not required to answer as to any money or property in the clerk's or officer's possession in the custody of the law.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

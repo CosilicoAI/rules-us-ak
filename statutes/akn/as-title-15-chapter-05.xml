@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-05"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-05"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="15.05"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-05/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-05/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-15/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-15/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_15">
+        <num>15</num>
+        <heading>Elections</heading>
+        <chapter eId="title_15__chp_05">
+          <num>05</num>
+          <heading>Qualification of Voters</heading>
+          <section eId="sec_15-05-010">
+            <num>15.05.010</num>
+            <heading>Voter qualification.</heading>
+            <content>
+              <p>Sec. 15.05.010.   Voter qualification.
+A person may vote at any election who
+(1) is a citizen of the United States;
+(2) is 18 years of age or older;
+(3) has been a resident of the state and of the house district in which the person seeks to vote for at least 30 days just before the election; and
+(4) has registered before the election as required under
+AS 15.07
+and is not registered to vote in another jurisdiction.</p>
+            </content>
+          </section>
+          <section eId="sec_15-05-011">
+            <num>15.05.011</num>
+            <heading>Qualifications of overseas voters.</heading>
+            <subsection eId="15-05-011__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person residing outside the United States may register and vote absentee by qualifying under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-05-011__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before registering a person under this section, the director shall determine that the person</p>
+              </content>
+              <paragraph eId="15-05-011__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>was domiciled in the state immediately before leaving the United States;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-05-011__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>meets the qualifications established in
+AS 15.05.010</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-05-011__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>and (2);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-05-011__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>has not established a domicile in another state, territory, or possession of the United States since leaving this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-05-011__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is not registered to vote and has not voted in another state, territory, or possession of the United States since leaving this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-05-011__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>has a valid passport, card of identity and registration, or other identification issued under the authority of the United States Secretary of State, and identification complying with the requirements of this title.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="15-05-011__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Lack of a place of abode in the state or lack of intent to return to the state does not disqualify a person who qualifies under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-05-011__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person registered under this section may vote in a federal election in this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-05-011__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding (b)(1) of this section, a person residing outside the United States may register and vote absentee if</p>
+              </content>
+              <paragraph eId="15-05-011__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the parent or legal guardian of the person was domiciled in the state immediately before leaving the United States; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="15-05-011__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the director determines that the person meets the requirements of (b)(2)  (5) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_15-05-012">
+            <num>15.05.012</num>
+            <heading>Voter qualification for presidential election.</heading>
+            <content>
+              <p>Sec. 15.05.012.   Voter qualification for presidential election.
+A person who is otherwise qualified under
+AS 15.05.010
+but who has not been a resident of the house district in which the person seeks to vote for at least 30 days preceding the date of a presidential election is entitled to register and vote for presidential and vice-presidential candidates.</p>
+            </content>
+          </section>
+          <section eId="sec_15-05-014">
+            <num>15.05.014</num>
+            <heading>Procedures in presidential elections.</heading>
+            <content>
+              <p>Sec. 15.05.014.   Procedures in presidential elections.
+In accordance with the Voting Rights Act of 1965 (P.L. 89-110; 79 Stat. 437; 42 U.S.C. 1973 et seq.), as amended, the following procedures apply to elections for the office of President and Vice-President of the United States:
+(1) registration and absentee voting procedures, except as otherwise provided in this section, shall be identical to the procedures established in this title;
+(2) registration of otherwise qualified persons shall be permitted without regard to a durational residency requirement;
+(3) if any citizen who is otherwise qualified to vote in the state for president and vice-president has begun residence in another state after the 30th day preceding the election and, for that reason, does not satisfy the registration requirements of that state, that person shall be allowed to vote for president and vice-president either in person in the precinct in which the person resided immediately before removal, or by absentee ballot as provided in
+AS 15.20
+.</p>
+            </content>
+          </section>
+          <section eId="sec_15-05-020">
+            <num>15.05.020</num>
+            <heading>Rules for determining residence of voter.</heading>
+            <content>
+              <p>Sec. 15.05.020.   Rules for determining residence of voter.
+For the purpose of determining residence for voting, the place of residence is governed by the following rules:
+(1) A person may not be considered to have gained a residence solely by reason of presence nor may a person lose it solely by reason of absence while in the civil or military service of this state or of the United States or of absence because of marriage to a person engaged in the civil or military service of this state or the United States, while a student at an institution of learning, while in an institution or asylum at public expense, while confined in public prison, while engaged in the navigation of waters of this state or the United States or of the high seas, while residing upon an Indian or military reservation, or while residing in the Alaska Pioneers' Home or the Alaska Veterans' Home.
+(2) The residence of a person is that place in which the person's habitation is fixed, and to which, whenever absent, the person has the intention to return. If a person resides in one place, but does business in another, the former is the person's place of residence. Temporary work sites do not constitute a dwelling place.
+(3) A change of residence is made only by the act of removal joined with the intent to remain in another place. There can only be one residence.
+(4) A person does not lose residence if the person leaves home and goes to another country, state, or place in this state for temporary purposes only and with the intent of returning.
+(5) A person does not gain residence in any place to which the person comes without the present intention to establish a permanent dwelling at that place.
+(6) A person loses residence in this state if the person votes in another state's election, either in person or by absentee ballot, and will not be eligible to vote in this state until again qualifying under
+AS 15.05.010
+.
+(7) The term of residence is computed by including the day on which the person's residence begins and excluding the day of election.
+(8) The address of a voter as it appears on the official voter registration record is presumptive evidence of the person's voting residence. This presumption is negated only if the voter notifies the director in writing of a change of voting residence.</p>
+            </content>
+          </section>
+          <section eId="sec_15-05-030">
+            <num>15.05.030</num>
+            <heading>Loss and restoration of voting rights.</heading>
+            <subsection eId="15-05-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person convicted of a crime that constitutes a felony involving moral turpitude under state or federal law may not vote in a state, federal, or municipal election from the date of the conviction through the date of the unconditional discharge of the person. Upon the unconditional discharge, the person may register under
+AS 15.07
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="15-05-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner of corrections shall establish procedures by which a person unconditionally discharged is advised of the voter registration requirements and procedures.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

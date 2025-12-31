@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-16"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-16"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="11.16"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-16/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-16/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-11/chapter-16/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-11/chapter-16/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_11">
+        <num>11</num>
+        <heading>Criminal Law</heading>
+        <chapter eId="title_11__chp_16">
+          <num>16</num>
+          <heading>Parties to Crime</heading>
+          <section eId="sec_11-16-100">
+            <num>11.16.100</num>
+            <heading>Legal accountability based upon conduct.</heading>
+            <content>
+              <p>Sec. 11.16.100.   Legal accountability based upon conduct.
+A person is guilty of an offense if it is committed by the person's own conduct or by the conduct of another for which the person is legally accountable under
+AS 11.16.110
+, or by both.</p>
+            </content>
+          </section>
+          <section eId="sec_11-16-110">
+            <num>11.16.110</num>
+            <heading>Legal accountability based upon the conduct of another.</heading>
+            <content>
+              <p>Sec. 11.16.110.   Legal accountability based upon the conduct of another.
+A person is legally accountable for the conduct of another constituting an offense if
+(1) the person is made legally accountable by a provision of law defining the offense;
+(2) with intent to promote or facilitate the commission of the offense, the person
+(A) solicits the other to commit the offense; or
+(B) aids or abets the other in planning or committing the offense; or
+(3) acting with the culpable mental state that is sufficient for the commission of the offense, the person causes an innocent person or a person who lacks criminal responsibility to engage in the proscribed conduct.</p>
+            </content>
+          </section>
+          <section eId="sec_11-16-120">
+            <num>11.16.120</num>
+            <heading>Exemptions to legal accountability for conduct of another.</heading>
+            <subsection eId="11-16-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a prosecution for an offense in which legal accountability is based on the conduct of another person,</p>
+              </content>
+              <paragraph eId="11-16-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>it is an affirmative defense that the defendant, under circumstances manifesting a voluntary and complete renunciation of criminal intent,
+(A) terminated the defendant's complicity before the commission of the offense;
+(B) wholly deprived the defendant's complicity of its effectiveness in the commission of the offense; and
+(C) gave timely warning to law enforcement authorities or, if timely warning could not be given to law enforcement authorities by reasonable efforts, otherwise made a reasonable effort to prevent the commission of the offense;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-16-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>it is not a defense that
+(A) the other person has not been prosecuted for or convicted of an offense based upon the conduct in question or has been convicted of a different offense or degree of offense;
+(B) the offense, as defined, can be committed only by a particular class of persons to which the defendant does not belong, and the defendant is for that reason legally incapable of committing the offense in an individual capacity; or
+(C) the other person is not guilty of the offense.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-16-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided by a provision of law defining an offense, a person is not legally accountable for the conduct of another constituting an offense if</p>
+              </content>
+              <paragraph eId="11-16-120__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the person is the victim of the offense; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-16-120__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the offense is so defined that the person's conduct is inevitably incidental to its commission.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_11-16-130">
+            <num>11.16.130</num>
+            <heading>Legal accountability of organizations.</heading>
+            <subsection eId="11-16-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise expressly provided, an organization is legally accountable for conduct constituting an offense if the conduct</p>
+              </content>
+              <paragraph eId="11-16-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is the conduct of its agent and
+(A) within the scope of the agent's employment and in behalf of the organization; or
+(B) is solicited, subsequently ratified, or subsequently adopted by the organization; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="11-16-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>consists of an omission to discharge a specific duty of affirmative performance imposed on organizations by law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="11-16-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section agent means a director, officer, or employee of an organization or any other person who is authorized to act in behalf of the organization.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

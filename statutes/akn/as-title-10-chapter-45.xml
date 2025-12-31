@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-10/chapter-45"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-10/chapter-45"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="10.45"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-10/chapter-45/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-10/chapter-45/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-10/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-10/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_10">
+        <num>10</num>
+        <heading>Corporations and Associations</heading>
+        <chapter eId="title_10__chp_45">
+          <num>45</num>
+          <heading>Professional Corporation Act</heading>
+          <section eId="sec_10-45-010">
+            <num>10.45.010</num>
+            <heading>Incorporation.</heading>
+            <subsection eId="10-45-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>One or more persons each of whom is licensed to render a professional service in this state may incorporate a professional corporation by filing articles of incorporation with the Department of Commerce, Community, and Economic Development.  The articles shall meet the requirements of
+AS 10.06
+(Alaska Corporations Code) and, in addition, must include</p>
+              </content>
+              <paragraph eId="10-45-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name of the profession to be practiced by the corporation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="10-45-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the names and addresses of all original shareholders, directors, and officers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="10-45-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the address where the professional corporation will have its office.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="10-45-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A certificate from the regulatory board of the profession involved certifying that each of the incorporators, directors, and shareholders is licensed to practice the profession shall be filed with the articles of incorporation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_10-45-020">
+            <num>10.45.020</num>
+            <heading>Rendering professional service and charging fees.</heading>
+            <content>
+              <p>Sec. 10.45.020.   Rendering professional service and charging fees.
+A professional corporation may render one type of professional service only.  It may charge fees for the services of its directors, officers, employees, or agents, collect the fees, and compensate those who render the services.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-030">
+            <num>10.45.030</num>
+            <heading>Who may render professional service.</heading>
+            <content>
+              <p>Sec. 10.45.030.   Who may render professional service.
+A professional corporation incorporated under this chapter may not render professional services except through the persons who are licensed within the state to render the same type of professional services as the corporation and who are its shareholders, directors, officers, employees, or agents.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-040">
+            <num>10.45.040</num>
+            <heading>Prohibition against engaging in business; property and investments.</heading>
+            <content>
+              <p>Sec. 10.45.040.   Prohibition against engaging in business; property and investments.
+A professional corporation may not engage in business; however, it may own real and personal property necessary for or appropriate in rendering its own professional services and may invest its funds in all types of investments.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-050">
+            <num>10.45.050</num>
+            <heading>Issuance of shares.</heading>
+            <content>
+              <p>Sec. 10.45.050.   Issuance of shares.
+A professional corporation may issue shares of its capital stock to persons licensed by a regulatory board of the state to render the professional service specified in the articles of incorporation, or to a revocable or joint revocable trust if a settlor of the trust is a person licensed by a regulatory board of the state to render the professional service specified in the articles of incorporation. It may not issue shares to any other person or trust.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-060">
+            <num>10.45.060</num>
+            <heading>Qualifications of director, officer, or shareholder.</heading>
+            <content>
+              <p>Sec. 10.45.060.   Qualifications of director, officer, or shareholder.
+A person may not be a director or officer of a professional corporation if the person is not a shareholder of that corporation.  A person may not be a shareholder, director, or officer of more than one professional corporation at one time.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-070">
+            <num>10.45.070</num>
+            <heading>Management by directors; authority of officers and shareholders.</heading>
+            <subsection eId="10-45-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The management of a professional corporation shall be vested in the board of directors which shall have the continuing exclusive authority to make the management decisions necessary to the conduct of the profession for which the professional corporation is formed.  The officers of the corporation, who shall be elected by the board of directors, have such power and authority to represent the board as the board from time to time expressly or impliedly grants.  A shareholder does not have power to bind the corporation within the scope of the corporation's activities merely by virtue of being a shareholder.</p>
+              </content>
+            </subsection>
+            <subsection eId="10-45-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A professional corporation that has only one or two shareholders may manage its affairs by directors only, who shall be the shareholders.  The one or two shareholders may fill all the general offices of the corporation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_10-45-080">
+            <num>10.45.080</num>
+            <heading>Transfer of shares.</heading>
+            <content>
+              <p>Sec. 10.45.080.   Transfer of shares.
+A shareholder of a professional corporation may sell or transfer shares in the professional corporation only to another individual licensed to render the same professional service as that for which the professional corporation was formed.  The articles of incorporation may provide specifically for restraints on the alienation of shares and may require the purchase, redemption, or retirement of shares by the corporation at a price and in a manner set out in the articles.  The articles may authorize the corporation's board of directors or its shareholders to adopt bylaws restraining the alienation of shares and providing for their purchase, redemption, or retirement by the corporation.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-090">
+            <num>10.45.090</num>
+            <heading>Voting by proxy.</heading>
+            <content>
+              <p>Sec. 10.45.090.   Voting by proxy.
+A proxy may be given to a licensed shareholder of the same corporation to vote the shares of the professional corporation.  No other person may be given a proxy.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-100">
+            <num>10.45.100</num>
+            <heading>Voting trust prohibited.</heading>
+            <content>
+              <p>Sec. 10.45.100.   Voting trust prohibited.
+A voting trust may not be formed to vote the shares of a professional corporation.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-110">
+            <num>10.45.110</num>
+            <heading>Holding stock, merging or consolidating with another professional corporation.</heading>
+            <content>
+              <p>Sec. 10.45.110.   Holding stock, merging or consolidating with another professional corporation.
+A professional corporation may not hold stock in another professional corporation, or merge or consolidate with a foreign professional corporation.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-120">
+            <num>10.45.120</num>
+            <heading>Corporate name.</heading>
+            <subsection eId="10-45-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The corporate name of a professional corporation shall contain the last name of one or more of its shareholders, unless the regulations of a particular regulating board or the ethics of a profession permit the use of a corporate name which does not include the surname of any present or former shareholder.  The corporate name shall be ended by the word Corporation, Incorporated, or Limited, or by the abbreviation Corp., Inc., or Ltd., or by the words, a professional corporation, or by the abbreviation P.C.</p>
+              </content>
+            </subsection>
+            <subsection eId="10-45-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The corporate name of a professional corporation must be distinguishable on the records of the Department of Commerce, Community, and Economic Development from the name of any other organized entity and from a reserved or registered name. The Department of Commerce, Community, and Economic Development may adopt regulations to implement this subsection. In this subsection, organized entity and reserved or registered name have the meanings given in
+AS 10.35.040
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_10-45-130">
+            <num>10.45.130</num>
+            <heading>Change or alteration of corporate name.</heading>
+            <content>
+              <p>Sec. 10.45.130.   Change or alteration of corporate name.
+When a person whose name is part of a corporate name ceases to be a shareholder, the corporation shall alter its name to reflect this change; however, a professional corporation may retain the name of a retired or deceased shareholder in its corporate name if the regulations of a particular regulating board or the ethics of a profession permit it.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-133">
+            <num>10.45.133</num>
+            <heading>Continuity of life.</heading>
+            <content>
+              <p>Sec. 10.45.133.   Continuity of life.
+Unless the articles of incorporation expressly provide otherwise, a professional corporation shall continue as a separate entity independent of its shareholders for all purposes and for the period of time provided in the articles or until dissolved by a vote of two-thirds of the shareholders. A professional corporation shall continue notwithstanding the death, insanity, incompetency, conviction for felony, resignation, withdrawal, transfer of ownership of shares, retirement, or expulsion of any one or more of the shareholders, the transfer of shares to a new shareholder, or the happening of any other event that under the law of this state and under like circumstances would work a dissolution of a partnership.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-136">
+            <num>10.45.136</num>
+            <heading>No shareholder power to dissolve.</heading>
+            <content>
+              <p>Sec. 10.45.136.   No shareholder power to dissolve.
+A shareholder of a professional corporation does not have the power to dissolve the corporation by an independent act of any kind.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-140">
+            <num>10.45.140</num>
+            <heading>Professional relationship and liabilities.</heading>
+            <subsection eId="10-45-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provisions of this chapter do not modify the law applicable to the relationship between a person furnishing professional service and a person receiving the service, including liability arising out of the professional service, and including any confidential relationship between the person rendering the professional service and the person receiving the service.</p>
+              </content>
+            </subsection>
+            <subsection eId="10-45-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in (a) of this section, a shareholder of a professional corporation organized under this chapter is not individually liable for the debts of or the claims against the corporation unless the debt or claim arises as a result of a wrongful act or omission of the shareholder.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_10-45-180">
+            <num>10.45.180</num>
+            <heading>Authority and duty of regulatory boards not limited.</heading>
+            <content>
+              <p>Sec. 10.45.180.   Authority and duty of regulatory boards not limited.
+This chapter does not restrict or limit the authority and duty of the regulatory boards for the licensing of persons rendering professional services or for the practice of the profession that is within the jurisdiction of the boards.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-190">
+            <num>10.45.190</num>
+            <heading>Professional acts limited.</heading>
+            <content>
+              <p>Sec. 10.45.190.   Professional acts limited.
+A professional corporation may not do any act that is prohibited to a person licensed to practice a profession that the professional corporation renders.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-200">
+            <num>10.45.200</num>
+            <heading>Legal disqualification of corporate personnel.</heading>
+            <content>
+              <p>Sec. 10.45.200.   Legal disqualification of corporate personnel.
+If a shareholder, director, officer, employee, or agent of a professional corporation is legally disqualified to render professional service in this state, or is elected or appointed to a public office which under law restricts or limits the rendering of professional services, that person shall sever all employment and financial interest in the professional corporation immediately.  The failure of the directors or officers to require compliance with this section is sufficient ground for the forfeiture of the corporate franchise.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-210">
+            <num>10.45.210</num>
+            <heading>Disposal of shares of legally disqualified shareholder.</heading>
+            <content>
+              <p>Sec. 10.45.210.   Disposal of shares of legally disqualified shareholder.
+A professional corporation may provide in its articles of incorporation that the shares of a legally disqualified shareholder may be sold only to other shareholders or licensed persons of the same profession, or it may provide for the purchase, redemption, or retirement of the shares by the corporation out of capital as well as surplus funds and without regard to the impairment of its capital.  If there is no provision for the disposal of the shares and the legally disqualified shareholder has not disposed of the shares as required under
+AS 10.45.200
+, the corporation shall purchase, redeem, or retire the shares out of capital as well as surplus funds without regard to the impairment of its capital within 30 days after the disqualification occurs.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-220">
+            <num>10.45.220</num>
+            <heading>Shares of deceased shareholder.</heading>
+            <subsection eId="10-45-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A professional corporation may provide for the disposal of the shares of a deceased shareholder in its articles of incorporation or bylaws, or its shareholders may provide for their disposal by private agreement.  If there is no provision or private agreement, the shares shall first be offered for sale to the remaining shareholders by the personal representative of the deceased shareholder's estate at a price not to exceed their book value, and, if not sold, then offered and sold to any licensed person of the same profession as the corporation without obtaining the approval of the remaining shareholders.  If the shares are not disposed of within six months from the date of the death of the shareholder, the corporation shall call a special meeting of its shareholders and shall decide by a majority vote of the remaining shareholders whether or not the corporation purchases, redeems, or retires the shares at book value or lesser price if agreed, or files for a dissolution of the corporation. At the special meeting the shares of the deceased shareholder may not be voted on or counted for any purpose, unless the deceased shareholder was the sole shareholder.</p>
+              </content>
+            </subsection>
+            <subsection eId="10-45-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If there is only one shareholder and the shares held by the deceased shareholder are not disposed of within six months after death, the legal representative, legatees, or distributees of the deceased shareholder shall either</p>
+              </content>
+              <paragraph eId="10-45-220__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>liquidate the professional corporation; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="10-45-220__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>amend its articles of incorporation so that the professional corporation may continue in existence as a business corporation under
+AS 10.06
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_10-45-230">
+            <num>10.45.230</num>
+            <heading>Determination of value of shares.</heading>
+            <content>
+              <p>Sec. 10.45.230.   Determination of value of shares.
+If the articles of incorporation or bylaws of a professional corporation do not provide a price or method of determining a price at which the corporation may purchase, redeem, or retire the shares, or that its shareholders may purchase the shares of a deceased shareholder or a shareholder no longer qualified to own shares in the corporation, then the price for the shares shall be the book value as of the end of the month preceding the death or disqualification of the shareholder. Book value shall be determined from the books and records of the corporation in accordance with the regular method of accounting used by the corporation.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-240">
+            <num>10.45.240</num>
+            <heading>Applicability of Alaska Corporations Code and Alaska Entity Transactions Act.</heading>
+            <content>
+              <p>Sec. 10.45.240.   Applicability of Alaska Corporations Code and Alaska Entity Transactions Act.
+The Alaska Corporations Code, including the provision in
+AS 10.06.595
+that allows, with exceptions, corporations to enter into mergers, interest exchanges, conversions, and domestications under
+AS 10.55
+(Alaska Entity Transactions Act), is applicable to professional corporations, and they enjoy the powers and privileges and are subject to the duties, restrictions, and liabilities of other corporations, except when inconsistent with this chapter. This chapter takes precedence in the event of a conflict with provisions of the Alaska Corporations Code or other laws.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-500">
+            <num>10.45.500</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 10.45.500.   Definitions.
+In this chapter,
+(1) employee means a licensed person employed by a professional corporation to render the type of professional service for which the corporation was organized;
+(2) professional corporation means a corporation organized under this chapter to render a professional service;
+(3) professional person means a person licensed to render a professional service;
+(4) professional service means a type of highly skilled, technical, and specialized personal service rendered to the public by persons licensed by the state;
+(5) regulatory board means an agency of the state having jurisdiction to grant a license to render professional service.</p>
+            </content>
+          </section>
+          <section eId="sec_10-45-510">
+            <num>10.45.510</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 10.45.510.   Short title.
+This chapter may be cited as the Professional Corporation Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

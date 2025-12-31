@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-23"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-23"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.23"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-23/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-23/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-23/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-23/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_23">
+          <num>23</num>
+          <heading>Risk management and insurance data security</heading>
+          <section eId="sec_21-23-010">
+            <num>21.23.010</num>
+            <heading>Risk management framework.</heading>
+            <content>
+              <p>Sec. 21.23.010.   Risk management framework.
+An insurer shall maintain a risk management framework to assist the insurer with identifying, assessing, monitoring, managing, and reporting on its material and relevant risks. This requirement may be satisfied if the insurance group of which the insurer is a member maintains a risk management framework applicable to the operations of the insurer.</p>
+            </content>
+          </section>
+          <section eId="sec_21-23-020">
+            <num>21.23.020</num>
+            <heading>Own risk and solvency assessment requirement.</heading>
+            <content>
+              <p>Sec. 21.23.020.   Own risk and solvency assessment requirement.
+Unless exempted under
+AS 21.23.040
+, an insurer or the insurance group of which the insurer is a member shall conduct an own risk and solvency assessment consistent with the own risk and solvency assessment guidance manual
+(1) annually; and
+(2) when significant changes to the risk profile of the insurer or the insurance group of which the insurer is a member occur.</p>
+            </content>
+          </section>
+          <section eId="sec_21-23-030">
+            <num>21.23.030</num>
+            <heading>Own risk and solvency assessment summary report.</heading>
+            <subsection eId="21-23-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If requested by the director, an insurer shall submit an own risk and solvency assessment summary report or any combination of reports that together contain the information described in the own risk and solvency assessment guidance manual that is applicable to the insurer or the insurance group of which the insurer is a member. The director may not request more than one report a year. The insurer shall submit the report to the director within 30 days after the request, unless the insurer requests an extension in writing and the director grants the request. If an insurer is a member of an insurance group, the insurer shall submit the report required by this subsection at least annually if the director is the lead state regulator of the insurance group as determined by the procedures in the Financial Analysis Handbook adopted by the National Association of Insurance Commissioners.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For a report submitted under this section, an insurer's or insurance group's chief risk officer or other executive having responsibility for the oversight of the insurer's enterprise risk management process shall sign the report and attest, to the best of the officer's or executive's belief and knowledge, that the insurer applies the enterprise risk management process described in the report and that a copy of the report has been provided to the insurer's board of directors or the appropriate committee of the board.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An insurer may comply with (a) of this section by providing the most recent and substantially similar report or reports provided by the insurer or another member of the insurance group of which the insurer is a member to the insurance regulator of another state or a foreign jurisdiction, if that report provides information that is comparable to the information described in the own risk and solvency assessment guidance manual. A report in a language other than English must be accompanied by a translation of that report into the English language.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-040">
+            <num>21.23.040</num>
+            <heading>Exemptions.</heading>
+            <subsection eId="21-23-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An insurer is exempt from the requirements
+AS 21.23.010
+ 21.23.090 if</p>
+              </content>
+              <paragraph eId="21-23-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the insurer has annual direct written and unaffiliated assumed premium, including international direct and assumed premium but excluding premiums reinsured with the Federal Crop Insurance Corporation and the National Flood Insurance Program, of less than $500,000,000; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the insurance group of which the insurer is a member has annual direct written and unaffiliated assumed premium, including international direct and assumed premium, but excluding premiums reinsured with the Federal Crop Insurance Corporation and the National Flood Insurance Program, of less than $1,000,000,000.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an insurer qualifies for an exemption under (a)(1) of this section, but the insurance group of which the insurer is a member does not qualify for an exemption under (a)(2) of this section, then the own risk and solvency assessment summary report required under
+AS 21.23.030
+must include every insurer in the insurance group. This requirement may be satisfied by the submission of more than one own risk and solvency assessment summary report for a combination of insurers provided the combination of reports includes every insurer within the insurance group.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If an insurer does not qualify for exemption under (a)(1) of this section, but the insurance group of which the insurer is a member qualifies for exemption under (a)(2) of this section, then the only own risk and solvency assessment summary report that may be required under
+AS 21.23.030
+is the report applicable to that insurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An insurer that does not qualify for exemption under (a) of this section may apply to the director for a waiver from the requirements
+AS 21.23.010
+ 21.23.090 based on unique circumstances. In deciding whether to grant a request for a waiver, the director may consider the type and volume of business written, ownership and organizational structure, and any other factor that the director considers relevant to the insurer or insurance group of which the insurer is a member. If the insurer is part of an insurance group with insurers domiciled in more than one state, the director shall coordinate with the lead state regulator and with the other domiciliary regulators in considering whether to grant the insurer's request for a waiver.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding the exemptions stated in this section, the director may require that an insurer maintain a risk management framework, conduct an own risk and solvency assessment, and file an own risk and solvency assessment summary report</p>
+              </content>
+              <paragraph eId="21-23-040__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>based on unique circumstances, including the type and volume of business written, ownership and organizational structure, federal agency requests, and international supervisor requests;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-040__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the insurer has risk based capital for company action level event as set out in
+AS 21.14
+, meets one or more of the standards of an insurer considered to be impaired or in imminent danger of becoming impaired as defined in
+AS 21.97.900
+and in regulations adopted by the director, or otherwise exhibits qualities of a troubled insurer as determined by the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-040__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If an insurer that qualified for an exemption under (a) of this section no longer qualifies for that exemption because of changes in premium as reflected in the insurer's most recent annual statement or in the most recent annual statements of the insurers within the insurance group of which the insurer is a member, the insurer shall comply with the requirements
+AS 21.23.010
+ 21.23.090 within one year after the year the threshold in (a) of this section is exceeded.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-050">
+            <num>21.23.050</num>
+            <heading>Contents of own risk and solvency assessment summary report.</heading>
+            <subsection eId="21-23-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The own risk and solvency assessment summary report under
+AS 21.23.030
+must be prepared in compliance with the own risk and solvency assessment guidance manual, subject to the requirements of (b) of this section. The insurer shall maintain documentation and supporting information relating to the assessment and make the documentation and information available on examination or on request of the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director shall use the procedures currently used in the analysis and examination of multistate or global insurers and insurance groups when reviewing the report and additional requests for information.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-060">
+            <num>21.23.060</num>
+            <heading>Confidentiality.</heading>
+            <content>
+              <p>Sec. 21.23.060.   Confidentiality.
+Documents, materials, or other information, including the own risk and solvency assessment summary report, that are obtained by, created by, or disclosed to the director or another person under this chapter are confidential and are considered trade secrets and proprietary business information subject to
+AS 21.06.060
+and
+AS 21.22.120
+. A third-party consultant is subject to the information sharing requirements of
+AS 21.22.120
+(b).</p>
+            </content>
+          </section>
+          <section eId="sec_21-23-070">
+            <num>21.23.070</num>
+            <heading>Penalties.</heading>
+            <content>
+              <p>Sec. 21.23.070.   Penalties.
+An insurer shall pay $1,000 for each day the insurer fails to file the report within the time required in
+AS 21.23.030
+(a), not to exceed $365,000. The director may reduce the penalty under this section if the insurer demonstrates to the director that the imposition of the penalty is a financial hardship to the insurer.</p>
+            </content>
+          </section>
+          <section eId="sec_21-23-080">
+            <num>21.23.080</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 21.23.080.   Regulations.
+The director may adopt regulations to implement, define, and enforce the provisions
+AS 21.23.010
+ 21.23.090.</p>
+            </content>
+          </section>
+          <section eId="sec_21-23-090">
+            <num>21.23.090</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 21.23.090.   Definitions.
+In
+AS 21.23.010
+ 21.23.090,
+(1) insurance group means those insurers and affiliates included in an insurance holding company system as defined in
+AS 21.22.200
+;
+(2) insurer has the meaning given in
+AS 21.97.900
+, except that it does not include agencies, authorities, or instrumentalities of the United States or a possession or territory of the United States, the Commonwealth of Puerto Rico, the District of Columbia, or a state or political subdivision of a state;
+(3) own risk and solvency assessment means a confidential internal assessment, appropriate to the nature, scale, and complexity of an insurer or insurance group, conducted by that insurer or insurance group of the material and relevant risks associated with the insurer's or insurance group's current business plan and the sufficiency of capital resources to support those risks;
+(4) own risk and solvency assessment guidance manual means the Own Risk and Solvency Assessment Guidance Manual developed and most recently adopted by the National Association of Insurance Commissioners;
+(5) own risk and solvency assessment summary report means a confidential, high-level summary of an insurer's or insurance group's own risk and solvency assessment;
+(6) risk management framework means a set of internal policies or procedures that address an insurer's or insurance group's risk culture and governance, risk identification and prioritization, risk appetite, tolerance and limits, risk management controls, and risk reporting and communication as described in and most recently adopted by the own risk and solvency assessment guidance manual.
+Article 2. Insurance Data Security.</p>
+            </content>
+          </section>
+          <section eId="sec_21-23-240">
+            <num>21.23.240</num>
+            <heading>Purpose and construction.</heading>
+            <subsection eId="21-23-240__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>AS 21.23.240
+ 21.23.399 establish the exclusive state standard for data security for licensees and govern the investigation and notification of a cybersecurity event.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-240__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>AS 21.23.240
+ 21.23.399 may not be construed to</p>
+              </content>
+              <paragraph eId="21-23-240__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>create or imply a private cause of action for violation of
+AS 21.23.240
+ 21.23.399; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-240__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>prevent a private cause of action that would otherwise exist in the absence of
+AS 21.23.240
+ 21.23.399.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-250">
+            <num>21.23.250</num>
+            <heading>Risk assessment.</heading>
+            <subsection eId="21-23-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A licensee shall conduct a risk assessment commensurate with the size and complexity of the licensee and in consideration of the nature and scope of the licensee's activities to evaluate the security and confidentiality of nonpublic information used by or in the possession or control of the licensee. In conducting the risk assessment, the licensee shall</p>
+              </content>
+              <paragraph eId="21-23-250__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>identify reasonably foreseeable internal or external threats in each area of the licensee's operations that could result in unauthorized access, transmission, disclosure, misuse, alteration, or destruction of nonpublic information, including the security of information systems and nonpublic information that are accessible to, or held by, third-party service providers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-250__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>assess the likelihood and potential damage of the threats identified in (1) of this subsection, taking into consideration the sensitivity of nonpublic information; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-250__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>assess the sufficiency in each area of the licensee's operations of the licensee's policies, procedures, information systems, and other safeguards in place to manage the threats identified in (1) of this subsection, including the areas of
+(A) employee training and management;
+(B) network and software design, information classification, governance, processing, storage, transmission, and disposal; and
+(C) detecting, preventing, and responding to attacks or intrusions on information systems and nonpublic information, or other information system failures.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A licensee shall use the licensee's risk assessment to design the licensee's information security program required under
+AS 21.23.260
+(a).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-260">
+            <num>21.23.260</num>
+            <heading>Information security program.</heading>
+            <subsection eId="21-23-260__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>[Effective January 1, 2026.]  A licensee shall develop, implement, and maintain a comprehensive written information security program based on the licensee's risk assessment conducted under
+AS 21.23.250
+(a). A licensee shall designate one or more employees, an outside vendor, or a third-party service provider to act on behalf of the licensee as the person responsible for the licensee's information security program.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-260__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Effective January 1, 2026.]  A licensee's information security program must</p>
+              </content>
+              <paragraph eId="21-23-260__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>contain administrative, technical, and physical safeguards to protect the security and confidentiality of nonpublic information and the security of the licensee's information system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>protect against a threat or hazard to the security or integrity of nonpublic information and the information system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>protect against unauthorized access to or use of nonpublic information and minimize the likelihood of harm to a consumer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>establish and periodically reevaluate a schedule for retention of nonpublic information; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>establish and implement a mechanism for the destruction of nonpublic information when the information is no longer needed.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-260__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In developing, implementing, and maintaining a licensee's information security program, the licensee shall</p>
+              </content>
+              <paragraph eId="21-23-260__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>[Effective January 1, 2026.]  based on the licensee's risk assessment conducted under
+AS 21.23.250</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>[Effective January 1, 2026.]  determine the cybersecurity risks to include in the licensee's risk management process;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>[Effective January 1, 2026.]  stay informed of emerging threats or vulnerabilities and, when sharing information, use reasonable security measures in accordance with the character of the sharing and the type of information shared;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>[Effective January 1, 2026.]  include cybersecurity risks in the licensee's enterprise risk management process;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>[Effective January 1, 2026.]  provide personnel of the licensee with cybersecurity awareness training that is updated as necessary to reflect the risks identified in the risk assessment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>[Effective January 1, 2026.]  implement information safeguards to manage the threats identified in a risk assessment, and, not less than once a year, assess the effectiveness of the key controls, information systems, and procedures of the safeguards;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>[Effective January 1, 2027.]  exercise due diligence in selecting a third-party service provider;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>[Effective January 1, 2027.]  where appropriate, require a third-party service provider to implement appropriate administrative, technical, and physical measures to protect and secure the information systems and nonpublic information that are accessible to, or held by, the third-party service provider; for purposes of this paragraph, encrypted nonpublic information is not considered accessible to, or held by, the third-party service provider if the associated protective process or key necessary to assign meaning to the nonpublic information is not within the possession of the third-party service provider;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_c__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>[Effective January 1, 2026.]  require that a third-party service provider that has access to or holds nonpublic information notify the licensee as soon as possible but not later than 10 business days after determining that the third-party service provider has experienced a cybersecurity event involving nonpublic information associated with a consumer; for purposes of this paragraph, encrypted nonpublic information is considered accessible to or held by the third-party service provider if the associated protective process or key necessary to assign meaning to the nonpublic information is within the possession of the third-party service provider;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_c__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>[Effective January 1, 2026.]  monitor, evaluate, and adjust, as appropriate, the information security program consistent with relevant changes in technology, the sensitivity of its nonpublic information, internal or external threats to nonpublic information, and the licensee's own changing business arrangements, including mergers, acquisitions, alliances, joint ventures, outsourcing arrangements, and changes to information systems; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_c__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>[Effective January 1, 2026.]  establish a written incident response plan designed to promptly respond to, and recover from, a cybersecurity event that compromises the confidentiality, integrity, or availability of nonpublic information in the licensee's possession, the licensee's information systems, or the continuing functionality of an aspect of the licensee's business or operations; the incident response plan must address the following:
+(A) the internal process for responding to a cybersecurity event;
+(B) the goals of the incident response plan;
+(C) the definition of clear roles, responsibilities, and levels of decision-making authority;
+(D) the licensee's internal process used for external and internal communication and information sharing;
+(E) the identification of requirements for the remediation of an identified weakness in information systems and associated controls;
+(F) the documentation and reporting of cybersecurity events and related incident response activities; and
+(G) the evaluation and revision as necessary of the incident response plan following a cybersecurity event.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-260__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Effective January 1, 2026.]  A licensee's board of directors or an appropriate committee of the licensee's board of directors shall, at a minimum, require that</p>
+              </content>
+              <paragraph eId="21-23-260__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the licensee's executive management or the executive management's delegate develop, implement, and maintain the licensee's information security program; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>at least once a year, the licensee's executive management or the executive management's delegate report to the licensee's board of directors or an appropriate committee of the licensee's board of directors the following in writing:
+(A) the overall status of the information security program and the licensee's compliance with
+AS 21.23.240
+ 21.23.399; and
+(B) material matters related to the information security program, including risk assessment, risk management and control decisions, third-party service provider arrangements, results of testing, cybersecurity events or violations, management's responses to the cybersecurity events or violations, and recommendations for changes in the information security program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-260__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a licensee's executive management meets a requirement under (d) of this section through a delegate, the executive management shall oversee the development, implementation, and maintenance of the licensee's information security program prepared by the delegate. The delegate shall provide a report to the executive management that complies with the requirements of (d)(2) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-260__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Each licensee who is an insurer domiciled in this state shall</p>
+              </content>
+              <paragraph eId="21-23-260__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>submit to the director a written statement by February 15 of each year certifying that the insurer is in compliance with the requirements under
+AS 21.23.250
+and this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>maintain and allow the director to examine for a period of five years after the insurer submits the written statement described in (1) of this subsection all records, schedules, and data supporting the written statement; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>provide documentation of any areas, information systems, or processes that the insurer has identified as requiring material improvement, updating, or redesign, and provide documentation of the remedial efforts planned and underway to address the areas, information systems, or processes; the insurer shall make the documentation available for examination by the director at the director's request.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-260__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>[Effective January 1, 2026.]  In this section,</p>
+              </content>
+              <paragraph eId="21-23-260__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>authorized individual means an individual known to and screened by the licensee and for whom the licensee has determined access to the nonpublic information held by the licensee and its information systems is appropriate and necessary;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-260__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>multi-factor authentication means authentication through verification of at least two of the following types of authentication factors:
+(A) a knowledge factor, including a password;
+(B) a possession factor, including a token or text message on a mobile telephone; or
+(C) an inherence factor, including a biometric characteristic.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-270">
+            <num>21.23.270</num>
+            <heading>Investigation of cybersecurity event.</heading>
+            <subsection eId="21-23-270__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a licensee becomes aware that a cybersecurity event has or may have occurred, the licensee or an outside vendor or third-party service provider designated to act on behalf of the licensee shall promptly investigate the cybersecurity event. During the investigation, if the licensee, outside vendor, or third-party service provider determines that a cybersecurity event has occurred, the licensee, outside vendor, or third-party service provider shall, to the extent possible,</p>
+              </content>
+              <paragraph eId="21-23-270__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>assess the nature and scope of the cybersecurity event;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-270__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>identify nonpublic information that may have been involved in the cybersecurity event; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-270__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>perform or oversee reasonable measures to restore the security of the information systems compromised in the cybersecurity event to prevent further unauthorized acquisition, release, or use of nonpublic information in the licensee's possession or control.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-270__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a licensee becomes aware that a cybersecurity event has or may have occurred in an information system maintained by a third-party service provider, the licensee shall, to the extent possible, complete the actions described in (a) of this section or confirm and document that the third-party service provider has completed those actions.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-270__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A licensee shall maintain records concerning all cybersecurity events for a period of at least five years from the date of the cybersecurity event and shall produce the records at the request of the director.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-280">
+            <num>21.23.280</num>
+            <heading>Notification of cybersecurity event.</heading>
+            <subsection eId="21-23-280__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless a federal law enforcement official instructs the licensee not to distribute information regarding a cybersecurity event, a licensee shall notify the director as soon as possible and not later than three business days after the licensee determines that a cybersecurity event has occurred, if</p>
+              </content>
+              <paragraph eId="21-23-280__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the licensee is an insurer and domiciled in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the licensee is an insurance producer and this state is the licensee's home state as defined in
+AS 21.27.990
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the licensee reasonably believes that the cybersecurity event involves the nonpublic information of 250 or more consumers residing in this state and the cybersecurity event
+(A) affects the licensee, and a state or federal law requires the licensee to provide notice of the cybersecurity event to a government agency; or
+(B) has a reasonable likelihood of materially harming a consumer residing in this state or a material part of the normal operation of the licensee.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-280__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To the greatest extent possible and in a form and format prescribed by the director, the notification to the director under (a) of this section must include the following information:</p>
+              </content>
+              <paragraph eId="21-23-280__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the date of the cybersecurity event;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a description of how nonpublic information was exposed, lost, stolen, or breached, including the specific roles and responsibilities of third-party service providers, if any;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an explanation of how the cybersecurity event was discovered;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>whether the lost, stolen, or breached nonpublic information has been recovered and, if so, how the nonpublic information was recovered;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the identity of the source of the cybersecurity event;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>whether the licensee has filed a police report, or has notified a regulatory, government, or law enforcement agency about the cybersecurity event and, if so, the time and date that the licensee notified the agency;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>a description of the specific types of information acquired without authorization, such as medical information, financial information, or information allowing identification of the consumer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the period during which the information system was compromised by the cybersecurity event;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>the number of total consumers in this state affected by the cybersecurity event; the licensee shall provide the licensee's best estimate in the licensee's initial notification to the director under (a) of this section, and shall update the estimate with each subsequent notification to the director under (c) of this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>the results of an internal review identifying a lapse in either the licensee's automated controls or internal procedures or confirming that the licensee followed all automated controls or internal procedures;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>a description of efforts the licensee is taking or has taken to remediate the situation that permitted the cybersecurity event to occur;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>a copy of the licensee's privacy policy and a statement outlining the steps the licensee will take to investigate and notify consumers affected by the cybersecurity event; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_b__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>the name of a contact person who is familiar with the cybersecurity event and authorized to act on behalf of the licensee.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-280__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>After a licensee provides notice of a cybersecurity event to the director under (a) of this section, the licensee shall, in a form, format, and frequency prescribed by the director, update and supplement the information provided under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-280__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In addition to the requirements of this section, a licensee shall comply with all applicable provisions of
+AS 45.48
+(Alaska Personal Information Protection Act). If a licensee is required to notify the director of a cybersecurity event under (a) of this section and is also required to provide notice under
+AS 45.48
+, the licensee shall provide to the director a copy of the notice sent to consumers under
+AS 45.48
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-280__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Unless a third-party service provider of a licensee notifies the director, if the licensee becomes aware of a cybersecurity event that affects an information system maintained by the third-party service provider, the licensee shall comply with the requirements of this section to the greatest extent possible. For purposes of this subsection, the time prescribed in (a) of this section begins the day after the third-party service provider notifies the licensee of the cybersecurity event or the day after the date the licensee has actual knowledge of the cybersecurity event, whichever is earlier.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-280__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A licensee acting as an assuming insurer that determines that a cybersecurity event has occurred shall, not later than three business days after the determination, notify the licensee's affected ceding insurers and the insurance supervisory official of the licensee's state of domicile if</p>
+              </content>
+              <paragraph eId="21-23-280__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the cybersecurity event involves nonpublic information and the nonpublic information is information used by or in the possession or control of the licensee acting as an assuming insurer; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the licensee does not have a direct contractual relationship with a consumer affected by the cybersecurity event.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-280__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A licensee acting as an assuming insurer that receives notification from the licensee's third-party service provider that a cybersecurity event has occurred shall, not later than three business days after receiving notification, notify the licensee's affected ceding insurers and the insurance supervisory official of the licensee's state of domicile if the cybersecurity event involves nonpublic information and the nonpublic information is in the possession or control of the third-party service provider.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-280__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Except as provided in (f) and (g) of this section, a licensee acting as an assuming insurer does not have other notice obligations relating to a cybersecurity event under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-280__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A licensee that is an insurer and that becomes aware that a cybersecurity event involving nonpublic information has occurred shall, as soon as possible and in a form and format prescribed by the director, notify each independent insurance producer of record of a consumer affected by the cybersecurity event if</p>
+              </content>
+              <paragraph eId="21-23-280__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the nonpublic information is in the possession or control of the licensee or the licensee's third-party service provider;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the consumer accessed the insurer's services through the producer; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the insurer has the current producer of record information for the consumer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-280__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>An insurer shall notify an insurance producer of a cybersecurity event involving nonpublic information, not later than the date the notice is provided to the affected consumers, if</p>
+              </content>
+              <paragraph eId="21-23-280__subsec_j__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the nonpublic information is in the possession or control of a licensee that is an insurer or the licensee's third-party service provider;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_j__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the consumer accessed the insurer's services through an insurance producer; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_j__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the insurer is required to notify affected consumers under
+AS 21.23.240
+ 21.23.399 or
+AS 45.48
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-280__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>An insurer is exempt from notifying an insurance producer under (j) of this section if</p>
+              </content>
+              <paragraph eId="21-23-280__subsec_k__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the producer is not authorized by law or contract to sell, solicit, or negotiate on behalf of the insurer; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-280__subsec_k__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the insurer does not have the current producer information for an affected consumer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-290">
+            <num>21.23.290</num>
+            <heading>Confidentiality.</heading>
+            <subsection eId="21-23-290__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any document, material, or information in the possession or control of the division that is provided by a licensee or an employee or agent acting on behalf of a licensee under
+AS 21.23.260</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-290__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>or 21.23.280(b)(2)  (5), (8), (10), or (11) or that is obtained by the director in an investigation or examination under
+AS 21.23.310</p>
+              </content>
+              <paragraph eId="21-23-290__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is confidential and privileged;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-290__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is not subject to inspection and copying under
+AS 40.25.110
+ 40.25.220;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-290__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>may not be obtained by subpoena or discovery; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-290__subsec_f__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is not admissible in evidence in a private civil action.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-290__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director may use a document, material, or information described in (a) of this section in a regulatory or legal proceeding brought in the performance of the duties of the director under this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-290__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director or an individual acting under the authority of the director who receives a document, material, or information described in (a) of this section may not testify about the document, material, or information in a private civil action.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-290__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In the performance of duties under
+AS 21.23.240
+ 21.23.399, the director</p>
+              </content>
+              <paragraph eId="21-23-290__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>may disclose a document, material, or information, including a document, material, or information that is confidential and privileged or subject to (a) of this section, to state, federal, and international regulatory or law enforcement agencies, or to the National Association of Insurance Commissioners and its affiliates or subsidiaries, if the recipient agrees in writing to maintain the confidentiality and privileged status of the document, material, or information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-290__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>may receive a document, material, or information, including a document, material, or information that is confidential and privileged, from the National Association of Insurance Commissioners and its affiliates or subsidiaries, and from state, federal, and international regulatory or law enforcement agencies; the director shall maintain as confidential or privileged the document, material, or information if the entity that provided the director with the document, material, or information requests the director to do so or gives notice to the director that the document, material, or information is confidential or privileged under the law of the jurisdiction supplying it;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-290__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>may disclose a document, material, or information that is subject to (a) of this section with a third-party service provider if the third-party service provider agrees in writing to maintain the confidentiality and privileged status of the document, material, or information; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-290__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>may enter into agreements consistent with this section governing the sharing and use of a document, material, or information that is confidential or privileged or subject to (a) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-290__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person does not waive a claim of privilege or confidentiality that the person possesses by providing a document, material, or information to the director under
+AS 21.23.240
+ 21.23.399 or by the disclosure, receipt, or sharing of a document, material, or information under (d) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-300">
+            <num>21.23.300</num>
+            <heading>Applicability.</heading>
+            <subsection eId="21-23-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>AS 21.23.250
+and 21.23.260 do not apply to</p>
+              </content>
+              <paragraph eId="21-23-300__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a licensee, including an independent contractor, with fewer than 10 employees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-300__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a licensee if the licensee is an employee, agent, representative, or designee of another licensee covered by an information security program.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>AS 21.23.240
+ 21.23.399 do not apply to a licensee subject to the Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191) if the licensee</p>
+              </content>
+              <paragraph eId="21-23-300__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>has established and maintains an information security program under statutes, regulations, procedures, or guidelines established under the Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-300__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is in compliance with the statutes, regulations, procedures, and guidelines established under the Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-300__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>submits to the director a written statement certifying that the licensee is in compliance with the statutes, regulations, procedures, and guidelines established under the Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a licensee no longer qualifies for an exception to the applicability of
+AS 21.23.240
+ 21.23.399 under this section, the licensee shall comply with
+AS 21.23.240
+ 21.23.399 within 180 days after the licensee no longer qualifies for the exception.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-310">
+            <num>21.23.310</num>
+            <heading>Enforcement; penalties.</heading>
+            <subsection eId="21-23-310__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to the director's power to examine or investigate under
+AS 21.06.120
+, the director may examine and investigate the affairs of a licensee to determine whether the licensee is or has been in violation of
+AS 21.23.240
+ 21.23.399. The director shall conduct an examination or investigation under this section following the same procedures applicable to an examination or investigation under
+AS 21.06.120
+. The director may take necessary or appropriate action to enforce
+AS 21.23.240
+ 21.23.399.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-310__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to any other penalty provided by law, a person who violates
+AS 21.23.240
+ 21.23.399 is subject to the penalties provided under
+AS 21.27.440
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-23-399">
+            <num>21.23.399</num>
+            <heading>Definitions.</heading>
+            <subsection eId="21-23-399__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the unauthorized acquisition of encrypted nonpublic information if the encryption's process or key is not also acquired, released, or used without authorization; or
+(ii) an event in which the licensee has determined that nonpublic information accessed by an unauthorized person has not been used or released and has been returned or destroyed;</p>
+              </content>
+              <paragraph eId="21-23-399__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>encrypt means transforming of data into a form that results in a low probability of assigning meaning without the use of a protective process or key;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-399__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>information security program means the administrative, technical, and physical safeguards that a licensee uses to access, collect, distribute, process, protect, store, use, transmit, dispose of, or otherwise handle nonpublic information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-399__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>information system means
+(A) a discrete set of electronic information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of electronic information; or
+(B) a specialized system that may include an industrial or process control system, a telephone switching and private branch exchange system, or an environmental control system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-399__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>licensee
+(A) means a person licensed, authorized to operate, or registered, or required to be licensed, authorized, or registered, under this title;
+(B) does not include a purchasing group or a risk retention group chartered and licensed in a state other than this state or a licensee that is acting as an assuming insurer that is domiciled in another state or jurisdiction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-399__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>nonpublic information means electronic information that is not publicly available information and that is
+(A) business-related information of a licensee, the tampering with which, or unauthorized disclosure, access, or use of which, would cause a material adverse effect to the business, operations, or security of the licensee;
+(B) information concerning a consumer that, because of a name, number, personal mark, or other identifier, can be used to identify the consumer in combination with one or more of the following data elements:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-23-399__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a social security number;
+(ii) a driver's license number or identification card number;
+(iii) a financial account, credit card, or debit card number;
+(iv) a security code, access code, or password that would permit access to a consumer's financial account; or</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-399__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>a biometric record; or
+(C) information or data, except age or gender, in any form created by or derived from a health care provider or a consumer that can be used to identify a particular consumer and relates to</p>
+              </content>
+            </subsection>
+            <subsection eId="21-23-399__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the past, present, or future physical, mental, or behavioral health or condition of a consumer or a member of the consumer's family;
+(ii) the provision of health care to a consumer; or
+(iii) payment for the provision of health care to a consumer;</p>
+              </content>
+              <paragraph eId="21-23-399__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>person means an individual or a nongovernmental entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-399__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>publicly available information means information that a licensee has determined is made available to the general public from
+(A) a federal, state, or local government record;
+(B) a widely distributed media; or
+(C) a disclosure to the general public that is required under federal, state, or local law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-23-399__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>third-party service provider means a person that is not a licensee that, through a contract with a licensee, is permitted access to and maintains, processes, or stores nonpublic information through its provision of services to the licensee.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

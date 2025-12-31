@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-6/chapter-90"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-6/chapter-90"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="6.90"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-6/chapter-90/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-6/chapter-90/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-6/chapter-90/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-6/chapter-90/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_6">
+        <num>6</num>
+        <heading>Banks and Financial Institutions</heading>
+        <chapter eId="title_6__chp_90">
+          <num>90</num>
+          <heading>Miscellaneous Provisions</heading>
+          <section eId="sec_06-90-010">
+            <num>06.90.010</num>
+            <heading>Automated teller machine fee.</heading>
+            <content>
+              <p>Sec. 06.90.010.   Automated teller machine fee.
+Unless a fee is otherwise prohibited by or conflicts with federal law, a person that owns an automated teller machine may charge a fee for the use of the automated teller machine to conduct a transaction accessing an account from an international financial institution. In this section,
+(1) automated teller machine means an electronic device that dispenses cash in connection with a credit, deposit, or checking account at an international financial institution;
+(2) international financial institution means a person that is organized and licensed under the laws of a foreign country to engage in a banking business; in this paragraph, banking business means a business that offers deposit accounts, makes loans, and conducts other financial transactions.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

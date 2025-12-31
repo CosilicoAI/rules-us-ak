@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-12"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-12"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="5.12"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-12/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-12/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-12/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-12/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_5">
+        <num>5</num>
+        <heading>Amusements and Sports</heading>
+        <chapter eId="title_5__chp_12">
+          <num>12</num>
+          <heading>Arctic Winter Games</heading>
+          <section eId="sec_05-12-010">
+            <num>05.12.010</num>
+            <heading>Arctic Winter Games.</heading>
+            <subsection eId="05-12-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not use, display, or publish the symbol of the Arctic Winter Games, consisting of the triple circle symbol and ulu combination, for commercial purposes or private gain without the written authorization of the Arctic Winter Games International Committee.</p>
+              </content>
+            </subsection>
+            <subsection eId="05-12-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not use, display, or publish any name, title, or device that tends to indicate that the person is affiliated with or supported by the Arctic Winter Games without the written authorization of the Arctic Winter Games International Committee.</p>
+              </content>
+            </subsection>
+            <subsection eId="05-12-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who violates a provision of this section is guilty of a misdemeanor and upon conviction is punishable by a fine of not more than $100.  Each day of unauthorized use, display, or publication is a separate offense.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-17"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-17"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="9.17"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-17/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-17/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-17/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-17/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_9">
+        <num>9</num>
+        <heading>Code of Civil Procedure</heading>
+        <chapter eId="title_9__chp_17">
+          <num>17</num>
+          <heading>Civil Damages and Apportionment of Fault</heading>
+          <section eId="sec_09-17-010">
+            <num>09.17.010</num>
+            <heading>Noneconomic damages.</heading>
+            <subsection eId="09-17-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In an action to recover damages for personal injury or wrongful death, all damage claims for noneconomic losses shall be limited to compensation for pain, suffering, inconvenience, physical impairment, disfigurement, loss of enjoyment of life, loss of consortium, and other nonpecuniary damage.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided under (c) of this section, the damages awarded by a court or a jury under (a) of this section for all claims, including a loss of consortium claim, arising out of a single injury or death may not exceed $400,000 or the injured person's life expectancy in years multiplied by $8,000, whichever is greater.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In an action for personal injury, the damages awarded by a court or jury that are described under (b) of this section may not exceed $1,000,000 or the person's life expectancy in years multiplied by $25,000, whichever is greater, when the damages are awarded for severe permanent physical impairment or severe disfigurement.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Multiple injuries sustained by one person as a result of a single incident shall be treated as a single injury for purposes of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-17-020">
+            <num>09.17.020</num>
+            <heading>Punitive damages.</heading>
+            <subsection eId="09-17-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In an action in which a claim of punitive damages is presented to the fact finder, the fact finder shall determine, concurrently with all other issues presented, whether punitive damages shall be allowed by using the standards set out in (b) of this section. If punitive damages are allowed, a separate proceeding under (c) of this section shall be conducted before the same fact finder to determine the amount of punitive damages to be awarded.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The fact finder may make an award of punitive damages only if the plaintiff proves by clear and convincing evidence that the defendant's conduct</p>
+              </content>
+              <paragraph eId="09-17-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>was outrageous, including acts done with malice or bad motives; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>evidenced reckless indifference to the interest of another person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-17-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At the separate proceeding to determine the amount of punitive damages to be awarded, the fact finder may consider</p>
+              </content>
+              <paragraph eId="09-17-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the likelihood at the time of the conduct that serious harm would arise from the defendant's conduct;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the degree of the defendant's awareness of the likelihood described in (1) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the amount of financial gain the defendant gained or expected to gain as a result of the defendant's conduct;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the duration of the conduct and any intentional concealment of the conduct;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the attitude and conduct of the defendant upon discovery of the conduct;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the financial condition of the defendant; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the total deterrence of other damages and punishment imposed on the defendant as a result of the conduct, including compensatory and punitive damages awards to persons in situations similar to those of the plaintiff and the severity of the criminal penalties to which the defendant has been or may be subjected.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-17-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>At the conclusion of the separate proceeding under (c) of this section, the fact finder shall determine the amount of punitive damages to be awarded, and the court shall enter judgment for that amount.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Unless that evidence is relevant to another issue in the case, discovery of evidence that is relevant to the amount of punitive damages to be determined under (c)(3) or (6) of this section may not be conducted until after the fact finder has determined that an award of punitive damages is allowed under (a) and (b) of this section. The court may issue orders as necessary, including directing the parties to have the information relevant to the amount of punitive damages to be determined under (c)(3) or (6) of this section available for production immediately at the close of the initial trial in order to minimize the delay between the initial trial and the separate proceeding to determine the amount of punitive damages.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Except as provided in (g) and (h) of this section, an award of punitive damages may not exceed the greater of</p>
+              </content>
+              <paragraph eId="09-17-020__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>three times the amount of compensatory damages awarded to the plaintiff in the action; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the sum of $500,000.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-17-020__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Except as provided in (h) of this section, if the fact finder determines that the conduct proven under (b) of this section was motivated by financial gain and the adverse consequences of the conduct were actually known by the defendant or the person responsible for making policy decisions on behalf of the defendant, it may award an amount of punitive damages not to exceed the greatest of</p>
+              </content>
+              <paragraph eId="09-17-020__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>four times the amount of compensatory damages awarded to the plaintiff in the action;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>four times the aggregate amount of financial gain that the defendant received as a result of the defendant's misconduct; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the sum of $7,000,000.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-17-020__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Notwithstanding any other provision of law, in an action against an employer to recover damages for an unlawful employment practice prohibited by
+AS 18.80.220
+, the amount of punitive damages awarded by the court or jury may not exceed</p>
+              </content>
+              <paragraph eId="09-17-020__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>$200,000 if the employer has less than 100 employees in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>$300,000 if the employer has 100 or more but less than 200 employees in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_h__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>$400,000 if the employer has 200 or more but less than 500 employees in this state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-020__subsec_h__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>$500,000 if the employer has 500 or more employees in this state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-17-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Subsection (h) of this section may not be construed to allow an award of punitive damages against the state or a person immune under another provision of law. In (h) of this section, employees means persons employed in each of 20 or more calendar weeks in the current or preceding calendar year.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-020__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>If a person receives an award of punitive damages, the court shall require that 50 percent of the award be deposited into the general fund of the state. This subsection does not grant the state the right to file or join a civil action to recover punitive damages.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-020__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>In a civil action in which an employer is determined to be vicariously liable for the act or omission of an employee, punitive damages may not be awarded against the employer under principles of vicarious liability unless (1) the employer or the employer's managerial agent (A) authorized the act or omission and the manner in which the act was performed or omission occurred; or (B) ratified or approved the act or omission after the act or omission occurred; or (2) the employee (A) was unfit to perform the act or avoid the omission and the employer or the employer's managerial agent acted recklessly in employing or retaining the employee; or (B) was employed in a managerial capacity and was acting within the scope of employment. In this subsection, managerial agent means a management level employee with the stature and authority to exercise control, discretion, and independent judgment over a certain area of the employer's business and with some power to set policy for the employer.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-17-040">
+            <num>09.17.040</num>
+            <heading>Award of damages; periodic payments.</heading>
+            <subsection eId="09-17-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In every case where damages for personal injury are awarded by the court or jury, the verdict shall be itemized between economic loss and noneconomic loss, if any, as follows:</p>
+              </content>
+              <paragraph eId="09-17-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>past economic loss;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>past noneconomic loss;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>future economic loss;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-040__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>future noneconomic loss; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-040__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>punitive damages.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-17-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The fact finder shall reduce future economic damages to present value.  In computing the portion of a lump-sum award that is attributable to future economic loss, the fact finder shall determine the present amount that, if invested at long-term future interest rates in the best and safest investments, will produce over the life expectancy of the injured party the amount necessary to compensate the injured party for</p>
+              </content>
+              <paragraph eId="09-17-040__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount of wages the injured party could have been expected to earn during future years, taking into account future anticipated inflation and reasonably anticipated increases in the injured party's earnings; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-040__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount of money necessary during future years to provide for all additional economic losses related to the injury, taking into account future anticipated inflation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-17-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Subsection (b) of this section does not apply to future economic damages if the parties agree that the award of future damages may be computed under the rule adopted in the case of Beaulieu v. Elliott, 434 P.2d 665 (Alaska 1967).</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In an action to recover damages, the court shall, at the request of an injured party, enter judgment ordering that amounts awarded a judgment creditor for future damages be paid to the maximum extent feasible by periodic payments rather than by a lump-sum payment.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The court may require security be posted, in order to ensure that funds are available as periodic payments become due.  The court may not require security to be posted if an authorized insurer, as defined in
+AS 21.97.900
+, acknowledges to the court its obligation to discharge the judgment.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-040__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A judgment ordering payment of future damages by periodic payment shall specify the recipient, the dollar amount of the payments, the interval between payments, and the number of payments or the period of time over which payments shall be made.  Payments may be modified only in the event of the death of the judgment creditor, in which case payments may not be reduced or terminated, but shall be paid to persons to whom the judgment creditor owed a duty of support, as provided by law, immediately before death.  In the event the judgment creditor owed no duty of support to dependents at the time of the judgment creditor's death, the money remaining shall be distributed in accordance with a will of the deceased judgment creditor accepted into probate or under the intestate laws of the state if the deceased had no will.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-040__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If the court finds that the judgment debtor has exhibited a continuing pattern of failing to make payments required under (d) of this section, the court shall, in addition to the required periodic payments, order the judgment debtor to pay the judgment creditor any damages caused by the failure to make periodic payments, including costs and attorney fees.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-17-060">
+            <num>09.17.060</num>
+            <heading>Effect of contributory fault.</heading>
+            <content>
+              <p>Sec. 09.17.060.   Effect of contributory fault.
+In an action based on fault seeking to recover damages for injury or death to a person or harm to property, contributory fault chargeable to the claimant diminishes proportionately the amount awarded as compensatory damages for the injury attributable to the claimant's contributory fault, but does not bar recovery.</p>
+            </content>
+          </section>
+          <section eId="sec_09-17-070">
+            <num>09.17.070</num>
+            <heading>Collateral benefits.</heading>
+            <subsection eId="09-17-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>After the fact finder has rendered an award to a claimant, and after the court has awarded costs and attorney fees, a defendant may introduce evidence of amounts received or to be received by the claimant as compensation for the same injury from collateral sources that do not have a right of subrogation by law or contract.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the defendant elects to introduce evidence under (a) of this section, the claimant may introduce evidence of</p>
+              </content>
+              <paragraph eId="09-17-070__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount that the actual attorney fees incurred by the claimant in obtaining the award exceed the amount of attorney fees awarded to the claimant by the court; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-070__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount that the claimant has paid or contributed to secure the right to an insurance benefit introduced by the defendant as evidence.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-17-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the total amount of collateral benefits introduced as evidence under (a) of this section exceeds the total amount that the claimant introduced as evidence under (b) of this section, the court shall deduct from the total award the amount by which the value of the nonsubrogated sum awarded under (a) of this section exceeds the amount of payments under (b) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, the defendant may not introduce evidence of</p>
+              </content>
+              <paragraph eId="09-17-070__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>benefits that under federal law cannot be reduced or offset;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-070__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a deceased's life insurance policy; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-070__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>gratuitous benefits provided to the claimant.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-17-070__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>This section does not apply to a medical malpractice action filed under
+AS 09.55
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-070__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding any other provision of this section, if the teachers' retirement system (
+AS 14.25
+) or the public employees' retirement system (
+AS 39.35
+) obtains an award of damages or other recovery in compensation for harms caused by the wrongful or negligent conduct of a third party, the award of damages or other recovery is not subject to reduction under this section on account of additional state contributions under
+AS 14.25.085
+or
+AS 39.35.280
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-17-080">
+            <num>09.17.080</num>
+            <heading>Apportionment of damages.</heading>
+            <subsection eId="09-17-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In all actions involving fault of more than one person, including third-party defendants and persons who have settled or otherwise been released, the court, unless otherwise agreed by all parties, shall instruct the jury to answer special interrogatories or, if there is no jury, shall make findings, indicating</p>
+              </content>
+              <paragraph eId="09-17-080__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount of damages each claimant would be entitled to recover if contributory fault is disregarded; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-17-080__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the percentage of the total fault that is allocated to each claimant, defendant, third-party defendant, person who has been released from liability, or other person responsible for the damages unless the person was identified as a potentially responsible person, the person is not a person protected from a civil action under
+AS 09.10.055
+, and the parties had a sufficient opportunity to join that person in the action but chose not to; in this paragraph, sufficient opportunity to join means the person is
+(A) within the jurisdiction of the court;
+(B) not precluded from being joined by law or court rule; and
+(C) reasonably locatable.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-17-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In determining the percentages of fault, the trier of fact shall consider both the nature of the conduct of each person at fault, and the extent of the causal relation between the conduct and the damages claimed.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The court shall determine the award of damages to each claimant in accordance with the findings and enter judgment against each party liable. The court also shall determine and state in the judgment each party's equitable share of the obligation to each claimant in accordance with the respective percentages of fault as determined under (a) of this section. Except as provided under
+AS 23.30.015
+(g), an assessment of a percentage of fault against a person who is not a party may only be used as a measure for accurately determining the percentages of fault of a named party. Assessment of a percentage of fault against a person who is not a party does not subject that person to civil liability in that action and may not be used as evidence of civil liability in another action.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-17-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The court shall enter judgment against each party liable on the basis of several liability in accordance with that party's percentage of fault.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-17-900">
+            <num>09.17.900</num>
+            <heading>Definition.</heading>
+            <content>
+              <p>Sec. 09.17.900.   Definition.
+In this chapter, fault includes acts or omissions that are in any measure negligent, reckless, or intentional toward the person or property of the actor or others, or that subject a person to strict tort liability. The term also includes breach of warranty, unreasonable assumption of risk not constituting an enforceable express consent, misuse of a product for which the defendant otherwise would be liable, and unreasonable failure to avoid an injury or to mitigate damages. Legal requirements of causal relation apply both to fault as the basis for liability and to contributory fault.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

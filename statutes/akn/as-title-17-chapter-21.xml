@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-21"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-21"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="17.21"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-21/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-21/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-21/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-21/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_17">
+        <num>17</num>
+        <heading>Food and Drugs</heading>
+        <chapter eId="title_17__chp_21">
+          <num>21</num>
+          <heading>Illicit Synthetic Drugs</heading>
+          <section eId="sec_17-21-010">
+            <num>17.21.010</num>
+            <heading>Illicit synthetic drugs.</heading>
+            <subsection eId="17-21-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not possess, offer, display, market, advertise for sale, or sell an illicit synthetic drug.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-21-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A synthetic drug is illicit if</p>
+              </content>
+              <paragraph eId="17-21-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the label
+(A) is false or misleading;
+(B) does not specify the identity of the substances contained in the synthetic drug; or
+(C) does not specify the name and place of business of the manufacturer, packer, or distributor; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-21-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the synthetic drug has one or more of the following characteristics:
+(A) the packaging or labeling of the synthetic drug suggests that the user will achieve euphoria, a hallucination, mood enhancement, relaxation, stimulation, or another effect on the body;
+(B) the name or packaging of the synthetic drug uses images or labels suggesting that it is a controlled substance or has the effect of a controlled substance;
+(C) the synthetic drug resembles a controlled substance in appearance, in chemical structure, or composition;
+(D) the synthetic drug is marketed or advertised for a particular use or purpose and the cost of the synthetic drug is disproportionately higher than other products marketed or advertised for the same or similar use or purpose;
+(E) the synthetic drug contains a warning label stating or suggesting that the synthetic drug is in compliance with state laws regulating controlled substances;
+(F) the synthetic drug is a product to which has been added a synthetic chemical or synthetic chemical compound that does not have a legitimate relationship to the advertised use of the product.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-21-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>It is an affirmative defense to an action for a violation of this section that a product is expressly exempted from or is expressly regulated under and is in compliance with state or federal law. In this subsection, affirmative defense has the meaning given in
+AS 11.81.900
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_17-21-020">
+            <num>17.21.020</num>
+            <heading>Exemption.</heading>
+            <content>
+              <p>Sec. 17.21.020.   Exemption.
+AS 17.21.010
+does not apply to a synthetic drug intended solely for investigational use by experts qualified by scientific training and experience to investigate the safety of drugs if the drug is plainly labeled for investigational use only, and the investigational use is authorized by state or federal law.</p>
+            </content>
+          </section>
+          <section eId="sec_17-21-030">
+            <num>17.21.030</num>
+            <heading>Enforcement and penalties.</heading>
+            <subsection eId="17-21-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The commissioner of public safety is responsible for enforcing this chapter and may</p>
+              </content>
+              <paragraph eId="17-21-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>delegate that authority as appropriate; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-21-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>cooperate with the Department of Health in carrying out the commissioner's enforcement activities.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-21-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not limit the authority of a peace officer.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-21-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who violates
+AS 17.21.010
+is guilty of a violation, and, upon conviction, is punishable by a fine of not more than $500.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-21-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The provisions of this section are in addition to the remedies available under
+AS 45.50.471
+ 45.50.561.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_17-21-090">
+            <num>17.21.090</num>
+            <heading>Definitions.</heading>
+            <subsection eId="17-21-090__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a crystalline or powder product in crystalline, loose powder, block, tablet, or capsule form; or
+(ii) plant material in granular, loose leaf, powder, or liquid form or used as a food additive; and
+(C) not a controlled substance.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

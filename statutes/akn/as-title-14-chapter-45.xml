@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-45"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-45"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="14.45"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-45/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-45/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-45/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_14">
+        <num>14</num>
+        <heading>Education, Libraries, and Museums</heading>
+        <chapter eId="title_14__chp_45">
+          <num>45</num>
+          <heading>Private and Denominational Schools</heading>
+          <section eId="sec_14-45-030">
+            <num>14.45.030</num>
+            <heading>Non-exempt schools.</heading>
+            <content>
+              <p>Sec. 14.45.030.   Non-exempt schools.
+Teachers and others in charge of religious or other private schools not operated in compliance with
+AS 14.45.100
+ 14.45.130 are not exempt from laws and regulations relating to education.  Non-exempt schools shall make regular monthly attendance reports and annual reports to the commissioner in the same manner as teachers and superintendents in the public schools.</p>
+            </content>
+          </section>
+          <section eId="sec_14-45-100">
+            <num>14.45.100</num>
+            <heading>Exemption.</heading>
+            <subsection eId="14-45-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section, a religious or other private school that complies with
+AS 14.45.100
+ 14.45.130 is exempt from other provisions of law and regulations relating to education except law and regulations relating to physical health, fire safety, sanitation, immunization, and physical examinations.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-45-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A religious or other private school that is exempt under this section is not required to comply with
+AS 14.33.120
+(b), 14.33.125, or 14.33.127.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-45-110">
+            <num>14.45.110</num>
+            <heading>Requirements of exempt schools.</heading>
+            <subsection eId="14-45-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The parent or guardian of a child of compulsory school age enrolled in a religious or other private school that complies with
+AS 14.45.100
+ 14.45.130 shall file an annual notice of enrollment in the school for the child with the local public school superintendent for the area in which the child resides on a form provided by the department.  The form shall be signed by the parent or guardian and the chief administrative officer of the school and returned to the local public school superintendent by the parent or guardian.  The school shall notify the local public school superintendent within a reasonable time if the child is no longer enrolled in or attending the school.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-45-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A religious or other private school that elects to comply with
+AS 14.45.100
+ 14.45.130 shall maintain monthly attendance records for each student enrolled in the school, shall operate on a regular schedule, excluding reasonable holidays and vacations, during at least 180 days of the year, shall make an annual report to the commissioner of the number of students in each grade and the school calendar, and shall comply with the provisions concerning missing children under
+AS 14.30.700
+ 14.30.720.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-45-120">
+            <num>14.45.120</num>
+            <heading>Standardized testing requirements.</heading>
+            <subsection eId="14-45-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A religious or other private school that elects to comply with
+AS 14.45.100
+  14.45.130 shall administer a nationally standardized test selected by the chief administrative officer of the school to all students enrolled in grades four, six, and eight at least once each school year.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-45-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The nationally standardized test must measure achievement in English grammar, reading, spelling, and mathematics.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-45-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A religious or other private school that elects to comply with
+AS 14.45.100
+  14.45.130 shall maintain records of the results of the nationally standardized tests and the records shall be made available to the parent or guardian of the student. Each school shall make composite test results for the school available annually to an authorized representative of the department.  The composite test results of a religious or other private school operated in compliance with
+AS 14.45.100
+ 14.45.130 are not public information unless each public school</p>
+              </content>
+              <paragraph eId="14-45-120__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is also required to administer a nationally standardized test that measures achievement in English grammar, reading, spelling, and mathematics; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-45-120__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the composite test results for each public school are public information.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_14-45-130">
+            <num>14.45.130</num>
+            <heading>Records.</heading>
+            <subsection eId="14-45-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A religious or other private school that elects to comply with
+AS 14.45.100
+ 14.45.130 shall maintain permanent student records reflecting immunizations, physical examinations, standardized testing, academic achievement, courses taken at the school, and level of eligibility for an Alaska performance scholarship under
+AS 14.43.810
+ 14.43.849.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-45-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The chief administrative officer of a school that elects to comply with
+AS 14.45.100
+  14.45.130 shall certify to the department, under oath or by affirmation, that the records required under (a) of this section are being maintained.
+Article 3. General Provisions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_14-45-150">
+            <num>14.45.150</num>
+            <heading>Interscholastic activities; eligibility.</heading>
+            <subsection eId="14-45-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A full-time student who is eligible under (b) of this section who is enrolled in grades nine through 12 in an alternative education program that is located in the state and that does not offer interscholastic activities is eligible to participate in any interscholastic activities program available in a religious or other private school regulated under this chapter</p>
+              </content>
+              <paragraph eId="14-45-150__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>that the student would be eligible to attend were the student not enrolled in an alternative education program; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-45-150__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>at which the student requests to participate, if the administrator of the school approves.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-45-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A student is eligible to participate in interscholastic activities under this section if the student</p>
+              </content>
+              <paragraph eId="14-45-150__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is otherwise eligible to participate in interscholastic activities under requirements established by the school and the statewide interscholastic activities governing body;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-45-150__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provides documentation, including academic transcripts, proof of full-time enrollment, and applicable disciplinary records, and, if required for participation in an activity by the school, requested medical records, to the school providing the interscholastic activities program; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-45-150__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>claims the same school for interscholastic activities eligibility purposes during a school year.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="14-45-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="14-45-150__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>alternative education program means a public secondary school that provides a nontraditional education program, including the Alaska Military Youth Academy; a public vocational, remedial, or theme-based program; a home school program that is accredited by a recognized accrediting body; a charter school authorized under
+AS 14.03.250
+- 14.03.290; and a statewide correspondence school that enrolls students who reside outside of a district in which the student resides and provides less than three hours a week of scheduled face-to-face student interactions in the same location with a teacher who is certified under
+AS 14.20.020
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-45-150__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>district has the meaning given in
+AS 14.17.990
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-45-150__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>full-time student means a student who
+(A) is enrolled in not less than five classes in grades nine through 11 and not less than four classes in grade 12; and
+(B) is on track to graduate from secondary school in not more than four years of attendance in secondary school;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-45-150__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>interscholastic activities means preparation for and participation in events or competitions involving another school when the preparation or participation
+(A) is sanctioned or supported by the statewide interscholastic activities governing body;
+(B) is conducted outside of the regular school curriculum; and
+(C) does not involve participation in student government at a school;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="14-45-150__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>located in the state means that the alternative education program is accessed by a student who is located in the state and provides for all instructional hours to take place at a site in the state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_14-45-190">
+            <num>14.45.190</num>
+            <heading>School lockers.</heading>
+            <content>
+              <p>Sec. 14.45.190.   School lockers.
+A private school may search school lockers and other containers as provided in
+AS 14.03.105
+.</p>
+            </content>
+          </section>
+          <section eId="sec_14-45-200">
+            <num>14.45.200</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 14.45.200.   Definitions.
+In this chapter,
+(1) private school means a school that does not receive direct state or federal funding;
+(2) religious school means a private school operated by a church or other religious organization that does not receive direct state or federal funding.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

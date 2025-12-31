@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-50"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-50"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="13.50"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-50/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-50/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-50/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_13">
+        <num>13</num>
+        <heading>Decedents' Estates, Guardianships, Transfers, Trusts, and Health Care Decisions</heading>
+        <chapter eId="title_13__chp_50">
+          <num>50</num>
+          <heading>Anatomical Gifts Registry</heading>
+          <section eId="sec_13-50-100">
+            <num>13.50.100</num>
+            <heading>Transfer of information.</heading>
+            <subsection eId="13-50-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for information on a motor vehicle or identification document issued to a donor who declines to participate in a registry, when a person who applies for a motor vehicle or identification document makes a gift with the application, the department shall electronically transfer all information that appears on the front of the motor vehicle or identification document and any changes that are subsequently received by the department from the donor to a procurement organization that intends to establish a donor registry under
+AS 13.50.110
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-50-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A donor to whom a motor vehicle or identification document is issued is not required to participate in a registry, and the department may not transfer information under (a) of this section from a donor who declines to participate in a registry.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-50-110">
+            <num>13.50.110</num>
+            <heading>Use of transferred information.</heading>
+            <subsection eId="13-50-110__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A procurement organization that obtains information under
+AS 13.50.100
+shall use the information to establish a statewide donor registry accessible by a recognized organization in</p>
+              </content>
+              <paragraph eId="13-50-110__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>this state that handles the recovery or placement of parts of the body; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-50-110__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>another state that handles the recovery or placement of parts of the body when a donor who is a resident of this state is not located in this state at the time of or immediately before death.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-50-110__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A procurement organization may not</p>
+              </content>
+              <paragraph eId="13-50-110__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>use registry information for fund raising; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-50-110__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>disseminate information obtained under
+AS 13.50.100
+unless authorized by this section or by federal law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-50-110__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A procurement organization may disseminate information obtained under
+AS 13.50.100
+to another procurement organization.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-50-120">
+            <num>13.50.120</num>
+            <heading>Acquisition of other donor information.</heading>
+            <content>
+              <p>Sec. 13.50.120.   Acquisition of other donor information.
+A procurement organization may acquire donor information from sources other than the department.</p>
+            </content>
+          </section>
+          <section eId="sec_13-50-130">
+            <num>13.50.130</num>
+            <heading>Registry costs.</heading>
+            <subsection eId="13-50-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A procurement organization that has requested registry information from the department shall pay the reasonable costs associated with the creation by the organization of a registry and the reasonable costs associated with the initial installation and establishment of the facilities necessary for electronic transfer of the donor information to the organization by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-50-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>After the initial transfer of information under (a) of this section, the department shall make all transfers of donor information without charge to a procurement organization.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-50-140">
+            <num>13.50.140</num>
+            <heading>Notification of cancellation.</heading>
+            <subsection eId="13-50-140__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A donor whose motor vehicle or identification document information is on a registry shall notify a procurement organization or the department of the destruction or mutilation of the motor vehicle or identification document or revocation of the gift under
+AS 13.52.183
+in order to remove the donor's name from a registry. If the procurement organization that is notified does not maintain a registry, the organization shall notify all procurement organizations that do maintain a registry.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-50-140__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The failure of a donor to make the notification under (a) of this section does not affect the revocation of a gift under
+AS 13.52.183
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-50-150">
+            <num>13.50.150</num>
+            <heading>Monetary donation program.</heading>
+            <subsection eId="13-50-150__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An applicant for a motor vehicle or identification document may donate $1 or more to the fund to promote in the state the donation of body parts under
+AS 13.52
+(Health Care Decisions Act). The donation is voluntary and may be declined by the applicant. The department shall make available to all applicants information on the importance of making gifts.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-50-150__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall collect the donations made under (a) of this section and credit the donations to the fund. At least quarterly, the department shall transfer the donations to the fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-50-150__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall ask each applicant for a motor vehicle or identification document whether the applicant is interested in making the donation under (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-50-150__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Each procurement organization shall pay its proportionate share of the reasonable costs associated with the creation of the donation program created under this section, unless another amount is agreed to by the department.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-50-160">
+            <num>13.50.160</num>
+            <heading>Anatomical gift awareness fund.</heading>
+            <subsection eId="13-50-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The anatomical gift awareness fund is established. The fund consists of all donations made under
+AS 13.50.150
+, other donations to the fund for a purpose identified under (b) of this section, money received by the department under
+AS 13.50.130
+, and appropriations made to the fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-50-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The purposes of the fund are to promote gifts in the state under
+AS 13.52
+and to administer the donation program established under
+AS 13.50.150
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-50-160__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 6 ch 46 SLA 2007.]</p>
+              </content>
+            </subsection>
+            <subsection eId="13-50-160__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Money in the fund may be appropriated by the legislature to an organization for the purpose of promoting the donation programs established in
+AS 13.50
+and
+AS 13.52
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-50-160__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Money appropriated to the fund may be spent for the purposes of the fund without further appropriation. Money appropriated to the fund does not lapse.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-50-170">
+            <num>13.50.170</num>
+            <heading>Penalty.</heading>
+            <content>
+              <p>Sec. 13.50.170.   Penalty.
+A person who knowingly violates
+AS 13.50.110
+(b)(1) or (2) is guilty of a class B misdemeanor.</p>
+            </content>
+          </section>
+          <section eId="sec_13-50-190">
+            <num>13.50.190</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 13.50.190.   Definitions.
+In this chapter,
+(1) department means the Department of Administration;
+(2) donation means a monetary donation made under
+AS 13.50.150
+;
+(3) donor has the meaning given in
+AS 13.52.268
+;
+(4) fund means the anatomical gift awareness fund established under
+AS 13.50.160
+;
+(5) gift means an anatomical gift; in this paragraph, anatomical gift has the meaning given in
+AS 13.52.390
+;
+(6) motor vehicle or identification document means
+(A) a motor vehicle registration, a driver's license, or an instruction permit, or a renewal of the registration, license, or permit; or
+(B) an identification card issued under
+AS 18.65.310
+;
+(7) part has the meaning given in
+AS 13.52.390
+;
+(8) procurement organization has the meaning given in
+AS 13.52.268
+;
+(9) reasonable costs includes the cost of
+(A) computer programming and installing software and software upgrades;
+(B) employee training that is specific to a registry or the donation program established under
+AS 13.50.150
+;
+(C) producing literature that is specific to a registry or the donation program established under
+AS 13.50.150
+; and
+(D) making hardware upgrades or handling other issues for a registry or the donation program established under
+AS 13.50.150
+;
+(10) registry means a donor registry established under
+AS 13.50.110
+;
+(11) registry information means information obtained under
+AS 13.50.100
+;
+(12) state means a state, territory, or possession of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

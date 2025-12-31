@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-42"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-42"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="8.42"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-42/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-42/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-8/chapter-42/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-8/chapter-42/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_8">
+        <num>8</num>
+        <heading>Business and Professions</heading>
+        <chapter eId="title_8__chp_42">
+          <num>42</num>
+          <heading>Morticians</heading>
+          <section eId="sec_08-42-010">
+            <num>08.42.010</num>
+            <heading>Authority of department.</heading>
+            <content>
+              <p>Sec. 08.42.010.   Authority of department.
+The department has jurisdiction over the practice of mortuary science under this chapter.  The department may adopt and enforce regulations and set fees relating to the practice of mortuary science.</p>
+            </content>
+          </section>
+          <section eId="sec_08-42-020">
+            <num>08.42.020</num>
+            <heading>License required for the practice of mortuary science.</heading>
+            <subsection eId="08-42-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not engage in the practice of mortuary science or hold out as being engaged in the practice unless licensed as an embalmer or funeral director by the department.  A person holding a license as a funeral director may not embalm or restore a dead human body, take charge of the remains of a person dead of a communicable disease, or prepare for transportation by common carrier a human body dead of a communicable disease.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-42-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 62 ch 21 SLA 1991.]</p>
+              </content>
+            </subsection>
+            <subsection eId="08-42-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In the event the dead body is to be disposed of in a manner not requiring embalming, the department may issue a permit to an unlicensed person for the care and disposition of dead human bodies for compensation.  This permit otherwise in no way licenses the holder to practice mortuary science.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-42-030">
+            <num>08.42.030</num>
+            <heading>Examination of applicants for license to practice mortuary science.</heading>
+            <content>
+              <p>Sec. 08.42.030.   Examination of applicants for license to practice mortuary science.
+The department is granted authority to examine all applicants for a license to practice mortuary science and to determine whether an applicant possesses the necessary qualifications. The department shall hold an examination at least once each year at the place and time the department may determine.</p>
+            </content>
+          </section>
+          <section eId="sec_08-42-040">
+            <num>08.42.040</num>
+            <heading>Application for license to practice mortuary science.</heading>
+            <content>
+              <p>Sec. 08.42.040.   Application for license to practice mortuary science.
+The applicant for an examination for a license to practice as an embalmer or as a funeral director shall make application to the department in writing on a form provided by the department.</p>
+            </content>
+          </section>
+          <section eId="sec_08-42-050">
+            <num>08.42.050</num>
+            <heading>Qualifications for license to practice mortuary science.</heading>
+            <subsection eId="08-42-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In order to qualify for a license to practice embalming, the applicant shall</p>
+              </content>
+              <paragraph eId="08-42-050__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be at least 18 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-050__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>have graduated from an accredited school or college of mortuary science;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-050__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>have taken and passed the examination for a license to practice embalming conducted by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-050__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>have completed at least one year of apprenticeship as a trainee under a licensed embalmer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-42-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In order to qualify for a license to practice funeral directing, the applicant shall</p>
+              </content>
+              <paragraph eId="08-42-050__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be at least 18 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-050__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>have satisfactorily completed at least one year, 30 semester credit hours, at an accredited college or university;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-050__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>have taken and passed the examination for a license to practice funeral directing conducted by the department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-050__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>have completed at least one year of apprenticeship as a trainee under a person licensed to practice funeral directing in this state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_08-42-060">
+            <num>08.42.060</num>
+            <heading>Scope and conduct of examination for a license to practice mortuary science.</heading>
+            <subsection eId="08-42-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall examine applicants for an embalmer's license; the examination may include any or all of the following subjects: (1) theory and practice of embalming, (2) anatomy, (3) pathology, (4) bacteriology, (5) hygiene, including sanitation and public health, (6) chemistry, including toxicology, (7) restorative arts, including plastic surgery and demi-surgery, (8) funeral service arts and sciences and funeral service administration, including accounting, funeral law, psychology, funeral principles, directing, and management, (9) Alaska vital statistics law, and (10) the provisions of this chapter and the regulations adopted by the department under this chapter. The department shall examine applicants for a funeral director's license; the examination may include any or all of the subjects included in (8), (9), and (10) of this subsection. The department may use the examination provided by the International Conference of Funeral Service Examining Boards where it is applicable to the subjects in this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-42-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A passing grade in the examination is an average grade of at least 75 percent with no individual subject grade of less than 70 percent.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-42-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If an applicant receives an average grade of at least 75 percent, but receives a grade of less than 70 percent in three or fewer individual subjects, the applicant may be reexamined only in those subjects. The applicant is entitled to reexamination on individual subjects only once.  A grade of at least 70 percent in each of the subjects in which the applicant is reexamined is sufficient to constitute a passing grade.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-42-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in (c) of this section, an applicant shall be reexamined in all subjects if the applicant reapplies for examination.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-42-070">
+            <num>08.42.070</num>
+            <heading>Reciprocity.</heading>
+            <subsection eId="08-42-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may recognize the license issued to an embalmer or funeral director from another state if the applicant</p>
+              </content>
+              <paragraph eId="08-42-070__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>furnishes proof satisfactory to the department that the applicant
+(A) has complied, in the state in which the applicant is licensed, with requirements substantially equal to the requirements of this chapter; or
+(B) meets the applicable requirements for the license for which the applicant is applying except for the apprenticeship and examination provisions and that the applicant is licensed in another state and has practiced mortuary science for at least one year in a state where the applicant is licensed; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-070__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>takes and passes the examination provided for in (b) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-42-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall examine each applicant under this section on the following subjects: Alaska vital statistics law, the provisions of this chapter, and the regulations adopted by the department under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-42-085">
+            <num>08.42.085</num>
+            <heading>Qualifications for trainees.</heading>
+            <subsection eId="08-42-085__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may apprentice as an embalmer trainee if the person</p>
+              </content>
+              <paragraph eId="08-42-085__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is at least 18 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-085__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>applies on a form provided by the department; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-085__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>furnishes evidence satisfactory to the department that an embalmer licensed in this state will supervise the training and that the training will take place in a funeral establishment that meets the requirements of
+AS 08.42.100
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-42-085__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may apprentice as a funeral director trainee if the person</p>
+              </content>
+              <paragraph eId="08-42-085__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is at least 18 years of age;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-085__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>applies on a form provided by the department; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="08-42-085__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>furnishes evidence satisfactory to the department that a funeral director licensed in this state will supervise the training and that the training will take place in a funeral establishment that meets the requirements of
+AS 08.42.100
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="08-42-085__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall issue a permit valid for one year to an applicant who meets the requirements of this section. The department shall renew a permit for one year if the trainee applies for renewal on a form provided by the department and shows that the training activity continues to satisfy the requirements of this section.  The department shall charge a fee for processing applications and renewals under this section that will be sufficient to cover administrative costs.</p>
+              </content>
+            </subsection>
+            <subsection eId="08-42-085__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person may apprentice as a funeral director trainee or as an embalmer trainee for no more than two years.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_08-42-090">
+            <num>08.42.090</num>
+            <heading>Grounds for refusal to issue or renew licenses and suspension or revocation of licenses.</heading>
+            <content>
+              <p>Sec. 08.42.090.   Grounds for refusal to issue or renew licenses and suspension or revocation of licenses.
+When the department has reason to believe that an applicant or licensee has been guilty of any of the following acts or omissions, it may conduct an investigation, and the department may, after proper hearing and notice in accordance with
+AS 44.62
+(Administrative Procedure Act), refuse to issue, refuse to renew, or may suspend or revoke, a license upon a finding by the department of any of the following acts or omissions:
+(1) fraud or misrepresentation in obtaining a license;
+(2) misrepresentation or fraud in the practice of mortuary science;
+(3) false or misleading advertising;
+(4) aiding or abetting an unlicensed person to practice mortuary science;
+(5) using a casket or part of a casket which has previously been used as a receptacle for the burial or other final disposition of another dead human body;
+(6) refusing to promptly surrender the custody of a dead human body upon the order of the person lawfully entitled to custody;
+(7) solicitation of a dead human body by the licensee, the licensee's agents, servants or employees, if solicitation occurs after death, or while death is impending but this does not prohibit advertising or sales made on a pre-need basis;
+(8) employment by the licensee of any person for the purpose of calling upon individuals or institutions to influence them to turn over a dead human body to a particular licensee immediately before an impending death or after death;
+(9) the direct or indirect payment or offer of payment for the purpose of obtaining a dead body by the licensee, the licensee's agents, servants or employees immediately before an impending death or after death;
+(10) immediately before impending death or after death, solicitation or acceptance by a licensee of any payment for recommending or causing a dead human body to be disposed of in a specific crematory, mausoleum or cemetery; however, this section does not prevent the recommendation or solicitation for sales of space and merchandise in a specific crematory, mausoleum or cemetery, if the licensee has an ownership interest in the specific crematory, mausoleum or cemetery and the ownership interest is disclosed at the time of the solicitation, recommendation or sale;
+(11) violation of a state law or regulation or municipal ordinance or regulation or federal law or regulation affecting the disposition of a dead human body, or contracts relating to the disposition of a dead human body;
+(12) violation of any of the provisions of this chapter;
+(13) conviction of a felony involving moral turpitude.</p>
+            </content>
+          </section>
+          <section eId="sec_08-42-100">
+            <num>08.42.100</num>
+            <heading>Funeral establishment permit.</heading>
+            <content>
+              <p>Sec. 08.42.100.   Funeral establishment permit.
+A person may not conduct, maintain, manage, or operate a funeral establishment unless a permit for each establishment has been issued by the department and is conspicuously displayed in the funeral establishment. Each permit is valid only for one specific location, and each firm operating from the same funeral establishment shall obtain a separate permit. The department shall issue a permit to operate a funeral establishment upon application for the permit on a form provided by the department. All permits expire at the time established under
+AS 08.01.100
+and may be renewed for successive terms. Violation of a provision of
+AS 08.42.090
+by a person operating a funeral establishment or, with that person's knowledge or consent, by an employee is considered sufficient cause for suspension or revocation of the funeral establishment permit.</p>
+            </content>
+          </section>
+          <section eId="sec_08-42-120">
+            <num>08.42.120</num>
+            <heading>Violations; penalties.</heading>
+            <content>
+              <p>Sec. 08.42.120.   Violations; penalties.
+A person who violates or aids a person in a violation of this chapter is guilty of a misdemeanor and upon conviction is punishable by imprisonment for not more than one year or by a fine of not more than $5,000.</p>
+            </content>
+          </section>
+          <section eId="sec_08-42-130">
+            <num>08.42.130</num>
+            <heading>Enforcement by attorney general.</heading>
+            <content>
+              <p>Sec. 08.42.130.   Enforcement by attorney general.
+The attorney general may bring an action in the superior court to enjoin a person from violating the provisions of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_08-42-200">
+            <num>08.42.200</num>
+            <heading>Definitions.</heading>
+            <subsection eId="08-42-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and is engaged in learning the practice of embalming under the direction and control of a person properly licensed to practice embalming, or a person who has met the qualifications set out in
+AS 08.42.085</p>
+              </content>
+            </subsection>
+            <subsection eId="08-42-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and is engaged in learning the practice of funeral directing under the direction and control of a person properly licensed to practice funeral directing.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-24"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-24"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.24"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-24/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-24/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-24/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-24/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_24">
+          <num>24</num>
+          <heading>Administration of Deposits</heading>
+          <section eId="sec_21-24-010">
+            <num>21.24.010</num>
+            <heading>Authorized deposits of insurers.</heading>
+            <content>
+              <p>Sec. 21.24.010.   Authorized deposits of insurers.
+The following deposits of insurers when made through the director shall be accepted and held and are subject to the provisions of this chapter:
+(1) deposits required under this title for authority to transact insurance in this state;
+(2) deposits of domestic insurers when made under the laws of other states, provinces, and countries as requirement for authority to transact insurance in the state, province, or country;
+(3) deposits in the additional amounts that are permitted to be made under
+AS 21.24.100
+.</p>
+            </content>
+          </section>
+          <section eId="sec_21-24-020">
+            <num>21.24.020</num>
+            <heading>Purpose of deposits.</heading>
+            <content>
+              <p>Sec. 21.24.020.   Purpose of deposits.
+The deposits shall be held for purposes as follows:
+(1) deposits made in this state under
+AS 21.09.090
+shall be held for the purpose stated in that section;
+(2) a deposit made in this state by a domestic insurer transacting insurance in another state, province, or country, in accordance with the laws of the other state, province, or country, shall be held for the protection of all creditors or for the other purpose or purposes that may be specified under those laws;
+(3) deposits required under
+AS 21.09.270
+shall be held for the purposes required by the retaliatory law and specified in the director's order requiring the deposit to be made.</p>
+            </content>
+          </section>
+          <section eId="sec_21-24-030">
+            <num>21.24.030</num>
+            <heading>Securities eligible for deposits.</heading>
+            <subsection eId="21-24-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All deposits required under
+AS 21.09.090
+for authority to transact insurance in this state shall consist of certificates of deposit or any combination of rated credit instruments of the United States, Canada, or a state of the United States.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Deposits of a domestic insurer held in this state under the laws of another state, province, or country shall be comprised of assets of the kinds described in (a) of this section, and of the additional kind or kinds of securities required or permitted by the laws of the state, province, or country except common stocks, mortgages of any kind, and real estate.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Deposits of foreign insurers made in this state under
+AS 21.09.270
+shall consist of the assets required by the director under the law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-24-040">
+            <num>21.24.040</num>
+            <heading>Depositary or custodian.</heading>
+            <subsection eId="21-24-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Deposits made in this state under this title shall be made through the office of the director under custodial arrangements as required or approved by the director consistent with the purposes of the deposit, with an established safe deposit institution, bank, or trust company located in this state selected by the insurer with the director's approval.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>[Repealed, § 34 ch 1 FSSLA 2005.]</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If of convenience to the insurer in the buying, selling, and exchange of securities making up its deposit, and in the collection of interest and other income currently accruing on the securities, the insurer may, with the director's advance written approval, deposit a portion of the securities under custodial arrangements with an established bank or trust company located outside this state, if receipts representing all the securities are issued by the custodial bank or trust company and are held in custody subject to the requirements of (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The form and terms of all depositary or custodial agreements shall be as prescribed or approved by the director consistent with the applicable provisions of this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The compensation and expenses of the depositary or custodian shall be borne by the insurer.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-24-050">
+            <num>21.24.050</num>
+            <heading>Record of deposits.</heading>
+            <subsection eId="21-24-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director shall give to the depositing insurer vouchers of all assets and securities deposited by it in this state through the director as provided in this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director shall keep a record of the assets and securities comprising each deposit, showing as far as practical the amount and market value of each item, and all transactions regarding them.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-24-060">
+            <num>21.24.060</num>
+            <heading>Liability of director and state.</heading>
+            <content>
+              <p>Sec. 21.24.060.   Liability of director and state.
+The director and the state are not liable for the safekeeping of a deposit by the depositary or custodian.</p>
+            </content>
+          </section>
+          <section eId="sec_21-24-070">
+            <num>21.24.070</num>
+            <heading>Assignment, conveyance of assets or securities.</heading>
+            <content>
+              <p>Sec. 21.24.070.   Assignment, conveyance of assets or securities.
+All securities not negotiable by delivery and deposited under this title shall be assigned to the director and successors in office.  In the case of securities held under custodial arrangements outside this state under
+AS 21.24.040
+(c), the custodian's receipt for the securities shall be delivered, if negotiable, or assigned to the director if thereby legal title to the securities is vested in the director.  The insurer shall transfer or convey to the director and successors in office all other assets so deposited.  Upon release to the insurer of the asset or security the director shall reassign or transfer or reconvey it to the insurer.</p>
+            </content>
+          </section>
+          <section eId="sec_21-24-080">
+            <num>21.24.080</num>
+            <heading>Appraisal.</heading>
+            <content>
+              <p>Sec. 21.24.080.   Appraisal.
+The director may before acceptance for deposit of any particular asset or security, or at any time thereafter while so deposited, have the asset or security appraised by competent appraisers.  The reasonable costs of the appraisal shall be borne by the insurer.</p>
+            </content>
+          </section>
+          <section eId="sec_21-24-090">
+            <num>21.24.090</num>
+            <heading>Rights of insurer during solvency.</heading>
+            <content>
+              <p>Sec. 21.24.090.   Rights of insurer during solvency.
+If the insurer remains solvent and is in compliance with this title it may
+(1) demand, receive, sue for, and recover the income from the assets or securities deposited;
+(2) exchange and substitute for the deposited assets or securities, or any part thereof, other eligible assets or securities of equivalent or greater value;
+(3) at any reasonable time inspect the deposit.</p>
+            </content>
+          </section>
+          <section eId="sec_21-24-100">
+            <num>21.24.100</num>
+            <heading>Excess deposits.</heading>
+            <content>
+              <p>Sec. 21.24.100.   Excess deposits.
+An insurer may deposit and have on deposit assets or securities in an amount exceeding its deposit required or otherwise permitted under this title by no more than 20 percent of the required or permitted deposit or $50,000, whichever is the larger amount, for the purpose of absorbing fluctuations in the value of assets and securities deposited and to facilitate the exchange and substitution of the assets and securities.  During the solvency of the insurer an excess shall be released to the insurer upon its request.  During the insolvency of the insurer the excess deposit shall be released only in accordance with
+AS 21.24.130
+(d).</p>
+            </content>
+          </section>
+          <section eId="sec_21-24-120">
+            <num>21.24.120</num>
+            <heading>Deficiency of deposit.</heading>
+            <content>
+              <p>Sec. 21.24.120.   Deficiency of deposit.
+If the market value of assets and securities of an insurer held on deposit in this state, or in another state under custodial arrangements authorized by
+AS 21.24.040
+(c), falls below the amount required under this title, the insurer shall promptly deposit other or additional assets or securities eligible for deposit under this chapter and in an amount sufficient to cure the deficiency.  If the insurer fails to cure the deficiency within 20 days after receipt of notice by registered mail from the director, the director shall immediately revoke the insurer's certificate of authority.</p>
+            </content>
+          </section>
+          <section eId="sec_21-24-130">
+            <num>21.24.130</num>
+            <heading>Duration and release of deposit.</heading>
+            <subsection eId="21-24-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each deposit made in this state by an insurer under this title, including assets and securities held in another state under custodial arrangements permitted by
+AS 21.24.040
+(c), shall be held for as long as there is any outstanding liability of the insurer as to which the deposit was required.  Each deposit required under
+AS 21.09.270
+shall be held for so long as the basis of the retaliation exists.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon the request of a domestic insurer, the director shall return to the insurer the whole or any portion of the assets and securities of the insurer held on deposit when the director is satisfied that the assets and securities to be returned are subject to no liability and are no longer required to be held by any provision of law or purposes of the original deposit.  If the insurer has reinsured all of its outstanding risks in another insurer or insurers authorized to transact insurance in this state, the director shall deliver the assets and securities to the insurer or insurers assuming the risks, upon written notice to the director by the domestic insurer that the assets and securities have been assigned, transferred, and set over to the reinsuring insurer or insurers, which notice shall be accompanied by a verified copy of the assignment, transfer, or conveyance.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The director shall return to a foreign insurer any deposit made in this state by the insurer, when (1) the insurer has ceased transacting insurance in this state, or in the United States, and the insurer is not subject to liability in this state on account of which the deposit was held; (2) the deposit is no longer required by a provision of law; (3) the insurer, during its solvency, has made a similar deposit in another state and has filed with the director the certificate of evidence thereof, under the conditions provided for in
+AS 21.09.090
+(b)(1) or (2). Upon the effectuation of a merger or consolidation of an insurer that has made a deposit in this state, the director shall return the deposit to the resulting or surviving corporation, or to any person it may designate for that purpose, provided that the resulting or surviving corporation is or becomes authorized to transact an insurance business in this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-130__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a domestic insurer is subject to delinquency proceedings under
+AS 21.78
+, the director shall yield the assets and securities held on deposit under
+AS 21.09.090</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>to the receiver, conservator, rehabilitator, or liquidator of the domestic insurer. The director may release the deposit directly to the guaranty fund of which the insurer is a member if the right to receive all or a portion of the deposit is assigned to the guaranty fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-130__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A release of deposited assets may not be made except upon application to and the written order of the director.  The director is not personally liable for a release of a deposit or part thereof made in good faith.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-130__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If a foreign insurer that is a member of the Alaska Life and Health Insurance Guaranty Association (
+AS 21.79
+) or the Alaska Insurance Guaranty Association (
+AS 21.80
+) is found to be insolvent by a proceeding under
+AS 21.78
+or by a court of competent jurisdiction in another state, the director shall take control of the insurer's deposit made under
+AS 21.09.090
+(b). The deposit assets shall be released to the applicable guaranty association upon a showing to the director that the association paid a valid loss, loss expense, or contractual obligation that is within the purpose of the deposit. After the director determines that all losses, loss expense liabilities, or contractual obligations that were incurred on the insurer's policies written in this state for which the deposit was required have been paid, the director shall pay the remaining deposit assets to the receiver, conservator, rehabilitator, or liquidator of the insurer, or to another properly designated official who succeeds to the management and control of the insurer's assets.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-130__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If an insurer is not a member of the Alaska Life and Health Insurance Guaranty Association established by
+AS 21.79
+or the Alaska Insurance Guaranty Association established by
+AS 21.80
+, the director shall take control of the insurer's deposit made under
+AS 21.09.090</p>
+              </content>
+            </subsection>
+            <subsection eId="21-24-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>if the insurer is found to be insolvent by a proceeding under
+AS 21.78
+or by a court of competent jurisdiction in another state. The director shall release the deposit assets to the receiver, conservator, rehabilitator, or liquidator of the insurer, or to any other properly designated official who succeeds to the management and control of the insurer's assets.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

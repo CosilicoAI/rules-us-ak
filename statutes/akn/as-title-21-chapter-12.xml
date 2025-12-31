@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-12"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-12"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.12"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-12/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-12/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-12/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-12/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_12">
+          <num>12</num>
+          <heading>Kinds of Insurance, Limits of Risk, and Reinsurance</heading>
+          <section eId="sec_21-12-010">
+            <num>21.12.010</num>
+            <heading>Limit of risk.</heading>
+            <subsection eId="21-12-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An insurer may not retain a risk on any one subject of insurance, whether located or to be performed in this state or elsewhere, in an amount exceeding 10 percent of its surplus to policyholders.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section a subject of insurance as to insurance against fire and hazards other than windstorm, earthquake, and other catastrophe hazards, includes all properties insured by the same insurer that are customarily considered by underwriters to be subject to loss or damage from the same fire or the same occurrence of the hazard insured against.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Reinsurance ceded as authorized by
+AS 21.12.020
+shall be deducted in determining risk retained.  As to surety risks, deduction shall also be made of the amount assumed by an established incorporated cosurety and the value of a security deposited, pledged or held subject to the surety's consent and for the surety's protection.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>As to alien insurers, this section relates only to risks and surplus to policyholders of the insurer's United States branch.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In this section surplus to policyholders in addition to the insurer's capital and surplus includes any voluntary reserves that are not required under law, and are determined from the last sworn statement of the insurer on file with the director, or by the last report of examination of the insurer, whichever is more recent at time of assumption of risk.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>This section does not apply to life or health insurance, annuities, title insurance, insurance of wet marine and transportation risks, workers' compensation insurance, employer's liability coverages, sprinklered risks, or to a policy or type of coverage in which the maximum possible loss to the insurer is not readily ascertainable on issuance of the policy.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-12-020">
+            <num>21.12.020</num>
+            <heading>Reinsurance credit allowed a domestic ceding insurer.</heading>
+            <subsection eId="21-12-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Credit for reinsurance transactions is allowed a domestic ceding insurer as either an asset or a deduction from liability because of reinsurance ceded only when the reinsurer meets the requirements of (1)  (7) of this subsection. The director may, by regulation adopted under (g)(2) of this section, specify additional requirements relating to, or setting out, the valuation of assets or reserve credits, the amount and forms of security supporting reinsurance arrangements described in (g)(2) of this section, and the circumstances under which credit will be reduced or eliminated. Credit is allowed under (1)  (3) of this subsection with respect to cessions of a kind or class of business that the assuming insurer is licensed or permitted to write or assume in its state of domicile or, in the case of a United States branch of an alien assuming insurer, in the state through which it is entered and licensed to transact insurance or reinsurance. Credit is allowed under (3) or (4) of this subsection only if the applicable requirements in (b) of this section have been satisfied. Credit is allowed when the reinsurance is ceded to an assuming insurer that</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is licensed to transact insurance or reinsurance in this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is accredited by the director as a reinsurer in this state; an accredited reinsurer is one that
+(A) files with the director evidence of submission to this state's jurisdiction, submits to this state's authority to examine its books and records, is licensed to transact insurance or reinsurance in at least one state that is accredited by the National Association of Insurance Commissioners, or, in the case of a United States branch of an alien admitted insurer, is entered through and licensed to transact insurance or reinsurance in at least one state that is accredited by the National Association of Insurance Commissioners;
+(B) demonstrates to the satisfaction of the director that it has adequate financial capacity to meet its reinsurance obligations and is otherwise qualified to assume reinsurance from domestic insurers; an assuming insurer is considered to meet the requirement at the time of application if the assuming insurer maintains at least $20,000,000 in policyholder surplus and the assuming insurer's accreditation has not been denied by the director within 90 days after application to the director; and
+(C) files annually with the director a copy of the reinsurer's annual statement filed with the insurance supervisory official of the reinsurer's state of domicile and a copy of the reinsurer's most recent audited financial statement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>is domiciled in a state or, in the case of a United States branch of an alien assuming insurer, is entered through a state accredited by the National Association of Insurance Commissioners that employs standards regarding credit for reinsurance ceded substantially similar to those applicable under (1) and (2) of this subsection, maintains a policyholder surplus of at least $20,000,000, and submits to the authority of this state to examine its books and records; the surplus requirements in this paragraph do not apply to reinsurance ceded and assumed under a pooling arrangement among insurers in the same holding company system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>maintains a trust fund in a qualified United States financial institution for the payment of the valid claims of the assuming insurer's United States domiciled ceding insurers, and their assigns and successors; credit for reinsurance under this paragraph shall be granted only if the following requirements are met:
+(A) the trust and each amendment to the trust is established in a form approved by the insurance supervisory official of the state where the trust is domiciled or the insurance supervisory official of another state who, under the terms of the trust instrument, has accepted responsibility for regulatory oversight of the trust; the form of the trust and each trust amendment is filed with the insurance supervisory official of every state in which the beneficiaries of the trust are domiciled; the trust instrument provides that contested claims are valid and enforceable upon the final order of any court of competent jurisdiction in the United States; the trust vests legal title to its assets in the trustees of the trust for its United States domiciled ceding insurers, their assigns, and successors in interest; the trust and the assuming insurer are subject to examination as determined by the director; the trust remains in effect for so long as the assuming insurer has outstanding liabilities due under the reinsurance agreements subject to the trust;
+(B) on or before March 1 of each year, the trustees report in writing to the director on the balance of the trust, list the trust's investments at the end of the preceding year, and certify the date of termination of the trust, if so planned, or certify that the trust does not expire before the following December 31;
+(C) in the case of a single assuming insurer, the trust consists of trust assets not less than the assuming insurer's liabilities attributable to reinsurance ceded by the United States domiciled ceding insurers and, in addition, except as provided in (D) of this paragraph, the assuming insurer maintains</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the trust consists of, for reinsurance ceded under the reinsurance agreements with an inception, amendment, or renewal date on or after January 1, 1993, a trusteed account in an amount not less than the respective insurers' several liabilities attributable to business ceded by United States domiciled ceding insurers to any insurer of the group, for reinsurance ceded under reinsurance agreements with an inception date on or before December 31, 1992, and not amended or renewed after that date, notwithstanding the other provisions of this section, a trusteed account not less than the respective insurers' several insurance and reinsurance liabilities attributable to business written in the United States, and, in addition to an applicable trust described in this sub-subparagraph, trust assets representing the group's liabilities attributable to business ceded by United States domiciled ceding insurers include a trust surplus not less than $100,000,000 held jointly for the benefit of the United States domiciled ceding insurers of any member of the group for all years of account as additional security for the group's liabilities covered by the trust; and
+(ii) the incorporated members of the group are not engaged in any business other than underwriting as a member of the group and are subject to the same level of solvency regulation and control by the group's domiciliary regulator as the unincorporated members; within 90 days after the group's financial statements are due to be filed with the group's domiciliary regulator, the group shall make available to the director an annual certification of the solvency of each insurer by the group's domiciliary regulator or, if the certification is unavailable, financial statements, prepared by an independent certified public accountant, or an accountant holding a substantially equivalent designation as determined by the director, for each underwriter member of the group;
+(E) in the case of a group of incorporated insurers under commo</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>maintains a joint trustee surplus, of which $100,000,000 is held jointly for the benefit of United States domiciled ceding insurers of a member of the group as additional security for the group's liabilities covered by the trust;
+(ii) not later than 90 days after the group's financial statements are due to be filed with the group's domiciliary regulator, ensures each member of the group makes available to the director an annual certification of the underwriter member's solvency by the member's domiciliary regulator and financial statement of each underwriter member prepared by the member's independent certified public accountant or an accountant holding a substantially equivalent designation as determined by the director; and
+(iii) submits to examination of its books and records by the director and bears the expense of the examination;
+(F) the assuming insurer reports annually to the director information substantially the same as that required to be reported on the National Association of Insurance Commissioners' annual statement form by licensed insurers;</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>is eligible for certification by the director as a reinsurer in this state if the assuming insurer secures its obligations under the following requirements:
+(A) the assuming insurer must</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>be domiciled and licensed to transact insurance or reinsurance in a qualified jurisdiction;
+(ii) maintain minimum capital and surplus, or its equivalent, in an amount set out in regulations adopted by the director;
+(iii) maintain financial strength ratings from two or more rating agencies as required under regulations adopted by the director;
+(iv) agree to submit to the jurisdiction of this state and agree to provide security for 100 percent of the assuming insurer's liabilities attributable to reinsurance ceded by United States domiciled ceding insurers if the assuming insurer resists enforcement of a final United States judgment;</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>agree to meet applicable information filing requirements as determined by the director, both with respect to an initial application for certification and on an ongoing basis; and
+(vi) satisfy other requirements for certification as
+required by the director;
+(B) in addition to satisfying the requirements under (A) of this paragraph, an association, including an incorporated underwriter and an individual unincorporated underwriter,</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>shall satisfy the association's minimum capital and surplus requirements through the capital and surplus equivalents, net of liabilities, of the association and the association's members, which must include a joint central fund that may be applied to any unsatisfied obligation of the association or a member of the association, in an amount determined by the director to provide adequate protection;
+(ii) may not engage in any business other than underwriting as a member of the association and be subject to the same level of regulation and solvency control by the association's domiciliary regulator as are the unincorporated members; and
+(iii) shall, not later than 90 days after the association's financial statements are filed with the association's domiciliary regulator, provide to the director an annual certification by the association's domiciliary regulator of the solvency of each underwriter member, or, if a certification is unavailable, financial statements prepared by independent public accountants of each underwriter member of the association;
+(C) the director shall create and publish a list of qualified jurisdictions under which an assuming insurer licensed and domiciled in a qualifying jurisdiction is eligible to be considered for certification by the director as a certified reinsurer, subject to the following provisions:</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>to determine whether the domiciliary jurisdiction of an alien assuming insurer is eligible to be recognized as a qualified jurisdiction, the director shall evaluate the appropriateness and effectiveness of the reinsurance supervisory system of the jurisdiction, both initially and on an ongoing basis, and consider the rights, benefits, and the extent of reciprocal recognition afforded by the jurisdiction to reinsurers licensed and domiciled in the United States; a qualified jurisdiction shall agree to share information and cooperate with the director with respect to all certified reinsurers domiciled within that jurisdiction; the director may not recognize a jurisdiction as a qualified jurisdiction if the director determines that the jurisdiction does not adequately and promptly enforce final United States judgments and arbitration awards; the director may consider additional factors when making an eligibility determination under this subparagraph;
+(ii) the director shall consider the list of qualified jurisdictions published through the committee process of the National Association of Insurance Commissioners; if the director approves as qualified a jurisdiction that does not appear on the list of qualified jurisdictions, the director shall provide thoroughly documented justification for the approval under criteria set out in regulations adopted by the director;
+(iii) the director shall recognize a United States jurisdiction that meets the requirement for accreditation under the National Association of Insurance Commissioners financial standards and accreditation program as a qualified jurisdiction;
+(iv) the director, in lieu of revocation, may suspend a reinsurer's certification indefinitely if the certified reinsurer's domiciliary jurisdiction ceases to be a qualified jurisdiction;
+(D) the director shall assign a rating to each certified reinsurer, giving due consideration to the financial strength ratings that have been assigned by rating agencies considered accep</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>for a domestic ceding insurer to qualify for full financial statement credit for reinsurance ceded to a certified reinsurer, the certified reinsurer shall maintain security in a form acceptable to the director and consistent with (c) of this section or in a multibeneficiary trust under (4) of this subsection, except as otherwise provided in this paragraph;
+(ii) if a certified reinsurer maintains a trust to secure fully the reinsurer's obligations subject to (4) of this subsection and chooses to secure its obligations incurred as a certified reinsurer in the form of a multibeneficiary trust, the certified reinsurer shall maintain separate trust accounts for its obligations incurred under reinsurance agreements issued or renewed as a certified reinsurer with reduced security as permitted under this subsection or comparable laws of other United States jurisdictions and for its obligations subject to (4) of this subsection; a certified reinsurer shall, as a condition of the grant of certification under this paragraph, bind itself, by the language of the trust and agreement with the insurance supervisory official with principal regulatory oversight of the trust account, to use the remaining surplus of a terminated trust account for a deficiency in any other trust account of the certified reinsurer;
+(iii) the minimum trusteed surplus requirements under (4) of this subsection are not applicable to a multibeneficiary trust maintained by a certified reinsurer for the purpose of securing obligations incurred under this subsection, except that the multibeneficiary trust shall maintain a minimum trusteed surplus of $10,000,000;
+(iv) if the obligations incurred by a certified reinsurer under this subsection are insufficiently secured, the director shall reduce the allowable credit by an amount proportionate to the deficiency and may impose further reductions in allowable credit if the director finds that there is a material risk that the certified reinsurer's obligations will no</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>for purposes of this subparagraph, a certified reinsurer whose certification is terminated for any reason is considered to be a certified reinsurer that is required to secure 100 percent of the reinsurer's obligations; however, if the director continues to assign a higher rating as permitted under other provisions of this section, the requirement to secure 100 percent of the reinsurer's obligations does not apply to a certified reinsurer in inactive status or to a reinsurer whose certification has been suspended; in this sub-subparagraph, terminated means revoked, suspended, voluntarily surrendered, or in inactive status;
+(F) if an applicant for certification is certified as a reinsurer in a jurisdiction accredited by the National Association of Insurance Commissioners, the director may defer to that jurisdiction's certification and to the rating assigned to the applicant by the jurisdiction; the assuming insurer shall be considered to be a certified reinsurer in this state;
+(G) a certified reinsurer that ceases to assume new business in this state may request to maintain its certification in inactive status in order to continue to qualify for a reduction in security for its in-force business; an inactive certified reinsurer shall continue to comply with all applicable requirements of this subsection, and the director shall assign a rating that takes into account, if relevant, the reasons the reinsurer is not assuming new business;</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_v__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>meets the following conditions:
+(A)  the assuming insurer shall have its head office or be domiciled in a reciprocal jurisdiction;
+(B)  the assuming insurer shall have and maintain on an ongoing basis minimum capital and surplus, or its equivalent, calculated according to the methodology of its domiciliary jurisdiction, in an amount set out in regulation; if the assuming insurer is an association, including incorporated and individual unincorporated underwriters, the assuming insurer shall have and maintain on an ongoing basis minimum capital and surplus, net of liabilities, calculated according to the methodology of its domiciliary jurisdiction, and a central fund containing a balance in an amount set out in regulation;
+(C)  the assuming insurer shall have and maintain on an ongoing basis a minimum solvency or capital ratio in an amount set out in regulation; if the assuming insurer is an association, including incorporated and individual unincorporated underwriters, the assuming insurer shall have and maintain on an ongoing basis a minimum solvency or capital ratio in the reciprocal jurisdiction where the assuming insurer has its head office or is domiciled and licensed;
+(D)  the assuming insurer shall agree to and provide adequate assurance to the director in a form specified by the director in regulation as follows:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the assuming insurer shall provide prompt written notice and explanation to the director if it falls below the minimum requirements described in (B) or (C) of this paragraph, or if any regulatory action is taken against it for serious noncompliance with applicable law;
+(ii)  the assuming insurer shall consent in writing to the jurisdiction of the courts of this state and to the appointment of the director as agent for service of process; the director may require that consent for service of process be provided to the director and included in each reinsurance agreement; nothing in this sub-subparagraph shall limit or in any way alter the capacity of parties to a reinsurance agreement to agree to alternative dispute resolution mechanisms, except to the extent the agreements are unenforceable under applicable insolvency or delinquency laws;
+(iii)  the assuming insurer shall consent in writing to pay all final judgments, wherever enforcement is sought, obtained by a ceding insurer or its legal successor, that have been declared enforceable in the jurisdiction where the judgment was obtained;
+(iv)  each reinsurance agreement must include a provision requiring the assuming insurer to provide security in an amount equal to 100 percent of the assuming insurer's liabilities attributable to reinsurance ceded under that agreement if the assuming insurer resists enforcement of a final judgment that is enforceable under the law of the jurisdiction in which it was obtained or a properly enforceable arbitration award, whether obtained by the ceding insurer or by its legal successor on behalf of its resolution estate; and</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>the assuming insurer shall confirm that it is not presently participating in any solvent scheme of arrangement that involves this state's ceding insurers and agree to notify the ceding insurer and the director and to provide security in an amount equal to 100 percent of the assuming insurer's liabilities to the ceding insurer, should the assuming insurer enter into a solvent scheme of arrangement; a security must be in a form consistent with the provisions of (5) of this subsection and (c) of this section and as specified by the director in regulation;
+(E)  the assuming insurer or its legal successor shall provide, if requested by the director, on behalf of itself and any legal predecessors, certain documentation to the director as specified by the director in regulation;
+(F)  the assuming insurer shall maintain a practice of prompt payment of claims under reinsurance agreements under criteria set out in regulation;
+(G)  the assuming insurer's supervisory authority shall confirm to the director on an annual basis as of December 31 of the preceding year or at the annual date otherwise statutorily reported to the reciprocal jurisdiction, that the assuming insurer complies with the requirements in (B) and (C) of this paragraph;
+(H)  nothing in this paragraph precludes an assuming insurer from providing the director with information on a voluntary basis;</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_v__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>does not meet the requirements of (1)  (6) of this subsection, but only with respect to the insurance of risks located in jurisdictions where the reinsurance is required by applicable law or regulation of that jurisdiction.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the assuming insurer is not licensed, accredited, or certified to transact insurance or reinsurance in this state, the credit permitted under (a)(4) and (5) of this section is not allowed unless the assuming insurer agrees in the reinsurance agreements</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>that, in the event of the failure of the assuming insurer to perform its obligations under the terms of the reinsurance agreement, the assuming insurer, at the request of the ceding insurer, shall submit to the jurisdiction of a court of competent jurisdiction in a state of the United States, will comply with all requirements necessary to give the court jurisdiction and will abide by the final decision of the court or of an appellate court in the event of an appeal; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to designate the director or an attorney resident in the United States as its true and lawful attorney upon whom may be served lawful process in an action, suit, or proceeding instituted by or on behalf of the ceding insurer; nothing in this subsection is intended to conflict with or override the obligation of the parties to a reinsurance agreement to arbitrate their disputes if such an obligation is created in the reinsurance agreement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An asset or a reduction from liability, for reinsurance ceded by a domestic insurer to an assuming insurer not meeting the requirements of (a), (b), and (d)  (f) of this section, shall be allowed in an amount not exceeding the liabilities carried by the ceding insurer. In addition, the director may adopt by regulation under (g)(2) of this section specific additional requirements relating to the valuation of assets or reserve credits, the amount and forms of security supporting reinsurance arrangements described in (g)(2) of this section, and the circumstances under which credit will be reduced or eliminated. The reduction shall be equal to the amount of money held by or on behalf of the ceding insurer, including money held in trust for the ceding insurer, under a reinsurance contract with the assuming insurer as security for the payment of obligations under it, if the security is held in the United States subject to withdrawal solely by, and under the exclusive control of, the ceding insurer, or, in the case of a trust, held in a qualified United States financial institution. The security must be in the form of</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>cash;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>securities listed by the Securities Valuation Office of the National Association of Insurance Commissioners, including those exempted from filing as defined by the purposes and procedures manual of the Securities Valuation Office, and those that qualify as admitted assets under
+AS 21.21
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>clean, irrevocable, unconditional letters of credit that contain an evergreen clause issued or confirmed by a qualified United States financial institution not later than December 31 in the year for which filing is made, and in the possession of, or in trust for, the ceding insurer on or before the filing date of the ceding insurer's annual statement; letters of credit meeting applicable standards of issuer acceptability as of the dates of their issuance or confirmation shall, notwithstanding the issuing or confirming institution's subsequent failure to meet applicable standards of issuer acceptability, continue to be acceptable as security until their expiration, extension, renewal, modification, or amendment, whichever occurs first; in this paragraph, qualified United States financial institution means an institution that
+(A) is organized or, in the case of a United States office of a foreign banking organization, is licensed under the laws of the United States or a state of the United States;
+(B) is regulated, supervised, and examined by United States federal or state authorities having regulatory authority over banks and trust companies; and
+(C) has been determined by either the director or the Securities Valuation Office of the National Association of Insurance Commissioners to meet the standards of financial condition and standing considered necessary and appropriate to regulate the quality of financial institutions whose letters of credit are acceptable to the director; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>other security acceptable to and approved in advance by the director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If an assuming insurer does not meet the requirements under this section, the credit permitted under (a)(1), (2), or (3) of this section is not allowed unless the assuming insurer agrees, in the trust agreements, to the following conditions:</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>notwithstanding any other provision in the trust instrument, if the trust fund is inadequate because it contains an amount less than the amount required under (a)(4) or (5) of this section, or if the grantor of the trust is declared insolvent or is placed into receivership, rehabilitation, liquidation, or similar proceedings under the laws of the state or country of domicile, the trustee shall comply with an order of the insurance supervisory official with regulatory oversight over the trust or with an order of a court of competent jurisdiction directing the trustee to transfer to the insurance supervisory official with regulatory oversight over the trust all of the assets of the trust fund;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the assets shall be distributed by, and all claims shall be filed with and valued by, the insurance supervisory official with regulatory oversight over the trust under the laws of the state in which the trust is domiciled that are applicable to the liquidation of a domestic insurer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the insurance supervisory official with regulatory oversight over the trust determines that the assets or report of the assets of the trust fund are not necessary to satisfy the claims of the United States domestic ceding insurers of the grantor of the trust, the insurance supervisory official with regulatory oversight over the trust shall return the assets or part of the assets to the trustee for distribution under the trust agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the grantor of the trust shall waive any right otherwise available to it under United States law that is inconsistent with this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The director may suspend or revoke a reinsurer's accreditation or certification under the following procedures if the accredited or certified reinsurer ceases to meet the requirements for accreditation or certification:</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the director shall give the reinsurer notice and opportunity for a hearing under
+AS 21.06.170
+ 21.06.230; the suspension or revocation may not take effect before the director issues an order on the hearing, unless the
+(A) reinsurer waives the right to a hearing;
+(B) director's order is based on a regulatory action by the reinsurer's domiciliary jurisdiction or the voluntary surrender or termination of the reinsurer's eligibility to transact insurance or reinsurance business in its domiciliary jurisdiction or in the primary certifying state of the reinsurer under (a)(5)(F) of this section; or
+(C) director finds that an emergency requires immediate action and a court of competent jurisdiction has not stayed the director's action;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>while a reinsurer's accreditation or certification is suspended, a reinsurance contract issued or renewed by the reinsurer on or after the effective date of the suspension does not qualify for credit, except to the extent that the reinsurer's obligations under the contract are secured under (c) of this section; if a reinsurer's accreditation or certification is revoked, no credit for reinsurance may be granted after the effective date of the revocation except to the extent that the reinsurer's obligations under the contract are secured under (a)(5)(E) or (c) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-020__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A ceding insurer shall take steps to</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>manage its reinsurance recoverables proportionate to its own book of business; a domestic ceding insurer shall notify the director not later than 30 days after the reinsurance recoverables from any single assuming insurer or group of affiliated assuming insurers exceeds 50 percent of the domestic ceding insurer's last reported surplus to policyholders or the domestic ceding insurer determines that reinsurance recoverables from any single assuming insurer or group of affiliated assuming insurers is likely to exceed that limit; the notification must demonstrate that the exposure is safely managed by the domestic ceding insurer; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>diversify its reinsurance program; a domestic ceding insurer shall notify the director not later than 30 days after ceding to any single assuming insurer or group of affiliated assuming insurers more than 20 percent of the ceding insurer's gross written premium in the preceding calendar year or the domestic ceding insurer determines that the reinsurance ceded to any single assuming insurer or group of affiliated assuming insurers is likely to exceed that limit; the notification must demonstrate that the exposure is safely managed by the domestic ceding insurer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-020__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The director may adopt regulations</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to implement this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>relating to reinsurance arrangements, subject to the following provisions:
+(A) a regulation adopted under this paragraph may apply only to reinsurance relating to</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a life insurance policy with guaranteed nonlevel gross premiums or guaranteed nonlevel benefits;
+(ii) a universal life insurance policy with provisions resulting in the ability of a policyholder to keep a policy in force over a secondary guaranteed period;
+(iii) a variable annuity with guaranteed death or living benefits;
+(iv) a long-term care insurance policy; or</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>other life insurance, health insurance, and annuity products for which the National Association of Insurance Commissioners adopts model regulatory requirements with respect to credit for reinsurance;
+(B) a regulation adopted under (A)(i) or (ii) of this paragraph applies to a treaty containing a policy issued (i) on or after January 1, 2015, and (ii) before January 1, 2015, if the risk pertaining to the policy is ceded, in whole or in part, in connection with the treaty on or after January 1, 2015; in this subparagraph, treaty means a contract in which a reinsurance company agrees to accept and an insurance company agrees to cede all of a particular type of risk within a specific class of insurance policies;
+(C) the director may adopt a regulation under this paragraph to require a ceding insurer, in calculating the amounts or forms of security required to be held under regulations adopted under the authority of this paragraph, to use the edition of the valuation manual adopted by the National Association of Insurance Commissioners in effect on the date on which the calculation is made, to the extent applicable;
+(D) a regulation adopted under this paragraph does not apply to cessions to an assuming insurer that is certified in this state, meets the conditions set out in (a)(6) of this section, or meets the following criteria:</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>maintains at least $250,000,000 in capital and surplus as determined under the most recent edition of the National Association of Insurance Commissioners Accounting Practices and Procedures Manual, including the effect of any permitted or prescribed practices; and
+(ii) is licensed in not fewer than 26 states, or licensed in not fewer than 10 states and licensed or accredited in a total of not fewer than 35 states;
+(E) nothing in this paragraph limits the director's authority to adopt regulations under (1) of this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The director shall consider the list of reciprocal jurisdictions published through the National Association of Insurance Commissioners committee process in determining a reciprocal jurisdiction and has the discretion to defer to the list. The director may approve a jurisdiction not on the list in accordance with criteria developed under regulations adopted by the director. The director may remove a jurisdiction from the list of reciprocal jurisdictions upon determination that the jurisdiction no longer meets the requirements of a reciprocal jurisdiction in accordance with a process set out in regulation by the director. Upon removal of a reciprocal jurisdiction from the list, credit for reinsurance ceded to an assuming insurer that has a home office or is domiciled in that jurisdiction shall be allowed if otherwise allowed under this section. The director shall timely create and publish a list of assuming insurers that have satisfied the conditions set out in this subsection and to which cessions shall be granted credit in accordance with (a) of this section. The director may add an assuming insurer to a list if a National Association of Insurance Commissioners accredited jurisdiction has added the assuming insurer to a list of assuming insurers or, if upon initial eligibility, the assuming insurer submits the information to the director as required under (a)(6)(D) of this section and complies with any additional requirements the director may impose by regulation. If the director determines that an assuming insurer no longer meets one or more of the requirements of (a)(6) of this section, the director may revoke or suspend the eligibility of the assuming insurer under (a)(6) of this section in accordance with procedures set out in regulation. While an assuming insurer's eligibility is suspended, a reinsurance agreement issued, amended, or renewed after the effective date of the suspension does not qualify for credit except to the extent that the assuming insurer's o</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>In this section, unless otherwise indicated,</p>
+              </content>
+              <paragraph eId="21-12-020__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>qualified United States financial institution means an institution that is
+(A)  organized or, in the case of a United States branch or agency office of a foreign banking organization, licensed under the laws of the United States or a state of the United States, and has been granted authority to operate with fiduciary powers; and
+(B)  regulated, supervised, and examined by United States federal or state authorities having regulatory authority over banks and trust companies;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>reciprocal jurisdiction means a jurisdiction that
+(A) is not a United States jurisdiction that is subject to an in- force covered agreement with the United States, each within its legal authority, or in the case of a covered agreement between the United States and the European Union, is a member state of the European Union; in this subparagraph, covered agreement is an agreement entered into under 31 U.S.C. 313  314 (Dodd-Frank Wall Street Reform and Consumer Protection Act) that is currently in effect or in a period of provisional application and addresses the elimination, under specified conditions, of collateral requirements as a condition for entering into any reinsurance agreement with a ceding insurer domiciled in this state or for allowing the ceding insurer to recognize;
+(B) is a United States jurisdiction that meets the requirements for accreditation under the National Association of Insurance Commissioners financial standards and accreditation program; or
+(C) is a qualified jurisdiction, as determined by the director under (a)(5)(C) of this section, that is not otherwise described in (A) and (B) of this paragraph and that meets certain additional requirements, consistent with the terms and conditions of in-force covered agreements, as specified by the director in regulation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-020__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>reinsurance transaction means a transaction stemming from a contract by which the assuming insurer agrees to indemnify the ceding insurer in whole or in part against liability or losses that the ceding insurer might incur under a separate contract of insurance with its insured.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-12-025">
+            <num>21.12.025</num>
+            <heading>Assumption reinsurance.</heading>
+            <subsection eId="21-12-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A nondomestic admitted insurer may not carry out an agreement of assumption reinsurance with a nonadmitted insurer that would transfer Alaska policyholders unless</p>
+              </content>
+              <paragraph eId="21-12-025__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the nonadmitted insurer applies for and obtains a certificate of authority from the director; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-025__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the admitted insurer files the assumption agreement with the director and obtains approval to apply the assumption agreement to Alaska policies or certificates.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director shall approve an assumption agreement involving the assumption of Alaska insurance business by a nonadmitted insurer if</p>
+              </content>
+              <paragraph eId="21-12-025__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the ceding insurer is in supervision, conservation, or liquidation and the assuming insurer is in good standing in its state of domicile; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-025__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>approval would be in the public interest of the Alaska policyholders.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-12-030">
+            <num>21.12.030</num>
+            <heading>Definitions not mutually exclusive.</heading>
+            <content>
+              <p>Sec. 21.12.030.   Definitions not mutually exclusive.
+It is intended that certain insurance coverages may come within the definitions of two or more kinds of insurance as defined in this chapter, and the inclusion of coverage within one definition does not exclude it from the definition of another kind of insurance coverage if the coverage may be reasonably included.</p>
+            </content>
+          </section>
+          <section eId="sec_21-12-040">
+            <num>21.12.040</num>
+            <heading>Life insurance defined.</heading>
+            <content>
+              <p>Sec. 21.12.040.   Life insurance defined.
+Life insurance is insurance on human lives.  The transaction of life insurance includes also the granting of endowment benefits, additional benefits for death or dismemberment by accident or accidental means, additional benefits for the insured's disability, and optional modes of settlement of proceeds of life insurance. Transaction of life insurance does not include workers' compensation insurance.</p>
+            </content>
+          </section>
+          <section eId="sec_21-12-050">
+            <num>21.12.050</num>
+            <heading>Health and health care insurance defined.</heading>
+            <subsection eId="21-12-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Health insurance is insurance of human beings (1) against bodily injury, disablement, or death by accident or accidental means; (2) against the resulting expenses of the injury, disablement, or death; (3) against disablement or expense resulting from sickness or childbirth; (4) against expense incurred in prevention of sickness; (5) for dental care; and (6) including every insurance that applies to injury, disablement, or death. Transaction of health insurance includes disability insurance and stop-loss insurance but does not include workers' compensation insurance. Health care insurance described in (b) of this section is a type of health insurance under this subsection.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Health care insurance means that part of health insurance that provides, delivers, arranges for, pays for, or reimburses any of the costs of medical care.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, stop-loss insurance means insurance purchased by a self-insured employer to cover benefits the employer incurs in excess of a preset limit.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-12-052">
+            <num>21.12.052</num>
+            <heading>Disability insurance defined.</heading>
+            <content>
+              <p>Sec. 21.12.052.   Disability insurance defined.
+Disability insurance is insurance that provides periodic income payments when income is interrupted or terminated because of disability resulting from sickness, injury, or dismemberment, or a combination of sickness, injury, or dismemberment.</p>
+            </content>
+          </section>
+          <section eId="sec_21-12-055">
+            <num>21.12.055</num>
+            <heading>Annuities and annuity contract defined.</heading>
+            <subsection eId="21-12-055__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Annuities means all agreements to make periodical payments if the making or continuance of all or some of a series of payments or the amount of a payment is dependent upon the continuance of human life, except payments made under
+AS 21.12.040
+.  The business of annuities is considered to include additional benefits operating to safeguard the contract from lapse, or to provide a special surrender value, or special benefit, or annuity, in the event of the total and permanent disability of the holder.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-12-055__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Annuity contract means a contract providing for an annuity as defined in (a) of this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-12-060">
+            <num>21.12.060</num>
+            <heading>Property insurance defined.</heading>
+            <content>
+              <p>Sec. 21.12.060.   Property insurance defined.
+Property insurance is insurance on real or personal property of every kind and of every interest therein, whether on land, water, or in the air, against loss or damage from any and all hazard or cause, and against loss consequential upon the loss or damage, other than noncontractual legal liability for loss or damage.  Property insurance does not include title insurance as defined in
+AS 21.66.480
+.</p>
+            </content>
+          </section>
+          <section eId="sec_21-12-070">
+            <num>21.12.070</num>
+            <heading>Casualty insurance defined.</heading>
+            <subsection eId="21-12-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Casualty insurance includes</p>
+              </content>
+              <paragraph eId="21-12-070__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>vehicle insurance: insurance against loss of or damage to a land vehicle or aircraft or a draft or riding animal or to property while contained therein or thereon or being loaded or unloaded therein or therefrom, from any hazard or cause, and against any loss, liability, or expense resulting from or incidental to ownership, maintenance, or use of the vehicle, aircraft, or animal; and provision for medical, hospital, surgical, disability benefits to injured persons and funeral and death benefits to dependents, beneficiaries, or personal representatives of persons killed, irrespective of legal liability to the insured, if issued as an incidental coverage with or supplemental to insurance on the vehicle, aircraft, or animal;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>liability insurance: insurance against legal liability for the death, injury or disability of a human being, or for damage to property; and provision of medical, hospital, surgical, disability benefits to injured persons and funeral and death benefits to dependents, beneficiaries or personal representatives of persons killed, irrespective of legal liability of the insured, if issued as an incidental coverage with or supplemental to liability insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>workers' compensation and employer's liability: insurance of the obligations accepted by, imposed upon, or assumed by employers under law for death, disablement, or injury of employees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>burglary and theft: insurance against loss or damage by burglary, theft, larceny, robbery, forgery, fraud, vandalism, malicious mischief, confiscation, or wrongful conversion, disposal, or concealment, or from an attempt at any of the foregoing; including supplemental coverage for medical, hospital, surgical, and funeral expense incurred by the named insured or any other person as a result of bodily injury during the commission of a burglary, robbery, or theft by another; also insurance against loss of or damage to money, coins, bullion, securities, notes, drafts, acceptances, or other valuable papers and documents, resulting from any cause;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>personal property floater: insurance upon personal effects against loss or damage from any cause under a personal property floater;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>glass: insurance against loss or damage to glass, including its lettering, ornamentation, and fittings;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>boiler and machinery: insurance against any liability and loss or damage to property or interest resulting from accident to or explosions of boilers, pipes, pressure containers, machinery, or apparatus, and to make inspection of and issue certificates of inspection upon boilers, machinery, and apparatus of any kind, whether or not insured;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>leakage and fire extinguishing equipment: insurance against loss or damage to any property or interest caused by the breakage or leakage of sprinklers, hoses, pumps, and other fire extinguishing equipment or apparatus, water pipes or containers, or by water entering through leaks or openings in buildings, and insurance against loss or damage to the sprinklers, hoses, pumps, and other fire extinguishing equipment or apparatus;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>credit: insurance against loss or damage resulting from failure of debtors to pay their obligations to the insured;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>malpractice: insurance against legal liability of the insured, and against loss, damage, or expense incidental to a claim of liability, and including medical, hospital, surgical, and funeral benefits to injured persons, irrespective of legal liability of the insured, arising out of the death, injury or disablement of a person, or arising out of damage to the economic interest of a person, as the result of negligence in rendering expert, fiduciary, or professional service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>elevator: insurance against loss of or damage to any property of the insured, resulting from the ownership, maintenance, or use of elevators, except loss or damage by fire, and to make inspection of and issue certificates of inspection on elevators;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>livestock: insurance against loss or damage to livestock, and services of a veterinary for the animals;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>entertainments: insurance indemnifying the producer of a motion picture, television, radio, theatrical, sport, spectacle, entertainment, or similar production, event, or exhibition against loss from interruption, postponement, or cancellation due to death, accidental injury, or sickness of performers, participants, directors, or other principals;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-070__subsec_a__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>miscellaneous: insurance against any other kind of loss, damage, or liability properly a subject of insurance and not within another kind of insurance as defined in this chapter, if the insurance is not disapproved by the director as being contrary to law or public policy.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The provision of medical, hospital, surgical, and funeral benefits, and of coverage against accidental death or injury, as incidental to and part of other insurance defined in (a)(1), (2), (4), and (10) of this section, shall for all purposes be considered to be the same kind of insurance to which it is incidental, and is not subject to provisions of this title applicable to life or health insurance.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-12-080">
+            <num>21.12.080</num>
+            <heading>Surety insurance defined.</heading>
+            <content>
+              <p>Sec. 21.12.080.   Surety insurance defined.
+Surety insurance includes
+(1) fidelity insurance, which is insurance guaranteeing the fidelity of persons holding positions of public or private trust;
+(2) insurance guaranteeing the performance of contracts, other than insurance policies, and guaranteeing and executing bonds, undertakings, and contracts of suretyship;
+(3) insurance indemnifying banks, bankers, brokers, financial or moneyed corporations or associations against loss, resulting from any cause, of bills of exchange, notes, bonds, securities, evidences of debt, deeds, mortgages, warehouse receipts or other valuable papers, documents, money, precious metals and articles made therefrom, jewelry, watches, necklaces, bracelets, gems, precious and semiprecious stones, including loss while being transported in armored motor vehicles or by messenger, but not including any other risks of transportation or navigation; also insurance against loss or damage to an insured's premises or to the furnishings, fixtures, equipment, safes, and vaults on an insured's premises caused by burglary, robbery, theft, vandalism, or malicious mischief, or attempted burglary, robbery, theft, vandalism, or malicious mischief.</p>
+            </content>
+          </section>
+          <section eId="sec_21-12-090">
+            <num>21.12.090</num>
+            <heading>Marine, wet marine, and transportation insurance defined.</heading>
+            <subsection eId="21-12-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Marine insurance includes</p>
+              </content>
+              <paragraph eId="21-12-090__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>insurance against any and all kinds of loss or damage to
+(A) vessels, craft, aircraft, cars, automobiles, and vehicles of every kind, as well as all goods, freights, cargoes, merchandise, effects, disbursements, profits, money, bullion, precious stones, securities, choses in action, evidences of debt, valuable papers, bottomry and respondentia interests and all other kinds of property and interests therein, in respect to, appertaining to, or in connection with any and all risks or perils of navigation, transit, or transportation, including war risks, on or under any seas or other waters, on land or in the air, or while being assembled, packed, crated, baled, compressed, or similarly prepared for shipment or while awaiting shipment or during delays, storage, transshipment, or reshipment incident thereto, including marine builder's risks and all personal property floater risks;
+(B) a person or to property in connection with or appertaining to a marine, inland marine, transit or transportation insurance, including liability for loss of or damage to either, arising out of or in connection with the construction, repair, operation, maintenance, or use of the subject matter of the insurance (but not including life insurance or surety bonds or insurance against loss by reason of bodily injury to the person arising out of the ownership, maintenance, or use of automobiles);
+(C) precious stones, jewels, jewelry, gold, silver, and other precious metals, whether used in business or trade or otherwise and whether in the course of transportation or otherwise;
+(D) bridges, tunnels, and other instrumentalities of transportation and communication (excluding buildings, their furniture and furnishings, fixed contents and supplies held in storage) unless fire, tornado, sprinkler leakage, hail, explosion, earthquake, riot and/or civil commotion are the only hazards to be covered; piers, wharves, docks and slips, excluding the risks of fire, tornado, sprinkler leakage, hail, explosion, ea</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-090__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>marine protection and indemnity insurance, meaning insurance against, or against legal liability of the insured for loss, damage, or expense arising out of, or incident to, the ownership, operation, chartering, maintenance, use, repair, or construction of a vessel, craft, or instrumentality in use in ocean or inland waterways, including liability of the insured for personal injury, illness, or death or for loss of or damage to the property of another person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-12-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purposes of this title, wet marine and transportation insurance is that part of marine insurance that includes only</p>
+              </content>
+              <paragraph eId="21-12-090__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>insurance on vessels, crafts, and hulls, and insurance of interests in or with relation to vessels, crafts, and hulls;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-090__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>insurance of marine builder's risks, marine war risks, and contracts of marine protection and indemnity insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-090__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>insurance of freights and disbursements pertaining to a subject of insurance coming within this section; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-12-090__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>insurance of personal property and interests in personal property, in the course of exportation from or importation into any country, and in the course of transportation coastwise or on inland waters, including transportation by land, water, or air from point of origin to final destination, in respect to, appertaining to, or in connection with, any and all risks or perils of navigation, transit, or transportation, and while being prepared for and while awaiting shipment, and during delays, storage, transshipment, or reshipment incident thereto.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-12-110">
+            <num>21.12.110</num>
+            <heading>Mortgage guaranty insurance defined.</heading>
+            <content>
+              <p>Sec. 21.12.110.   Mortgage guaranty insurance defined.
+Mortgage guaranty insurance includes insurance against financial loss by reason of nonpayment of principal, interest, and other sums agreed to be paid under the terms of any note or bond or other evidence of indebtedness secured by a mortgage, deed of trust, or other instrument consisting of a lien or charge on real estate.</p>
+            </content>
+          </section>
+          <section eId="sec_21-12-130">
+            <num>21.12.130</num>
+            <heading>Commercial insurance defined.</heading>
+            <content>
+              <p>Sec. 21.12.130.   Commercial insurance defined.
+Commercial insurance is any line of property insurance, as defined in
+AS 21.12.060
+, or casualty insurance, as defined in
+AS 21.12.070
+, that is for business and professional interests, whether for profit, nonprofit, or public in nature. For purposes of filing rates under
+AS 21.39.040
+and forms under
+AS 21.42.120
+, commercial insurance does not include workers' compensation insurance.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

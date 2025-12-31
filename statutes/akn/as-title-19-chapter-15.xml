@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-19/chapter-15"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-19/chapter-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="19.15"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-19/chapter-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-19/chapter-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-19/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-19/chapter-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_19">
+        <num>19</num>
+        <heading>Highways and Ferries</heading>
+        <chapter eId="title_19__chp_15">
+          <num>15</num>
+          <heading>Financial Provisions</heading>
+          <section eId="sec_19-15-010">
+            <num>19.15.010</num>
+            <heading>Loans to department.</heading>
+            <content>
+              <p>Sec. 19.15.010.   Loans to department.
+For the purpose of participating in a federal grant-in-aid program, the department may apply to the Department of Administration for short-term loans from the general fund for periods not to exceed nine months and for amounts estimated not to exceed anticipated revenue for the term of the loan. The Department of Administration may approve the loan if it determines that the loan would not adversely curtail other expenditures from the general fund.</p>
+            </content>
+          </section>
+          <section eId="sec_19-15-020">
+            <num>19.15.020</num>
+            <heading>Assent to federal aid; line of credit.</heading>
+            <subsection eId="19-15-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The legislature assents to the Act of Congress approved July 11, 1916 (39 Stat. 355) entitled, An Act to provide that the United States shall aid the states in the construction of rural post roads, and for other purposes.  The department may make all contracts and do all things necessary to cooperate with the federal government in the construction of highways under the provisions of that Act, and all Acts amending or supplementing it, and any other Act of Congress that may be enacted, including the Federal-Aid Highway Act of 1956 (Public Law 627, 85th Congress, 2nd Session).</p>
+              </content>
+            </subsection>
+            <subsection eId="19-15-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may incur a line of credit or indebtedness to the Federal Highway Administration, United States Department of Transportation, under 23 U.S.C. 601  609 (Transportation Infrastructure Finance and Innovation Act of 1998), as amended, and may enter into a contract or agreement with any public or private person, governmental unit or agency, corporation, or other business entity to secure the indebtedness.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_19-15-025">
+            <num>19.15.025</num>
+            <heading>Federal-aid highway projects.</heading>
+            <subsection eId="19-15-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may allocate up to two percent of nonrestricted federal-aid highway apportionments to projects classified under the trails and recreational access for Alaska program under a statewide transportation improvement program.</p>
+              </content>
+            </subsection>
+            <subsection eId="19-15-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall annually allocate at least 39 percent of nonrestricted federal-aid highway apportionments to projects classified under the community transportation program under a statewide transportation improvement program.</p>
+              </content>
+            </subsection>
+            <subsection eId="19-15-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Not more than 10 percent of the funds provided to a municipality for participation in federal-aid highway or other eligible projects may be expended from the transportation enhancement apportionment over the life of a transportation improvement program.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_19-15-030">
+            <num>19.15.030</num>
+            <heading>Participation by municipality in federal highway construction.</heading>
+            <content>
+              <p>Sec. 19.15.030.   Participation by municipality in federal highway construction.
+When a federal-aid highway is routed through a municipality, it may participate in the financing, planning, construction, acquisition of right-of-way, and maintenance of the highway in the manner and proportion the department determines is reasonable and proper.</p>
+            </content>
+          </section>
+          <section eId="sec_19-15-040">
+            <num>19.15.040</num>
+            <heading>General laws governing assessments by municipalities to pay highway costs.</heading>
+            <content>
+              <p>Sec. 19.15.040.   General laws governing assessments by municipalities to pay highway costs.
+The provisions of law relating to the levying of assessments for highway financing, planning, construction, acquisition of right-of-way, and maintenance, referred to in
+AS 19.15.030
+apply to the extent that they are not inconsistent with the general purpose of
+AS 19.05
+
+AS 19.25
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

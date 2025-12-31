@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-16"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-16"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.16"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-16/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-16/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-16/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-16/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_16">
+          <num>16</num>
+          <heading>Regulation of Abortions</heading>
+          <section eId="sec_18-16-010">
+            <num>18.16.010</num>
+            <heading>Abortions.</heading>
+            <subsection eId="18-16-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An abortion may not be performed in this state unless</p>
+              </content>
+              <paragraph eId="18-16-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the abortion is performed by a physician licensed by the State Medical Board under
+AS 08.64.200
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the abortion is performed in a hospital or other facility approved for the purpose by the Department of Health or a hospital operated by the federal government or an agency of the federal government;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>before an abortion is knowingly performed or induced on a pregnant, unmarried, unemancipated woman under 18 years of age, notice or consent have been given as required under
+AS 18.16.020
+or a court has authorized the minor to proceed with the abortion without parental involvement under
+AS 18.16.030
+and the minor consents; for purposes of enforcing this paragraph, there is a rebuttable presumption that a woman who is unmarried and under 18 years of age is unemancipated;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-010__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the woman is domiciled or physically present in the state for 30 days before the abortion; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-010__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the applicable requirements of
+AS 18.16.060
+have been satisfied.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-16-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this section requires a hospital or person to participate in an abortion, nor is a hospital or person liable for refusing to participate in an abortion under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who knowingly violates a provision of this section, upon conviction, is punishable by a fine of not more than $1,000, or by imprisonment for not more than five years, or by both.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>[Repealed, § 6 ch 14 SLA 1997.]</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-010__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A person who performs or induces an abortion in violation of (a)(3) of this section is civilly liable to the pregnant minor and the minor's parents, guardian, or custodian for compensatory and punitive damages.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-010__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>It is an affirmative defense to a prosecution or claim for a violation of (a)(3) of this section that the pregnant minor provided the person who performed or induced the abortion with false, misleading, or incorrect information about the minor's age, marital status, or emancipation, and the person who performed or induced the abortion did not otherwise have reasonable cause to believe that the pregnant minor was under 17 years of age, unmarried, or unemancipated.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-010__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>It is a defense to a prosecution or claim for violation of (a)(3) of this section that, in the clinical judgment of the physician or surgeon, compliance with the requirements of (a)(3) of this section was not possible because, in the clinical judgment of the physician or surgeon, an immediate threat of serious risk to the life or physical health of the pregnant minor from the continuation of the pregnancy created a medical emergency necessitating the immediate performance or inducement of an abortion. In this subsection,</p>
+              </content>
+              <paragraph eId="18-16-010__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>clinical judgment means a physician's or surgeon's subjective professional medical judgment exercised in good faith;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-010__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>defense has the meaning given in
+AS 11.81.900</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-010__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>medical emergency means a condition that, on the basis of the physician's or surgeon's good faith clinical judgment, so complicates the medical condition of a pregnant minor that
+(A) an immediate abortion of the minor's pregnancy is necessary to avert the minor's death; or
+(B) a delay in providing an abortion will create serious risk of medical instability caused by a substantial and irreversible impairment of a major bodily function of the pregnant minor.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-16-010__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A physician or other health care provider is liable for failure to obtain the informed consent of a person as required under
+AS 18.16.060
+if the claimant establishes by a preponderance of the evidence that the provider has failed to inform the person of the common risks and reasonable alternatives to the proposed abortion procedure and that, but for that failure, the person would not have consented to the abortion procedure.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-010__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>It is a defense to any action for the alleged failure to obtain the informed consent of a person under (h) of this section that</p>
+              </content>
+              <paragraph eId="18-16-010__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the risk not disclosed is too commonly known or is too remote to require disclosure; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-010__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the person who is the subject of the alleged failure to obtain the informed consent stated to the physician or other health care provider that the person would or would not undergo the abortion procedure regardless of the risk involved or that the person did not want to be informed of the matters to which the person would be entitled to be informed.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-16-010__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>In an action under (h) of this section, there is a rebuttable presumption that an abortion was performed with the pregnant woman's informed consent if the person who performed the abortion submits into evidence a copy of the woman's written certification required under
+AS 18.16.060
+(b).</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-16-020">
+            <num>18.16.020</num>
+            <heading>Notice or consent required before minor's abortion.</heading>
+            <subsection eId="18-16-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not knowingly perform or induce an abortion upon a minor who is known to the person to be pregnant, unmarried, under 18 years of age, and unemancipated unless, before the abortion, at least one of the following applies:</p>
+              </content>
+              <paragraph eId="18-16-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>either
+(A) one of the minor's parents, the minor's legal guardian, or the minor's custodian has been given notice of the planned abortion not less than 48 hours before the abortion is performed, or
+(B) the parent, legal guardian, or custodian has consented in writing to the performance or inducement of the abortion; if a parent has consented to the abortion the 48 hour waiting period referenced in (A) of this paragraph does not apply;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a court issues an order under
+AS 18.16.030
+authorizing the minor to consent to the abortion without notice or consent of a parent, guardian, or custodian, and the minor consents to the abortion;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a court, by its inaction under
+AS 18.16.030
+, constructively has authorized the minor to consent to the abortion without notice and consent of a parent, guardian, or custodian, and the minor consents to the abortion; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the minor is the victim of physical abuse, sexual abuse, or a pattern of emotional abuse committed by one or both of the minor's parents or by a legal guardian or custodian of the minor and the abuse is documented by a declaration of the abuse in a signed and notarized statement by
+(A) the minor; and
+(B) another person who has personal knowledge of the abuse who is</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-16-020__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the sibling of the minor who is 21 years of age or older;
+(ii) a law enforcement officer;
+(iii) a representative of the Department of Family and Community Services who has investigated the abuse;
+(iv) a grandparent of the minor; or</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-020__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>a stepparent of the minor.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In (a)(1) of this section, actual notice must be given or attempted to be given in person or by telephone by either the physician who has referred the minor for an abortion or by the physician who intends to perform the abortion. An individual designated by the physician may initiate the notification process, but the actual notice shall be given by the physician. The physician giving notice of the abortion must document the notice or attempted notice in the minor's medical record and take reasonable steps to verify that the person to whom the notice is provided is the parent, legal guardian, or custodian of the minor seeking an abortion. Reasonable steps to provide notice must include</p>
+              </content>
+              <paragraph eId="18-16-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if in person, requiring the person to show government-issued identification along with additional documentation of the person's relationship to the minor; additional documentation may include the minor's birth certificate or a court order of adoption, guardianship, or custodianship;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if by telephone, initiating the call, attempting to verify through a review of published telephone directories that the number to be dialed is that of the minor's parent, legal guardian, or custodian, and asking questions of the person to verify that the person's relationship to the minor is that of parent, legal guardian, or custodian; when notice is attempted by telephone but the physician or physician's designee is unsuccessful in reaching the parent, legal guardian, or custodian, the physician's designee shall continue to initiate the call, in not less than two-hour increments, for not less than five attempts, in a 24-hour period.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-16-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If actual notice is attempted unsuccessfully after reasonable steps have been taken as described under (b) of this section, the referring physician or the physician intending to perform an abortion on a minor may provide constructive notice to the minor's parent, legal guardian, or custodian. Constructive notice is considered to have been given 48 hours after the certified notice is mailed. In this subsection, constructive notice means that notice of the abortion was provided in writing and mailed by certified mail, delivery restricted to addressee only, to the last known address of the parent, legal guardian, or custodian after taking reasonable steps to verify the mailing address.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-020__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A physician who suspects or receives a report of abuse under this section shall report the abuse as provided under
+AS 47.17.020
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-020__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A physician who is informed that the pregnancy of a minor resulted from criminal sexual assault of the minor must retain, and take reasonable steps to preserve, the products of conception and evidence following the abortion for use by law enforcement officials in prosecuting the crime.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-16-030">
+            <num>18.16.030</num>
+            <heading>Judicial bypass for minor seeking an abortion.</heading>
+            <subsection eId="18-16-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A woman who is pregnant, unmarried, under 18 years of age, and unemancipated who wishes to have an abortion without notice to or the consent of a parent, guardian, or custodian may file a complaint in the superior court requesting the issuance of an order authorizing the minor to consent to the performance or inducement of an abortion without notice to or the consent of a parent, guardian, or custodian.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The complaint shall be made under oath and must include all of the following:</p>
+              </content>
+              <paragraph eId="18-16-030__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a statement that the complainant is pregnant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-030__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a statement that the complainant is unmarried, under 18 years of age, and unemancipated;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-030__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a statement that the complainant wishes to have an abortion without notice to or the consent of a parent, guardian, or custodian;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-030__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>an allegation of either or both of the following:
+(A) that the complainant is sufficiently mature and well enough informed to decide intelligently whether to have an abortion without notice to or the consent of a parent, guardian, or custodian; or
+(B) that one or both of the minor's parents or the minor's guardian or custodian was engaged in physical abuse, sexual abuse, or a pattern of emotional abuse against the minor, or that the consent of a parent, guardian, or custodian otherwise is not in the minor's best interest;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-030__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a statement as to whether the complainant has retained an attorney and, if an attorney has been retained, the name, address, and telephone number of the attorney.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-16-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The court shall fix a time for a hearing on any complaint filed under (a) of this section and shall keep a record of all testimony and other oral proceedings in the action. The hearing shall be held at the earliest possible time, but not later than the fifth business day after the day that the complaint is filed. The court shall enter judgment on the complaint immediately after the hearing is concluded. If the hearing required by this subsection is not held by the fifth business day after the complaint is filed, the failure to hold the hearing shall be considered to be a constructive order of the court authorizing the complainant to consent to the performance or inducement of an abortion without notice to or the consent of a parent, guardian, or custodian, and the complainant and any other person may rely on the constructive order to the same extent as if the court actually had issued an order under this section authorizing the complainant to consent to the performance or inducement of an abortion without such consent.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the complainant has not retained an attorney, the court shall appoint an attorney to represent the complainant.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the complainant makes only the allegation set out in (b)(4)(A) of this section and if the court finds by clear and convincing evidence that the complainant is sufficiently mature and well enough informed to decide intelligently whether to have an abortion, the court shall issue an order authorizing the complainant to consent to the performance or inducement of an abortion without the consent of a parent, guardian, or custodian. If the court does not make the finding specified in this subsection, it shall dismiss the complaint.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If the complainant makes only the allegation set out in (b)(4)(B) of this section and the court finds that there is clear and convincing evidence of physical abuse, sexual abuse, or a pattern of emotional abuse of the complainant by one or both of the minor's parents or the minor's guardian or custodian, or by clear and convincing evidence the consent of the parents, guardian, or custodian of the complainant otherwise is not in the best interest of the complainant, the court shall issue an order authorizing the complainant to consent to the performance or inducement of an abortion without the consent of a parent, guardian, or custodian. If the court does not make the finding specified in this subsection, it shall dismiss the complaint.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If the complainant makes both of the allegations set out in (b)(4) of this section, the court shall proceed as follows:</p>
+              </content>
+              <paragraph eId="18-16-030__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the court first shall determine whether it can make the finding specified in (e) of this section and, if so, shall issue an order under that subsection; if the court issues an order under this paragraph, it may not proceed under (f) of this section; if the court does not make the finding specified in (e) of this section, it shall proceed under (2) of this subsection;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-030__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the court under (1) of this subsection does not make the finding specified in (e) of this section, it shall proceed to determine whether it can make the finding specified in (f) of this section and, if so, shall issue an order under that subsection; if the court does not make the finding specified in (f) of this section, it shall dismiss the complaint.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-16-030__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The court may not notify the parents, guardian, or custodian of the complainant that the complainant is pregnant or wants to have an abortion.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>If the court dismisses the complaint, the complainant has the right to appeal the decision to the supreme court, and the superior court immediately shall notify the complainant that there is a right to appeal.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>If the complainant files a notice of appeal authorized under this section, the superior court shall deliver a copy of the notice of appeal and the record on appeal to the supreme court within four days after the notice of appeal is filed. Upon receipt of the notice and record, the clerk of the supreme court shall place the appeal on the docket. The appellant shall file a brief within four days after the appeal is docketed. Unless the appellant waives the right to oral argument, the supreme court shall hear oral argument within five days after the appeal is docketed. The supreme court shall enter judgment in the appeal immediately after the oral argument or, if oral argument has been waived, within five days after the appeal is docketed. Upon motion of the appellant and for good cause shown, the supreme court may shorten or extend the maximum times set out in this subsection. However, in any case, if judgment is not entered within five days after the appeal is docketed, the failure to enter the judgment shall be considered to be a constructive order of the court authorizing the appellant to consent to the performance or inducement of an abortion without notice to or the consent of a parent, guardian, or custodian, and the appellant and any other person may rely on the constructive order to the same extent as if the court actually had entered a judgment under this subsection authorizing the appellant to consent to the performance or inducement of an abortion without notice to or the consent of another person. In the interest of justice, the supreme court, in an appeal under this subsection, shall liberally modify or dispense with the formal requirements that normally apply as to the contents and form of an appellant's brief.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Each hearing under this section, and all proceedings under (j) of this section, shall be conducted in a manner that will preserve the anonymity of the complainant. The complaint and all other papers and records that pertain to an action commenced under this section, including papers and records that pertain to an appeal under this section, shall be kept confidential and are not public records under
+AS 40.25.110
+ 40.25.120.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>The supreme court shall prescribe complaint and notice of appeal forms that shall be used by a complainant filing a complaint or appeal under this section. The clerk of each superior court shall furnish blank copies of the forms, without charge, to any person who requests them.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>A filing fee may not be required of, and court costs may not be assessed against, a complainant filing a complaint under this section or an appellant filing an appeal under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-030__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>Blank copies of the forms prescribed under (l) of this section and information on the proper procedures for filing a complaint or appeal shall be made available by the court system at the official location of each superior court, district court, and magistrate in the state. The information required under this subsection must also include notification to the minor that</p>
+              </content>
+              <paragraph eId="18-16-030__subsec_n__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>there is no filing fee required for either form;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-030__subsec_n__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>no court costs will be assessed against the minor for procedures under this section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-030__subsec_n__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an attorney will be appointed to represent the minor if the minor does not retain an attorney;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-030__subsec_n__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the minor may request that the superior court with appropriate jurisdiction hold a telephonic hearing on the complaint so that the minor need not personally be present;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-030__subsec_n__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the minor may request that the superior court with appropriate jurisdiction issue an order directing the minor's school to excuse the minor from school to attend court hearings held under this section and to have the abortion if one is authorized by the court and directing the school not to notify the minor's parent, legal guardian, or custodian that the minor is pregnant, seeking an abortion, or is absent for purposes of obtaining an abortion.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-16-040">
+            <num>18.16.040</num>
+            <heading>Reports.</heading>
+            <content>
+              <p>Sec. 18.16.040.   Reports.
+For each month in which an abortion is performed on a minor by a physician, the physician shall file a report with the Department of Health indicating the number of abortions performed on a minor for that month, the age of each minor, the number of previous abortions performed on each minor, if any, and the number of pregnancies of each minor, if any, and the number of consents provided under each of the exceptions enumerated under
+AS 18.16.020
+(a)(1)  (4). A report filed under this section may not include identifying information of the minor other than the minor's age.</p>
+            </content>
+          </section>
+          <section eId="sec_18-16-050">
+            <num>18.16.050</num>
+            <heading>Partial-birth abortions.</heading>
+            <subsection eId="18-16-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding compliance with
+AS 18.16.010
+, a person may not knowingly perform a partial-birth abortion unless a partial-birth abortion is necessary to save the life of a mother whose life is endangered by a physical disorder, illness, or injury and no other medical procedure would suffice for that purpose. Violation of this subsection is a class C felony.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A woman upon whom a partial-birth abortion is performed may not be prosecuted under this section or under any other law if the prosecution is based on this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In this section, partial-birth abortion means an abortion in which the person performing the abortion partially vaginally delivers a living fetus before killing the fetus and completing the delivery.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-16-060">
+            <num>18.16.060</num>
+            <heading>Informed consent requirements.</heading>
+            <subsection eId="18-16-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (d) of this section, a person may not knowingly perform or induce an abortion without the voluntary and informed consent of</p>
+              </content>
+              <paragraph eId="18-16-060__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a woman on whom an abortion is to be performed or induced;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-060__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the parent, guardian, or custodian of a pregnant, unemancipated minor if required under
+AS 18.16.020
+; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-060__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a pregnant, unemancipated minor if authorized by a court under
+AS 18.16.030
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-16-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Consent to an abortion is informed and voluntary when the woman or another person whose consent is required certifies in writing that the physician who is to perform the abortion, a member of the physician's staff who is a licensed health care provider, or the referring physician has verbally informed the woman or another person whose consent is required of the name of the physician who will perform the procedure and the gestational estimation of the pregnancy at the time the abortion is to be performed and has provided either</p>
+              </content>
+              <paragraph eId="18-16-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the Internet information required to be maintained under
+AS 18.05.032
+; the physician or a member of the physician's staff who is a licensed health care provider shall provide a copy of the Internet information if a person requests a written copy; if a member of the physician's staff provides the information required under this paragraph, the member of the physician's staff shall offer the opportunity to consult with the physician; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>information about the nature and risks of undergoing or not undergoing the proposed procedure that a reasonable patient would consider material to making a voluntary and informed decision of whether to undergo the procedure.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-16-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The information required in (b) of this section shall be provided before the procedure in a private setting to protect privacy, maintain the confidentiality of the decision, ensure that the information focuses on the individual circumstances, and ensure an adequate opportunity to ask questions. Provision of the information telephonically or by electronic mail, regular mail, or facsimile transmittal before the person's appointment satisfies the requirements of this subsection as long as the person whose consent is required under (a) of this section has an opportunity to ask questions of the physician after receiving the information.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-16-060__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding (a) of this section, informed consent that meets the requirements of (a)  (c) of this section is not required in the case of a medical emergency or if the pregnancy is the result of sexual assault under
+AS 11.41.410
+ 11.41.427, sexual abuse of a minor under
+AS 11.41.434
+ 11.41.440, incest under
+AS 11.41.450
+, or an offense under a law of another jurisdiction with elements similar to one of these offenses. In this subsection, medical emergency means a condition that, on the basis of a physician's good faith clinical judgment, so complicates the medical condition of a pregnant woman that</p>
+              </content>
+              <paragraph eId="18-16-060__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the immediate termination of the woman's pregnancy is necessary to avert the woman's death; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-16-060__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a delay in providing an abortion will create serious risk of substantial and irreversible impairment of a major bodily function of the woman.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-16-090">
+            <num>18.16.090</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.16.090.   Definitions.
+In this chapter,
+(1) abortion means the use or prescription of an instrument, medicine, drug, or other substance or device to terminate the pregnancy of a woman known to be pregnant, except that abortion does not include the termination of a pregnancy if done with the intent to
+(A) save the life or preserve the health of the unborn child;
+(B) deliver the unborn child prematurely to preserve the health of both the pregnant woman and the woman's child; or
+(C) remove a dead unborn child;
+(2) unemancipated means that a woman who is unmarried and under 17 years of age has not done any of the following:
+(A) entered the armed services of the United States;
+(B) become employed and self-subsisting;
+(C) been emancipated under
+AS 09.55.590
+; or
+(D) otherwise become independent from the care and control of the woman's parent, guardian, or custodian.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

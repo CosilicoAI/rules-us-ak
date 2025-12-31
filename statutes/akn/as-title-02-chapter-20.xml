@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-20"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="2.20"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-2/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-2/chapter-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_2">
+        <num>2</num>
+        <heading>Aeronautics</heading>
+        <chapter eId="title_2__chp_20">
+          <num>20</num>
+          <heading>Landing Field Obstructions</heading>
+          <section eId="sec_02-20-050">
+            <num>02.20.050</num>
+            <heading>Obstructing airports and runways.</heading>
+            <subsection eId="02-20-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not place an object on the surface of a public use airport that because of its nature or location might cause injury or damage to an aircraft or person riding in the aircraft.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-20-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person may not dig a hole or make any kind of excavation, or drive a sled, tractor, truck, or any kind of vehicle upon the surface of a public use airport that might make ruts, or tracks, or add to an accumulation of tracks so as to cause sufficient roughness of the surface to endanger aircraft using the airport.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-20-050__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>All acts prohibited in (a) and (b) of this section also apply in their entirety to a temporary airport or runway that has been marked out on the frozen surface of a stream or lake for the use of aircraft.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-20-050__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Unless closed for public safety reasons by a notice to airmen (NOTAM) provided to the Federal Aviation Administration or by publication in the appropriate aeronautical charts and publications published by the Federal Aviation Administration, unless closed or restricted under the authority provided in
+AS 16.05.050
+, 16.05.251, 16.05.255, 16.05.270,
+AS 16.20.010
+ 16.20.162, or 16.20.500  16.20.690, or unless closed or restricted under authority consistent with
+AS 38.04.200
+or
+AS 41.21.020
+(e), navigable water in the state or a suitable landing site on public land that is not subject to a surface lease, easement, or permit issued by the Department of Natural Resources is presumed open for operation of aircraft.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_02-20-060">
+            <num>02.20.060</num>
+            <heading>Enforcement and penalties.</heading>
+            <subsection eId="02-20-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Federal, state, and municipal law enforcement officers may enforce the provisions of this chapter and regulations adopted under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="02-20-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who violates this chapter, or a regulation adopted under this chapter, is punishable, upon conviction, for each offense by a fine of not more than $500, or by imprisonment for not more than six months, or by both.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

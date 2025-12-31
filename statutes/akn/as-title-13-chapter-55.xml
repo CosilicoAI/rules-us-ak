@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-55"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-55"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="13.55"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-55/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-55/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-55/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-55/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_13">
+        <num>13</num>
+        <heading>Decedents' Estates, Guardianships, Transfers, Trusts, and Health Care Decisions</heading>
+        <chapter eId="title_13__chp_55">
+          <num>55</num>
+          <heading>Voluntary Nonopioid Directive Act</heading>
+          <section eId="sec_13-55-010">
+            <num>13.55.010</num>
+            <heading>Nonopioid directive; revocation; other requirements.</heading>
+            <subsection eId="13-55-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An individual who is 18 years of age or older or an emancipated minor, a parent or legal guardian of a minor, or an individual's guardian or other person appointed by the individual or a court to manage the individual's health care may execute a voluntary nonopioid directive stating that an opioid may not be administered or prescribed to the individual or the minor. The directive must be in a format prescribed by the department and available in an electronic format.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-55-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner of health shall adopt regulations to implement this chapter. The regulations must</p>
+              </content>
+              <paragraph eId="13-55-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>include verification by a health care provider and comply with the written consent requirements under 42 U.S.C. 290dd-2(b);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-55-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provide standard procedures for an individual, a parent or legal guardian of a minor, or an individual's guardian or other person appointed by the individual or a court to manage the individual's health care to submit a voluntary nonopioid directive to a health care provider or hospital;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-55-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>include appropriate exemptions for emergency medical personnel;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-55-010__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>ensure the confidentiality of a voluntary nonopioid directive;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="13-55-010__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>ensure exemptions for an opioid used for treatment of substance abuse or opioid dependence.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="13-55-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An individual who is 18 years of age or older or an emancipated minor, a parent or legal guardian of a minor, or an individual's guardian or other person appointed by the individual or a court to manage the individual's health care may revoke a voluntary nonopioid directive at any time in writing or orally.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-55-010__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An individual, a parent or legal guardian of a minor, or an individual's guardian or other person appointed by the individual or a court to manage the individual's health care may submit a voluntary nonopioid directive to a health care provider or a hospital.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-55-020">
+            <num>13.55.020</num>
+            <heading>Obligations of health care providers and hospitals.</heading>
+            <content>
+              <p>Sec. 13.55.020.   Obligations of health care providers and hospitals.
+A health care provider, a hospital, or an employee of a health care provider or hospital may not be subject to disciplinary action by the health care provider's or the employee's professional licensing board or held civilly or criminally liable for failure to administer, prescribe, or dispense an opioid, or for inadvertent administration of an opioid, to an individual or a minor who has a voluntary nonopioid directive.</p>
+            </content>
+          </section>
+          <section eId="sec_13-55-030">
+            <num>13.55.030</num>
+            <heading>Prescriptions presumed valid.</heading>
+            <content>
+              <p>Sec. 13.55.030.   Prescriptions presumed valid.
+A prescription presented to a pharmacy is presumed to be valid, and a pharmacist may not be subject to disciplinary action by the pharmacist's professional licensing board or held civilly or criminally liable for dispensing an opioid in contradiction to an individual's or a minor's voluntary nonopioid directive.</p>
+            </content>
+          </section>
+          <section eId="sec_13-55-040">
+            <num>13.55.040</num>
+            <heading>Effect of this chapter.</heading>
+            <content>
+              <p>Sec. 13.55.040.   Effect of this chapter.
+Nothing in this chapter shall be construed to
+(1) alter an advance health care directive under
+AS 13.52
+(Health Care Decisions Act);
+(2) limit the prescribing, dispensing, or administering of an opioid overdose drug;
+(3) limit an authorized health care provider or pharmacist from prescribing, dispensing, or administering an opioid for the treatment of substance abuse or opioid dependence.</p>
+            </content>
+          </section>
+          <section eId="sec_13-55-100">
+            <num>13.55.100</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 13.55.100.   Definitions.
+In this chapter, unless the context otherwise requires,
+(1) department means the Department of Health;
+(2) emancipated minor means a minor whose disabilities have been removed for general purposes under
+AS 09.55.590
+;
+(3) health care provider has the meaning given in
+AS 09.65.340
+;
+(4) hospital has the meaning given in
+AS 13.52.268
+;
+(5) minor means an individual under 18 years of age who is not an emancipated minor;
+(6) opioid includes the opium and opiate substances and opium and opiate derivatives listed in
+AS 11.71.140
+and 11.71.160;
+(7) opioid overdose drug has the meaning given in
+AS 09.65.340
+.</p>
+            </content>
+          </section>
+          <section eId="sec_13-55-110">
+            <num>13.55.110</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 13.55.110.   Short title.
+This chapter may be known as the Voluntary Nonopioid Directive Act.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

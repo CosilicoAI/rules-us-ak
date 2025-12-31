@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-37"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-37"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.37"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-37/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-37/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-37/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-37/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_37">
+          <num>37</num>
+          <heading>Interceptions and Access to Communications</heading>
+          <section eId="sec_12-37-010">
+            <num>12.37.010</num>
+            <heading>Authorization to intercept communications.</heading>
+            <content>
+              <p>Sec. 12.37.010.   Authorization to intercept communications.
+The attorney general, or a person designated in writing or by law to act for the attorney general, may authorize, in writing, an ex parte application to a court of competent jurisdiction for an order authorizing the interception of a private communication if the interception may provide evidence of, or may assist in the apprehension of persons who have committed, are committing, or are planning to commit, the following offenses:
+(1) murder in the first or second degree under
+AS 11.41.100
+ 11.41.110;
+(2) kidnapping under
+AS 11.41.300
+;
+(3) a class A or unclassified felony drug offense under
+AS 11.71
+;
+(4) sex trafficking in the first or second degree under
+AS 11.66.110
+and 11.66.120; or
+(5) human trafficking in the first degree under
+AS 11.41.360
+.</p>
+            </content>
+          </section>
+          <section eId="sec_12-37-020">
+            <num>12.37.020</num>
+            <heading>Application for order authorizing a communication interception.</heading>
+            <subsection eId="12-37-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An application for an order authorizing the interception of a private communication shall be made in writing upon oath or affirmation and must state</p>
+              </content>
+              <paragraph eId="12-37-020__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the authority of the applicant to make the application;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-020__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the identity of the peace officer for whom the authority to intercept the communication is sought;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-020__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the facts relied upon by the applicant for the order, including
+(A) if known, the identity of the particular person committing the offense and whose communication is to be intercepted;
+(B) the details as to the particular offense that has been, is being, or is about to be committed;
+(C) the specific type of communication to be intercepted;
+(D) a showing that there is probable cause to believe that the communication will be communicated on the specific communication facility involved or at the specific place where the oral communication is to be intercepted;
+(E) a showing that there is probable cause to believe that the facility from which, or the place where, the communication is to be intercepted, is, has been, or is about to be used in connection with the commission of the offense, or is leased to, listed in the name of, or commonly used by, the person whose communication is to be intercepted;
+(F) the character and location of the specific communication facility involved or the specific place where the oral communication is to be intercepted;
+(G) the objective of the investigation;
+(H) a statement of the period of time for which the interception is required to be maintained, and, if the objective of the investigation is such that the authorization for interception should not automatically terminate when the described type of communication has been first obtained, a specific statement of facts establishing probable cause to believe that additional communications of the same type will continue to occur;
+(I) a specific statement of facts showing that other normal investigative procedures with respect to the offense have been tried and have failed, or reasonably appear to be unlikely to succeed if tried, or are too dangerous to employ;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-020__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the facts known to the applicant concerning all previous applications made to a court for the issuance of an order authorizing the interception of a private communication involving any of the same facilities or places specified in the current application or involving the same person whose communication is to be intercepted, and the action taken by the court on each application;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-020__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>if the application is for an extension of a previously issued order, a statement of facts showing the results obtained thus far from the interception, or a reasonable explanation for the failure to obtain results;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-020__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a proposed order authorizing the communication interception; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-020__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>any additional facts in support of the application considered appropriate by the applicant or by the court.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an applicant for an order authorizing a communications interception is relying upon uncorroborated evidence provided by a confidential informant, the court may hold an in camera hearing at which it may inquire as to the identity of the informant or as to any other relevant information concerning the basis upon which the applicant is applying for the order.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-37-030">
+            <num>12.37.030</num>
+            <heading>Requirements for an order authorizing a communications interception.</heading>
+            <subsection eId="12-37-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon consideration of an application, the court may enter an ex parte order authorizing the interception of a private communication if the court determines, on the basis of the application, that</p>
+              </content>
+              <paragraph eId="12-37-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>there is probable cause to believe that the person whose communication is to be intercepted is committing, has committed, or is planning to commit an offense listed in
+AS 12.37.010
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>there is probable cause to believe that a communication concerning the offense may be obtained through the interception;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-030__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>there is probable cause to believe that the facility from which, or the place where, the communication is to be intercepted, is, has been, or is about to be used in connection with the commission of the offense, or is leased to, listed in the name of, or commonly used by, the person whose communication is to be intercepted;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-030__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>normal investigative procedures with respect to the offense have been tried and have failed or reasonably appear to be either unlikely to succeed if tried or too dangerous to employ; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-030__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>if the application, other than an application for an extension, is for an order to intercept a communication of a person, or involving a communications facility, that was the subject of a previous application, the current application is based upon new evidence or information different from and in addition to the evidence or information offered to support the previous application.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to exercising authority under (a) of this section, on consideration of an application relating to a private communication of a minor, the court may enter an ex parte order authorizing the interception of the private communication. The court may enter the order only if the court determines, after making appropriate findings of fact and on the basis of the application, that there is probable cause to believe that</p>
+              </content>
+              <paragraph eId="12-37-030__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a party to the private communication
+(A) has committed, is committing, or is about to commit a felony or misdemeanor;
+(B) has been, is, or is about to be a victim of a felony or misdemeanor; or
+(C) has been, is, or is about to be a witness to a felony or misdemeanor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-030__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the health or safety of a minor is in danger; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-030__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a parent of a minor has consented in good faith to the interception of a communication of the minor based on the parent's objectively reasonable belief that it is necessary for the welfare of the minor and is in the best interest of the minor.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In (b) of this section, minor and parent have the meanings given in
+AS 42.20.390
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-37-040">
+            <num>12.37.040</num>
+            <heading>Contents of order authorizing a communications interception; limitations on disclosure.</heading>
+            <subsection eId="12-37-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An order entered under
+AS 12.37.030
+must state</p>
+              </content>
+              <paragraph eId="12-37-040__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>that the court is authorized to enter the order;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-040__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if known, the identity of, or a particular description of, the person whose communications are to be intercepted;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-040__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the character and location of the particular communication facility or the particular place of the communication as to which authority to intercept is granted;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-040__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a specific description of the type of communication to be intercepted and a statement of the particular offense to which it relates;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-040__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the identity of the peace officer or officers to whom the authority to intercept a communication is given and the identity of the person who authorized the application; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-040__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the period of time during which the interception is authorized, including a statement as to whether or not the interception automatically terminates when the described communication has been first obtained, and a statement that the interception shall begin and terminate as soon as practicable and be conducted in such a manner as to minimize the interception of communications not otherwise subject to interception.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An order entered under
+AS 12.37.030
+may not authorize the interception of private communications for a period of time exceeding 30 days or that period necessary to achieve the objective of the authorization, whichever is shorter. The authorized interception period begins on the day on which the peace officer first begins to conduct an interception under the order or 10 days after the order is entered, whichever is earlier. Extensions of 30 days or less may be granted if application for each extension order is made under
+AS 12.37.020
+and the necessary findings are made by the court under
+AS 12.37.030
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-37-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The court may require an applicant to file periodic reports with the court, showing what progress is being made toward achieving the authorized objective of the communication interception and what need exists for continued interception. The intervals at which the reports are to be filed shall be determined by the court.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-37-040__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An order entered under
+AS 12.37.030
+may, upon request of the applicant, direct that a communications common carrier, provider of wire or electronic communication services, landlord, owner, building operator, custodian, or other person furnish the applicant, without delay, all information, facilities, and technical assistance necessary to accomplish the interception unobtrusively. The obligations of a communications common carrier under an order may include the obligation to conduct an in-progress trace during an interception. A communications common carrier, provider of wire or electronic communication services, landlord, owner, building operator, custodian, or other person who furnishes facilities or technical assistance under this subsection shall be compensated by the applicant at prevailing rates.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-37-040__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A communications common carrier, provider of wire or electronic communication services, landlord, owner, building operator, custodian, or other person who, under this section, has been shown a copy of an order authorizing the interception of a private communication may not disclose the existence of the order or of the device used to accomplish the interception unless</p>
+              </content>
+              <paragraph eId="12-37-040__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the person is required to do so by legal process; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-040__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the person gives prior notification to the attorney general or the attorney general's designee who authorized the application for the order.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-040__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An order entered under
+AS 12.37.030
+may, upon the request of the applicant, authorize the applicant to enter a designated place or facility as often as necessary to install, maintain, or remove an intercepting device. The applicant shall notify the court of each such entry before its occurrence, if practicable. If prior notice is not practicable, the applicant shall notify the court within 72 hours after the entry.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-37-050">
+            <num>12.37.050</num>
+            <heading>Privileged communications.</heading>
+            <content>
+              <p>Sec. 12.37.050.   Privileged communications.
+An otherwise privileged communication intercepted in accordance with, or in violation of, the provisions of
+AS 12.37.010
+ 12.37.130 does not lose its privileged character by reason of the interception.</p>
+            </content>
+          </section>
+          <section eId="sec_12-37-060">
+            <num>12.37.060</num>
+            <heading>Collateral authority of court; interpretation ofAS 12.37.010 12.37.130.</heading>
+            <subsection eId="12-37-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding any other provision of
+AS 12.37.010
+ 12.37.130, a court to which an application is made for an order authorizing the interception of a private communication may take the evidence, make the findings, or issue the other orders necessary to conform the proceedings or the entry of an order to the United States Constitution, the Constitution of the State of Alaska, or any applicable law of the United States or of the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-37-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When the language of
+AS 12.37.010
+ 12.37.130 is the same or similar to the language of 18 U.S.C. 2510  2521, the courts of this state in construing
+AS 12.37.010
+ 12.37.130 shall follow the construction given to those federal statutes by the federal courts.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-37-070">
+            <num>12.37.070</num>
+            <heading>Records and recordings and custody of them.</heading>
+            <subsection eId="12-37-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A communication intercepted under
+AS 12.37.010
+ 12.37.130 shall, if practicable, be recorded by tape or wire or other comparable method. The recording shall, if practicable, be done in a way that will protect it from editing or other alteration. During an interception, the peace officer authorized to act under the court's order shall, if practicable, keep a signed, written record of the interception, that shall include the following information:</p>
+              </content>
+              <paragraph eId="12-37-070__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the date and hours during which the interception equipment or site was monitored;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-070__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the time and duration of each intercepted communication;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-070__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the parties to each intercepted communication, if known; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-070__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a summary of the contents of each intercepted communication.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Immediately upon expiration of the authorized interception period specified in an order entered under
+AS 12.37.030
+or, if an extension order has been entered, upon expiration of the authorized interception period specified in that order, any tapes or other recordings, and any records made during the interception, and all orders authorizing the interception, shall be transferred to the court that entered the order and shall be sealed under its direction. Custody of the tapes, other recordings, and records of the interception shall be maintained as the court directs. The tapes, recordings, and records of the interception may not be destroyed except upon order of the court, and in any event shall be kept for a minimum period of 10 years. Duplicate recordings and records of the interception may be made for disclosure or use under
+AS 12.37.090</p>
+              </content>
+            </subsection>
+            <subsection eId="12-37-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>and 12.37.110. The presence of the seal required by this subsection, or a satisfactory explanation for its absence, is a prerequisite for the use or disclosure of the contents of any communication intercepted under
+AS 12.37.010
+ 12.37.130.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-37-080">
+            <num>12.37.080</num>
+            <heading>Custody of applications and orders; penalty for disclosure.</heading>
+            <subsection eId="12-37-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for a copy that may be retained for use by the applicant, all applications made and orders entered under
+AS 12.37.010
+ 12.37.130 for the interception of private communications shall be sealed by the court and maintained as the court directs. The applications and orders may not be destroyed except upon order of the court and in any event shall be kept for a minimum period of 10 years.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-37-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to any other remedies or penalties provided by law, the disclosure of applications and orders in violation of
+AS 12.37.010
+ 12.37.130 is punishable under
+AS 09.50.020
+as contempt of court.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-37-090">
+            <num>12.37.090</num>
+            <heading>Notice of interception and disclosure.</heading>
+            <subsection eId="12-37-090__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within a reasonable period of time, but no later than 90 days following the expiration of the authorized interception period specified in an order entered under
+AS 12.37.030
+or, if an extension order has been entered, upon expiration of the authorized interception period specified in that order, the court entering the order shall cause a notice of interception to be served on</p>
+              </content>
+              <paragraph eId="12-37-090__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person who is named in the order; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-090__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a party to the intercepted communications if the court determines in its discretion that the party should be informed in the interest of justice.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-090__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The notice of interception must include a statement of</p>
+              </content>
+              <paragraph eId="12-37-090__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the fact of the entry of the order under
+AS 12.37.030
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-090__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the date of the entry of the order;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-090__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the period of time for which the interception was authorized; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-090__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>whether and how many private communications were intercepted.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-090__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>On an ex parte showing of good cause, the court may postpone service of the notice of interception.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-37-090__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Upon the filing of a motion, the court may make available for inspection to a person or the person's attorney, as the court determines to be in the interest of justice, those portions of an intercepted communication, an application for an order, and an order that the court considers appropriate.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-37-100">
+            <num>12.37.100</num>
+            <heading>Approval for unanticipated interception.</heading>
+            <content>
+              <p>Sec. 12.37.100.   Approval for unanticipated interception.
+If, while intercepting a private communication under the provisions of
+AS 12.37.010
+ 12.37.130, a peace officer intercepts a communication that relates to a felony offense other than one specified in the order of authorization, the attorney general, or a person designated in writing or by law to act for the attorney general, may file a motion for an order approving that interception so that the communication, or evidence derived from it, may be used during testimony in an official proceeding. A court may enter an order approving the interception if it finds that the person who intercepted the communication was otherwise acting under the provisions of
+AS 12.37.010
+ 12.37.130.</p>
+            </content>
+          </section>
+          <section eId="sec_12-37-110">
+            <num>12.37.110</num>
+            <heading>Use of intercepted communication.</heading>
+            <content>
+              <p>Sec. 12.37.110.   Use of intercepted communication.
+An intercepted private communication, and evidence derived from it, may not be received in evidence or otherwise disclosed in an official proceeding unless each party to the communication who is a party in the official proceeding was furnished, at least 10 days before the proceeding, with a copy of the court order authorizing the interception and of the application for authorization under which the order was issued. The 10-day period may be waived by the presiding official if the presiding official finds that it was not practicable to furnish the person with the information 10 days before the proceeding and also finds that the person will not be prejudiced by the delay in receiving the information.</p>
+            </content>
+          </section>
+          <section eId="sec_12-37-120">
+            <num>12.37.120</num>
+            <heading>Suppression of unlawful interceptions.</heading>
+            <subsection eId="12-37-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A motion to suppress the contents of an intercepted private communication, or evidence derived from it, may be filed in a proceeding on the ground that the</p>
+              </content>
+              <paragraph eId="12-37-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>interception was unlawful;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>order of authorization under which the communication was intercepted is insufficient on its face; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>interception was not made in substantial compliance with the order of authorization.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon the filing of a motion to suppress under this section, the court may make available to the moving party or that party's attorney, for inspection, the portion or portions of the intercepted communication, applications, and orders that the court determines to be in the interest of justice.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-37-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Suppression is the only judicial sanction available for a nonconstitutional violation of
+AS 12.37.010
+ 12.37.130 involving an intercepted private communication.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-37-130">
+            <num>12.37.130</num>
+            <heading>Required reports.</heading>
+            <subsection eId="12-37-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within 30 days after the expiration of the authorized interception period specified in an order entered under
+AS 12.37.030
+or, if an extension order has been entered, upon expiration of the authorized interception period specified in that order, the court entering the order shall report to the Administrative Office of the United States Courts the following information:</p>
+              </content>
+              <paragraph eId="12-37-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the fact that an order or extension order was applied for;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the kind of order or extension order applied for;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>whether the order or extension order was granted as applied for or was granted as modified;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the period of time for which the interception is authorized by the order and the number of, and duration of the authorized interception period specified in, any extension orders regarding that order;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the offense specified in the order, extension order, or application;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the name and title of the applicant; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the nature of the facilities from which or the place where the communication was to be intercepted.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In January of each year, the attorney general or the attorney general's designee shall report to the Administrative Office of the United States Courts the following information with respect to orders and extension orders obtained in the preceding calendar year:</p>
+              </content>
+              <paragraph eId="12-37-130__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the information required by (a) of this section with respect to each application for an order or extension order made;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a general description of the interceptions made under the order or extension, including the approximate
+(A) nature and frequency of incriminating communications intercepted;
+(B) nature and frequency of other communications intercepted;
+(C) number of persons whose communications were intercepted; and
+(D) nature, amount, and cost of the manpower and other resources used in the interceptions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the number of arrests resulting from interceptions made under the order or extension order, and the offenses for which arrests were made;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the number of trials resulting from the interceptions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the number of motions to suppress made with respect to the interceptions, the number of such motions granted, and the number of such motions denied; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the number of convictions resulting from interceptions and the offenses for which the convictions were obtained, and a general assessment of the importance of the interceptions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-130__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to the report required by (b) of this section, the attorney general or the attorney general's designee shall prepare and make available to the public annual reports on the operation of
+AS 12.37.010
+ 12.37.130. The reports shall contain the following information:</p>
+              </content>
+              <paragraph eId="12-37-130__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the number of applications made under
+AS 12.37.010
+ 12.37.130;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the number of orders entered by the court;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the effective period of time for which each interception was authorized;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the number of, and duration of the authorized interception period specified in, any extension orders;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the offenses in connection with which the communications were sought;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the names and titles of the applicants;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the number of indictments or other charges resulting from each application;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>the offenses that each indictment or other charge relates to; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-130__subsec_c__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>the disposition of each indictment or other charge.
+Article 2. Pen Registers and Trap Devices.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_12-37-200">
+            <num>12.37.200</num>
+            <heading>Authorization to use pen registers and trap devices.</heading>
+            <content>
+              <p>Sec. 12.37.200.   Authorization to use pen registers and trap devices.
+Upon application by a peace officer made in conformity with any provision of federal law authorizing such an application, a court may issue an order authorizing or concerning the use of a pen register or a trap device as permitted under federal law.</p>
+            </content>
+          </section>
+          <section eId="sec_12-37-300">
+            <num>12.37.300</num>
+            <heading>Authorization for access to and use of communications in electronic storage.</heading>
+            <content>
+              <p>Sec. 12.37.300.   Authorization for access to and use of communications in electronic storage.
+Upon application by a peace officer made in conformity with any provision of federal law authorizing such an application, a court may issue an order authorizing or concerning access to and disclosure or use of communications in electronic storage as permitted under federal law.</p>
+            </content>
+          </section>
+          <section eId="sec_12-37-400">
+            <num>12.37.400</num>
+            <heading>Police use of body wire.</heading>
+            <subsection eId="12-37-400__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A peace officer may intercept an oral communication by use of an electronic, mechanical, or other eavesdropping device that is concealed on or carried on the person of the peace officer and that transmits that oral communication by means of radio to a receiving unit that is monitored by other peace officers, if</p>
+              </content>
+              <paragraph eId="12-37-400__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the interception and monitoring occurs
+(A) during the investigation of a crime or the arrest of a person for a crime; and
+(B) for the purpose of ensuring the safety of the peace officer conducting the investigation or making the arrest;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-400__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the peace officer intercepting the conversation is a party to the oral communication and has consented to the interception; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-37-400__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the communication intercepted is not recorded.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-37-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A peace officer monitoring a receiving unit under (a) of this section, or any other person intercepting an oral communication transmitted under (a) of this section, is not competent to testify in a criminal proceeding involving a party to the oral communication about the contents of the oral communication that was intercepted or the fact that the communication occurred.
+Article 5. General Provisions.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-37-900">
+            <num>12.37.900</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 12.37.900.   Definitions.
+In this chapter,
+(1) communications common carrier has the meaning given in
+AS 42.20.390
+;
+(2) contents has the meaning given in
+AS 42.20.390
+;
+(3) court means superior court, except that in
+AS 12.37.200
+it means either superior or district court;
+(4) electronic communication has the meaning given in
+AS 42.20.390
+;
+(5) electronic communication service has the meaning given in
+AS 42.20.390
+;
+(6) electronic storage means any temporary, intermediate storage of a wire or electronic communication incidental to the electronic transmission of the communication, and any storage of the communication by an electronic communication service for purposes of backup protection of the communication;
+(7) in-progress trace means to determine the origin of a wire communication to a telephone instrument, equipment, or facility during the course of the communication;
+(8) intercept has the meaning given in
+AS 42.20.390
+;
+(9) official proceeding means a judicial, legislative, or administrative proceeding or any other proceeding before a government agency or official authorized to hear evidence under oath, other than a grand jury;
+(10) oral communication has the meaning given in
+AS 42.20.390
+;
+(11) peace officer has the meaning given in
+AS 11.81.900
+(b);
+(12) pen register means a device or apparatus that is connected to a telephone instrument, equipment, or facility to determine the destination of a wire communication to a telephone instrument, equipment, or facility, but that does not intercept the contents of the communication; pen register does not include a device used by a provider or customer of a wire or electronic communication service for billing, or for recording as an incident to billing, for communications services provided by the provider, nor a device used by a provider or customer of a wire communication service for cost accounting or other like purposes in the ordinary course of its business;
+(13) private communication has the meaning given in
+AS 42.20.390
+;
+(14) trap device means a device or apparatus that is connected to a telephone instrument, equipment, or facility to determine the origin of a wire communication to the telephone instrument, equipment, or facility, but that does not intercept the contents of the communication;
+(15) wire communication has the meaning given in
+AS 42.20.390
+.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

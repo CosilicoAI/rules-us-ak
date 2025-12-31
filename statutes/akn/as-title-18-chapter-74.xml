@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-74"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-74"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="18.74"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-74/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-74/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-18/chapter-74/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-18/chapter-74/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_18">
+        <num>18</num>
+        <heading>Health, Safety, Housing, Human Rights, and Public Defender</heading>
+        <chapter eId="title_18__chp_74">
+          <num>74</num>
+          <heading>Cigarette Fire Safety</heading>
+          <section eId="sec_18-74-010">
+            <num>18.74.010</num>
+            <heading>Requirement for sale.</heading>
+            <content>
+              <p>Sec. 18.74.010.   Requirement for sale.
+Except as provided by
+AS 18.74.060
+, a person may not sell or offer to sell cigarettes in this state, or sell or offer to sell cigarettes to another person located in this state, unless
+(1) the cigarettes are tested under
+(A)
+AS 18.74.030
+and satisfy the performance standard in
+AS 18.74.030
+(d); or
+(B)
+AS 18.74.040
+and satisfy an alternative performance standard under
+AS 18.74.040
+;
+(2) the cigarettes have been marked as required by
+AS 18.74.130
+; and
+(3) a certification has been submitted by the manufacturer of the cigarettes under
+AS 18.74.080
+.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-030">
+            <num>18.74.030</num>
+            <heading>Testing of cigarettes.</heading>
+            <subsection eId="18-74-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Cigarettes shall be tested under</p>
+              </content>
+              <paragraph eId="18-74-030__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the ASTM International Standard E2187-04, entitled Standard Test Method for Measuring the Ignition Strength of Cigarettes; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-030__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a test method established under (b) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-74-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The state fire marshal may adopt an ASTM International standard test method that is adopted by the American Society of Testing and Materials after the standard test method identified under (a) of this section if the state fire marshal finds that the method does not result in a change in the percentage of full-length burns exhibited by any tested cigarette when compared to the percentage of full-length burns that the same cigarette would exhibit when tested under</p>
+              </content>
+              <paragraph eId="18-74-030__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the standard test method identified under (a)(1) of this section; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-030__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the criteria established under (c) and (d) of this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-74-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The testing under this section shall be conducted on 10 layers of filter paper. A complete test trial consists of 40 replicate tests of each cigarette. The performance standard required by (d) of this section may only be applied to a complete test trial.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-030__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>When tested under this section, not more than 25 percent of the cigarettes tested in a test trial may exhibit full-length burns.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-040">
+            <num>18.74.040</num>
+            <heading>Alternative test methods.</heading>
+            <subsection eId="18-74-040__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the state fire marshal determines that cigarettes cannot be tested by a test method established in
+AS 18.74.030
+(a), a manufacturer of the cigarettes shall propose an alternative test method and performance standard for the cigarettes to the state fire marshal. On approval of the proposed test method and a determination by the state fire marshal that the performance standard proposed by the manufacturer is equivalent to the performance standard prescribed by
+AS 18.74.030
+(d), the manufacturer may employ the proposed alternative test method and performance standard to certify the cigarette under
+AS 18.74.080
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-040__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless the state fire marshal demonstrates a reasonable basis why the alternative test method should not be accepted under this chapter, the state fire marshal shall authorize a manufacturer to use an alternative test method and performance standard to certify cigarettes for sale in this state if the state fire marshal</p>
+              </content>
+              <paragraph eId="18-74-040__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>determines that another state has enacted reduced cigarette ignition propensity standards that include a test method and performance standard that are the same as those contained in this chapter; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-040__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>finds that the officials responsible for implementing those requirements have approved a proposed alternative test method and performance standard for particular cigarettes proposed by a manufacturer as meeting the fire safety standards of that state's law under a legal provision comparable to this section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-74-040__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>All other applicable requirements of this chapter apply to the manufacturer of the cigarettes tested under this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-050">
+            <num>18.74.050</num>
+            <heading>Testing laboratories.</heading>
+            <subsection eId="18-74-050__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Testing of cigarettes under this chapter shall be performed by a laboratory that has been accredited under standard ISO/IEC 17025 of the International Organization for Standardization or by another comparable accreditation standard required by the state fire marshal.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-050__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A laboratory that conducts cigarette testing under this chapter shall implement a quality control and quality assurance program that ensures the repeatability of the testing results. The repeatability value may not be greater than 0.19. In this subsection,</p>
+              </content>
+              <paragraph eId="18-74-050__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>quality control and quality assurance program means the laboratory procedures implemented to ensure that operator bias, systematic and nonsystematic methodological errors, and equipment-related problems do not affect the results of the testing quality control program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-050__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>repeatability means the range of values within which the repeat results of cigarette test trials from a single laboratory will fall 95 percent of the time.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-060">
+            <num>18.74.060</num>
+            <heading>Testing for another purpose.</heading>
+            <content>
+              <p>Sec. 18.74.060.   Testing for another purpose.
+AS 18.74.030
+and 18.74.040 do not require cigarettes to be tested if the cigarettes are tested for another purpose and the testing is consistent with this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-065">
+            <num>18.74.065</num>
+            <heading>Testing by state fire marshal.</heading>
+            <subsection eId="18-74-065__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>or an alternative performance standard under
+AS 18.74.040
+, the testing shall be performed under this chapter.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-070">
+            <num>18.74.070</num>
+            <heading>Maintenance of records.</heading>
+            <content>
+              <p>Sec. 18.74.070.   Maintenance of records.
+A manufacturer shall keep for three years copies of the reports of all tests conducted on all cigarettes offered for sale. The manufacturer shall make copies of those reports available to the state fire marshal and the attorney general on written request.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-080">
+            <num>18.74.080</num>
+            <heading>Certification requirement.</heading>
+            <subsection eId="18-74-080__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A manufacturer shall submit to the state fire marshal a certification that each cigarette listed in the certification has been tested under
+AS 18.74.030
+and satisfies the performance standard in
+AS 18.74.030
+(d), or has been tested under
+AS 18.74.040
+and satisfies an alternative performance standard under
+AS 18.74.040
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-080__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a manufacturer has certified a cigarette under this section and subsequently makes a change to the cigarette that is likely to alter its compliance with the performance standard under
+AS 18.74.030</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>or an alternative performance standard under
+AS 18.74.040
+, the cigarette may not be sold or offered for sale in this state or sold to a person located in this state until the manufacturer retests the cigarette under
+AS 18.74.030
+or 18.74.040, the cigarette meets the performance standard under
+AS 18.74.030</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>or the alternative performance standard under
+AS 18.74.040
+, and the manufacturer maintains records of the retesting under
+AS 18.74.070
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-080__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For each cigarette listed in a certification submitted under (a) of this section, a manufacturer shall pay to the state fire marshal a fee of $250. The state fire marshal may adjust this fee annually to ensure that it defrays the actual costs of the processing, testing, enforcement, and oversight activities required by this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-080__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Each cigarette certified under this section shall be recertified every three years.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-090">
+            <num>18.74.090</num>
+            <heading>Contents of certification.</heading>
+            <content>
+              <p>Sec. 18.74.090.   Contents of certification.
+The certification required by
+AS 18.74.080
+must provide the following information for each cigarette listed in the certification:
+(1) the brand or trade name on the package;
+(2) the style, such as light or ultra-light;
+(3) the length in millimeters;
+(4) the circumference in millimeters;
+(5) the flavor, if applicable;
+(6) whether the cigarette is filtered or nonfiltered;
+(7) a description of the package;
+(8) the marking approved under
+AS 18.74.120
+;
+(9) the name, address, and telephone number of the laboratory that conducted the test, if different than the manufacturer who conducted the test; and
+(10) the date that the testing occurred.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-100">
+            <num>18.74.100</num>
+            <heading>Banding requirement.</heading>
+            <subsection eId="18-74-100__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>must have at least two nominally identical bands on the paper surrounding the tobacco column. At least one complete band must be located at least 15 millimeters from the lighting end of the cigarette. For cigarettes on which the bands are positioned by design, there must be at least two bands fully located at least</p>
+              </content>
+              <paragraph eId="18-74-100__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>15 millimeters from the lighting end; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-100__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>10 millimeters from
+(A) the filter end of the tobacco column; or
+(B) the labeled end of the tobacco column of a nonfiltered cigarette.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-110">
+            <num>18.74.110</num>
+            <heading>Availability of certifications.</heading>
+            <content>
+              <p>Sec. 18.74.110.   Availability of certifications.
+The certification required by
+AS 18.74.080
+shall be made available to the attorney general for purposes consistent with this chapter and to the department for the purpose of ensuring compliance with
+AS 18.74.080
+.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-120">
+            <num>18.74.120</num>
+            <heading>Packaging marking approval.</heading>
+            <subsection eId="18-74-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Before submitting a certification of a cigarette under
+AS 18.74.080
+, a manufacturer shall present its proposed packaging marking to the state fire marshal for approval. The state fire marshal shall approve or disapprove the proposed packaging marking. Proposed packaging marking shall be considered approved if the state fire marshal fails to act within 10 business days after receiving a request for approval.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding
+AS 18.74.130
+, the state fire marshal shall give a preference to proposed packaging marking for a cigarette that is in use and approved for the cigarette under the fire safety standards for cigarettes established by the law of the state of New York, unless the state fire marshal demonstrates a reasonable basis why the proposed packaging marking should not be approved under this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-120__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding
+AS 18.74.130
+, the state fire marshal shall approve the use of the letters FSC for fire standards compliant on proposed packaging marking to indicate that the cigarettes comply with the performance standard in
+AS 18.74.030</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>or an alternative performance standard under
+AS 18.74.040
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-120__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A manufacturer may not change its approved packaging marking unless the state fire marshal has approved the modification under this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-120__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A wholesale dealer, an agent, and a retail dealer shall permit the state fire marshal, the department, the attorney general, and the employees of those persons to inspect packaging markings of cigarettes.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-130">
+            <num>18.74.130</num>
+            <heading>Marking of cigarette packaging.</heading>
+            <subsection eId="18-74-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The packaging containing a brand and style of cigarette that a manufacturer certifies under
+AS 18.74.080
+must be marked to indicate compliance with the requirements of this chapter. The packaging marking must be in eight-point type or larger and consist of</p>
+              </content>
+              <paragraph eId="18-74-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a modification of the universal product code to include a visible mark printed at or around the area of the code; the mark may consist of alphanumeric or symbolic characters and must be permanently stamped, engraved, embossed, or printed in conjunction with the universal product code;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>any visible combination of alphanumeric or symbolic characters permanently stamped, engraved, or embossed on the package or wrapping; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-130__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>printed, stamped, engraved, or embossed text on the cigarette package that indicates that the cigarettes satisfy the requirements of this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-74-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A manufacturer shall use only one packaging marking and apply that packaging marking uniformly to all packaging and to all brands marketed by the manufacturer for sale in this state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-150">
+            <num>18.74.150</num>
+            <heading>Copies.</heading>
+            <content>
+              <p>Sec. 18.74.150.   Copies.
+A manufacturer who certifies a cigarette under
+AS 18.74.080
+shall provide a copy of the certification to each wholesale dealer and agent to whom the manufacturer sells the cigarette. The manufacturer shall also provide the wholesale dealer and agent with sufficient copies of an illustration of the cigarette packaging markings used by the manufacturer under
+AS 18.74.130
+for each retail dealer to whom the wholesale dealer or agent sells cigarettes. A wholesale dealer or an agent shall provide a copy of the cigarette packaging markings received from a manufacturer to each retail dealer to whom the wholesale dealer or agent sells cigarettes.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-160">
+            <num>18.74.160</num>
+            <heading>Penalties for violations.</heading>
+            <subsection eId="18-74-160__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A manufacturer, a wholesale dealer, an agent, or another person who knowingly sells or offers to sell cigarettes other than through retail sale and in violation of
+AS 18.74.010
+is subject to a civil penalty not to exceed</p>
+              </content>
+              <paragraph eId="18-74-160__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>$10,000 for a first violation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-160__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>$25,000 for each violation that is not a first violation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-74-160__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A retail dealer who knowingly sells or offers to sell cigarettes in violation of
+AS 18.74.010
+is subject, for each sale or offer to sell, to a civil penalty not to exceed</p>
+              </content>
+              <paragraph eId="18-74-160__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>$500 for a first violation in which the total number of cigarettes sold or offered for sale does not exceed 1,000 cigarettes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-160__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>$2,000 for each violation that is not a first violation and in which the total number of cigarettes sold or offered for sale does not exceed 1,000 cigarettes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-160__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>$1,000 for a first violation in which the total number of cigarettes sold or offered for sale exceeds 1,000 cigarettes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-160__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>$5,000 for a violation that is not a first violation and in which the total number of cigarettes sold or offered for sale exceeds 1,000 cigarettes.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-74-160__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The penalties against</p>
+              </content>
+              <paragraph eId="18-74-160__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>one manufacturer, wholesale dealer, agent, or other person under (a) of this section may not exceed $100,000 for violations occurring during a 30-day period; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-160__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>one retail dealer under (b) of this section may not exceed $25,000 for violations occurring during a 30-day period.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="18-74-160__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In addition to any other penalty prescribed by law, a person engaged in the manufacture of cigarettes who knowingly makes a false certification under
+AS 18.74.080
+is subject to a civil penalty of at least $75,000 for a first violation and a civil penalty not exceeding $250,000 for each violation that is not a first violation.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-160__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A manufacturer who fails to make copies of reports available under
+AS 18.74.070
+within 60 days after receiving a written request from the state fire marshal or the attorney general is subject to a civil penalty not to exceed $10,000 for each day after the 60th day that the manufacturer does not make the copies available.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-160__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If a person violates a provision of this chapter and a civil penalty is not set for the violation, the person is subject to a civil penalty not to exceed $1,000 for a first violation and a civil penalty not exceeding $5,000 for each violation that is not a first violation.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-180">
+            <num>18.74.180</num>
+            <heading>Separate accounting.</heading>
+            <subsection eId="18-74-180__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>and the civil penalties imposed under
+AS 18.74.160
+shall be deposited into the general fund and separately accounted for under
+AS 37.05.142
+. The legislature may appropriate the money accounted for under this section to the fire prevention and public safety fund established under
+AS 18.74.210
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-190">
+            <num>18.74.190</num>
+            <heading>Seizure of cigarettes.</heading>
+            <subsection eId="18-74-190__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a person is offering for sale or has made a sale of cigarettes in violation of
+AS 18.74.010
+, the state fire marshal, the department, or a law enforcement agency shall seize and, subject to (b) of this section, dispose of the cigarettes.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-190__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Before disposal of cigarettes under (a) of this section, the state fire marshal or the department shall</p>
+              </content>
+              <paragraph eId="18-74-190__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>provide the person from whom the cigarette was seized with notice of the seizure and an opportunity for a hearing regarding the seizure; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="18-74-190__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>permit the holder of the trademark rights in the cigarette brand to inspect the cigarettes.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-200">
+            <num>18.74.200</num>
+            <heading>Other remedies.</heading>
+            <content>
+              <p>Sec. 18.74.200.   Other remedies.
+In addition to any other remedy provided by law, the state fire marshal or attorney general may file an action in superior court for a violation of this chapter, including an action for injunctive relief or to recover costs or damages suffered by the state because of a violation of this chapter, including enforcement costs relating to the specific violation. Each violation of this chapter or of the regulations adopted under this chapter constitutes a separate cause of action for which the state fire marshal or attorney general may obtain relief.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-210">
+            <num>18.74.210</num>
+            <heading>Fire prevention and public safety fund.</heading>
+            <subsection eId="18-74-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The fire prevention and public safety fund is established. The fund consists of appropriations made to the fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The purpose of the fund is to pay the expenses of the state fire marshal and the department for implementing and enforcing this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-210__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Money appropriated to the fund may be spent for the purposes of the fund without further appropriation. Money appropriated to the fund does not lapse.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-220">
+            <num>18.74.220</num>
+            <heading>Implementation.</heading>
+            <content>
+              <p>Sec. 18.74.220.   Implementation.
+The substance of the fire safety standards for cigarettes established by the law of the state of New York and the implementation of these standards by the state of New York shall be persuasive authority in the implementation of this chapter by the state fire marshal and the attorney general.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-230">
+            <num>18.74.230</num>
+            <heading>Review by state fire marshal.</heading>
+            <content>
+              <p>Sec. 18.74.230.   Review by state fire marshal.
+The state fire marshal shall review the effectiveness of this chapter, report the state fire marshal's findings to the legislature every three years on or by January 30 of the reporting year, and, if appropriate, recommend legislation to improve the effectiveness of this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-240">
+            <num>18.74.240</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 18.74.240.   Regulations.
+The state fire marshal may adopt regulations to implement this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-250">
+            <num>18.74.250</num>
+            <heading>Inspections.</heading>
+            <subsection eId="18-74-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may inspect cigarettes held by wholesale dealers, agents, and retail dealers to determine if the cigarettes are marked as required by
+AS 18.74.120
+and 18.74.130. If the cigarettes are not marked as required, the department shall notify the state fire marshal.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To determine compliance with this chapter, the state fire marshal and the attorney general may examine the books, papers, invoices, and other records of a person who possesses, controls, or occupies premises where cigarettes are placed, stored, sold, or offered for sale, and the stock of cigarettes on the premises.</p>
+              </content>
+            </subsection>
+            <subsection eId="18-74-250__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who possesses, controls, or occupies premises where cigarettes are placed, sold, or offered for sale shall allow the state fire marshal and the attorney general to make the inspections authorized by this section.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_18-74-260">
+            <num>18.74.260</num>
+            <heading>Sale outside the state.</heading>
+            <content>
+              <p>Sec. 18.74.260.   Sale outside the state.
+This chapter may not be interpreted to prohibit a person from manufacturing or selling cigarettes that do not meet the requirements of this chapter if the cigarettes are or will be stamped for sale in another state or are packaged for sale outside the United States and the person has taken reasonable steps to ensure that the cigarettes will not be sold or offered for sale to persons located in this state.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-270">
+            <num>18.74.270</num>
+            <heading>Regulation by municipality.</heading>
+            <content>
+              <p>Sec. 18.74.270.   Regulation by municipality.
+Notwithstanding any other provision of law, a municipality may not enact or enforce an ordinance or another law of the municipality that conflicts with this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-280">
+            <num>18.74.280</num>
+            <heading>Relationship to federal law.</heading>
+            <content>
+              <p>Sec. 18.74.280.   Relationship to federal law.
+This chapter does not apply if a federal law is enacted that establishes a reduced cigarette ignition propensity standard and preempts this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_18-74-290">
+            <num>18.74.290</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 18.74.290.   Definitions.
+In this chapter,
+(1) agent means a person authorized by the department to purchase and affix stamps on packages of cigarettes under
+AS 43.50.500
+ 43.50.700;
+(2) cigarette means a roll for smoking of any size or shape, made wholly or in part of tobacco, whether or not the tobacco is flavored, adulterated, or mixed with another ingredient, if the wrapper or cover of the roll is made of paper or a material other than tobacco;
+(3) department means the Department of Revenue;
+(4) manufacturer means
+(A) a person who manufactures or otherwise produces cigarettes, or causes cigarettes to be manufactured or produced anywhere, if the manufacturer intends the cigarettes to be sold in this state, including cigarettes intended to be sold in the United States through an importer;
+(B) the first purchaser anywhere who intends to resell in the United States cigarettes that are manufactured anywhere and that the original manufacturer or maker does not intend to be sold in the United States; or
+(C) a person who becomes a successor of a person described in (A) or (B) of this paragraph;
+(5) retail dealer means a person, other than a manufacturer or wholesale dealer, who sells cigarettes or tobacco products;
+(6) sale or sell means a sale, exchange, barter, and any other manner of transferring the ownership of personal property;
+(7) wholesale dealer means a person who
+(A) sells cigarettes or tobacco products to retail dealers or other persons for resale; and
+(B) owns, operates, or maintains cigarette or tobacco vending machines in, at, or on premises owned or occupied by another person.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

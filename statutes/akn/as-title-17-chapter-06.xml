@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-06"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-06"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="17.06"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-06/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-06/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-06/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-06/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_17">
+        <num>17</num>
+        <heading>Food and Drugs</heading>
+        <chapter eId="title_17__chp_06">
+          <num>06</num>
+          <heading>Sale of Organic Meat, Fish, Poultry, and Processed Foods</heading>
+          <section eId="sec_17-06-010">
+            <num>17.06.010</num>
+            <heading>Prohibition.</heading>
+            <subsection eId="17-06-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person may not sell or offer for sale food represented as organic food if the person knows or has reason to know that the food has been grown, raised, or produced with the use of</p>
+              </content>
+              <paragraph eId="17-06-010__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a fertilizer, except for manure and other natural fertilizers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-06-010__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a manufactured pesticide, hormone, antibiotic, or growth stimulant, except for Bacillus thuringiensis and other natural pesticides;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-06-010__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a substance listed by the department under
+AS 17.06.050
+that is similar to a substance that is restricted with regard to organic food under (1) or (2) of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-06-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, with the use of means</p>
+              </content>
+              <paragraph eId="17-06-010__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>applied to the food before a retail sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-06-010__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>fed to the animal producing the food;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-06-010__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>unless the substance applied is a pesticide, applied to the soil or other growing medium within one year before seed planting or transplanting, or, if the crops are perennial, before the appearance of the flower bud; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-06-010__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>in the case of pesticides, applied to the soil or other growing medium within two years before seed planting or transplanting, or, if the crops are perennial, before the appearance of the flower bud.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_17-06-020">
+            <num>17.06.020</num>
+            <heading>Disclosure.</heading>
+            <subsection eId="17-06-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in (b) of this section, a person may not sell food represented as organic food unless the name and address of the producer of the food are displayed with the food. If the food is not displayed at the purchase site, a written statement with the name and address of the producer must be given to the purchaser unless the name and address are identified on a package containing the purchased food. This subsection does not apply to a sale for consumption on the premises.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-06-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Advertising for the mail order sale of food represented as organic food must include the name and address of the producer of the food.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_17-06-030">
+            <num>17.06.030</num>
+            <heading>Sworn statement of compliance.</heading>
+            <subsection eId="17-06-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A producer may not sell to a vendor food represented as organic food unless before the sale the producer provides the vendor with a sworn statement that the producer has grown, raised, or otherwise produced the food in compliance with
+AS 17.06.010
+. If a producer sells the food to the same vendor more than one time during a calendar year, one statement for the calendar year is sufficient to comply with this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-06-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In this section, vendor means a person who sells food represented as organic food to another person for resale or to a consumer.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_17-06-050">
+            <num>17.06.050</num>
+            <heading>Regulations.</heading>
+            <content>
+              <p>Sec. 17.06.050.   Regulations.
+The department may adopt regulations under
+AS 44.62
+(Administrative Procedure Act) to implement and interpret this chapter, including a regulation that lists and periodically updates substances under
+AS 17.06.010
+(a).</p>
+            </content>
+          </section>
+          <section eId="sec_17-06-060">
+            <num>17.06.060</num>
+            <heading>Enforcement and penalties.</heading>
+            <subsection eId="17-06-060__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the department determines that a person is violating a provision of this chapter, or a regulation adopted under this chapter, the department shall order the person to stop the violation and to refrain from future violations.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-06-060__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a person violates this chapter, a regulation adopted under this chapter, or an order issued under (a) of this section, the person is liable to the state for</p>
+              </content>
+              <paragraph eId="17-06-060__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a civil fine that does not exceed the total of $1,000 plus the state's estimated costs of investigating and taking appropriate administrative and enforcement actions for the violation; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-06-060__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an additional civil penalty of three times the value of the product knowingly sold in violation of this chapter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-06-060__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The provisions of this section are in addition to the remedies available under
+AS 45.50.471
+ 45.50.561.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_17-06-070">
+            <num>17.06.070</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 17.06.070.   Definitions.
+In this chapter,
+(1) department means the Department of Environmental Conservation;
+(2) food represented as organic food means food, when the food is meat, fish, poultry, or processed, that is marketed using the term organic or a derivative of that term in the labeling or advertising;
+(3) producer means a person who grows, raises, or produces food.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

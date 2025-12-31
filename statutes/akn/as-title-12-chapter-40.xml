@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-40"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-40"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="12.40"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-40/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-40/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-12/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-12/chapter-40/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_12">
+        <num>12</num>
+        <heading>Code of Criminal Procedure</heading>
+        <chapter eId="title_12__chp_40">
+          <num>40</num>
+          <heading>Grand Jury</heading>
+          <section eId="sec_12-40-010">
+            <num>12.40.010</num>
+            <heading>Qualifications and manner of drawing grand jurors.</heading>
+            <content>
+              <p>Sec. 12.40.010.   Qualifications and manner of drawing grand jurors.
+Grand jurors shall have the qualifications and be drawn as are trial jurors under
+AS 09.20.010
+ 09.20.080.</p>
+            </content>
+          </section>
+          <section eId="sec_12-40-020">
+            <num>12.40.020</num>
+            <heading>Number of jurors.</heading>
+            <content>
+              <p>Sec. 12.40.020.   Number of jurors.
+The grand jury consists of not less than 12 nor more than 18 members.</p>
+            </content>
+          </section>
+          <section eId="sec_12-40-030">
+            <num>12.40.030</num>
+            <heading>Duty of inquiry into crimes and general powers.</heading>
+            <content>
+              <p>Sec. 12.40.030.   Duty of inquiry into crimes and general powers.
+The grand jury shall inquire into all crimes committed or triable within the jurisdiction of the court and present them to the court.  The grand jury shall have the power to investigate and make recommendations concerning the public welfare or safety.</p>
+            </content>
+          </section>
+          <section eId="sec_12-40-040">
+            <num>12.40.040</num>
+            <heading>Juror to disclose knowledge of crime.</heading>
+            <content>
+              <p>Sec. 12.40.040.   Juror to disclose knowledge of crime.
+If an individual grand juror knows or has reason to believe that a crime has been committed that is triable by the court, the juror shall disclose it to the other jurors, who shall investigate it.</p>
+            </content>
+          </section>
+          <section eId="sec_12-40-050">
+            <num>12.40.050</num>
+            <heading>Holding to answer as affecting indictment or presentment.</heading>
+            <content>
+              <p>Sec. 12.40.050.   Holding to answer as affecting indictment or presentment.
+The grand jury may indict or present a person for a crime upon sufficient evidence, whether that person has been held to answer for the crime or not.</p>
+            </content>
+          </section>
+          <section eId="sec_12-40-060">
+            <num>12.40.060</num>
+            <heading>Access to public jails, prisons, and public records.</heading>
+            <content>
+              <p>Sec. 12.40.060.   Access to public jails, prisons, and public records.
+The grand jury is entitled to access, at all reasonable times, to the public jails and prisons, to offices pertaining to the courts of justice in the state, and to all other public offices, and to the examination of all public records in the state.</p>
+            </content>
+          </section>
+          <section eId="sec_12-40-070">
+            <num>12.40.070</num>
+            <heading>Duty of prosecuting attorney.</heading>
+            <content>
+              <p>Sec. 12.40.070.   Duty of prosecuting attorney.
+The prosecuting attorney
+(1) shall submit an indictment to the grand jury and cause the evidence in support of the indictment to be brought before them in every case when a person is held to answer a criminal charge in the court where the jury is formed;
+(2) may submit an indictment in any case when the prosecuting attorney has good reason to believe a crime has been committed that is triable by the court; and
+(3) shall, when required by the grand jury, prepare indictments or presentments for them and attend their sittings to advise them in relation to their duties or to examine witnesses in their presence.</p>
+            </content>
+          </section>
+          <section eId="sec_12-40-080">
+            <num>12.40.080</num>
+            <heading>Effect of failure to return indictment.</heading>
+            <content>
+              <p>Sec. 12.40.080.   Effect of failure to return indictment.
+When a grand jury does not return an indictment, the charge is dismissed, and it may not be again submitted to or inquired into by the grand jury unless the court so orders.</p>
+            </content>
+          </section>
+          <section eId="sec_12-40-090">
+            <num>12.40.090</num>
+            <heading>Questioning juror for conduct.</heading>
+            <content>
+              <p>Sec. 12.40.090.   Questioning juror for conduct.
+A grand juror cannot be questioned for anything the juror may say or any vote the juror may give while acting as a grand juror, in relation to any matter legally pending before the grand jury, except for a perjury of which the juror may have been guilty in giving testimony before that jury.</p>
+            </content>
+          </section>
+          <section eId="sec_12-40-100">
+            <num>12.40.100</num>
+            <heading>Contents of indictment.</heading>
+            <subsection eId="12-40-100__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The indictment must be direct and certain as it regards</p>
+              </content>
+              <paragraph eId="12-40-100__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the party charged;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-40-100__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the crime charged; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="12-40-100__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the particular circumstances of the crime charged when they are necessary to constitute a complete crime.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="12-40-100__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The statement of the facts constituting the offense must be in ordinary and concise language, without repetition, and in a manner that will enable a person of common understanding to know what is intended.</p>
+              </content>
+            </subsection>
+            <subsection eId="12-40-100__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An indictment that complies with this section and with applicable rules adopted by the supreme court is valid and need not specify aggravating factors set out in
+AS 12.55.155
+.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_12-40-110">
+            <num>12.40.110</num>
+            <heading>Hearsay evidence in prosecutions for sexual offenses.</heading>
+            <content>
+              <p>Sec. 12.40.110.   Hearsay evidence in prosecutions for sexual offenses.</p>
+            </content>
+          </section>
+          <section eId="sec_12-40-110">
+            <num>12.40.110</num>
+            <heading>Hearsay evidence in prosecutions for sexual offenses.</heading>
+            <content>
+              <p>Sec. 12.40.110.   Hearsay evidence in prosecutions for sexual offenses.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

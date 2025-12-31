@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-22"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-22"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="17.22"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-22/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-22/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-17/chapter-22/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-17/chapter-22/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_17">
+        <num>17</num>
+        <heading>Food and Drugs</heading>
+        <chapter eId="title_17__chp_22">
+          <num>22</num>
+          <heading>Use of Epinephrine in Emergency Situations</heading>
+          <section eId="sec_17-22-010">
+            <num>17.22.010</num>
+            <heading>Prescription, purchase, and administration of epinephrine by a trained individual.</heading>
+            <content>
+              <p>Sec. 17.22.010.   Prescription, purchase, and administration of epinephrine by a trained individual.
+An individual who is 18 years of age or older may obtain a prescription for, purchase, and, in an emergency situation, administer epinephrine to another person using an auto-injector, if the individual has successfully completed a training program approved by the board under
+AS 17.22.020
+(b).</p>
+            </content>
+          </section>
+          <section eId="sec_17-22-020">
+            <num>17.22.020</num>
+            <heading>Approval of training programs.</heading>
+            <subsection eId="17-22-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The board shall adopt standards for the approval of a training program for the use of epinephrine auto-injectors.</p>
+              </content>
+            </subsection>
+            <subsection eId="17-22-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The board shall approve an auto-injector training program that meets standards adopted under (a) of this section. The standards must require an epinephrine auto-injector program to provide training in</p>
+              </content>
+              <paragraph eId="17-22-020__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>techniques on how to recognize symptoms of severe asthmatic or allergic reactions, including anaphylaxis;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-22-020__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>standards and procedures for the storage of epinephrine auto-injectors and administration of epinephrine using auto-injectors; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="17-22-020__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>emergency follow-up procedures.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="17-22-020__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>[Repealed, § 19 ch 15 SLA 2023.]</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_17-22-030">
+            <num>17.22.030</num>
+            <heading>Applicability.</heading>
+            <content>
+              <p>Sec. 17.22.030.   Applicability.
+This chapter does not apply to a person who is authorized under another law to administer epinephrine.</p>
+            </content>
+          </section>
+          <section eId="sec_17-22-040">
+            <num>17.22.040</num>
+            <heading>Liability of certified individual.</heading>
+            <content>
+              <p>Sec. 17.22.040.   Liability of certified individual.
+A claim for relief may not be brought against an individual who has successfully completed an auto-injector training program approved by the board under
+AS 17.22.020
+for an act or omission relating to the administration of epinephrine to another individual in an emergency situation if the individual who completed the training program acted in good faith under the authority granted by this chapter.</p>
+            </content>
+          </section>
+          <section eId="sec_17-22-090">
+            <num>17.22.090</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 17.22.090.   Definitions.
+In this chapter,
+(1) board means the Board of Pharmacy;
+(2) emergency situation means a circumstance where an individual experiences, or appears to experience, a severe asthmatic or allergic reaction, including anaphylaxis, that requires the administration of epinephrine to avoid severe injury or death and where a certified or licensed health care provider authorized to administer epinephrine is not reasonably available.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

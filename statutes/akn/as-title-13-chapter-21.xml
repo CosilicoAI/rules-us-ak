@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-21"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-21"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="13.21"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-21/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-21/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-13/chapter-21/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-13/chapter-21/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_13">
+        <num>13</num>
+        <heading>Decedents' Estates, Guardianships, Transfers, Trusts, and Health Care Decisions</heading>
+        <chapter eId="title_13__chp_21">
+          <num>21</num>
+          <heading>Foreign Personal Representatives; Ancillary Administration</heading>
+          <section eId="sec_13-21-005">
+            <num>13.21.005</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 13.21.005.   Definitions.
+In this chapter,
+(1) local administration means administration by a personal representative appointed in this state under appointment proceedings described in
+AS 13.16
+;
+(2) local personal representative includes any personal representative appointed in this state under appointment proceedings described in
+AS 13.16
+and excludes foreign personal representatives who acquire the power of a local personal representative under
+AS 13.21.035
+;
+(3) resident creditor means a person domiciled in, or doing business in this state, who is, or could be, a claimant against an estate of a nonresident decedent.
+Article 2. Powers of Foreign Personal Representatives.</p>
+            </content>
+          </section>
+          <section eId="sec_13-21-015">
+            <num>13.21.015</num>
+            <heading>Payment of debt and delivery of property to domiciliary foreign personal representative without local administration.</heading>
+            <content>
+              <p>Sec. 13.21.015.   Payment of debt and delivery of property to domiciliary foreign personal representative without local administration.
+At any time after the expiration of 60 days from the death of a nonresident decedent, any person indebted to the estate of the nonresident decedent or having possession or control of personal property, or of an instrument evidencing a debt, obligation, stock, or chose in action, belonging to the estate of the nonresident decedent may pay the debt, and deliver the personal property, or the instrument evidencing the debt, obligation, stock, or chose in action, to the domiciliary foreign personal representative of the nonresident decedent upon being presented with proof of appointment and an affidavit made by or on behalf of the representative stating:
+(1) the date of the death of the nonresident decedent;
+(2) that no local administration, or application or petition therefor, is pending in this state;
+(3) that the domiciliary foreign personal representative is entitled to payment or delivery.</p>
+            </content>
+          </section>
+          <section eId="sec_13-21-020">
+            <num>13.21.020</num>
+            <heading>Payment or delivery discharges.</heading>
+            <content>
+              <p>Sec. 13.21.020.   Payment or delivery discharges.
+Payment or delivery made in good faith under the provisions of
+AS 13.21.015
+releases the debtor or person having possession of the personal property to the same extent as if payment or delivery had been made to a local personal representative.</p>
+            </content>
+          </section>
+          <section eId="sec_13-21-025">
+            <num>13.21.025</num>
+            <heading>Resident creditor notice.</heading>
+            <content>
+              <p>Sec. 13.21.025.   Resident creditor notice.
+Payment or delivery under
+AS 13.21.015
+may not be made if a resident creditor of the nonresident decedent has notified the debtor of the nonresident decedent or the person having possession of the personal property belonging to the nonresident decedent that the debt should not be paid nor the property delivered to the domiciliary foreign personal representative.</p>
+            </content>
+          </section>
+          <section eId="sec_13-21-030">
+            <num>13.21.030</num>
+            <heading>Proof of authority; bond.</heading>
+            <content>
+              <p>Sec. 13.21.030.   Proof of authority; bond.
+If no local administration or application or petition therefor is pending in this state, a domiciliary foreign personal representative may file with a court in this state in a judicial district in which property belonging to the decedent is located, authenticated copies of appointment and of any official bond that has been given by the foreign personal representative.</p>
+            </content>
+          </section>
+          <section eId="sec_13-21-035">
+            <num>13.21.035</num>
+            <heading>Powers.</heading>
+            <content>
+              <p>Sec. 13.21.035.   Powers.
+A domiciliary foreign personal representative who has complied with
+AS 13.21.030
+may exercise as to assets in this state all powers of a local personal representative and may maintain actions and proceedings in this state subject to any conditions imposed upon nonresident parties generally.</p>
+            </content>
+          </section>
+          <section eId="sec_13-21-040">
+            <num>13.21.040</num>
+            <heading>Power of representatives in transition.</heading>
+            <content>
+              <p>Sec. 13.21.040.   Power of representatives in transition.
+The power of a domiciliary foreign personal representative under
+AS 13.21.015
+  13.21.035 shall be exercised only if there is no administration or application therefor pending in this state.  An application or petition for local administration of the estate terminates the power of the foreign personal representative to act under
+AS 13.21.035
+but the local court may allow the foreign personal representative to exercise limited powers to preserve the estate.  A person who, before receiving actual notice of a pending local administration, has changed position in reliance upon the powers of a foreign personal representative is not prejudiced by reason of the application or petition for, or grant of, local administration.  The local personal representative is subject to all duties and obligations that have accrued by virtue of the exercise of the powers by the foreign personal representative and may be substituted for the foreign personal representative in any action or proceedings in this state.</p>
+            </content>
+          </section>
+          <section eId="sec_13-21-045">
+            <num>13.21.045</num>
+            <heading>Ancillary and other local administrations; provisions governing.</heading>
+            <content>
+              <p>Sec. 13.21.045.   Ancillary and other local administrations; provisions governing.
+In respect to a nonresident decedent, the provisions of
+AS 13.16
+govern
+(1) proceedings, if any, in a court of this state for probate of the will, appointment, removal, supervision, and discharge of the local personal representative, and any other order concerning the estate; and
+(2) the status, powers, duties, and liabilities of any local personal representative and the rights of claimants, purchasers, distributees, and others in regard to a local administration.
+Article 3. Jurisdiction over Foreign Representatives.</p>
+            </content>
+          </section>
+          <section eId="sec_13-21-055">
+            <num>13.21.055</num>
+            <heading>Jurisdiction by act of foreign personal representative.</heading>
+            <content>
+              <p>Sec. 13.21.055.   Jurisdiction by act of foreign personal representative.
+A foreign personal representative submits personally to the jurisdiction of the courts of this state in any proceeding relating to the estate by (1) filing authenticated copies of appointment as provided in
+AS 13.21.030
+, (2) receiving payment of money or taking delivery of personal property under
+AS 13.21.015
+, or (3) doing any act as a personal representative in this state that would have given the state jurisdiction over the personal representative as an individual. Jurisdiction under (2) of this section is limited to the money or value of personal property collected.</p>
+            </content>
+          </section>
+          <section eId="sec_13-21-060">
+            <num>13.21.060</num>
+            <heading>Jurisdiction by act of decedent.</heading>
+            <content>
+              <p>Sec. 13.21.060.   Jurisdiction by act of decedent.
+In addition to jurisdiction conferred by
+AS 13.21.055
+, a foreign personal representative is subject to the jurisdiction of the courts of this state to the same extent that the represented decedent was subject to jurisdiction immediately before death.</p>
+            </content>
+          </section>
+          <section eId="sec_13-21-065">
+            <num>13.21.065</num>
+            <heading>Service on foreign personal representative; time allowed for appearing or responding.</heading>
+            <subsection eId="13-21-065__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Service of process may be made upon the foreign personal representative by registered or certified mail, addressed to the representative's last reasonably ascertainable address, requesting a return receipt signed by addressee only. Notice by ordinary first-class mail is sufficient if registered or certified mail service to the addressee is unavailable. Service may be made upon a foreign personal representative in the manner in which service could have been made under other laws of this state on either the foreign personal representative or the decedent immediately before death.</p>
+              </content>
+            </subsection>
+            <subsection eId="13-21-065__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If service is made upon a foreign personal representative as provided in (a) of this section, the representative shall be allowed at least 30 days within which to appear or respond.
+Article 4. Judgments and Personal Representative.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_13-21-075">
+            <num>13.21.075</num>
+            <heading>Effect of adjudication for or against personal representative.</heading>
+            <content>
+              <p>Sec. 13.21.075.   Effect of adjudication for or against personal representative.
+An adjudication rendered in any jurisdiction in favor of or against any personal representative of the estate is as binding on the local personal representative as if the representative were a party to the adjudication.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

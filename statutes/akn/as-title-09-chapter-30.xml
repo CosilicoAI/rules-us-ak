@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-30"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="9.30"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-9/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-9/chapter-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_9">
+        <num>9</num>
+        <heading>Code of Civil Procedure</heading>
+        <chapter eId="title_9__chp_30">
+          <num>30</num>
+          <heading>Judgments</heading>
+          <section eId="sec_09-30-010">
+            <num>09.30.010</num>
+            <heading>Recording copy of judgment as lien.</heading>
+            <content>
+              <p>Sec. 09.30.010.   Recording copy of judgment as lien.
+A certified copy of the judgment or decree of a court of this state or a court of record of the United States upon which execution may issue, the enforcement of which has not been stayed, may be recorded with the recorder of a recording district.  From the recording, the judgment or decree becomes a lien upon the real property of the defendant that is in the recording district, that is not exempt from execution, and that is owned by the defendant at the time or acquired by the defendant afterward but before the lien expires.  The lien continues during the time execution may issue on the judgment or decree but for not more than 10 years from date of entry of the judgment or decree. After expiration of the lien, the court may grant leave for issuance of execution upon the judgment or decree.  From the date of recording the judgment or decree, together with the order allowing issuance of execution, the judgment or decree becomes a lien in the manner provided in this section.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-020">
+            <num>09.30.020</num>
+            <heading>Priority of lien of judgment.</heading>
+            <content>
+              <p>Sec. 09.30.020.   Priority of lien of judgment.
+A conveyance of real property or interest in real property is void against a judgment lien that is recorded before the conveyance is recorded.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-030">
+            <num>09.30.030</num>
+            <heading>Judgment where summons not served on all defendants.</heading>
+            <content>
+              <p>Sec. 09.30.030.   Judgment where summons not served on all defendants.
+When an action is against two or more defendants jointly indebted upon a contract and the summons is served on one or more but not all of them and judgment is recovered, it may be entered against all the defendants jointly indebted only so far as it may be enforced against the joint property of all and the separate property of the defendants served and, if they are subject to arrest, against the persons of the defendants served.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-040">
+            <num>09.30.040</num>
+            <heading>Judgments against boroughs and cities.</heading>
+            <content>
+              <p>Sec. 09.30.040.   Judgments against boroughs and cities.
+Where judgment is against a borough, city, or other public corporation, no execution may issue on it but the judgment may be satisfied only as follows:
+(1) the party in whose favor the judgment is given may, at any time within 10 years of the date of the judgment, present a certified copy of the judgment to the officer of the borough, city, or other public corporation authorized to draw orders on its treasurer;
+(2) upon presentation, the officer shall draw an order on the treasurer for the amount of the judgment in favor of the party for whom the judgment was given; after that the order may be presented for payment and paid in the manner and with the effect of other orders upon the treasurer of a borough, city, or other public corporation.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-050">
+            <num>09.30.050</num>
+            <heading>Confession of judgment.</heading>
+            <content>
+              <p>Sec. 09.30.050.   Confession of judgment.
+A judgment by confession may be entered with or without action against a person for any amount or relief.  The confession may be made only by the confessor in person or by the person's attorney-in-fact under a power of attorney so authorizing, or, if the confessor is a corporation, only by a person who at that time has a relation to the corporation that would authorize the service of summons on that person.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-060">
+            <num>09.30.060</num>
+            <heading>Confession of judgment against jointly liable defendant.</heading>
+            <content>
+              <p>Sec. 09.30.060.   Confession of judgment against jointly liable defendant.
+When an action upon a contract is pending against one or more defendants jointly liable, judgment may be given on the confession of one or more defendants against all the defendants jointly liable, whether all defendants have been served with the summons or not.  However, the judgment may be enforced only against their joint property and against the joint and separate property of the defendant making the confession.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-065">
+            <num>09.30.065</num>
+            <heading>Offers of judgment.</heading>
+            <subsection eId="09-30-065__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At any time more than 10 days before the trial begins, either the party making a claim or the party defending against a claim may serve upon the adverse party an offer to allow judgment to be entered in complete satisfaction of the claim for the money or property or to the effect specified in the offer, with costs then accrued. If within 10 days after the service of the offer the adverse party serves written notice that the offer is accepted, either party may then file the offer and notice of acceptance together with proof of service, and the clerk shall enter judgment. An offer not accepted within 10 days is considered withdrawn, and evidence of that offer is not admissible except in a proceeding to determine the form of judgment after verdict. If the judgment finally entered on the claim as to which an offer has been made under this section is at least five percent less favorable to the offeree than the offer, or if there are multiple defendants at least 10 percent less favorable to the offeree than the offer, the offeree, whether the party making the claim or defending against the claim, shall pay all costs as allowed under the Alaska Rules of Civil Procedure and shall pay reasonable actual attorney fees incurred by the offeror from the date the offer was made, as follows:</p>
+              </content>
+              <paragraph eId="09-30-065__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if the offer was served no later than 60 days after both parties made the disclosures required by the Alaska Rules of Civil Procedure, the offeree shall pay 75 percent of the offeror's reasonable actual attorney fees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-065__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the offer was served more than 60 days after both parties made the disclosures required by the Alaska Rules of Civil Procedure but more than 90 days before the trial began, the offeree shall pay 50 percent of the offeror's reasonable actual attorney fees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-065__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the offer was served 90 days or less but more than 10 days before the trial began, the offeree shall pay 30 percent of the offeror's reasonable actual attorney fees.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-30-065__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an offeror receives costs and reasonable actual attorney fees under (a) of this section, that offeror shall be considered the prevailing party for purposes of an award of attorney fees under the Alaska Rules of Civil Procedure. Notwithstanding (a) of this section, if the amount awarded an offeror for attorney fees under the Alaska Rules of Civil Procedure is greater than a party would receive under (a) of this section, the offeree shall pay to the offeror attorney fees specified under the Alaska Rules of Civil Procedure and is not required to pay reasonable actual attorney fees under (a) of this section. A party who receives attorney fees under this section may not also receive attorney fees under the Alaska Rules of Civil Procedure.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-30-070">
+            <num>09.30.070</num>
+            <heading>Interest on judgments; prejudgment interest.</heading>
+            <subsection eId="09-30-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding
+AS 45.45.010
+, the rate of interest on judgments and decrees for the payment of money, including prejudgment interest, is three percentage points above the 12th Federal Reserve District discount rate in effect on January 2 of the year in which the judgment or decree is entered, except that a judgment or decree founded on a contract in writing, providing for the payment of interest until paid at a specified rate not exceeding the legal rate of interest for that type of contract, bears interest at the rate specified in the contract if the interest rate is set out in the judgment or decree.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-30-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except when the court finds that the parties have agreed otherwise and except as provided by
+AS 45.05.111
+(d), prejudgment interest accrues from the day process is served on the defendant or the day the defendant received written notification that an injury has occurred and that a claim may be brought against the defendant for that injury, whichever is earlier. The written notification must be of a nature that would lead a prudent person to believe that a claim will be made against the person receiving the notification, for personal injury, death, or damage to property.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-30-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Prejudgment interest may not be awarded for future economic damages, future noneconomic damages, or punitive damages.
+Article 2. Uniform Foreign Money-Judgments Recognition Act.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-30-100">
+            <num>09.30.100</num>
+            <heading>Applicability.</heading>
+            <content>
+              <p>Sec. 09.30.100.   Applicability.
+AS 09.30.100
+ 09.30.180 apply to any foreign judgment that is final and conclusive and enforceable where rendered even though an appeal is pending or it is subject to appeal.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-110">
+            <num>09.30.110</num>
+            <heading>Recognition and enforcement.</heading>
+            <content>
+              <p>Sec. 09.30.110.   Recognition and enforcement.
+Except as provided in
+AS 09.30.120
+, a foreign judgment meeting the requirements of
+AS 09.30.100
+is conclusive between the parties to the extent that it grants or denies recovery of a sum of money. The foreign judgment is enforceable in the same manner as the judgment of a sister state which is entitled to full faith and credit.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-120">
+            <num>09.30.120</num>
+            <heading>Grounds for nonrecognition.</heading>
+            <subsection eId="09-30-120__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A foreign judgment is not conclusive if</p>
+              </content>
+              <paragraph eId="09-30-120__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the judgment was rendered under a system that does not provide impartial tribunals or procedures compatible with the requirements of due process of law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-120__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the foreign court did not have personal jurisdiction over the defendant; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-120__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the foreign court did not have jurisdiction over the subject matter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-30-120__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A foreign judgment need not be recognized if</p>
+              </content>
+              <paragraph eId="09-30-120__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the defendant in the proceedings in the foreign court did not receive notice of the proceedings in sufficient time to enable the defendant to defend;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-120__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the judgment was obtained by fraud;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-120__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the cause of action on which the judgment is based is repugnant to the public policy of this state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-120__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the judgment conflicts with another final and conclusive judgment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-120__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the proceeding in the foreign court was contrary to an agreement between the parties under which the dispute in question was to be settled otherwise than by proceedings in that court; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-120__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>in the case of jurisdiction based only on personal service, the foreign court was a seriously inconvenient forum for the trial of the action.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_09-30-130">
+            <num>09.30.130</num>
+            <heading>Personal jurisdiction.</heading>
+            <subsection eId="09-30-130__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The foreign judgment may not be refused recognition for lack of personal jurisdiction if</p>
+              </content>
+              <paragraph eId="09-30-130__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the defendant was served personally in the foreign state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-130__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the defendant voluntarily appeared in the proceedings, other than for the purpose of protecting property seized or threatened with seizure in the proceedings or of contesting the jurisdiction of the court over the defendant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-130__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the defendant, before the commencement of the proceedings, had agreed to submit to the jurisdiction of the foreign court with respect to the subject matter involved;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-130__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the defendant was domiciled in the foreign state when the proceedings were instituted, or, being a body corporate, had its principal place of business, was incorporated, or had otherwise acquired corporate status, in the foreign state;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-130__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the defendant had a business office in the foreign state and the proceedings in the foreign court involved a cause of action arising out of business done by the defendant through that office in the foreign state; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="09-30-130__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the defendant operated a motor vehicle or airplane in the foreign state and the proceedings involved a cause of action arising out of that operation.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="09-30-130__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The courts of this state may recognize other bases of jurisdiction.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-30-140">
+            <num>09.30.140</num>
+            <heading>Stay in case of appeal.</heading>
+            <content>
+              <p>Sec. 09.30.140.   Stay in case of appeal.
+If the defendant satisfies the court either that an appeal is pending or that the defendant is entitled and intends to appeal from the foreign judgment, the court may stay the proceedings until the appeal has been determined or until the expiration of a period of time sufficient to enable the defendant to prosecute the appeal.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-150">
+            <num>09.30.150</num>
+            <heading>Saving clause.</heading>
+            <content>
+              <p>Sec. 09.30.150.   Saving clause.
+AS 09.30.100
+ 09.30.180 do not prevent the recognition of a foreign judgment in situations not covered by
+AS 09.30.100
+ 09.30.180.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-160">
+            <num>09.30.160</num>
+            <heading>Construction.</heading>
+            <content>
+              <p>Sec. 09.30.160.   Construction.
+AS 09.30.100
+ 09.30.180 shall be so construed as to effectuate its general purpose to make uniform the law of those states that enact the Uniform Foreign Money-Judgments Recognition Act.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-170">
+            <num>09.30.170</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 09.30.170.   Definitions.
+In
+AS 09.30.100
+ 09.30.180,
+(1) foreign judgment means a judgment of a foreign state granting or denying recovery of a sum of money other than a judgment for taxes, a fine or other penalty, or a judgment for support in matrimonial or family matters;
+(2) foreign state means a governmental unit other than the United States, or a state, district, commonwealth, territory including trust territory, or insular possession thereof.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-180">
+            <num>09.30.180</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 09.30.180.   Short title.
+AS 09.30.100
+ 09.30.180 may be cited as the Uniform Foreign Money-Judgments Recognition Act.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-200">
+            <num>09.30.200</num>
+            <heading>Filing and status of foreign judgments.</heading>
+            <content>
+              <p>Sec. 09.30.200.   Filing and status of foreign judgments.
+A copy of a foreign judgment authenticated in accordance with the Act of Congress or the laws of this state may be filed in the office of the clerk of the court with jurisdiction in this state.  The clerk shall treat the foreign judgment in the same manner as a domestic judgment.  A judgment so filed has the same effect and is subject to the same procedures, defenses, and proceedings for reopening, vacating, or staying as a domestic judgment and may be enforced or satisfied in like manner.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-210">
+            <num>09.30.210</num>
+            <heading>Notice of filing.</heading>
+            <subsection eId="09-30-210__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>At the time of the filing of the foreign judgment, the judgment creditor or the judgment creditor's lawyer shall make and file with the clerk of court an affidavit setting out the name and last known post office address of the judgment debtor, and the judgment creditor.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-30-210__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Promptly upon the filing of the foreign judgment and the affidavit, the clerk shall mail notice of the filing of the foreign judgment to the judgment debtor at the address given and shall make a note of the mailing in the docket.  The notice must include the name and post office address of the judgment creditor and the judgment creditor's lawyer, if any, in this state.  In addition, the judgment creditor may mail a notice of the filing of the judgment to the judgment debtor and may file proof of mailing with the clerk.  Lack of mailing notice of filing by the clerk may not affect the enforcement proceedings if proof of mailing by the judgment creditor has been filed.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-30-210__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>No execution or other process for enforcement of a foreign judgment filed under
+AS 09.30.200
+ 09.30.270 shall issue until 20 days after the date the judgment is filed.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-30-220">
+            <num>09.30.220</num>
+            <heading>Stay.</heading>
+            <subsection eId="09-30-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the judgment debtor shows the court that an appeal from the foreign judgment is pending or will be taken, or that a stay of execution has been granted, the court shall stay enforcement of the foreign judgment until the appeal is concluded, the time for appeal expires, or the stay of execution expires or is vacated, upon proof that the judgment debtor has furnished the security for the satisfaction of the judgment required by the state in which it was rendered.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-30-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the judgment debtor shows the court any ground upon which enforcement of a judgment of the court of this state would be stayed, the court shall stay enforcement of the foreign judgment for an appropriate period, upon requiring the same security for satisfaction of the judgment that is required in this state.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-30-230">
+            <num>09.30.230</num>
+            <heading>Fees.</heading>
+            <content>
+              <p>Sec. 09.30.230.   Fees.
+A person filing a foreign judgment shall pay to the clerk of court the fee prescribed for the filing of an action.  Fees for docketing, transcription, or other enforcement proceedings shall be as provided for domestic judgments.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-240">
+            <num>09.30.240</num>
+            <heading>Optional procedure.</heading>
+            <content>
+              <p>Sec. 09.30.240.   Optional procedure.
+The right of a judgment creditor to bring an action to enforce the judgment instead of proceeding under
+AS 09.30.200
+ 09.30.270 remains unimpaired.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-250">
+            <num>09.30.250</num>
+            <heading>Uniformity of interpretation.</heading>
+            <content>
+              <p>Sec. 09.30.250.   Uniformity of interpretation.
+AS 09.30.200
+ 09.30.270 shall be so interpreted and construed as to effectuate its general purpose to make uniform the law of those states that enact the Uniform Enforcement of Foreign Judgments Act.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-260">
+            <num>09.30.260</num>
+            <heading>Definitions.</heading>
+            <content>
+              <p>Sec. 09.30.260.   Definitions.
+In
+AS 09.30.200
+ 09.30.270 foreign judgment means any judgment, decree, or order of a court of the United States or of any other court which is entitled to full faith and credit in this state.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-270">
+            <num>09.30.270</num>
+            <heading>Short title.</heading>
+            <content>
+              <p>Sec. 09.30.270.   Short title.
+AS 09.30.200
+ 09.30.270 may be cited as the Uniform Enforcement of Foreign Judgments Act.</p>
+            </content>
+          </section>
+          <section eId="sec_09-30-300">
+            <num>09.30.300</num>
+            <heading>Satisfaction of judgment.</heading>
+            <subsection eId="09-30-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Satisfaction of a judgment may be entered upon an execution returned satisfied, or upon an acknowledgment of satisfaction filed with the clerk, which may recite payment of the judgment in full or the acceptance by the judgment creditor of any lesser sum in full satisfaction of the judgment, made in the manner of an acknowledgment of a conveyance of real property by the judgment creditor or assignee of record, or by the attorney for the judgment creditor or assignee unless a revocation of the attorney's authority is filed.  When a judgment is satisfied otherwise than upon an execution, the judgment creditor or the judgment creditor's attorney shall deliver a written acknowledgment of satisfaction of judgment suitable for recordation immediately upon payment in cash or within 10 days after payment if payment is made in any other manner, and, upon motion, the court may compel an acknowledgment of satisfaction or may order the entry of satisfaction to be made without it.  When the state or an authorized officer or agency of the state is the judgment creditor, a written acknowledgment of satisfaction shall be delivered within 15 days after payment in cash or within 30 days after payment if payment is made in any other manner. The entry of satisfaction shall be made upon the civil docket of the court rendering the judgment satisfied.</p>
+              </content>
+            </subsection>
+            <subsection eId="09-30-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A judgment creditor or assignee who, after payment in full of the judgment and after written demand by the judgment debtor, fails without just cause for a period of 30 days to execute and file an acknowledgment of satisfaction with the court is liable to the judgment debtor or the grantees or heirs of the judgment debtor for all damages that may be sustained by reason of that failure and shall also forfeit to the judgment debtor or the grantees or heirs of the judgment debtor the sum of $100.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_09-30-310">
+            <num>09.30.310</num>
+            <heading>Recordation of acknowledgment of satisfaction.</heading>
+            <content>
+              <p>Sec. 09.30.310.   Recordation of acknowledgment of satisfaction.
+If a certified copy of the judgment has been recorded with the recorder of any recording district, as provided in
+AS 09.30.010
+, then the acknowledgment required under
+AS 09.30.300
+must identify the book and page of the official record in which the judgment has been recorded or the serial number assigned to the judgment by the recorder and show the full name of the judgment debtor as it appears upon the judgment recorded.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

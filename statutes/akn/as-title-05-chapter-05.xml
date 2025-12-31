@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-05"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-05"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="5.05"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-05/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-05/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-5/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-5/chapter-05/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_5">
+        <num>5</num>
+        <heading>Amusements and Sports</heading>
+        <chapter eId="title_5__chp_05">
+          <num>05</num>
+          <heading>Athletic Commission and Commissioner of Athletics</heading>
+          <section eId="sec_05-05-010">
+            <num>05.05.010</num>
+            <heading>Creation and duties of athletic commission.</heading>
+            <subsection eId="05-05-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is created an athletic commission within the Department of Commerce, Community, and Economic Development.  The commission consists of four members appointed by the governor.  One member of the commission shall be appointed from each of the four judicial districts.  The commissioners shall be appointed for overlapping four-year terms.  Members of the commission serve at the pleasure of the governor and shall be selected on the basis of their known interest in and knowledge of athletics in the state.</p>
+              </content>
+            </subsection>
+            <subsection eId="05-05-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall act in an advisory capacity to the commissioner of athletics and shall perform other duties assigned to it by the commissioner.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_05-05-020">
+            <num>05.05.020</num>
+            <heading>Commissioner of athletics.</heading>
+            <subsection eId="05-05-020__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The governor shall appoint the commissioner of athletics to serve at the governor's pleasure.  The commissioner shall be selected on the basis of knowledge of and contribution to athletics in the state. The commissioner serves for a period of five years.</p>
+              </content>
+            </subsection>
+            <subsection eId="05-05-020__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The commissioner shall, with the aid and counsel of the commission, adopt regulations governing athletics and athletic programs and contests as the commissioner considers necessary, expedient, and appropriate.  The regulations have the force and effect of law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_05-05-030">
+            <num>05.05.030</num>
+            <heading>Jurisdiction, duties, and powers.</heading>
+            <subsection eId="05-05-030__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>[Repealed, § 35 ch 126 SLA 1994.]</p>
+              </content>
+            </subsection>
+            <subsection eId="05-05-030__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this chapter gives the commissioner or the commission jurisdiction over the athletes or the athletic programs of any elementary or high school or a college or university.</p>
+              </content>
+            </subsection>
+            <subsection eId="05-05-030__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Each member of the commission shall attend and supervise all boxing and wrestling events in the member's area unless an official inspector attends the event under
+AS 05.10.110
+. A member may attend other athletic events in the member's area that the member considers necessary. A member may provide for the attendance of a physician whose fees shall be paid for by the promoter or manager of the event.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_05-05-040">
+            <num>05.05.040</num>
+            <heading>Meetings and compensation of athletic commission.</heading>
+            <content>
+              <p>Sec. 05.05.040.   Meetings and compensation of athletic commission.
+The commission may meet at least once a year at the call of the governor. When called, the members of the commission may, at the election of the governor, receive travel expenses incurred in carrying out the purposes of this chapter. A member may receive the per diem allowance for time spent at meetings allowed by law or by executive order.</p>
+            </content>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

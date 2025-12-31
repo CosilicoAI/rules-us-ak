@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-03"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-03"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="21.03"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-03/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-03/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-21/chapter-03/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-21/chapter-03/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_21">
+        <num>21</num>
+        <heading>Insurance</heading>
+        <chapter eId="title_21__chp_03">
+          <num>03</num>
+          <heading>Scope of Code</heading>
+          <section eId="sec_21-03-010">
+            <num>21.03.010</num>
+            <heading>Insurance regulated.</heading>
+            <subsection eId="21-03-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All persons transacting a business of insurance in this state, or relative to a subject resident, located or to be performed in this state, shall comply with the applicable provisions of this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Foreign and alien insurers doing business as authorized insurers under this title are not subject to
+AS 10.06
+(Alaska Corporations Code).</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-010__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who transacts insurance in this state, or relative to a subject resident, located, or to be performed in this state as or on behalf of a risk retention group or purchasing group formed under and in compliance with 15 U.S.C. 3901  3906 (Liability Risk Retention Act), shall comply with the provisions of this title not preempted by federal law.</p>
+              </content>
+            </subsection>
+          </section>
+          <section eId="sec_21-03-021">
+            <num>21.03.021</num>
+            <heading>Application of title.</heading>
+            <subsection eId="21-03-021__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to the exclusion contained in
+AS 21.03.070
+, this title does not apply to a life insurance or annuity company organized and operated without profit to any private shareholder or individual exclusively for the purpose of aiding and strengthening educational institutions by issuing insurance and annuity contracts only to or for the benefit of the institutions and individuals engaged in the service of these institutions; however, all policies and contracts issued by such an organization must provide for acceptance of service of process within this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-021__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in this title, a person that provides coverage for the cost of medical care in this state is subject to this title unless the person shows that, while providing coverage for medical care, the person is subject to the jurisdiction of another agency of this state or of the federal government by providing the director with the appropriate certificate, license, or other document issued by the other governmental agency that permits or qualifies the person to provide coverage for medical care.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-021__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person described under (b) of this section who is unable to show that the person is subject to the jurisdiction of another governmental agency under (b) of this section and who has not received a certificate of authority under
+AS 21.85</p>
+              </content>
+              <paragraph eId="21-03-021__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is subject to all appropriate provisions of this title regarding the conduct of the person's business; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-021__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>shall submit to an examination by the director to determine the organization and solvency of the person and to determine whether the person complies with this title.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-03-021__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person that advertises, administers, sells, or transacts the coverage of medical care under (b) of this section and is required to submit to an examination by the director under (c)(2) of this section shall advise every purchaser, prospective purchaser, or covered person that the person's coverage may not be regulated under Alaska insurance law and may not be covered by the Alaska Life and Health Insurance Guaranty Association under
+AS 21.79
+.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-021__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>This title does not apply to a service contract offered, issued for delivery, delivered, or renewed in this state. In this subsection, service contract</p>
+              </content>
+              <paragraph eId="21-03-021__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>means a service contract or agreement for a separate or additional consideration, for a specific duration, to
+(A) maintain, service, repair, or replace tangible personal property, or to indemnify for repair, replacement, or maintenance, for an operational or structural failure due to a defect in materials or workmanship or normal wear and tear, with or without additional provision for incidental indemnity payments when service, repair, or replacement is not reasonably or commercially feasible;
+(B) repair, replace, or maintain tangible personal property damaged as a result of power surges or as a result of accidental damage from the handling of property; or
+(C) repair, replace, or maintain household consumer goods, household appliances, and household systems, including damage resulting from operational or structural failure due to a defect in materials or workmanship or normal wear and tear;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-021__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>does not include
+(A) mechanical breakdown insurance;
+(B) a contract that requires an indemnity payment for each incident, and the payment exceeds the purchase price of the property serviced;
+(C) a home warranty; in this subparagraph, home warranty means a warranty that covers the entire home and does not include a warranty limited to a household system or appliance; or
+(D) portable electronics insurance as defined in
+AS 21.36.515
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-03-021__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If an insurer is not required to obtain a certificate of authority in this state under
+AS 21.09.020</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-021__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>This title does not apply to a portable electronics manufacturer's warranty or extended warranty.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-021__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A motor vehicle service contract shall be governed by
+AS 21.59.110
+ 21.59.290 except as expressly provided in this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-021__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A motor vehicle warranty, motor vehicle maintenance agreement, and motor vehicle service contract offered for sale or sold to a person other than a consumer are not insurance and do not have to comply with any provision of this title. In this subsection, motor vehicle maintenance agreement means a contract of limited duration that provides for regular maintenance only.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-021__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>This title does not apply to the solicitation of an agreement or an agreement between a prospective recipient of ambulance, emergency, or fire protection services and a municipality or community-based nonprofit that provides ambulance, emergency, or fire protection services.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-021__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>This title does not apply to a health care sharing ministry. In this subsection, health care sharing ministry means an organization that</p>
+              </content>
+              <paragraph eId="21-03-021__subsec_k__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is described in 26 U.S.C. 501(c)(3) and exempt from taxation under 26 U.S.C. 501(a);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-021__subsec_k__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is faith-based and whose participants share
+(A) a common set of ethical or religious beliefs; and
+(B) medical expenses among participants in accordance with the common set of ethical or religious beliefs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-021__subsec_k__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>coordinates financial sharing of medical expenses among willing participants in the organization according to criteria established by the organization;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-021__subsec_k__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>provides assistance for the financial or medical needs of a participant through contributions from one participant to another;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-021__subsec_k__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>provides the amounts of assistance that participants may contribute without an assumption of risk or promise to pay by the participants or the organization;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-021__subsec_k__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>provides to all participants written monthly statements that list the total dollar amount of qualified needs submitted to the organization by participants for contribution;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-021__subsec_k__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>provides for an annual audit by an independent certified public accountant in accordance with generally accepted accounting principles and makes the annual audit available to the public upon request; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-021__subsec_k__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>provides a written disclaimer on or accompanying all applications and guideline materials distributed by or on behalf of the organization that reads in substance: Notice: The organization coordinating the sharing of medical expenses is not an insurance company, and neither its guidelines nor plan of operation is an insurance policy. Whether anyone chooses to assist you with your medical bills will be totally voluntary because no other participant will be compelled by law to contribute toward your medical bills. Participation in the organization or a subscription to any of its documents should never be considered to be insurance. Regardless of whether you receive a payment for medical expenses or whether this organization continues to operate, you are always personally responsible for the payment of your own medical bills.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-03-025">
+            <num>21.03.025</num>
+            <heading>Direct health care agreements.</heading>
+            <subsection eId="21-03-025__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A health care provider or health care business and a patient or the representative of a patient may enter into a direct health care agreement. Health care services provided under a direct health care agreement are limited to the type of health care services that a primary care provider may provide to a patient. A patient is not eligible to enter into a direct health care agreement under this section if the patient is eligible to receive assistance under
+AS 47.07
+(Medical Assistance for Needy Persons) or
+AS 47.08
+(Assistance for Catastrophic Illness and Chronic or Acute Medical Conditions).</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To be eligible to enter into a direct health care agreement under this section, a health care provider or health care business must</p>
+              </content>
+              <paragraph eId="21-03-025__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>accept new patients who are enrolled in the Medicare program; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>maintain a practice in which 20 percent or more of the patients
+(A) are enrolled in the Medicare program; or
+(B) do not have health insurance.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-03-025__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A direct health care agreement must</p>
+              </content>
+              <paragraph eId="21-03-025__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>describe the health care services that the health care provider or health care business makes available to the patient in exchange for payment of a periodic fee and each location at which the health care services are available;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>specify
+(A) the amount of the periodic fee a patient or the representative of a patient pays in exchange for the health care services that the health care provider or health care business makes available to the patient;
+(B) the period covered by the periodic fee under (A) of this paragraph; and
+(C) additional fees that the health care provider or health care business may charge in addition to the periodic fee, including cancellation fees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>identify and include contact information for a representative of the health care provider or health care business that is responsible for receiving and addressing
+(A) a complaint made by a patient relating to the agreement; and
+(B) a request made by a patient to amend the agreement, including a patient's request to change the name of the representative of the patient or the patient's mailing address, physical address, telephone number, electronic mail address, or other personal information;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>prominently state that the patient is not entitled to the protections under
+AS 21.07
+(Patient Protections Under Health Care Insurance Policies).</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-03-025__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A patient or the representative of a patient may terminate a direct health care agreement in writing within 30 days after entering into the agreement. If a patient or representative terminates an agreement under this subsection, the health care provider or health care business shall, not later than 30 days after the patient or representative terminates the agreement, refund to the patient or representative payments made under the agreement, less payments made for services the health care provider or health care business has already performed that are not included in the periodic fee.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A health care provider or health care business may immediately terminate a direct health care agreement if</p>
+              </content>
+              <paragraph eId="21-03-025__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a patient's behavior threatens the safety of the health care provider, the staff of the health care provider or health care business, or other patients of the health care provider or health care business;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a patient engages in disrespectful, derogatory, or prejudiced behavior that is within the patient's control and the patient does not stop the behavior even after the health care provider or the staff of the health care provider or health care business requests the patient to stop the behavior; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a patient or the representative of a patient breaches the terms of the agreement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-03-025__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A patient or the representative of a patient may immediately terminate a direct health care agreement if a health care provider or a health care business breaches the terms of the agreement.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A health care provider or health care business may not change the periodic fee under the agreement more than once a year and shall provide at least 45 days' written notice of a change in the periodic fee. If a health care provider or health care business increases the amount of the periodic fee, a patient or the representative of a patient may terminate the agreement by providing to the health care provider or health care business written notice of the termination not later than the day before the date on which the change to the periodic fee is scheduled to take effect.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Except as otherwise provided in this section, a health care provider, a health care business, a patient, or the representative of a patient may terminate a direct health care agreement for any reason in writing after at least 30 days' notice.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A health care provider or health care business may charge a termination fee only for termination of an agreement by a patient or the representative of a patient under (d) or (h) of this section. The termination fee may not exceed an amount equal to one month's cost of the periodic fee.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Upon termination of an agreement under (g) or (h) of this section, the patient shall pay the health care provider or health care business the periodic fee, prorated through the date of termination of the agreement, and any additional fees for services the health care provider or health care business has already performed that are not included in the periodic fee.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>A health care provider or health care business may bill a patient or the representative of a patient for the periodic fee only after the end of the period to which the periodic fee applies.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>A patient's employer may pay the periodic fee and additional fees the patient owes a health care provider or health care business under a direct health care agreement. A payment by the employer under this subsection does not constitute engaging in the business of insurance or underwriting in this state, and the employer is not an insurer, a health maintenance organization, a health care insurer, or a medical service corporation by virtue of the payment.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>A direct health care agreement and a health care provider or health care business providing health care services under a direct health care agreement are subject to
+AS 21.36
+(Trade Practices and Frauds) to the extent applicable and when not in conflict with the express provisions of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>A health care provider or health care business may not decline to enter into a direct health care agreement with a new patient or terminate a direct health care agreement with an existing patient solely because of the patient's race, religion, color, national origin, age, sex, physical or mental disability, marital status, change in marital status, pregnancy, parenthood, or any other characteristic of a class of persons protected by a state law that prohibits discrimination.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>A health care provider or health care business may decline to enter into a direct health care agreement with a new patient if the health care provider or health care business</p>
+              </content>
+              <paragraph eId="21-03-025__subsec_o__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is unable to provide to the patient the health care services the patient requires; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_o__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>does not have the capacity to accept new patients.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-03-025__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>A health care provider or health care business may terminate a direct health care agreement with an existing patient based on the patient's health status only if the health care provider is unable to provide to the patient the health care services the patient requires or in accordance with this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-025__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>A health care provider or health care business may not make, publish, disseminate, circulate, broadcast, or place before the public, or cause, directly or indirectly, to be made, published, disseminated, circulated, broadcast, or placed before the public, in a newspaper, magazine, or other publication, or in the form of a notice, circular, pamphlet, letter, or poster, or over a radio or television station, or in any other way, an advertisement, announcement, or statement containing an assertion, representation, or statement that is untrue, deceptive, or misleading with respect to</p>
+              </content>
+              <paragraph eId="21-03-025__subsec_q__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the terms of or the benefits or advantages provided by a direct health care agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_q__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the characterization of a direct health care agreement, including the characterization of a direct health care agreement as health care insurance or an alternative to health care insurance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_q__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the business of a direct health care agreement. (r) In this section,</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-03-025__subsec_r">
+              <num>(r)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-03-025__subsec_r__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>direct health care agreement means a written agreement between a health care provider or health care business and a patient or the representative of a patient to provide health care services in exchange for payment of a periodic fee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_r__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>health care business means a business licensed by the state that employs health care providers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_r__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>health care insurance has the meaning given in
+AS 21.12.050</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_r__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>health care insurer has the meaning given in
+AS 21.54.500
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_r__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>health care provider has the meaning given in
+AS 21.07.250
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_r__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>health care service
+(A) means a health care service or procedure that is provided in person or remotely by telemedicine or other means by a health care provider for the care, prevention, diagnosis, or treatment of a physical or mental illness, health condition, disease, or injury;
+(B) does not include emergency services as defined in
+AS 21.07.250
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_r__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>health insurance has the meaning given in
+AS 21.12.050
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_r__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>health maintenance organization has the meaning given in
+AS 21.86.900
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_r__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>medical service corporation has the meaning given in
+AS 21.87.330
+;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-025__subsec_r__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>primary care provider has the meaning given in
+AS 21.07.250
+.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+          <section eId="sec_21-03-060">
+            <num>21.03.060</num>
+            <heading>Preemption.</heading>
+            <content>
+              <p>Sec. 21.03.060.   Preemption.
+The state hereby preempts the field of regulating insurers and their managing general agents, insurance producers, and representatives. All political subdivisions of the state, including home rule boroughs or cities, are prohibited from requiring of an insurer, managing general agent, insurance producer, or representative regulated under this title an authorization, permit, or registration of any kind for conducting transactions lawful under the authority granted by the state under this title.</p>
+            </content>
+          </section>
+          <section eId="sec_21-03-070">
+            <num>21.03.070</num>
+            <heading>Exemption for qualified charitable gift annuities.</heading>
+            <subsection eId="21-03-070__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding any other provision of this title, the issuance of a qualified charitable gift annuity does not constitute engaging in the business of insurance in this state, and, except as provided by this section, is exempt from regulation by the division under this title.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-070__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When entering into an agreement for a qualified charitable gift annuity, the charitable organization shall set out in writing in the agreement that</p>
+              </content>
+              <paragraph eId="21-03-070__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a qualified charitable gift annuity is not an insurance policy in this state, is not subject to regulation by the division, and is not protected by the Alaska Life and Health Insurance Guaranty Association established under
+AS 21.79.040
+or any other association that guarantees payment under a policy of insurance; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-070__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the state does not in any way approve or endorse the annuity.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-03-070__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The notice required by (b) of this section must be in bold type and be contained in a separate paragraph, and the print size of the notice must be larger than the print size generally used in the annuity agreement.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-070__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A charitable organization that issues its first qualified charitable gift annuity on or after October 1, 2001 shall notify the division in writing within 90 days after the issuance. The notice</p>
+              </content>
+              <paragraph eId="21-03-070__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>shall be signed by an officer or director of the charitable organization;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-070__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>must provide the name and address of the charitable organization; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-070__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>must certify that
+(A) the charitable organization is a charitable organization; and
+(B) the charitable gift annuities issued by the charitable organization are qualified charitable gift annuities.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-03-070__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Except for the information required by (d) of this section, a charitable organization is not required to submit information to the division unless the division determines additional information is necessary to determine an appropriate fine under (g) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-070__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If a charitable organization fails to comply with the notice requirements under (b), (c), or (d) of this section, the qualified charitable gift annuity issued by the charitable organization still receives the exemption for a qualified charitable gift annuity provided by (a) of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-070__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The division may enforce performance with the notice requirements under (b), (c), or (d) of this section by sending a letter by certified mail, return receipt requested, demanding that the charitable organization comply with the requirements. The division may impose a civil penalty on the charitable organization in an amount not to exceed $1,000 for each qualified charitable gift annuity issued by the charitable organization until the charitable organization complies with the requirements.</p>
+              </content>
+            </subsection>
+            <subsection eId="21-03-070__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In this section,</p>
+              </content>
+              <paragraph eId="21-03-070__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>charitable gift annuity means a transfer of money or other property by a person to a charitable organization in return for the charitable organization's providing an annuity to the person that is payable over one or two lives and under which the
+(A) actuarial value of the annuity is less than the value of the money or other property transferred; and
+(B) difference in value constitutes a charitable deduction for federal income tax purposes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-070__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>charitable organization means a person identified
+(A) in the definition of charitable contribution in 26 U.S.C. 170(c) as a person to whom or for whose use a contribution or gift is made; or
+(B) as an exempt organization under 26 U.S.C. 501(c)(3);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="21-03-070__subsec_h__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>qualified charitable gift annuity means an annuity described in 26 U.S.C. 501(m)(5) and 26 U.S.C. 514(c)(5), if the annuity is issued by a charitable organization that on the date of the issuance has
+(A) a minimum of</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="21-03-070__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>$300,000 in unrestricted cash, in cash equivalents, or in publicly traded securities, exclusive of the assets funding the annuity; and
+(ii) three years of continuous operation or is a successor or affiliate of a charitable organization that has been in continuous operation for at least three years; or
+(B) a guarantee that the obligations of the annuity contract will be met by a charitable organization that meets the requirements of (A) of this paragraph.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>

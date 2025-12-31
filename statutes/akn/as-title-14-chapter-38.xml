@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="AS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-38"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-38"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#alaska-legislature"/>
+          <FRBRcountry value="us-ak"/>
+          <FRBRnumber value="14.38"/>
+          <FRBRname value="AS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-38/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-38/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ak/act/as/title-14/chapter-38/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ak/act/as/title-14/chapter-38/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="alaska-legislature" href="https://www.akleg.gov" showAs="Alaska State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <title eId="title_14">
+        <num>14</num>
+        <heading>Education, Libraries, and Museums</heading>
+        <chapter eId="title_14__chp_38">
+          <num>38</num>
+          <heading>Head Start</heading>
+          <section eId="sec_14-38-010">
+            <num>14.38.010</num>
+            <heading>Operation of Head Start programs; grants.</heading>
+            <subsection eId="14-38-010__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Education and Early Development shall operate the head start funding program governed by 42 U.S.C. 9835.</p>
+              </content>
+            </subsection>
+            <subsection eId="14-38-010__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall make a grant to each eligible head start agency operating a head start program in the state under 42 U.S.C. 9831  9852c in an amount equal to the amount of the head start program's nonfederal contributions required under 42 U.S.C. 9835. If the amount appropriated to the department is insufficient to meet the amount authorized for grants under this subsection, the department shall distribute the grants pro rata to each eligible head start agency.</p>
+              </content>
+            </subsection>
+          </section>
+        </chapter>
+      </title>
+    </body>
+  </act>
+</akomaNtoso>
